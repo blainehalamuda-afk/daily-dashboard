@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Dashboard — Monday, April 27, 2026</title>
+  <style>
+    /* ── Reset & Base ───────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0b1120;
+      --surface:   #131d2e;
+      --card:      #1a2740;
+      --border:    #253554;
+      --text:      #e2e8f0;
+      --muted:     #8899b5;
+      --dim:       #526280;
+
+      --blue:      #3b82f6;
+      --blue-dim:  #1e3a5f;
+      --green:     #22c55e;
+      --green-dim: #14532d;
+      --red:       #ef4444;
+      --red-dim:   #7f1d1d;
+      --yellow:    #f59e0b;
+      --purple:    #a855f7;
+      --purple-dim:#3b0764;
+      --indigo:    #6366f1;
+      --indigo-dim:#1e1b4b;
+      --teal:      #14b8a6;
+      --teal-dim:  #134e4a;
+      --rose:      #f43f5e;
+      --rose-dim:  #4c0519;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ─────────────────────────────────────────── */
+    .page { max-width: 900px; margin: 0 auto; padding: 16px 12px 48px; }
+
+    /* ── Header ─────────────────────────────────────────── */
+    .header {
+      text-align: center;
+      padding: 28px 16px 20px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid var(--border);
+    }
+    .header h1 {
+      font-size: 1.9rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #60a5fa 0%, #a78bfa 50%, #34d399 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .header .date-line {
+      font-size: 1rem;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+    .header .updated {
+      font-size: 0.78rem;
+      color: var(--dim);
+      margin-top: 2px;
+    }
+
+    /* ── Nav pills ──────────────────────────────────────── */
+    .nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-bottom: 24px;
+    }
+    .nav a {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 5px 14px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      transition: color .15s, border-color .15s;
+    }
+    .nav a:hover { color: var(--text); border-color: var(--blue); text-decoration: none; }
+
+    /* ── Card ───────────────────────────────────────────── */
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 16px;
+      overflow: hidden;
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .card-icon {
+      font-size: 1.4rem;
+      line-height: 1;
+    }
+    .card-title {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+    }
+    .card-subtitle {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    /* ─── Section accent colours ────────────────────────── */
+    .accent-blue   .card-title { color: var(--blue); }
+    .accent-green  .card-title { color: var(--green); }
+    .accent-yellow .card-title { color: var(--yellow); }
+    .accent-purple .card-title { color: var(--purple); }
+    .accent-indigo .card-title { color: var(--indigo); }
+    .accent-rose   .card-title { color: var(--rose); }
+    .accent-teal   .card-title { color: var(--teal); }
+
+    /* ── Weather ────────────────────────────────────────── */
+    .weather-main {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    .weather-icon { font-size: 3.5rem; line-height: 1; }
+    .weather-temp {
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1;
+      color: var(--blue);
+    }
+    .weather-desc {
+      font-size: 1rem;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+    .weather-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+    .weather-meta span {
+      font-size: 0.82rem;
+      color: var(--muted);
+      background: var(--surface);
+      padding: 3px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+    }
+    .forecast {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+    }
+    .forecast-day {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 8px;
+      text-align: center;
+      font-size: 0.8rem;
+    }
+    .forecast-day .f-icon { font-size: 1.4rem; margin: 4px 0; }
+    .forecast-day .f-label { color: var(--muted); font-size: 0.75rem; }
+    .forecast-day .f-hi { color: var(--text); font-weight: 600; }
+    .forecast-day .f-lo { color: var(--dim); }
+
+    /* ── Markets ────────────────────────────────────────── */
+    .stock-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 10px;
+    }
+    .stock-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px;
+      transition: border-color .15s;
+    }
+    .stock-card:hover { border-color: var(--blue); }
+    .stock-symbol {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--muted);
+      letter-spacing: 0.5px;
+    }
+    .stock-name {
+      font-size: 0.72rem;
+      color: var(--dim);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin-bottom: 6px;
+    }
+    .stock-price {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .stock-change {
+      font-size: 0.78rem;
+      font-weight: 600;
+      margin-top: 2px;
+    }
+    .up   { color: var(--green); }
+    .down { color: var(--red); }
+
+    /* ── News ───────────────────────────────────────────── */
+    .news-item {
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .news-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .news-item:first-child { padding-top: 0; }
+    .news-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+    }
+    .news-category {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      background: var(--blue-dim);
+      color: var(--blue);
+      padding: 2px 8px;
+      border-radius: 999px;
+    }
+    .news-source { font-size: 0.75rem; color: var(--dim); }
+    .news-time   { font-size: 0.72rem; color: var(--dim); margin-left: auto; }
+    .news-title {
+      font-size: 0.92rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.4;
+    }
+    .news-title a { color: inherit; }
+    .news-title a:hover { color: var(--blue); text-decoration: none; }
+    .news-desc { font-size: 0.8rem; color: var(--muted); margin-top: 3px; }
+
+    /* ── Sports ─────────────────────────────────────────── */
+    .match-list { margin-bottom: 20px; }
+    .match-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.88rem;
+    }
+    .match-row:last-child { border-bottom: none; }
+    .match-row.highlight { background: rgba(34,197,94,.06); border-radius: 8px; padding: 10px 8px; }
+    .team { flex: 1; font-weight: 500; }
+    .team.right { text-align: right; }
+    .score {
+      min-width: 52px;
+      text-align: center;
+      font-weight: 700;
+      font-size: 1rem;
+    }
+    .score.finished { color: var(--text); }
+    .score.scheduled { color: var(--dim); font-size: 0.8rem; font-weight: 400; }
+    .status-badge {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+    .status-FT         { background: var(--green-dim);  color: var(--green); }
+    .status-IN_PLAY    { background: #7f1d01; color: #fb923c; }
+    .status-SCHEDULED  { background: var(--surface);    color: var(--dim); border: 1px solid var(--border); }
+    .status-TIMED      { background: var(--surface);    color: var(--dim); border: 1px solid var(--border); }
+    .status-POSTPONED  { background: var(--red-dim);    color: var(--red); }
+
+    .standings-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+    .standings-table th {
+      text-align: left;
+      color: var(--dim);
+      font-size: 0.7rem;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      padding: 4px 6px;
+      border-bottom: 1px solid var(--border);
+    }
+    .standings-table th:not(:first-child):not(:nth-child(2)) { text-align: center; }
+    .standings-table td { padding: 7px 6px; border-bottom: 1px solid var(--border); }
+    .standings-table tr:last-child td { border-bottom: none; }
+    .standings-table td:not(:first-child):not(:nth-child(2)) { text-align: center; color: var(--muted); }
+    .standings-table tr.highlight td { background: rgba(34,197,94,.07); }
+    .pos-num { color: var(--dim); font-size: 0.8rem; }
+    .pts { font-weight: 700; color: var(--text) !important; }
+
+    /* ── CFA / FRM Question ──────────────────────────────── */
+    .exam-badge {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 999px;
+      margin-bottom: 12px;
+    }
+    .exam-badge.cfa { background: var(--purple-dim); color: var(--purple); }
+    .exam-badge.frm { background: var(--indigo-dim); color: var(--indigo); }
+
+    .question-topic {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-bottom: 8px;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
+    .question-text {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin-bottom: 16px;
+      color: var(--text);
+    }
+    .options-list { list-style: none; display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px; }
+    .option {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 14px;
+      font-size: 0.88rem;
+      cursor: default;
+    }
+    .option-letter {
+      font-weight: 700;
+      color: var(--purple);
+      min-width: 18px;
+    }
+
+    details.answer-reveal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    details.answer-reveal summary {
+      padding: 10px 14px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--purple);
+      cursor: pointer;
+      user-select: none;
+      list-style: none;
+    }
+    details.answer-reveal summary::-webkit-details-marker { display: none; }
+    details.answer-reveal summary::before { content: "▶  "; font-size: 0.7rem; }
+    details.answer-reveal[open] summary::before { content: "▼  "; }
+    .answer-body {
+      padding: 4px 14px 14px;
+      border-top: 1px solid var(--border);
+      font-size: 0.88rem;
+    }
+    .correct-label {
+      display: inline-block;
+      background: var(--green-dim);
+      color: var(--green);
+      font-weight: 700;
+      font-size: 0.78rem;
+      padding: 2px 10px;
+      border-radius: 999px;
+      margin-bottom: 8px;
+    }
+    .explanation { color: var(--muted); line-height: 1.65; }
+
+    /* ── Finance Deep-Dive ───────────────────────────────── */
+    .topic-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .topic-subtitle {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+    .topic-body p {
+      font-size: 0.9rem;
+      color: var(--muted);
+      line-height: 1.75;
+      margin-bottom: 12px;
+    }
+    .key-takeaways { margin-top: 16px; }
+    .key-takeaways h4 {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: var(--indigo);
+      margin-bottom: 8px;
+    }
+    .takeaway {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.88rem;
+      color: var(--text);
+    }
+    .takeaway:last-child { border-bottom: none; }
+    .takeaway::before { content: "→"; color: var(--indigo); font-weight: 700; flex-shrink: 0; }
+
+    /* ── Japanese Lesson ────────────────────────────────── */
+    .jp-word {
+      font-size: 2.6rem;
+      font-weight: 700;
+      color: var(--rose);
+      line-height: 1;
+      margin-bottom: 2px;
+    }
+    .jp-reading {
+      font-size: 0.88rem;
+      color: var(--muted);
+      font-style: italic;
+      margin-bottom: 4px;
+    }
+    .jp-meaning {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .jp-pos {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      background: var(--rose-dim);
+      color: var(--rose);
+      padding: 2px 8px;
+      border-radius: 999px;
+      margin-bottom: 16px;
+    }
+    .jp-example-box {
+      background: var(--surface);
+      border-left: 3px solid var(--rose);
+      border-radius: 0 10px 10px 0;
+      padding: 12px 14px;
+      margin-bottom: 14px;
+    }
+    .jp-example-jp    { font-size: 1rem; font-weight: 500; color: var(--text); margin-bottom: 2px; }
+    .jp-example-roma  { font-size: 0.82rem; font-style: italic; color: var(--muted); }
+    .jp-example-en    { font-size: 0.82rem; color: var(--dim); margin-top: 2px; }
+
+    .grammar-box {
+      background: var(--rose-dim);
+      border-radius: 10px;
+      padding: 12px 14px;
+      margin-bottom: 12px;
+    }
+    .grammar-point { font-size: 0.88rem; font-weight: 700; color: var(--rose); margin-bottom: 4px; }
+    .grammar-explanation { font-size: 0.82rem; color: #fca5a5; line-height: 1.6; }
+
+    .memory-tip {
+      font-size: 0.82rem;
+      color: var(--muted);
+      background: var(--surface);
+      border: 1px dashed var(--border);
+      border-radius: 10px;
+      padding: 10px 14px;
+    }
+    .memory-tip::before { content: "Tip: "; font-weight: 700; color: var(--yellow); }
+
+    /* ── Error state ────────────────────────────────────── */
+    .error-note {
+      font-size: 0.82rem;
+      color: var(--red);
+      background: var(--red-dim);
+      border-radius: 8px;
+      padding: 10px 14px;
+    }
+
+    /* ── Footer ─────────────────────────────────────────── */
+    .footer {
+      text-align: center;
+      font-size: 0.75rem;
+      color: var(--dim);
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+
+    /* ── Responsive tweaks ──────────────────────────────── */
+    @media (max-width: 480px) {
+      .header h1 { font-size: 1.5rem; }
+      .weather-temp { font-size: 2.4rem; }
+      .stock-grid { grid-template-columns: repeat(2, 1fr); }
+      .jp-word { font-size: 2rem; }
+    }
+  </style>
+</head>
+
+<body>
+<div class="page">
+
+  <!-- ── Header ─────────────────────────────────────── -->
+  <header class="header">
+    <h1>Daily Dashboard</h1>
+    <p class="date-line">Monday, April 27, 2026</p>
+    <p class="updated">Last updated 5:49 PM UTC</p>
+  </header>
+
+  <!-- ── Nav ────────────────────────────────────────── -->
+  <nav class="nav">
+    <a href="#weather">Weather</a>
+    <a href="#markets">Markets</a>
+    <a href="#news">News</a>
+    <a href="#sports">Sports</a>
+    <a href="#cfa-frm">CFA / FRM</a>
+    <a href="#finance">Finance</a>
+    <a href="#japanese">Japanese</a>
+  </nav>
+
+  <!-- ══════════════ WEATHER ══════════════ -->
+  <section id="weather" class="card accent-blue">
+    <div class="card-header">
+      <span class="card-icon">🌤️</span>
+      <div>
+        <div class="card-title">Weather</div>
+        <div class="card-subtitle">Charlotte</div>
+      </div>
+    </div>
+
+    
+      <div class="weather-main">
+        <span class="weather-icon">☀️</span>
+        <div>
+          <div class="weather-temp">69°F</div>
+          <div class="weather-desc">Clear Sky</div>
+        </div>
+      </div>
+      <div class="weather-meta">
+        <span>Feels like 68°F</span>
+        <span>H: 71° / L: 66°</span>
+        <span>Humidity 52%</span>
+        <span>Wind 1 mph</span>
+      </div>
+      
+      <div class="forecast">
+        
+        <div class="forecast-day">
+          <div class="f-label">Tue</div>
+          <div class="f-icon">☁️</div>
+          <div class="f-hi">56°</div>
+          <div class="f-lo">56°</div>
+        </div>
+        
+        <div class="forecast-day">
+          <div class="f-label">Wed</div>
+          <div class="f-icon">🌧️</div>
+          <div class="f-hi">58°</div>
+          <div class="f-lo">58°</div>
+        </div>
+        
+        <div class="forecast-day">
+          <div class="f-label">Thu</div>
+          <div class="f-icon">☁️</div>
+          <div class="f-hi">59°</div>
+          <div class="f-lo">59°</div>
+        </div>
+        
+      </div>
+      
+    
+  </section>
+
+  <!-- ══════════════ MARKETS ══════════════ -->
+  <section id="markets" class="card accent-green">
+    <div class="card-header">
+      <span class="card-icon">📈</span>
+      <div>
+        <div class="card-title">Markets</div>
+        <div class="card-subtitle">Stocks & Crypto Watchlist</div>
+      </div>
+    </div>
+
+    
+      <div class="stock-grid">
+        
+          
+          <div class="stock-card">
+            <div class="stock-symbol">SPY</div>
+            <div class="stock-name">S&amp;P 500 ETF</div>
+            <div class="stock-price">
+              
+                $714.89
+              
+            </div>
+            <div class="stock-change up">
+              +0.95
+              (+0.13%)
+            </div>
+          </div>
+          
+        
+          
+          <div class="stock-card">
+            <div class="stock-symbol">AAPL</div>
+            <div class="stock-name">Apple</div>
+            <div class="stock-price">
+              
+                $266.47
+              
+            </div>
+            <div class="stock-change down">
+              -4.59
+              (-1.69%)
+            </div>
+          </div>
+          
+        
+          
+          <div class="stock-card">
+            <div class="stock-symbol">NVDA</div>
+            <div class="stock-name">NVIDIA</div>
+            <div class="stock-price">
+              
+                $215.05
+              
+            </div>
+            <div class="stock-change up">
+              +6.78
+              (+3.26%)
+            </div>
+          </div>
+          
+        
+          
+          <div class="stock-card">
+            <div class="stock-symbol">TSLA</div>
+            <div class="stock-name">Tesla</div>
+            <div class="stock-price">
+              
+                $378.11
+              
+            </div>
+            <div class="stock-change up">
+              +1.81
+              (+0.48%)
+            </div>
+          </div>
+          
+        
+          
+          <div class="stock-card">
+            <div class="stock-symbol">BTC</div>
+            <div class="stock-name">Bitcoin</div>
+            <div class="stock-price">
+              
+                $76,819.36
+              
+            </div>
+            <div class="stock-change down">
+              -1228.13
+              (-1.57%)
+            </div>
+          </div>
+          
+        
+          
+          <div class="stock-card">
+            <div class="stock-symbol">ETH</div>
+            <div class="stock-name">Ethereum</div>
+            <div class="stock-price">
+              
+                $2,290.63
+              
+            </div>
+            <div class="stock-change down">
+              -58.25
+              (-2.48%)
+            </div>
+          </div>
+          
+        
+      </div>
+    
+  </section>
+
+  <!-- ══════════════ NEWS ══════════════ -->
+  <section id="news" class="card accent-yellow">
+    <div class="card-header">
+      <span class="card-icon">📰</span>
+      <div>
+        <div class="card-title">Top Headlines</div>
+        <div class="card-subtitle">Business · Tech · General</div>
+      </div>
+    </div>
+
+    
+      
+      <div class="news-item">
+        <div class="news-meta">
+          <span class="news-category">Business</span>
+          <span class="news-source">Teslarati</span>
+          <span class="news-time">5:55 PM UTC</span>
+        </div>
+        <div class="news-title">
+          <a href="https://www.teslarati.com/tesla-launches-solution-end-supercharger-fights-once-for-all/" target="_blank" rel="noopener">Tesla launches solution to end Supercharger fights once and for all - Teslarati</a>
+        </div>
+        
+        <div class="news-desc">Tesla is launching its solution to end Supercharger fights once and for all, eliminating any confusion on who is to charge next at a congested location. Last year, a notable incident at a Tesla Superc</div>
+        
+      </div>
+      
+      <div class="news-item">
+        <div class="news-meta">
+          <span class="news-category">Business</span>
+          <span class="news-source">The Washington Post</span>
+          <span class="news-time">5:00 PM UTC</span>
+        </div>
+        <div class="news-title">
+          <a href="https://www.washingtonpost.com/nation/2026/04/26/archbald-pennsylvania-data-centers/" target="_blank" rel="noopener">A town of 7,000 planned so many data centers, it’s like adding 51 Walmarts - The Washington Post</a>
+        </div>
+        
+        <div class="news-desc">Developers plan to build six sprawling data center campuses in Archbald, Pennsylvania, covering about 14 percent of the town’s land. Residents are fighting back.</div>
+        
+      </div>
+      
+      <div class="news-item">
+        <div class="news-meta">
+          <span class="news-category">Business</span>
+          <span class="news-source">TechCrunch</span>
+          <span class="news-time">3:30 PM UTC</span>
+        </div>
+        <div class="news-title">
+          <a href="https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/" target="_blank" rel="noopener">To buy this Bay Area home, you’ll need Anthropic equity - TechCrunch</a>
+        </div>
+        
+        <div class="news-desc">Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.</div>
+        
+      </div>
+      
+      <div class="news-item">
+        <div class="news-meta">
+          <span class="news-category">Technology</span>
+          <span class="news-source">Phoronix</span>
+          <span class="news-time">4:50 PM UTC</span>
+        </div>
+        <div class="news-title">
+          <a href="https://www.phoronix.com/news/CachyOS-April-2026" target="_blank" rel="noopener">CachyOS Introduces New Default GUI Package Manager, Kyber For NVMe I/O Scheduler - Phoronix</a>
+        </div>
+        
+        <div class="news-desc">The April 2026 ISO refresh of the Arch Linux based CachyOS is now available with a variety of refinements, new hardware support, and other polishing.</div>
+        
+      </div>
+      
+      <div class="news-item">
+        <div class="news-meta">
+          <span class="news-category">Technology</span>
+          <span class="news-source">Gizmodo.com</span>
+          <span class="news-time">4:30 PM UTC</span>
+        </div>
+        <div class="news-title">
+          <a href="https://gizmodo.com/the-first-look-at-alien-isolation-2-calls-you-back-for-more-2000750960" target="_blank" rel="noopener">The First Look at ‘Alien: Isolation 2’ Calls You Back for More - Gizmodo</a>
+        </div>
+        
+        <div class="news-desc">You&#39;ll probably be scared to death in &#39;Alien: Isolation 2,&#39; but at least there&#39;ll be payphones for you to stop and catch your breath.</div>
+        
+      </div>
+      
+      <div class="news-item">
+        <div class="news-meta">
+          <span class="news-category">Technology</span>
+          <span class="news-source">9to5google.com</span>
+          <span class="news-time">4:00 PM UTC</span>
+        </div>
+        <div class="news-title">
+          <a href="http://9to5google.com/2026/04/26/google-pixel-voice-to-text-android-app/" target="_blank" rel="noopener">Google Pixel ruined voice typing on every other phone for me, but the fix is in sight - 9to5Google</a>
+        </div>
+        
+        <div class="news-desc">Every time I use a Google Pixel phone, voice-to-text on every other Android phone is ruined for me, but this app fixes it.</div>
+        
+      </div>
+      
+      <div class="news-item">
+        <div class="news-meta">
+          <span class="news-category">General</span>
+          <span class="news-source">Associated Press</span>
+          <span class="news-time">5:24 PM UTC</span>
+        </div>
+        <div class="news-title">
+          <a href="https://apnews.com/article/mali-attack-tuareg-separatists-jnim-a945998cb00044e8c52db0362baaed10" target="_blank" rel="noopener">Mali troops and Russian mercenaries withdraw from Kidal after coordinated rebel attacks - AP News</a>
+        </div>
+        
+        <div class="news-desc">Malian Minister of Defense Gen. Sadio Camara has been killed in an attack as jihadi and rebel forces seized towns and military bases across the country. A military officer and two other sources confir</div>
+        
+      </div>
+      
+      <div class="news-item">
+        <div class="news-meta">
+          <span class="news-category">General</span>
+          <span class="news-source">HarpersBAZAAR.com</span>
+          <span class="news-time">4:36 PM UTC</span>
+        </div>
+        <div class="news-title">
+          <a href="https://www.harpersbazaar.com/celebrity/latest/a71130167/sydney-sweeney-surprise-appearance-stagecoach-festival-2026/" target="_blank" rel="noopener">Sydney Sweeney Makes a Surprise Panty-Tossing Appearance at Diplo’s Honky-Tonk - Harper&#39;s BAZAAR</a>
+        </div>
+        
+        <div class="news-desc">During Stagecoach Festival 2026, Sydney Sweeney jumps on stage with Diplo to hand out her Syrn lingerie.</div>
+        
+      </div>
+      
+    
+  </section>
+
+  <!-- ══════════════ SPORTS ══════════════ -->
+  <section id="sports" class="card accent-teal">
+    <div class="card-header">
+      <span class="card-icon">⚽</span>
+      <div>
+        <div class="card-title">Premier League</div>
+        <div class="card-subtitle">Scores & Standings</div>
+      </div>
+    </div>
+
+    
+
+      
+      <div class="match-list">
+        
+        <div class="match-row ">
+          <span class="team">Man United</span>
+          <span class="score scheduled">
+            
+              7:00 PM UTC
+            
+          </span>
+          <span class="team right">Brentford</span>
+          <span class="status-badge status-TIMED">
+            7:00 PM UTC
+            
+          </span>
+        </div>
+        
+      </div>
+      
+
+      
+      <h4 style="font-size:.7rem;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--teal);margin-bottom:8px;">Top 6 Standings</h4>
+      <table class="standings-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Team</th>
+            <th>P</th>
+            <th>W</th>
+            <th>D</th>
+            <th>L</th>
+            <th>GD</th>
+            <th>Pts</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+          <tr class="">
+            <td class="pos-num">1</td>
+            <td>Arsenal</td>
+            <td>34</td>
+            <td>22</td>
+            <td>7</td>
+            <td>5</td>
+            <td>38</td>
+            <td class="pts">73</td>
+          </tr>
+          
+          <tr class="">
+            <td class="pos-num">2</td>
+            <td>Man City</td>
+            <td>33</td>
+            <td>21</td>
+            <td>7</td>
+            <td>5</td>
+            <td>37</td>
+            <td class="pts">70</td>
+          </tr>
+          
+          <tr class="">
+            <td class="pos-num">3</td>
+            <td>Man United</td>
+            <td>33</td>
+            <td>16</td>
+            <td>10</td>
+            <td>7</td>
+            <td>13</td>
+            <td class="pts">58</td>
+          </tr>
+          
+          <tr class="">
+            <td class="pos-num">4</td>
+            <td>Liverpool</td>
+            <td>34</td>
+            <td>17</td>
+            <td>7</td>
+            <td>10</td>
+            <td>13</td>
+            <td class="pts">58</td>
+          </tr>
+          
+          <tr class="">
+            <td class="pos-num">5</td>
+            <td>Aston Villa</td>
+            <td>34</td>
+            <td>17</td>
+            <td>7</td>
+            <td>10</td>
+            <td>5</td>
+            <td class="pts">58</td>
+          </tr>
+          
+          <tr class="">
+            <td class="pos-num">6</td>
+            <td>Brighton Hove</td>
+            <td>34</td>
+            <td>13</td>
+            <td>11</td>
+            <td>10</td>
+            <td>9</td>
+            <td class="pts">50</td>
+          </tr>
+          
+        </tbody>
+      </table>
+      
+
+    
+  </section>
+
+  <!-- ══════════════ CFA / FRM ══════════════ -->
+  <section id="cfa-frm" class="card accent-purple">
+    <div class="card-header">
+      <span class="card-icon">📚</span>
+      <div>
+        <div class="card-title">CFA / FRM Daily Question</div>
+        <div class="card-subtitle">Practice one question. Think before revealing the answer.</div>
+      </div>
+    </div>
+
+    
+      
+      <span class="exam-badge cfa">CFA Level 1</span>
+      <div class="question-topic">Topic: Fixed Income</div>
+      <div class="question-text">A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is currently priced at $1,074.39, implying a yield-to-maturity of 5%. If the bond&#39;s yield instantaneously rises to 6%, which of the following best explains why the price change will be smaller in magnitude than if the yield had instead fallen by 1% to 4%?</div>
+      <ul class="options-list">
+        
+        <li class="option">
+          <span class="option-letter">A.</span>
+          <span>Positive convexity causes price increases from yield declines to exceed price decreases from equivalent yield increases.</span>
+        </li>
+        
+        <li class="option">
+          <span class="option-letter">B.</span>
+          <span>The bond&#39;s modified duration increases as yields rise, amplifying losses on the downside.</span>
+        </li>
+        
+        <li class="option">
+          <span class="option-letter">C.</span>
+          <span>Negative convexity causes the price-yield relationship to become linear at higher yield levels.</span>
+        </li>
+        
+        <li class="option">
+          <span class="option-letter">D.</span>
+          <span>Coupon reinvestment risk offsets capital gains when yields fall, making the net price change symmetric.</span>
+        </li>
+        
+      </ul>
+      <details class="answer-reveal">
+        <summary>Reveal Answer &amp; Explanation</summary>
+        <div class="answer-body">
+          <div class="correct-label">Correct: A</div>
+          <div class="explanation">For an option-free bond, the price-yield relationship is convex, meaning the curve bows toward the origin. This positive convexity implies that for equal-sized yield changes, the price gain from a yield decrease is always larger than the price loss from a yield increase. Duration provides a linear approximation of price sensitivity, but convexity captures the curvature that makes the relationship asymmetric. Reinvestment risk and changes in modified duration are secondary effects and do not directly explain this asymmetry.</div>
+        </div>
+      </details>
+    
+  </section>
+
+  <!-- ══════════════ FINANCE DEEP-DIVE ══════════════ -->
+  <section id="finance" class="card accent-indigo">
+    <div class="card-header">
+      <span class="card-icon">💼</span>
+      <div>
+        <div class="card-title">Finance Deep-Dive</div>
+        <div class="card-subtitle">Today's high-finance topic</div>
+      </div>
+    </div>
+
+    
+      
+      <div class="topic-title">Basis Risk: The Hidden Hedge Imperfection</div>
+      <div class="topic-subtitle">Why hedges almost never work perfectly, and what that means for risk managers.</div>
+      <div class="topic-body">
+        
+        <p>Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the price of the asset being hedged. In theory, a perfect hedge eliminates all price risk by taking an equal and opposite position in a correlated instrument. In practice, the &#39;basis&#39; — defined as the spot price of the asset minus the futures price of the hedging contract — fluctuates over time, leaving residual risk even in carefully constructed hedges. This imperfection is not a flaw in the hedger&#39;s execution; it is an inherent feature of using standardized derivatives to hedge non-standardized exposures.</p>
+        
+        <p>Basis risk became painfully visible during the 2008 financial crisis, when correlations between mortgage-backed securities and the credit default swaps used to hedge them broke down sharply. Institutions that believed they had hedged their mortgage exposure discovered that their hedges tracked poorly as liquidity dried up and the basis widened dramatically. A more routine example occurs in commodity markets: an airline hedging jet fuel costs using crude oil futures accepts basis risk because jet fuel and crude oil prices, while correlated, do not move identically. Seasonal refinery dynamics, regional supply disruptions, and crack spread volatility all contribute to a basis that can widen or narrow unpredictably.</p>
+        
+        <p>For investors and risk managers, understanding basis risk is critical when evaluating the true effectiveness of any hedging strategy. The hedge ratio — the proportion of an exposure that is hedged — should be calculated using the historical correlation and relative volatility between the hedged item and the hedging instrument, not assumed to be 1:1. Managers should also monitor the basis continuously, as a deteriorating basis can turn a well-intentioned hedge into a source of additional losses. In accounting terms, under IFRS 9 and ASC 815, ineffective portions of hedges must flow through earnings, making basis risk not just an economic concern but a financial reporting one as well.</p>
+        
+      </div>
+      <div class="key-takeaways">
+        <h4>Key Takeaways</h4>
+        
+        <div class="takeaway">Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedging instrument and the underlying exposure.</div>
+        
+        <div class="takeaway">Basis can widen dramatically during market stress, as seen in 2008, turning hedges into sources of additional loss rather than protection.</div>
+        
+        <div class="takeaway">Effective hedge ratios should be calibrated using historical volatility and correlation data, and monitored continuously rather than set and forgotten.</div>
+        
+      </div>
+    
+  </section>
+
+  <!-- ══════════════ JAPANESE LESSON ══════════════ -->
+  <section id="japanese" class="card accent-rose">
+    <div class="card-header">
+      <span class="card-icon">🇯🇵</span>
+      <div>
+        <div class="card-title">Japanese Lesson</div>
+        <div class="card-subtitle">Beginner — JLPT N5 / N4</div>
+      </div>
+    </div>
+
+    
+      
+      <div class="jp-word">貯金</div>
+      <div class="jp-reading">chokin</div>
+      <div class="jp-meaning">savings; money saved up</div>
+      <span class="jp-pos">noun</span>
+
+      <div class="jp-example-box">
+        <div class="jp-example-jp">毎月、給料の一部を貯金しています。</div>
+        <div class="jp-example-roma">Maitsuki, kyuuryou no ichibu wo chokin shite imasu.</div>
+        <div class="jp-example-en">Every month, I save part of my salary.</div>
+      </div>
+
+      <div class="grammar-box">
+        <div class="grammar-point">Grammar: 〜しています</div>
+        <div class="grammar-explanation">The pattern 〜しています (verb stem + shite imasu) expresses an ongoing action or habit. Here it means &#39;I am (habitually) saving,&#39; describing something the speaker does regularly rather than a one-time event.</div>
+      </div>
+
+      <div class="memory-tip">Think of &#39;chokin&#39; as &#39;cho-ching!&#39; — the satisfying sound of coins dropping into a piggy bank every time you save money.</div>
+    
+  </section>
+
+  <footer class="footer">
+    Generated automatically every day &bull; Powered by Claude &bull; <a href="https://blainehalamuda-afk.github.io/daily-dashboard/">https://blainehalamuda-afk.github.io/daily-dashboard/</a>
+  </footer>
+
+</div>
+</body>
+</html>
