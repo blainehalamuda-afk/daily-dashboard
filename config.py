@@ -3,7 +3,7 @@
 # ─────────────────────────────────────────────
 
 # Your city for weather (e.g. "London", "New York", "Chicago")
-CITY = "YOUR_CITY"
+CITY = "CHARLOTTE"
 COUNTRY_CODE = "US"          # ISO 3166-1 alpha-2 country code
 
 # Stocks & crypto tickers (Yahoo Finance format)
@@ -29,7 +29,7 @@ NEWS_COUNTRY = "us"   # ISO country code for news
 NEWS_PER_CATEGORY = 3  # headlines per category
 
 # Dashboard public URL (set after enabling GitHub Pages)
-DASHBOARD_URL = "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/"
+DASHBOARD_URL = "https://blainehalamuda-afk.github.io/daily-dashboard/"
 
 # What time the daily digest runs (only for display in the Discord message)
 SCHEDULE_LABEL = "8:00 AM ET"
