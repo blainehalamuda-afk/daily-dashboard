@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background: #09090b;
+  color: #e4e4e7;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #3f3f46; border-radius: 2px; }
+
+/* Selection */
+::selection { background: #f97316; color: #000; }
+
+/* Flip card */
+.flip-card { perspective: 1000px; }
+.flip-card-inner {
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+  position: relative;
+}
+.flip-card.flipped .flip-card-inner { transform: rotateY(180deg); }
+.flip-card-front,
+.flip-card-back {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.flip-card-back { transform: rotateY(180deg); }
+
+@layer utilities {
+  .tab-active {
+    @apply text-accent border-b-2 border-accent;
+  }
+  .tab-inactive {
+    @apply text-muted hover:text-zinc-300 border-b-2 border-transparent;
+  }
+  .card-base {
+    @apply bg-card border border-border rounded-2xl p-5;
+  }
+  .accent-tag {
+    @apply text-xs font-bold uppercase tracking-widest text-accent bg-accent-dim px-2 py-1 rounded-md;
+  }
+  .section-label {
+    @apply text-xs font-bold uppercase tracking-widest text-muted;
+  }
+}

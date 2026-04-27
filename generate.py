@@ -1,21 +1,18 @@
 """
-Main orchestrator — fetches all data, renders the HTML dashboard, and triggers Discord notification.
-Run directly (python generate.py) or via GitHub Actions.
+Daily data generator — fetches all data and writes data/daily.json.
+The Next.js frontend reads this file to render the dashboard.
 """
 
+import json
 import os
-import sys
 from datetime import datetime
 from pathlib import Path
 
-# Load .env for local development
 try:
     from dotenv import load_dotenv
     load_dotenv()
 except ImportError:
     pass
-
-from jinja2 import Environment, FileSystemLoader
 
 import config
 from fetchers import weather, news, stocks, sports, ai_content
@@ -24,59 +21,59 @@ import discord_notify
 
 def main():
     now = datetime.utcnow()
-    date_str    = now.strftime("%A, %B %-d, %Y")   # e.g. "Monday, April 27, 2026"
+    date_str    = now.strftime("%A, %B %-d, %Y")
     updated_str = now.strftime("%-I:%M %p UTC")
 
-    print(f"[{now.isoformat()}] Generating dashboard for {date_str}")
+    print(f"[{now.isoformat()}] Generating daily data for {date_str}")
 
-    # ── Fetch all data ─────────────────────────────────────
-    print("  Fetching weather...", end=" ", flush=True)
+    # ── Fetch ──────────────────────────────────────────────
+    print("  Weather...", end=" ", flush=True)
     weather_data = weather.fetch(config.CITY, config.COUNTRY_CODE)
-    print("ok" if not weather_data.get("error") else f"ERROR: {weather_data['message']}")
+    print("ok" if not weather_data.get("error") else f"ERROR: {weather_data.get('message')}")
 
-    print("  Fetching news...", end=" ", flush=True)
+    print("  News...", end=" ", flush=True)
     news_data = news.fetch(config.NEWS_CATEGORIES, config.NEWS_COUNTRY, config.NEWS_PER_CATEGORY)
-    print(f"ok ({len(news_data.get('articles', []))} articles)" if not news_data.get("error") else f"ERROR: {news_data['message']}")
+    print(f"ok ({len(news_data.get('articles', []))} articles)" if not news_data.get("error") else f"ERROR: {news_data.get('message')}")
 
-    print("  Fetching stocks...", end=" ", flush=True)
+    print("  Stocks...", end=" ", flush=True)
     stocks_data = stocks.fetch(config.STOCKS_WATCHLIST)
-    print(f"ok ({len(stocks_data.get('tickers', []))} tickers)" if not stocks_data.get("error") else f"ERROR: {stocks_data['message']}")
+    print(f"ok ({len(stocks_data.get('tickers', []))} tickers)" if not stocks_data.get("error") else f"ERROR: {stocks_data.get('message')}")
 
-    print("  Fetching sports...", end=" ", flush=True)
+    print("  Sports...", end=" ", flush=True)
     sports_data = sports.fetch(config.PL_TEAMS)
-    print(f"ok ({len(sports_data.get('matches', []))} matches)" if not sports_data.get("error") else f"ERROR: {sports_data['message']}")
+    print(f"ok ({len(sports_data.get('matches', []))} matches)" if not sports_data.get("error") else f"ERROR: {sports_data.get('message')}")
 
-    print("  Generating AI content (CFA/FRM, Finance, Japanese)...", end=" ", flush=True)
+    print("  AI content (Claude)...", end=" ", flush=True)
     ai_data = ai_content.fetch(config.EXAM_FOCUS)
-    print("ok" if not ai_data.get("error") else f"ERROR: {ai_data['message']}")
+    print("ok" if not ai_data.get("error") else f"ERROR: {ai_data.get('message')}")
 
-    # ── Render HTML ────────────────────────────────────────
-    template_dir = Path(__file__).parent / "templates"
-    env = Environment(loader=FileSystemLoader(str(template_dir)), autoescape=True)
-    template = env.get_template("dashboard_v2.html")
+    # ── Assemble JSON ─────────────────────────────────────
+    pl_content = ai_data.pop("pl_content", {}) if not ai_data.get("error") else {}
+    market_sentiment = ai_data.pop("market_sentiment", None) if not ai_data.get("error") else None
 
-    html = template.render(
-        date=date_str,
-        updated_at=updated_str,
-        weather=weather_data,
-        news=news_data,
-        stocks_error=stocks_data.get("error", False),
-        stocks_message=stocks_data.get("message", ""),
-        stocks_list=stocks_data.get("tickers", []),
-        sports=sports_data,
-        ai=ai_data,
-        dashboard_url=config.DASHBOARD_URL,
-    )
+    daily = {
+        "generated_at": updated_str,
+        "date": date_str,
+        "weather": weather_data,
+        "stocks": stocks_data,
+        "news": news_data,
+        "sports": sports_data,
+        "pl_content": pl_content,
+        "ai": {
+            **ai_data,
+            "market_sentiment": market_sentiment,
+        },
+    }
 
-    # ── Write to docs/index.html ───────────────────────────
-    out_dir = Path(__file__).parent / "docs"
+    # ── Write JSON ────────────────────────────────────────
+    out_dir = Path(__file__).parent / "data"
     out_dir.mkdir(exist_ok=True)
-    out_path = out_dir / "index.html"
-    out_path.write_text(html, encoding="utf-8")
-    print(f"  Dashboard written to {out_path}")
+    out_path = out_dir / "daily.json"
+    out_path.write_text(json.dumps(daily, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"  Wrote {out_path}")
 
-    # ── Send Discord notification ──────────────────────────
-    print("  Sending Discord notification...", end=" ", flush=True)
+    # ── Discord ───────────────────────────────────────────
+    print("  Discord...", end=" ", flush=True)
     try:
         discord_notify.send(
             date_str=date_str,
