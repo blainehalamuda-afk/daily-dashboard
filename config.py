@@ -29,7 +29,7 @@ NEWS_COUNTRY = "us"   # ISO country code for news
 NEWS_PER_CATEGORY = 3  # headlines per category
 
 # Dashboard public URL (set after enabling GitHub Pages)
-DASHBOARD_URL = "https://blainehalamuda-afk.github.io/daily-dashboard/"
+DASHBOARD_URL = "https://daily-dashboard-git-main-blainehalamuda-afks-projects.vercel.app/"
 
 # What time the daily digest runs (only for display in the Discord message)
 SCHEDULE_LABEL = "8:00 AM ET"
