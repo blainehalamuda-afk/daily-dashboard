@@ -1,16 +1,16 @@
 {
-  "generated_at": "6:24 PM UTC",
+  "generated_at": "6:41 PM UTC",
   "date": "Monday, April 27, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 70,
     "feels_like_f": 69,
-    "high_f": 72,
-    "low_f": 67,
+    "high_f": 73,
+    "low_f": 68,
     "description": "Scattered Clouds",
     "icon": "⛅",
-    "humidity": 48,
+    "humidity": 49,
     "wind_mph": 8,
     "forecast": [
       {
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 715.19,
-        "change": 1.25,
-        "change_pct": 0.18,
+        "price": 715.18,
+        "change": 1.24,
+        "change_pct": 0.17,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 266.18,
-        "change": -4.88,
-        "change_pct": -1.8,
+        "price": 266.39,
+        "change": -4.67,
+        "change_pct": -1.72,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 216.22,
-        "change": 7.95,
-        "change_pct": 3.82,
+        "price": 215.48,
+        "change": 7.21,
+        "change_pct": 3.46,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 379.94,
-        "change": 3.64,
-        "change_pct": 0.97,
+        "price": 378.28,
+        "change": 1.98,
+        "change_pct": 0.53,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 76810.32,
-        "change": -1407.68,
-        "change_pct": -1.8,
+        "price": 76738,
+        "change": -1425.28,
+        "change_pct": -1.82,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2290.17,
-        "change": -73.52,
-        "change_pct": -3.11,
+        "price": 2289.42,
+        "change": -69.72,
+        "change_pct": -2.96,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -262,45 +262,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Weighing Move for Bundesliga Midfielder Ahead of Summer Window",
-        "summary": "Manchester United's new sporting structure under INEOS is reportedly assessing a bid for a dynamic box-to-box midfielder to address their chronic lack of energy in central areas, with a €60–70 million valuation being discussed internally.",
+        "headline": "Arsenal Tracking Bundesliga Midfielder Ahead of Summer Window",
+        "summary": "Arsenal are understood to be monitoring a high-press, box-to-box midfielder from a top Bundesliga club as Mikel Arteta looks to add depth and dynamism ahead of a likely Champions League campaign. A bid in the region of £55–65 million is anticipated if the Gunners qualify for Europe's elite competition.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Cole Palmer Contract Amid Top Club Interest",
-        "summary": "Chelsea are moving quickly to tie down Cole Palmer on improved terms after his breakthrough season, with reports indicating the 22-year-old has attracted admiring glances from Real Madrid and Manchester City's recruitment teams.",
+        "headline": "Chelsea in Advanced Talks for Portuguese Striker as Striker Depth Concern Grows",
+        "summary": "Chelsea's recruitment team has held multiple rounds of talks with representatives of a prolific Primeira Liga striker, with the west London club eager to bolster their forward line after a frustrating run of dropped points. Personal terms are reported to be close to agreement, with a medical potentially scheduled for late June.",
         "clubs": [
           "Chelsea",
-          "Real Madrid"
+          "Sporting CP"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "This title-defining clash at the Emirates pits an Arsenal side riding a seven-game winning streak against a Manchester City team that has found its ruthless best in recent weeks under Pep Guardiola. Arsenal will need a near-perfect defensive performance to contain Erling Haaland, who has been in devastating form, while the Gunners' own attack — led by Bukayo Saka and Leandro Trossard — offers genuine threat on the counter. With the title race potentially hanging on this result, the atmosphere at the Emirates promises to be electric and both managers will face critical tactical decisions in midfield.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 3:00 PM BST",
+      "preview": "The Premier League's defining fixture of the season pits a Manchester City side chasing a top-four finish against a Liverpool team with one eye on cementing second place and European seeding. City will look to Haaland's physicality to exploit Liverpool's high defensive line, while Slot's men will rely on the relentless pressing and transitional pace that has defined their season. With both managers likely to rotate cautiously given midweek fixtures, tactical discipline and set-piece execution could prove decisive at the Etihad.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
+        "Mohamed Salah",
         "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; possible 1-2 week absence if not risked"
+        "return": "Late fitness test expected Saturday; targeting return within 7–10 days"
       },
       {
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return within 2-3 weeks; unlikely to feature from the start this weekend"
+        "return": "Expected to be available for second half of the month; precautionary hamstring management"
       }
     ]
   },
@@ -308,62 +308,62 @@
     "cfa_frm": {
       "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A bank estimates the one-year probability of default (PD) for a corporate borrower at 2.5%, the loss given default (LGD) at 45%, and the exposure at default (EAD) at $10,000,000. Under the Basel framework, which of the following best represents the expected loss (EL) and its primary purpose in credit risk management?",
+      "question": "A bank estimates the following for a corporate loan portfolio: Probability of Default (PD) = 2.5%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $80 million. The bank also estimates an Unexpected Loss (UL) equal to 3.2 times the Expected Loss. What is the Unexpected Loss for this portfolio?",
       "options": {
-        "A": "EL = $112,500; it serves as the basis for economic capital allocation against unexpected losses",
-        "B": "EL = $112,500; it represents the average credit loss anticipated over a given horizon and should be covered by loan loss provisions and pricing",
-        "C": "EL = $225,000; it represents the worst-case credit loss at a given confidence level and drives regulatory capital requirements",
-        "D": "EL = $450,000; it is the unexpected loss component that banks must hold capital against under Basel III"
+        "A": "$1.44 million",
+        "B": "$2.88 million",
+        "C": "$3.60 million",
+        "D": "$4.32 million"
       },
-      "correct": "B",
-      "explanation": "Expected Loss = PD × LGD × EAD = 0.025 × 0.45 × $10,000,000 = $112,500. EL represents the average or anticipated credit loss over a time horizon and is typically covered through loan loss reserves (provisions) and factored into loan pricing — not economic capital. Economic capital is held against unexpected losses (UL), which is the volatility of losses around the expected value. Option A uses the correct EL figure but misidentifies its purpose; options C and D contain calculation errors."
+      "correct": "C",
+      "explanation": "Expected Loss (EL) = PD × LGD × EAD = 0.025 × 0.45 × $80M = $0.9M × 1.25 = $1.125 million. Wait — recalculating: 0.025 × 0.45 = 0.01125; 0.01125 × 80 = $0.9M. Unexpected Loss = 3.2 × EL = 3.2 × $0.9M = $2.88M. The correct answer is B. Expected Loss captures the average anticipated credit loss, while Unexpected Loss represents the volatility around that mean and is the primary driver of economic capital requirements under frameworks like Basel III."
     },
     "finance_topic": {
       "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Why imperfect hedges can leave risk managers exposed even when a hedge is in place.",
+      "subtitle": "Why perfect hedges are rare and how residual risk can erode the value of seemingly protected positions.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument being hedged does not move in perfect correlation with the price of the hedging instrument. In theory, a hedge eliminates price risk by taking an offsetting position; in practice, the 'basis' — defined as the spot price of the asset minus the futures price — fluctuates unpredictably, leaving a residual risk even after the hedge is constructed. This is particularly common when a company uses a related-but-not-identical futures contract to hedge an exposure, a technique known as a cross-hedge.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices are highly correlated but not identical, changes in the refining spread (the 'crack spread') introduce basis risk. In 2022, several European airlines found that sharp dislocations between crude oil and refined product prices meant their hedges significantly underperformed, leaving them exposed to fuel cost surges beyond what their hedge ratios had anticipated. Similarly, fixed-income portfolio managers who hedge interest rate risk with Treasury futures face basis risk if their bond portfolio contains credit spreads or different convexity profiles than the futures contract.",
-        "For risk managers, basis risk demands careful hedge ratio optimization — often using regression-based minimum variance hedge ratios rather than simple notional matching. It also requires ongoing monitoring: basis can widen dramatically during periods of market stress, precisely when protection is most needed. Investors and risk officers should stress-test hedges under scenarios where basis moves adversely, and should understand that reported 'hedge effectiveness' metrics can mask latent basis risk that crystallizes only at settlement or during liquidity crises."
+        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying asset being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures price of the contract used as the hedge. When this difference fluctuates unpredictably, even a carefully constructed hedge leaves residual profit-and-loss exposure — the essence of basis risk. It is a fundamental concept in derivatives and risk management because it explains why no hedge is ever truly 'perfect' in practice.",
+        "A classic real-world example occurs in commodity markets. An airline seeking to hedge jet fuel costs might use crude oil futures because liquid jet fuel futures are less readily available. Since jet fuel and crude oil prices are highly correlated but not identical — their spread varies with refinery margins, regional supply conditions, and seasonal demand — the hedge will be imperfect. During periods of refinery disruptions, for instance, jet fuel prices can spike sharply while crude remains stable, leaving the airline exposed to exactly the cost increase it sought to avoid. Similarly, fixed-income portfolio managers hedging corporate bond exposure with Treasury futures face basis risk driven by credit spread movements that futures cannot capture.",
+        "For risk managers and investors, basis risk demands ongoing monitoring and position adjustment. The optimal hedge ratio — calculated as the correlation between spot and futures price changes multiplied by the ratio of their volatilities — should be periodically recalibrated as market dynamics shift. Traders must weigh the cost of a more precise but expensive or illiquid hedge against the residual basis risk of a cheaper proxy hedge. Understanding basis risk is also critical in regulatory capital calculations, where imperfect hedges may receive only partial credit for risk reduction under frameworks such as FRTB."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedged item and the hedging instrument.",
-        "Cross-hedges — using a proxy instrument rather than an exact match — amplify basis risk and require minimum-variance hedge ratio calculations.",
-        "Basis risk typically widens in market stress scenarios, undermining hedge effectiveness precisely when it matters most."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
+        "The optimal hedge ratio accounts for both the correlation and the relative volatility of spot and futures prices, and should be dynamically updated.",
+        "Cross-commodity, cross-currency, and credit hedges are particularly susceptible to basis risk widening during market stress events."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; agreement",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "彼は必ず約束を守る人です。",
-      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
-      "example_en": "He is a person who always keeps his promises.",
-      "grammar_point": "〜を守る (wo mamoru)",
-      "grammar_explanation": "The pattern 〜を守る means 'to keep' or 'to protect' something, and is commonly paired with 約束 to express keeping a promise. 守る (mamoru) is a verb meaning to protect or uphold, making 約束を守る a very natural and frequently used phrase.",
-      "memory_tip": "Think of 'yakuza' — a group notorious for their strict codes. A yakuza member would take a 'yaku-soku' (約束) very seriously. The '-soku' sounds like 'sock it' — they'll sock it to you if you break a promise!"
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikiitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "This pattern combines the te-form of a verb with しまいました to express that an action has been completed, often with a sense of regret or finality. It is commonly used when something unfortunate or unintended has been concluded.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money you allocated for yourself. Once your 'yo-san' hits zero, it's gone (shimaimashita)!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Automating Complex Financial Analysis Workflows",
-      "summary": "Autonomous AI agents — systems that can plan, execute multi-step tasks, and use external tools without continuous human prompting — are moving from research labs into financial services workflows. Major banks and asset managers are piloting agentic systems that can retrieve live market data, run quantitative screening, draft credit memos, and flag compliance issues in a single automated pipeline. Unlike earlier chatbot deployments, these agents can iterate on their own outputs, call APIs, and escalate edge cases, compressing analyst workflows that once took hours into minutes. Goldman Sachs, JPMorgan, and several hedge funds have publicly signaled investments in agentic AI infrastructure, suggesting this is a near-term productivity inflection point rather than a distant capability.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Bank Risk Models Globally",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several Nordic banks are deploying large language models and gradient-boosting machine learning systems to augment — and in some cases replace — traditional scorecard-based credit underwriting. These models ingest alternative data sources including cash-flow transaction patterns, supply chain signals, and even satellite imagery of retail foot traffic to generate dynamic creditworthiness assessments. The shift is compressing underwriting timelines from days to seconds for SME lending while simultaneously improving default prediction accuracy. Regulators in the EU and US are racing to issue guidance on model explainability requirements before these systems become systemic.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously break down complex goals into sub-tasks, execute them using tools (web search, code execution, database queries), and adapt based on intermediate results — moving beyond single-turn question-answering toward sustained, goal-directed workflows relevant to research, compliance, and trading operations."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds sequential decision trees, each correcting the errors of the last, producing highly accurate predictions for structured tabular data — the format most common in credit and risk datasets."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically retrieves relevant external documents or data (earnings transcripts, regulatory filings, market data) before generating a response, allowing it to provide up-to-date, source-grounded analysis rather than relying solely on its training data — critical for financial applications where recency and accuracy matter."
+          "term": "Explainable AI (XAI)",
+          "definition": "A set of techniques — such as SHAP values and LIME — that make the outputs of complex ML models interpretable to humans, which is critical in regulated finance where lenders must justify credit decisions to regulators and customers."
         },
         {
-          "term": "Model Context Window",
-          "definition": "The maximum amount of text or data an AI model can process in a single interaction; in finance, larger context windows allow models to ingest entire prospectuses, lengthy credit agreements, or multi-year financial statement histories in one pass, enabling deeper and more holistic document analysis."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources used to supplement or replace conventional financial metrics in credit and investment analysis, including app usage patterns, geolocation data, payroll records, and web-scraped business activity signals."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, supervise, and audit AI agent workflows — rather than simply use AI as a search tool — will command a significant premium in the labor market over the next three to five years. The most valuable skill combination is domain expertise (credit analysis, risk modeling, regulatory knowledge) paired with the ability to prompt-engineer complex agent pipelines and critically evaluate AI outputs for hallucinations and model risk. Roles like 'AI Risk Officer' and 'Quantitative AI Strategist' are emerging as distinct career tracks at tier-one institutions."
+      "career_insight": "Risk managers and credit analysts who understand both the statistical mechanics of machine learning models and the regulatory frameworks governing model risk (SR 11-7 in the US, EBA guidelines in Europe) will command significant premium in the job market over the next decade. The most valuable professionals will be 'translators' who can validate AI-generated risk outputs, communicate model limitations to senior management, and design governance frameworks that satisfy both innovation goals and compliance requirements."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a cautious tone this week as investors parse resilient U.S. labor data against a Fed that remains in no rush to cut rates, with the 10-year Treasury yield holding near the 4.40–4.50% range and acting as a ceiling for risk appetite. Credit spreads remain historically tight, suggesting investors are still pricing a soft-landing base case, though deteriorating consumer credit metrics in the subprime auto and card segments warrant watching as a leading indicator of demand cracks. In FX, the dollar is consolidating recent gains with the DXY near 105, while gold's continued bid above $2,300 signals that a segment of the market is hedging tail risks — stagflation or a geopolitical escalation — that the equity VIX is not yet pricing."
+    "market_sentiment": "Global risk appetite remains cautiously constructive as markets parse a mixed macro backdrop: US core PCE data continues to track toward the Fed's 2% target, fueling soft-landing optimism, while a renewed steepening of the yield curve signals that term premium is being repriced higher amid persistent fiscal deficit concerns. Equity markets are consolidating recent gains with mega-cap tech facing valuation headwinds as real yields stabilize above 2%, while EM currencies are finding modest support from a softer dollar and a tentative rebound in Chinese manufacturing PMI. Commodities are the wildcard — Brent crude is holding the $85 handle on OPEC+ supply discipline, keeping energy-linked inflation expectations from fully deflating and complicating the rate cut narrative heading into Q3."
   }
 }
