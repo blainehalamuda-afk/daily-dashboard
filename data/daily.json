@@ -1,0 +1,369 @@
+{
+  "generated_at": "6:24 PM UTC",
+  "date": "Monday, April 27, 2026",
+  "weather": {
+    "error": false,
+    "city": "Charlotte",
+    "temp_f": 70,
+    "feels_like_f": 69,
+    "high_f": 72,
+    "low_f": 67,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 48,
+    "wind_mph": 8,
+    "forecast": [
+      {
+        "day": "Tue",
+        "icon": "☁️",
+        "high": 54,
+        "low": 54,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
+        "high": 59,
+        "low": 59,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Thu",
+        "icon": "☁️",
+        "high": 58,
+        "low": 58,
+        "description": "Broken Clouds"
+      }
+    ]
+  },
+  "stocks": {
+    "error": false,
+    "tickers": [
+      {
+        "symbol": "SPY",
+        "full_symbol": "SPY",
+        "name": "S&P 500 ETF",
+        "price": 715.19,
+        "change": 1.25,
+        "change_pct": 0.18,
+        "up": true,
+        "is_crypto": false,
+        "error": false
+      },
+      {
+        "symbol": "AAPL",
+        "full_symbol": "AAPL",
+        "name": "Apple",
+        "price": 266.18,
+        "change": -4.88,
+        "change_pct": -1.8,
+        "up": false,
+        "is_crypto": false,
+        "error": false
+      },
+      {
+        "symbol": "NVDA",
+        "full_symbol": "NVDA",
+        "name": "NVIDIA",
+        "price": 216.22,
+        "change": 7.95,
+        "change_pct": 3.82,
+        "up": true,
+        "is_crypto": false,
+        "error": false
+      },
+      {
+        "symbol": "TSLA",
+        "full_symbol": "TSLA",
+        "name": "Tesla",
+        "price": 379.94,
+        "change": 3.64,
+        "change_pct": 0.97,
+        "up": true,
+        "is_crypto": false,
+        "error": false
+      },
+      {
+        "symbol": "BTC",
+        "full_symbol": "BTC-USD",
+        "name": "Bitcoin",
+        "price": 76810.32,
+        "change": -1407.68,
+        "change_pct": -1.8,
+        "up": false,
+        "is_crypto": true,
+        "error": false
+      },
+      {
+        "symbol": "ETH",
+        "full_symbol": "ETH-USD",
+        "name": "Ethereum",
+        "price": 2290.17,
+        "change": -73.52,
+        "change_pct": -3.11,
+        "up": false,
+        "is_crypto": true,
+        "error": false
+      }
+    ]
+  },
+  "news": {
+    "error": false,
+    "articles": [
+      {
+        "title": "Tesla launches solution to end Supercharger fights once and for all - Teslarati",
+        "source": "Teslarati",
+        "url": "https://www.teslarati.com/tesla-launches-solution-end-supercharger-fights-once-for-all/",
+        "description": "Tesla is launching its solution to end Supercharger fights once and for all, eliminating any confusion on who is to charge next at a congested location. Last year, a notable incident at a Tesla Superc",
+        "published": "5:55 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "A town of 7,000 planned so many data centers, it’s like adding 51 Walmarts - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/nation/2026/04/26/archbald-pennsylvania-data-centers/",
+        "description": "Developers plan to build six sprawling data center campuses in Archbald, Pennsylvania, covering about 14 percent of the town’s land. Residents are fighting back.",
+        "published": "5:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "To buy this Bay Area home, you’ll need Anthropic equity - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+        "description": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+        "published": "3:30 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "CachyOS Introduces New Default GUI Package Manager, Kyber For NVMe I/O Scheduler - Phoronix",
+        "source": "Phoronix",
+        "url": "https://www.phoronix.com/news/CachyOS-April-2026",
+        "description": "The April 2026 ISO refresh of the Arch Linux based CachyOS is now available with a variety of refinements, new hardware support, and other polishing.",
+        "published": "4:50 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "The First Look at ‘Alien: Isolation 2’ Calls You Back for More - Gizmodo",
+        "source": "Gizmodo.com",
+        "url": "https://gizmodo.com/the-first-look-at-alien-isolation-2-calls-you-back-for-more-2000750960",
+        "description": "You'll probably be scared to death in 'Alien: Isolation 2,' but at least there'll be payphones for you to stop and catch your breath.",
+        "published": "4:30 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Google Pixel ruined voice typing on every other phone for me, but the fix is in sight - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/04/26/google-pixel-voice-to-text-android-app/",
+        "description": "Every time I use a Google Pixel phone, voice-to-text on every other Android phone is ruined for me, but this app fixes it.",
+        "published": "4:00 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Mali troops and Russian mercenaries withdraw from Kidal after coordinated rebel attacks - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/mali-attack-tuareg-separatists-jnim-a945998cb00044e8c52db0362baaed10",
+        "description": "Malian Minister of Defense Gen. Sadio Camara has been killed in an attack as jihadi and rebel forces seized towns and military bases across the country. A military officer and two other sources confir",
+        "published": "5:24 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Sydney Sweeney Makes a Surprise Panty-Tossing Appearance at Diplo’s Honky-Tonk - Harper's BAZAAR",
+        "source": "HarpersBAZAAR.com",
+        "url": "https://www.harpersbazaar.com/celebrity/latest/a71130167/sydney-sweeney-surprise-appearance-stagecoach-festival-2026/",
+        "description": "During Stagecoach Festival 2026, Sydney Sweeney jumps on stage with Diplo to hand out her Syrn lingerie.",
+        "published": "4:36 PM UTC",
+        "category": "General"
+      }
+    ]
+  },
+  "sports": {
+    "error": false,
+    "matches": [
+      {
+        "home": "Man United",
+        "away": "Brentford",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "Apr 27",
+        "highlighted": false
+      }
+    ],
+    "standings": [
+      {
+        "position": 1,
+        "team": "Arsenal",
+        "played": 34,
+        "won": 22,
+        "drawn": 7,
+        "lost": 5,
+        "gd": 38,
+        "points": 73,
+        "highlighted": false
+      },
+      {
+        "position": 2,
+        "team": "Man City",
+        "played": 33,
+        "won": 21,
+        "drawn": 7,
+        "lost": 5,
+        "gd": 37,
+        "points": 70,
+        "highlighted": false
+      },
+      {
+        "position": 3,
+        "team": "Man United",
+        "played": 33,
+        "won": 16,
+        "drawn": 10,
+        "lost": 7,
+        "gd": 13,
+        "points": 58,
+        "highlighted": false
+      },
+      {
+        "position": 4,
+        "team": "Liverpool",
+        "played": 34,
+        "won": 17,
+        "drawn": 7,
+        "lost": 10,
+        "gd": 13,
+        "points": 58,
+        "highlighted": false
+      },
+      {
+        "position": 5,
+        "team": "Aston Villa",
+        "played": 34,
+        "won": 17,
+        "drawn": 7,
+        "lost": 10,
+        "gd": 5,
+        "points": 58,
+        "highlighted": false
+      },
+      {
+        "position": 6,
+        "team": "Brighton Hove",
+        "played": 34,
+        "won": 13,
+        "drawn": 11,
+        "lost": 10,
+        "gd": 9,
+        "points": 50,
+        "highlighted": false
+      }
+    ]
+  },
+  "pl_content": {
+    "transfer_news": [
+      {
+        "headline": "Manchester United Weighing Move for Bundesliga Midfielder Ahead of Summer Window",
+        "summary": "Manchester United's new sporting structure under INEOS is reportedly assessing a bid for a dynamic box-to-box midfielder to address their chronic lack of energy in central areas, with a €60–70 million valuation being discussed internally.",
+        "clubs": [
+          "Manchester United",
+          "Bayer Leverkusen"
+        ]
+      },
+      {
+        "headline": "Chelsea in Advanced Talks to Extend Cole Palmer Contract Amid Top Club Interest",
+        "summary": "Chelsea are moving quickly to tie down Cole Palmer on improved terms after his breakthrough season, with reports indicating the 22-year-old has attracted admiring glances from Real Madrid and Manchester City's recruitment teams.",
+        "clubs": [
+          "Chelsea",
+          "Real Madrid"
+        ]
+      }
+    ],
+    "match_preview": {
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "This title-defining clash at the Emirates pits an Arsenal side riding a seven-game winning streak against a Manchester City team that has found its ruthless best in recent weeks under Pep Guardiola. Arsenal will need a near-perfect defensive performance to contain Erling Haaland, who has been in devastating form, while the Gunners' own attack — led by Bukayo Saka and Leandro Trossard — offers genuine threat on the counter. With the title race potentially hanging on this result, the atmosphere at the Emirates promises to be electric and both managers will face critical tactical decisions in midfield.",
+      "key_players": [
+        "Bukayo Saka",
+        "Erling Haaland",
+        "Rodri"
+      ]
+    },
+    "injury_news": [
+      {
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Expected to be assessed on matchday; possible 1-2 week absence if not risked"
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Targeting return within 2-3 weeks; unlikely to feature from the start this weekend"
+      }
+    ]
+  },
+  "ai": {
+    "cfa_frm": {
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank estimates the one-year probability of default (PD) for a corporate borrower at 2.5%, the loss given default (LGD) at 45%, and the exposure at default (EAD) at $10,000,000. Under the Basel framework, which of the following best represents the expected loss (EL) and its primary purpose in credit risk management?",
+      "options": {
+        "A": "EL = $112,500; it serves as the basis for economic capital allocation against unexpected losses",
+        "B": "EL = $112,500; it represents the average credit loss anticipated over a given horizon and should be covered by loan loss provisions and pricing",
+        "C": "EL = $225,000; it represents the worst-case credit loss at a given confidence level and drives regulatory capital requirements",
+        "D": "EL = $450,000; it is the unexpected loss component that banks must hold capital against under Basel III"
+      },
+      "correct": "B",
+      "explanation": "Expected Loss = PD × LGD × EAD = 0.025 × 0.45 × $10,000,000 = $112,500. EL represents the average or anticipated credit loss over a time horizon and is typically covered through loan loss reserves (provisions) and factored into loan pricing — not economic capital. Economic capital is held against unexpected losses (UL), which is the volatility of losses around the expected value. Option A uses the correct EL figure but misidentifies its purpose; options C and D contain calculation errors."
+    },
+    "finance_topic": {
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Why imperfect hedges can leave risk managers exposed even when a hedge is in place.",
+      "paragraphs": [
+        "Basis risk arises when the price of the instrument being hedged does not move in perfect correlation with the price of the hedging instrument. In theory, a hedge eliminates price risk by taking an offsetting position; in practice, the 'basis' — defined as the spot price of the asset minus the futures price — fluctuates unpredictably, leaving a residual risk even after the hedge is constructed. This is particularly common when a company uses a related-but-not-identical futures contract to hedge an exposure, a technique known as a cross-hedge.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices are highly correlated but not identical, changes in the refining spread (the 'crack spread') introduce basis risk. In 2022, several European airlines found that sharp dislocations between crude oil and refined product prices meant their hedges significantly underperformed, leaving them exposed to fuel cost surges beyond what their hedge ratios had anticipated. Similarly, fixed-income portfolio managers who hedge interest rate risk with Treasury futures face basis risk if their bond portfolio contains credit spreads or different convexity profiles than the futures contract.",
+        "For risk managers, basis risk demands careful hedge ratio optimization — often using regression-based minimum variance hedge ratios rather than simple notional matching. It also requires ongoing monitoring: basis can widen dramatically during periods of market stress, precisely when protection is most needed. Investors and risk officers should stress-test hedges under scenarios where basis moves adversely, and should understand that reported 'hedge effectiveness' metrics can mask latent basis risk that crystallizes only at settlement or during liquidity crises."
+      ],
+      "key_takeaways": [
+        "Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedged item and the hedging instrument.",
+        "Cross-hedges — using a proxy instrument rather than an exact match — amplify basis risk and require minimum-variance hedge ratio calculations.",
+        "Basis risk typically widens in market stress scenarios, undermining hedge effectiveness precisely when it matters most."
+      ]
+    },
+    "japanese": {
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
+      "part_of_speech": "noun",
+      "example_jp": "彼は必ず約束を守る人です。",
+      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
+      "example_en": "He is a person who always keeps his promises.",
+      "grammar_point": "〜を守る (wo mamoru)",
+      "grammar_explanation": "The pattern 〜を守る means 'to keep' or 'to protect' something, and is commonly paired with 約束 to express keeping a promise. 守る (mamoru) is a verb meaning to protect or uphold, making 約束を守る a very natural and frequently used phrase.",
+      "memory_tip": "Think of 'yakuza' — a group notorious for their strict codes. A yakuza member would take a 'yaku-soku' (約束) very seriously. The '-soku' sounds like 'sock it' — they'll sock it to you if you break a promise!"
+    },
+    "ai_strategy": {
+      "headline": "AI Agents Are Quietly Automating Complex Financial Analysis Workflows",
+      "summary": "Autonomous AI agents — systems that can plan, execute multi-step tasks, and use external tools without continuous human prompting — are moving from research labs into financial services workflows. Major banks and asset managers are piloting agentic systems that can retrieve live market data, run quantitative screening, draft credit memos, and flag compliance issues in a single automated pipeline. Unlike earlier chatbot deployments, these agents can iterate on their own outputs, call APIs, and escalate edge cases, compressing analyst workflows that once took hours into minutes. Goldman Sachs, JPMorgan, and several hedge funds have publicly signaled investments in agentic AI infrastructure, suggesting this is a near-term productivity inflection point rather than a distant capability.",
+      "concepts": [
+        {
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously break down complex goals into sub-tasks, execute them using tools (web search, code execution, database queries), and adapt based on intermediate results — moving beyond single-turn question-answering toward sustained, goal-directed workflows relevant to research, compliance, and trading operations."
+        },
+        {
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model dynamically retrieves relevant external documents or data (earnings transcripts, regulatory filings, market data) before generating a response, allowing it to provide up-to-date, source-grounded analysis rather than relying solely on its training data — critical for financial applications where recency and accuracy matter."
+        },
+        {
+          "term": "Model Context Window",
+          "definition": "The maximum amount of text or data an AI model can process in a single interaction; in finance, larger context windows allow models to ingest entire prospectuses, lengthy credit agreements, or multi-year financial statement histories in one pass, enabling deeper and more holistic document analysis."
+        }
+      ],
+      "career_insight": "Finance professionals who understand how to design, supervise, and audit AI agent workflows — rather than simply use AI as a search tool — will command a significant premium in the labor market over the next three to five years. The most valuable skill combination is domain expertise (credit analysis, risk modeling, regulatory knowledge) paired with the ability to prompt-engineer complex agent pipelines and critically evaluate AI outputs for hallucinations and model risk. Roles like 'AI Risk Officer' and 'Quantitative AI Strategist' are emerging as distinct career tracks at tier-one institutions."
+    },
+    "error": false,
+    "market_sentiment": "Equity markets are navigating a cautious tone this week as investors parse resilient U.S. labor data against a Fed that remains in no rush to cut rates, with the 10-year Treasury yield holding near the 4.40–4.50% range and acting as a ceiling for risk appetite. Credit spreads remain historically tight, suggesting investors are still pricing a soft-landing base case, though deteriorating consumer credit metrics in the subprime auto and card segments warrant watching as a leading indicator of demand cracks. In FX, the dollar is consolidating recent gains with the DXY near 105, while gold's continued bid above $2,300 signals that a segment of the market is hedging tail risks — stagflation or a geopolitical escalation — that the equity VIX is not yet pricing."
+  }
+}
