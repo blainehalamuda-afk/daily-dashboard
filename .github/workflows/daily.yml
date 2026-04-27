@@ -35,6 +35,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Verify checked-out code
+        run: |
+          echo "=== Git commit ===" && git log --oneline -1
+          echo "=== Template loaded ===" && grep "get_template" generate.py
+          echo "=== Stocks ref in template ===" && grep "stocks" templates/dashboard_v2.html | head -5
+
       - name: Generate dashboard
         env:
           OPENWEATHER_API_KEY:    ${{ secrets.OPENWEATHER_API_KEY }}
