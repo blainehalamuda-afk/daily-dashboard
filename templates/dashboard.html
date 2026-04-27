@@ -602,13 +602,13 @@
       </div>
     </div>
 
-    {% if stocks.error %}
-      <div class="error-note">{{ stocks.message }}</div>
-    {% elif not stocks.tickers %}
+    {% if stocks_error %}
+      <div class="error-note">{{ stocks_message }}</div>
+    {% elif not stocks_list %}
       <div class="error-note">No tickers configured. Edit STOCKS_WATCHLIST in config.py.</div>
     {% else %}
       <div class="stock-grid">
-        {% for s in stocks.tickers %}
+        {% for s in stocks_list %}
           {% if not s.error %}
           <div class="stock-card">
             <div class="stock-symbol">{{ s.symbol }}</div>

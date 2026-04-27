@@ -40,7 +40,7 @@ def main():
 
     print("  Fetching stocks...", end=" ", flush=True)
     stocks_data = stocks.fetch(config.STOCKS_WATCHLIST)
-    print(f"ok ({len(stocks_data.get('items', []))} tickers)" if not stocks_data.get("error") else f"ERROR: {stocks_data['message']}")
+    print(f"ok ({len(stocks_data.get('tickers', []))} tickers)" if not stocks_data.get("error") else f"ERROR: {stocks_data['message']}")
 
     print("  Fetching sports...", end=" ", flush=True)
     sports_data = sports.fetch(config.PL_TEAMS)
@@ -60,7 +60,9 @@ def main():
         updated_at=updated_str,
         weather=weather_data,
         news=news_data,
-        stocks=stocks_data,
+        stocks_error=stocks_data.get("error", False),
+        stocks_message=stocks_data.get("message", ""),
+        stocks_list=stocks_data.get("tickers", []),
         sports=sports_data,
         ai=ai_data,
         dashboard_url=config.DASHBOARD_URL,
