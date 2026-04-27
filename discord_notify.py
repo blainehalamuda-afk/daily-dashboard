@@ -32,7 +32,7 @@ def send(
 
     # ── Top 3 stocks ───────────────────────────────────────
     stock_lines = []
-    for s in (stocks.get("items") or [])[:4]:
+    for s in (stocks.get("tickers") or [])[:4]:
         if s.get("error"):
             continue
         arrow = "▲" if s["up"] else "▼"
