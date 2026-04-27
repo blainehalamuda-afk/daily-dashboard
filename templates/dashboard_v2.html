@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Dashboard — {{ date }}</title>
+  <style>
+    /* ── Reset & Base ───────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0b1120;
+      --surface:   #131d2e;
+      --card:      #1a2740;
+      --border:    #253554;
+      --text:      #e2e8f0;
+      --muted:     #8899b5;
+      --dim:       #526280;
+
+      --blue:      #3b82f6;
+      --blue-dim:  #1e3a5f;
+      --green:     #22c55e;
+      --green-dim: #14532d;
+      --red:       #ef4444;
+      --red-dim:   #7f1d1d;
+      --yellow:    #f59e0b;
+      --purple:    #a855f7;
+      --purple-dim:#3b0764;
+      --indigo:    #6366f1;
+      --indigo-dim:#1e1b4b;
+      --teal:      #14b8a6;
+      --teal-dim:  #134e4a;
+      --rose:      #f43f5e;
+      --rose-dim:  #4c0519;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ─────────────────────────────────────────── */
+    .page { max-width: 900px; margin: 0 auto; padding: 16px 12px 48px; }
+
+    /* ── Header ─────────────────────────────────────────── */
+    .header {
+      text-align: center;
+      padding: 28px 16px 20px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid var(--border);
+    }
+    .header h1 {
+      font-size: 1.9rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #60a5fa 0%, #a78bfa 50%, #34d399 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .header .date-line {
+      font-size: 1rem;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+    .header .updated {
+      font-size: 0.78rem;
+      color: var(--dim);
+      margin-top: 2px;
+    }
+
+    /* ── Nav pills ──────────────────────────────────────── */
+    .nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-bottom: 24px;
+    }
+    .nav a {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 5px 14px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      transition: color .15s, border-color .15s;
+    }
+    .nav a:hover { color: var(--text); border-color: var(--blue); text-decoration: none; }
+
+    /* ── Card ───────────────────────────────────────────── */
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 16px;
+      overflow: hidden;
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .card-icon {
+      font-size: 1.4rem;
+      line-height: 1;
+    }
+    .card-title {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+    }
+    .card-subtitle {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    /* ─── Section accent colours ────────────────────────── */
+    .accent-blue   .card-title { color: var(--blue); }
+    .accent-green  .card-title { color: var(--green); }
+    .accent-yellow .card-title { color: var(--yellow); }
+    .accent-purple .card-title { color: var(--purple); }
+    .accent-indigo .card-title { color: var(--indigo); }
+    .accent-rose   .card-title { color: var(--rose); }
+    .accent-teal   .card-title { color: var(--teal); }
+
+    /* ── Weather ────────────────────────────────────────── */
+    .weather-main {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    .weather-icon { font-size: 3.5rem; line-height: 1; }
+    .weather-temp {
+      font-size: 3rem;
+      font-weight: 700;
+      line-height: 1;
+      color: var(--blue);
+    }
+    .weather-desc {
+      font-size: 1rem;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+    .weather-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+    .weather-meta span {
+      font-size: 0.82rem;
+      color: var(--muted);
+      background: var(--surface);
+      padding: 3px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+    }
+    .forecast {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+    }
+    .forecast-day {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 8px;
+      text-align: center;
+      font-size: 0.8rem;
+    }
+    .forecast-day .f-icon { font-size: 1.4rem; margin: 4px 0; }
+    .forecast-day .f-label { color: var(--muted); font-size: 0.75rem; }
+    .forecast-day .f-hi { color: var(--text); font-weight: 600; }
+    .forecast-day .f-lo { color: var(--dim); }
+
+    /* ── Markets ────────────────────────────────────────── */
+    .stock-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 10px;
+    }
+    .stock-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px;
+      transition: border-color .15s;
+    }
+    .stock-card:hover { border-color: var(--blue); }
+    .stock-symbol {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--muted);
+      letter-spacing: 0.5px;
+    }
+    .stock-name {
+      font-size: 0.72rem;
+      color: var(--dim);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin-bottom: 6px;
+    }
+    .stock-price {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .stock-change {
+      font-size: 0.78rem;
+      font-weight: 600;
+      margin-top: 2px;
+    }
+    .up   { color: var(--green); }
+    .down { color: var(--red); }
+
+    /* ── News ───────────────────────────────────────────── */
+    .news-item {
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .news-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .news-item:first-child { padding-top: 0; }
+    .news-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+    }
+    .news-category {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      background: var(--blue-dim);
+      color: var(--blue);
+      padding: 2px 8px;
+      border-radius: 999px;
+    }
+    .news-source { font-size: 0.75rem; color: var(--dim); }
+    .news-time   { font-size: 0.72rem; color: var(--dim); margin-left: auto; }
+    .news-title {
+      font-size: 0.92rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.4;
+    }
+    .news-title a { color: inherit; }
+    .news-title a:hover { color: var(--blue); text-decoration: none; }
+    .news-desc { font-size: 0.8rem; color: var(--muted); margin-top: 3px; }
+
+    /* ── Sports ─────────────────────────────────────────── */
+    .match-list { margin-bottom: 20px; }
+    .match-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.88rem;
+    }
+    .match-row:last-child { border-bottom: none; }
+    .match-row.highlight { background: rgba(34,197,94,.06); border-radius: 8px; padding: 10px 8px; }
+    .team { flex: 1; font-weight: 500; }
+    .team.right { text-align: right; }
+    .score {
+      min-width: 52px;
+      text-align: center;
+      font-weight: 700;
+      font-size: 1rem;
+    }
+    .score.finished { color: var(--text); }
+    .score.scheduled { color: var(--dim); font-size: 0.8rem; font-weight: 400; }
+    .status-badge {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+    .status-FT         { background: var(--green-dim);  color: var(--green); }
+    .status-IN_PLAY    { background: #7f1d01; color: #fb923c; }
+    .status-SCHEDULED  { background: var(--surface);    color: var(--dim); border: 1px solid var(--border); }
+    .status-TIMED      { background: var(--surface);    color: var(--dim); border: 1px solid var(--border); }
+    .status-POSTPONED  { background: var(--red-dim);    color: var(--red); }
+
+    .standings-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+    .standings-table th {
+      text-align: left;
+      color: var(--dim);
+      font-size: 0.7rem;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      padding: 4px 6px;
+      border-bottom: 1px solid var(--border);
+    }
+    .standings-table th:not(:first-child):not(:nth-child(2)) { text-align: center; }
+    .standings-table td { padding: 7px 6px; border-bottom: 1px solid var(--border); }
+    .standings-table tr:last-child td { border-bottom: none; }
+    .standings-table td:not(:first-child):not(:nth-child(2)) { text-align: center; color: var(--muted); }
+    .standings-table tr.highlight td { background: rgba(34,197,94,.07); }
+    .pos-num { color: var(--dim); font-size: 0.8rem; }
+    .pts { font-weight: 700; color: var(--text) !important; }
+
+    /* ── CFA / FRM Question ──────────────────────────────── */
+    .exam-badge {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 999px;
+      margin-bottom: 12px;
+    }
+    .exam-badge.cfa { background: var(--purple-dim); color: var(--purple); }
+    .exam-badge.frm { background: var(--indigo-dim); color: var(--indigo); }
+
+    .question-topic {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-bottom: 8px;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
+    .question-text {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin-bottom: 16px;
+      color: var(--text);
+    }
+    .options-list { list-style: none; display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px; }
+    .option {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 14px;
+      font-size: 0.88rem;
+      cursor: default;
+    }
+    .option-letter {
+      font-weight: 700;
+      color: var(--purple);
+      min-width: 18px;
+    }
+
+    details.answer-reveal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    details.answer-reveal summary {
+      padding: 10px 14px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--purple);
+      cursor: pointer;
+      user-select: none;
+      list-style: none;
+    }
+    details.answer-reveal summary::-webkit-details-marker { display: none; }
+    details.answer-reveal summary::before { content: "▶  "; font-size: 0.7rem; }
+    details.answer-reveal[open] summary::before { content: "▼  "; }
+    .answer-body {
+      padding: 4px 14px 14px;
+      border-top: 1px solid var(--border);
+      font-size: 0.88rem;
+    }
+    .correct-label {
+      display: inline-block;
+      background: var(--green-dim);
+      color: var(--green);
+      font-weight: 700;
+      font-size: 0.78rem;
+      padding: 2px 10px;
+      border-radius: 999px;
+      margin-bottom: 8px;
+    }
+    .explanation { color: var(--muted); line-height: 1.65; }
+
+    /* ── Finance Deep-Dive ───────────────────────────────── */
+    .topic-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .topic-subtitle {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+    .topic-body p {
+      font-size: 0.9rem;
+      color: var(--muted);
+      line-height: 1.75;
+      margin-bottom: 12px;
+    }
+    .key-takeaways { margin-top: 16px; }
+    .key-takeaways h4 {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: var(--indigo);
+      margin-bottom: 8px;
+    }
+    .takeaway {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.88rem;
+      color: var(--text);
+    }
+    .takeaway:last-child { border-bottom: none; }
+    .takeaway::before { content: "→"; color: var(--indigo); font-weight: 700; flex-shrink: 0; }
+
+    /* ── Japanese Lesson ────────────────────────────────── */
+    .jp-word {
+      font-size: 2.6rem;
+      font-weight: 700;
+      color: var(--rose);
+      line-height: 1;
+      margin-bottom: 2px;
+    }
+    .jp-reading {
+      font-size: 0.88rem;
+      color: var(--muted);
+      font-style: italic;
+      margin-bottom: 4px;
+    }
+    .jp-meaning {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .jp-pos {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      background: var(--rose-dim);
+      color: var(--rose);
+      padding: 2px 8px;
+      border-radius: 999px;
+      margin-bottom: 16px;
+    }
+    .jp-example-box {
+      background: var(--surface);
+      border-left: 3px solid var(--rose);
+      border-radius: 0 10px 10px 0;
+      padding: 12px 14px;
+      margin-bottom: 14px;
+    }
+    .jp-example-jp    { font-size: 1rem; font-weight: 500; color: var(--text); margin-bottom: 2px; }
+    .jp-example-roma  { font-size: 0.82rem; font-style: italic; color: var(--muted); }
+    .jp-example-en    { font-size: 0.82rem; color: var(--dim); margin-top: 2px; }
+
+    .grammar-box {
+      background: var(--rose-dim);
+      border-radius: 10px;
+      padding: 12px 14px;
+      margin-bottom: 12px;
+    }
+    .grammar-point { font-size: 0.88rem; font-weight: 700; color: var(--rose); margin-bottom: 4px; }
+    .grammar-explanation { font-size: 0.82rem; color: #fca5a5; line-height: 1.6; }
+
+    .memory-tip {
+      font-size: 0.82rem;
+      color: var(--muted);
+      background: var(--surface);
+      border: 1px dashed var(--border);
+      border-radius: 10px;
+      padding: 10px 14px;
+    }
+    .memory-tip::before { content: "Tip: "; font-weight: 700; color: var(--yellow); }
+
+    /* ── Error state ────────────────────────────────────── */
+    .error-note {
+      font-size: 0.82rem;
+      color: var(--red);
+      background: var(--red-dim);
+      border-radius: 8px;
+      padding: 10px 14px;
+    }
+
+    /* ── Footer ─────────────────────────────────────────── */
+    .footer {
+      text-align: center;
+      font-size: 0.75rem;
+      color: var(--dim);
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+
+    /* ── Responsive tweaks ──────────────────────────────── */
+    @media (max-width: 480px) {
+      .header h1 { font-size: 1.5rem; }
+      .weather-temp { font-size: 2.4rem; }
+      .stock-grid { grid-template-columns: repeat(2, 1fr); }
+      .jp-word { font-size: 2rem; }
+    }
+  </style>
+</head>
+
+<body>
+<div class="page">
+
+  <!-- ── Header ─────────────────────────────────────── -->
+  <header class="header">
+    <h1>Daily Dashboard</h1>
+    <p class="date-line">{{ date }}</p>
+    <p class="updated">Last updated {{ updated_at }}</p>
+  </header>
+
+  <!-- ── Nav ────────────────────────────────────────── -->
+  <nav class="nav">
+    <a href="#weather">Weather</a>
+    <a href="#markets">Markets</a>
+    <a href="#news">News</a>
+    <a href="#sports">Sports</a>
+    <a href="#cfa-frm">CFA / FRM</a>
+    <a href="#finance">Finance</a>
+    <a href="#japanese">Japanese</a>
+  </nav>
+
+  <!-- ══════════════ WEATHER ══════════════ -->
+  <section id="weather" class="card accent-blue">
+    <div class="card-header">
+      <span class="card-icon">🌤️</span>
+      <div>
+        <div class="card-title">Weather</div>
+        {% if not weather.error %}<div class="card-subtitle">{{ weather.city }}</div>{% endif %}
+      </div>
+    </div>
+
+    {% if weather.error %}
+      <div class="error-note">{{ weather.message }}</div>
+    {% else %}
+      <div class="weather-main">
+        <span class="weather-icon">{{ weather.icon }}</span>
+        <div>
+          <div class="weather-temp">{{ weather.temp_f }}°F</div>
+          <div class="weather-desc">{{ weather.description }}</div>
+        </div>
+      </div>
+      <div class="weather-meta">
+        <span>Feels like {{ weather.feels_like_f }}°F</span>
+        <span>H: {{ weather.high_f }}° / L: {{ weather.low_f }}°</span>
+        <span>Humidity {{ weather.humidity }}%</span>
+        <span>Wind {{ weather.wind_mph }} mph</span>
+      </div>
+      {% if weather.forecast %}
+      <div class="forecast">
+        {% for day in weather.forecast %}
+        <div class="forecast-day">
+          <div class="f-label">{{ day.day }}</div>
+          <div class="f-icon">{{ day.icon }}</div>
+          <div class="f-hi">{{ day.high }}°</div>
+          <div class="f-lo">{{ day.low }}°</div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+    {% endif %}
+  </section>
+
+  <!-- ══════════════ MARKETS ══════════════ -->
+  <section id="markets" class="card accent-green">
+    <div class="card-header">
+      <span class="card-icon">📈</span>
+      <div>
+        <div class="card-title">Markets</div>
+        <div class="card-subtitle">Stocks & Crypto Watchlist</div>
+      </div>
+    </div>
+
+    {% if stocks_error %}
+      <div class="error-note">{{ stocks_message }}</div>
+    {% elif not stocks_list %}
+      <div class="error-note">No tickers configured. Edit STOCKS_WATCHLIST in config.py.</div>
+    {% else %}
+      <div class="stock-grid">
+        {% for s in stocks_list %}
+          {% if not s.error %}
+          <div class="stock-card">
+            <div class="stock-symbol">{{ s.symbol }}</div>
+            <div class="stock-name">{{ s.name }}</div>
+            <div class="stock-price">
+              {% if s.is_crypto %}
+                ${{ "{:,.2f}".format(s.price) }}
+              {% else %}
+                ${{ "{:.2f}".format(s.price) }}
+              {% endif %}
+            </div>
+            <div class="stock-change {{ 'up' if s.up else 'down' }}">
+              {{ "+" if s.up else "" }}{{ "{:.2f}".format(s.change) }}
+              ({{ "+" if s.up else "" }}{{ "{:.2f}".format(s.change_pct) }}%)
+            </div>
+          </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </section>
+
+  <!-- ══════════════ NEWS ══════════════ -->
+  <section id="news" class="card accent-yellow">
+    <div class="card-header">
+      <span class="card-icon">📰</span>
+      <div>
+        <div class="card-title">Top Headlines</div>
+        <div class="card-subtitle">Business · Tech · General</div>
+      </div>
+    </div>
+
+    {% if news.error %}
+      <div class="error-note">{{ news.message }}</div>
+    {% elif not news.articles %}
+      <div class="error-note">No articles loaded.</div>
+    {% else %}
+      {% for article in news.articles %}
+      <div class="news-item">
+        <div class="news-meta">
+          <span class="news-category">{{ article.category }}</span>
+          <span class="news-source">{{ article.source }}</span>
+          {% if article.published %}<span class="news-time">{{ article.published }}</span>{% endif %}
+        </div>
+        <div class="news-title">
+          <a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a>
+        </div>
+        {% if article.description %}
+        <div class="news-desc">{{ article.description }}</div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    {% endif %}
+  </section>
+
+  <!-- ══════════════ SPORTS ══════════════ -->
+  <section id="sports" class="card accent-teal">
+    <div class="card-header">
+      <span class="card-icon">⚽</span>
+      <div>
+        <div class="card-title">Premier League</div>
+        <div class="card-subtitle">Scores & Standings</div>
+      </div>
+    </div>
+
+    {% if sports.error %}
+      <div class="error-note">{{ sports.message }}</div>
+    {% else %}
+
+      {% if sports.matches %}
+      <div class="match-list">
+        {% for m in sports.matches %}
+        <div class="match-row {{ 'highlight' if m.highlighted else '' }}">
+          <span class="team">{{ m.home }}</span>
+          <span class="score {{ 'finished' if m.status == 'FINISHED' else 'scheduled' }}">
+            {% if m.status == 'FINISHED' or m.status == 'IN_PLAY' %}
+              {{ m.home_score }} – {{ m.away_score }}
+            {% else %}
+              {{ m.time or m.date }}
+            {% endif %}
+          </span>
+          <span class="team right">{{ m.away }}</span>
+          <span class="status-badge status-{{ m.status }}">
+            {% if m.status == 'FINISHED' %}FT
+            {% elif m.status == 'IN_PLAY' %}LIVE
+            {% elif m.status == 'SCHEDULED' or m.status == 'TIMED' %}{{ m.time }}
+            {% elif m.status == 'POSTPONED' %}PPD
+            {% else %}{{ m.status }}
+            {% endif %}
+          </span>
+        </div>
+        {% endfor %}
+      </div>
+      {% else %}
+        <p style="color:var(--muted);font-size:.85rem;margin-bottom:16px;">No matches in the next 24 hours.</p>
+      {% endif %}
+
+      {% if sports.standings %}
+      <h4 style="font-size:.7rem;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--teal);margin-bottom:8px;">Top 6 Standings</h4>
+      <table class="standings-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Team</th>
+            <th>P</th>
+            <th>W</th>
+            <th>D</th>
+            <th>L</th>
+            <th>GD</th>
+            <th>Pts</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in sports.standings %}
+          <tr class="{{ 'highlight' if row.highlighted else '' }}">
+            <td class="pos-num">{{ row.position }}</td>
+            <td>{{ row.team }}</td>
+            <td>{{ row.played }}</td>
+            <td>{{ row.won }}</td>
+            <td>{{ row.drawn }}</td>
+            <td>{{ row.lost }}</td>
+            <td>{{ row.gd }}</td>
+            <td class="pts">{{ row.points }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endif %}
+
+    {% endif %}
+  </section>
+
+  <!-- ══════════════ CFA / FRM ══════════════ -->
+  <section id="cfa-frm" class="card accent-purple">
+    <div class="card-header">
+      <span class="card-icon">📚</span>
+      <div>
+        <div class="card-title">CFA / FRM Daily Question</div>
+        <div class="card-subtitle">Practice one question. Think before revealing the answer.</div>
+      </div>
+    </div>
+
+    {% if ai.error %}
+      <div class="error-note">{{ ai.message }}</div>
+    {% else %}
+      {% set q = ai.cfa_frm %}
+      <span class="exam-badge {{ 'frm' if 'FRM' in q.exam else 'cfa' }}">{{ q.exam }}</span>
+      <div class="question-topic">Topic: {{ q.topic }}</div>
+      <div class="question-text">{{ q.question }}</div>
+      <ul class="options-list">
+        {% for letter, text in q.options.items() %}
+        <li class="option">
+          <span class="option-letter">{{ letter }}.</span>
+          <span>{{ text }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+      <details class="answer-reveal">
+        <summary>Reveal Answer &amp; Explanation</summary>
+        <div class="answer-body">
+          <div class="correct-label">Correct: {{ q.correct }}</div>
+          <div class="explanation">{{ q.explanation }}</div>
+        </div>
+      </details>
+    {% endif %}
+  </section>
+
+  <!-- ══════════════ FINANCE DEEP-DIVE ══════════════ -->
+  <section id="finance" class="card accent-indigo">
+    <div class="card-header">
+      <span class="card-icon">💼</span>
+      <div>
+        <div class="card-title">Finance Deep-Dive</div>
+        <div class="card-subtitle">Today's high-finance topic</div>
+      </div>
+    </div>
+
+    {% if ai.error %}
+      <div class="error-note">{{ ai.message }}</div>
+    {% else %}
+      {% set ft = ai.finance_topic %}
+      <div class="topic-title">{{ ft.title }}</div>
+      <div class="topic-subtitle">{{ ft.subtitle }}</div>
+      <div class="topic-body">
+        {% for para in ft.paragraphs %}
+        <p>{{ para }}</p>
+        {% endfor %}
+      </div>
+      <div class="key-takeaways">
+        <h4>Key Takeaways</h4>
+        {% for kt in ft.key_takeaways %}
+        <div class="takeaway">{{ kt }}</div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </section>
+
+  <!-- ══════════════ JAPANESE LESSON ══════════════ -->
+  <section id="japanese" class="card accent-rose">
+    <div class="card-header">
+      <span class="card-icon">🇯🇵</span>
+      <div>
+        <div class="card-title">Japanese Lesson</div>
+        <div class="card-subtitle">Beginner — JLPT N5 / N4</div>
+      </div>
+    </div>
+
+    {% if ai.error %}
+      <div class="error-note">{{ ai.message }}</div>
+    {% else %}
+      {% set jp = ai.japanese %}
+      <div class="jp-word">{{ jp.word }}</div>
+      <div class="jp-reading">{{ jp.reading }}</div>
+      <div class="jp-meaning">{{ jp.meaning }}</div>
+      <span class="jp-pos">{{ jp.part_of_speech }}</span>
+
+      <div class="jp-example-box">
+        <div class="jp-example-jp">{{ jp.example_jp }}</div>
+        <div class="jp-example-roma">{{ jp.example_romaji }}</div>
+        <div class="jp-example-en">{{ jp.example_en }}</div>
+      </div>
+
+      <div class="grammar-box">
+        <div class="grammar-point">Grammar: {{ jp.grammar_point }}</div>
+        <div class="grammar-explanation">{{ jp.grammar_explanation }}</div>
+      </div>
+
+      <div class="memory-tip">{{ jp.memory_tip }}</div>
+    {% endif %}
+  </section>
+
+  <footer class="footer">
+    Generated automatically every day &bull; Powered by Claude &bull; <a href="{{ dashboard_url }}">{{ dashboard_url }}</a>
+  </footer>
+
+</div>
+</body>
+</html>

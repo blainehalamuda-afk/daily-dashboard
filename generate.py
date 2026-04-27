@@ -53,7 +53,7 @@ def main():
     # ── Render HTML ────────────────────────────────────────
     template_dir = Path(__file__).parent / "templates"
     env = Environment(loader=FileSystemLoader(str(template_dir)), autoescape=True)
-    template = env.get_template("dashboard.html")
+    template = env.get_template("dashboard_v2.html")
 
     html = template.render(
         date=date_str,
