@@ -1,38 +1,38 @@
 {
-  "generated_at": "5:58 PM UTC",
-  "date": "Tuesday, April 28, 2026",
+  "generated_at": "5:10 PM UTC",
+  "date": "Wednesday, April 29, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 60,
-    "feels_like_f": 60,
-    "high_f": 62,
-    "low_f": 59,
-    "description": "Overcast Clouds",
+    "temp_f": 72,
+    "feels_like_f": 73,
+    "high_f": 75,
+    "low_f": 70,
+    "description": "Broken Clouds",
     "icon": "☁️",
-    "humidity": 85,
-    "wind_mph": 14,
+    "humidity": 70,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Wed",
-        "icon": "🌧️",
-        "high": 59,
-        "low": 59,
-        "description": "Light Rain"
-      },
-      {
         "day": "Thu",
-        "icon": "☁️",
-        "high": 58,
-        "low": 58,
-        "description": "Overcast Clouds"
+        "icon": "🌧️",
+        "high": 60,
+        "low": 60,
+        "description": "Light Rain"
       },
       {
         "day": "Fri",
         "icon": "☁️",
-        "high": 54,
-        "low": 54,
-        "description": "Overcast Clouds"
+        "high": 51,
+        "low": 51,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "🌧️",
+        "high": 50,
+        "low": 50,
+        "description": "Moderate Rain"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 711.04,
-        "change": -4.13,
-        "change_pct": -0.58,
+        "price": 709.68,
+        "change": -2.01,
+        "change_pct": -0.28,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 270.58,
-        "change": 2.97,
-        "change_pct": 1.11,
-        "up": true,
+        "price": 270.39,
+        "change": -0.32,
+        "change_pct": -0.12,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 211.63,
-        "change": -4.98,
-        "change_pct": -2.3,
+        "price": 209.59,
+        "change": -3.58,
+        "change_pct": -1.68,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 375.77,
-        "change": -2.9,
-        "change_pct": -0.77,
+        "price": 372.69,
+        "change": -3.33,
+        "change_pct": -0.89,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 76208.5,
-        "change": -510.08,
-        "change_pct": -0.66,
+        "price": 75956.13,
+        "change": -73.93,
+        "change_pct": -0.1,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2291.09,
-        "change": 3.4,
-        "change_pct": 0.15,
-        "up": true,
+        "price": 2269.47,
+        "change": -12.75,
+        "change_pct": -0.56,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,85 +111,74 @@
     "error": false,
     "articles": [
       {
-        "title": "Shell Agrees to Buy Canada’s Arc Resources for $13.6 Billion - Bloomberg.com",
+        "title": "Stock Market Today: S&P 500, Nasdaq Retreat From Records on Busy Earnings Day; Oil Rises Further as US Mulls Iran Offer; 2-Day Fed Meeting Kicks Off - Investopedia",
+        "source": "Investopedia",
+        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-04282026-11959883",
+        "description": "Stocks mostly declined Tuesday, with the S&P 500 and Nasdaq Composite retreated from their latest all-time highs, as oil prices rose and investors digested a flurry of corporate earnings reports.",
+        "published": "4:42 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "UAE to leave OPEC amid Hormuz oil crisis, a blow to Saudi Arabia - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/04/28/uae-opec-iran-hormuz-trump-saudi/",
+        "description": "The departure weakens the Organization of the Petroleum Exporting Countries, long criticized by Trump, as the global economy reels from the Iran war energy shock.",
+        "published": "4:39 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "JPMorgan’s Dimon Warns Again on Risks of Credit Market Downturn - Bloomberg.com",
         "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-27/shell-agrees-to-buy-canada-s-arc-resources-for-13-6-billion",
-        "description": "Shell Plc agreed to buy Canadian oil and gas producer ARC Resources Ltd. for $13.6 billion, its biggest deal in more than a decade as it seeks to sustain output in the long term.",
-        "published": "4:20 PM UTC",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-28/jpmorgan-s-dimon-warns-again-on-risks-of-credit-market-downturn",
+        "description": "JPMorgan Chase & Co.’s Jamie Dimon again cautioned that a credit market downturn could be worse than expected, even after his firm and Wall Street rivals posted a banner quarter in which loan portfoli",
+        "published": "3:14 PM UTC",
         "category": "Business"
       },
       {
-        "title": "China says it will reverse major AI acquisition by Meta - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/04/27/china-ai-meta-manus/",
-        "description": "The move against Manus AI is Beijing’s most aggressive step yet to stanch the loss of AI talent to the U.S., setting up a complicated legal and political fight.",
+        "title": "PlayStation Users Report New Online License Checks For Digital Games - GameSpot",
+        "source": "GameSpot",
+        "url": "https://www.gamespot.com/articles/playstation-users-report-new-online-license-checks-for-digital-games/1100-6539651/",
+        "description": "",
+        "published": "4:40 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "The Blood of Dawnwalker launches September 3 - Gematsu",
+        "source": "Gematsu",
+        "url": "https://www.gematsu.com/2026/04/the-blood-of-dawnwalker-launches-september-3",
+        "description": "Open-world dark fantasy action RPG The Blood of Dawnwalker will launch for PlayStation 5, Xbox Series, and PC via Steam and Microsoft Store on September 3, publisher Bandai Namco and developer Rebe…",
         "published": "4:09 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Verizon Rises On Earnings Beat, Surprise Subscriber Gain - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "url": "https://www.investors.com/news/technology/verizon-earnings-beat-revenue-light-as-subscriber-additions-surprise/",
-        "description": "The telecom added more high spending \"postpaid\" phone subscribers than seen.",
-        "published": "3:22 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Riven Tides update - Reclaim the coast - ARC Raiders",
-        "source": "Arcraiders.com",
-        "url": "https://arcraiders.com/news/riven-tides",
-        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-        "published": "3:57 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Someone recreated Google’s new Gmail, Drive, Workspace icons for you to use early - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/04/27/google-workspace-new-icons-recreated/",
-        "description": "Over the weekend, 9to5Google published an early look at Google’s new icons for Workspace apps such as Gmail and Drive...",
-        "published": "3:40 PM UTC",
+        "title": "Raid Boss 2 coming May 28 - Borderlands | Official Website",
+        "source": "2k.com",
+        "url": "https://borderlands.2k.com/borderlands-4/news/raid-boss-2-coming-may-28/",
+        "description": "Get a sneak peek at this new endgame boss fight, coming with new dedicated drops and UVHM Level 7.",
+        "published": "4:04 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Enter The Gungeon Creators Say Roguelikes Have Become 'Cash-Grabby' - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/enter-the-gungeon-balatro-vampire-survivors-roguelikes-gambling-dodge-roll-cash-grab-2000690804",
-        "description": "Dodge Roll's co-founder believes the 'slot machine' aspect of Balatro and Vampire Survivors has led to a shift in the design of roguelikes",
-        "published": "2:48 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "CDC delay of infant hepatitis B shot likely to raise infections, studies show - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/health/2026/04/27/delaying-hepatitis-b-shot-newborns-infections/",
-        "description": "Federal vaccine advisers to Health Secretary Robert F. Kennedy Jr. voted in December to recommend delaying the first shot until at least two months of age for infants born to mothers who test negative",
-        "published": "4:38 PM UTC",
+        "title": "Dancing With Wolves star Nathan Chasing Horse jailed for at least 37 years for sexual assault - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx218vkdvpgo",
+        "description": "The 49-year-old exploited his position as a spiritual leader to prey on Indigenous women and girls, the US court heard.",
+        "published": "3:36 PM UTC",
         "category": "General"
       },
       {
-        "title": "DeSantis redistricting plan gives Florida GOP 4 more seats in Congress - Tampa Bay Times",
-        "source": "Tampa Bay Times",
-        "url": "https://www.tampabay.com/news/florida-politics/2026/04/27/florida-redistricting-map-desantis-trump-congress-republican-seats/",
-        "description": "The proposal could leave Tampa Bay without any Democratic representative.",
-        "published": "4:06 PM UTC",
+        "title": "Live Updates: King Charles meets with Trump at White House before address to Congress - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/",
+        "description": "King Charles III will deliver a rare address to a joint meeting of Congress on Tuesday before attending a state dinner at the White House.",
+        "published": "3:24 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [
-      {
-        "home": "Man United",
-        "away": "Brentford",
-        "home_score": 2,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "7:00 PM UTC",
-        "date": "Apr 27",
-        "highlighted": false
-      }
-    ],
+    "matches": [],
     "standings": [
       {
         "position": 1,
@@ -262,19 +251,19 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Summer Move for Bundesliga Midfielder",
-        "summary": "Arsenal are reportedly monitoring Florian Wirtz of Bayer Leverkusen as Mikel Arteta seeks a creative midfielder to elevate their title challenge next season. The German international has a valuation in excess of £100 million, with several top European clubs also in contention.",
+        "headline": "Arsenal In Advanced Talks for Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are reportedly in advanced discussions to sign a dynamic box-to-box midfielder from the Bundesliga, with the club keen to address long-standing depth concerns in central midfield following Thomas Partey's persistent injury issues. A fee in the region of £55 million is understood to be under negotiation.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Talks to Extend Moises Caicedo Contract Amid Interest",
-        "summary": "Chelsea are looking to tie down Moises Caicedo on improved terms following a string of dominant midfield performances, with the club keen to ward off interest from Real Madrid and Bayern Munich ahead of the summer window.",
+        "headline": "Chelsea Revive Interest in Napoli Striker Amid Misfiring Attack",
+        "summary": "Chelsea's recruitment team has renewed contact with Napoli over their prolific striker, with the Blues looking to add a reliable goal-scorer after a frustratingly inconsistent start to the Premier League season. Napoli are reported to value the player at around €70 million.",
         "clubs": [
           "Chelsea",
-          "Real Madrid"
+          "Napoli"
         ]
       }
     ],
@@ -282,7 +271,7 @@
       "home": "Manchester City",
       "away": "Liverpool",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The premier fixture of the Premier League weekend pits a resurgent Manchester City side against Arne Slot's Liverpool, who sit top of the table and will be desperate to extend their lead. City have won four of their last five at the Etihad and will look to Erling Haaland to punish Liverpool's high defensive line, while Liverpool's press and transition game could expose City's vulnerability when De Bruyne is pushed deep. This is a genuine six-pointer with title implications, and the tactical battle between Slot and Guardiola adds an extra layer of intrigue.",
+      "preview": "The standout fixture of the Premier League weekend sees Pep Guardiola's City host Arne Slot's Liverpool in what promises to be a pivotal top-of-the-table clash, with both sides separated by just two points heading into the match. City will be looking to reassert their domestic dominance after a rare stuttering run, while Liverpool arrive in electric form — unbeaten in their last nine across all competitions and brimming with attacking confidence. The tactical battle between Guardiola's high-defensive-line and Liverpool's rapid transition play makes this one of the most eagerly anticipated fixtures of the season.",
       "key_players": [
         "Erling Haaland",
         "Mohamed Salah",
@@ -291,79 +280,79 @@
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Expected to be assessed Friday; could miss Sunday's fixture"
-      },
-      {
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
+        "status": "Doubtful",
+        "return": "Expected to be assessed on matchday; targeting return within 1 week"
+      },
+      {
+        "player": "Diogo Jota",
+        "team": "Liverpool",
         "status": "Recovering",
-        "return": "Targeting return within 2 weeks after minor hamstring tightness"
+        "return": "Approximately 2-3 weeks; muscle strain sustained in midweek European fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Interest Rate Risk & Duration",
-      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates rise by 150 basis points, which of the following best approximates the percentage change in the bond's price?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank originates a 5-year loan with a notional of $10 million. The probability of default (PD) is 2% per year, the loss given default (LGD) is 45%, and the exposure at default (EAD) is $10 million. Using the Basel framework, which of the following best describes the relationship between Expected Loss (EL) and the loan loss reserve, and what is the annual EL?",
       "options": {
-        "A": "−10.80%",
-        "B": "−9.84%",
-        "C": "−10.80% + 0.96% = −9.84%",
-        "D": "−10.80% + 1.91% = −8.89%"
+        "A": "EL = $90,000; loan loss reserves should always exceed EL to satisfy Basel III requirements",
+        "B": "EL = $90,000; if loan loss reserves are less than EL, the shortfall is deducted from regulatory capital",
+        "C": "EL = $45,000; loan loss reserves are irrelevant to regulatory capital calculations under Basel III",
+        "D": "EL = $90,000; unexpected loss is covered by loan loss reserves, while EL is covered by economic capital"
       },
-      "correct": "C",
-      "explanation": "The full price change approximation uses both duration and convexity: %ΔP ≈ −ModDuration × Δy + 0.5 × Convexity × (Δy)². Here: −7.2 × 0.015 = −0.1080 (−10.80%) and 0.5 × 85 × (0.015)² = 0.5 × 85 × 0.000225 = +0.009563 (+0.96%). The combined estimate is −10.80% + 0.96% = −9.84%. Convexity always adds a positive adjustment regardless of the direction of the rate move, and option C correctly separates the two components before combining them."
+      "correct": "B",
+      "explanation": "Expected Loss = PD × LGD × EAD = 0.02 × 0.45 × $10,000,000 = $90,000. Under the Basel framework, EL represents the average anticipated credit loss, which should be covered by loan loss provisions (reserves). If a bank's eligible provisions fall short of the EL calculated under the IRB approach, the shortfall must be deducted from Tier 1 and Tier 2 capital. Conversely, it is Unexpected Loss (UL) — not EL — that must be covered by regulatory capital (economic capital buffers), making option D's framing reversed."
     },
     "finance_topic": {
-      "title": "The Basis Trade and Its Hidden Risks",
-      "subtitle": "How a seemingly riskless arbitrage between cash bonds and futures can become a systemic flashpoint under stress.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Basis risk arises when the hedge instrument and the hedged exposure do not move in perfect lockstep, leaving residual risk even in supposedly protected portfolios.",
       "paragraphs": [
-        "The basis trade exploits the price difference — the 'basis' — between a cash Treasury (or sovereign bond) and the corresponding futures contract. In theory, because a futures contract and the deliverable bond must converge at expiration, any divergence represents an arbitrage opportunity. Hedge funds execute this by buying the cheaper cash bond, selling the futures contract, and financing the position in the repo market, capturing the spread as profit. The strategy is theoretically market-neutral and delta-hedged, which is precisely why it attracts enormous leverage.",
-        "The March 2020 COVID shock and the 2022–2023 rate volatility episodes both revealed how dangerous this trade can become at scale. When volatility spikes, repo lenders demand more collateral (margin calls), and the futures positions simultaneously move against the fund. Forced unwinds by multiple funds simultaneously can drain liquidity from the Treasury market — the deepest and most important financial market on Earth — causing bid-ask spreads to widen dramatically and yields to spike in a disorderly fashion. The Federal Reserve's emergency repo operations in March 2020 were partly a response to basis-trade unwind pressure.",
-        "For risk managers and investors, the basis trade illustrates how leverage transforms low-volatility, low-return strategies into systemic risks. Funds running this trade may show low VaR under normal conditions but carry enormous tail risk. Regulators including the FSB and SEC have increasingly focused on mandating central clearing for Treasury repo, improving data collection on hedge fund leverage, and stress-testing the market for large-scale unwind scenarios. Portfolio managers should treat correlated forced-seller risk as a genuine factor exposure, not a zero-beta event."
+        "Basis risk is the risk that the price of a hedging instrument — such as a futures contract, interest rate swap, or credit default swap — does not move in perfect correlation with the underlying exposure being hedged. It emerges from differences in maturity, geography, credit quality, or contract specifications between the hedge and the actual position. Even a theoretically well-constructed hedge will carry some basis risk, meaning the hedge can reduce but rarely eliminate all price risk.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices generally move together but not identically, a sudden refinery disruption or regional supply shock can cause jet fuel prices to spike while crude oil futures barely budge — leaving the airline with substantial unhedged fuel costs. Similarly, a bond portfolio manager using 10-year Treasury futures to hedge a portfolio of investment-grade corporates faces basis risk from the credit spread component, which the Treasury hedge cannot neutralize.",
+        "For risk managers and investors, basis risk demands careful attention during hedge design. The hedge ratio must account for the historical correlation and volatility relationship between the hedge instrument and the exposure. Hedge effectiveness testing — required under IFRS 9 and ASC 815 accounting standards — formally measures whether the hedge is working as intended. In periods of market stress, correlations often break down, causing basis risk to spike precisely when protection is most needed."
       ],
       "key_takeaways": [
-        "The basis trade is a leveraged arbitrage between cash bonds and futures, financed via repo — its risk is liquidity and margin spiral, not market direction.",
-        "At scale, simultaneous unwinds can impair the Treasury market itself, making it a systemic rather than idiosyncratic risk.",
-        "Regulators are pushing for greater transparency, central clearing of repo, and tighter leverage limits on hedge funds running this strategy."
+        "Basis risk is the residual, unhedgeable risk that remains even after a hedge is applied, caused by imperfect correlation between the hedge and the exposure.",
+        "Common sources include mismatches in maturity, location, credit quality, and contract specifications between the hedging instrument and the underlying asset.",
+        "Effective hedge ratio design and ongoing hedge effectiveness testing are essential tools for managing and monitoring basis risk in practice."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimated expenditure",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved up",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "〜てしまいました expresses that an action was completed, often with a nuance of regret or that it happened unintentionally. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 予 as 'pre-' (forecast) and 算 as 'calculate' — a budget is something you PRE-CALCULATE. Visualize a calculator with a crystal ball sitting on top of it."
+      "example_jp": "毎月、給料の一部を貯金しています。",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_en": "Every month, I save a portion of my salary.",
+      "grammar_point": "〜ています (ongoing action or habit)",
+      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses either an action currently in progress or a habitual/repeated action. Here, 貯金しています means 'I am (habitually) saving,' describing a regular routine rather than a one-time event.",
+      "memory_tip": "Think of 貯 (cho) as 'storing' — like a treasure chest — and 金 (kin) as 'gold/money.' Chokin is literally 'stored gold': your personal treasure chest of saved money."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Automating the Junior Analyst Workflow in Finance",
-      "summary": "A new wave of agentic AI systems — where models plan, use tools, and execute multi-step tasks autonomously — is beginning to automate core junior analyst functions: pulling data, building financial models, writing first-draft memos, and screening deal flow. Firms including Goldman Sachs, JPMorgan, and a growing roster of hedge funds have deployed internal LLM-based copilots that go beyond simple Q&A to complete end-to-end research tasks. Unlike earlier RPA tools that required rigid scripting, modern AI agents can handle ambiguous instructions, iterate based on intermediate outputs, and call external APIs — compressing work that took hours into minutes. The implication is not immediate mass layoffs but a structural shift: fewer junior hires doing routine work, and a much higher productivity bar for those who remain.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Bank Lending Decisions",
+      "summary": "Major financial institutions are deploying large language models and gradient-boosted machine learning systems to augment — and in some cases automate — credit underwriting decisions for small business and consumer loans. These models ingest thousands of alternative data signals, from cash flow patterns and payment velocity to supply chain data and even satellite imagery of commercial properties, enabling faster and often more accurate risk assessments than traditional FICO-based scorecards. Regulators in the US and EU are increasingly scrutinizing these systems for explainability and fair lending compliance, creating demand for interpretable AI methods. Banks that invest now in governance frameworks around AI credit models are likely to gain a durable competitive advantage as regulatory clarity emerges.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "An AI system that can autonomously break a complex goal into subtasks, use external tools (web search, code execution, databases), and iterate toward a solution — rather than simply answering a single query."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting errors from the previous one; widely used in credit scoring because it handles messy financial data well and produces highly accurate predictions."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents or data from a knowledge base before generating a response, allowing it to answer questions grounded in proprietary or up-to-date information like earnings transcripts or internal research."
+          "term": "Explainable AI (XAI)",
+          "definition": "A set of methods — such as SHAP values and LIME — that help humans understand why an AI model made a specific prediction, critical in finance for regulatory compliance, model risk management, and fair lending audits."
         },
         {
-          "term": "Fine-Tuning",
-          "definition": "The process of further training a general-purpose AI model on domain-specific data — such as financial filings, credit agreements, or risk reports — so it develops specialized vocabulary, reasoning patterns, and accuracy for that domain."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — including bank transaction flows, social media signals, geospatial data, and web-scraped information — used to enrich financial models beyond conventional credit bureau and financial statement inputs."
         }
       ],
-      "career_insight": "Finance professionals who learn to design, evaluate, and supervise AI agent workflows — rather than simply use AI as a search tool — will have a significant career advantage over the next five years. Critical skills include prompt engineering, understanding model limitations and hallucination risks, and the ability to audit AI-generated analysis before it reaches a client or risk committee. The most durable roles will belong to those who combine domain expertise in credit, rates, or equity with enough technical fluency to act as an intelligent human-in-the-loop."
+      "career_insight": "Credit analysts and underwriters who understand the logic of machine learning models — even without coding expertise — will be far more effective at challenging model outputs, identifying edge cases, and satisfying regulators demanding human oversight. Building fluency in model risk management (MRM) principles and AI governance frameworks is rapidly becoming as important as traditional credit analysis skills for anyone working in lending, structured finance, or risk."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex cross-current this week as markets digest sticky services inflation data against a backdrop of softening global PMIs, keeping the 'higher for longer' narrative alive despite growing Fed rate-cut expectations priced for late 2025. The US dollar remains firm on a trade-weighted basis, weighing on EM currencies and commodities, while credit spreads have held surprisingly tight — suggesting institutional investors are still reaching for yield rather than de-risking. Our desk is watching Thursday's jobless claims print and any Fedspeak closely, as a single upside surprise on labor markets could reprice the short end meaningfully and pressure rate-sensitive equities heading into the weekend."
+    "market_sentiment": "Risk assets are navigating a cautious tone this morning as markets digest a resilient but cooling US labor market print alongside sticky services inflation, reinforcing the 'higher-for-longer' rate narrative heading into the next FOMC meeting. Treasury yields have edged up at the front end, flattening the 2s10s curve further, while the dollar index holds firm against most EM currencies — pressuring commodity prices and tightening financial conditions in developing economies. Equity futures are modestly in the red, with rate-sensitive sectors including utilities and REITs underperforming, while energy and financials show relative resilience; credit spreads remain contained for now, but the market is watching high-yield closely for any signs of stress as refinancing walls approach in 2025."
   }
 }
