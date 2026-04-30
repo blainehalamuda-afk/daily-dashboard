@@ -1,31 +1,24 @@
 {
-  "generated_at": "5:10 PM UTC",
-  "date": "Wednesday, April 29, 2026",
+  "generated_at": "5:04 PM UTC",
+  "date": "Thursday, April 30, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 72,
-    "feels_like_f": 73,
-    "high_f": 75,
-    "low_f": 70,
-    "description": "Broken Clouds",
-    "icon": "☁️",
-    "humidity": 70,
+    "feels_like_f": 70,
+    "high_f": 73,
+    "low_f": 72,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 43,
     "wind_mph": 5,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "🌧️",
-        "high": 60,
-        "low": 60,
-        "description": "Light Rain"
-      },
       {
         "day": "Fri",
         "icon": "☁️",
         "high": 51,
         "low": 51,
-        "description": "Broken Clouds"
+        "description": "Overcast Clouds"
       },
       {
         "day": "Sat",
@@ -33,6 +26,13 @@
         "high": 50,
         "low": 50,
         "description": "Moderate Rain"
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "high": 48,
+        "low": 48,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 709.68,
-        "change": -2.01,
-        "change_pct": -0.28,
-        "up": false,
+        "price": 714.8,
+        "change": 3.22,
+        "change_pct": 0.45,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 270.39,
-        "change": -0.32,
-        "change_pct": -0.12,
-        "up": false,
+        "price": 271.94,
+        "change": 1.77,
+        "change_pct": 0.66,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 209.59,
-        "change": -3.58,
-        "change_pct": -1.68,
+        "price": 200.46,
+        "change": -8.79,
+        "change_pct": -4.2,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 372.69,
-        "change": -3.33,
-        "change_pct": -0.89,
-        "up": false,
+        "price": 378.57,
+        "change": 5.77,
+        "change_pct": 1.55,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 75956.13,
-        "change": -73.93,
-        "change_pct": -0.1,
-        "up": false,
+        "price": 76243.07,
+        "change": 262.67,
+        "change_pct": 0.35,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2269.47,
-        "change": -12.75,
-        "change_pct": -0.56,
+        "price": 2257.22,
+        "change": -14.49,
+        "change_pct": -0.64,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,74 +111,85 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: S&P 500, Nasdaq Retreat From Records on Busy Earnings Day; Oil Rises Further as US Mulls Iran Offer; 2-Day Fed Meeting Kicks Off - Investopedia",
-        "source": "Investopedia",
-        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-04282026-11959883",
-        "description": "Stocks mostly declined Tuesday, with the S&P 500 and Nasdaq Composite retreated from their latest all-time highs, as oil prices rose and investors digested a flurry of corporate earnings reports.",
-        "published": "4:42 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "UAE to leave OPEC amid Hormuz oil crisis, a blow to Saudi Arabia - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/04/28/uae-opec-iran-hormuz-trump-saudi/",
-        "description": "The departure weakens the Organization of the Petroleum Exporting Countries, long criticized by Trump, as the global economy reels from the Iran war energy shock.",
-        "published": "4:39 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "JPMorgan’s Dimon Warns Again on Risks of Credit Market Downturn - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-28/jpmorgan-s-dimon-warns-again-on-risks-of-credit-market-downturn",
-        "description": "JPMorgan Chase & Co.’s Jamie Dimon again cautioned that a credit market downturn could be worse than expected, even after his firm and Wall Street rivals posted a banner quarter in which loan portfoli",
-        "published": "3:14 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "PlayStation Users Report New Online License Checks For Digital Games - GameSpot",
-        "source": "GameSpot",
-        "url": "https://www.gamespot.com/articles/playstation-users-report-new-online-license-checks-for-digital-games/1100-6539651/",
+        "title": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court - Reuters",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2Zzc3RXcGk5Q1ZBLUdRNVhKN0VkY3g1Q0thQTgyUWdZc0NRWkpTUUdnUmJGcU94a2VzZmJJLVQ2R0l2d1cweEhEeGNXV1VDWVlKT1JUcmVYUHYzT2FuUWt2TjVrWjhVbXliNGFMVHFZR1pXUmY5aW05WVNGZWJyR0hoc1JrS09HYlZnRVFzNjQtODJWajUxdnhaMi1fNGREX2hoLXBIaHgzSzJoQXpzTjZ3?oc=5",
         "description": "",
-        "published": "4:40 PM UTC",
+        "published": "3:51 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "S&P 500 is little changed as oil rises, traders brace for Fed decision and Big Tech earnings: Live updates - CNBC",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBucVdPQ2ViM2ZERDB6NWprRkNCeFEzN2ZZazRPMTNjT1JoM3NmQlo3QWpYYzdkYXlxU0NVNTBUSFc2bXRkYURIT3BHX296QzZDWUJCZ3ZEdjFuNmpKNS1TYVk3aUtaNFliRS1XVmZnci14Z3RtaV9v0gF8QVVfeXFMT3V3bjJfNVllbTlGbWZMcURDNG5CMzlESGZQbmE3MHA3a1kwVXZET2diVlY0Tkp5RTl2VDVwQWU1Q1ZXNkgtc2ItTjE5RGlkRkNEUm9IYXpTQTdjcDlab09vQkhrQVdwOVNPcV9GUGg4RzlRZ3pXRUEtMFdhQQ?oc=5",
+        "description": "",
+        "published": "3:31 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Uber is in the hotel business now, thanks in part to AI - TechCrunch",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0pjTE5sUi1sdktZY0w2X0c1eU1IcUpOLTFRRVE0bEJBNlpGczVDNGhsMGFpa1ZzaXBmaHp3OERGdjJTZ0ItWnhqQTN3TnNuV2dxNTJmR0NvaEFCVEY5NXJiMFV5VG5XWXhiQXB1NVNjYXRQOEhWYW16YWhydVpCMW81eTh6bVgtYjl1TGhfbVNnYW8?oc=5",
+        "description": "",
+        "published": "3:12 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "EA Sports FC 26 Headlines PlayStation Plus Monthly Games for May 2026 - IGN",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0gyOEZ5REFvR25EOWJfaUVCejJOZlljN0R0YXpVWlNRdW5GcVhIODlkRzNmY0NFVDZKMTVOX3VDckZUOFdZbnRCcUV2c2dVOEpEOHhXdUtSN194cVlFRGpwUG1VSE5La25reElCNHBqNVN3UGROR0tuLVlDT05NNWtQd0ppOGQ4QS1LT0l5cw?oc=5",
+        "description": "",
+        "published": "3:51 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "The Blood of Dawnwalker launches September 3 - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/04/the-blood-of-dawnwalker-launches-september-3",
-        "description": "Open-world dark fantasy action RPG The Blood of Dawnwalker will launch for PlayStation 5, Xbox Series, and PC via Steam and Microsoft Store on September 3, publisher Bandai Namco and developer Rebe…",
-        "published": "4:09 PM UTC",
+        "title": "Microsoft is giving its Xbox employees an Xbox email address - The Verge",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96cHhuNzhLTFkxV2dYWGZpUUwxQ1p3RjBFMjVCQzdqclF5bFU3cXJFakFJOU5jU1JldGE3SG5aTjFuZF9hbXJDSTlCam9FSlVXdlRLRkFsYU1kR2RkLTVOZ0Z2Rkk5cWd5ZmJhVkZsTGx1TlRqdFJXa2xoWmpvTnc?oc=5",
+        "description": "",
+        "published": "3:43 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Raid Boss 2 coming May 28 - Borderlands | Official Website",
-        "source": "2k.com",
-        "url": "https://borderlands.2k.com/borderlands-4/news/raid-boss-2-coming-may-28/",
-        "description": "Get a sneak peek at this new endgame boss fight, coming with new dedicated drops and UVHM Level 7.",
-        "published": "4:04 PM UTC",
+        "title": "Apple Reportedly Questioning Whether iPhone Should Drop MagSafe - MacRumors",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SSE5mLURsUk5CQWZmUHRnd3hhMU9tQ1FhNTdzdHpMRktqSmxWZjE5RWNhR05US2gweThqY01ad3pxMjRuRVlfMnBOeWh5Y0R4TWM1NFhkVERPVW1YMjZpZUxweEhiUjVmck44NDRqWXNKQzNmN1FKQUxB?oc=5",
+        "description": "",
+        "published": "3:26 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Dancing With Wolves star Nathan Chasing Horse jailed for at least 37 years for sexual assault - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx218vkdvpgo",
-        "description": "The 49-year-old exploited his position as a spiritual leader to prey on Indigenous women and girls, the US court heard.",
-        "published": "3:36 PM UTC",
+        "title": "London police say stabbing of 2 Jewish men is an act of terrorism - AP News",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWdxV2VBUkVBWHdPcTBVTkZkcUZULTVEME4tSTdQUFZCeFJPQ1BadWNVcTF1SE44eHRRNkNHalgydk53MVlpeWJ5bVNYSVhZNTh4V3ZDbzhpMk5zcjE2dEVibU5vNGpuazVTcFJGUGZqYXB4clFacFI0YmdKeXA2bHdCalRsa3FrWTFMRnRWNzgzcWxUSW13QzlPclo2dDJ3Z0JCZ1hIdmRWR1l2eEE?oc=5",
+        "description": "",
+        "published": "3:32 PM UTC",
         "category": "General"
       },
       {
-        "title": "Live Updates: King Charles meets with Trump at White House before address to Congress - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/",
-        "description": "King Charles III will deliver a rare address to a joint meeting of Congress on Tuesday before attending a state dinner at the White House.",
-        "published": "3:24 PM UTC",
+        "title": "Prosecutions of Trump’s foes add to GOP’s headaches in midterms - The Washington Post",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSS1rRmZUMkRXaGZ3eExCTnpBLUZfT0pSLVBvN0EwXzNvckRVckR1X1pxX3lkdXBkQTZfRDY2TmQ3cThORkx4cVBkZDhVOU9IQnZnVDI3MkxjTWxlREZ4SmVMUXF3WmRjQ19teVIzVXlPQllscElySkIxNHJTemhnTGxUOG5XRVNJY2ZZZl9SbmttbXdkQVQ5Ui1vc0I?oc=5",
+        "description": "",
+        "published": "3:02 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [],
+    "matches": [
+      {
+        "home": "Leeds United",
+        "away": "Burnley",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "May 1",
+        "highlighted": false
+      }
+    ],
     "standings": [
       {
         "position": 1,
@@ -251,45 +262,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal In Advanced Talks for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are reportedly in advanced discussions to sign a dynamic box-to-box midfielder from the Bundesliga, with the club keen to address long-standing depth concerns in central midfield following Thomas Partey's persistent injury issues. A fee in the region of £55 million is understood to be under negotiation.",
+        "headline": "Manchester United Targeting Sporting CP Midfielder Viktor Gyokeres as Rashford Exit Nears",
+        "summary": "Manchester United's new football structure under INEOS is understood to have held preliminary discussions over a potential move for Viktor Gyokeres, with Rashford's future at Old Trafford increasingly uncertain following reported interest from Juventus and Borussia Dortmund.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Manchester United",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Revive Interest in Napoli Striker Amid Misfiring Attack",
-        "summary": "Chelsea's recruitment team has renewed contact with Napoli over their prolific striker, with the Blues looking to add a reliable goal-scorer after a frustratingly inconsistent start to the Premier League season. Napoli are reported to value the player at around €70 million.",
+        "headline": "Arsenal Accelerate Pursuit of RB Leipzig Defender Castello Lukeba",
+        "summary": "Arsenal are stepping up efforts to sign Castello Lukeba from RB Leipzig as cover and long-term competition for Ben White at right back, with the Gunners understood to be preparing a bid in the region of £45 million ahead of the summer window closing.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Arsenal",
+          "RB Leipzig"
         ]
       }
     ],
     "match_preview": {
       "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend sees Pep Guardiola's City host Arne Slot's Liverpool in what promises to be a pivotal top-of-the-table clash, with both sides separated by just two points heading into the match. City will be looking to reassert their domestic dominance after a rare stuttering run, while Liverpool arrive in electric form — unbeaten in their last nine across all competitions and brimming with attacking confidence. The tactical battle between Guardiola's high-defensive-line and Liverpool's rapid transition play makes this one of the most eagerly anticipated fixtures of the season.",
+      "away": "Chelsea",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "Manchester City host Chelsea at the Etihad in what shapes up as a pivotal top-four battle, with Pep Guardiola's side looking to extend a six-game unbeaten run in the league after a stuttering start to the campaign. Chelsea under Enzo Maresca have shown encouraging progressive play but remain inconsistent on the road, and the tactical battle between Maresca's high press and City's positional build-up promises to be the defining subplot. City's superior squad depth and home record make them narrow favorites, but Chelsea's pace on the counter through Palmer and Jackson gives them a credible route to a result.",
       "key_players": [
+        "Cole Palmer",
         "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
+        "Moisés Caicedo"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; targeting return within 1 week"
+        "status": "Recovering",
+        "return": "Not expected before January; long-term knee injury"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Approximately 2-3 weeks; muscle strain sustained in midweek European fixture"
+        "player": "Reece James",
+        "team": "Chelsea",
+        "status": "Doubtful",
+        "return": "Week-to-week; hamstring tightness, fitness test scheduled Saturday"
       }
     ]
   },
@@ -297,62 +308,62 @@
     "cfa_frm": {
       "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A bank originates a 5-year loan with a notional of $10 million. The probability of default (PD) is 2% per year, the loss given default (LGD) is 45%, and the exposure at default (EAD) is $10 million. Using the Basel framework, which of the following best describes the relationship between Expected Loss (EL) and the loan loss reserve, and what is the annual EL?",
+      "question": "A bank estimates the one-year probability of default (PD) for a borrower at 3%, the loss given default (LGD) at 45%, and the exposure at default (EAD) at $10,000,000. Assuming independence between default events across borrowers in the portfolio, what is the expected loss (EL) and which component most directly captures collateral quality?",
       "options": {
-        "A": "EL = $90,000; loan loss reserves should always exceed EL to satisfy Basel III requirements",
-        "B": "EL = $90,000; if loan loss reserves are less than EL, the shortfall is deducted from regulatory capital",
-        "C": "EL = $45,000; loan loss reserves are irrelevant to regulatory capital calculations under Basel III",
-        "D": "EL = $90,000; unexpected loss is covered by loan loss reserves, while EL is covered by economic capital"
+        "A": "EL = $135,000; PD most directly captures collateral quality",
+        "B": "EL = $135,000; LGD most directly captures collateral quality",
+        "C": "EL = $300,000; EAD most directly captures collateral quality",
+        "D": "EL = $13,500; LGD most directly captures collateral quality"
       },
       "correct": "B",
-      "explanation": "Expected Loss = PD × LGD × EAD = 0.02 × 0.45 × $10,000,000 = $90,000. Under the Basel framework, EL represents the average anticipated credit loss, which should be covered by loan loss provisions (reserves). If a bank's eligible provisions fall short of the EL calculated under the IRB approach, the shortfall must be deducted from Tier 1 and Tier 2 capital. Conversely, it is Unexpected Loss (UL) — not EL — that must be covered by regulatory capital (economic capital buffers), making option D's framing reversed."
+      "explanation": "Expected Loss is calculated as EL = PD × LGD × EAD = 0.03 × 0.45 × $10,000,000 = $135,000. LGD, or Loss Given Default, represents the fraction of the exposure that is lost if a default occurs, and is most directly influenced by collateral quality, seniority of the claim, and recovery rates. Better collateral reduces LGD by increasing recoveries in the event of default. PD reflects the likelihood of default, while EAD measures the outstanding exposure at the time of default."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Basis risk arises when the hedge instrument and the hedged exposure do not move in perfect lockstep, leaving residual risk even in supposedly protected portfolios.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Why imperfect hedges can leave investors exposed to unexpected losses even when the direction of a trade is correct.",
       "paragraphs": [
-        "Basis risk is the risk that the price of a hedging instrument — such as a futures contract, interest rate swap, or credit default swap — does not move in perfect correlation with the underlying exposure being hedged. It emerges from differences in maturity, geography, credit quality, or contract specifications between the hedge and the actual position. Even a theoretically well-constructed hedge will carry some basis risk, meaning the hedge can reduce but rarely eliminate all price risk.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices generally move together but not identically, a sudden refinery disruption or regional supply shock can cause jet fuel prices to spike while crude oil futures barely budge — leaving the airline with substantial unhedged fuel costs. Similarly, a bond portfolio manager using 10-year Treasury futures to hedge a portfolio of investment-grade corporates faces basis risk from the credit spread component, which the Treasury hedge cannot neutralize.",
-        "For risk managers and investors, basis risk demands careful attention during hedge design. The hedge ratio must account for the historical correlation and volatility relationship between the hedge instrument and the exposure. Hedge effectiveness testing — required under IFRS 9 and ASC 815 accounting standards — formally measures whether the hedge is working as intended. In periods of market stress, correlations often break down, causing basis risk to spike precisely when protection is most needed."
+        "Basis risk arises when the hedge instrument used to offset an exposure does not move in perfect lockstep with the underlying asset being hedged. The 'basis' is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Even in a well-constructed hedge, this spread can widen or narrow unexpectedly, introducing residual profit-and-loss volatility that the hedger did not intend to bear.",
+        "A classic real-world example emerged during the 2022 energy crisis in Europe, where utilities attempted to hedge natural gas price exposure using Brent crude derivatives as a proxy. As the gas-to-oil spread broke historical norms, firms that believed they were hedged suffered significant mark-to-market losses. Similarly, fixed income managers who hedge corporate bond portfolios with Treasury futures face basis risk when credit spreads move independently of benchmark rates — a phenomenon that became painfully apparent during the March 2020 liquidity shock.",
+        "For risk managers, basis risk demands careful selection of the hedge instrument to maximize correlation with the underlying exposure, regular monitoring of the basis relationship over time, and stress testing under scenarios where historical correlations break down. Investors should understand that no hedge is perfect, and residual basis risk should be quantified and included in overall risk budgets. Regulatory frameworks like IFRS 9 also require firms to assess hedge effectiveness, meaning that excessive basis risk can disqualify an instrument from qualifying for favorable hedge accounting treatment."
       ],
       "key_takeaways": [
-        "Basis risk is the residual, unhedgeable risk that remains even after a hedge is applied, caused by imperfect correlation between the hedge and the exposure.",
-        "Common sources include mismatches in maturity, location, credit quality, and contract specifications between the hedging instrument and the underlying asset.",
-        "Effective hedge ratio design and ongoing hedge effectiveness testing are essential tools for managing and monitoring basis risk in practice."
+        "Basis risk is the residual risk remaining after a hedge is in place, arising from imperfect correlation between the hedging instrument and the underlying exposure.",
+        "Cross-commodity and proxy hedges carry higher basis risk and can generate unexpected losses when historical spread relationships break down under stress.",
+        "Effective risk management requires ongoing monitoring of basis, stress testing correlation assumptions, and factoring residual basis risk into overall portfolio risk budgets."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved up",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (ongoing action or habit)",
-      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses either an action currently in progress or a habitual/repeated action. Here, 貯金しています means 'I am (habitually) saving,' describing a regular routine rather than a one-time event.",
-      "memory_tip": "Think of 貯 (cho) as 'storing' — like a treasure chest — and 金 (kin) as 'gold/money.' Chokin is literally 'stored gold': your personal treasure chest of saved money."
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — like saying 'I went and did it' or 'it's all done now.' It combines the te-form of a verb with しまう (shimau), which signals completion or an unintended result.",
+      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you are allowed to spend. Picture a calculator with 'YO-SAN' stamped on it showing your spending limit."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Bank Lending Decisions",
-      "summary": "Major financial institutions are deploying large language models and gradient-boosted machine learning systems to augment — and in some cases automate — credit underwriting decisions for small business and consumer loans. These models ingest thousands of alternative data signals, from cash flow patterns and payment velocity to supply chain data and even satellite imagery of commercial properties, enabling faster and often more accurate risk assessments than traditional FICO-based scorecards. Regulators in the US and EU are increasingly scrutinizing these systems for explainability and fair lending compliance, creating demand for interpretable AI methods. Banks that invest now in governance frameworks around AI credit models are likely to gain a durable competitive advantage as regulatory clarity emerges.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Major Banks",
+      "summary": "Leading global banks including JPMorgan, HSBC, and several European lenders are deploying large language models and gradient boosting ensembles to augment traditional credit underwriting workflows. These systems ingest alternative data — including supply chain signals, satellite imagery, and real-time cash flow analytics — alongside traditional financials to generate probability-of-default scores with materially lower false-negative rates than legacy scorecards. The shift is compressing credit analyst headcount in routine SME lending while simultaneously creating demand for model validation specialists and AI governance roles. Regulators in the EU and US are responding with draft frameworks requiring explainability audits for any AI model used in credit decisioning above materiality thresholds.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting errors from the previous one; widely used in credit scoring because it handles messy financial data well and produces highly accurate predictions."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many simple decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions for structured tabular data like loan applications and financial ratios — currently the dominant algorithm in quantitative credit scoring."
         },
         {
           "term": "Explainable AI (XAI)",
-          "definition": "A set of methods — such as SHAP values and LIME — that help humans understand why an AI model made a specific prediction, critical in finance for regulatory compliance, model risk management, and fair lending audits."
+          "definition": "A set of techniques — such as SHAP (SHapley Additive exPlanations) — that decompose a model's output to show which input features drove a specific prediction, critical for satisfying regulatory requirements that lenders must explain credit decisions to applicants and auditors."
         },
         {
           "term": "Alternative Data",
-          "definition": "Non-traditional data sources — including bank transaction flows, social media signals, geospatial data, and web-scraped information — used to enrich financial models beyond conventional credit bureau and financial statement inputs."
+          "definition": "Non-traditional data sources — including web traffic, satellite imagery, social sentiment, and payment network flows — used to supplement or replace conventional financial statements in credit and investment models, enabling assessment of borrowers or companies with limited financial history."
         }
       ],
-      "career_insight": "Credit analysts and underwriters who understand the logic of machine learning models — even without coding expertise — will be far more effective at challenging model outputs, identifying edge cases, and satisfying regulators demanding human oversight. Building fluency in model risk management (MRM) principles and AI governance frameworks is rapidly becoming as important as traditional credit analysis skills for anyone working in lending, structured finance, or risk."
+      "career_insight": "Risk and credit professionals who can bridge the gap between model outputs and business or regulatory judgment are the most sought-after talent in finance right now — pure quants who cannot explain their models to a credit committee or regulator are increasingly vulnerable. Building fluency in model validation frameworks (SR 11-7, ECB TRIM), learning to interpret SHAP values, and understanding the data governance requirements of AI-driven decisioning will differentiate candidates over the next three to five years."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a cautious tone this morning as markets digest a resilient but cooling US labor market print alongside sticky services inflation, reinforcing the 'higher-for-longer' rate narrative heading into the next FOMC meeting. Treasury yields have edged up at the front end, flattening the 2s10s curve further, while the dollar index holds firm against most EM currencies — pressuring commodity prices and tightening financial conditions in developing economies. Equity futures are modestly in the red, with rate-sensitive sectors including utilities and REITs underperforming, while energy and financials show relative resilience; credit spreads remain contained for now, but the market is watching high-yield closely for any signs of stress as refinancing walls approach in 2025."
+    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the session, with US equity futures edging higher as markets digest a slightly softer-than-expected core PCE print that keeps a September Fed rate cut firmly in play — two-year Treasury yields have retreated to 4.68%, and the dollar index is drifting lower, providing a modest tailwind to EM assets and commodities. Credit spreads are grinding tighter at the index level, though single-name dispersion is elevated as Q2 earnings season reveals a widening gap between margin resilience in tech and mega-cap consumer names versus stress in rate-sensitive mid-cap industrials. The macro narrative this week centers on whether the disinflation trajectory is durable or whether a re-acceleration in services inflation forces the Fed to push back the easing timeline — watch Thursday's ISM Services PMI as the near-term sentiment catalyst."
   }
 }
