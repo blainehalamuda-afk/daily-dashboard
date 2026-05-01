@@ -1,31 +1,24 @@
 {
-  "generated_at": "5:04 PM UTC",
-  "date": "Thursday, April 30, 2026",
+  "generated_at": "3:35 PM UTC",
+  "date": "Friday, May 1, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 72,
-    "feels_like_f": 70,
-    "high_f": 73,
-    "low_f": 72,
-    "description": "Scattered Clouds",
-    "icon": "⛅",
-    "humidity": 43,
-    "wind_mph": 5,
+    "temp_f": 61,
+    "feels_like_f": 59,
+    "high_f": 63,
+    "low_f": 59,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 50,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Fri",
-        "icon": "☁️",
-        "high": 51,
-        "low": 51,
-        "description": "Overcast Clouds"
-      },
       {
         "day": "Sat",
         "icon": "🌧️",
-        "high": 50,
-        "low": 50,
-        "description": "Moderate Rain"
+        "high": 51,
+        "low": 51,
+        "description": "Light Rain"
       },
       {
         "day": "Sun",
@@ -33,6 +26,13 @@
         "high": 48,
         "low": 48,
         "description": "Clear Sky"
+      },
+      {
+        "day": "Mon",
+        "icon": "⛅",
+        "high": 52,
+        "low": 52,
+        "description": "Scattered Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 714.8,
-        "change": 3.22,
-        "change_pct": 0.45,
+        "price": 723.3,
+        "change": 4.64,
+        "change_pct": 0.65,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 271.94,
-        "change": 1.77,
-        "change_pct": 0.66,
+        "price": 283.65,
+        "change": 12.3,
+        "change_pct": 4.53,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 200.46,
-        "change": -8.79,
-        "change_pct": -4.2,
+        "price": 198.79,
+        "change": -0.78,
+        "change_pct": -0.39,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 378.57,
-        "change": 5.77,
-        "change_pct": 1.55,
+        "price": 393.55,
+        "change": 11.92,
+        "change_pct": 3.12,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 76243.07,
-        "change": 262.67,
-        "change_pct": 0.35,
+        "price": 78565.26,
+        "change": 2136.09,
+        "change_pct": 2.79,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2257.22,
-        "change": -14.49,
-        "change_pct": -0.64,
-        "up": false,
+        "price": 2311.4,
+        "change": 45.17,
+        "change_pct": 1.99,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court - Reuters",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2Zzc3RXcGk5Q1ZBLUdRNVhKN0VkY3g1Q0thQTgyUWdZc0NRWkpTUUdnUmJGcU94a2VzZmJJLVQ2R0l2d1cweEhEeGNXV1VDWVlKT1JUcmVYUHYzT2FuUWt2TjVrWjhVbXliNGFMVHFZR1pXUmY5aW05WVNGZWJyR0hoc1JrS09HYlZnRVFzNjQtODJWajUxdnhaMi1fNGREX2hoLXBIaHgzSzJoQXpzTjZ3?oc=5",
-        "description": "",
-        "published": "3:51 PM UTC",
+        "title": "Live Updates: Iran war pushes oil prices to 4-year high as Hegseth set to face fresh round of questioning - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-hegseth-costs-strait-of-hormuz/",
+        "description": "Oil prices hit a 4-year high as Axios reports Trump will hear new options to try to break the Strait of Hormuz standoff with Iran with a new wave of attacks.",
+        "published": "2:38 PM UTC",
         "category": "Business"
       },
       {
-        "title": "S&P 500 is little changed as oil rises, traders brace for Fed decision and Big Tech earnings: Live updates - CNBC",
+        "title": "Stock Market Today: Indexes Mixed at End of Strong Month; Caterpillar Powers Dow; Nasdaq Falls as Investors Digest Big Tech Earnings - Investopedia",
         "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBucVdPQ2ViM2ZERDB6NWprRkNCeFEzN2ZZazRPMTNjT1JoM3NmQlo3QWpYYzdkYXlxU0NVNTBUSFc2bXRkYURIT3BHX296QzZDWUJCZ3ZEdjFuNmpKNS1TYVk3aUtaNFliRS1XVmZnci14Z3RtaV9v0gF8QVVfeXFMT3V3bjJfNVllbTlGbWZMcURDNG5CMzlESGZQbmE3MHA3a1kwVXZET2diVlY0Tkp5RTl2VDVwQWU1Q1ZXNkgtc2ItTjE5RGlkRkNEUm9IYXpTQTdjcDlab09vQkhrQVdwOVNPcV9GUGg4RzlRZ3pXRUEtMFdhQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1pUWkRhdGhReWZzRDRCT1p1VjRKUTBtZml5LVV5MFU3Ullfb3p4ak0yaVhid0xYbGQ2ZmhpbHhOYm1PWkgxNnZ0eUEyX2F4ZTE2TS1oVmJrRGZEUk9iNjZVSzZXbTZkR3NXejFwODdNcnh5cmxmcjI5MWg3SGtUQ2hUODFLV3Z6QnBIZjV4LXc?oc=5",
         "description": "",
-        "published": "3:31 PM UTC",
+        "published": "2:35 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Uber is in the hotel business now, thanks in part to AI - TechCrunch",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0pjTE5sUi1sdktZY0w2X0c1eU1IcUpOLTFRRVE0bEJBNlpGczVDNGhsMGFpa1ZzaXBmaHp3OERGdjJTZ0ItWnhqQTN3TnNuV2dxNTJmR0NvaEFCVEY5NXJiMFV5VG5XWXhiQXB1NVNjYXRQOEhWYW16YWhydVpCMW81eTh6bVgtYjl1TGhfbVNnYW8?oc=5",
-        "description": "",
-        "published": "3:12 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "EA Sports FC 26 Headlines PlayStation Plus Monthly Games for May 2026 - IGN",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0gyOEZ5REFvR25EOWJfaUVCejJOZlljN0R0YXpVWlNRdW5GcVhIODlkRzNmY0NFVDZKMTVOX3VDckZUOFdZbnRCcUV2c2dVOEpEOHhXdUtSN194cVlFRGpwUG1VSE5La25reElCNHBqNVN3UGROR0tuLVlDT05NNWtQd0ppOGQ4QS1LT0l5cw?oc=5",
-        "description": "",
-        "published": "3:51 PM UTC",
+        "title": "A PvE Analysis of Steeled Resolve: Taken Over - Pokémon GO Hub",
+        "source": "Pokemon GO Hub",
+        "url": "https://pokemongohub.net/post/meta/a-pve-analysis-of-steeled-resolve-taken-over/",
+        "description": "Welcome, Trainers! Another Team GO Rocket takeover is here, and this time it’s the Steeled Resolve: Taken Over event bringing a fresh wave of Shadow Pokémon into Pokémon GO. With Rocket Grunts, Leader",
+        "published": "12:35 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Microsoft is giving its Xbox employees an Xbox email address - The Verge",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96cHhuNzhLTFkxV2dYWGZpUUwxQ1p3RjBFMjVCQzdqclF5bFU3cXJFakFJOU5jU1JldGE3SG5aTjFuZF9hbXJDSTlCam9FSlVXdlRLRkFsYU1kR2RkLTVOZ0Z2Rkk5cWd5ZmJhVkZsTGx1TlRqdFJXa2xoWmpvTnc?oc=5",
+        "title": "Want to Max Out The Blood of Dawnwalker at 4K on PC? It'll Cost You at Least $3,000 - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-specs-rtx-5090-4k-max-setting",
         "description": "",
-        "published": "3:43 PM UTC",
+        "published": "12:27 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Apple Reportedly Questioning Whether iPhone Should Drop MagSafe - MacRumors",
+        "title": "Warhammer 40,000: Armageddon Unboxing – 1 May 2026 - Warhammer Community",
         "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SSE5mLURsUk5CQWZmUHRnd3hhMU9tQ1FhNTdzdHpMRktqSmxWZjE5RWNhR05US2gweThqY01ad3pxMjRuRVlfMnBOeWh5Y0R4TWM1NFhkVERPVW1YMjZpZUxweEhiUjVmck44NDRqWXNKQzNmN1FKQUxB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1lZdU5heG0waDUxTnZpRllGYlNsR2QwZTFsN21RcXVpUl9tR2x6b3ZySXdya3JOWnQySEhLaVBqVVJiRWpUejc3TmhpeEg5Vmkwd05jS3RKeGhyM2JpVmpwb0czYV9uS2V1ZmJieGg2azVQLWNjZW1jRkpZeUN0TTVlT0FzbmNwRWlXaGhHYjlaZFRVa2FlNUZOMjl5cWtlWEJpdG9faHJaRU0?oc=5",
         "description": "",
-        "published": "3:26 PM UTC",
+        "published": "12:16 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "London police say stabbing of 2 Jewish men is an act of terrorism - AP News",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWdxV2VBUkVBWHdPcTBVTkZkcUZULTVEME4tSTdQUFZCeFJPQ1BadWNVcTF1SE44eHRRNkNHalgydk53MVlpeWJ5bVNYSVhZNTh4V3ZDbzhpMk5zcjE2dEVibU5vNGpuazVTcFJGUGZqYXB4clFacFI0YmdKeXA2bHdCalRsa3FrWTFMRnRWNzgzcWxUSW13QzlPclo2dDJ3Z0JCZ1hIdmRWR1l2eEE?oc=5",
-        "description": "",
-        "published": "3:32 PM UTC",
+        "title": "Mills drops out of Maine Senate race, setting up Platner to face Collins - Politico",
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/04/30/janet-mills-maine-senate-dropout-00899664",
+        "description": "The shocking move shakes up one of the year’s most important Senate races and is a blow to Chuck Schumer.",
+        "published": "2:00 PM UTC",
         "category": "General"
       },
       {
-        "title": "Prosecutions of Trump’s foes add to GOP’s headaches in midterms - The Washington Post",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSS1rRmZUMkRXaGZ3eExCTnpBLUZfT0pSLVBvN0EwXzNvckRVckR1X1pxX3lkdXBkQTZfRDY2TmQ3cThORkx4cVBkZDhVOU9IQnZnVDI3MkxjTWxlREZ4SmVMUXF3WmRjQ19teVIzVXlPQllscElySkIxNHJTemhnTGxUOG5XRVNJY2ZZZl9SbmttbXdkQVQ5Ui1vc0I?oc=5",
-        "description": "",
-        "published": "3:02 PM UTC",
+        "title": "LIV Golf announces new strategic plans, intends to continue operations after losing Saudi funding - Yahoo Sports",
+        "source": "Yahoo Entertainment",
+        "url": "https://sports.yahoo.com/golf/article/liv-golf-announces-new-strategic-plans-intends-to-continue-operations-after-losing-saudi-funding-110036418.html",
+        "description": "LIV Golf is searching for new strategies after the loss of Saudi funding.",
+        "published": "1:20 PM UTC",
         "category": "General"
       }
     ]
@@ -187,6 +179,46 @@
         "status": "TIMED",
         "time": "7:00 PM UTC",
         "date": "May 1",
+        "highlighted": false
+      },
+      {
+        "home": "Brentford",
+        "away": "West Ham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 2",
+        "highlighted": false
+      },
+      {
+        "home": "Newcastle",
+        "away": "Brighton Hove",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 2",
+        "highlighted": false
+      },
+      {
+        "home": "Wolverhampton",
+        "away": "Sunderland",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 2",
+        "highlighted": false
+      },
+      {
+        "home": "Arsenal",
+        "away": "Fulham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "4:30 PM UTC",
+        "date": "May 2",
         "highlighted": false
       }
     ],
@@ -262,74 +294,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Targeting Sporting CP Midfielder Viktor Gyokeres as Rashford Exit Nears",
-        "summary": "Manchester United's new football structure under INEOS is understood to have held preliminary discussions over a potential move for Viktor Gyokeres, with Rashford's future at Old Trafford increasingly uncertain following reported interest from Juventus and Borussia Dortmund.",
+        "headline": "Arsenal Revive Interest in Athletic Club Midfielder Nico Williams",
+        "summary": "Arsenal are reported to have reopened talks over a potential summer move for Spain international Nico Williams, with the Gunners seeking creative reinforcement to mount a genuine Premier League title challenge next season. Williams, valued at over £75 million, has also attracted interest from Barcelona and Paris Saint-Germain.",
         "clubs": [
-          "Manchester United",
-          "Sporting CP"
+          "Arsenal",
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Arsenal Accelerate Pursuit of RB Leipzig Defender Castello Lukeba",
-        "summary": "Arsenal are stepping up efforts to sign Castello Lukeba from RB Leipzig as cover and long-term competition for Ben White at right back, with the Gunners understood to be preparing a bid in the region of £45 million ahead of the summer window closing.",
+        "headline": "Manchester United Target Sporting CP Striker Viktor Gyokeres",
+        "summary": "Manchester United are understood to be monitoring Viktor Gyokeres closely as they plan a major summer rebuild under INEOS, with the prolific Swedish striker having scored over 40 goals across all competitions this season. Gyokeres has a reported release clause in the region of £86 million, and United face competition from Arsenal and several top European clubs.",
         "clubs": [
-          "Arsenal",
-          "RB Leipzig"
+          "Manchester United",
+          "Sporting CP"
         ]
       }
     ],
     "match_preview": {
       "home": "Manchester City",
-      "away": "Chelsea",
+      "away": "Liverpool",
       "date": "Sunday, 4:30 PM BST",
-      "preview": "Manchester City host Chelsea at the Etihad in what shapes up as a pivotal top-four battle, with Pep Guardiola's side looking to extend a six-game unbeaten run in the league after a stuttering start to the campaign. Chelsea under Enzo Maresca have shown encouraging progressive play but remain inconsistent on the road, and the tactical battle between Maresca's high press and City's positional build-up promises to be the defining subplot. City's superior squad depth and home record make them narrow favorites, but Chelsea's pace on the counter through Palmer and Jackson gives them a credible route to a result.",
+      "preview": "This blockbuster top-four clash at the Etihad carries enormous weight, with Liverpool looking to cement their title credentials while City desperately need three points to keep pace in what has been an inconsistent domestic campaign. Pep Guardiola will be keen to rediscover the clinical edge that has evaded City in recent weeks, while Arne Slot's Liverpool arrive in fine form having won five of their last six in all competitions. The tactical battle between City's positional play and Liverpool's high-energy counter-pressing promises to be the defining subplot of the afternoon.",
       "key_players": [
-        "Cole Palmer",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Moisés Caicedo"
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Not expected before January; long-term knee injury"
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; could feature from the bench"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
-        "status": "Doubtful",
-        "return": "Week-to-week; hamstring tightness, fitness test scheduled Saturday"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Expected to return within 2-3 weeks following a hamstring strain"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank estimates the one-year probability of default (PD) for a borrower at 3%, the loss given default (LGD) at 45%, and the exposure at default (EAD) at $10,000,000. Assuming independence between default events across borrowers in the portfolio, what is the expected loss (EL) and which component most directly captures collateral quality?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. An investor claims the bond's yield to maturity (YTM) must be less than its coupon rate. Which of the following best explains why, and what does this imply about the bond's price relative to par?",
       "options": {
-        "A": "EL = $135,000; PD most directly captures collateral quality",
-        "B": "EL = $135,000; LGD most directly captures collateral quality",
-        "C": "EL = $300,000; EAD most directly captures collateral quality",
-        "D": "EL = $13,500; LGD most directly captures collateral quality"
+        "A": "The YTM exceeds the coupon rate because the bond trades at a discount; investors require additional return beyond the coupon.",
+        "B": "The YTM equals the coupon rate because the bond is fairly valued; coupon income exactly compensates for time value.",
+        "C": "The YTM is less than the coupon rate because the bond trades at a premium; the capital loss at maturity reduces total return below the coupon.",
+        "D": "The YTM is less than the coupon rate because the bond trades at a discount; capital gains at maturity boost total return above the coupon."
       },
-      "correct": "B",
-      "explanation": "Expected Loss is calculated as EL = PD × LGD × EAD = 0.03 × 0.45 × $10,000,000 = $135,000. LGD, or Loss Given Default, represents the fraction of the exposure that is lost if a default occurs, and is most directly influenced by collateral quality, seniority of the claim, and recovery rates. Better collateral reduces LGD by increasing recoveries in the event of default. PD reflects the likelihood of default, while EAD measures the outstanding exposure at the time of default."
+      "correct": "C",
+      "explanation": "When a bond's price exceeds par (premium bond), the investor will experience a capital loss at maturity as the bond is redeemed at par. This capital loss offsets part of the coupon income, making the YTM lower than the stated coupon rate. The inverse relationship between bond price and yield confirms that a price above par ($1,054.17 > $1,000) corresponds to a YTM below the 6% coupon rate. Option D incorrectly describes the bond as trading at a discount while still concluding YTM is below the coupon rate, which is contradictory."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why imperfect hedges can leave investors exposed to unexpected losses even when the direction of a trade is correct.",
+      "title": "Duration Gap and Bank Interest Rate Risk",
+      "subtitle": "How mismatches between asset and liability durations expose financial institutions to devastating rate-driven losses.",
       "paragraphs": [
-        "Basis risk arises when the hedge instrument used to offset an exposure does not move in perfect lockstep with the underlying asset being hedged. The 'basis' is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Even in a well-constructed hedge, this spread can widen or narrow unexpectedly, introducing residual profit-and-loss volatility that the hedger did not intend to bear.",
-        "A classic real-world example emerged during the 2022 energy crisis in Europe, where utilities attempted to hedge natural gas price exposure using Brent crude derivatives as a proxy. As the gas-to-oil spread broke historical norms, firms that believed they were hedged suffered significant mark-to-market losses. Similarly, fixed income managers who hedge corporate bond portfolios with Treasury futures face basis risk when credit spreads move independently of benchmark rates — a phenomenon that became painfully apparent during the March 2020 liquidity shock.",
-        "For risk managers, basis risk demands careful selection of the hedge instrument to maximize correlation with the underlying exposure, regular monitoring of the basis relationship over time, and stress testing under scenarios where historical correlations break down. Investors should understand that no hedge is perfect, and residual basis risk should be quantified and included in overall risk budgets. Regulatory frameworks like IFRS 9 also require firms to assess hedge effectiveness, meaning that excessive basis risk can disqualify an instrument from qualifying for favorable hedge accounting treatment."
+        "The duration gap measures the difference between the weighted average duration of a bank's assets and the duration of its liabilities, scaled by the leverage ratio. A positive duration gap means the bank's assets are more sensitive to interest rate changes than its liabilities — so when rates rise, asset values fall faster than liabilities, compressing net worth. This concept became a cornerstone of balance sheet risk management after the S&L crisis of the 1980s, where institutions holding long-term fixed mortgages funded by short-term deposits were wiped out by rising rates.",
+        "The collapse of Silicon Valley Bank in March 2023 provided a stark modern reminder. SVB had accumulated a massive portfolio of long-duration U.S. Treasuries and mortgage-backed securities funded by short-term, largely uninsured deposits. When the Federal Reserve hiked rates by over 500 basis points between 2022 and 2023, the market value of SVB's assets fell sharply while its deposit liabilities remained near face value. The resulting duration gap — estimated at over 5 years — produced unrealized losses exceeding the bank's entire equity base, triggering a classic bank run once disclosed.",
+        "For risk managers, monitoring and actively managing the duration gap is essential to asset-liability management (ALM). Strategies include using interest rate swaps to convert fixed-rate assets to floating, shortening asset maturities, or extending liability durations through longer-term debt issuance. Regulators now increasingly scrutinize AOCI (Accumulated Other Comprehensive Income) exclusions that previously allowed banks to mask unrealized bond losses from regulatory capital calculations — a key policy lesson from the SVB episode."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is in place, arising from imperfect correlation between the hedging instrument and the underlying exposure.",
-        "Cross-commodity and proxy hedges carry higher basis risk and can generate unexpected losses when historical spread relationships break down under stress.",
-        "Effective risk management requires ongoing monitoring of basis, stress testing correlation assumptions, and factoring residual basis risk into overall portfolio risk budgets."
+        "A positive duration gap exposes a bank to net worth erosion when interest rates rise, as assets reprice downward faster than liabilities.",
+        "SVB's 2023 failure demonstrated that duration mismanagement combined with concentrated, rate-sensitive depositors is a lethal combination.",
+        "Risk managers can neutralize duration gaps using interest rate swaps, portfolio repositioning, or liability structure adjustments within an ALM framework."
       ]
     },
     "japanese": {
@@ -337,33 +369,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — like saying 'I went and did it' or 'it's all done now.' It combines the te-form of a verb with しまう (shimau), which signals completion or an unintended result.",
-      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you are allowed to spend. Picture a calculator with 'YO-SAN' stamped on it showing your spending limit."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It's formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money YOU have set aside. If you overspend your 'yo-san,' you'll say 'shimaimashita' with a regretful sigh!"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Major Banks",
-      "summary": "Leading global banks including JPMorgan, HSBC, and several European lenders are deploying large language models and gradient boosting ensembles to augment traditional credit underwriting workflows. These systems ingest alternative data — including supply chain signals, satellite imagery, and real-time cash flow analytics — alongside traditional financials to generate probability-of-default scores with materially lower false-negative rates than legacy scorecards. The shift is compressing credit analyst headcount in routine SME lending while simultaneously creating demand for model validation specialists and AI governance roles. Regulators in the EU and US are responding with draft frameworks requiring explainability audits for any AI model used in credit decisioning above materiality thresholds.",
+      "headline": "AI Agents Are Now Autonomously Executing Complex Financial Research Tasks",
+      "summary": "Multi-step AI agents — systems that can plan, search, calculate, and synthesize across multiple tools without human intervention — are moving from research labs into production environments at major financial institutions. Firms like BlackRock, JPMorgan, and a new wave of fintech startups are deploying agentic AI to automate tasks like earnings call analysis, covenant monitoring, portfolio stress testing, and regulatory document review. Unlike single-prompt large language models, these agents can chain dozens of reasoning steps, query external databases, and self-correct — dramatically compressing the time from data to insight. The implications for analyst workflows, due diligence processes, and risk operations are profound and accelerating rapidly.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many simple decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions for structured tabular data like loan applications and financial ratios — currently the dominant algorithm in quantitative credit scoring."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously break down complex goals into sub-tasks, use tools (search, code execution, databases), and iterate toward a solution — enabling end-to-end automation of multi-step financial workflows like credit analysis or portfolio rebalancing."
         },
         {
-          "term": "Explainable AI (XAI)",
-          "definition": "A set of techniques — such as SHAP (SHapley Additive exPlanations) — that decompose a model's output to show which input features drove a specific prediction, critical for satisfying regulatory requirements that lenders must explain credit decisions to applicants and auditors."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model retrieves relevant documents or data (e.g., SEC filings, earnings transcripts, market data) in real time before generating a response, grounding outputs in current, firm-specific information rather than relying solely on training data."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — including web traffic, satellite imagery, social sentiment, and payment network flows — used to supplement or replace conventional financial statements in credit and investment models, enabling assessment of borrowers or companies with limited financial history."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built AI model on domain-specific financial data — such as credit agreements, analyst reports, or risk models — so it develops specialized expertise beyond its general knowledge base."
         }
       ],
-      "career_insight": "Risk and credit professionals who can bridge the gap between model outputs and business or regulatory judgment are the most sought-after talent in finance right now — pure quants who cannot explain their models to a credit committee or regulator are increasingly vulnerable. Building fluency in model validation frameworks (SR 11-7, ECB TRIM), learning to interpret SHAP values, and understanding the data governance requirements of AI-driven decisioning will differentiate candidates over the next three to five years."
+      "career_insight": "Finance professionals who understand how to design, prompt, evaluate, and govern AI agent workflows will command significant premiums over those who merely consume AI outputs. The most durable skill set combines deep domain expertise — knowing what a good credit memo or risk model looks like — with the ability to architect AI-assisted processes, audit model outputs for hallucinations, and communicate AI-driven insights to senior stakeholders and regulators."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the session, with US equity futures edging higher as markets digest a slightly softer-than-expected core PCE print that keeps a September Fed rate cut firmly in play — two-year Treasury yields have retreated to 4.68%, and the dollar index is drifting lower, providing a modest tailwind to EM assets and commodities. Credit spreads are grinding tighter at the index level, though single-name dispersion is elevated as Q2 earnings season reveals a widening gap between margin resilience in tech and mega-cap consumer names versus stress in rate-sensitive mid-cap industrials. The macro narrative this week centers on whether the disinflation trajectory is durable or whether a re-acceleration in services inflation forces the Fed to push back the easing timeline — watch Thursday's ISM Services PMI as the near-term sentiment catalyst."
+    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the week, with U.S. equities holding near all-time highs as markets digest a resilient labor market against a backdrop of sticky core services inflation that continues to complicate the Fed's easing calculus — rate cut expectations have been trimmed to one or two moves for 2025, keeping the front end of the Treasury curve elevated. Credit spreads are tight by historical standards, suggesting complacency that may not fully price tail risks from persistent geopolitical friction and a softening in Chinese domestic demand, which is weighing on commodity-linked EM currencies. The dollar index (DXY) remains firm, acting as the key pressure valve — any material softening in U.S. data could trigger a swift rotation into non-dollar assets and duration, so watch Thursday's CPI print as the week's critical catalyst."
   }
 }
