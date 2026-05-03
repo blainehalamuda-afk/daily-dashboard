@@ -1,25 +1,18 @@
 {
   "generated_at": "2:38 PM UTC",
-  "date": "Saturday, May 2, 2026",
+  "date": "Sunday, May 3, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 54,
-    "feels_like_f": 53,
-    "high_f": 56,
-    "low_f": 52,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 83,
-    "wind_mph": 11,
+    "temp_f": 57,
+    "feels_like_f": 55,
+    "high_f": 61,
+    "low_f": 55,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 46,
+    "wind_mph": 9,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "☀️",
-        "high": 48,
-        "low": 48,
-        "description": "Clear Sky"
-      },
       {
         "day": "Mon",
         "icon": "☀️",
@@ -33,6 +26,13 @@
         "high": 57,
         "low": 57,
         "description": "Scattered Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "☁️",
+        "high": 63,
+        "low": 63,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 78417.23,
-        "change": 310.43,
-        "change_pct": 0.4,
+        "price": 78696.07,
+        "change": 289.6,
+        "change_pct": 0.37,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2306.8,
-        "change": 4.7,
-        "change_pct": 0.2,
+        "price": 2325.59,
+        "change": 19.02,
+        "change_pct": 0.82,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow Futures Edge Up; Apple, Alphabet in Focus — Live Updates - WSJ",
+        "title": "Spirit Airlines shuts down after White House rescue deal falls through - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/05/02/spirit-airlines-flights-shutdown/",
+        "description": "The airline said early Saturday it had “no choice” but to wind down operations immediately, dashing hopes of a last-minute financial lifeline.",
+        "published": "2:26 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Berkshire Profits More Than Double on Gains in Insurance, Railroad, Energy Businesses - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-01-2026",
-        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
-        "published": "12:06 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Elon Musk’s Tesla Compensation Last Year Surpassed $158 Billion - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/autos/elon-musks-tesla-compensation-last-year-surpassed-158-billion-3c84f683",
+        "url": "https://www.wsj.com/business/earnings/berkshire-hathaway-earnings-q1-2026-brk-b-stock-f9148eb1",
         "description": "",
-        "published": "11:23 AM UTC",
+        "published": "12:46 PM UTC",
         "category": "Business"
       },
       {
-        "title": "How well can EVs handle the heat — and the cold? AAA put them to the test - NPR",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/05/01/nx-s1-5794657/aaa-electric-vehicle-batteries-range-summer-winter",
-        "description": "Electric vehicles lose some range in the winter — and, to a lesser degree, in the summer. But exactly how much? AAA has brand-new data.",
-        "published": "11:00 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Valve “Game Consoles” shipments and SteamOS update point to Steam Machine launch prep - VideoCardz.com",
-        "source": "Videocardz.com",
-        "url": "https://videocardz.com/newz/valve-may-be-preparing-steam-machine-stock-as-game-consoles-reach-us-warehouse",
+        "title": "The UAE Quit OPEC Because Its Sovereign Wealth Now Dwarfs Oil - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/jamesbroughel/2026/05/02/the-uae-quit-opec-because-its-sovereign-wealth-now-dwarfs-oil/",
         "description": "",
+        "published": "10:00 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Old-School iPods Are Making A Comeback Thanks To A Gen Z Loophole - bgr.com",
+        "source": "BGR",
+        "url": "https://www.bgr.com/2158017/ipods-making-comeback-thanks-to-gen-z-loophole/",
+        "description": "Old-school iPods are popular with Gen Z, partly because they have no connectivity. That means they can be used in places that iPhones and other devices can't.",
         "published": "10:17 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet - TechCrunch",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-        "description": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-        "published": "2:00 AM UTC",
+        "title": "Google is finally fixing its most annoying design mistake - Android Police",
+        "source": "Android Police",
+        "url": "https://www.androidpolice.com/google-is-finally-fixing-its-most-annoying-design-mistake/",
+        "description": "I can finally tell Google's apps apart again",
+        "published": "10:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "World Heroes Perfect ‘NEO GEO Premium Selection’ edition announced for PC - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/04/world-heroes-perfect-neo-geo-premium-selection-edition-announced-for-pc",
-        "description": "SNK has announced a new version of 1995-released fighting game World Heroes Perfect for PC (Steam) as part of its “NEO GEO Premium Selection”—a selection of NEO GEO titles upgrade…",
-        "published": "1:27 AM UTC",
+        "title": "5 Summer Tires That Outperform Michelin In Price And Performance - SlashGear",
+        "source": "SlashGear",
+        "url": "https://www.slashgear.com/2157790/summer-tires-that-outperform-michelin-price-performance/",
+        "description": "Michelin tires frequently dominate just about every tire test you can think of, but nowadays, there are other options that perform better than the French giant.",
+        "published": "9:45 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Could the FCC yank ABC's TV licenses amid Trump spat with Kimmel? - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/fcc-disney-abc-broadcast-licenses-kimmel-trump/",
-        "description": "Federal telecom regulators can revoke broadcast licenses, but legal experts say the FCC would face a tough road in forcing ABC to go dark.",
-        "published": "12:33 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "More people are heading to the ER for tick bites this year. Here’s why. - The Washington Post",
+        "title": "Trump fundraiser shares plans for ‘Garden of Heroes,’ golf course as takeover looms - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/health/2026/05/01/tick-bites-emergency-room-visits/",
-        "description": "Experts point to several reasons for the larger-than-usual spike, but there are easy ways to protect yourself.",
-        "published": "11:32 AM UTC",
+        "url": "https://www.washingtonpost.com/sports/2026/05/02/trump-garden-golf-east-potomac-plans/",
+        "description": "A fundraising pitch obtained by The Washington Post touts plans, which have not been approved, to dramatically reshape parts of Washington’s waterfront.",
+        "published": "1:19 PM UTC",
         "category": "General"
       }
     ]
@@ -180,21 +172,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Leeds United",
-        "away": "Burnley",
-        "home_score": 3,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "7:00 PM UTC",
-        "date": "May 1",
-        "highlighted": false
-      },
-      {
         "home": "Brentford",
         "away": "West Ham",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "IN_PLAY",
+        "home_score": 3,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "May 2",
         "highlighted": false
@@ -202,9 +184,9 @@
       {
         "home": "Newcastle",
         "away": "Brighton Hove",
-        "home_score": 2,
-        "away_score": 0,
-        "status": "IN_PLAY",
+        "home_score": 3,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "May 2",
         "highlighted": false
@@ -212,9 +194,9 @@
       {
         "home": "Wolverhampton",
         "away": "Sunderland",
-        "home_score": 0,
+        "home_score": 1,
         "away_score": 1,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "May 2",
         "highlighted": false
@@ -222,9 +204,9 @@
       {
         "home": "Arsenal",
         "away": "Fulham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 3,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "4:30 PM UTC",
         "date": "May 2",
         "highlighted": false
@@ -232,9 +214,9 @@
       {
         "home": "Bournemouth",
         "away": "Crystal Palace",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "1:00 PM UTC",
         "date": "May 3",
         "highlighted": false
@@ -242,9 +224,9 @@
       {
         "home": "Man United",
         "away": "Liverpool",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:30 PM UTC",
         "date": "May 3",
         "highlighted": false
@@ -258,18 +240,38 @@
         "time": "6:00 PM UTC",
         "date": "May 3",
         "highlighted": false
+      },
+      {
+        "home": "Chelsea",
+        "away": "Nottingham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 4",
+        "highlighted": false
+      },
+      {
+        "home": "Everton",
+        "away": "Man City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "May 4",
+        "highlighted": false
       }
     ],
     "standings": [
       {
         "position": 1,
         "team": "Arsenal",
-        "played": 34,
-        "won": 22,
+        "played": 35,
+        "won": 23,
         "drawn": 7,
         "lost": 5,
-        "gd": 38,
-        "points": 73,
+        "gd": 41,
+        "points": 76,
         "highlighted": false
       },
       {
@@ -286,23 +288,23 @@
       {
         "position": 3,
         "team": "Man United",
-        "played": 34,
+        "played": 35,
         "won": 17,
-        "drawn": 10,
+        "drawn": 11,
         "lost": 7,
         "gd": 14,
-        "points": 61,
+        "points": 62,
         "highlighted": false
       },
       {
         "position": 4,
         "team": "Liverpool",
-        "played": 34,
+        "played": 35,
         "won": 17,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 10,
         "gd": 13,
-        "points": 58,
+        "points": 59,
         "highlighted": false
       },
       {
@@ -318,13 +320,13 @@
       },
       {
         "position": 6,
-        "team": "Brentford",
+        "team": "Bournemouth",
         "played": 35,
-        "won": 14,
-        "drawn": 9,
-        "lost": 12,
-        "gd": 4,
-        "points": 51,
+        "won": 12,
+        "drawn": 16,
+        "lost": 7,
+        "gd": 2,
+        "points": 52,
         "highlighted": false
       }
     ]
@@ -332,108 +334,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Revive Interest in Athletic Club Midfielder Nico Williams",
-        "summary": "Arsenal's technical director has reportedly reopened dialogue with Athletic Club regarding Nico Williams, with the Gunners seeking additional creativity in central and wide midfield areas ahead of the January window. Williams' release clause is understood to remain active, though Athletic Club are resistant to a mid-season departure.",
+        "headline": "Arsenal Weighing Summer Move for Bundesliga Midfielder",
+        "summary": "Arsenal's recruitment team is reportedly monitoring a high-profile central midfielder currently impressing in the Bundesliga, with the club looking to add creativity and pressing intensity to Mikel Arteta's engine room ahead of next season. Personal terms are said to be the key stumbling block as the player weighs Champions League ambitions.",
         "clubs": [
           "Arsenal",
-          "Athletic Club"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Set to Offload Casemiro in January Cost-Cutting Move",
-        "summary": "Manchester United are exploring options to move on Casemiro in January as part of INEOS's squad cost reduction initiative, with clubs in Saudi Arabia and MLS believed to be monitoring the situation. The Brazilian midfielder's high wages have made a Premier League move complicated.",
+        "headline": "Chelsea in Advanced Talks Over Defensive Reinforcement",
+        "summary": "Chelsea are understood to be in advanced discussions to sign a left-footed centre-back on a long-term deal, with the Stamford Bridge hierarchy keen to address defensive consistency issues that have cost the club points in tight matches this season. A fee in the region of £45 million is being discussed.",
         "clubs": [
-          "Manchester United",
-          "Al-Qadsiah"
+          "Chelsea",
+          "Atletico Madrid"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The fixture of the season arrives at Anfield as league leaders Liverpool host a Manchester City side desperately seeking to arrest a damaging run of form that has seen them slip to mid-table. Arne Slot's Liverpool have been the division's most consistent side, combining defensive solidity with devastating transitions, while Pep Guardiola faces perhaps his most testing period in English football. City's injury crisis in defense and midfield gives Liverpool a significant structural advantage, though Erling Haaland's presence means one moment of vulnerability could alter the game entirely.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's most anticipated fixture of the season arrives with both sides separated by just two points in the table, turning the Etihad into a genuine title-decider in all but name. City will look to exploit their home fortress record under Pep Guardiola, while Liverpool's relentless high press and the electric form of their front three make them arguably the most dangerous away side in the division. The tactical battle between Guardiola's positional play and Liverpool's vertical transition game promises to be one of the defining matches of the campaign.",
       "key_players": [
-        "Mohamed Salah",
         "Erling Haaland",
-        "Virgil van Dijk"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; targeting return within 7-10 days"
+        "return": "Being assessed ahead of the weekend; 50/50 to feature"
       },
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Long-term — not expected to return before March 2025"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Expected to return to full training within 10-14 days"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank has a loan portfolio with an expected loss (EL) of $12 million, an unexpected loss (UL) of $28 million, and economic capital allocated at the 99.9% confidence level of $45 million. Which of the following best describes the role of economic capital in credit risk management?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is currently priced at $950. If the bond's yield to maturity increases by 50 basis points, which of the following best describes the price sensitivity of this bond compared to an otherwise identical bond with a 4% coupon?",
       "options": {
-        "A": "Economic capital covers expected losses that are not absorbed by loan loss provisions.",
-        "B": "Economic capital is held to absorb unexpected losses beyond the expected loss, protecting the bank's solvency at a defined confidence level.",
-        "C": "Economic capital equals the sum of expected loss and unexpected loss, representing the total risk exposure of the portfolio.",
-        "D": "Economic capital is the regulatory minimum capital required under Basel III for the loan portfolio."
+        "A": "The 6% coupon bond will exhibit greater price sensitivity because its higher cash flows increase duration.",
+        "B": "The 4% coupon bond will exhibit greater price sensitivity because lower coupon payments result in higher duration.",
+        "C": "Both bonds will exhibit identical price sensitivity because they share the same maturity and face value.",
+        "D": "The 6% coupon bond will exhibit greater price sensitivity because it is currently trading at a discount."
       },
       "correct": "B",
-      "explanation": "Economic capital is specifically designed to cover unexpected losses — the losses that exceed what is anticipated on average (expected loss). Expected losses are typically covered by loan loss provisions and pricing, while economic capital acts as a buffer against tail-risk events at a chosen confidence level (here, 99.9%). It is an internally determined measure, distinct from regulatory capital, and reflects the bank's own risk appetite and portfolio characteristics. The $45M here exceeds the $28M UL because it is calibrated to a high-confidence threshold, capturing extreme but plausible scenarios."
+      "explanation": "Duration, the primary measure of interest rate sensitivity, is inversely related to coupon rate. A lower coupon bond has a higher proportion of its total present value derived from the distant par repayment, which increases its weighted-average time to cash flows (duration). Therefore, the 4% coupon bond has higher duration and will experience a larger percentage price change for a given shift in yield. The current discount pricing of the 6% bond is irrelevant to this comparison."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Why hedges rarely deliver perfect protection — and what that gap costs risk managers.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why imperfect hedges can leave portfolios more exposed than managers realize.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep. The 'basis' is defined as the difference between the spot price of the exposure and the futures or derivative price used to hedge it. Because no two instruments are perfectly correlated, even a well-constructed hedge retains residual risk — this is basis risk. It exists in virtually every asset class, from commodity hedges using standardized futures contracts to interest rate hedges using swaps tied to slightly different benchmark rates.",
-        "A classic real-world example is a jet fuel hedge using crude oil futures. Airlines routinely hedge fuel costs using WTI or Brent crude futures contracts because liquid jet fuel futures markets are limited. However, jet fuel refining spreads, regional supply dynamics, and delivery logistics mean jet fuel prices can diverge sharply from crude benchmarks during stress periods — as seen during COVID-19 supply dislocations in 2020, when hedges that looked robust on paper failed to offset actual fuel procurement cost changes by meaningful margins.",
-        "For risk managers and portfolio hedgers, basis risk demands careful monitoring of the correlation between hedged item and hedging instrument over time, especially during crisis periods when correlations tend to break down. When designing hedges, professionals should compute hedge effectiveness ratios and apply regression-based hedge ratios (beta-adjusted) rather than assuming a one-to-one hedge. Under IFRS 9 and ASC 815 accounting standards, hedge ineffectiveness resulting from basis risk must be recognized in the income statement, making it both a financial and a reporting concern."
+        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, creating a residual exposure even after the hedge is in place. Formally, basis is defined as the difference between the spot price of the asset to be hedged and the futures or derivative price used to hedge it. While a perfect hedge would eliminate all price risk, in practice, differences in credit quality, geography, tenor, or liquidity ensure that basis is rarely zero and almost never constant over time.",
+        "A classic real-world example emerged during the 2008 financial crisis, when many banks used credit default swap indices (such as CDX) to hedge bespoke corporate loan books. The index reflected broad investment-grade credit conditions, while individual loan portfolios carried idiosyncratic risks tied to specific borrowers and sectors. As correlations broke down under stress, the hedge underperformed dramatically — the loan books fell in value while the CDS index hedges only partially offset losses, crystallising significant basis losses. Similarly, airlines hedging jet fuel exposure with crude oil futures routinely face basis risk because the crack spread between crude and refined jet fuel fluctuates independently.",
+        "For investors and risk managers, basis risk demands that hedging effectiveness be stress-tested under correlated and uncorrelated market regimes. A hedge ratio of 1.0 calculated under normal conditions may be wholly inadequate during liquidity crunches or sector dislocations. Risk managers should decompose total portfolio risk into systematic (hedgeable) and idiosyncratic (unhedgeable) components, monitor basis daily, and maintain capital reserves to absorb residual basis exposure. Regulators under Basel III and FRTB increasingly require firms to explicitly model and capitalize basis risk rather than netting it away."
       ],
       "key_takeaways": [
-        "Basis risk is the residual price risk remaining after a hedge is placed, caused by imperfect correlation between the exposure and the hedging instrument.",
-        "Cross-commodity or cross-rate hedges (e.g., hedging jet fuel with crude futures) carry higher basis risk than direct hedges, especially during market dislocations.",
-        "Hedge ratios should be regression-calibrated and dynamically monitored — accounting standards require that basis-driven ineffectiveness flows through the P&L."
+        "Basis risk is the residual price risk remaining after a hedge is established, caused by imperfect correlation between the hedged asset and the hedging instrument.",
+        "Basis risk tends to widen dramatically during market stress, precisely when hedges are most needed — making stress-testing of hedge effectiveness critical.",
+        "Risk managers must treat basis as a live, dynamic variable, not a static assumption, and hold capital against it under modern regulatory frameworks like FRTB."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kontsuki no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that something was completed, often with a sense of regret or that it happened unintentionally. It combines the て-form of a verb with しまう, and in past polite form becomes しまいました.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money you planned for. If you blow past your 'yo-san,' you'll say shimaimashita with a sigh!"
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) is used to express that an action has been completed, often with a nuance of regret or that something happened unintentionally or completely. It combines the te-form of a verb with しまう (shimau), meaning 'to end up doing' or 'to finish doing.'",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money you've set aside for yourself. Picture counting out your 'yo-san' coins into a jar labelled 'BUDGET.'"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Replacing Junior Analysts in Fixed Income Research",
-      "summary": "Large asset managers and sell-side banks are deploying autonomous AI agents capable of ingesting earnings transcripts, central bank communications, and macro data feeds to produce first-draft research notes with minimal human input. Firms like BlackRock, JPMorgan, and several quant hedge funds have moved beyond simple co-pilot tools toward multi-agent systems that can independently run scenarios, flag covenant breaches in credit documents, and synthesize cross-asset signals. The speed advantage is significant — tasks that previously took a junior analyst two days can be completed in minutes, compressing the traditional research production cycle. Finance professionals are now being evaluated less on information retrieval and synthesis, and more on their ability to frame the right questions, validate AI outputs, and translate findings into client-facing judgment.",
+      "headline": "AI-Powered Credit Models Are Quietly Reshaping Bank Underwriting Desks",
+      "summary": "Major global banks are deploying large language models and gradient boosting algorithms to augment — and in some cases replace — traditional scorecard-based credit underwriting. These models ingest alternative data sources including supply chain signals, real-time payment flows, and satellite imagery of commercial properties to generate dynamic credit assessments that update faster than quarterly filings allow. The shift is compressing underwriting timelines from weeks to hours for mid-market corporate borrowers, while simultaneously raising questions about model explainability and fair lending compliance. Regulators in the US and EU are actively developing guidance on algorithmic accountability in credit decisions, making governance frameworks as strategically important as the models themselves.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, take sequences of actions, and use tools (like web search, code execution, or database queries) to complete multi-step financial tasks without constant human prompting — such as monitoring credit spreads and auto-generating alerts."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the previous one, widely used in credit scoring because it handles non-linear relationships and missing data better than traditional logistic regression."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents (e.g., bond indentures, 10-Ks, Fed statements) from a private database before generating a response, ensuring answers are grounded in specific, up-to-date financial source material rather than generic training data."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as web traffic, satellite imagery, app usage, or payment network flows — used to supplement or replace conventional financial statements in credit and investment analysis, particularly valuable for assessing borrowers with thin credit histories."
         },
         {
-          "term": "Hallucination Risk",
-          "definition": "The tendency of large language models to confidently generate plausible-sounding but factually incorrect outputs — a critical risk in finance where a fabricated earnings figure or regulatory citation could drive flawed investment decisions or compliance failures."
+          "term": "Model Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) is a method for interpreting black-box ML models by quantifying each input feature's contribution to a specific prediction — critical in regulated finance contexts where lenders must justify credit decisions to regulators and applicants."
         }
       ],
-      "career_insight": "Finance professionals who will thrive are those who develop 'AI fluency' — the ability to design effective prompts, audit model outputs for accuracy and bias, and understand when AI analysis should be overridden by domain judgment. Risk managers in particular need to build frameworks for model governance that treat AI-generated analysis as a model risk issue, requiring documentation, validation, and ongoing performance monitoring just like any quantitative model."
+      "career_insight": "Finance professionals who can sit at the intersection of credit domain expertise and ML model governance — understanding both what a model is doing and why a regulator might object — are commanding significant premium in hiring markets. The most valuable skill combination in 2025 is not coding fluency alone, but the ability to challenge model assumptions, design validation frameworks, and communicate AI-driven decisions to boards and regulators in plain language."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a delicate macro inflection point as markets recalibrate Fed rate-cut expectations in the wake of still-sticky services inflation and a resilient labor market, with the front end of the Treasury curve remaining under pressure and 2Y yields hovering near cycle highs. Credit spreads have held remarkably tight given the rate volatility backdrop, reflecting ongoing demand for carry, though leveraged loan refinancing risk and CRE exposure at regional banks remain the key tail risks to monitor into year-end. Equities are in a narrow range as earnings season approaches — consensus estimates appear vulnerable to negative revisions in consumer discretionary and industrials, while energy and financials continue to attract rotation flows from macro funds positioning for a higher-for-longer regime."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a mixed bag of developed-market PMI prints, with US services activity holding above the expansion threshold while European manufacturing continues to drag on growth outlooks. Treasury yields have drifted modestly lower on renewed speculation that the Fed may have room for one additional cut before year-end, though core PCE stickiness continues to keep the committee in a data-dependent holding pattern. Equity markets are displaying classic late-cycle rotation dynamics — defensives and dividend growers outperforming high-multiple growth names — as investors hedge against the possibility that the soft-landing narrative gets tested by tightening credit conditions in the small-cap and commercial real estate segments."
   }
 }
