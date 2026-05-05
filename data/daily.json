@@ -1,25 +1,18 @@
 {
-  "generated_at": "5:17 PM UTC",
-  "date": "Monday, May 4, 2026",
+  "generated_at": "5:07 PM UTC",
+  "date": "Tuesday, May 5, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 75,
-    "feels_like_f": 74,
-    "high_f": 77,
-    "low_f": 73,
+    "temp_f": 78,
+    "feels_like_f": 77,
+    "high_f": 80,
+    "low_f": 75,
     "description": "Broken Clouds",
     "icon": "☁️",
-    "humidity": 30,
-    "wind_mph": 6,
+    "humidity": 37,
+    "wind_mph": 16,
     "forecast": [
-      {
-        "day": "Tue",
-        "icon": "🌤️",
-        "high": 58,
-        "low": 58,
-        "description": "Few Clouds"
-      },
       {
         "day": "Wed",
         "icon": "☁️",
@@ -30,9 +23,16 @@
       {
         "day": "Thu",
         "icon": "🌧️",
-        "high": 65,
-        "low": 65,
+        "high": 64,
+        "low": 64,
         "description": "Light Rain"
+      },
+      {
+        "day": "Fri",
+        "icon": "☁️",
+        "high": 51,
+        "low": 51,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 717.33,
-        "change": -3.32,
-        "change_pct": -0.46,
-        "up": false,
+        "price": 723.49,
+        "change": 5.48,
+        "change_pct": 0.76,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 276.86,
-        "change": -3.28,
-        "change_pct": -1.17,
-        "up": false,
+        "price": 282.15,
+        "change": 5.32,
+        "change_pct": 1.92,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 197.3,
-        "change": -1.15,
-        "change_pct": -0.58,
+        "price": 197.66,
+        "change": -0.82,
+        "change_pct": -0.41,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 392.41,
-        "change": 1.59,
-        "change_pct": 0.41,
-        "up": true,
+        "price": 391.97,
+        "change": -0.54,
+        "change_pct": -0.14,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 80463.96,
-        "change": 1760.45,
-        "change_pct": 2.24,
+        "price": 81283.08,
+        "change": 1014.37,
+        "change_pct": 1.26,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2366.75,
-        "change": 37.25,
-        "change_pct": 1.6,
+        "price": 2364.45,
+        "change": 4.58,
+        "change_pct": 0.19,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "United Airlines passenger allegedly assaulted flight attendant, tried to get into cockpit - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/united-airlines-passenger-assaults-flight-attendant-rcna343332",
-        "description": "A United Airlines passenger allegedly attacked a crew member and attempted to access the cockpit before being removed by police at Newark Liberty International Airport on Saturday evening",
-        "published": "5:39 PM UTC",
+        "title": "Circle jumps 16% on Clarity Act compromise that preserves stablecoin rewards - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/04/circle-jumps-16percent-on-clarity-act-compromise-that-preserves-stablecoin-rewards.html",
+        "description": "Lawmakers over the weekend reached a compromise on the market structure bill known as the CLARITY Act that keeps stablecoin reward programs intact.",
+        "published": "3:10 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Inside Spirit Airlines’ failed ‘Hail Mary’ to the Trump administration - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/05/03/politics/bailout-attempt-spirit-airlines-trump",
-        "description": "Winding down a major US airline is a complicated business. Doing so when the president of the United States hints it could be saved adds another layer of complexity.",
-        "published": "4:43 PM UTC",
+        "title": "67% of Americans fear running out of money in retirement more than death itself - MSN",
+        "source": "msnNOW",
+        "url": "https://www.msn.com/en-us/money/personalfinance/67-of-americans-fear-running-out-of-money-in-retirement-more-than-death-itself/vi-AA22mVbm",
+        "description": "",
+        "published": "3:01 PM UTC",
         "category": "Business"
       },
       {
-        "title": "The Paradox of Medical AI Implementation - Ground Truths | Eric Topol",
-        "source": "Substack.com",
-        "url": "https://erictopol.substack.com/p/the-paradox-of-medical-ai-implementation",
-        "description": "From Missed Opportunities to Missing Evidence",
-        "published": "2:31 PM UTC",
+        "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
+        "source": "Aboutamazon.com",
+        "url": "https://www.aboutamazon.com/news/retail/amazon-supply-chain-services-for-business",
+        "description": "Any business can now move, store, and deliver everything from raw materials to finished products using the same supply chain that supports Amazon and its independent selling partners.",
+        "published": "2:44 PM UTC",
         "category": "Business"
       },
       {
-        "title": "ICYMI: Indiana Jones And The Great Circle Estimated Switch 2 File Size Revealed - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/05/icymi-indiana-jones-and-the-great-circle-estimated-switch-2-file-size-revealed",
-        "description": "Make some space",
-        "published": "6:00 PM UTC",
+        "title": "Popular 1990s internet search giant shuts down - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/fox-news-tech/ask-com-shuts-down-search-business",
+        "description": "Ask.com is shutting down its search business after nearly 30 years as parent IAC refocuses operations, marking the end of an early internet search brand.",
+        "published": "3:57 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Rumored Assassin’s Creed PvP Game’s Playtest Reportedly A Huge Letdown - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/rumored-assassins-creed-invictus-pvp-games-playtest-reportedly-a-huge-letdown-2000692801",
-        "description": "The repeatedly delayed and much speculated Fall Guys-esque “Assassin’s Creed Invictus” had a reportedly rocky outing last month",
-        "published": "5:00 PM UTC",
+        "title": "iOS 26.5 Coming Soon With These New Features - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/05/04/ios-26-5-coming-soon-with-these-new-features/",
+        "description": "iOS 26.5 is expected to be released this May, following more than a month of beta testing. The update is relatively minor so far, which is not too...",
+        "published": "3:40 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "\"This Is Fine\" Dog Fights For Therapy In Official Metroidvania - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/this-is-fine-dog-fights-for-overdue-therapy-in-official-metroidvania-2000692724",
-        "description": "In This Is Fine: Maximum Cope, help Question Hound overcome his anxieties in this nightmare-inspired video game debut",
-        "published": "4:02 PM UTC",
+        "title": "Intel Core 9 273PQE with 12 P-cores beats Core i9-14900K in several gaming tests - VideoCardz.com",
+        "source": "Videocardz.com",
+        "url": "https://videocardz.com/newz/intel-core-9-273pqe-with-12-p-cores-beats-core-i9-14900k-in-several-gaming-tests",
+        "description": "Core 9 273PQE gaming tests show up to 10% lead over Core i9-14900K Bartlett Lake-S is not a consumer gaming CPU, but Zed Up’s tests show how Intel’s",
+        "published": "3:22 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Ship is attacked near Strait of Hormuz as Iran reviews US response to latest proposal - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-454006a0a9bb19a45a2f299c0869cefb",
-        "description": "A cargo ship near the Strait of Hormuz has reported an attack by multiple small craft, according to a British military monitor, and all crew members are safe. Iranian officials continue to claim contr",
-        "published": "6:12 PM UTC",
+        "title": "Two killed after car driven into crowd in German city Leipzig, mayor says - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o",
+        "description": "Mayor Burkhard Jung said a suspect was detained and the motive was unclear.",
+        "published": "4:13 PM UTC",
         "category": "General"
       },
       {
-        "title": "Sen. Raphael Warnock says Supreme Court's voting rights decision \"poured fuel on this redistricting arms race\" - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/raphael-warnock-callais-decision-supreme-court-redistricting-gerrymandering/",
-        "description": "Democratic Sen. Raphael Warnock of Georgia called the Supreme Court's decision last week to strike down Louisiana's congressional map and weaken the Voting Rights Act \"a massive and devastating blow.\"",
-        "published": "4:52 PM UTC",
+        "title": "Astronomers believe they’ve detected an atmosphere around a tiny, icy world beyond Pluto - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/pluto-atmosphere-kuiper-belt-c6b0ec2e0631f47c25ce18479b14e1ed",
+        "description": "A new study suggests that a tiny, icy world beyond Pluto harbors a thin, delicate atmosphere. It's believed to be the smallest object yet with a clearly detected global atmosphere. Japanese astronomer",
+        "published": "3:02 PM UTC",
         "category": "General"
       }
     ]
@@ -179,36 +179,6 @@
   "sports": {
     "error": false,
     "matches": [
-      {
-        "home": "Bournemouth",
-        "away": "Crystal Palace",
-        "home_score": 3,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "1:00 PM UTC",
-        "date": "May 3",
-        "highlighted": false
-      },
-      {
-        "home": "Man United",
-        "away": "Liverpool",
-        "home_score": 3,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "2:30 PM UTC",
-        "date": "May 3",
-        "highlighted": false
-      },
-      {
-        "home": "Aston Villa",
-        "away": "Tottenham",
-        "home_score": 1,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "6:00 PM UTC",
-        "date": "May 3",
-        "highlighted": false
-      },
       {
         "home": "Chelsea",
         "away": "Nottingham",
@@ -222,9 +192,9 @@
       {
         "home": "Everton",
         "away": "Man City",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 3,
+        "away_score": 3,
+        "status": "FINISHED",
         "time": "7:00 PM UTC",
         "date": "May 4",
         "highlighted": false
@@ -245,12 +215,12 @@
       {
         "position": 2,
         "team": "Man City",
-        "played": 33,
+        "played": 34,
         "won": 21,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 5,
         "gd": 37,
-        "points": 70,
+        "points": 71,
         "highlighted": false
       },
       {
@@ -302,45 +272,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Targeting Bundesliga Midfielder in £55M Summer Move",
-        "summary": "Arsenal are understood to have made a formal approach for a dynamic box-to-box midfielder from a top Bundesliga side, with personal terms reported to be in advanced stages. The Gunners view the signing as the final piece needed to challenge for the Premier League title next season.",
+        "headline": "Liverpool Tracking Sporting CP Midfielder Viktor Gyökeres Amid Summer Rebuild",
+        "summary": "Liverpool's sporting director is understood to have held preliminary discussions regarding the Swedish striker, who has been one of Europe's most prolific forwards this season with over 30 league goals. Sporting are expected to demand a fee in excess of £80 million, and several top clubs are monitoring the situation ahead of the summer window.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Liverpool",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Loan Star Eyed for Permanent Deal Amid Strong Season Form",
-        "summary": "A forward currently on loan at a mid-table Premier League side has attracted significant interest from his parent club Chelsea, who are reconsidering a planned summer sale after an impressive run of eight goals in eleven appearances. Rival clubs are also monitoring the situation closely.",
+        "headline": "Chelsea in Advanced Talks for Bayer Leverkusen Winger Florian Wirtz",
+        "summary": "Chelsea are reportedly pushing hard to secure the signature of German international Florian Wirtz, with talks between club representatives accelerating over the past two weeks. Leverkusen are determined to retain their prized asset through the end of the Bundesliga season but have acknowledged that a world-record offer could force their hand.",
         "clubs": [
           "Chelsea",
-          "Crystal Palace"
+          "Bayer Leverkusen"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's most enduring rivalry of the past decade resumes at the Etihad in what is effectively a six-point swing match in the title race, with both sides separated by just two points at the top of the table. City will look to leverage home advantage and their superior depth in midfield, while Liverpool under their energetic system will press high and look to exploit transitions — a tactic that carved City open in the reverse fixture. The storyline of Salah versus the City backline adds individual intrigue to what is already the most anticipated fixture of the season.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Emirates hosts what is arguably the Premier League fixture of the season as Arsenal welcome Manchester City in a title six-pointer that could define the championship race. Arsenal enter on a seven-match unbeaten run in all competitions and will draw significant energy from a sold-out home crowd, while City have shown renewed consistency under Guardiola following a turbulent mid-season injury crisis. The tactical battle between Arsenal's high press and City's positional build-up play promises to be compelling, with both managers expected to make subtle schematic adjustments to exploit perceived weaknesses in the opposing structure.",
       "key_players": [
-        "Mohamed Salah",
+        "Bukayo Saka",
         "Erling Haaland",
-        "Alexis Mac Allister"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; 50/50 to feature"
-      },
-      {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected to return to full training within 10 days; likely available after the international break"
+        "return": "Long-term absentee; potential late-season return being assessed week by week"
+      },
+      {
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Expected to be assessed on Thursday; could return within 10-14 days if scan results are positive"
       }
     ]
   },
@@ -348,62 +318,62 @@
     "cfa_frm": {
       "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model. The model produces a joint default probability that is significantly lower than what is observed during periods of market stress. Which of the following best explains this limitation?",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model. The model is calibrated to a correlation parameter of 0.30. Which of the following best describes the PRIMARY limitation of using a Gaussian copula to model credit portfolio losses during a systemic crisis?",
       "options": {
-        "A": "The Gaussian copula overstates tail dependence, causing it to overestimate joint default probabilities during stress periods.",
-        "B": "The Gaussian copula assumes linear correlation, which fails to capture the increased co-movement of defaults during tail events, underestimating joint default probabilities in stress scenarios.",
-        "C": "The Gaussian copula relies on historical default rates that are inherently forward-looking, introducing model bias.",
-        "D": "The Gaussian copula is only applicable to investment-grade bonds and systematically misprices high-yield credit portfolios regardless of market conditions."
+        "A": "The Gaussian copula overstates tail dependence, causing the model to overestimate joint default probabilities in stress scenarios.",
+        "B": "The Gaussian copula assumes zero correlation between defaults, making it inappropriate for diversified portfolios.",
+        "C": "The Gaussian copula underestimates tail dependence, leading to underestimation of the probability of simultaneous defaults during market stress.",
+        "D": "The Gaussian copula cannot incorporate credit spreads as inputs, limiting its real-world applicability."
       },
-      "correct": "B",
-      "explanation": "The Gaussian copula is notorious for underestimating tail dependence — the tendency for assets to default together during extreme market stress. Because it models dependence through linear (Pearson) correlation, it assigns insufficient probability mass to joint tail events, making it appear safer than reality during crises. This flaw was central to the 2008 financial crisis, where structured credit products backed by the Gaussian copula dramatically underestimated correlated mortgage defaults. Copulas with heavier tails, such as the Student-t copula, are better suited to capture this tail co-movement."
+      "correct": "C",
+      "explanation": "The Gaussian copula is symmetric and has thin tails, meaning it captures little tail dependence — the tendency for assets to default together precisely when conditions are worst. During systemic crises, defaults cluster far more than the Gaussian copula implies, causing models to drastically underestimate joint tail losses. This was a central critique following the 2008 financial crisis, where CDO tranches modeled with Gaussian copulas suffered unexpected correlated defaults. Alternative copulas such as the Student-t or Clayton copula better capture asymmetric and heavy tail dependence."
     },
     "finance_topic": {
-      "title": "Basis Risk in Interest Rate Hedging",
-      "subtitle": "Why a hedge that looks perfect on paper can still leave significant residual risk on the table.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why a hedge is never perfect and how residual risk can erode risk management effectiveness.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying risk being hedged. In interest rate markets, basis risk commonly appears when a firm hedges a floating-rate liability tied to SOFR using a futures contract benchmarked to Treasury bills, or when the maturity of the hedge instrument differs from the maturity of the exposure. Even if both instruments respond to the same broad interest rate environment, the spread between them — the 'basis' — can widen or narrow unpredictably, leaving the hedger exposed to residual profit or loss.",
-        "A classic real-world example emerged during the post-LIBOR transition period. Many corporates had legacy loans priced off USD LIBOR while their interest rate swaps referenced different tenors or fallback rates. As LIBOR was discontinued and replaced by SOFR, the spread between the two benchmarks fluctuated, generating unexpected hedge ineffectiveness. Airlines and utilities, which frequently use fuel or interest rate derivatives to lock in costs, experienced similar basis mismatches when front-month futures diverged from spot prices during supply shocks.",
-        "For risk managers, basis risk must be explicitly quantified and reported rather than assumed away. Hedge effectiveness testing under IFRS 9 and ASC 815 requires firms to demonstrate that the hedging relationship remains within an 80–125% effectiveness corridor — a threshold that basis risk can easily breach during volatile markets. Portfolio managers should consider whether the cost savings of using a liquid proxy hedge instrument outweigh the basis risk introduced, and stress-test the basis under historical and hypothetical scenarios."
+        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. Formally, the basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when a hedger selects a closely related contract, changes in supply-demand dynamics, credit spreads, liquidity, and contract specifications can cause the basis to widen or narrow unpredictably, leaving residual unhedged exposure.",
+        "A classic real-world example is an airline hedging jet fuel costs using WTI crude oil futures. While jet fuel prices are highly correlated with crude oil, they are not identical — refining margins, regional supply disruptions, and seasonal demand can cause jet fuel to move independently. During the COVID-19 crisis, airlines that held crude futures found that as oil prices collapsed, their hedging gains were partially offset by the fact that jet fuel demand had essentially evaporated, creating an unexpected mismatch between hedge payoff and actual cost relief. Similarly, fixed-income portfolio managers using Treasury futures to hedge corporate bond duration face credit spread basis risk — the Treasury hedge responds only to rate moves, not to widening spreads.",
+        "For risk managers, basis risk demands that hedge effectiveness be continuously monitored using metrics such as the hedge ratio, R-squared of the hedge regression, and dollar value sensitivity matching. Under IFRS 9 and ASC 815, hedge accounting requires firms to demonstrate and document hedge effectiveness, meaning uncontrolled basis risk can disqualify a hedge from favorable accounting treatment. Sophisticated managers often layer hedges — combining futures, options, and OTC swaps — or adjust hedge ratios dynamically to minimize residual basis exposure."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is applied, driven by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Benchmark transitions (e.g., LIBOR to SOFR) and maturity mismatches are common real-world sources of unexpected basis risk.",
-        "Accounting standards require hedge effectiveness testing, meaning unquantified basis risk can disqualify a hedge from favorable accounting treatment."
+        "Basis risk is the irreducible residual risk that remains even after a hedge is placed, arising from imperfect correlation between the hedging instrument and the underlying exposure.",
+        "Cross-commodity, cross-currency, and duration mismatches are common real-world sources of basis risk that can significantly reduce hedge effectiveness.",
+        "Hedge accounting standards require ongoing documentation of effectiveness, making unmanaged basis risk not just a financial risk but an accounting and compliance concern."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in a bank",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenditure",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (ongoing action / habitual action)",
-      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses either an action currently in progress or a habitual, repeated action. In this sentence, 貯金しています means saving is something the speaker does regularly as a habit, not just right now.",
-      "memory_tip": "Think of 貯金 as 'storing gold' — 貯 means 'to store or accumulate' and 金 means 'gold/money.' Picture yourself stacking gold coins in a piggy bank every payday."
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikiitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — as if something happened that you did not intend or wish had not occurred. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 予 (yo) as 'in advance' and 算 (san) as 'calculation' — a budget is literally a calculation you make IN ADVANCE. Picture a calculator labeled 'YO-SAN' sitting on top of your planner before the month starts."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Decisions Globally",
-      "summary": "Major financial institutions are deploying large language models and gradient boosting algorithms to augment — and in some cases replace — traditional credit scoring models like FICO. These systems ingest alternative data sources including cash flow patterns, supply chain signals, and even satellite imagery of commercial properties to produce more nuanced creditworthiness assessments. Early adopters report reductions in default rates among previously 'thin-file' borrowers who were underserved by conventional models. Regulators in the US and EU are scrambling to develop explainability standards, as black-box AI decisions in lending trigger fair lending and model risk concerns under SR 11-7 and the EU AI Act.",
+      "headline": "AI Agents Are Beginning to Automate End-to-End Financial Analysis Workflows",
+      "summary": "A new generation of autonomous AI agents — systems that can plan, use tools, and execute multi-step tasks without human intervention at each stage — is moving from research labs into production environments at financial institutions. Early deployments include agents that can pull live market data, run quantitative screens, draft investment memos, and flag compliance issues within a single orchestrated workflow. Firms including JPMorgan, Morgan Stanley, and several systematic hedge funds have reported productivity gains of 30–60% in research and back-office functions through agentic AI pilots. Unlike simple chatbots, these agents maintain memory across sessions, call external APIs, write and execute code, and escalate only genuinely ambiguous decisions to human reviewers.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions for structured financial data like loan defaults or fraud detection."
+          "term": "Agentic AI",
+          "definition": "An AI system capable of autonomously planning and executing multi-step tasks — such as pulling data, running models, and generating reports — without requiring human input at every step, analogous to delegating a complex analytical project to a very fast junior analyst."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional information sources — such as rent payment history, utility bills, e-commerce transaction data, or foot traffic analytics — used to assess creditworthiness or investment signals beyond conventional financial statements."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model supplements its built-in knowledge by dynamically retrieving relevant documents (e.g., earnings transcripts, regulatory filings, research reports) before generating a response, dramatically improving factual accuracy in finance-specific tasks."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "A technique that quantifies the contribution of each input variable to a model's output, allowing risk managers and regulators to understand why an AI model approved or denied a loan — critical for compliance with fair lending laws."
+          "term": "Tool Use / Function Calling",
+          "definition": "The ability of a large language model to invoke external tools — such as a Python interpreter, Bloomberg API, or SQL database — mid-conversation, enabling it to perform live calculations and data lookups rather than relying solely on memorized training data."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge the gap between traditional financial analysis and machine learning model validation are commanding significant salary premiums. Familiarity with Python, model risk management frameworks (SR 11-7), and explainability tools like SHAP is fast becoming table stakes for senior roles at banks, fintechs, and rating agencies. The most durable career position is not to be replaced by AI but to be the professional who audits, challenges, and governs it."
+      "career_insight": "Finance professionals who can design, supervise, and critically evaluate agentic AI workflows will be substantially more valuable than those who simply use AI as a search tool. The highest-leverage skill set emerging is 'AI orchestration' — knowing how to structure prompts, validate model outputs, and integrate AI agents into risk and investment processes in a controlled, auditable way. Roles in quantitative research, risk technology, and model validation are evolving fastest, and professionals who combine domain expertise with AI fluency are commanding significant hiring premiums."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a cautious macro landscape as markets weigh persistent services inflation against softening manufacturing PMIs across the US and eurozone, keeping central bank terminal rate expectations volatile and the yield curve in a state of fragile disinversion. Dollar strength has re-emerged as a theme, pressuring EM currencies and commodities, while credit spreads in high yield have widened modestly — suggesting the market is beginning to price in a higher-for-longer rate environment rather than the soft-landing consensus that dominated Q1. Equity markets remain headline-driven, with AI-related megacap names providing index support while small- and mid-caps reflect a more defensive, risk-off undercurrent that warrants close monitoring heading into the next Fed communication window."
+    "market_sentiment": "Risk assets are navigating a delicate macro backdrop as markets reprice the 'higher-for-longer' narrative against emerging signs of labor market softening in the US, keeping the Fed in a data-dependent holding pattern that is flattening the front end of the Treasury curve. Equity implied volatility remains subdued relative to realized macro uncertainty, suggesting either genuine investor complacency or a systematic compression from options-selling strategies — either way, the asymmetry for a volatility spike looks attractive. Credit spreads in IG are grinding tighter on strong corporate balance sheets, but CCC-rated paper is quietly underperforming as refinancing walls loom for 2025-2026, a divergence worth watching as the cycle matures."
   }
 }
