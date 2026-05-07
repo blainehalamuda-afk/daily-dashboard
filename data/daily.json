@@ -1,37 +1,37 @@
 {
-  "generated_at": "5:17 PM UTC",
-  "date": "Wednesday, May 6, 2026",
+  "generated_at": "6:00 PM UTC",
+  "date": "Thursday, May 7, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 71,
+    "temp_f": 70,
     "feels_like_f": 71,
-    "high_f": 74,
-    "low_f": 67,
-    "description": "Moderate Rain",
-    "icon": "🌧️",
-    "humidity": 68,
-    "wind_mph": 13,
+    "high_f": 73,
+    "low_f": 68,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 85,
+    "wind_mph": 8,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "🌧️",
-        "high": 64,
-        "low": 64,
-        "description": "Light Rain"
-      },
       {
         "day": "Fri",
         "icon": "☁️",
-        "high": 53,
-        "low": 53,
+        "high": 52,
+        "low": 52,
         "description": "Overcast Clouds"
       },
       {
         "day": "Sat",
+        "icon": "☁️",
+        "high": 59,
+        "low": 59,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sun",
         "icon": "🌧️",
-        "high": 58,
-        "low": 58,
+        "high": 63,
+        "low": 63,
         "description": "Light Rain"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 731.57,
-        "change": 7.8,
-        "change_pct": 1.08,
-        "up": true,
+        "price": 731.88,
+        "change": -1.95,
+        "change_pct": -0.27,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 286.73,
-        "change": 2.55,
-        "change_pct": 0.9,
+        "price": 289.17,
+        "change": 1.66,
+        "change_pct": 0.58,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 204.63,
-        "change": 8.13,
-        "change_pct": 4.14,
+        "price": 212.47,
+        "change": 4.64,
+        "change_pct": 2.23,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 398.92,
-        "change": 9.55,
-        "change_pct": 2.45,
+        "price": 407.37,
+        "change": 8.64,
+        "change_pct": 2.17,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 81449.81,
-        "change": 68.41,
-        "change_pct": 0.08,
-        "up": true,
+        "price": 80119.46,
+        "change": -1349.87,
+        "change_pct": -1.66,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2352.85,
-        "change": -14.52,
-        "change_pct": -0.61,
+        "price": 2300.47,
+        "change": -49.26,
+        "change_pct": -2.1,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Nasdaq rises to record high as stocks get boost from oil pullback, strong earnings: Live updates - CNBC",
+        "title": "FanDuel CEO Amy Howe is out after five years at the sportsbook - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/04/stock-market-today-live-updates.html",
-        "description": "U.S. stocks were higher on Tuesday, while oil prices slid as traders reacted to a number of solid earnings results.",
-        "published": "6:32 PM UTC",
+        "url": "https://www.cnbc.com/2026/05/06/fanduel-ceo-amy-howe-out.html",
+        "description": "Howe has overseen FanDuel during a time of dramatic expansion in sports gambling and as prediction markets have exploded in popularity.",
+        "published": "6:09 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Trump Administration Will Test New AI Models From Google, Microsoft And XAI Before Release Under New Deal - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/tylerroush/2026/05/05/trump-administration-will-test-new-ai-models-from-google-microsoft-and-xai-before-release-under-new-deal/",
+        "title": "Stock Market Today: Nasdaq Opens Higher as Tech Stocks Continue Rally, Oil Slides — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-06-2026",
         "description": "",
-        "published": "4:49 PM UTC",
+        "published": "6:02 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Android 16 May update rolling out: Pixel display, slow wireless charging fixes - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/05/05/android-16-may-update-pixel/",
-        "description": "Google is rolling out the May 2026 security patch for Android 16 QPR3 on the Pixel 7a, Tablet, Fold, 8,...",
-        "published": "6:13 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Diablo 4's Cow Level Found At Last, And It Rewards The Most Ludicrous Item In Diablo History - GameSpot",
-        "source": "GameSpot",
-        "url": "https://www.gamespot.com/articles/diablo-4s-cow-level-found-at-last-and-it-rewards-the-most-ludicrous-item-in-diablo-history/1100-6539788/",
-        "description": "How do you feel about doing +1 damage on Moondays?",
+        "title": "Mina The Hollower Finally Lands On Switch 1 & 2 In Just A Few Weeks - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/05/mina-the-hollower-finally-lands-on-switch-1-and-2-in-just-a-few-weeks",
+        "description": "",
         "published": "5:40 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Google Home gets upgraded Gemini voice assistant and new camera controls - Ars Technica",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
-        "description": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.",
-        "published": "5:17 PM UTC",
+        "title": "He wrote about their daughter’s sudden death. Then his wife did the same. - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/style/2026/05/06/dispatches-from-grief-danielle-crittenden-memoir/",
+        "description": "For journalists Danielle Crittenden and David Frum, processing their grief meant telling Miranda’s story, in an essay and in a new memoir, “Dispatches From Grief.”",
+        "published": "4:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "What to know about hantavirus, the illness linked to a cruise ship outbreak - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/what-to-know-hantavirus-cruise-ship-366c781ff168656ff47ae9796965daaa",
-        "description": "A suspected outbreak aboard a cruise ship of a rare, a rodent-borne illness called hantavirus has left three people dead and sickened others. Health authorities have confirmed hantavirus infections in",
-        "published": "6:09 PM UTC",
+        "title": "The World Is In Such A Mess, Investors Actually Want Nintendo To Raise The Price Of The Switch 2 - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/05/the-world-is-in-such-a-mess-investors-actually-want-nintendo-to-raise-the-price-of-the-switch-2",
+        "description": "But then others are worrying about that too!",
+        "published": "3:45 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Dow rises 500 points as oil retreats on Iran deal progress; AMD jumps after earnings: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/05/stock-market-today-live-updates.html",
+        "description": "Buoyed by solid earnings and lower oil prices, the S&P 500 and Nasdaq Composite both reached new intraday and closing highs on Tuesday.",
+        "published": "6:38 PM UTC",
         "category": "General"
       },
       {
-        "title": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem - Gizmodo",
-        "source": "Gizmodo.com",
-        "url": "https://gizmodo.com/ozempic-might-be-killing-off-weight-loss-surgeries-thats-a-problem-2000754277",
-        "description": "The number of bariatric surgeries performed annually in the U.S. has taken a sharp drop lately, new research shows, coinciding with the rise of GLP-1 therapy.",
-        "published": "5:45 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Blake Lively’s Met Gala Appearance Said It All About What’s Behind the Justin Baldoni Settlement - Slate",
-        "source": "Slate Magazine",
-        "url": "https://slate.com/life/2026/05/blake-lively-met-gala-justin-baldoni-settlement.html",
-        "description": "For once, everyone just hates something she wore. What a relief.",
-        "published": "5:28 PM UTC",
+        "title": "‘Harry Potter’ Scores Early Season 2 Renewal at HBO; ‘Chamber of Secrets’ Starts Filming This Fall - Variety",
+        "source": "Variety",
+        "url": "https://variety.com/2026/tv/news/harry-potter-renewed-season-2-hbo-chamber-of-secrets-1236739605/",
+        "description": "HBO officially greenlit a second season of its 'Harry Potter' series, which will film this fall. Jon Brown has been promoted to co-showrunner.",
+        "published": "6:00 PM UTC",
         "category": "General"
       }
     ]
@@ -251,108 +243,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Intensify Interest in RB Leipzig's Xavi Simons Ahead of Summer Window",
-        "summary": "Arsenal's sporting director is reportedly in advanced talks with Leipzig over a potential €70–80 million deal for Dutch midfielder Xavi Simons, as Mikel Arteta targets a creative playmaker to add depth behind the first XI. PSG retain a buy-back clause that could complicate negotiations.",
+        "headline": "Arsenal Weighing January Move for Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Arsenal are reportedly monitoring Sporting's Swedish striker Viktor Gyökeres as a potential January addition following concerns over Gabriel Jesus's fitness consistency. Sporting value the prolific forward at upwards of £80 million, with several top European clubs also circling.",
         "clubs": [
           "Arsenal",
-          "RB Leipzig"
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Target Napoli Striker Victor Osimhen as Main Summer Priority",
-        "summary": "Chelsea are understood to be leading the race for Victor Osimhen, with the Nigerian forward available following Napoli's failure to qualify for Champions League football. The Blues are prepared to offer around £85 million plus add-ons to secure his signature before rival interest from Saudi Pro League clubs materializes.",
+        "headline": "Manchester United in Advanced Talks Over Loan Exit for Jadon Sancho",
+        "summary": "Manchester United are understood to be in serious discussions with two unnamed Bundesliga clubs regarding a permanent or loan departure for Jadon Sancho in January, as the club looks to trim its wage bill under INEOS's cost-restructuring push. Sancho is keen on a move that offers him regular first-team football.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Manchester United",
+          "Borussia Dortmund"
         ]
       }
     ],
     "match_preview": {
       "home": "Manchester City",
       "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The title race narrative hangs heavy over this Etihad showdown, with City needing a win to close the gap on leaders Liverpool before the final stretch of the season. Pep Guardiola's side have rediscovered their defensive solidity after a rocky winter patch, while Arne Slot's Liverpool arrive brimming with confidence following five consecutive Premier League wins. Set pieces and midfield control will be decisive — City's press-resistance against Liverpool's high line promises an end-to-end classic with enormous points implications.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's defining rivalry resumes at the Etihad in what could prove a pivotal moment in the title race — Liverpool arrive top of the table and in stunning form under Arne Slot, while City are under pressure to arrest a run of inconsistent results that has already cost them ground. City will look to Erling Haaland to provide the cutting edge against a Liverpool backline that has been the league's stingiest, and Pep Guardiola is expected to deploy a high-press trap designed to disrupt Slot's build-up system from the first whistle. The atmosphere will be electric, the stakes enormous, and with both managers having elite squads available, this has the hallmarks of a genuine six-pointer.",
       "key_players": [
         "Erling Haaland",
         "Mohamed Salah",
-        "Alexis Mac Allister"
+        "Kevin De Bruyne"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of Sunday; could return from hamstring tightness if he clears Friday's fitness test"
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Out",
+        "return": "Expected mid-January after knee procedure"
       },
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
+        "player": "Rodrigo",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected back within 10–14 days following a minor quad strain; likely to miss Sunday's clash at the Etihad"
+        "return": "Targeting return to full training late January; match availability February"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Interest Rate Risk & Duration",
-      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates rise by 150 basis points, which of the following best estimates the percentage change in the bond's price?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond has a modified duration of 6.4 and a convexity of 82. If interest rates increase by 150 basis points, which of the following best approximates the percentage change in the bond's price?",
       "options": {
-        "A": "−10.80%",
-        "B": "−9.84%",
-        "C": "−10.80% + 0.96% = −9.84%",
-        "D": "−10.80% + 1.91% = −8.89%"
+        "A": "-9.60%",
+        "B": "-8.68%",
+        "C": "-7.68%",
+        "D": "-10.52%"
       },
-      "correct": "C",
-      "explanation": "The full price change approximation uses both duration and convexity: %ΔP ≈ (−ModDuration × Δy) + (0.5 × Convexity × Δy²). The duration effect is −7.2 × 0.015 = −10.80%. The convexity adjustment is 0.5 × 85 × (0.015)² = 0.5 × 85 × 0.000225 = +0.956% ≈ +0.96%. Combined: −10.80% + 0.96% = −9.84%. Option C correctly identifies both components and the net result. Convexity always adds a positive adjustment for parallel yield shifts, partially cushioning price declines when rates rise."
+      "correct": "B",
+      "explanation": "The full price change approximation using duration and convexity is: %ΔP ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Substituting: (-6.4 × 0.015) + (0.5 × 82 × 0.015²) = -0.0960 + 0.00923 = -0.08677, or approximately -8.68%. The convexity adjustment is positive because convexity always adds value — bonds gain less when rates rise and lose less than duration alone predicts. Ignoring the convexity term would give -9.60%, which is option A and a common trap."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as a Systemic Force",
-      "subtitle": "How the $1.7 trillion private credit market is reshaping lending, risk distribution, and monetary policy transmission.",
+      "title": "The Mechanics of Yield Curve Control",
+      "subtitle": "How central banks pin interest rates along specific maturities — and why it matters for global bond markets.",
       "paragraphs": [
-        "Private credit refers to non-bank lending — debt capital provided directly by asset managers, insurance companies, and private funds to corporate borrowers, bypassing traditional syndicated loan or bond markets. The asset class has grown exponentially since the Global Financial Crisis, as Basel III capital requirements pushed banks away from leveraged lending. Today, funds managed by firms like Apollo, Ares, and Blackstone extend billions in direct loans, unitranche facilities, and mezzanine financing to mid-market companies that might once have relied entirely on commercial banks.",
-        "The macro significance of private credit became apparent during the 2022–2023 rate hiking cycle. While public credit markets seized up and high-yield issuance collapsed, private credit continued funding buyouts at floating rates, often above SOFR+600bps. This provided private equity sponsors with a reliable financing channel but also concentrated credit risk in opaque vehicles. Regulators from the Fed to the FSB have flagged concerns about valuation smoothing — because private loans are marked to model rather than market, reported volatility is artificially suppressed, potentially masking deteriorating credit quality.",
-        "For investors and risk managers, private credit offers attractive yield premiums (the illiquidity premium often 150–300bps over comparable public credit) and portfolio diversification due to low reported correlation with public markets. However, the opacity creates real challenges: limited price discovery, thin secondary markets, and covenant-lite structures increasingly resembling those of the leveraged loan market pre-2008. As central banks potentially ease, re-fi risk and extension risk in private portfolios deserve close monitoring — borrowers who survived high-rate environments may face cliff-edge maturities in 2025–2027."
+        "Yield Curve Control (YCC) is a monetary policy tool in which a central bank explicitly targets a specific yield on a chosen government bond maturity, committing to buy unlimited quantities of that bond to defend the target. Unlike conventional QE, which targets the quantity of asset purchases, YCC targets a price — the yield itself. The Bank of Japan pioneered its modern form in 2016, capping 10-year Japanese Government Bond (JGB) yields near zero percent as part of its broader effort to escape deflation and stimulate nominal growth.",
+        "The real-world implications of YCC extend far beyond Japan's borders. When the BoJ defended its ±0.50% band around the 10-year JGB yield in 2022–2023, it was forced to purchase JGBs at an unprecedented pace — at times buying more than half of all outstanding issuance in a single month. This suppressed domestic yields while global rates surged, creating a massive interest rate differential that drove the yen to 30-year lows against the dollar. Global macro traders and hedge funds staged repeated 'attacks' on the BoJ's band, testing the credibility of the commitment. The BoJ's eventual abandonment of YCC in 2024 triggered sharp JGB yield spikes and yen appreciation, rippling through carry trades globally.",
+        "For investors and risk managers, YCC creates both opportunity and hidden risk. On one hand, an explicit yield ceiling provides a predictable floor for bond prices, reducing short-term volatility. On the other hand, the distortions it creates — suppressed volatility, misaligned credit spreads, and currency pressure — can build latent systemic risk. When YCC is abandoned or the band is widened, the adjustment can be violent and correlated across asset classes. Portfolio managers holding duration exposure in YCC-controlled markets must account for 'regime change' tail risk, while macro traders monitor BoJ communications for signals of policy normalization with the intensity usually reserved for Fed meetings."
       ],
       "key_takeaways": [
-        "Private credit has become a $1.7T+ asset class that now rivals syndicated lending for mid-market borrowers, fundamentally altering credit intermediation.",
-        "Floating-rate structures benefited lenders during the hiking cycle but create borrower stress — rising default rates in private credit portfolios are a key 2025 risk.",
-        "The illiquidity premium is real but comes with valuation opacity, making due diligence on GP underwriting standards and portfolio vintage critical for allocators."
+        "YCC targets a specific bond yield rather than a quantity of purchases, requiring potentially unlimited intervention to maintain the cap.",
+        "The BoJ's YCC framework created significant yen weakness and global carry trade dynamics, demonstrating how one central bank's tool can have outsized cross-asset consequences.",
+        "Investors in YCC-controlled markets face asymmetric tail risk: suppressed volatility during the policy and potentially sharp, correlated repricing upon exit."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in a bank",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "毎月給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜しています (ongoing habit / current state)",
-      "grammar_explanation": "The pattern 〜しています (verb te-form + います) expresses a habitual action or an ongoing state. Here, 貯金しています means 'I am (habitually) saving money' — it describes a repeated action rather than a one-time event.",
-      "memory_tip": "Think of 貯 (cho) as 'storing' — like a 'cho'pping board where you store food — and 金 (kin) means 'gold/money.' So 貯金 is literally your 'stored gold.' Picture a piggy bank filled with gold coins every payday."
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It combines the te-form of a verb with しまいました (the polite past of しまう).",
+      "memory_tip": "Think of 予 as 'pre-' (beforehand) and 算 as 'calculate' — a budget is what you calculate beforehand. Picture a salaryman 'pre-calculating' his ramen expenses before payday."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Disrupting Traditional Lending Models",
-      "summary": "Large language models and gradient-boosted machine learning systems are increasingly being embedded into credit underwriting workflows at both banks and private credit funds. Firms like Moody's, S&P, and a wave of fintech lenders are deploying AI to synthesize alternative data — satellite imagery of retail foot traffic, real-time supply chain signals, social sentiment — alongside traditional financial statements to produce richer, faster credit assessments. The practical result: underwriting cycles that once took weeks are compressing to hours, and risk tiering is becoming more granular than FICO scores or Altman Z-scores alone could achieve. Regulators are scrambling to keep pace, with the OCC and Fed examining model explainability requirements under proposed AI governance frameworks.",
+      "headline": "AI Agents Are Quietly Automating the Middle Office in Finance",
+      "summary": "A new generation of agentic AI systems — capable of taking multi-step actions autonomously rather than just answering questions — is being deployed across reconciliation, trade confirmation, and regulatory reporting workflows at major banks and asset managers. Unlike earlier RPA tools, these agents can interpret unstructured data, reason across systems, and escalate exceptions intelligently, compressing processes that once took hours into minutes. Firms like JPMorgan, BlackRock, and several systematic hedge funds are piloting large language model-based agents integrated directly into their operations infrastructure. The productivity gains are significant, but so are the model governance and auditability challenges that regulators are beginning to scrutinize.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many weak decision trees sequentially, each correcting errors of the last. In credit risk, it outperforms logistic regression on messy, non-linear financial data such as cash flow patterns and payment history across economic cycles."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously plan, take sequences of actions, and use tools (like APIs or databases) to complete complex multi-step tasks without human input at each step — moving beyond simple question-answering toward genuine task execution."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional datasets — including web-scraped pricing data, geolocation patterns, app usage metrics, and ESG sensor data — used to supplement or replace traditional financial inputs in credit and investment models, particularly valuable for assessing private or early-stage borrowers with limited financial history."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating a response, allowing it to answer questions grounded in proprietary or up-to-date information — critical for finance use cases like querying trade data or compliance documents."
         },
         {
-          "term": "Model Explainability (XAI)",
-          "definition": "Techniques such as SHAP (SHapley Additive exPlanations) that help decompose a black-box model's output into individual feature contributions. In regulated finance, explainability is not optional — lenders must be able to tell a borrower why credit was denied, making XAI a compliance requirement, not just good practice."
+          "term": "Model Governance",
+          "definition": "The framework of policies, validation processes, and audit trails that financial institutions use to ensure AI/ML models behave as intended, remain explainable to regulators, and do not introduce unacceptable operational or compliance risk."
         }
       ],
-      "career_insight": "Finance professionals who can bridge quantitative modeling and business judgment — often called 'model-literate' rather than 'model-builders' — are commanding premium compensation as firms deploy AI across credit, trading, and risk functions. The most in-demand skill set combines Python/SQL for data interrogation, enough ML literacy to challenge model assumptions, and strong regulatory awareness of frameworks like SR 11-7 (model risk management). Pure Excel-based analysts without any data fluency are increasingly being repositioned into oversight and relationship roles as automation absorbs routine analytical work."
+      "career_insight": "Finance professionals who understand how to design, prompt, and govern agentic AI workflows — not just consume AI outputs — will have a significant edge in the next five years. The most valuable skill is not coding but 'workflow decomposition': the ability to break a complex financial process into steps an AI agent can execute reliably. Risk managers and compliance officers who can bridge the gap between AI capabilities and regulatory requirements are already among the most sought-after profiles at top-tier institutions."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as markets digest a softer-than-expected US core PCE print, reinforcing the Fed's data-dependent pause narrative and keeping two 2025 rate cuts in play per OIS pricing. The dollar index (DXY) is drifting lower, providing a tailwind for EM currencies and commodities, while Brent crude holds above $82 on OPEC+ supply discipline and renewed demand optimism from China's stimulus-driven PMI beat. Credit spreads remain tight — IG at ~90bps and HY near 300bps over Treasuries — suggesting the market is pricing a soft-landing base case, though elevated duration exposure and geopolitical tail risks in the Middle East and Taiwan Strait warrant vigilance heading into a heavy week of Fed speakers."
+    "market_sentiment": "Risk appetite remains cautiously constructive heading into the session, with equity futures pointing modestly higher as markets digest a softer-than-expected US core PCE print that reinforces the Fed's gradual easing trajectory — though the path remains data-dependent and the November meeting is fully priced for a hold. In FX, the dollar is drifting lower against G10 peers, providing a tailwind for EM assets, while JGB yields continue their post-YCC drift higher as the BoJ signals tolerance for further normalization. Credit spreads are tight but not stretched, and the volatility surface remains compressed — suggesting complacency that could be tested by a busy slate of earnings and geopolitical headlines later this week."
   }
 }
