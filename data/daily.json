@@ -1,37 +1,37 @@
 {
-  "generated_at": "6:00 PM UTC",
-  "date": "Thursday, May 7, 2026",
+  "generated_at": "4:52 PM UTC",
+  "date": "Friday, May 8, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 70,
-    "feels_like_f": 71,
-    "high_f": 73,
-    "low_f": 68,
-    "description": "Broken Clouds",
-    "icon": "☁️",
-    "humidity": 85,
+    "temp_f": 68,
+    "feels_like_f": 67,
+    "high_f": 71,
+    "low_f": 66,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 43,
     "wind_mph": 8,
     "forecast": [
       {
-        "day": "Fri",
-        "icon": "☁️",
-        "high": 52,
-        "low": 52,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Sat",
-        "icon": "☁️",
+        "icon": "🌧️",
         "high": 59,
         "low": 59,
-        "description": "Overcast Clouds"
+        "description": "Light Rain"
       },
       {
         "day": "Sun",
+        "icon": "☁️",
+        "high": 64,
+        "low": 64,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Mon",
         "icon": "🌧️",
-        "high": 63,
-        "low": 63,
+        "high": 65,
+        "low": 65,
         "description": "Light Rain"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 731.88,
-        "change": -1.95,
-        "change_pct": -0.27,
-        "up": false,
+        "price": 737.19,
+        "change": 5.61,
+        "change_pct": 0.77,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 289.17,
-        "change": 1.66,
-        "change_pct": 0.58,
+        "price": 292.24,
+        "change": 4.8,
+        "change_pct": 1.67,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 212.47,
-        "change": 4.64,
-        "change_pct": 2.23,
+        "price": 215.33,
+        "change": 3.83,
+        "change_pct": 1.81,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 407.37,
-        "change": 8.64,
-        "change_pct": 2.17,
+        "price": 427.49,
+        "change": 15.7,
+        "change_pct": 3.81,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 80119.46,
-        "change": -1349.87,
-        "change_pct": -1.66,
+        "price": 79825,
+        "change": -58.73,
+        "change_pct": -0.07,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2300.47,
-        "change": -49.26,
-        "change_pct": -2.1,
+        "price": 2290.99,
+        "change": -3.27,
+        "change_pct": -0.14,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,66 +111,117 @@
     "error": false,
     "articles": [
       {
-        "title": "FanDuel CEO Amy Howe is out after five years at the sportsbook - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/06/fanduel-ceo-amy-howe-out.html",
-        "description": "Howe has overseen FanDuel during a time of dramatic expansion in sports gambling and as prediction markets have exploded in popularity.",
-        "published": "6:09 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Stock Market Today: Nasdaq Opens Higher as Tech Stocks Continue Rally, Oil Slides — Live Updates - WSJ",
+        "title": "Stock Market Today: Dow, S&P 500 Look for Direction, Oil Slips on Mideast Optimism — Live Updates - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-06-2026",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-07-2026",
         "description": "",
-        "published": "6:02 PM UTC",
+        "published": "2:39 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Mina The Hollower Finally Lands On Switch 1 & 2 In Just A Few Weeks - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/05/mina-the-hollower-finally-lands-on-switch-1-and-2-in-just-a-few-weeks",
+        "title": "Stock Market Today: S&P 500, Nasdaq Hit Fresh Records for 3rd Straight Day; Oil Retreats Further - Investopedia",
+        "source": "Investopedia",
+        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-05072026-11969059",
+        "description": "Major stock indexes were mixed Thursday, with the S&P 500 and Nasdaq Composite setting fresh all-time highs but the Dow Jones Industrial Average ticking lower. Meanwhile, oil futures pulled back furth",
+        "published": "2:04 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Whirlpool’s Stock Drops 20% as Company Warns Higher Prices Are Coming - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/business/earnings/the-iran-war-is-crushing-whirlpools-profitsand-higher-prices-are-coming-98dd10bc",
+        "description": "The appliance maker cut its earnings guidance in half as historically low consumer confidence steers people away from its higher-end products",
+        "published": "1:18 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Boost Your Nightclub's Popularity and Bring in Doubled Daily Income - Rockstar Games",
+        "source": "Rockstargames.com",
+        "url": "https://www.rockstargames.com/newswire/article/7597ok2a78857o/boost-your-nightclub-s-popularity-and-bring-in-doubled-daily-income",
+        "description": "Running the hottest club in town can be both a formidable and prosperous enterprise. This week, nightlife impresarios are poised to be handsomely compensated by keeping the dance floor packed, the tro",
+        "published": "2:05 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Google announces $99 Fitbit Air for screen-less, all-day tracking - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/05/07/fitbit-air-launch/",
+        "description": "Google today announced the Fitbit Air as a screen-less fitness tracker that has a low profile and affordable $99.99 price.",
+        "published": "2:00 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "BioShock 4 ‘Wasted A Lot Of Time And Money’ On Dead Ends, But Take-Two Boss Is ‘Feeling A Lot Better’ About It Now - Kotaku",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/bioshock-4-wasted-a-lot-of-time-and-money-on-dead-ends-but-take-two-boss-is-feeling-a-lot-better-about-it-now-2000693957",
+        "description": "The next game in the steampunk horror shooter franchise is taking a long time",
+        "published": "1:57 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "D4vd's Brother Caleb Denies Cover-Up Claims as He Launches Music Career - TMZ",
+        "source": "TMZ",
+        "url": "https://www.tmz.com/2026/05/07/d4vd-brother-wants-justice-for-celeste-rivas/",
         "description": "",
-        "published": "5:40 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "He wrote about their daughter’s sudden death. Then his wife did the same. - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/style/2026/05/06/dispatches-from-grief-danielle-crittenden-memoir/",
-        "description": "For journalists Danielle Crittenden and David Frum, processing their grief meant telling Miranda’s story, in an essay and in a new memoir, “Dispatches From Grief.”",
-        "published": "4:00 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "The World Is In Such A Mess, Investors Actually Want Nintendo To Raise The Price Of The Switch 2 - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/05/the-world-is-in-such-a-mess-investors-actually-want-nintendo-to-raise-the-price-of-the-switch-2",
-        "description": "But then others are worrying about that too!",
-        "published": "3:45 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Dow rises 500 points as oil retreats on Iran deal progress; AMD jumps after earnings: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/05/stock-market-today-live-updates.html",
-        "description": "Buoyed by solid earnings and lower oil prices, the S&P 500 and Nasdaq Composite both reached new intraday and closing highs on Tuesday.",
-        "published": "6:38 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "‘Harry Potter’ Scores Early Season 2 Renewal at HBO; ‘Chamber of Secrets’ Starts Filming This Fall - Variety",
-        "source": "Variety",
-        "url": "https://variety.com/2026/tv/news/harry-potter-renewed-season-2-hbo-chamber-of-secrets-1236739605/",
-        "description": "HBO officially greenlit a second season of its 'Harry Potter' series, which will film this fall. Jon Brown has been promoted to co-showrunner.",
-        "published": "6:00 PM UTC",
+        "published": "1:44 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [],
+    "matches": [
+      {
+        "home": "Liverpool",
+        "away": "Chelsea",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "11:30 AM UTC",
+        "date": "May 9",
+        "highlighted": false
+      },
+      {
+        "home": "Sunderland",
+        "away": "Man United",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 9",
+        "highlighted": false
+      },
+      {
+        "home": "Brighton Hove",
+        "away": "Wolverhampton",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 9",
+        "highlighted": false
+      },
+      {
+        "home": "Fulham",
+        "away": "Bournemouth",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 9",
+        "highlighted": false
+      },
+      {
+        "home": "Man City",
+        "away": "Brentford",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "4:30 PM UTC",
+        "date": "May 9",
+        "highlighted": false
+      }
+    ],
     "standings": [
       {
         "position": 1,
@@ -243,45 +294,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing January Move for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Arsenal are reportedly monitoring Sporting's Swedish striker Viktor Gyökeres as a potential January addition following concerns over Gabriel Jesus's fitness consistency. Sporting value the prolific forward at upwards of £80 million, with several top European clubs also circling.",
+        "headline": "Manchester United Eye Bundesliga Midfielder as Midfield Rebuild Continues",
+        "summary": "Manchester United's recruitment team has reportedly held preliminary talks over a summer move for a high-press, box-to-box midfielder currently starring in the Bundesliga, as new sporting leadership looks to add dynamism and defensive cover in the center of the park.",
         "clubs": [
-          "Arsenal",
-          "Sporting CP"
+          "Manchester United",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United in Advanced Talks Over Loan Exit for Jadon Sancho",
-        "summary": "Manchester United are understood to be in serious discussions with two unnamed Bundesliga clubs regarding a permanent or loan departure for Jadon Sancho in January, as the club looks to trim its wage bill under INEOS's cost-restructuring push. Sancho is keen on a move that offers him regular first-team football.",
+        "headline": "Chelsea in Advanced Talks to Extend Key Defender's Contract Amid Transfer Interest",
+        "summary": "Chelsea are pushing to tie down one of their standout center-backs to a new long-term deal after a string of commanding performances attracted reported interest from two top-four rivals, with the club keen to protect the asset's value and maintain defensive continuity.",
         "clubs": [
-          "Manchester United",
-          "Borussia Dortmund"
+          "Chelsea",
+          "Arsenal"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's defining rivalry resumes at the Etihad in what could prove a pivotal moment in the title race — Liverpool arrive top of the table and in stunning form under Arne Slot, while City are under pressure to arrest a run of inconsistent results that has already cost them ground. City will look to Erling Haaland to provide the cutting edge against a Liverpool backline that has been the league's stingiest, and Pep Guardiola is expected to deploy a high-press trap designed to disrupt Slot's build-up system from the first whistle. The atmosphere will be electric, the stakes enormous, and with both managers having elite squads available, this has the hallmarks of a genuine six-pointer.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "This fixture carries genuine title-race weight as Arsenal host Manchester City in what could prove to be a defining moment in the Premier League season — Arsenal arrive buoyed by four consecutive clean sheets and an electric home crowd, while City's relentless squad depth and Pep Guardiola's tactical flexibility make them perennial threats regardless of form. The midfield battle will be central: Arsenal's intensity and press against City's positional superiority promises a compelling tactical chess match that could swing on a single moment of individual brilliance.",
       "key_players": [
+        "Bukayo Saka",
         "Erling Haaland",
-        "Mohamed Salah",
-        "Kevin De Bruyne"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Out",
-        "return": "Expected mid-January after knee procedure"
-      },
-      {
-        "player": "Rodrigo",
+        "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return to full training late January; match availability February"
+        "return": "Expected return in 3-4 weeks; being assessed ahead of Sunday's fixture"
+      },
+      {
+        "player": "Ben White",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Participated in partial training; final fitness decision expected Saturday"
       }
     ]
   },
@@ -289,62 +340,62 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond has a modified duration of 6.4 and a convexity of 82. If interest rates increase by 150 basis points, which of the following best approximates the percentage change in the bond's price?",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is priced at $950. If the bond's yield to maturity increases by 50 basis points, which of the following best explains why the percentage price decrease will be smaller than the percentage price increase if yields had fallen by the same amount?",
       "options": {
-        "A": "-9.60%",
-        "B": "-8.68%",
-        "C": "-7.68%",
-        "D": "-10.52%"
+        "A": "Bonds with lower coupons have greater convexity, amplifying price increases relative to price decreases.",
+        "B": "Positive convexity causes the price-yield relationship to be curved, so price gains from falling yields exceed price losses from rising yields of equal magnitude.",
+        "C": "Duration measures the linear price sensitivity, and positive convexity means the bond is more sensitive to yield increases than decreases.",
+        "D": "The bond trades at a discount, which causes asymmetric price sensitivity regardless of convexity."
       },
       "correct": "B",
-      "explanation": "The full price change approximation using duration and convexity is: %ΔP ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Substituting: (-6.4 × 0.015) + (0.5 × 82 × 0.015²) = -0.0960 + 0.00923 = -0.08677, or approximately -8.68%. The convexity adjustment is positive because convexity always adds value — bonds gain less when rates rise and lose less than duration alone predicts. Ignoring the convexity term would give -9.60%, which is option A and a common trap."
+      "explanation": "Positive convexity means the price-yield relationship is convex (curved outward toward the investor), so the actual price increase when yields fall exceeds the price decrease when yields rise by the same number of basis points. Duration provides only a linear approximation; convexity captures the curvature that makes gains larger than losses for equal yield movements. This asymmetry is a desirable property and is why investors are willing to pay a premium for highly convex bonds. Option C is incorrect because positive convexity actually means the bond is less sensitive to yield increases, not more."
     },
     "finance_topic": {
-      "title": "The Mechanics of Yield Curve Control",
-      "subtitle": "How central banks pin interest rates along specific maturities — and why it matters for global bond markets.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why imperfect hedges can leave investors exposed to residual risk even when positions appear fully covered.",
       "paragraphs": [
-        "Yield Curve Control (YCC) is a monetary policy tool in which a central bank explicitly targets a specific yield on a chosen government bond maturity, committing to buy unlimited quantities of that bond to defend the target. Unlike conventional QE, which targets the quantity of asset purchases, YCC targets a price — the yield itself. The Bank of Japan pioneered its modern form in 2016, capping 10-year Japanese Government Bond (JGB) yields near zero percent as part of its broader effort to escape deflation and stimulate nominal growth.",
-        "The real-world implications of YCC extend far beyond Japan's borders. When the BoJ defended its ±0.50% band around the 10-year JGB yield in 2022–2023, it was forced to purchase JGBs at an unprecedented pace — at times buying more than half of all outstanding issuance in a single month. This suppressed domestic yields while global rates surged, creating a massive interest rate differential that drove the yen to 30-year lows against the dollar. Global macro traders and hedge funds staged repeated 'attacks' on the BoJ's band, testing the credibility of the commitment. The BoJ's eventual abandonment of YCC in 2024 triggered sharp JGB yield spikes and yen appreciation, rippling through carry trades globally.",
-        "For investors and risk managers, YCC creates both opportunity and hidden risk. On one hand, an explicit yield ceiling provides a predictable floor for bond prices, reducing short-term volatility. On the other hand, the distortions it creates — suppressed volatility, misaligned credit spreads, and currency pressure — can build latent systemic risk. When YCC is abandoned or the band is widened, the adjustment can be violent and correlated across asset classes. Portfolio managers holding duration exposure in YCC-controlled markets must account for 'regime change' tail risk, while macro traders monitor BoJ communications for signals of policy normalization with the intensity usually reserved for Fed meetings."
+        "Basis risk arises when the asset being hedged and the instrument used to hedge it do not move in perfect lockstep. The 'basis' is defined as the difference between the spot price of the exposure and the futures or derivative price used to offset it. Even a well-constructed hedge carries basis risk if the two instruments respond differently to market forces — whether due to differences in credit quality, geography, maturity, or liquidity. Unlike outright market risk, basis risk is often underestimated because it is hidden beneath the apparent protection of a hedge.",
+        "A classic real-world example occurred during the 2008 financial crisis, when many financial institutions hedged mortgage-backed security (MBS) exposures using investment-grade corporate bond indices or Treasury instruments. When credit spreads on MBS exploded while Treasuries rallied, the basis between hedged instruments and the actual exposure widened dramatically, turning seemingly hedged books into significant loss centers. Similarly, airlines that hedge jet fuel using crude oil futures face basis risk because jet fuel and crude oil prices, while correlated, do not move identically — refining margins and regional supply factors create persistent divergence.",
+        "For risk managers and portfolio managers, basis risk demands careful instrument selection and ongoing monitoring. A hedge ratio should be calibrated not just on price correlation but on the stability of that correlation under stress conditions. Regulators under frameworks like Basel III and FRTB explicitly require banks to hold capital against basis risk as a component of market risk. Investors should ask: 'Does the hedge fail precisely when I need it most?' — because basis risk tends to widen during periods of market dislocation, exactly when hedges are most critical."
       ],
       "key_takeaways": [
-        "YCC targets a specific bond yield rather than a quantity of purchases, requiring potentially unlimited intervention to maintain the cap.",
-        "The BoJ's YCC framework created significant yen weakness and global carry trade dynamics, demonstrating how one central bank's tool can have outsized cross-asset consequences.",
-        "Investors in YCC-controlled markets face asymmetric tail risk: suppressed volatility during the policy and potentially sharp, correlated repricing upon exit."
+        "Basis risk is the residual risk remaining after a hedge is placed, arising from imperfect correlation between the hedged asset and the hedging instrument.",
+        "Basis risk tends to widen during market stress, meaning hedges can underperform or even amplify losses at the worst possible moments.",
+        "Effective hedging requires selecting instruments with stable, high correlation to the exposure and stress-testing the hedge under adverse market scenarios."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It combines the te-form of a verb with しまいました (the polite past of しまう).",
-      "memory_tip": "Think of 予 as 'pre-' (beforehand) and 算 as 'calculate' — a budget is what you calculate beforehand. Picture a salaryman 'pre-calculating' his ramen expenses before payday."
+      "example_jp": "今月の予算をしっかり管理しています。",
+      "example_romaji": "Kongetsu no yosan wo shikkari kanri shite imasu.",
+      "example_en": "I am carefully managing this month's budget.",
+      "grammar_point": "〜ています (te-form + imasu)",
+      "grammar_explanation": "The pattern 〜ています expresses an ongoing action or current state in Japanese, similar to the English present continuous tense. It is formed by taking the te-form of a verb and adding います (imasu) for polite speech.",
+      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you have planned for yourself. Visualize writing down your personal sum in a notebook labeled 予算."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Automating the Middle Office in Finance",
-      "summary": "A new generation of agentic AI systems — capable of taking multi-step actions autonomously rather than just answering questions — is being deployed across reconciliation, trade confirmation, and regulatory reporting workflows at major banks and asset managers. Unlike earlier RPA tools, these agents can interpret unstructured data, reason across systems, and escalate exceptions intelligently, compressing processes that once took hours into minutes. Firms like JPMorgan, BlackRock, and several systematic hedge funds are piloting large language model-based agents integrated directly into their operations infrastructure. The productivity gains are significant, but so are the model governance and auditability challenges that regulators are beginning to scrutinize.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Lending Decisions at Scale",
+      "summary": "Major banks and fintech lenders are deploying large language models and gradient-boosting machine learning systems to augment — and in some cases replace — traditional credit scoring models like FICO. These systems ingest thousands of alternative data signals, including cash flow patterns, behavioral data, and macroeconomic embeddings, to produce credit decisions with measurably lower default rates on thin-file borrowers. Regulators in the US and EU are actively developing frameworks around model explainability and algorithmic fairness to ensure these systems comply with fair lending laws. For finance professionals, understanding how these models are built, validated, and governed is rapidly becoming a core competency rather than a niche skill.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, take sequences of actions, and use tools (like APIs or databases) to complete complex multi-step tasks without human input at each step — moving beyond simple question-answering toward genuine task execution."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds sequential decision trees, each correcting the errors of the previous one — widely used in credit risk because it handles tabular financial data well and produces highly accurate probability-of-default estimates."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating a response, allowing it to answer questions grounded in proprietary or up-to-date information — critical for finance use cases like querying trade data or compliance documents."
+          "term": "Model Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) is a method that assigns each input feature a contribution score to a model's output, allowing risk teams and regulators to understand why a credit model made a specific decision — critical for fair lending compliance."
         },
         {
-          "term": "Model Governance",
-          "definition": "The framework of policies, validation processes, and audit trails that financial institutions use to ensure AI/ML models behave as intended, remain explainable to regulators, and do not introduce unacceptable operational or compliance risk."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as rental payment history, utility bills, e-commerce behavior, or mobile usage patterns — used to assess creditworthiness of borrowers who have limited or no traditional credit history."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, and govern agentic AI workflows — not just consume AI outputs — will have a significant edge in the next five years. The most valuable skill is not coding but 'workflow decomposition': the ability to break a complex financial process into steps an AI agent can execute reliably. Risk managers and compliance officers who can bridge the gap between AI capabilities and regulatory requirements are already among the most sought-after profiles at top-tier institutions."
+      "career_insight": "Credit analysts and risk managers who understand machine learning model validation, bias testing, and regulatory interpretability frameworks (SR 11-7, FRTB model approval) are commanding significant premiums in the job market. The most resilient career path combines quantitative ML literacy with deep domain knowledge in credit, risk, or structured finance — pure data scientists without financial context are increasingly finding it difficult to deliver production-ready risk models without business-side partners."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautiously constructive heading into the session, with equity futures pointing modestly higher as markets digest a softer-than-expected US core PCE print that reinforces the Fed's gradual easing trajectory — though the path remains data-dependent and the November meeting is fully priced for a hold. In FX, the dollar is drifting lower against G10 peers, providing a tailwind for EM assets, while JGB yields continue their post-YCC drift higher as the BoJ signals tolerance for further normalization. Credit spreads are tight but not stretched, and the volatility surface remains compressed — suggesting complacency that could be tested by a busy slate of earnings and geopolitical headlines later this week."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a mixed bag of US labor data — headline payrolls came in firm but average hourly earnings growth continued its gradual softening, keeping the Fed's 'higher for longer' narrative intact without triggering fresh hawkishness. Treasury yields are hovering near multi-month resistance levels as investors price in roughly one 25bp cut before year-end, while IG credit spreads remain tight, suggesting the corporate sector is not yet pricing in a meaningful growth slowdown. Equity markets in Europe are outperforming on a relative basis, supported by ECB rate cut expectations and a weaker euro boosting export earnings, though China demand uncertainty continues to weigh on commodity-linked names and EM sentiment broadly."
   }
 }
