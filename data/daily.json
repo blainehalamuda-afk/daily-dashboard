@@ -1,38 +1,38 @@
 {
-  "generated_at": "4:52 PM UTC",
-  "date": "Friday, May 8, 2026",
+  "generated_at": "2:42 PM UTC",
+  "date": "Saturday, May 9, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 68,
-    "feels_like_f": 67,
-    "high_f": 71,
-    "low_f": 66,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 43,
-    "wind_mph": 8,
+    "temp_f": 64,
+    "feels_like_f": 64,
+    "high_f": 65,
+    "low_f": 62,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 85,
+    "wind_mph": 7,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "🌧️",
-        "high": 59,
-        "low": 59,
-        "description": "Light Rain"
-      },
       {
         "day": "Sun",
         "icon": "☁️",
-        "high": 64,
-        "low": 64,
+        "high": 63,
+        "low": 63,
         "description": "Overcast Clouds"
       },
       {
         "day": "Mon",
         "icon": "🌧️",
-        "high": 65,
-        "low": 65,
+        "high": 66,
+        "low": 66,
         "description": "Light Rain"
+      },
+      {
+        "day": "Tue",
+        "icon": "☁️",
+        "high": 54,
+        "low": 54,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 737.19,
-        "change": 5.61,
-        "change_pct": 0.77,
+        "price": 737.64,
+        "change": 6.06,
+        "change_pct": 0.83,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 292.24,
-        "change": 4.8,
-        "change_pct": 1.67,
+        "price": 293.34,
+        "change": 5.9,
+        "change_pct": 2.05,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 215.33,
-        "change": 3.83,
-        "change_pct": 1.81,
+        "price": 215.22,
+        "change": 3.72,
+        "change_pct": 1.76,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 427.49,
-        "change": 15.7,
-        "change_pct": 3.81,
+        "price": 428.37,
+        "change": 16.58,
+        "change_pct": 4.03,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 79825,
-        "change": -58.73,
-        "change_pct": -0.07,
-        "up": false,
+        "price": 80271.37,
+        "change": 51.04,
+        "change_pct": 0.06,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2290.99,
-        "change": -3.27,
-        "change_pct": -0.14,
-        "up": false,
+        "price": 2306.06,
+        "change": 19.28,
+        "change_pct": 0.84,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow, S&P 500 Look for Direction, Oil Slips on Mideast Optimism — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-07-2026",
-        "description": "",
-        "published": "2:39 PM UTC",
+        "title": "U.S. payrolls increased 115,000 in April, more than expected; unemployment at 4.3% - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
+        "description": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus.",
+        "published": "12:31 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock Market Today: S&P 500, Nasdaq Hit Fresh Records for 3rd Straight Day; Oil Retreats Further - Investopedia",
-        "source": "Investopedia",
-        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-05072026-11969059",
-        "description": "Major stock indexes were mixed Thursday, with the S&P 500 and Nasdaq Composite setting fresh all-time highs but the Dow Jones Industrial Average ticking lower. Meanwhile, oil futures pulled back furth",
-        "published": "2:04 PM UTC",
+        "title": "When Spirit folded, this tiny airport suddenly had zero flights - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/nation/2026/05/08/spirit-shutdown-bankrupt-airport/",
+        "description": "Arnold Palmer Regional Airport in rural western Pennsylvania had only one commercial carrier. Spirit Airlines’ closure has left it scrambling to find a replacement.",
+        "published": "12:02 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Whirlpool’s Stock Drops 20% as Company Warns Higher Prices Are Coming - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/earnings/the-iran-war-is-crushing-whirlpools-profitsand-higher-prices-are-coming-98dd10bc",
-        "description": "The appliance maker cut its earnings guidance in half as historically low consumer confidence steers people away from its higher-end products",
-        "published": "1:18 PM UTC",
+        "title": "Dow Jones Futures Rise As Trump Says U.S.-Iran Ceasefire Holds; Akamai, Cloudflare, IREN Are Big Earnings Movers - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-us-iran-ceasefire-akamai-cloudflare-iren-earnings/",
+        "description": "Akamai, Cloudflare, IREN among big earnings movers. The jobs report is on tap.",
+        "published": "11:32 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Boost Your Nightclub's Popularity and Bring in Doubled Daily Income - Rockstar Games",
-        "source": "Rockstargames.com",
-        "url": "https://www.rockstargames.com/newswire/article/7597ok2a78857o/boost-your-nightclub-s-popularity-and-bring-in-doubled-daily-income",
-        "description": "Running the hottest club in town can be both a formidable and prosperous enterprise. This week, nightlife impresarios are poised to be handsomely compensated by keeping the dance floor packed, the tro",
-        "published": "2:05 PM UTC",
+        "title": "AirPods with cameras reportedly in final testing at Apple - Mashable",
+        "source": "Mashable",
+        "url": "https://mashable.com/article/apple-airpods-ai-cameras-final-testing",
+        "description": "But the cameras aren't used for what you think they're used for.",
+        "published": "9:31 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Google announces $99 Fitbit Air for screen-less, all-day tracking - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/05/07/fitbit-air-launch/",
-        "description": "Google today announced the Fitbit Air as a screen-less fitness tracker that has a low profile and affordable $99.99 price.",
-        "published": "2:00 PM UTC",
+        "title": "Nintendo hikes Switch 2 prices, revises console costs in Japan, US, Canada, and Europe - GamesIndustry.biz",
+        "source": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/nintendo-hikes-switch-2-prices-revises-console-costs-in-japan-us-canada-and-europe",
+        "description": "Original Switch lineup and Nintendo Switch Online subscription service also affected in Japan",
+        "published": "7:51 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "BioShock 4 ‘Wasted A Lot Of Time And Money’ On Dead Ends, But Take-Two Boss Is ‘Feeling A Lot Better’ About It Now - Kotaku",
+        "title": "Sony Records New $560 Million Loss On Bungie Acquisition As Marathon Struggles And Destiny 2 Nosedives - Kotaku",
         "source": "Kotaku",
-        "url": "https://kotaku.com/bioshock-4-wasted-a-lot-of-time-and-money-on-dead-ends-but-take-two-boss-is-feeling-a-lot-better-about-it-now-2000693957",
-        "description": "The next game in the steampunk horror shooter franchise is taking a long time",
-        "published": "1:57 PM UTC",
+        "url": "https://kotaku.com/sony-records-new-560-million-loss-on-bungie-acquisition-as-marathon-struggles-and-destiny-2-nosedives-2000694100",
+        "description": "The Bungie acquisition continues to go badly for the PS5 maker",
+        "published": "6:02 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "D4vd's Brother Caleb Denies Cover-Up Claims as He Launches Music Career - TMZ",
-        "source": "TMZ",
-        "url": "https://www.tmz.com/2026/05/07/d4vd-brother-wants-justice-for-celeste-rivas/",
-        "description": "",
-        "published": "1:44 PM UTC",
+        "title": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) - U.S. Department of War (.gov)",
+        "source": "War.gov",
+        "url": "https://www.war.gov/UFO/",
+        "description": "summary_large_image",
+        "published": "12:20 PM UTC",
         "category": "General"
       }
     ]
@@ -174,9 +174,9 @@
       {
         "home": "Liverpool",
         "away": "Chelsea",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "11:30 AM UTC",
         "date": "May 9",
         "highlighted": false
@@ -184,9 +184,9 @@
       {
         "home": "Sunderland",
         "away": "Man United",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "May 9",
         "highlighted": false
@@ -194,9 +194,9 @@
       {
         "home": "Brighton Hove",
         "away": "Wolverhampton",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "May 9",
         "highlighted": false
@@ -204,9 +204,9 @@
       {
         "home": "Fulham",
         "away": "Bournemouth",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "May 9",
         "highlighted": false
@@ -219,6 +219,46 @@
         "status": "TIMED",
         "time": "4:30 PM UTC",
         "date": "May 9",
+        "highlighted": false
+      },
+      {
+        "home": "Crystal Palace",
+        "away": "Everton",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "May 10",
+        "highlighted": false
+      },
+      {
+        "home": "Burnley",
+        "away": "Aston Villa",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "May 10",
+        "highlighted": false
+      },
+      {
+        "home": "Nottingham",
+        "away": "Newcastle",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "May 10",
+        "highlighted": false
+      },
+      {
+        "home": "West Ham",
+        "away": "Arsenal",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:30 PM UTC",
+        "date": "May 10",
         "highlighted": false
       }
     ],
@@ -248,23 +288,23 @@
       {
         "position": 3,
         "team": "Man United",
-        "played": 35,
+        "played": 36,
         "won": 18,
-        "drawn": 10,
+        "drawn": 11,
         "lost": 7,
         "gd": 15,
-        "points": 64,
+        "points": 65,
         "highlighted": false
       },
       {
         "position": 4,
         "team": "Liverpool",
-        "played": 35,
+        "played": 36,
         "won": 17,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 11,
         "gd": 12,
-        "points": 58,
+        "points": 59,
         "highlighted": false
       },
       {
@@ -280,13 +320,13 @@
       },
       {
         "position": 6,
-        "team": "Bournemouth",
-        "played": 35,
-        "won": 12,
-        "drawn": 16,
-        "lost": 7,
-        "gd": 3,
-        "points": 52,
+        "team": "Brighton Hove",
+        "played": 36,
+        "won": 14,
+        "drawn": 11,
+        "lost": 11,
+        "gd": 9,
+        "points": 53,
         "highlighted": false
       }
     ]
@@ -294,31 +334,31 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Eye Bundesliga Midfielder as Midfield Rebuild Continues",
-        "summary": "Manchester United's recruitment team has reportedly held preliminary talks over a summer move for a high-press, box-to-box midfielder currently starring in the Bundesliga, as new sporting leadership looks to add dynamism and defensive cover in the center of the park.",
+        "headline": "Arsenal Join Race for Bundesliga Midfielder as Partey Replacement Search Intensifies",
+        "summary": "Arsenal are reportedly tracking Bayer Leverkusen's Granit Xhaka successor profile, with Sporting Director Edu's replacement accelerating talks for a combative central midfielder ahead of the summer window. The Gunners face competition from Atletico Madrid for their primary target.",
         "clubs": [
-          "Manchester United",
-          "Bayer Leverkusen"
+          "Arsenal",
+          "Atletico Madrid"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Key Defender's Contract Amid Transfer Interest",
-        "summary": "Chelsea are pushing to tie down one of their standout center-backs to a new long-term deal after a string of commanding performances attracted reported interest from two top-four rivals, with the club keen to protect the asset's value and maintain defensive continuity.",
+        "headline": "Liverpool Close to Agreeing Personal Terms with Stuttgart Forward",
+        "summary": "Liverpool are understood to be in advanced discussions over a summer move for Stuttgart's top scorer, with Arne Slot keen to add a dynamic wide forward option to his squad. The fee is expected to be in the region of £45-50 million.",
         "clubs": [
-          "Chelsea",
-          "Arsenal"
+          "Liverpool",
+          "VfB Stuttgart"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "This fixture carries genuine title-race weight as Arsenal host Manchester City in what could prove to be a defining moment in the Premier League season — Arsenal arrive buoyed by four consecutive clean sheets and an electric home crowd, while City's relentless squad depth and Pep Guardiola's tactical flexibility make them perennial threats regardless of form. The midfield battle will be central: Arsenal's intensity and press against City's positional superiority promises a compelling tactical chess match that could swing on a single moment of individual brilliance.",
+      "home": "Manchester City",
+      "away": "Chelsea",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "Manchester City host Chelsea at the Etihad in what promises to be one of the most tactically fascinating fixtures of the weekend, with Pep Guardiola's side looking to consolidate their top-four position after back-to-back wins restored some momentum. Chelsea arrive in strong form under Enzo Maresca, with their high-press system causing problems for mid-table sides, but the step up in quality against City's experienced backline will be a different test entirely. The subplot of Maresca facing his former mentor Guardiola adds an intriguing personal dimension to what is already a high-stakes Premier League encounter.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Cole Palmer",
+        "Rodri"
       ]
     },
     "injury_news": [
@@ -326,76 +366,76 @@
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected return in 3-4 weeks; being assessed ahead of Sunday's fixture"
+        "return": "Expected late April / early May"
       },
       {
-        "player": "Ben White",
-        "team": "Arsenal",
+        "player": "Reece James",
+        "team": "Chelsea",
         "status": "Doubtful",
-        "return": "Participated in partial training; final fitness decision expected Saturday"
+        "return": "Week-to-week assessment ongoing"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is priced at $950. If the bond's yield to maturity increases by 50 basis points, which of the following best explains why the percentage price decrease will be smaller than the percentage price increase if yields had fallen by the same amount?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank has a loan portfolio with a one-year probability of default (PD) of 2%, a loss given default (LGD) of 45%, and an exposure at default (EAD) of $500 million. The asset correlation is 12%. Using the Basel II IRB approach, which of the following best describes the relationship between the unexpected loss (UL) and the capital requirement?",
       "options": {
-        "A": "Bonds with lower coupons have greater convexity, amplifying price increases relative to price decreases.",
-        "B": "Positive convexity causes the price-yield relationship to be curved, so price gains from falling yields exceed price losses from rising yields of equal magnitude.",
-        "C": "Duration measures the linear price sensitivity, and positive convexity means the bond is more sensitive to yield increases than decreases.",
-        "D": "The bond trades at a discount, which causes asymmetric price sensitivity regardless of convexity."
+        "A": "The capital requirement equals the expected loss, since EL captures the full risk of the portfolio.",
+        "B": "The capital requirement is designed to cover unexpected losses at a 99.9% confidence level, with expected losses covered by loan loss provisions.",
+        "C": "The capital requirement equals the product of PD, LGD, and EAD regardless of correlation assumptions.",
+        "D": "Asset correlation has no effect on the capital requirement under the IRB approach because diversification is assumed to be perfect."
       },
       "correct": "B",
-      "explanation": "Positive convexity means the price-yield relationship is convex (curved outward toward the investor), so the actual price increase when yields fall exceeds the price decrease when yields rise by the same number of basis points. Duration provides only a linear approximation; convexity captures the curvature that makes gains larger than losses for equal yield movements. This asymmetry is a desirable property and is why investors are willing to pay a premium for highly convex bonds. Option C is incorrect because positive convexity actually means the bond is less sensitive to yield increases, not more."
+      "explanation": "Under the Basel II Internal Ratings-Based (IRB) approach, regulatory capital is calibrated to cover unexpected losses (UL) at a 99.9% confidence level over a one-year horizon, not expected losses. Expected losses (EL = PD × LGD × EAD = $4.5M here) are meant to be absorbed by loan loss provisions and pricing. Asset correlation is critically important in the IRB formula — higher correlation increases the conditional PD in a systemic stress scenario, thereby raising the capital requirement. Perfect diversification is never assumed; the Vasicek single-factor model underlying IRB explicitly models systematic risk."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why imperfect hedges can leave investors exposed to residual risk even when positions appear fully covered.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Why imperfect hedges can leave investors exposed even when they think they are protected.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the instrument used to hedge it do not move in perfect lockstep. The 'basis' is defined as the difference between the spot price of the exposure and the futures or derivative price used to offset it. Even a well-constructed hedge carries basis risk if the two instruments respond differently to market forces — whether due to differences in credit quality, geography, maturity, or liquidity. Unlike outright market risk, basis risk is often underestimated because it is hidden beneath the apparent protection of a hedge.",
-        "A classic real-world example occurred during the 2008 financial crisis, when many financial institutions hedged mortgage-backed security (MBS) exposures using investment-grade corporate bond indices or Treasury instruments. When credit spreads on MBS exploded while Treasuries rallied, the basis between hedged instruments and the actual exposure widened dramatically, turning seemingly hedged books into significant loss centers. Similarly, airlines that hedge jet fuel using crude oil futures face basis risk because jet fuel and crude oil prices, while correlated, do not move identically — refining margins and regional supply factors create persistent divergence.",
-        "For risk managers and portfolio managers, basis risk demands careful instrument selection and ongoing monitoring. A hedge ratio should be calibrated not just on price correlation but on the stability of that correlation under stress conditions. Regulators under frameworks like Basel III and FRTB explicitly require banks to hold capital against basis risk as a component of market risk. Investors should ask: 'Does the hedge fail precisely when I need it most?' — because basis risk tends to widen during periods of market dislocation, exactly when hedges are most critical."
+        "Basis risk arises when the hedge instrument used to offset an exposure does not move in perfect lockstep with the underlying asset being hedged. The 'basis' is defined as the difference between the spot price of the asset being hedged and the futures (or other derivative) price of the instrument used. Even a carefully constructed hedge carries basis risk if the two instruments differ in maturity, credit quality, geography, or liquidity profile. This residual risk means that hedging rarely eliminates price risk entirely — it transforms it into a narrower, more manageable form.",
+        "A classic real-world example is a jet fuel hedging program. Airlines often hedge using crude oil or heating oil futures because liquid jet fuel futures markets are limited. While crude and jet fuel prices are highly correlated, refining margins and supply disruptions can cause them to diverge sharply. During the 2022 energy crisis, refinery bottlenecks caused jet fuel crack spreads to blow out to record levels, meaning airlines that had hedged via crude futures saw their hedges underperform significantly — they were exposed to the basis widening between crude oil and refined product prices.",
+        "For risk managers and portfolio managers, basis risk demands careful hedge ratio calibration and ongoing monitoring. A static hedge ratio calculated at inception can become stale as correlations shift. Practitioners often use regression-based minimum variance hedge ratios, adjusting periodically for changing beta between the asset and hedge instrument. Basis risk also has regulatory implications — under hedge accounting rules (IFRS 9 / ASC 815), excessive basis risk can disqualify a relationship from hedge accounting treatment, forcing mark-to-market volatility through the income statement."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is placed, arising from imperfect correlation between the hedged asset and the hedging instrument.",
-        "Basis risk tends to widen during market stress, meaning hedges can underperform or even amplify losses at the worst possible moments.",
-        "Effective hedging requires selecting instruments with stable, high correlation to the exposure and stress-testing the hedge under adverse market scenarios."
+        "Basis risk is the residual price risk remaining after a hedge is applied, arising from imperfect correlation between the hedged item and the hedging instrument.",
+        "Real-world hedges (e.g., airlines using crude futures to hedge jet fuel) are almost always cross-hedges carrying meaningful basis risk, especially in stressed markets.",
+        "Risk managers must monitor and dynamically adjust hedge ratios over time, and excessive basis risk can have significant hedge accounting implications under IFRS 9 and ASC 815."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をしっかり管理しています。",
-      "example_romaji": "Kongetsu no yosan wo shikkari kanri shite imasu.",
-      "example_en": "I am carefully managing this month's budget.",
-      "grammar_point": "〜ています (te-form + imasu)",
-      "grammar_explanation": "The pattern 〜ています expresses an ongoing action or current state in Japanese, similar to the English present continuous tense. It is formed by taking the te-form of a verb and adding います (imasu) for polite speech.",
-      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you have planned for yourself. Visualize writing down your personal sum in a notebook labeled 予算."
+      "example_jp": "彼は毎日運動するという約束を守った。",
+      "example_romaji": "Kare wa mainichi undou suru to iu yakusoku wo mamotta.",
+      "example_en": "He kept his promise to exercise every day.",
+      "grammar_point": "〜を守る (wo mamoru)",
+      "grammar_explanation": "The phrase 約束を守る means 'to keep a promise.' The verb 守る (mamoru) means to protect or to keep/uphold, and it pairs naturally with 約束 to express honoring a commitment. Beginners can also learn its opposite: 約束を破る (yakusoku wo yaburu), meaning 'to break a promise.'",
+      "memory_tip": "Imagine a 'YAKU' (like a yakuza) making a SOKUspeed-promise — yakuza always keep their word or there are consequences. The intensity helps you remember that 約束 carries real weight!"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Lending Decisions at Scale",
-      "summary": "Major banks and fintech lenders are deploying large language models and gradient-boosting machine learning systems to augment — and in some cases replace — traditional credit scoring models like FICO. These systems ingest thousands of alternative data signals, including cash flow patterns, behavioral data, and macroeconomic embeddings, to produce credit decisions with measurably lower default rates on thin-file borrowers. Regulators in the US and EU are actively developing frameworks around model explainability and algorithmic fairness to ensure these systems comply with fair lending laws. For finance professionals, understanding how these models are built, validated, and governed is rapidly becoming a core competency rather than a niche skill.",
+      "headline": "Agentic AI Systems Are Quietly Reshaping Financial Research and Risk Workflows",
+      "summary": "A new generation of autonomous AI agents — systems that can plan, use tools, browse data sources, and execute multi-step tasks without constant human input — is moving from research labs into live financial applications. Major banks and asset managers are piloting agentic frameworks (built on models like GPT-4o and Claude 3.5) that can autonomously pull earnings data, run scenario analyses, draft credit memos, and flag covenant breaches in loan documentation. Unlike traditional automation scripts, these agents can adapt to unexpected outputs and chain reasoning steps together, making them qualitatively more powerful for complex analytical workflows. The productivity implications are significant: early pilots at several bulge-bracket firms report 40-60% reductions in time spent on first-draft research and due diligence tasks.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds sequential decision trees, each correcting the errors of the previous one — widely used in credit risk because it handles tabular financial data well and produces highly accurate probability-of-default estimates."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously pursue multi-step goals by planning, using external tools (APIs, databases, calculators), and adapting to intermediate results — going far beyond simple question-and-answer interactions."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) is a method that assigns each input feature a contribution score to a model's output, allowing risk teams and regulators to understand why a credit model made a specific decision — critical for fair lending compliance."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model retrieves relevant documents or data from a proprietary database before generating its response, allowing it to answer questions grounded in a firm's own research, filings, or risk data rather than just its training data."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as rental payment history, utility bills, e-commerce behavior, or mobile usage patterns — used to assess creditworthiness of borrowers who have limited or no traditional credit history."
+          "term": "LLM Fine-Tuning",
+          "definition": "The process of further training a large language model on domain-specific financial data (e.g., credit agreements, earnings transcripts, regulatory filings) so it develops specialized knowledge and vocabulary relevant to finance professionals."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who understand machine learning model validation, bias testing, and regulatory interpretability frameworks (SR 11-7, FRTB model approval) are commanding significant premiums in the job market. The most resilient career path combines quantitative ML literacy with deep domain knowledge in credit, risk, or structured finance — pure data scientists without financial context are increasingly finding it difficult to deliver production-ready risk models without business-side partners."
+      "career_insight": "Finance professionals who understand how to design, prompt, and supervise agentic AI systems will have a substantial edge as firms move from AI experimentation to production deployment. The highest-value skill set is not coding per se, but rather 'AI workflow design' — knowing how to decompose complex financial tasks (credit analysis, portfolio attribution, regulatory reporting) into steps that AI agents can reliably execute under human oversight. Risk managers in particular should develop fluency in AI model governance, as regulators in the US, EU, and UK are increasingly scrutinizing how AI-generated outputs are validated before use in credit decisions."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a mixed bag of US labor data — headline payrolls came in firm but average hourly earnings growth continued its gradual softening, keeping the Fed's 'higher for longer' narrative intact without triggering fresh hawkishness. Treasury yields are hovering near multi-month resistance levels as investors price in roughly one 25bp cut before year-end, while IG credit spreads remain tight, suggesting the corporate sector is not yet pricing in a meaningful growth slowdown. Equity markets in Europe are outperforming on a relative basis, supported by ECB rate cut expectations and a weaker euro boosting export earnings, though China demand uncertainty continues to weigh on commodity-linked names and EM sentiment broadly."
+    "market_sentiment": "Global equities are trading with a cautiously constructive tone this morning as investors digest a mixed signals environment: resilient US labor data continues to push back Fed rate cut expectations toward Q4 2025, while China's latest stimulus package targeting domestic consumption has provided a modest lift to EM and commodity-linked assets. Credit spreads remain tight by historical standards — investment-grade spreads hovering near 95bps over Treasuries — suggesting markets are pricing a soft-landing base case, though the options market shows elevated demand for tail hedges heading into next month's CPI print. The dollar is marginally firmer on the rates-higher-for-longer narrative, creating a headwind for gold and non-dollar risk assets, while oil holds steady near $82/bbl on balanced supply-demand dynamics ahead of the next OPEC+ monitoring meeting."
   }
 }
