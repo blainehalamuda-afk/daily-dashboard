@@ -1,34 +1,34 @@
 {
-  "generated_at": "6:22 PM UTC",
-  "date": "Monday, May 11, 2026",
+  "generated_at": "6:24 PM UTC",
+  "date": "Tuesday, May 12, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 69,
+    "temp_f": 71,
     "feels_like_f": 69,
-    "high_f": 72,
-    "low_f": 68,
+    "high_f": 73,
+    "low_f": 69,
     "description": "Broken Clouds",
     "icon": "☁️",
-    "humidity": 64,
-    "wind_mph": 21,
+    "humidity": 35,
+    "wind_mph": 6,
     "forecast": [
-      {
-        "day": "Tue",
-        "icon": "☁️",
-        "high": 51,
-        "low": 51,
-        "description": "Overcast Clouds"
-      },
       {
         "day": "Wed",
         "icon": "☀️",
-        "high": 57,
-        "low": 57,
+        "high": 53,
+        "low": 53,
         "description": "Clear Sky"
       },
       {
         "day": "Thu",
+        "icon": "☀️",
+        "high": 55,
+        "low": 55,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Fri",
         "icon": "☀️",
         "high": 53,
         "low": 53,
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 740.36,
-        "change": 2.74,
-        "change_pct": 0.37,
-        "up": true,
+        "price": 735.57,
+        "change": -3.73,
+        "change_pct": -0.5,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 292.36,
-        "change": -0.96,
-        "change_pct": -0.33,
-        "up": false,
+        "price": 294.07,
+        "change": 1.39,
+        "change_pct": 0.47,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 220.82,
-        "change": 5.62,
-        "change_pct": 2.61,
-        "up": true,
+        "price": 218.27,
+        "change": -1.17,
+        "change_pct": -0.53,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 445.56,
-        "change": 17.21,
-        "change_pct": 4.02,
-        "up": true,
+        "price": 429.38,
+        "change": -15.62,
+        "change_pct": -3.51,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 81946.69,
-        "change": 545.48,
-        "change_pct": 0.67,
-        "up": true,
+        "price": 80540.01,
+        "change": -1415.26,
+        "change_pct": -1.73,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2339.21,
-        "change": -24.14,
-        "change_pct": -1.02,
+        "price": 2277.01,
+        "change": -62.24,
+        "change_pct": -2.66,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Dell family gave $6.25B to 'Trump Accounts' in December. Now Trump says 'buy a Dell' — and the stock soared 14% - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dell-family-gave-6-25b-173000510.html",
-        "description": "This isn't the first time a social media post or public comment by the president has moved a company's stock in 2026.",
-        "published": "5:30 PM UTC",
+        "title": "Stock Market Today: S&P 500, Nasdaq Rise to New Records; Oil Gains as Trump Rejects 'Unacceptable' Iran Peace Plan Response - Investopedia",
+        "source": "Investopedia",
+        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-05112026-11971208",
+        "description": "Major stock indexes advanced to begin the week, with the S&P 500 and Nasdaq Composite setting fresh records. Meanwhile, oil prices rose after President Donald Trump called Iran's peace proposal respon",
+        "published": "3:27 PM UTC",
         "category": "Business"
       },
       {
-        "title": "There's a bait and switch buried in the Trump Accounts parents need to know about - AlterNet",
-        "source": "AlterNet",
-        "url": "https://www.alternet.org/trump-accounts/",
-        "description": "President Donald Trump has promoted his “Trump Accounts,” or stock market investment accounts for American children, as being great for future generations — but experts are not so sure.“The federal go",
-        "published": "3:39 PM UTC",
+        "title": "Nvidia (NVDA) CEO Jensen Huang Excluded from Trump’s China Trip - TipRanks",
+        "source": "Tipranks.com",
+        "url": "https://www.tipranks.com/news/nvidia-nvda-ceo-jensen-huang-excluded-from-trumps-china-trip",
+        "description": "The chipmaker is effectively shut out of China.",
+        "published": "3:24 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Trump’s war has given China an economic opening - Financial Times",
-        "source": "Financial Times",
-        "url": "https://www.ft.com/content/27ecd13b-c544-4304-8f76-0f2d4ed296e1?syn-25a6b1a6\\\\u003d1",
-        "description": "Beijing could turn instability in the Middle East into a strategic gain",
-        "published": "2:23 PM UTC",
+        "title": "Why Micron Stock Keeps Going Up - The Motley Fool",
+        "source": "Motley Fool",
+        "url": "https://www.fool.com/investing/2026/05/11/why-micron-stock-keeps-going-up/",
+        "description": "What goes up must come down -- eventually.",
+        "published": "3:16 PM UTC",
         "category": "Business"
       },
       {
-        "title": "GTA 6 hopefuls encouraged by Sony to upgrade to PS5 now - Eurogamer",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/gta-6-hopefuls-encouraged-by-sony-to-upgrade-to-ps5-now",
-        "description": "PlayStation is writing to PS4 owners to suggest they'll need to upgrade to a PS5 if they want to play Grand Theft Auto …",
-        "published": "4:35 PM UTC",
+        "title": "New Rocket League Paris Major Bundle: All Net Sales Going to Competing Players & Teams - Rocket League ®",
+        "source": "Rocketleague.com",
+        "url": "https://www.rocketleague.com/news/new-rocket-league-paris-major-bundle-all-net-sales-going-to-competing-players-and-teams",
+        "description": "Net sales from the Paris Major Bundle will go directly to competing players and the teams that got them there.",
+        "published": "4:08 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Google Health kills the Fitbit we knew, but maybe that’s not a bad thing - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/05/10/google-health-kills-the-fitbit-we-knew-but-maybe-thats-not-a-bad-thing/",
-        "description": "Alongside its new Fitbit Air, Google this week announced that the Fitbit app is dead, to be replaced by “Google...",
+        "title": "Review: Directive 8020 (PS5) - Dull Sci-Fi Thriller Is a Supermassive Letdown - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/reviews/ps5/directive-8020",
+        "description": "Ridley Carpenter's The Alien",
         "published": "4:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Warhammer 40,000 Faction Focus: Chaos Space Marines and Chaos Daemons - Warhammer Community",
-        "source": "Warhammer-community.com",
-        "url": "https://www.warhammer-community.com/en-gb/articles/ztuwo7gs/warhammer-40000-faction-focus-chaos-space-marines-and-chaos-daemons/",
-        "description": "",
-        "published": "3:12 PM UTC",
+        "title": "The Crossword, May 11: She’s A Rainbow - Defector",
+        "source": "Defector.com",
+        "url": "https://defector.com/the-crossword-may-11-shes-a-rainbow",
+        "description": "Set the tone for your week and solve our Monday crossword. This week’s puzzle was constructed by Kelsey Dixon, and edited by Hoang-Kim Vu. Kelsey is a southerner by birth, a Mariah Carey fan by choice",
+        "published": "3:16 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "On 'SNL,' Matt Damon's Brett Kavanaugh promises a third Trump term - USA Today",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/entertainment/tv/2026/05/10/snl-cold-open-this-week-matt-damon-brett-kavanaugh/89980522007/",
-        "description": "Matt Damon revived his impression of Brett Kavanaugh on this week's \"SNL,\" with the Supreme Court justice promising to \"let Trump do a third term.\"",
-        "published": "5:46 PM UTC",
+        "title": "Trump says he aims to suspend gas tax \"for a period of time\" - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/trump-interview-suspending-gas-tax-iran-war/",
+        "description": "President Trump made the comments in a phone interview with CBS News chief White House correspondent Nancy Cordes.",
+        "published": "4:28 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "US standoff with Iran deepens and strait remains closed after Trump rejects latest proposal - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/iran-us-israel-china-war-may-11-2026-0e9067769efea20e9d45e3d43158ad8c",
+        "description": "U.S. President Donald Trump says the Iran ceasefire is on “life support” after he rejected Tehran’s latest proposal to end the war. Officials said the proposal included some concessions on Iran’s disp",
+        "published": "4:16 PM UTC",
         "category": "General"
       }
     ]
@@ -172,53 +180,23 @@
     "error": false,
     "matches": [
       {
-        "home": "Crystal Palace",
-        "away": "Everton",
-        "home_score": 2,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "1:00 PM UTC",
-        "date": "May 10",
-        "highlighted": false
-      },
-      {
-        "home": "Burnley",
-        "away": "Aston Villa",
-        "home_score": 2,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "1:00 PM UTC",
-        "date": "May 10",
-        "highlighted": false
-      },
-      {
-        "home": "Nottingham",
-        "away": "Newcastle",
+        "home": "Tottenham",
+        "away": "Leeds United",
         "home_score": 1,
         "away_score": 1,
         "status": "FINISHED",
-        "time": "1:00 PM UTC",
-        "date": "May 10",
+        "time": "7:00 PM UTC",
+        "date": "May 11",
         "highlighted": false
       },
       {
-        "home": "West Ham",
-        "away": "Arsenal",
-        "home_score": 0,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "3:30 PM UTC",
-        "date": "May 10",
-        "highlighted": false
-      },
-      {
-        "home": "Tottenham",
-        "away": "Leeds United",
+        "home": "Man City",
+        "away": "Crystal Palace",
         "home_score": null,
         "away_score": null,
         "status": "TIMED",
         "time": "7:00 PM UTC",
-        "date": "May 11",
+        "date": "May 13",
         "highlighted": false
       }
     ],
@@ -294,30 +272,30 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are understood to be closing in on a deal for a dynamic box-to-box midfielder from the Bundesliga, with Mikel Arteta keen to add steel and creativity to a midfield that has been stretched by injuries. Personal terms are said to be largely agreed, with the fee potentially reaching £55 million including add-ons.",
+        "headline": "Arsenal Revive Interest in Bundesliga Midfielder as Partey Replacement Target",
+        "summary": "Arsenal are reportedly monitoring Granit Xhaka's former Leverkusen teammates as Mikel Arteta seeks a more dynamic defensive-midfield option. The Gunners are said to have submitted an initial inquiry ahead of the January window, with a summer move considered more realistic.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Liverpool Target Prolific Serie A Striker as Firmino Void Remains Unfilled",
-        "summary": "Liverpool's recruitment team has been heavily scouting a high-pressing, technically gifted striker currently lighting up Serie A, with Anfield sources suggesting a formal bid could come in the January window if current form continues. The player's release clause is reported to be set at €70 million, which Liverpool view as reasonable value.",
+        "headline": "Newcastle United Open Talks for Napoli Striker as Alexander Isak Future Remains Uncertain",
+        "summary": "Newcastle are exploring contingency options in attack amid continued speculation linking Alexander Isak with a move to a Champions League club next summer. The club's Saudi ownership group is understood to have sanctioned funds for a marquee January signing if the right opportunity arises.",
         "clubs": [
-          "Liverpool",
+          "Newcastle United",
           "Napoli"
         ]
       }
     ],
     "match_preview": {
       "home": "Manchester City",
-      "away": "Chelsea",
-      "date": "Saturday, 3:00 PM GMT",
-      "preview": "Manchester City host Chelsea at the Etihad in what promises to be a tactical battle between Pep Guardiola's relentless positional play and Enzo Maresca's evolving possession-based system that has Chelsea pushing for a top-four finish. City will be eager to reassert their title credentials after a stumble last weekend, while Chelsea see this as a defining opportunity to prove their resurgence is genuine and not just a product of a soft fixture run. The subplots are rich — a battle between two of the most tactically sophisticated managers in the division — and the result could have significant ramifications for the top of the table.",
+      "away": "Liverpool",
+      "date": "Sunday, 16:30 GMT",
+      "preview": "The Premier League's marquee fixture pits a City side still finding top gear under Pep Guardiola — having dropped points in consecutive home matches — against a Liverpool team riding the crest of a wave under Arne Slot, currently sitting two points clear at the summit. City will look to Erling Haaland to bully Liverpool's high defensive line while Liverpool's pressing machine will target City's transitional vulnerabilities exposed in recent weeks. The result could effectively define the title narrative for the remainder of the first half of the season.",
       "key_players": [
         "Erling Haaland",
-        "Cole Palmer",
+        "Mohamed Salah",
         "Rodri"
       ]
     },
@@ -326,76 +304,76 @@
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected return mid-February at earliest; long-term knee injury continues to sideline the Ballon d'Or winner"
+        "return": "Expected return mid-February at earliest following ACL rehabilitation"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
+        "player": "Diogo Jota",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Rated 50/50 for the weekend fixture after returning to light training; club taking no risks with the captain's hamstring"
+        "return": "Passed fit to train but match fitness remains uncertain; decision expected Saturday"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
       "exam": "CFA Level 2",
-      "topic": "Fixed Income – Credit Analysis",
-      "question": "An analyst is evaluating two bonds issued by the same company: a senior secured bond and a subordinated unsecured bond. The company's probability of default (PD) is 8%, the loss given default (LGD) for the senior secured bond is 25%, and the LGD for the subordinated unsecured bond is 75%. Which of the following statements best describes the relationship between the expected loss (EL) of these two bonds?",
+      "topic": "Fixed Income – Valuation and Term Structure",
+      "question": "An analyst uses a binomial interest rate tree to value a callable bond. The bond has a par value of $1,000, a 6% annual coupon, three years to maturity, and is callable at par at the end of year 1 and year 2. The risk-neutral probabilities are 50/50 at each node. If the current one-year spot rate is 4.5% and volatility causes upper/lower one-year rates in year 1 to be 6.8% and 5.2% respectively, which of the following best describes why the callable bond's OAS will be LOWER than the OAS of an otherwise identical option-free bond?",
       "options": {
-        "A": "The expected loss on the subordinated bond is 3 times that of the senior secured bond because only LGD differs.",
-        "B": "Both bonds have the same expected loss because they share the same issuer and therefore the same PD.",
-        "C": "The expected loss cannot be compared without knowing the recovery rate curve across the capital structure.",
-        "D": "The subordinated bond's expected loss is lower because subordinated bondholders receive residual claims more quickly in restructuring."
+        "A": "The embedded call option increases the bond's duration, requiring a higher spread to compensate investors.",
+        "B": "The call option benefits the issuer; the OAS of the callable bond is computed after removing the option cost, leaving a spread that reflects only credit and liquidity risk, which is smaller than the Z-spread.",
+        "C": "OAS for callable bonds incorporates the value of the call option directly into the spread, making it larger than the Z-spread to reflect additional risk to the investor.",
+        "D": "The binomial tree discounts callable bond cash flows at higher rates than option-free bonds, producing a lower price and therefore a lower OAS."
       },
-      "correct": "A",
-      "explanation": "Expected Loss = PD × LGD. Since both bonds share the same issuer, PD is identical at 8%. The senior secured EL = 8% × 25% = 2.0%, while the subordinated EL = 8% × 75% = 6.0%, making the subordinated bond's EL exactly three times higher. LGD reflects seniority in the capital structure — senior secured creditors benefit from collateral, dramatically reducing losses in default scenarios. Option B incorrectly conflates default probability with loss severity, and Option D misrepresents how subordinated claims work in bankruptcy proceedings."
+      "correct": "B",
+      "explanation": "The Option-Adjusted Spread (OAS) removes the value of the embedded option from the spread calculation, isolating compensation for credit risk and liquidity. For a callable bond, the Z-spread exceeds the OAS because the Z-spread includes the cost of the call option borne by the investor. The OAS, being option-stripped, is therefore lower than the Z-spread and reflects only the non-option risk premium. This makes OAS the most appropriate metric for comparing callable and option-free bonds on a like-for-like basis."
     },
     "finance_topic": {
-      "title": "The Basis Risk Hidden in Hedged Portfolios",
-      "subtitle": "Why perfectly hedged positions can still generate significant losses when the hedge instrument diverges from the underlying exposure.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why perfect hedges exist only in textbooks, and what basis risk means for real-world risk managers.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying asset or liability being hedged. Formally, it is defined as the risk that the spread between the spot price of the hedged item and the futures or derivative price of the hedging instrument fluctuates unexpectedly. Even when a hedge is carefully constructed, differences in credit quality, geography, contract specification, or timing can cause the hedge to underperform or even amplify losses rather than offset them.",
-        "A classic illustration emerged during the 2008 financial crisis, when institutions that had hedged corporate bond exposure using CDS indices discovered that idiosyncratic moves in single-name credits diverged sharply from index levels. Similarly, airlines that hedge jet fuel costs using crude oil futures face basis risk because the crack spread — the differential between crude and refined jet fuel — can widen dramatically during refinery disruptions or geopolitical shocks, leaving a 'hedged' airline still massively exposed to fuel cost spikes. The London Whale episode at JPMorgan in 2012 also illustrated how hedging a credit portfolio with a bespoke index tranche can generate enormous basis risk when the hedge and the underlying book respond differently to market stress.",
-        "For investors and risk managers, basis risk demands that hedge effectiveness be continuously monitored and statistically tested, not merely assumed at inception. Under IFRS 9 and ASC 815 hedge accounting standards, entities must document and periodically assess hedge effectiveness — a process that forces firms to quantify exactly how much basis risk they are accepting. Portfolio managers should stress-test their hedges under scenarios specifically designed to widen the basis, ensuring that what appears to be a near-perfect hedge in normal conditions does not become a liability in a tail event."
+        "Basis risk arises when the hedge instrument and the underlying exposure do not move in perfect lockstep, creating residual risk even after a hedge is in place. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the contract used. Because hedgers rarely find a futures or derivative contract that perfectly matches their underlying exposure in terms of asset type, maturity, or location, some degree of basis risk is almost always present. Unlike price risk, which hedging seeks to eliminate, basis risk is the price paid for using standardized, liquid instruments to manage bespoke exposures.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Jet fuel and crude oil prices are highly correlated, but refining margin shifts, supply disruptions, or seasonal demand can cause the spread between them to widen unexpectedly — this is cross-hedge basis risk. Similarly, a portfolio manager hedging a small-cap equity portfolio with S&P 500 futures faces basis risk if small-caps underperform large-caps during the hedge period, a scenario that played out sharply in late 2021 and again in 2023 as factor rotations diverged dramatically between indices.",
+        "For risk managers and investors, understanding basis risk is critical to evaluating hedge effectiveness under IFRS 9 and ASC 815 accounting standards, which require prospective and retrospective testing of hedge relationships. A hedge ratio that minimizes variance — the minimum variance hedge ratio — should be recalibrated regularly as correlations shift, particularly during stress periods when basis tends to widen at exactly the worst moment. Portfolio managers should stress-test hedges under scenarios where basis moves adversely, treating unhedged basis as an explicit, monitored risk position rather than an oversight."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging — it can never be fully eliminated, only managed and priced.",
-        "The most dangerous basis risk is the kind that appears negligible in calm markets but explodes in volatility, creating correlation breakdown at exactly the wrong moment.",
-        "Hedge accounting standards (IFRS 9, ASC 815) require quantitative effectiveness testing, forcing institutions to confront and disclose basis risk rather than obscure it."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
+        "Cross-hedges (e.g., using crude oil futures to hedge jet fuel) are especially susceptible to basis widening during market stress or structural shifts.",
+        "The minimum variance hedge ratio should be dynamically recalibrated, and basis itself should be treated as an active, monitored risk — not assumed away."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenditure",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality — something happened and it cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Break it down: 予 (yo) sounds like 'yo, let's plan!' and 算 (san) sounds like 'sum' — so 予算 is literally your 'planned sum,' your budget. Picture someone saying 'Yo, sum it up!' while reviewing a spreadsheet."
+      "grammar_explanation": "This pattern attaches to the te-form of a verb and expresses that something happened completely, often with a sense of regret or that the result was unintended. It is very common in everyday speech when admitting mistakes or unexpected outcomes.",
+      "memory_tip": "Think of '予' as 'pre-' (beforehand) and '算' as 'calculate' — a budget is literally the amount you PRE-CALCULATE before spending. Picture yourself doing math with a calculator before going shopping."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Execute Trades Without Human Approval",
-      "summary": "A new generation of agentic AI systems — capable of planning multi-step workflows and executing actions autonomously — is moving from research labs into live financial environments. Firms including hedge funds and proprietary trading shops are piloting LLM-based agents that can retrieve real-time market data, generate hypotheses, size positions, and submit orders within predefined risk parameters, all without a human in the loop for each decision. This represents a qualitative shift from AI as a decision-support tool to AI as a decision-making actor, raising urgent questions about accountability, model risk governance, and systemic feedback loops. Regulators in the EU and US are beginning to draft frameworks specifically targeting autonomous AI systems in high-frequency and algorithmic trading contexts.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Multi-Step Financial Workflows",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool-use, and self-correction across multiple steps — is moving beyond chatbots into production environments at hedge funds and investment banks. Unlike single-turn LLMs, these agents can pull live data, write and execute code, query databases, and generate structured outputs like credit memos or risk reports with minimal human intervention. Early adopters at quantitative firms are deploying agent frameworks such as LangGraph and AutoGen to automate equity research compilation, covenant monitoring, and earnings call analysis pipelines. The shift represents a fundamental change in how financial analysts interact with AI: from prompt-and-response to delegating entire workflows.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that autonomously plans, sequences, and executes multi-step tasks — in finance, this could mean researching a thesis, stress-testing a position, and placing a trade without requiring human approval at each step."
+          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as querying data, running calculations, and writing a report — to complete a complex goal, rather than simply responding to a single prompt."
         },
         {
-          "term": "Reinforcement Learning from Human Feedback (RLHF)",
-          "definition": "A training technique where AI models are fine-tuned based on human preference signals, used in finance to align trading agents with risk appetite and compliance constraints rather than purely optimizing raw returns."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating a response, allowing it to ground answers in current financial filings, market data, or internal research rather than relying solely on training knowledge."
         },
         {
-          "term": "Model Risk Governance (MRG)",
-          "definition": "The framework of policies, validation processes, and oversight mechanisms that financial institutions use to identify, measure, and control the risks arising from using quantitative or AI-driven models in decision-making."
+          "term": "Tool-Use / Function Calling",
+          "definition": "The ability of a language model to invoke external tools — such as a financial data API, Python interpreter, or SQL database — during its reasoning process, enabling it to perform real computations and retrieve live information."
         }
       ],
-      "career_insight": "Finance professionals who understand both the technical capabilities and the governance limitations of AI agents will command a significant premium over the next five years — firms desperately need people who can sit at the intersection of model risk, compliance, and AI deployment. Building fluency in prompt engineering, AI output validation, and regulatory frameworks like the EU AI Act positions risk managers and analysts as indispensable architects of responsible AI adoption, rather than bystanders to automation."
+      "career_insight": "Finance professionals who understand how to design, prompt, and oversee agentic AI workflows will command significant leverage over peers who treat AI as only a writing assistant. The most valuable skill set emerging is 'AI workflow architecture' — knowing how to break a complex financial task into agent-executable steps, validate outputs, and build in human-in-the-loop checkpoints for high-stakes decisions. Risk managers in particular should develop fluency in how these systems fail, as agent errors can compound silently across multi-step pipelines in ways that single-query LLM mistakes do not."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a delicate macro crossroads this week, with Fed speakers continuing to push back against near-term rate cut expectations while softening US labor data keeps recession tail risks alive in the options market. The dollar remains bid on relative rate differentials as ECB cut pricing has moved more aggressively than Fed pricing, compressing EUR/USD toward key technical support; EM currencies with commodity exposure are catching a modest bid on China stimulus optimism, though conviction remains shallow. Credit spreads are holding range-bound, but the IG-to-HY spread differential has widened at the margin — a quiet signal that the market is beginning to reprice refinancing risk for lower-quality issuers as the 'higher for longer' narrative firms up heading into next quarter's earnings season."
+    "market_sentiment": "Global equity markets are navigating a delicate equilibrium this week as investors parse conflicting signals from resilient U.S. labor data against softening ISM manufacturing prints, keeping Fed rate-cut timing expectations anchored to late 2025. Treasury yields have drifted modestly higher on the long end, steepening the curve and pressuring rate-sensitive sectors including utilities and REITs, while energy names catch a bid as Brent crude firms above $85 on tightening OPEC+ supply rhetoric. Risk appetite remains cautiously constructive — credit spreads are range-bound and the VIX sits below 16 — but positioning looks stretched in mega-cap tech ahead of a heavy earnings week, and any guidance disappointment could catalyze a sharper unwind than current vol pricing implies."
   }
 }
