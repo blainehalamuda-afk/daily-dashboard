@@ -1,25 +1,18 @@
 {
-  "generated_at": "6:28 PM UTC",
-  "date": "Wednesday, May 13, 2026",
+  "generated_at": "6:21 PM UTC",
+  "date": "Thursday, May 14, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 76,
-    "feels_like_f": 76,
-    "high_f": 79,
-    "low_f": 74,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 38,
-    "wind_mph": 3,
+    "temp_f": 72,
+    "feels_like_f": 70,
+    "high_f": 75,
+    "low_f": 70,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 33,
+    "wind_mph": 15,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "🌤️",
-        "high": 56,
-        "low": 56,
-        "description": "Few Clouds"
-      },
       {
         "day": "Fri",
         "icon": "☀️",
@@ -29,10 +22,17 @@
       },
       {
         "day": "Sat",
-        "icon": "☁️",
+        "icon": "⛅",
         "high": 61,
         "low": 61,
-        "description": "Broken Clouds"
+        "description": "Scattered Clouds"
+      },
+      {
+        "day": "Sun",
+        "icon": "☁️",
+        "high": 68,
+        "low": 68,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 743.67,
-        "change": 5.49,
-        "change_pct": 0.74,
+        "price": 748.2,
+        "change": 5.89,
+        "change_pct": 0.79,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 300.06,
-        "change": 5.26,
-        "change_pct": 1.78,
-        "up": true,
+        "price": 298.45,
+        "change": -0.42,
+        "change_pct": -0.14,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 227.17,
-        "change": 6.39,
-        "change_pct": 2.89,
+        "price": 235.23,
+        "change": 9.4,
+        "change_pct": 4.16,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 447.66,
-        "change": 14.21,
-        "change_pct": 3.28,
-        "up": true,
+        "price": 444.72,
+        "change": -0.55,
+        "change_pct": -0.12,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 79738.22,
-        "change": -757.44,
-        "change_pct": -0.94,
-        "up": false,
+        "price": 81921.38,
+        "change": 2135.98,
+        "change_pct": 2.68,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2266.43,
-        "change": -11.38,
-        "change_pct": -0.5,
-        "up": false,
+        "price": 2315.8,
+        "change": 48.3,
+        "change_pct": 2.13,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "In-Depth: Everything You Need to Know about the Audemars Piguet x Swatch Royal Pop (Live Photos & Video) - Monochrome Watches",
-        "source": "Monochrome-watches.com",
-        "url": "https://monochrome-watches.com/audemars-piguet-x-swatch-royal-pop-convertible-pocket-watch-sistem51-video-review-availability-price/",
-        "description": "A fun, fresh take on the iconic Royal Oak. Here's our exclusive review of the Audemars Piguet x Swatch Royal Pop Pocket Watch collab.",
-        "published": "5:56 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Laid off GM employees describe ominous meeting, AI and severance - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/12/gm-layoffs-ai-severance.html",
-        "description": "Several General Motors employees who were laid off Monday described their jobs being terminated to CNBC.",
-        "published": "5:42 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-        "source": "Marvelrivals.com",
-        "url": "https://www.marvelrivals.com/balancepost/20260512/41667_1299947.html",
-        "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
-        "published": "6:01 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Speed-boosting \"low latency profile\" is one of the improvements coming to Windows 11 - Ars Technica",
+        "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar - Ars Technica",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
-        "description": "All modern operating systems do this, including macOS and Linux.\"",
-        "published": "5:49 PM UTC",
+        "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
+        "description": "Very painful\": Altman relives his Muskian reaction to losing control over OpenAI.",
+        "published": "5:48 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Read the internal memo from LinkedIn's CEO on layoffs and 'scaling back investments' - Business Insider",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/read-the-internal-memo-from-linkedins-ceo-on-layoffs-2026-5",
+        "description": "LinkedIn is laying off employees and \"scaling back\" other investments, an internal memo shows.",
+        "published": "5:13 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Anthropic courts a new kind of customer: small business owners - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+        "description": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's th",
+        "published": "4:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Changes to the ARC Raiders update schedule - ARC Raiders",
+        "source": "Arcraiders.com",
+        "url": "https://arcraiders.com/news/development-update",
+        "description": "Update cadence changes, October update, and the future of ARC Raiders",
+        "published": "4:57 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "One GTA 6 Fan Is So Obsessed They’re Tracking Foot Traffic At A Café Near Rockstar To Predict The Next Trailer Drop - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/one-gta-6-fan-is-so-obsessed-theyre-tracking-foot-traffic-at-a-cafe-near-rockstar-to-predict-the-next-trailer-drop-2000695325",
-        "description": "As Grand Theft Auto 6 fans continue to wait for the next trailer, some are getting... creative with how they spend that time",
-        "published": "5:30 PM UTC",
+        "title": "Google on its ‘continued commitment to Chromebooks’ after Googlebooks - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/05/13/google-on-its-continued-commitment-to-chromebooks-after-googlebook/",
+        "description": "Following yesterday’s Googlebook announcement, the company released a post aimed at existing enterprise and educational Chromebook users.",
+        "published": "4:45 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Makary’s time atop FDA over, Diamantas named acting commissioner - Politico",
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/05/12/makary-fda-resign-white-house-00916014",
-        "description": "The gastrointestinal surgeon’s tenure was marked by mass layoffs, persistent churn among senior leaders and policy fights.",
-        "published": "6:38 PM UTC",
+        "title": "Meta launches Instants, a new iPhone app and Instagram feature for ephemeral sharing - 9to5Mac",
+        "source": "9to5Mac",
+        "url": "https://9to5mac.com/2026/05/13/meta-launches-instants-a-new-iphone-app-and-instagram-feature-for-ephemeral-sharing/",
+        "description": "Meta just launched a brand new iPhone app called Instants. Built around ephemeral photo sharing, the new social media app...",
+        "published": "4:19 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Alex Murdaugh will get a new murder trial. Here's a timeline of his case - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/05/13/nx-s1-5719271/alex-murdaugh-murder-timeline-trial",
+        "description": "Alex Murdaugh — the disgraced former lawyer serving a life term for the murders of his wife and son — will get a new trial in South Carolina, the state Supreme Court said on Wednesday.",
+        "published": "5:14 PM UTC",
         "category": "General"
       },
       {
-        "title": "UK’s Starmer defiant as calls for his resignation grow and several ministers quit - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/starmer-resign-fahnbulleh-politics-britain-1454415a831ae3af31b10dff29d04d13",
-        "description": "U.K. Prime Minister Keir Starmer insists he has no intention of resigning despite growing calls within his Labour Party for him to step down. Several junior ministers quit Tuesday in protest. Last wee",
-        "published": "6:16 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Trump shares post calling for Obama’s arrest - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/05/12/trump-shares-post-calling-obamas-arrest/",
-        "description": "The repost on social media was among a flurry of late-night posts in which President Donald Trump railed against his political opponents.",
-        "published": "6:11 PM UTC",
+        "title": "Netanyahu made secret visit to UAE to meet with country's president - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/netanyahu-united-arab-emirates-mbz/",
+        "description": "Israeli Prime Minister Benjamin Netanyahu made a secret visit to the United Arab Emirates recently, where he met with Mohammed bin Zayed, the country's president.",
+        "published": "5:10 PM UTC",
         "category": "General"
       }
     ]
@@ -182,11 +182,21 @@
       {
         "home": "Man City",
         "away": "Crystal Palace",
+        "home_score": 3,
+        "away_score": 0,
+        "status": "FINISHED",
+        "time": "7:00 PM UTC",
+        "date": "May 13",
+        "highlighted": false
+      },
+      {
+        "home": "Aston Villa",
+        "away": "Liverpool",
         "home_score": null,
         "away_score": null,
         "status": "TIMED",
         "time": "7:00 PM UTC",
-        "date": "May 13",
+        "date": "May 15",
         "highlighted": false
       }
     ],
@@ -205,12 +215,12 @@
       {
         "position": 2,
         "team": "Man City",
-        "played": 35,
-        "won": 22,
+        "played": 36,
+        "won": 23,
         "drawn": 8,
         "lost": 5,
-        "gd": 40,
-        "points": 74,
+        "gd": 43,
+        "points": 77,
         "highlighted": false
       },
       {
@@ -262,108 +272,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Move for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are reportedly monitoring Borussia Dortmund's Emre Can and several other midfield options as they seek long-term cover and eventual succession for Thomas Partey, whose contract situation remains unresolved ahead of the summer window.",
+        "headline": "Arsenal Revive Interest in Athletic Club Midfielder Nico Williams",
+        "summary": "Arsenal are reportedly weighing a summer approach for Nico Williams after the Spanish international had another standout campaign. The Gunners see him as the creative wide threat needed to bridge the gap with Manchester City in title races.",
         "clubs": [
           "Arsenal",
-          "Borussia Dortmund"
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Chelsea Linked with Napoli Striker as Palmer Support Sought",
-        "summary": "Chelsea's recruitment team is said to be assessing Victor Osimhen's potential loan-to-buy structure as the club looks to reduce the creative burden on Cole Palmer and add a proven Premier League-caliber centre-forward ahead of a push for Champions League qualification.",
+        "headline": "Manchester United Target Sporting CP Goalkeeper in Summer Overhaul",
+        "summary": "United's new sporting leadership are understood to be assessing Sporting CP's goalkeeper as a potential long-term replacement, with André Onana's performances drawing criticism from the Old Trafford hierarchy. A formal bid is expected in June.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Manchester United",
+          "Sporting CP"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's most anticipated fixture of the season sees a resurgent Liverpool side travel to the Etihad to face a Manchester City team still rebuilding chemistry under Pep Guardiola following a turbulent injury-plagued first half of the campaign. Liverpool arrive in strong form and sitting near the top of the table, making this a genuine title-race inflection point, while City will be desperate to prove their credentials at home in front of a sold-out crowd. The tactical battle between Guardiola's high press and Slot's structured counter-attacking system promises to be absorbing, with set pieces and midfield control likely to be decisive.",
+      "home": "Liverpool",
+      "away": "Chelsea",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "Anfield hosts what could be a pivotal top-four clash as Liverpool look to maintain their title charge while Chelsea fight to secure Champions League qualification with their European ambitions hanging in the balance. Arne Slot's side have been devastating at home this season, but Chelsea's recent resurgence under their new structure — driven by Cole Palmer's creative brilliance — makes this the most unpredictable fixture of the weekend. The tactical duel between Liverpool's high press and Chelsea's rapid ball progression through midfield promises to be the defining storyline of the match.",
       "key_players": [
         "Mohamed Salah",
-        "Erling Haaland",
-        "Alexis Mac Allister"
+        "Cole Palmer",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed late in the week; 50/50 for Sunday's fixture"
-      },
-      {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected to return to full training within 10 days; targeting mid-month return"
+        "return": "Ruled out for remainder of season; targeting pre-season return"
+      },
+      {
+        "player": "Reece James",
+        "team": "Chelsea",
+        "status": "Doubtful",
+        "return": "Assessed day-to-day; unlikely to feature this weekend"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank has a $10 million loan exposure to a corporate borrower. The probability of default (PD) over the next year is 2%, the loss given default (LGD) is 60%, and the exposure at default (EAD) is $10 million. The bank also estimates an asset correlation of 20% under the Basel IRB framework. Which of the following best describes the difference between expected loss (EL) and unexpected loss (UL), and how economic capital relates to UL?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If market interest rates rise by 100 basis points immediately after purchase, which of the following best describes the impact on the bond's price and the investor's reinvestment risk?",
       "options": {
-        "A": "EL = $120,000; UL captures the mean of the loss distribution; economic capital covers EL at a given confidence level.",
-        "B": "EL = $120,000; UL captures the volatility and tail of the loss distribution; economic capital is held to absorb UL at a high confidence level.",
-        "C": "EL = $200,000; UL is always zero when PD is low; economic capital equals EL plus a regulatory buffer.",
-        "D": "EL = $120,000; UL is the average loss in a stress scenario; economic capital is set equal to EL under Basel III."
+        "A": "Price falls and reinvestment risk decreases, leaving total return unchanged",
+        "B": "Price falls and reinvestment risk increases, but the net effect on total return depends on the holding period",
+        "C": "Price rises and reinvestment risk decreases, improving total return for long-term holders",
+        "D": "Price falls and reinvestment risk decreases, improving total return for long-term holders"
       },
       "correct": "B",
-      "explanation": "Expected Loss = PD × LGD × EAD = 0.02 × 0.60 × $10,000,000 = $120,000. EL represents the average or anticipated loss, which banks typically price into loan spreads and provision for via loan loss reserves. Unexpected Loss (UL) captures the variability around EL — specifically the tail risk — and is the basis for economic capital allocation. Economic capital is the cushion a bank holds to remain solvent through adverse but plausible scenarios, typically calibrated at a 99.9% confidence level under Basel's IRB approach. EL is covered by pricing and provisions; UL is covered by capital."
+      "explanation": "When interest rates rise, a bond's price falls due to the inverse price-yield relationship. However, higher rates also mean coupon payments can be reinvested at a higher rate, increasing reinvestment income. For short holding periods, the capital loss dominates; for holding periods near or beyond the bond's duration, reinvestment gains can offset or exceed the price loss. This trade-off is the core of interest rate risk versus reinvestment risk and is why duration represents the breakeven holding period."
     },
     "finance_topic": {
-      "title": "Basis Risk and the Limits of Hedging",
-      "subtitle": "Why hedges are rarely perfect — and how basis risk can turn a hedge into a new source of loss.",
+      "title": "The Return of the Term Premium in Bonds",
+      "subtitle": "Why long-term bond yields are demanding more compensation above short-term rates — and what it means for portfolios.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument used to hedge does not move in perfect lockstep with the price of the underlying exposure being hedged. The 'basis' is simply the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Even when a hedge is carefully constructed, differences in contract specifications, delivery dates, geographic locations, or credit quality between the hedged item and the hedging instrument mean that basis can fluctuate — sometimes dramatically — over the life of the hedge.",
-        "A classic real-world example occurred in 2022 when European energy companies used natural gas futures contracts to hedge their physical gas exposure. As the Russian-Ukraine conflict disrupted supply routes, the basis between Dutch TTF gas spot prices and UK NBP futures widened sharply, leaving firms with margin calls on their futures positions even as their physical inventories were not yet monetized. Similarly, airlines hedging jet fuel costs with crude oil futures carry basis risk because jet fuel and crude oil prices, while correlated, diverge during refinery disruptions or seasonal demand shifts. The 2020 WTI crude oil futures contango collapse — where front-month prices went negative — demonstrated how even liquid, standardized futures markets can experience extraordinary basis dislocations.",
-        "For risk managers and investors, basis risk demands that hedges be evaluated not just on correlation but on the stability of that correlation under stress. A hedge with a 0.95 correlation in normal markets may fall to 0.60 during a liquidity crisis, dramatically reducing hedge effectiveness. The FRM and CFA curricula both stress that hedge effectiveness must be tested using regression-based approaches, and that residual basis risk should be explicitly quantified and included in VaR and economic capital models. Ignoring basis risk leads to false confidence in risk reduction and can result in unexpected P&L volatility precisely when it is least welcome."
+        "The term premium is the extra yield investors require for holding a long-term bond rather than rolling over a series of short-term instruments. It compensates for duration risk, inflation uncertainty, and liquidity concerns over long horizons. After spending much of the post-2008 era near zero or even negative in real terms — suppressed by central bank quantitative easing programs — the term premium has staged a significant comeback. The New York Fed's ACM model estimated the 10-year US term premium turning decisively positive in 2023 for the first time in years, a structural shift with broad portfolio implications.",
+        "The practical evidence is visible in the steepening of yield curves in major markets. In 2024-2025, long-end Treasury yields have remained stubbornly elevated even as the Federal Reserve began cutting short-term rates, a dynamic almost never seen in prior easing cycles. This decoupling reflects bond market vigilance around the US fiscal deficit — running above 6% of GDP — and concerns that future inflation may be stickier than central bank projections suggest. Investors in the UK gilts market faced a similar repricing during the 2022 LDI crisis, illustrating that term premium can reprice violently and suddenly when fiscal credibility is questioned.",
+        "For investors and risk managers, the re-emergence of a positive term premium changes the calculus on duration allocation. A steeper curve with real term premium means long bonds offer genuine carry again, making them more attractive as a hedge against equity drawdowns — restoring the classic 60/40 diversification logic that broke down in 2022. However, it also means portfolios with liability-driven mandates, such as pension funds, face higher hedging costs. Risk managers must now stress-test portfolios for further term premium expansion rather than assuming yields revert to post-GFC lows."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk that remains after hedging — it arises from imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Basis can widen sharply during market stress, turning a seemingly effective hedge into a source of additional volatility or loss.",
-        "Risk managers should quantify basis risk explicitly, test hedge effectiveness under stressed correlation assumptions, and include basis exposure in capital and VaR calculations."
+        "The term premium is the excess yield on long bonds above expected short-term rates, and it has returned to positive territory after years of QE suppression.",
+        "Persistent fiscal deficits and inflation uncertainty are structural drivers keeping long-end yields elevated even during Fed easing cycles.",
+        "A positive term premium restores the diversification value of long bonds against equities, but raises costs for liability-driven investors hedging duration."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved up",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (ongoing action/habit)",
-      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses an ongoing action or habitual behavior. Here, 貯金しています means 'I am (habitually) saving money' — it describes a repeated action, not a one-time event.",
-      "memory_tip": "Think of 貯 (chо) as 'storing' and 金 (kin) as 'gold/money' — chokin is literally 'storing your gold.' Imagine a piggy bank filling up with gold coins every payday."
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over budget this month.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました is used to express that something happened completely, often with a nuance of regret or that the action was unintended. It combines the te-form of a verb with しまいました (the polite past of しまう).",
+      "memory_tip": "Imagine a piggy bank (yo-SAN coins saved!) that gets smashed open — your savings are gone and the budget is broken. 予 means 'beforehand' and 算 means 'calculate', so you 'pre-calculate' your spending: a budget."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Automate Complex Financial Research Workflows",
-      "summary": "A new generation of agentic AI systems — where models can autonomously plan, use tools, and execute multi-step tasks — is beginning to penetrate financial research and credit analysis workflows. Firms including Bloomberg, Moody's, and several tier-one banks have begun deploying LLM-based agents that can retrieve filings, parse earnings transcripts, run quantitative screens, and draft preliminary research memos with minimal human intervention. Unlike earlier NLP tools that performed single-step tasks, these agents chain reasoning steps together, dramatically compressing the time from data ingestion to analytical output. The shift is forcing a re-evaluation of where human analysts add irreplaceable value — primarily in judgment-intensive tasks like qualitative management assessment, novel risk identification, and client relationship interpretation.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Trades and Allocate Capital",
+      "summary": "A new generation of agentic AI systems — capable of reasoning over multiple steps and taking real-world actions without human confirmation at each stage — is moving from research labs into financial workflows. Firms including Point72, Citadel, and several tier-one banks are piloting AI agents that can independently analyze earnings transcripts, cross-reference macro data, generate trade rationales, and route orders through execution algorithms. Unlike earlier machine learning models that produced signals for human review, these agents operate within defined risk guardrails but take actions autonomously, compressing the decision loop from hours to seconds. Regulators in the EU and US are actively assessing how existing market conduct frameworks — designed for human decision-makers — apply to AI agents acting as de facto portfolio managers.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute sequences of actions — such as searching databases, writing code, and synthesizing outputs — to complete a complex goal, rather than responding to a single prompt. In finance, this means an AI that can independently research a company across multiple data sources and produce a structured report."
+          "definition": "AI systems that can plan, reason across multiple steps, use tools (like search, code execution, or APIs), and take sequential actions to complete a goal — going beyond single-response models to operate more like an autonomous analyst or trader."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant, up-to-date documents (such as SEC filings, news articles, or internal research) before generating a response, grounding its output in real data rather than relying solely on its training. This significantly reduces hallucination risk in financial applications."
+          "definition": "A technique where an AI model pulls in real-time or proprietary data — such as live SEC filings, earnings call transcripts, or internal research — before generating its response, making outputs more accurate and grounded in current facts rather than stale training data."
         },
         {
-          "term": "Fine-Tuning",
-          "definition": "The process of further training a general-purpose AI model on domain-specific data — such as credit agreements, risk reports, or earnings calls — so it learns the specialized vocabulary, formats, and reasoning patterns of finance. Fine-tuned models outperform general models on tasks like covenant extraction or credit memo drafting."
+          "term": "Reinforcement Learning from Human Feedback (RLHF)",
+          "definition": "A training method where human experts rate AI outputs — such as trade rationales or risk summaries — and those ratings are used to fine-tune the model toward outputs that match professional judgment, effectively embedding domain expertise into the AI system."
         }
       ],
-      "career_insight": "Finance professionals who thrive in the next five years will be those who can act as 'AI orchestrators' — designing workflows, evaluating AI outputs critically, and injecting the domain judgment that models still lack. Quantitative fluency, prompt engineering literacy, and a deep understanding of model limitations (hallucination, distribution shift, data recency) are becoming as essential as Excel or Bloomberg Terminal proficiency once were."
+      "career_insight": "Finance professionals who understand how to design, supervise, and audit AI agent workflows — rather than simply use AI tools as end users — will command significant premium in hiring markets through 2027. The critical skill set is not coding per se, but the ability to structure complex financial problems as agent task definitions, set appropriate guardrails, and interpret AI reasoning traces to catch hallucinations or model drift. Risk managers who can bridge traditional model validation frameworks with the new challenge of validating LLM-based systems are among the most sought-after profiles at major banks and hedge funds today."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the week, though macro cross-currents are keeping positioning tentative. US Treasury yields have edged higher on the back of resilient labor data that continues to challenge the Federal Reserve's rate-cutting timeline, with markets now pricing fewer than two cuts for 2025 — a notable hawkish repricing from Q4 expectations. Equity markets are grinding near all-time highs in the US but breadth is narrowing, with defensives quietly outperforming cyclicals — a pattern that historically signals late-cycle caution. In credit, IG spreads remain tight but HY spreads have widened modestly at the margin, consistent with growing differentiation between quality and leveraged borrowers as refinancing walls approach."
+    "market_sentiment": "Global risk assets are treading cautiously this morning as markets digest the tension between resilient US labor data — Jobless Claims remaining anchored near cycle lows — and a Treasury market sending an unmistakable fiscal warning via 10-year yields holding above 4.55%. The dollar continues to find support on rate differential dynamics, pressuring EM currencies particularly in Asia ex-Japan, where current account positions are under scrutiny. Equity sentiment is bifurcated: mega-cap technology names are buoyed by strong AI capex narratives, but cyclicals and small-caps are struggling under the weight of higher-for-longer real rates, leaving the broader index rally looking increasingly narrow and fragile heading into a data-heavy week."
   }
 }
