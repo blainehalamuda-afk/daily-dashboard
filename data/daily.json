@@ -1,31 +1,24 @@
 {
-  "generated_at": "6:21 PM UTC",
-  "date": "Thursday, May 14, 2026",
+  "generated_at": "1:25 PM UTC",
+  "date": "Friday, May 15, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 72,
-    "feels_like_f": 70,
-    "high_f": 75,
-    "low_f": 70,
+    "temp_f": 59,
+    "feels_like_f": 57,
+    "high_f": 62,
+    "low_f": 56,
     "description": "Few Clouds",
     "icon": "🌤️",
-    "humidity": 33,
-    "wind_mph": 15,
+    "humidity": 53,
+    "wind_mph": 6,
     "forecast": [
       {
-        "day": "Fri",
-        "icon": "☀️",
-        "high": 53,
-        "low": 53,
-        "description": "Clear Sky"
-      },
-      {
         "day": "Sat",
-        "icon": "⛅",
-        "high": 61,
-        "low": 61,
-        "description": "Scattered Clouds"
+        "icon": "☁️",
+        "high": 60,
+        "low": 60,
+        "description": "Broken Clouds"
       },
       {
         "day": "Sun",
@@ -33,6 +26,13 @@
         "high": 68,
         "low": 68,
         "description": "Overcast Clouds"
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "high": 67,
+        "low": 67,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 748.2,
-        "change": 5.89,
+        "price": 748.17,
+        "change": 5.86,
         "change_pct": 0.79,
         "up": true,
         "is_crypto": false,
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 298.45,
-        "change": -0.42,
-        "change_pct": -0.14,
+        "price": 298.21,
+        "change": -0.66,
+        "change_pct": -0.22,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 235.23,
-        "change": 9.4,
-        "change_pct": 4.16,
+        "price": 235.74,
+        "change": 9.91,
+        "change_pct": 4.39,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 444.72,
-        "change": -0.55,
-        "change_pct": -0.12,
+        "price": 443.3,
+        "change": -1.97,
+        "change_pct": -0.44,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 81921.38,
-        "change": 2135.98,
-        "change_pct": 2.68,
+        "price": 80146.97,
+        "change": 156.97,
+        "change_pct": 0.2,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2315.8,
-        "change": 48.3,
-        "change_pct": 2.13,
-        "up": true,
+        "price": 2249.51,
+        "change": -14.45,
+        "change_pct": -0.64,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar - Ars Technica",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
-        "description": "Very painful\": Altman relives his Muskian reaction to losing control over OpenAI.",
-        "published": "5:48 PM UTC",
+        "title": "The Dow is poised to retake 50,000 as Cisco jumps, Boeing gains: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/13/stock-market-today-live-updates.html",
+        "description": "A rally in the technology sector drove the S&P 500 and Nasdaq Composite to new intraday and closing records on Wednesday.",
+        "published": "12:27 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Read the internal memo from LinkedIn's CEO on layoffs and 'scaling back investments' - Business Insider",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/read-the-internal-memo-from-linkedins-ceo-on-layoffs-2026-5",
-        "description": "LinkedIn is laying off employees and \"scaling back\" other investments, an internal memo shows.",
-        "published": "5:13 PM UTC",
+        "title": "How Eight Tumultuous Years Pushed Jerome Powell and the Fed to the Limit - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/economy/central-banking/how-eight-tumultuous-years-pushed-jerome-powell-and-the-fed-to-the-limit-96388c46",
+        "description": "",
+        "published": "12:22 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Anthropic courts a new kind of customer: small business owners - TechCrunch",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-        "description": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's th",
-        "published": "4:00 PM UTC",
+        "title": "Stock Market Today: Stock Futures Tick Up With AI Trade Top of Mind Again — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026",
+        "description": "",
+        "published": "11:51 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Changes to the ARC Raiders update schedule - ARC Raiders",
-        "source": "Arcraiders.com",
-        "url": "https://arcraiders.com/news/development-update",
-        "description": "Update cadence changes, October update, and the future of ARC Raiders",
-        "published": "4:57 PM UTC",
+        "title": "20th Anniversary iPhone's Curved Display to Improve a Year Later - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/05/14/2027-curved-display-iphone-two-stage-rollout/",
+        "description": "Apple is already planning a second version of the \"four-edge bending\" display that is rumored to debut on next year's 20th-anniversary...",
+        "published": "10:24 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Google on its ‘continued commitment to Chromebooks’ after Googlebooks - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/05/13/google-on-its-continued-commitment-to-chromebooks-after-googlebook/",
-        "description": "Following yesterday’s Googlebook announcement, the company released a post aimed at existing enterprise and educational Chromebook users.",
-        "published": "4:45 PM UTC",
+        "title": "Why Apple is Putting Cameras in the New AirPods Pro 4 (Ultra) - Geeky Gadgets",
+        "source": "Geeky Gadgets",
+        "url": "https://www.geeky-gadgets.com/why-airpods-pro-have-cameras/",
+        "description": "Discover why the upcoming AirPods Pro 4 feature cameras. Explore the new visual AI capabilities, real-time translation, and more.",
+        "published": "8:03 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Meta launches Instants, a new iPhone app and Instagram feature for ephemeral sharing - 9to5Mac",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/05/13/meta-launches-instants-a-new-iphone-app-and-instagram-feature-for-ephemeral-sharing/",
-        "description": "Meta just launched a brand new iPhone app called Instants. Built around ephemeral photo sharing, the new social media app...",
-        "published": "4:19 PM UTC",
+        "title": "New Fragnesia Linux flaw lets attackers gain root privileges - BleepingComputer",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+        "description": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300)  that allows attackers to run malicious code ",
+        "published": "7:34 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Alex Murdaugh will get a new murder trial. Here's a timeline of his case - NPR",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/05/13/nx-s1-5719271/alex-murdaugh-murder-timeline-trial",
-        "description": "Alex Murdaugh — the disgraced former lawyer serving a life term for the murders of his wife and son — will get a new trial in South Carolina, the state Supreme Court said on Wednesday.",
-        "published": "5:14 PM UTC",
+        "title": "Wes Streeting resigns as health secretary - his letter in full - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8p7p83vdzo",
+        "description": "Health Secretary Wes Streeting has announced his resignation from government.",
+        "published": "12:18 PM UTC",
         "category": "General"
       },
       {
-        "title": "Netanyahu made secret visit to UAE to meet with country's president - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/netanyahu-united-arab-emirates-mbz/",
-        "description": "Israeli Prime Minister Benjamin Netanyahu made a secret visit to the United Arab Emirates recently, where he met with Mohammed bin Zayed, the country's president.",
-        "published": "5:10 PM UTC",
+        "title": "Versant reports first-quarter revenue decline, with bright spots in platforms and licensing - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/14/versant-vsnt-earnings-q1-2026.html",
+        "description": "Versant, the portfolio of TV networks spun out from Comcast, reported earnings for its first quarter as an independent company.",
+        "published": "11:00 AM UTC",
         "category": "General"
       }
     ]
@@ -179,16 +179,6 @@
   "sports": {
     "error": false,
     "matches": [
-      {
-        "home": "Man City",
-        "away": "Crystal Palace",
-        "home_score": 3,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "7:00 PM UTC",
-        "date": "May 13",
-        "highlighted": false
-      },
       {
         "home": "Aston Villa",
         "away": "Liverpool",
@@ -272,45 +262,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Revive Interest in Athletic Club Midfielder Nico Williams",
-        "summary": "Arsenal are reportedly weighing a summer approach for Nico Williams after the Spanish international had another standout campaign. The Gunners see him as the creative wide threat needed to bridge the gap with Manchester City in title races.",
+        "headline": "Arsenal Reignite Interest in RB Leipzig Midfielder as Partey Replacement Target",
+        "summary": "Arsenal are reportedly monitoring RB Leipzig's dynamic box-to-box midfielder as Mikel Arteta seeks long-term cover and an eventual successor to Thomas Partey, whose contract expires at season's end. Talks are said to be at an exploratory stage with a potential summer move costing in the region of £55–65 million.",
         "clubs": [
           "Arsenal",
-          "Athletic Club"
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Manchester United Target Sporting CP Goalkeeper in Summer Overhaul",
-        "summary": "United's new sporting leadership are understood to be assessing Sporting CP's goalkeeper as a potential long-term replacement, with André Onana's performances drawing criticism from the Old Trafford hierarchy. A formal bid is expected in June.",
+        "headline": "Chelsea in Advanced Talks for Napoli Striker as Striker Search Intensifies",
+        "summary": "Chelsea's recruitment team has held multiple meetings with representatives of a Napoli forward as the club looks to address their chronic goal-scoring inconsistency, with the Blues willing to offer a five-year contract to secure a long-term No. 9. Napoli are holding out for a fee closer to £70 million, complicating negotiations.",
         "clubs": [
-          "Manchester United",
-          "Sporting CP"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Chelsea",
+      "home": "Manchester City",
+      "away": "Liverpool",
       "date": "Sunday, 4:30 PM BST",
-      "preview": "Anfield hosts what could be a pivotal top-four clash as Liverpool look to maintain their title charge while Chelsea fight to secure Champions League qualification with their European ambitions hanging in the balance. Arne Slot's side have been devastating at home this season, but Chelsea's recent resurgence under their new structure — driven by Cole Palmer's creative brilliance — makes this the most unpredictable fixture of the weekend. The tactical duel between Liverpool's high press and Chelsea's rapid ball progression through midfield promises to be the defining storyline of the match.",
+      "preview": "The Premier League's defining rivalry resumes at the Etihad in what could be a pivotal title race clash, with Liverpool arriving in superb form having won seven of their last eight and City desperate to close the gap at the top. Pep Guardiola's side have shown signs of the fluid, high-pressing football that defined their dominance in prior seasons, but their defensive solidity will be tested by Liverpool's lethal transition play. This fixture has historically produced dramatic moments, and with both teams' title ambitions directly at stake, expect intensity from the first whistle.",
       "key_players": [
         "Mohamed Salah",
-        "Cole Palmer",
-        "Virgil van Dijk"
+        "Erling Haaland",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Ruled out for remainder of season; targeting pre-season return"
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; may feature from the bench if passed fit"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
-        "status": "Doubtful",
-        "return": "Assessed day-to-day; unlikely to feature this weekend"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Expected to return to full training within 10 days; likely available after the international break"
       }
     ]
   },
@@ -318,62 +308,62 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If market interest rates rise by 100 basis points immediately after purchase, which of the following best describes the impact on the bond's price and the investor's reinvestment risk?",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced to yield 7%. If the yield immediately drops to 5%, which of the following best explains why the bond's price increase will be LESS than its price decrease when yields rose from 6% to 7%?",
       "options": {
-        "A": "Price falls and reinvestment risk decreases, leaving total return unchanged",
-        "B": "Price falls and reinvestment risk increases, but the net effect on total return depends on the holding period",
-        "C": "Price rises and reinvestment risk decreases, improving total return for long-term holders",
-        "D": "Price falls and reinvestment risk decreases, improving total return for long-term holders"
+        "A": "The bond exhibits negative convexity, causing asymmetric price responses to yield changes.",
+        "B": "The bond exhibits positive convexity, meaning price increases from yield decreases are larger than price decreases from equivalent yield increases.",
+        "C": "Duration underestimates price changes for yield decreases and overestimates them for yield increases due to positive convexity.",
+        "D": "The coupon rate is below the new yield, reducing the bond's sensitivity to further yield changes."
       },
       "correct": "B",
-      "explanation": "When interest rates rise, a bond's price falls due to the inverse price-yield relationship. However, higher rates also mean coupon payments can be reinvested at a higher rate, increasing reinvestment income. For short holding periods, the capital loss dominates; for holding periods near or beyond the bond's duration, reinvestment gains can offset or exceed the price loss. This trade-off is the core of interest rate risk versus reinvestment risk and is why duration represents the breakeven holding period."
+      "explanation": "For option-free bonds, the price-yield relationship is convex (positive convexity), meaning the price increase when yields fall exceeds the price decrease when yields rise by the same amount. The question contains a subtle trap: the price increase from a 7%→5% move (200 bps down) will actually be LARGER, not smaller, than the price decrease from 6%→7% (100 bps up). If a student selects B, they recognize positive convexity and can reconcile the asymmetry correctly. Positive convexity benefits bondholders in both rising and falling rate environments relative to duration-only estimates."
     },
     "finance_topic": {
-      "title": "The Return of the Term Premium in Bonds",
-      "subtitle": "Why long-term bond yields are demanding more compensation above short-term rates — and what it means for portfolios.",
+      "title": "Duration Mismatch and Bank Balance Sheet Risk",
+      "subtitle": "How the gap between asset and liability durations can silently destabilize financial institutions.",
       "paragraphs": [
-        "The term premium is the extra yield investors require for holding a long-term bond rather than rolling over a series of short-term instruments. It compensates for duration risk, inflation uncertainty, and liquidity concerns over long horizons. After spending much of the post-2008 era near zero or even negative in real terms — suppressed by central bank quantitative easing programs — the term premium has staged a significant comeback. The New York Fed's ACM model estimated the 10-year US term premium turning decisively positive in 2023 for the first time in years, a structural shift with broad portfolio implications.",
-        "The practical evidence is visible in the steepening of yield curves in major markets. In 2024-2025, long-end Treasury yields have remained stubbornly elevated even as the Federal Reserve began cutting short-term rates, a dynamic almost never seen in prior easing cycles. This decoupling reflects bond market vigilance around the US fiscal deficit — running above 6% of GDP — and concerns that future inflation may be stickier than central bank projections suggest. Investors in the UK gilts market faced a similar repricing during the 2022 LDI crisis, illustrating that term premium can reprice violently and suddenly when fiscal credibility is questioned.",
-        "For investors and risk managers, the re-emergence of a positive term premium changes the calculus on duration allocation. A steeper curve with real term premium means long bonds offer genuine carry again, making them more attractive as a hedge against equity drawdowns — restoring the classic 60/40 diversification logic that broke down in 2022. However, it also means portfolios with liability-driven mandates, such as pension funds, face higher hedging costs. Risk managers must now stress-test portfolios for further term premium expansion rather than assuming yields revert to post-GFC lows."
+        "Duration mismatch occurs when the weighted-average duration of a bank's assets — primarily loans and investment securities — differs significantly from the duration of its liabilities, which are largely short-term deposits and borrowings. Because duration measures price sensitivity to interest rate changes, a bank with long-duration assets funded by short-duration liabilities is acutely exposed to rising interest rates. As rates increase, the market value of assets falls more sharply than liabilities, eroding the institution's economic net worth even if book-value accounting obscures the damage.",
+        "The collapse of Silicon Valley Bank in March 2023 became a textbook illustration of this risk. SVB had invested heavily in long-duration U.S. Treasury and agency mortgage-backed securities during the low-rate era of 2020–2021. When the Federal Reserve raised rates aggressively by over 500 basis points between 2022 and 2023, the market value of those securities plummeted. Simultaneously, SVB's deposit base — concentrated in venture-backed startups — began withdrawing funds, forcing the bank to crystallize unrealized losses by selling securities at depressed prices, triggering a classic bank run.",
+        "For investors and risk managers, duration mismatch is not merely a banking regulatory concern — it is a portfolio construction and systemic risk signal. Equity investors in regional banks should monitor Accumulated Other Comprehensive Income (AOCI) disclosures, which reflect unrealized gains and losses on available-for-sale securities. Risk managers at asset managers must stress-test portfolio liquidity against scenarios where rate spikes force forced sellers into the market, compressing prices further. Regulators have since pushed to close the AOCI opt-out that allowed many banks to hide duration risk from reported capital ratios."
       ],
       "key_takeaways": [
-        "The term premium is the excess yield on long bonds above expected short-term rates, and it has returned to positive territory after years of QE suppression.",
-        "Persistent fiscal deficits and inflation uncertainty are structural drivers keeping long-end yields elevated even during Fed easing cycles.",
-        "A positive term premium restores the diversification value of long bonds against equities, but raises costs for liability-driven investors hedging duration."
+        "Duration mismatch amplifies interest rate risk when long-duration assets are funded by short-duration, rate-sensitive liabilities.",
+        "AOCI disclosures in bank financial statements are a critical but often overlooked signal of embedded interest rate exposure.",
+        "The SVB failure demonstrated that even 'risk-free' government securities can become systemic liabilities when duration management is neglected."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; commitment",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました is used to express that something happened completely, often with a nuance of regret or that the action was unintended. It combines the te-form of a verb with しまいました (the polite past of しまう).",
-      "memory_tip": "Imagine a piggy bank (yo-SAN coins saved!) that gets smashed open — your savings are gone and the budget is broken. 予 means 'beforehand' and 算 means 'calculate', so you 'pre-calculate' your spending: a budget."
+      "example_jp": "彼は必ず約束を守る人です。",
+      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
+      "example_en": "He is a person who always keeps his promises.",
+      "grammar_point": "〜を守る (wo mamoru)",
+      "grammar_explanation": "The pattern 〜を守る means 'to keep' or 'to protect' something, commonly used with 約束 (promise) or ルール (rules). It emphasizes faithfully upholding a commitment or obligation.",
+      "memory_tip": "Think of 'yaku' sounding like 'yak' — a yak that always shows up on time for its SOKU (schedule). A yak that keeps its promises. Reliable and a little shaggy."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Autonomously Execute Trades and Allocate Capital",
-      "summary": "A new generation of agentic AI systems — capable of reasoning over multiple steps and taking real-world actions without human confirmation at each stage — is moving from research labs into financial workflows. Firms including Point72, Citadel, and several tier-one banks are piloting AI agents that can independently analyze earnings transcripts, cross-reference macro data, generate trade rationales, and route orders through execution algorithms. Unlike earlier machine learning models that produced signals for human review, these agents operate within defined risk guardrails but take actions autonomously, compressing the decision loop from hours to seconds. Regulators in the EU and US are actively assessing how existing market conduct frameworks — designed for human decision-makers — apply to AI agents acting as de facto portfolio managers.",
+      "headline": "AI Agents Are Beginning to Execute Trades Without Human Approval",
+      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous decision execution — is moving from research labs into live financial workflows. Firms like Citadel, JPMorgan, and several quantitative hedge funds are piloting AI agents that can monitor market data, generate trade rationales, and in controlled environments, submit orders within predefined risk parameters. Unlike earlier algorithmic trading systems built on rigid rules, these agents use large language models combined with reinforcement learning to adapt strategies dynamically. The shift raises profound questions about accountability, model risk governance, and the speed at which systemic risk can propagate when many agents respond to the same signals simultaneously.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can plan, reason across multiple steps, use tools (like search, code execution, or APIs), and take sequential actions to complete a goal — going beyond single-response models to operate more like an autonomous analyst or trader."
-        },
-        {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model pulls in real-time or proprietary data — such as live SEC filings, earnings call transcripts, or internal research — before generating its response, making outputs more accurate and grounded in current facts rather than stale training data."
+          "definition": "AI systems that can autonomously plan, use tools, and execute multi-step tasks — in finance, this means an AI that can research a company, generate a trade thesis, check risk limits, and submit an order without step-by-step human instruction."
         },
         {
           "term": "Reinforcement Learning from Human Feedback (RLHF)",
-          "definition": "A training method where human experts rate AI outputs — such as trade rationales or risk summaries — and those ratings are used to fine-tune the model toward outputs that match professional judgment, effectively embedding domain expertise into the AI system."
+          "definition": "A training technique where an AI model is fine-tuned based on human evaluations of its outputs, used in finance to align trading agent behavior with risk-adjusted return objectives rather than raw performance metrics."
+        },
+        {
+          "term": "Model Risk Governance",
+          "definition": "The framework of policies, validation processes, and controls that financial institutions use to identify, measure, and mitigate risks arising from AI and quantitative models — increasingly critical as models make real-time autonomous decisions."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, supervise, and audit AI agent workflows — rather than simply use AI tools as end users — will command significant premium in hiring markets through 2027. The critical skill set is not coding per se, but the ability to structure complex financial problems as agent task definitions, set appropriate guardrails, and interpret AI reasoning traces to catch hallucinations or model drift. Risk managers who can bridge traditional model validation frameworks with the new challenge of validating LLM-based systems are among the most sought-after profiles at major banks and hedge funds today."
+      "career_insight": "Finance professionals who understand both the mechanics of AI systems and the regulatory expectations around model risk — particularly SR 11-7 guidance in the U.S. and EBA guidelines in Europe — will be disproportionately valuable as firms scale autonomous systems. The highest-leverage skill combination in the next five years is quantitative literacy plus the ability to design human-in-the-loop oversight frameworks that satisfy regulators without killing the speed advantage AI provides."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are treading cautiously this morning as markets digest the tension between resilient US labor data — Jobless Claims remaining anchored near cycle lows — and a Treasury market sending an unmistakable fiscal warning via 10-year yields holding above 4.55%. The dollar continues to find support on rate differential dynamics, pressuring EM currencies particularly in Asia ex-Japan, where current account positions are under scrutiny. Equity sentiment is bifurcated: mega-cap technology names are buoyed by strong AI capex narratives, but cyclicals and small-caps are struggling under the weight of higher-for-longer real rates, leaving the broader index rally looking increasingly narrow and fragile heading into a data-heavy week."
+    "market_sentiment": "Equity markets are navigating a cautious tone this week as investors weigh resilient U.S. labor data against cooling inflation prints, keeping Fed rate-cut timing firmly in focus — futures now imply fewer than two cuts through year-end 2025, a notable hawkish repricing from the four cuts expected in January. Credit spreads in high-yield have widened modestly, reflecting softness in consumer discretionary earnings, while the front end of the Treasury curve remains inverted, suggesting the market is pricing persistent restrictive policy rather than imminent recession. In FX, the dollar has held its bid on relative growth outperformance, putting pressure on EM currencies particularly in economies with current account deficits, and commodity markets are watching OPEC+ compliance closely as Brent crude trades in a narrow $80–$85 range ahead of the next demand outlook revision from the IEA."
   }
 }
