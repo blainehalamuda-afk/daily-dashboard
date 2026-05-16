@@ -1,25 +1,18 @@
 {
-  "generated_at": "1:25 PM UTC",
-  "date": "Friday, May 15, 2026",
+  "generated_at": "12:55 PM UTC",
+  "date": "Saturday, May 16, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 59,
-    "feels_like_f": 57,
-    "high_f": 62,
-    "low_f": 56,
+    "temp_f": 64,
+    "feels_like_f": 63,
+    "high_f": 67,
+    "low_f": 60,
     "description": "Few Clouds",
     "icon": "🌤️",
-    "humidity": 53,
-    "wind_mph": 6,
+    "humidity": 63,
+    "wind_mph": 3,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 60,
-        "low": 60,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Sun",
         "icon": "☁️",
@@ -29,10 +22,17 @@
       },
       {
         "day": "Mon",
-        "icon": "☀️",
-        "high": 67,
-        "low": 67,
-        "description": "Clear Sky"
+        "icon": "⛅",
+        "high": 69,
+        "low": 69,
+        "description": "Scattered Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "high": 68,
+        "low": 68,
+        "description": "Few Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 748.17,
-        "change": 5.86,
-        "change_pct": 0.79,
-        "up": true,
+        "price": 739.17,
+        "change": -9.0,
+        "change_pct": -1.2,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 298.21,
-        "change": -0.66,
-        "change_pct": -0.22,
-        "up": false,
+        "price": 300.23,
+        "change": 2.02,
+        "change_pct": 0.68,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 235.74,
-        "change": 9.91,
-        "change_pct": 4.39,
-        "up": true,
+        "price": 225.32,
+        "change": -10.42,
+        "change_pct": -4.42,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 443.3,
-        "change": -1.97,
-        "change_pct": -0.44,
+        "price": 422.24,
+        "change": -21.06,
+        "change_pct": -4.75,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 80146.97,
-        "change": 156.97,
-        "change_pct": 0.2,
-        "up": true,
+        "price": 78031.25,
+        "change": -2321.35,
+        "change_pct": -2.89,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2249.51,
-        "change": -14.45,
-        "change_pct": -0.64,
+        "price": 2177.01,
+        "change": -76.11,
+        "change_pct": -3.38,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "The Dow is poised to retake 50,000 as Cisco jumps, Boeing gains: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/13/stock-market-today-live-updates.html",
-        "description": "A rally in the technology sector drove the S&P 500 and Nasdaq Composite to new intraday and closing records on Wednesday.",
-        "published": "12:27 PM UTC",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as yields rise, Trump-Xi summit ends - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-yields-rise-trump-xi-summit-ends-224527041.html",
+        "description": "Inflation worries are preying on investors as they weigh the outcomes of the Trump-Xi summit in China.",
+        "published": "9:58 AM UTC",
         "category": "Business"
       },
       {
-        "title": "How Eight Tumultuous Years Pushed Jerome Powell and the Fed to the Limit - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/economy/central-banking/how-eight-tumultuous-years-pushed-jerome-powell-and-the-fed-to-the-limit-96388c46",
+        "title": "Takeaways from Fed Chair Jerome Powell's tenure as he steps down - ABC News - Breaking News, Latest News and Videos",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/takeaways-fed-chair-jerome-powells-tenure-steps/story?id\\\\u003d132918698",
         "description": "",
-        "published": "12:22 PM UTC",
+        "published": "9:07 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock Market Today: Stock Futures Tick Up With AI Trade Top of Mind Again — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026",
-        "description": "",
-        "published": "11:51 AM UTC",
+        "title": "Korean Stocks Tumble After Reaching Milestone as Foreigners Sell - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-15/korean-stocks-tumble-after-reaching-milestone-as-foreigners-sell",
+        "description": "South Korea’s world-beating stock rally came to a sudden halt as the benchmark tumbled on Friday, underscoring the vulnerability of a market dominated by a pair of chipmakers.",
+        "published": "7:42 AM UTC",
         "category": "Business"
       },
       {
-        "title": "20th Anniversary iPhone's Curved Display to Improve a Year Later - MacRumors",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/05/14/2027-curved-display-iphone-two-stage-rollout/",
-        "description": "Apple is already planning a second version of the \"four-edge bending\" display that is rumored to debut on next year's 20th-anniversary...",
-        "published": "10:24 AM UTC",
+        "title": "Review: Forza Horizon 6: PC Ray Tracing Looks Great - A Hint Of The Project Helix Port To Come? - Digital Foundry",
+        "source": "Digitalfoundry.net",
+        "url": "https://www.digitalfoundry.net/reviews/forza-horizon-6-pc-ray-tracing-looks-great-a-hint-of-the-project-helix-port-to-come",
+        "description": "The PC and Xbox Series X|S versions under the microscope.",
+        "published": "9:26 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Why Apple is Putting Cameras in the New AirPods Pro 4 (Ultra) - Geeky Gadgets",
-        "source": "Geeky Gadgets",
-        "url": "https://www.geeky-gadgets.com/why-airpods-pro-have-cameras/",
-        "description": "Discover why the upcoming AirPods Pro 4 feature cameras. Explore the new visual AI capabilities, real-time translation, and more.",
-        "published": "8:03 AM UTC",
+        "title": "Did Chrome Just Install a Massive AI Model on Your Device Without Telling You? Yes, Probably - CNET",
+        "source": "CNET",
+        "url": "https://www.cnet.com/tech/services-and-software/did-chrome-just-install-a-massive-ai-model-on-your-device-without-telling-you-yes-probably/",
+        "description": "A 4GB file called weights.bin may be sitting on your hard drive right now, put there by Chrome without your knowledge.",
+        "published": "6:03 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "New Fragnesia Linux flaw lets attackers gain root privileges - BleepingComputer",
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-        "description": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300)  that allows attackers to run malicious code ",
-        "published": "7:34 AM UTC",
+        "title": "Google starts rolling out QR code-based Quick Share transfers between Android and iPhone - Android Authority",
+        "source": "Android Authority",
+        "url": "https://www.androidauthority.com/android-quick-share-qr-code-sharing-with-iphone-3667293/",
+        "description": "Google has started rolling out a new Quick Share feature that lets Android users share files with iPhones using QR codes.",
+        "published": "3:16 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Wes Streeting resigns as health secretary - his letter in full - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ce8p7p83vdzo",
-        "description": "Health Secretary Wes Streeting has announced his resignation from government.",
-        "published": "12:18 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Versant reports first-quarter revenue decline, with bright spots in platforms and licensing - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/14/versant-vsnt-earnings-q1-2026.html",
-        "description": "Versant, the portfolio of TV networks spun out from Comcast, reported earnings for its first quarter as an independent company.",
-        "published": "11:00 AM UTC",
+        "title": "NASA's Psyche asteroid probe will fly within 3,000 miles of Mars on May 15: Here's what to expect - Space",
+        "source": "Space.com",
+        "url": "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-asteroid-probe-will-fly-within-3-000-miles-of-mars-on-may-15-heres-what-to-expect",
+        "description": "\"The only reason for this flyby is to get a little help from Mars to speed us up and tilt our trajectory in the direction of the asteroid Psyche.\"",
+        "published": "10:41 AM UTC",
         "category": "General"
       }
     ]
@@ -182,11 +174,71 @@
       {
         "home": "Aston Villa",
         "away": "Liverpool",
+        "home_score": 4,
+        "away_score": 2,
+        "status": "FINISHED",
+        "time": "7:00 PM UTC",
+        "date": "May 15",
+        "highlighted": false
+      },
+      {
+        "home": "Man United",
+        "away": "Nottingham",
         "home_score": null,
         "away_score": null,
         "status": "TIMED",
-        "time": "7:00 PM UTC",
-        "date": "May 15",
+        "time": "11:30 AM UTC",
+        "date": "May 17",
+        "highlighted": false
+      },
+      {
+        "home": "Brentford",
+        "away": "Crystal Palace",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 17",
+        "highlighted": false
+      },
+      {
+        "home": "Everton",
+        "away": "Sunderland",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 17",
+        "highlighted": false
+      },
+      {
+        "home": "Leeds United",
+        "away": "Brighton Hove",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 17",
+        "highlighted": false
+      },
+      {
+        "home": "Wolverhampton",
+        "away": "Fulham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "May 17",
+        "highlighted": false
+      },
+      {
+        "home": "Newcastle",
+        "away": "West Ham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "4:30 PM UTC",
+        "date": "May 17",
         "highlighted": false
       }
     ],
@@ -226,23 +278,23 @@
       },
       {
         "position": 4,
-        "team": "Liverpool",
-        "played": 36,
-        "won": 17,
+        "team": "Aston Villa",
+        "played": 37,
+        "won": 18,
         "drawn": 8,
         "lost": 11,
-        "gd": 12,
-        "points": 59,
+        "gd": 6,
+        "points": 62,
         "highlighted": false
       },
       {
         "position": 5,
-        "team": "Aston Villa",
-        "played": 36,
+        "team": "Liverpool",
+        "played": 37,
         "won": 17,
         "drawn": 8,
-        "lost": 11,
-        "gd": 4,
+        "lost": 12,
+        "gd": 10,
         "points": 59,
         "highlighted": false
       },
@@ -262,16 +314,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Reignite Interest in RB Leipzig Midfielder as Partey Replacement Target",
-        "summary": "Arsenal are reportedly monitoring RB Leipzig's dynamic box-to-box midfielder as Mikel Arteta seeks long-term cover and an eventual successor to Thomas Partey, whose contract expires at season's end. Talks are said to be at an exploratory stage with a potential summer move costing in the region of £55–65 million.",
+        "headline": "Manchester United Target Lille Midfielder as Midfield Rebuild Continues",
+        "summary": "Manchester United's recruitment team has been linked with a move for Lille's dynamic box-to-box midfielder, seen as a long-term replacement to add energy and progressive passing to a midfield that has struggled for consistency this season. A summer approach is expected with a fee in the region of £45–55 million mooted.",
         "clubs": [
-          "Arsenal",
-          "RB Leipzig"
+          "Manchester United",
+          "Lille"
         ]
       },
       {
         "headline": "Chelsea in Advanced Talks for Napoli Striker as Striker Search Intensifies",
-        "summary": "Chelsea's recruitment team has held multiple meetings with representatives of a Napoli forward as the club looks to address their chronic goal-scoring inconsistency, with the Blues willing to offer a five-year contract to secure a long-term No. 9. Napoli are holding out for a fee closer to £70 million, complicating negotiations.",
+        "summary": "Chelsea are understood to be in advanced discussions with Napoli over a potential deal for their prolific striker, as the club seeks to address a chronic lack of reliable goalscoring ahead of the summer window. Personal terms are reported to be close to agreement, with the transfer hinging on a final fee negotiation.",
         "clubs": [
           "Chelsea",
           "Napoli"
@@ -279,28 +331,28 @@
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
+      "home": "Arsenal",
+      "away": "Manchester City",
       "date": "Sunday, 4:30 PM BST",
-      "preview": "The Premier League's defining rivalry resumes at the Etihad in what could be a pivotal title race clash, with Liverpool arriving in superb form having won seven of their last eight and City desperate to close the gap at the top. Pep Guardiola's side have shown signs of the fluid, high-pressing football that defined their dominance in prior seasons, but their defensive solidity will be tested by Liverpool's lethal transition play. This fixture has historically produced dramatic moments, and with both teams' title ambitions directly at stake, expect intensity from the first whistle.",
+      "preview": "The Premier League's most compelling rivalry of the modern era is set for another defining chapter as Arsenal host Manchester City in a top-of-the-table clash with significant title implications. Arsenal come into the match buoyed by a five-game winning run and will be eager to press their home advantage in front of a raucous Emirates crowd, while City, despite some recent inconsistency, retain the squad depth and Pep Guardiola's tactical ingenuity that makes them perennial contenders. The tactical battle between Arsenal's high-press structure and City's positional dominance promises to be the finest game of the Premier League weekend.",
       "key_players": [
-        "Mohamed Salah",
+        "Bukayo Saka",
         "Erling Haaland",
-        "Alexis Mac Allister"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; may feature from the bench if passed fit"
+        "status": "Recovering",
+        "return": "Expected return late in the season; match-by-match assessment ongoing"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Expected to return to full training within 10 days; likely available after the international break"
+        "player": "Ben White",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Assessed ahead of the weekend; fitness test scheduled Friday"
       }
     ]
   },
@@ -308,62 +360,62 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced to yield 7%. If the yield immediately drops to 5%, which of the following best explains why the bond's price increase will be LESS than its price decrease when yields rose from 6% to 7%?",
+      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,043.29. If the yield to maturity increases by 50 basis points, which of the following best describes the expected price change, and why does convexity matter in this context?",
       "options": {
-        "A": "The bond exhibits negative convexity, causing asymmetric price responses to yield changes.",
-        "B": "The bond exhibits positive convexity, meaning price increases from yield decreases are larger than price decreases from equivalent yield increases.",
-        "C": "Duration underestimates price changes for yield decreases and overestimates them for yield increases due to positive convexity.",
-        "D": "The coupon rate is below the new yield, reducing the bond's sensitivity to further yield changes."
+        "A": "The price will fall by exactly the amount predicted by duration, because convexity only matters for large yield changes.",
+        "B": "The price will fall by less than predicted by duration alone, because positive convexity causes the duration estimate to overstate the price decline.",
+        "C": "The price will fall by more than predicted by duration alone, because higher yields increase the bond's sensitivity to rate changes.",
+        "D": "The price will remain unchanged because the coupon rate is close to the yield to maturity, neutralizing duration effects."
       },
       "correct": "B",
-      "explanation": "For option-free bonds, the price-yield relationship is convex (positive convexity), meaning the price increase when yields fall exceeds the price decrease when yields rise by the same amount. The question contains a subtle trap: the price increase from a 7%→5% move (200 bps down) will actually be LARGER, not smaller, than the price decrease from 6%→7% (100 bps up). If a student selects B, they recognize positive convexity and can reconcile the asymmetry correctly. Positive convexity benefits bondholders in both rising and falling rate environments relative to duration-only estimates."
+      "explanation": "For a standard fixed-rate bond, convexity is always positive, meaning the price-yield relationship is curved rather than linear. Duration provides a linear approximation of price sensitivity, but convexity captures the curvature: as yields rise, duration overestimates the price decline, and as yields fall, it underestimates the price gain. Therefore, the actual price drop following a 50 bps yield increase will be slightly less than the duration estimate suggests. Incorporating convexity improves the accuracy of price change estimates, especially as yield moves become larger."
     },
     "finance_topic": {
-      "title": "Duration Mismatch and Bank Balance Sheet Risk",
-      "subtitle": "How the gap between asset and liability durations can silently destabilize financial institutions.",
+      "title": "Duration Mismatch Risk in Bank Balance Sheets",
+      "subtitle": "How the gap between asset and liability durations exposes banks to interest rate risk and potential solvency stress.",
       "paragraphs": [
-        "Duration mismatch occurs when the weighted-average duration of a bank's assets — primarily loans and investment securities — differs significantly from the duration of its liabilities, which are largely short-term deposits and borrowings. Because duration measures price sensitivity to interest rate changes, a bank with long-duration assets funded by short-duration liabilities is acutely exposed to rising interest rates. As rates increase, the market value of assets falls more sharply than liabilities, eroding the institution's economic net worth even if book-value accounting obscures the damage.",
-        "The collapse of Silicon Valley Bank in March 2023 became a textbook illustration of this risk. SVB had invested heavily in long-duration U.S. Treasury and agency mortgage-backed securities during the low-rate era of 2020–2021. When the Federal Reserve raised rates aggressively by over 500 basis points between 2022 and 2023, the market value of those securities plummeted. Simultaneously, SVB's deposit base — concentrated in venture-backed startups — began withdrawing funds, forcing the bank to crystallize unrealized losses by selling securities at depressed prices, triggering a classic bank run.",
-        "For investors and risk managers, duration mismatch is not merely a banking regulatory concern — it is a portfolio construction and systemic risk signal. Equity investors in regional banks should monitor Accumulated Other Comprehensive Income (AOCI) disclosures, which reflect unrealized gains and losses on available-for-sale securities. Risk managers at asset managers must stress-test portfolio liquidity against scenarios where rate spikes force forced sellers into the market, compressing prices further. Regulators have since pushed to close the AOCI opt-out that allowed many banks to hide duration risk from reported capital ratios."
+        "Duration mismatch occurs when the weighted-average duration of a financial institution's assets differs materially from that of its liabilities. Banks traditionally fund long-dated assets — such as fixed-rate mortgages and long-term bonds — with short-term deposits and wholesale funding. This structural gap means that when interest rates rise sharply, the market value of assets falls more steeply than the value of liabilities, eroding the institution's net worth on a mark-to-market basis.",
+        "The collapse of Silicon Valley Bank in March 2023 became the defining modern case study of duration mismatch risk. SVB had accumulated a large portfolio of long-duration mortgage-backed securities and Treasuries funded by short-term deposits. As the Federal Reserve raised rates aggressively from near-zero to over 5%, the market value of SVB's bond portfolio fell dramatically. When depositors began withdrawing funds, SVB was forced to realize losses, triggering a classic bank run. The episode highlighted that unrealized losses held in 'held-to-maturity' portfolios could mask significant economic risk until a liquidity event forced recognition.",
+        "For investors and risk managers, duration mismatch analysis is critical when evaluating regional banks, insurance companies, and pension funds. Rising rate environments compress net interest margins for institutions slow to reprice liabilities, while simultaneously reducing asset values. Risk managers use metrics like the Economic Value of Equity (EVE) and Net Interest Income (NII) sensitivity to stress-test portfolios. Portfolio managers should scrutinize a bank's AOCI (Accumulated Other Comprehensive Income) disclosures for signs of embedded unrealized losses that could become systemic under stress."
       ],
       "key_takeaways": [
-        "Duration mismatch amplifies interest rate risk when long-duration assets are funded by short-duration, rate-sensitive liabilities.",
-        "AOCI disclosures in bank financial statements are a critical but often overlooked signal of embedded interest rate exposure.",
-        "The SVB failure demonstrated that even 'risk-free' government securities can become systemic liabilities when duration management is neglected."
+        "Duration mismatch is the core structural risk embedded in traditional banking: long assets funded by short liabilities.",
+        "Sharp rate hikes can cause unrealized losses to overwhelm equity capital, as demonstrated by SVB's 2023 failure.",
+        "Investors should monitor EVE sensitivity, AOCI disclosures, and loan-to-deposit ratios to assess interest rate vulnerability in financial institutions."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; commitment",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved in a bank",
       "part_of_speech": "noun",
-      "example_jp": "彼は必ず約束を守る人です。",
-      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
-      "example_en": "He is a person who always keeps his promises.",
-      "grammar_point": "〜を守る (wo mamoru)",
-      "grammar_explanation": "The pattern 〜を守る means 'to keep' or 'to protect' something, commonly used with 約束 (promise) or ルール (rules). It emphasizes faithfully upholding a commitment or obligation.",
-      "memory_tip": "Think of 'yaku' sounding like 'yak' — a yak that always shows up on time for its SOKU (schedule). A yak that keeps its promises. Reliable and a little shaggy."
+      "example_jp": "毎月、給料の一部を貯金しています。",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_en": "Every month, I save a part of my salary.",
+      "grammar_point": "〜ています (ongoing action / habitual action)",
+      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses either an action currently in progress or a habitual routine. Here, 'chokin shite imasu' means saving money is a regular, ongoing habit rather than a one-time event.",
+      "memory_tip": "Think of 'chokin' as 'cho-kin' — 'cho' sounds like 'store' and 'kin' means gold/money in Japanese (金), so you are storing your gold coins safely away."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Execute Trades Without Human Approval",
-      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous decision execution — is moving from research labs into live financial workflows. Firms like Citadel, JPMorgan, and several quantitative hedge funds are piloting AI agents that can monitor market data, generate trade rationales, and in controlled environments, submit orders within predefined risk parameters. Unlike earlier algorithmic trading systems built on rigid rules, these agents use large language models combined with reinforcement learning to adapt strategies dynamically. The shift raises profound questions about accountability, model risk governance, and the speed at which systemic risk can propagate when many agents respond to the same signals simultaneously.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Assessment for Lenders",
+      "summary": "Major financial institutions and fintech lenders are deploying large language models and gradient-boosted machine learning systems to augment — and in some cases replace — traditional FICO-score-based credit underwriting. These models ingest thousands of alternative data signals, including cash flow patterns, utility payment history, and behavioral metadata, enabling more granular risk stratification. Early evidence from lenders using AI underwriting shows improved default prediction accuracy and expanded credit access to thin-file borrowers, though regulators are intensifying scrutiny around model explainability and fair lending compliance. The tension between predictive power and regulatory transparency is the defining challenge for AI adoption in consumer and commercial credit.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, use tools, and execute multi-step tasks — in finance, this means an AI that can research a company, generate a trade thesis, check risk limits, and submit an order without step-by-step human instruction."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions of credit default probability from structured financial data."
         },
         {
-          "term": "Reinforcement Learning from Human Feedback (RLHF)",
-          "definition": "A training technique where an AI model is fine-tuned based on human evaluations of its outputs, used in finance to align trading agent behavior with risk-adjusted return objectives rather than raw performance metrics."
+          "term": "Explainable AI (XAI)",
+          "definition": "A set of methods — including SHAP values and LIME — that break open 'black box' model decisions to show which input variables drove a specific credit or risk outcome, critical for regulatory compliance under fair lending laws."
         },
         {
-          "term": "Model Risk Governance",
-          "definition": "The framework of policies, validation processes, and controls that financial institutions use to identify, measure, and mitigate risks arising from AI and quantitative models — increasingly critical as models make real-time autonomous decisions."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources such as rent payment history, bank transaction patterns, or e-commerce behavior used to assess creditworthiness for borrowers with limited traditional credit history."
         }
       ],
-      "career_insight": "Finance professionals who understand both the mechanics of AI systems and the regulatory expectations around model risk — particularly SR 11-7 guidance in the U.S. and EBA guidelines in Europe — will be disproportionately valuable as firms scale autonomous systems. The highest-leverage skill combination in the next five years is quantitative literacy plus the ability to design human-in-the-loop oversight frameworks that satisfy regulators without killing the speed advantage AI provides."
+      "career_insight": "Credit risk analysts and underwriters who understand both the mechanics of ML-based scoring models and the regulatory frameworks governing them — particularly ECOA, Fair Housing Act, and SR 11-7 model risk guidance — will be disproportionately valuable as institutions scale AI underwriting. Building proficiency in Python-based model validation, SHAP interpretability tools, and adverse action notice requirements positions finance professionals at the intersection of quant skill and compliance leadership, a combination that is increasingly rare and well-compensated."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a cautious tone this week as investors weigh resilient U.S. labor data against cooling inflation prints, keeping Fed rate-cut timing firmly in focus — futures now imply fewer than two cuts through year-end 2025, a notable hawkish repricing from the four cuts expected in January. Credit spreads in high-yield have widened modestly, reflecting softness in consumer discretionary earnings, while the front end of the Treasury curve remains inverted, suggesting the market is pricing persistent restrictive policy rather than imminent recession. In FX, the dollar has held its bid on relative growth outperformance, putting pressure on EM currencies particularly in economies with current account deficits, and commodity markets are watching OPEC+ compliance closely as Brent crude trades in a narrow $80–$85 range ahead of the next demand outlook revision from the IEA."
+    "market_sentiment": "Global equities are trading with a cautious bid this morning as markets digest a mixed macro backdrop: resilient US labor data continues to push back rate-cut expectations toward Q4, while softer PMI readings out of the Eurozone and China reinforce diverging growth trajectories across major economies. Bund yields are nudging higher on ECB hawkish hold signals, while the USD index holds firm near recent highs, creating headwinds for EM currencies and commodity-linked assets. Risk appetite is selective — mega-cap tech remains a crowded long underpinned by AI capex narratives, but credit spreads in lower-rated HY are quietly widening, suggesting the smart money is beginning to price in a more prolonged higher-for-longer regime than consensus currently reflects."
   }
 }
