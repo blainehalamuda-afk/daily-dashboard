@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:55 PM UTC",
-  "date": "Saturday, May 16, 2026",
+  "generated_at": "12:53 PM UTC",
+  "date": "Sunday, May 17, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 64,
-    "feels_like_f": 63,
-    "high_f": 67,
-    "low_f": 60,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 63,
-    "wind_mph": 3,
+    "temp_f": 70,
+    "feels_like_f": 71,
+    "high_f": 74,
+    "low_f": 69,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 87,
+    "wind_mph": 7,
     "forecast": [
       {
-        "day": "Sun",
-        "icon": "☁️",
+        "day": "Mon",
+        "icon": "☀️",
         "high": 68,
         "low": 68,
-        "description": "Overcast Clouds"
-      },
-      {
-        "day": "Mon",
-        "icon": "⛅",
-        "high": 69,
-        "low": 69,
-        "description": "Scattered Clouds"
+        "description": "Clear Sky"
       },
       {
         "day": "Tue",
         "icon": "🌤️",
-        "high": 68,
-        "low": 68,
+        "high": 67,
+        "low": 67,
         "description": "Few Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "☁️",
+        "high": 69,
+        "low": 69,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 78031.25,
-        "change": -2321.35,
-        "change_pct": -2.89,
-        "up": false,
+        "price": 78413.03,
+        "change": 325.64,
+        "change_pct": 0.42,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2177.01,
-        "change": -76.11,
-        "change_pct": -3.38,
-        "up": false,
+        "price": 2194.89,
+        "change": 16.46,
+        "change_pct": 0.76,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as yields rise, Trump-Xi summit ends - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-yields-rise-trump-xi-summit-ends-224527041.html",
-        "description": "Inflation worries are preying on investors as they weigh the outcomes of the Trump-Xi summit in China.",
-        "published": "9:58 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Takeaways from Fed Chair Jerome Powell's tenure as he steps down - ABC News - Breaking News, Latest News and Videos",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/Business/takeaways-fed-chair-jerome-powells-tenure-steps/story?id\\\\u003d132918698",
+        "title": "LIRR, NJ Transit divert trains through Friday rush as Penn Station debacle drags on - Gothamist",
+        "source": "Gothamist",
+        "url": "https://gothamist.com/news/lirr-nj-transit-divert-trains-through-friday-rush-as-penn-station-debacle-drags-on",
         "description": "",
-        "published": "9:07 AM UTC",
+        "published": "12:01 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Korean Stocks Tumble After Reaching Milestone as Foreigners Sell - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-15/korean-stocks-tumble-after-reaching-milestone-as-foreigners-sell",
-        "description": "South Korea’s world-beating stock rally came to a sudden halt as the benchmark tumbled on Friday, underscoring the vulnerability of a market dominated by a pair of chipmakers.",
-        "published": "7:42 AM UTC",
+        "title": "Farmers growing increasingly desperate amid rising energy and fertilizer prices - Axios",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/05/16/farmers-agriculture-crops-iran-energy-prices",
+        "description": "Farmers are grappling with a confluence of forces — many of them human-made, including the effects of the Iran war.",
+        "published": "11:31 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Review: Forza Horizon 6: PC Ray Tracing Looks Great - A Hint Of The Project Helix Port To Come? - Digital Foundry",
-        "source": "Digitalfoundry.net",
-        "url": "https://www.digitalfoundry.net/reviews/forza-horizon-6-pc-ray-tracing-looks-great-a-hint-of-the-project-helix-port-to-come",
-        "description": "The PC and Xbox Series X|S versions under the microscope.",
-        "published": "9:26 AM UTC",
+        "title": "Swatch shuts stores after crowds queue for new watch - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1d2qldr0yko",
+        "description": "Hundreds of people have been queueing outside branches across the UK to get the £335 item.",
+        "published": "11:27 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Microsoft appears to rebrand Xbox as XBOX - VideoCardz.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83dkVKQ2NRLVBVVi1IZ3pRUnh0NU1iUHRRaTA0S0FDa3dNWDJTLUtrUGJfLXdqd1VXUFVqXzFjT0JLZTlxU0JIVHhYUExibUxjWFRyY0JBbF9FbkgtbHQ0U2Jic01UTWhaME02U1pqcEhDRGtWTTdnRg?oc=5",
+        "description": "",
+        "published": "8:33 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Did Chrome Just Install a Massive AI Model on Your Device Without Telling You? Yes, Probably - CNET",
-        "source": "CNET",
-        "url": "https://www.cnet.com/tech/services-and-software/did-chrome-just-install-a-massive-ai-model-on-your-device-without-telling-you-yes-probably/",
-        "description": "A 4GB file called weights.bin may be sitting on your hard drive right now, put there by Chrome without your knowledge.",
-        "published": "6:03 AM UTC",
+        "title": "Strange Metal From Beyond Our World Spotted in an Ancient Treasure Stash - ScienceAlert",
+        "source": "ScienceAlert",
+        "url": "https://www.sciencealert.com/strange-metal-from-beyond-our-world-spotted-in-an-ancient-treasure-stash",
+        "description": "Amidst a cache of glittering golden treasures from the Iberian Bronze Age, a pair of corroded objects might be the most precious of all.",
+        "published": "11:03 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Google starts rolling out QR code-based Quick Share transfers between Android and iPhone - Android Authority",
-        "source": "Android Authority",
-        "url": "https://www.androidauthority.com/android-quick-share-qr-code-sharing-with-iphone-3667293/",
-        "description": "Google has started rolling out a new Quick Share feature that lets Android users share files with iPhones using QR codes.",
-        "published": "3:16 AM UTC",
+        "title": "New The Sims 4 Hotfix Update Announced For Next Week - Sims Community",
+        "source": "Simscommunity.info",
+        "url": "https://simscommunity.info/2026/05/16/sims-4-hotfix-update-may-2026-info/",
+        "description": "It's never an easy patch release for The Sims 4. The Sims Direct Communications announced today that they'll be releasing a new The Sims 4 Hotfix Update",
+        "published": "10:18 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "NASA's Psyche asteroid probe will fly within 3,000 miles of Mars on May 15: Here's what to expect - Space",
-        "source": "Space.com",
-        "url": "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-asteroid-probe-will-fly-within-3-000-miles-of-mars-on-may-15-heres-what-to-expect",
-        "description": "\"The only reason for this flyby is to get a little help from Mars to speed us up and tilt our trajectory in the direction of the asteroid Psyche.\"",
-        "published": "10:41 AM UTC",
+        "title": "Taiwan to Trump: We are sovereign and independent - politico.eu",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/taiwan-to-trump-we-are-sovereign-and-independent/",
+        "description": "Trump warned against Taiwanese self-determination following his summit with Chinese President Xi Jinping.",
+        "published": "10:43 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Trump says Islamic State group leader was killed in a joint US-Nigerian mission - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/trump-islamic-state-nigeria-almainuki-e05aaa1b7e07037b2de5954f335114d0",
+        "description": "President Donald Trump says U.S. and Nigerian forces carried out a mission to kill a leader of the Islamic State group. Trump made the announcement of the joint operation to take out Abu-Bilal al-Main",
+        "published": "10:26 AM UTC",
         "category": "General"
       }
     ]
@@ -172,21 +180,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Aston Villa",
-        "away": "Liverpool",
-        "home_score": 4,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "7:00 PM UTC",
-        "date": "May 15",
-        "highlighted": false
-      },
-      {
         "home": "Man United",
         "away": "Nottingham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "IN_PLAY",
         "time": "11:30 AM UTC",
         "date": "May 17",
         "highlighted": false
@@ -240,6 +238,16 @@
         "time": "4:30 PM UTC",
         "date": "May 17",
         "highlighted": false
+      },
+      {
+        "home": "Arsenal",
+        "away": "Burnley",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "May 18",
+        "highlighted": false
       }
     ],
     "standings": [
@@ -268,12 +276,12 @@
       {
         "position": 3,
         "team": "Man United",
-        "played": 36,
-        "won": 18,
+        "played": 37,
+        "won": 19,
         "drawn": 11,
         "lost": 7,
-        "gd": 15,
-        "points": 65,
+        "gd": 16,
+        "points": 68,
         "highlighted": false
       },
       {
@@ -314,108 +322,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Target Lille Midfielder as Midfield Rebuild Continues",
-        "summary": "Manchester United's recruitment team has been linked with a move for Lille's dynamic box-to-box midfielder, seen as a long-term replacement to add energy and progressive passing to a midfield that has struggled for consistency this season. A summer approach is expected with a fee in the region of £45–55 million mooted.",
+        "headline": "Arsenal in Advanced Talks for Bundesliga Striker as Offensive Cover Priority",
+        "summary": "Arsenal are understood to be in serious discussions over a January or summer move for a proven Bundesliga goal-scorer, with the club seeking depth after injuries disrupted their attacking options mid-season. Personal terms are reported to be the remaining sticking point as the Gunners look to bolster their title challenge.",
         "clubs": [
-          "Manchester United",
-          "Lille"
+          "Arsenal",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks for Napoli Striker as Striker Search Intensifies",
-        "summary": "Chelsea are understood to be in advanced discussions with Napoli over a potential deal for their prolific striker, as the club seeks to address a chronic lack of reliable goalscoring ahead of the summer window. Personal terms are reported to be close to agreement, with the transfer hinging on a final fee negotiation.",
+        "headline": "Chelsea Target Midfield Reinforcement with Ligue 1 Playmaker on Radar",
+        "summary": "Chelsea's recruitment team have identified a creative central midfielder from Ligue 1 as a potential addition in the coming transfer window, with the player entering the final 18 months of his contract. The Blues face competition from Atletico Madrid, though Chelsea's willingness to move quickly may prove decisive.",
         "clubs": [
           "Chelsea",
-          "Napoli"
+          "AS Monaco"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The Premier League's most compelling rivalry of the modern era is set for another defining chapter as Arsenal host Manchester City in a top-of-the-table clash with significant title implications. Arsenal come into the match buoyed by a five-game winning run and will be eager to press their home advantage in front of a raucous Emirates crowd, while City, despite some recent inconsistency, retain the squad depth and Pep Guardiola's tactical ingenuity that makes them perennial contenders. The tactical battle between Arsenal's high-press structure and City's positional dominance promises to be the finest game of the Premier League weekend.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The standout fixture of the Premier League weekend pits two title contenders against each other at the Etihad in what promises to be a tactically fascinating contest. City have been grinding results despite an inconsistent run of form, while Liverpool arrive buoyed by back-to-back league wins and the momentum of a settled, high-pressing system under their manager. The outcome could prove pivotal in the title race, with dropped points for either side gifting the chasing pack vital ground.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected return late in the season; match-by-match assessment ongoing"
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; potential return within 7-10 days if scan results are positive"
       },
       {
-        "player": "Ben White",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Assessed ahead of the weekend; fitness test scheduled Friday"
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Expected to return to full training within two weeks; targeting next home fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,043.29. If the yield to maturity increases by 50 basis points, which of the following best describes the expected price change, and why does convexity matter in this context?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank estimates the following for a corporate loan portfolio: Probability of Default (PD) = 2.5%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. Additionally, the bank estimates an Unexpected Loss (UL) of $850,000. Which of the following best describes the purpose of economic capital in this context?",
       "options": {
-        "A": "The price will fall by exactly the amount predicted by duration, because convexity only matters for large yield changes.",
-        "B": "The price will fall by less than predicted by duration alone, because positive convexity causes the duration estimate to overstate the price decline.",
-        "C": "The price will fall by more than predicted by duration alone, because higher yields increase the bond's sensitivity to rate changes.",
-        "D": "The price will remain unchanged because the coupon rate is close to the yield to maturity, neutralizing duration effects."
+        "A": "Economic capital covers the Expected Loss (EL) and is funded through loan loss provisions set aside each quarter.",
+        "B": "Economic capital is held to absorb Unexpected Losses beyond the Expected Loss, protecting the bank against insolvency at a given confidence level.",
+        "C": "Economic capital equals the product of PD, LGD, and EAD and represents the minimum regulatory capital required under Basel III.",
+        "D": "Economic capital is equivalent to the Value at Risk of the portfolio measured at a 95% confidence interval over a one-day horizon."
       },
       "correct": "B",
-      "explanation": "For a standard fixed-rate bond, convexity is always positive, meaning the price-yield relationship is curved rather than linear. Duration provides a linear approximation of price sensitivity, but convexity captures the curvature: as yields rise, duration overestimates the price decline, and as yields fall, it underestimates the price gain. Therefore, the actual price drop following a 50 bps yield increase will be slightly less than the duration estimate suggests. Incorporating convexity improves the accuracy of price change estimates, especially as yield moves become larger."
+      "explanation": "Economic capital is the internally estimated capital a bank holds to cover Unexpected Losses (UL), not Expected Losses (EL). EL = PD × LGD × EAD = 0.025 × 0.45 × $10,000,000 = $112,500, which is covered through loan loss provisions and pricing. Economic capital buffers the institution against losses that exceed EL at a high confidence level (e.g., 99.9%), ensuring solvency under adverse scenarios. Regulatory capital under Basel III (Option C) is a related but distinct concept set by regulators rather than internal models."
     },
     "finance_topic": {
-      "title": "Duration Mismatch Risk in Bank Balance Sheets",
-      "subtitle": "How the gap between asset and liability durations exposes banks to interest rate risk and potential solvency stress.",
+      "title": "Basis Risk and Its Hidden Portfolio Dangers",
+      "subtitle": "Basis risk arises when a hedge does not perfectly offset the exposure it is designed to protect, creating residual profit-and-loss volatility even in a 'hedged' portfolio.",
       "paragraphs": [
-        "Duration mismatch occurs when the weighted-average duration of a financial institution's assets differs materially from that of its liabilities. Banks traditionally fund long-dated assets — such as fixed-rate mortgages and long-term bonds — with short-term deposits and wholesale funding. This structural gap means that when interest rates rise sharply, the market value of assets falls more steeply than the value of liabilities, eroding the institution's net worth on a mark-to-market basis.",
-        "The collapse of Silicon Valley Bank in March 2023 became the defining modern case study of duration mismatch risk. SVB had accumulated a large portfolio of long-duration mortgage-backed securities and Treasuries funded by short-term deposits. As the Federal Reserve raised rates aggressively from near-zero to over 5%, the market value of SVB's bond portfolio fell dramatically. When depositors began withdrawing funds, SVB was forced to realize losses, triggering a classic bank run. The episode highlighted that unrealized losses held in 'held-to-maturity' portfolios could mask significant economic risk until a liquidity event forced recognition.",
-        "For investors and risk managers, duration mismatch analysis is critical when evaluating regional banks, insurance companies, and pension funds. Rising rate environments compress net interest margins for institutions slow to reprice liabilities, while simultaneously reducing asset values. Risk managers use metrics like the Economic Value of Equity (EVE) and Net Interest Income (NII) sensitivity to stress-test portfolios. Portfolio managers should scrutinize a bank's AOCI (Accumulated Other Comprehensive Income) disclosures for signs of embedded unrealized losses that could become systemic under stress."
+        "Basis risk is defined as the risk that the price of a hedging instrument and the price of the underlying exposure do not move in perfect tandem. It emerges whenever a hedger uses a proxy instrument — such as a futures contract on a related but non-identical asset, or a swap referencing a slightly different tenor — rather than an exact offset. Mathematically, basis is expressed as the difference between the spot price of the asset being hedged and the futures (or hedge instrument) price. When this difference narrows or widens unexpectedly, the hedge becomes imperfect and residual risk remains.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures (WTI or Brent), since no liquid jet fuel futures market exists. If crude oil prices fall but jet fuel refining margins widen simultaneously — perhaps due to a refinery outage — the airline's hedge provides less relief than anticipated. Similarly, a fixed-income portfolio manager hedging a corporate bond portfolio with Treasury futures faces basis risk because corporate spreads can widen independently of moves in the risk-free rate, a dynamic that became painfully apparent during the March 2020 COVID liquidity shock.",
+        "For risk managers and portfolio managers, basis risk demands careful tracking of the correlation between the hedging instrument and the underlying exposure over time, particularly during stress periods when correlations are known to break down. A hedge ratio based on historical correlation may become unreliable precisely when protection is most needed. Best practice involves regularly re-estimating hedge ratios, stress-testing hedge effectiveness under adverse spread scenarios, and explicitly reporting residual basis risk as part of portfolio risk attribution rather than treating a 'hedged' book as risk-free."
       ],
       "key_takeaways": [
-        "Duration mismatch is the core structural risk embedded in traditional banking: long assets funded by short liabilities.",
-        "Sharp rate hikes can cause unrealized losses to overwhelm equity capital, as demonstrated by SVB's 2023 failure.",
-        "Investors should monitor EVE sensitivity, AOCI disclosures, and loan-to-deposit ratios to assess interest rate vulnerability in financial institutions."
+        "Basis risk is the residual risk remaining when a hedge instrument does not perfectly track the underlying exposure, and it can be significant even in well-constructed hedges.",
+        "Correlations between hedge instruments and underlying exposures tend to break down during market stress, meaning basis risk is highest exactly when hedges are most relied upon.",
+        "Risk managers should measure, report, and stress-test basis risk separately rather than assuming a hedged position carries zero risk."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in a bank",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a part of my salary.",
-      "grammar_point": "〜ています (ongoing action / habitual action)",
-      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses either an action currently in progress or a habitual routine. Here, 'chokin shite imasu' means saving money is a regular, ongoing habit rather than a one-time event.",
-      "memory_tip": "Think of 'chokin' as 'cho-kin' — 'cho' sounds like 'store' and 'kin' means gold/money in Japanese (金), so you are storing your gold coins safely away."
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) is used to express that an action has been completed, often with a nuance of regret or finality — something is 'done and finished,' sometimes unexpectedly or unfortunately. It combines the te-form of a verb with しまう (to finish/end up doing).",
+      "memory_tip": "Imagine a 'yo-yo' and a 'sandwich' (yo-san) — your budget goes up and down like a yo-yo, and by the end of the month it has been eaten like a sandwich. 予 (yo) means 'in advance / plan' and 算 (san) means 'calculation' — a pre-calculation of money."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Assessment for Lenders",
-      "summary": "Major financial institutions and fintech lenders are deploying large language models and gradient-boosted machine learning systems to augment — and in some cases replace — traditional FICO-score-based credit underwriting. These models ingest thousands of alternative data signals, including cash flow patterns, utility payment history, and behavioral metadata, enabling more granular risk stratification. Early evidence from lenders using AI underwriting shows improved default prediction accuracy and expanded credit access to thin-file borrowers, though regulators are intensifying scrutiny around model explainability and fair lending compliance. The tension between predictive power and regulatory transparency is the defining challenge for AI adoption in consumer and commercial credit.",
+      "headline": "AI Agents Are Quietly Reshaping Fixed Income Research and Portfolio Construction",
+      "summary": "Large asset managers including BlackRock, PIMCO, and several bulge-bracket banks are now deploying multi-agent AI systems capable of ingesting earnings call transcripts, central bank communications, and macroeconomic data simultaneously to generate credit and rate views with minimal human input at the first-pass stage. Unlike earlier NLP tools that simply flagged sentiment, these agentic systems can reason across data sources, form conditional scenarios, and draft investment memos that analysts then review and refine. The efficiency gain is estimated at 40-60% reduction in time-to-insight for credit research workflows, allowing analyst capacity to shift toward higher-order judgment calls. Regulators in the UK and EU are beginning to scrutinize AI-generated investment recommendations for accountability and explainability requirements.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions of credit default probability from structured financial data."
+          "term": "Agentic AI",
+          "definition": "An AI system that can autonomously plan, take sequential actions, and use external tools (like databases or APIs) to accomplish a multi-step goal — in finance, this might mean an agent that independently retrieves bond data, runs a model, and drafts a credit memo without step-by-step human instruction."
         },
         {
-          "term": "Explainable AI (XAI)",
-          "definition": "A set of methods — including SHAP values and LIME — that break open 'black box' model decisions to show which input variables drove a specific credit or risk outcome, critical for regulatory compliance under fair lending laws."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI language model is connected to a live or curated database so it can retrieve relevant facts before generating its response — allowing finance applications to ground AI outputs in actual filings, term sheets, or market data rather than relying solely on pre-trained knowledge."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources such as rent payment history, bank transaction patterns, or e-commerce behavior used to assess creditworthiness for borrowers with limited traditional credit history."
+          "term": "Explainability (XAI)",
+          "definition": "The ability of an AI model to provide human-understandable reasons for its outputs — critical in regulated finance contexts where decisions on credit, trading, or risk must be auditable and defensible to regulators and compliance officers."
         }
       ],
-      "career_insight": "Credit risk analysts and underwriters who understand both the mechanics of ML-based scoring models and the regulatory frameworks governing them — particularly ECOA, Fair Housing Act, and SR 11-7 model risk guidance — will be disproportionately valuable as institutions scale AI underwriting. Building proficiency in Python-based model validation, SHAP interpretability tools, and adverse action notice requirements positions finance professionals at the intersection of quant skill and compliance leadership, a combination that is increasingly rare and well-compensated."
+      "career_insight": "Finance professionals who understand how to design workflows around AI agents — knowing what tasks to delegate, how to validate AI outputs, and how to communicate AI-generated insights to clients and regulators — will command a growing premium over those who simply use AI as a search tool. The highest-value skill combination emerging is domain expertise (credit, rates, risk) plus AI fluency: being able to critically interrogate a model's output, not just consume it. Roles in model validation, AI governance, and quantitative research are seeing the strongest demand as firms race to deploy responsibly."
     },
     "error": false,
-    "market_sentiment": "Global equities are trading with a cautious bid this morning as markets digest a mixed macro backdrop: resilient US labor data continues to push back rate-cut expectations toward Q4, while softer PMI readings out of the Eurozone and China reinforce diverging growth trajectories across major economies. Bund yields are nudging higher on ECB hawkish hold signals, while the USD index holds firm near recent highs, creating headwinds for EM currencies and commodity-linked assets. Risk appetite is selective — mega-cap tech remains a crowded long underpinned by AI capex narratives, but credit spreads in lower-rated HY are quietly widening, suggesting the smart money is beginning to price in a more prolonged higher-for-longer regime than consensus currently reflects."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a resilient U.S. labor market print against a backdrop of fading rate-cut expectations, with the Fed funds futures curve now pricing fewer than two cuts through year-end — a meaningful repricing from earlier consensus. The dollar has strengthened modestly, pressuring EM currencies and commodities, while credit spreads in investment-grade have held tight, suggesting corporate balance sheets are still viewed as robust despite higher-for-longer financing costs. Eyes turn to upcoming CPI data and ECB commentary as the key catalysts that could break the current range-bound equities regime; vol remains suppressed but the skew in options markets hints that downside protection is quietly being accumulated."
   }
 }
