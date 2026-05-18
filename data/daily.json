@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:53 PM UTC",
-  "date": "Sunday, May 17, 2026",
+  "generated_at": "2:51 PM UTC",
+  "date": "Monday, May 18, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 70,
-    "feels_like_f": 71,
-    "high_f": 74,
-    "low_f": 69,
-    "description": "Broken Clouds",
-    "icon": "☁️",
-    "humidity": 87,
+    "temp_f": 81,
+    "feels_like_f": 83,
+    "high_f": 84,
+    "low_f": 78,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 61,
     "wind_mph": 7,
     "forecast": [
       {
-        "day": "Mon",
+        "day": "Tue",
         "icon": "☀️",
         "high": 68,
         "low": 68,
         "description": "Clear Sky"
       },
       {
-        "day": "Tue",
-        "icon": "🌤️",
-        "high": 67,
-        "low": 67,
-        "description": "Few Clouds"
-      },
-      {
         "day": "Wed",
         "icon": "☁️",
-        "high": 69,
-        "low": 69,
+        "high": 70,
+        "low": 70,
         "description": "Overcast Clouds"
+      },
+      {
+        "day": "Thu",
+        "icon": "☁️",
+        "high": 72,
+        "low": 72,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 739.17,
-        "change": -9.0,
-        "change_pct": -1.2,
+        "price": 737.55,
+        "change": -1.62,
+        "change_pct": -0.22,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 300.23,
-        "change": 2.02,
-        "change_pct": 0.68,
-        "up": true,
+        "price": 297.81,
+        "change": -2.42,
+        "change_pct": -0.81,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 225.32,
-        "change": -10.42,
-        "change_pct": -4.42,
+        "price": 220.77,
+        "change": -4.55,
+        "change_pct": -2.02,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 422.24,
-        "change": -21.06,
-        "change_pct": -4.75,
+        "price": 410.51,
+        "change": -11.73,
+        "change_pct": -2.78,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 78413.03,
-        "change": 325.64,
-        "change_pct": 0.42,
-        "up": true,
+        "price": 76428.78,
+        "change": -1621.13,
+        "change_pct": -2.08,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2194.89,
-        "change": 16.46,
-        "change_pct": 0.76,
-        "up": true,
+        "price": 2111.39,
+        "change": -75.29,
+        "change_pct": -3.44,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "LIRR, NJ Transit divert trains through Friday rush as Penn Station debacle drags on - Gothamist",
-        "source": "Gothamist",
-        "url": "https://gothamist.com/news/lirr-nj-transit-divert-trains-through-friday-rush-as-penn-station-debacle-drags-on",
-        "description": "",
-        "published": "12:01 PM UTC",
+        "title": "Nvidia is So Cheap That It’ll Be a Bargain Even if It Doubles - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/05/17/nvidia-is-so-cheap-that-itll-be-a-bargain-even-if-it-doubles/",
+        "description": "I keep hitting the buy button on NVIDIA (NASDAQ:NVDA | NVDA Price Prediction), and the logic is embarrassingly simple. The stock trades at 26 times forward earnings while the underlying business grew ",
+        "published": "12:09 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Farmers growing increasingly desperate amid rising energy and fertilizer prices - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/05/16/farmers-agriculture-crops-iran-energy-prices",
-        "description": "Farmers are grappling with a confluence of forces — many of them human-made, including the effects of the Iran war.",
-        "published": "11:31 AM UTC",
+        "title": "My Unemployed Husband Landed a Job by Bringing Doughnuts to an Office - Business Insider",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/unemployed-husband-landed-job-unique-trick-2026-5",
+        "description": "As a recruiter, I didn't understand why my unemployed husband couldn't land a job. But he came up with a unique strategy that got him attention.",
+        "published": "12:07 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Swatch shuts stores after crowds queue for new watch - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c1d2qldr0yko",
-        "description": "Hundreds of people have been queueing outside branches across the UK to get the £335 item.",
-        "published": "11:27 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Microsoft appears to rebrand Xbox as XBOX - VideoCardz.com",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83dkVKQ2NRLVBVVi1IZ3pRUnh0NU1iUHRRaTA0S0FDa3dNWDJTLUtrUGJfLXdqd1VXUFVqXzFjT0JLZTlxU0JIVHhYUExibUxjWFRyY0JBbF9FbkgtbHQ0U2Jic01UTWhaME02U1pqcEhDRGtWTTdnRg?oc=5",
-        "description": "",
-        "published": "8:33 AM UTC",
+        "title": "ASUS Republic of Gamers Announces ROG NUC 16 - ASUS Pressroom",
+        "source": "Asus.com",
+        "url": "https://press.asus.com/news/press_releases/rog-nuc-16-compact-gaming-pc-rtx-5080-ai/",
+        "description": "ROG NUC 16: ASUS unveils a compact gaming PC for gamers and creators. Features Intel Core Ultra, NVIDIA RTX 5080 Laptop GPU, AI-enhanced graphics, QuietFlow cooling, and versatile dual-orientation des",
+        "published": "2:06 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Strange Metal From Beyond Our World Spotted in an Ancient Treasure Stash - ScienceAlert",
-        "source": "ScienceAlert",
-        "url": "https://www.sciencealert.com/strange-metal-from-beyond-our-world-spotted-in-an-ancient-treasure-stash",
-        "description": "Amidst a cache of glittering golden treasures from the Iberian Bronze Age, a pair of corroded objects might be the most precious of all.",
-        "published": "11:03 PM UTC",
+        "title": "Big Nintendo Switch 2 and Switch sale live with games as low as $15 - Nintendo Everything",
+        "source": "Nintendoeverything.com",
+        "url": "https://nintendoeverything.com/big-nintendo-switch-2-and-switch-sale-live-with-games-as-low-as-15/",
+        "description": "A big sale has just started for Nintendo Switch 1 and 2 that discounts some notable games to as low as $15 - here's the full list.",
+        "published": "1:05 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "New The Sims 4 Hotfix Update Announced For Next Week - Sims Community",
-        "source": "Simscommunity.info",
-        "url": "https://simscommunity.info/2026/05/16/sims-4-hotfix-update-may-2026-info/",
-        "description": "It's never an easy patch release for The Sims 4. The Sims Direct Communications announced today that they'll be releasing a new The Sims 4 Hotfix Update",
-        "published": "10:18 PM UTC",
+        "title": "A new tool just combined ChatGPT, Claude, Gemini, and more — lifetime access is on sale for $70 - Mashable",
+        "source": "Mashable",
+        "url": "https://mashable.com/article/may-16-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+        "description": "A lifetime subscription with access to 20+ AI models usually costs $619",
+        "published": "11:24 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Taiwan to Trump: We are sovereign and independent - politico.eu",
-        "source": "POLITICO.eu",
-        "url": "https://www.politico.eu/article/taiwan-to-trump-we-are-sovereign-and-independent/",
-        "description": "Trump warned against Taiwanese self-determination following his summit with Chinese President Xi Jinping.",
-        "published": "10:43 AM UTC",
+        "title": "Shai Gilgeous-Alexander reportedly wins second straight NBA MVP award - Yahoo Sports",
+        "source": "Yahoo Entertainment",
+        "url": "https://sports.yahoo.com/nba/article/shai-gilgeous-alexander-reportedly-wins-second-straight-nba-mvp-award-140132637.html",
+        "description": "The Thunder star guard is the 14th player in NBA history to win back-to-back MVPs",
+        "published": "2:01 PM UTC",
         "category": "General"
       },
       {
-        "title": "Trump says Islamic State group leader was killed in a joint US-Nigerian mission - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/trump-islamic-state-nigeria-almainuki-e05aaa1b7e07037b2de5954f335114d0",
-        "description": "President Donald Trump says U.S. and Nigerian forces carried out a mission to kill a leader of the Islamic State group. Trump made the announcement of the joint operation to take out Abu-Bilal al-Main",
-        "published": "10:26 AM UTC",
+        "title": "Alex Cooper announces pregnancy with husband Matt Kaplan - AOL.com",
+        "source": "The-independent.com",
+        "url": "https://www.the-independent.com/life-style/alex-cooper-pregnant-matt-kaplan-b2978171.html",
+        "description": "The couple has been married since April 2024",
+        "published": "1:45 PM UTC",
         "category": "General"
       }
     ]
@@ -182,9 +174,9 @@
       {
         "home": "Man United",
         "away": "Nottingham",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "IN_PLAY",
+        "home_score": 3,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "11:30 AM UTC",
         "date": "May 17",
         "highlighted": false
@@ -192,9 +184,9 @@
       {
         "home": "Brentford",
         "away": "Crystal Palace",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "May 17",
         "highlighted": false
@@ -202,9 +194,9 @@
       {
         "home": "Everton",
         "away": "Sunderland",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 3,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "May 17",
         "highlighted": false
@@ -212,9 +204,9 @@
       {
         "home": "Leeds United",
         "away": "Brighton Hove",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "May 17",
         "highlighted": false
@@ -222,9 +214,9 @@
       {
         "home": "Wolverhampton",
         "away": "Fulham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "May 17",
         "highlighted": false
@@ -232,9 +224,9 @@
       {
         "home": "Newcastle",
         "away": "West Ham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 3,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "4:30 PM UTC",
         "date": "May 17",
         "highlighted": false
@@ -247,6 +239,26 @@
         "status": "TIMED",
         "time": "7:00 PM UTC",
         "date": "May 18",
+        "highlighted": false
+      },
+      {
+        "home": "Bournemouth",
+        "away": "Man City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "6:30 PM UTC",
+        "date": "May 19",
+        "highlighted": false
+      },
+      {
+        "home": "Chelsea",
+        "away": "Tottenham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:15 PM UTC",
+        "date": "May 19",
         "highlighted": false
       }
     ],
@@ -322,74 +334,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for Bundesliga Striker as Offensive Cover Priority",
-        "summary": "Arsenal are understood to be in serious discussions over a January or summer move for a proven Bundesliga goal-scorer, with the club seeking depth after injuries disrupted their attacking options mid-season. Personal terms are reported to be the remaining sticking point as the Gunners look to bolster their title challenge.",
+        "headline": "Liverpool Target Athletic Club Midfielder Amid Midfield Depth Concerns",
+        "summary": "Liverpool are reportedly monitoring Athletic Club's Oihan Sancet as Arne Slot looks to add a dynamic box-to-box option in January, with the Basque club holding firm on their valuation north of £45 million.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Liverpool",
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Chelsea Target Midfield Reinforcement with Ligue 1 Playmaker on Radar",
-        "summary": "Chelsea's recruitment team have identified a creative central midfielder from Ligue 1 as a potential addition in the coming transfer window, with the player entering the final 18 months of his contract. The Blues face competition from Atletico Madrid, though Chelsea's willingness to move quickly may prove decisive.",
+        "headline": "Chelsea Revive Interest in Sporting CP Striker Viktor Gyokeres",
+        "summary": "Chelsea are understood to have re-engaged discussions over Viktor Gyokeres, whose prolific form in the Primeira Liga has attracted a queue of top European clubs, though Sporting's asking price of over £85 million remains a sticking point.",
         "clubs": [
           "Chelsea",
-          "AS Monaco"
+          "Sporting CP"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
+      "home": "Arsenal",
+      "away": "Manchester City",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits two title contenders against each other at the Etihad in what promises to be a tactically fascinating contest. City have been grinding results despite an inconsistent run of form, while Liverpool arrive buoyed by back-to-back league wins and the momentum of a settled, high-pressing system under their manager. The outcome could prove pivotal in the title race, with dropped points for either side gifting the chasing pack vital ground.",
+      "preview": "The Emirates hosts what is shaping up to be the defining fixture of the Premier League season so far, as an in-form Arsenal look to extend their lead at the top against a Manchester City side still searching for the defensive solidity that defined their recent dynasty. Arsenal's high press under Arteta has been relentless this campaign, and City's injury-disrupted backline could be exposed in transition. With title momentum, Pep Guardiola's tactical response, and a ferocious home atmosphere all in play, this fixture carries unmistakable weight at both ends of the table.",
       "key_players": [
+        "Bukayo Saka",
         "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
+        "Martin Odegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; potential return within 7-10 days if scan results are positive"
+        "status": "Recovering",
+        "return": "Long-term — unlikely before late spring"
       },
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Expected to return to full training within two weeks; targeting next home fixture"
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Expected to be assessed Friday; possible return within 1-2 weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank estimates the following for a corporate loan portfolio: Probability of Default (PD) = 2.5%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. Additionally, the bank estimates an Unexpected Loss (UL) of $850,000. Which of the following best describes the purpose of economic capital in this context?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Credit Analysis",
+      "question": "An analyst is valuing a callable corporate bond using a binomial interest rate tree. The bond has a 6% coupon, matures in 3 years, and is callable at par after year 1. The option-adjusted spread (OAS) of this bond is 85 bps, while the z-spread is 120 bps. Which of the following statements best explains the difference between the two spreads?",
       "options": {
-        "A": "Economic capital covers the Expected Loss (EL) and is funded through loan loss provisions set aside each quarter.",
-        "B": "Economic capital is held to absorb Unexpected Losses beyond the Expected Loss, protecting the bank against insolvency at a given confidence level.",
-        "C": "Economic capital equals the product of PD, LGD, and EAD and represents the minimum regulatory capital required under Basel III.",
-        "D": "Economic capital is equivalent to the Value at Risk of the portfolio measured at a 95% confidence interval over a one-day horizon."
+        "A": "The OAS is lower than the z-spread because the call option benefits the issuer, and the OAS removes the value of that embedded option from the spread.",
+        "B": "The OAS is lower than the z-spread because the bondholder receives a higher coupon to compensate for prepayment risk, inflating the z-spread.",
+        "C": "The z-spread is higher because it reflects default risk only, while the OAS incorporates both default risk and interest rate volatility.",
+        "D": "The difference of 35 bps represents the credit spread of the bond, while the OAS represents the liquidity premium alone."
       },
-      "correct": "B",
-      "explanation": "Economic capital is the internally estimated capital a bank holds to cover Unexpected Losses (UL), not Expected Losses (EL). EL = PD × LGD × EAD = 0.025 × 0.45 × $10,000,000 = $112,500, which is covered through loan loss provisions and pricing. Economic capital buffers the institution against losses that exceed EL at a high confidence level (e.g., 99.9%), ensuring solvency under adverse scenarios. Regulatory capital under Basel III (Option C) is a related but distinct concept set by regulators rather than internal models."
+      "correct": "A",
+      "explanation": "For a callable bond, the z-spread overstates the compensation for credit and liquidity risk because it does not adjust for the embedded call option that benefits the issuer (and disadvantages the bondholder). The OAS strips out the option cost, leaving only the spread attributable to credit risk, liquidity, and other non-option factors. The difference (120 − 85 = 35 bps) represents the option cost embedded in the bond's price. A lower OAS relative to z-spread is the expected relationship for callable bonds."
     },
     "finance_topic": {
-      "title": "Basis Risk and Its Hidden Portfolio Dangers",
-      "subtitle": "Basis risk arises when a hedge does not perfectly offset the exposure it is designed to protect, creating residual profit-and-loss volatility even in a 'hedged' portfolio.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why perfect hedges are theoretical constructs and how basis risk quietly erodes real-world risk management strategies.",
       "paragraphs": [
-        "Basis risk is defined as the risk that the price of a hedging instrument and the price of the underlying exposure do not move in perfect tandem. It emerges whenever a hedger uses a proxy instrument — such as a futures contract on a related but non-identical asset, or a swap referencing a slightly different tenor — rather than an exact offset. Mathematically, basis is expressed as the difference between the spot price of the asset being hedged and the futures (or hedge instrument) price. When this difference narrows or widens unexpectedly, the hedge becomes imperfect and residual risk remains.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures (WTI or Brent), since no liquid jet fuel futures market exists. If crude oil prices fall but jet fuel refining margins widen simultaneously — perhaps due to a refinery outage — the airline's hedge provides less relief than anticipated. Similarly, a fixed-income portfolio manager hedging a corporate bond portfolio with Treasury futures faces basis risk because corporate spreads can widen independently of moves in the risk-free rate, a dynamic that became painfully apparent during the March 2020 COVID liquidity shock.",
-        "For risk managers and portfolio managers, basis risk demands careful tracking of the correlation between the hedging instrument and the underlying exposure over time, particularly during stress periods when correlations are known to break down. A hedge ratio based on historical correlation may become unreliable precisely when protection is most needed. Best practice involves regularly re-estimating hedge ratios, stress-testing hedge effectiveness under adverse spread scenarios, and explicitly reporting residual basis risk as part of portfolio risk attribution rather than treating a 'hedged' book as risk-free."
+        "Basis risk arises when the hedge instrument and the exposure being hedged do not move in perfect lockstep. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a hedge is carefully constructed, differences in asset quality, geographic location, contract maturity, or liquidity mean that the two legs of the trade will rarely offset each other with perfect precision. This residual, unhedged risk is basis risk — a fundamental constraint that every risk manager must quantify and monitor.",
+        "A classic real-world example involves an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil are related but distinct commodities, price movements do not correlate perfectly. During periods of refinery disruption or regional supply shocks, the crack spread — the margin between crude and refined products — can widen dramatically, causing the hedge to underperform or even amplify losses. Similarly, a bond portfolio manager using 10-year Treasury futures to hedge a portfolio of investment-grade corporates faces basis risk from the credit spread component, which futures cannot hedge.",
+        "For investors and risk managers, basis risk demands that hedges be stress-tested under scenarios where correlations break down — precisely the moments when protection is most needed. Regulators and internal risk frameworks increasingly require firms to disclose residual basis risk as a separate risk category. Practitioners often use regression-based hedge ratios (minimum variance hedges) to minimize expected basis risk, but the underlying message is clear: hedging transforms price risk into basis risk, and the quality of a hedge is ultimately judged by how small and stable that basis is over time."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining when a hedge instrument does not perfectly track the underlying exposure, and it can be significant even in well-constructed hedges.",
-        "Correlations between hedge instruments and underlying exposures tend to break down during market stress, meaning basis risk is highest exactly when hedges are most relied upon.",
-        "Risk managers should measure, report, and stress-test basis risk separately rather than assuming a hedged position carries zero risk."
+        "Basis risk is the residual risk remaining after a hedge is applied, arising from imperfect correlation between the hedged asset and the hedging instrument.",
+        "Cross-commodity, cross-currency, and maturity mismatches are the most common structural sources of basis risk in institutional portfolios.",
+        "Minimum-variance hedge ratios and regular hedge effectiveness testing are essential tools for managing and disclosing basis risk under IFRS 9 and ASC 815 accounting standards."
       ]
     },
     "japanese": {
@@ -398,32 +410,32 @@
       "meaning": "budget; financial plan",
       "part_of_speech": "noun",
       "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) is used to express that an action has been completed, often with a nuance of regret or finality — something is 'done and finished,' sometimes unexpectedly or unfortunately. It combines the te-form of a verb with しまう (to finish/end up doing).",
-      "memory_tip": "Imagine a 'yo-yo' and a 'sandwich' (yo-san) — your budget goes up and down like a yo-yo, and by the end of the month it has been eaten like a sandwich. 予 (yo) means 'in advance / plan' and 算 (san) means 'calculation' — a pre-calculation of money."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまいました to indicate something is done and cannot be undone.",
+      "memory_tip": "Think of 予算 as 'yo, I need a SAN(e) plan for my money' — YO-SAN sounds like you're calling out for a sensible financial plan. The characters 予 (beforehand) + 算 (calculation) literally mean 'pre-calculation,' which is exactly what a budget is."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping Fixed Income Research and Portfolio Construction",
-      "summary": "Large asset managers including BlackRock, PIMCO, and several bulge-bracket banks are now deploying multi-agent AI systems capable of ingesting earnings call transcripts, central bank communications, and macroeconomic data simultaneously to generate credit and rate views with minimal human input at the first-pass stage. Unlike earlier NLP tools that simply flagged sentiment, these agentic systems can reason across data sources, form conditional scenarios, and draft investment memos that analysts then review and refine. The efficiency gain is estimated at 40-60% reduction in time-to-insight for credit research workflows, allowing analyst capacity to shift toward higher-order judgment calls. Regulators in the UK and EU are beginning to scrutinize AI-generated investment recommendations for accountability and explainability requirements.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Institutional Trading Workflows",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step execution without human intervention at each step — is moving from research labs into financial operations. Major asset managers and hedge funds are piloting systems where AI agents autonomously gather macro data, run quantitative screens, draft trade rationale, and route orders for human approval, compressing workflows that once took analyst teams hours into minutes. Unlike traditional automation or RPA, these agents can adapt dynamically to new information mid-task, making them qualitatively different from rule-based systems. The practical implication is not mass replacement of analysts but a steep increase in the analyst-to-task ratio, raising serious questions about oversight, auditability, and model governance.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan, take sequential actions, and use external tools (like databases or APIs) to accomplish a multi-step goal — in finance, this might mean an agent that independently retrieves bond data, runs a model, and drafts a credit memo without step-by-step human instruction."
+          "definition": "AI systems that can autonomously break down a complex goal into sub-tasks, use external tools (databases, APIs, code execution), and iterate toward a solution — relevant in finance for automating multi-step research and compliance workflows."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI language model is connected to a live or curated database so it can retrieve relevant facts before generating its response — allowing finance applications to ground AI outputs in actual filings, term sheets, or market data rather than relying solely on pre-trained knowledge."
+          "definition": "A technique where an AI model queries a live external knowledge base before generating a response, allowing it to answer questions based on current filings, market data, or internal documents rather than relying solely on training data."
         },
         {
-          "term": "Explainability (XAI)",
-          "definition": "The ability of an AI model to provide human-understandable reasons for its outputs — critical in regulated finance contexts where decisions on credit, trading, or risk must be auditable and defensible to regulators and compliance officers."
+          "term": "Model Governance",
+          "definition": "The policies, validation processes, and audit trails that firms use to ensure AI and ML models are accurate, fair, explainable, and compliant — increasingly required by regulators like the SEC and ECB for models used in trading or credit decisions."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design workflows around AI agents — knowing what tasks to delegate, how to validate AI outputs, and how to communicate AI-generated insights to clients and regulators — will command a growing premium over those who simply use AI as a search tool. The highest-value skill combination emerging is domain expertise (credit, rates, risk) plus AI fluency: being able to critically interrogate a model's output, not just consume it. Roles in model validation, AI governance, and quantitative research are seeing the strongest demand as firms race to deploy responsibly."
+      "career_insight": "Finance professionals who can act as effective 'AI orchestrators' — defining tasks clearly, evaluating AI outputs critically, and maintaining governance standards — are becoming the most valuable human layer in automated workflows. Deep domain expertise in credit, rates, or risk is not becoming obsolete; it is becoming the essential quality-control mechanism that prevents AI errors from becoming costly mistakes. Building fluency in prompt engineering, output validation, and model risk concepts alongside traditional CFA/FRM skills is the highest-leverage career investment for the next five years."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a resilient U.S. labor market print against a backdrop of fading rate-cut expectations, with the Fed funds futures curve now pricing fewer than two cuts through year-end — a meaningful repricing from earlier consensus. The dollar has strengthened modestly, pressuring EM currencies and commodities, while credit spreads in investment-grade have held tight, suggesting corporate balance sheets are still viewed as robust despite higher-for-longer financing costs. Eyes turn to upcoming CPI data and ECB commentary as the key catalysts that could break the current range-bound equities regime; vol remains suppressed but the skew in options markets hints that downside protection is quietly being accumulated."
+    "market_sentiment": "Risk assets are navigating a cautious tug-of-war as markets reprice the Fed's terminal rate path following a hotter-than-expected services inflation print, with the 2-year Treasury yield climbing back toward 4.90% and inverting the curve further. Equities are showing resilience at the index level, but breadth is narrowing — mega-cap tech is carrying the S&P 500 while rate-sensitive sectors like regional banks and REITs face renewed selling pressure. Macro desks are watching the dollar closely; a sustained DXY breakout above 106 would likely tighten financial conditions meaningfully for EM and commodity markets, adding another headwind to an already fragile global growth picture."
   }
 }
