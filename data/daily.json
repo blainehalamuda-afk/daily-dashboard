@@ -1,37 +1,37 @@
 {
-  "generated_at": "2:12 PM UTC",
-  "date": "Friday, May 22, 2026",
+  "generated_at": "12:56 PM UTC",
+  "date": "Saturday, May 23, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 65,
-    "feels_like_f": 66,
-    "high_f": 68,
-    "low_f": 62,
+    "temp_f": 62,
+    "feels_like_f": 63,
+    "high_f": 64,
+    "low_f": 60,
     "description": "Mist",
     "icon": "🌫️",
-    "humidity": 94,
-    "wind_mph": 11,
+    "humidity": 97,
+    "wind_mph": 7,
     "forecast": [
       {
-        "day": "Sat",
-        "icon": "🌧️",
-        "high": 66,
-        "low": 66,
-        "description": "Light Rain"
-      },
-      {
         "day": "Sun",
-        "icon": "🌧️",
-        "high": 67,
-        "low": 67,
-        "description": "Light Rain"
+        "icon": "☁️",
+        "high": 62,
+        "low": 62,
+        "description": "Overcast Clouds"
       },
       {
         "day": "Mon",
         "icon": "☁️",
-        "high": 70,
-        "low": 70,
+        "high": 68,
+        "low": 68,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "☁️",
+        "high": 68,
+        "low": 68,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 746.18,
-        "change": 3.46,
-        "change_pct": 0.47,
+        "price": 745.64,
+        "change": 2.92,
+        "change_pct": 0.39,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 308.94,
-        "change": 3.95,
-        "change_pct": 1.3,
+        "price": 308.82,
+        "change": 3.83,
+        "change_pct": 1.26,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 217.17,
-        "change": -2.34,
-        "change_pct": -1.07,
+        "price": 215.33,
+        "change": -4.18,
+        "change_pct": -1.9,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 423.51,
-        "change": 5.66,
-        "change_pct": 1.35,
+        "price": 426.01,
+        "change": 8.16,
+        "change_pct": 1.95,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77120.13,
-        "change": 4.84,
-        "change_pct": 0.01,
-        "up": true,
+        "price": 74732.55,
+        "change": -2723.7,
+        "change_pct": -3.52,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2126.27,
-        "change": 5.18,
-        "change_pct": 0.24,
-        "up": true,
+        "price": 2031.37,
+        "change": -101.83,
+        "change_pct": -4.77,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,58 +111,159 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: SoftBank Stock Surges on OpenAI IPO News — Live Markets - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-21-2026",
-        "description": "",
-        "published": "12:12 PM UTC",
+        "title": "What the AvalonBay, Equity Residential megamerger means for the apartment industry and rents - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/05/22/avalonbay-equity-residential-apartment-merger.html",
+        "description": "The deal will create one of the largest real estate companies in the U.S., with more than 180,000 rental apartments.",
+        "published": "11:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Tehran issues threats as Trump pushes for deal - Fox News",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/trump-iran-war-israel-may-21",
-        "description": "Iran is reviewing the latest peace proposal from President Donald Trump on Thursday as he warns more military action is still on the table.",
-        "published": "11:55 AM UTC",
+        "title": "As bullish bets surge, here’s the Goldman Sachs options play to protect portfolios from the likely pullback - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/as-bullish-bets-surge-heres-the-option-play-to-protect-portfolios-from-a-likely-pullback-says-goldman-sachs-e0f1017a",
+        "description": "Materials, tech and energy sectors offer an attractive hedging opportunity",
+        "published": "10:53 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Walmart says U.S. consumers are under pressure from rising costs - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/consumer/walmart-quarterly-earnings-fuel-costs-rcna345914",
-        "description": "Walmart reported positive earnings, but U.S. consumers are struggling with rising costs.",
-        "published": "11:44 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "How to Get Free Ultron Cybernetic Drip Skin in Marvel Rivals - Beebom",
-        "source": "Beebom",
-        "url": "https://beebom.com/how-to-get-free-ultron-cybernetic-drip-skin-in-marvel-rivals/",
-        "description": "Learn how to unlock the free Ultron Cybernetic Drip Skin available as part of the Savage Adventure event in Marvel Rivals here.",
-        "published": "10:48 AM UTC",
+        "title": "IN BRIEF: Frontier Developments stock up on new Warhammer game launch - London South East",
+        "source": "London South East",
+        "url": "https://www.lse.co.uk/news/in-brief-frontier-developments-stock-up-on-new-warhammer-game-launch-jjvylje3akw5hgp.html",
+        "description": "IN BRIEF: Frontier Developments stock up on new Warhammer game launch | Financial News",
+        "published": "11:30 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Subnautica 2 dev apologises for telling combat-seeking players to \"go play Sons of the Forest or something\" - Eurogamer",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/subnautica-2-combat-response-update",
-        "description": "A desire for self-defence in the underwater survival game comes from some mechanics not working well enough yet, Subnautica 2 developer Unknown Worlds explains.",
-        "published": "9:36 AM UTC",
+        "title": "Warhammer 40,000 Video Game Crossover Event – Tacticus and Dawn of War IV | Warhammer Skulls 2026 - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/videos/6qylarrs/warhammer-40000-video-game-crossover-event-tacticus-and-dawn-of-war-iv-warhammer-skulls-2026",
+        "description": "War escalates in Warhammer 40,000: Tacticus with the Warhammer 40,000: Dawn of War IV crossover!\n\nTake on the Primarch of the Dark Angels, Lion El’Jonson, as he enters the fray as a new Guild Raid bos",
+        "published": "10:04 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Pokemon Japan to Require Government ID for Select TCG Purchases, Limiting Access for Scalpers and Overseas Buyers - PokeBeach",
-        "source": "Pokebeach.com",
-        "url": "https://www.pokebeach.com/2026/05/pokemon-japan-to-implement-government-id-verification-for-pokemon-tcg-purchases-on-pokemon-center-online",
-        "description": "To combat scalping, Pokemon Japan has announced that starting around August 2026, customers will need to verify their identity using the government-issued",
-        "published": "5:34 AM UTC",
+        "title": "Why cruise ships are sailing to a phantom destination that doesn’t appear on any map - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/travel/visiting-null-island-cruises",
+        "description": "Null Island isn’t an actual place. But that hasn’t stopped a small number of cruises from taking intrepid tourists to visit its location: 0 degrees latitude and longitude.",
+        "published": "9:03 AM UTC",
         "category": "Technology"
+      },
+      {
+        "title": "Pep Guardiola: 11 players he turned into stars at Manchester City - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/c0e757ewz23o",
+        "description": "BBC Sport takes a look at 11 players who had their careers shaped by Pep Guardiola during his 10 season as at Manchester City.",
+        "published": "10:34 AM UTC",
+        "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [],
+    "matches": [
+      {
+        "home": "Sunderland",
+        "away": "Chelsea",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      },
+      {
+        "home": "Brighton Hove",
+        "away": "Man United",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      },
+      {
+        "home": "Crystal Palace",
+        "away": "Arsenal",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      },
+      {
+        "home": "Burnley",
+        "away": "Wolverhampton",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      },
+      {
+        "home": "Fulham",
+        "away": "Newcastle",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      },
+      {
+        "home": "Liverpool",
+        "away": "Brentford",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      },
+      {
+        "home": "Man City",
+        "away": "Aston Villa",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      },
+      {
+        "home": "Nottingham",
+        "away": "Bournemouth",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      },
+      {
+        "home": "Tottenham",
+        "away": "Everton",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      },
+      {
+        "home": "West Ham",
+        "away": "Leeds United",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "May 24",
+        "highlighted": false
+      }
+    ],
     "standings": [
       {
         "position": 1,
@@ -235,74 +336,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Tracking Bundesliga Striker as Firmino Replacement Profile Emerges",
-        "summary": "Arsenal's recruitment team has been linked with a mobile, pressing-forward profile to provide depth and rotation behind their first-choice attackers, with reports suggesting a summer approach is being planned ahead of the transfer window opening.",
+        "headline": "Liverpool Target Bundesliga Midfielder as Gravenberch Cover Sought",
+        "summary": "Liverpool's recruitment team is reportedly tracking Borussia Dortmund's Emre Can-era successor in midfield as Arne Slot seeks greater depth and ball-winning capability in the engine room ahead of the January window. Personal terms are said to be straightforward, with the fee the primary sticking point between clubs.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Liverpool",
+          "Borussia Dortmund"
         ]
       },
       {
-        "headline": "Manchester City Open to Offloading Fringe Midfielder in January as Contract Talks Stall",
-        "summary": "A Manchester City midfielder whose first-team minutes have dwindled significantly is understood to be available for loan or permanent sale in January, with several mid-table Premier League clubs monitoring the situation closely.",
+        "headline": "Chelsea Open Talks for 22-Year-Old Serie A Centre-Back",
+        "summary": "Chelsea are understood to have made initial contact with the representatives of a highly-rated Italian defender as Todd Boehly's recruitment team continues to overhaul the club's defensive options, with at least one senior centre-back potentially leaving Stamford Bridge in the coming weeks. Inter Milan are also monitoring the situation.",
         "clubs": [
-          "Manchester City",
-          "Aston Villa"
+          "Chelsea",
+          "Inter Milan"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Chelsea",
+      "home": "Arsenal",
+      "away": "Manchester City",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "Anfield hosts one of the fixture list's most compelling clashes as league-leading Liverpool welcome a Chelsea side that has quietly assembled a strong points tally under their manager and arrives in genuine top-four contention. Liverpool's home record has been fortress-like this season, but Chelsea's energetic pressing game and depth in wide areas poses a legitimate threat to a Liverpool defensive line that has shown occasional vulnerability to pace in behind. The storyline around former Liverpool academy products in Chelsea's squad adds an extra edge to what promises to be an intense, open contest with significant title-race and European qualification implications.",
+      "preview": "This fixture arrives at a pivotal moment in the title race, with Arsenal looking to close the gap on the top of the table and City seeking to reaffirm their credentials after a run of inconsistent performances. Mikel Arteta's side have been imperious at the Emirates this season, pressing with relentless intensity and converting chances at an elite rate, while Pep Guardiola will look to Rodri's midfield successor to control tempo and limit Arsenal's transition opportunities. The tactical battle in the middle third — and who wins the second-ball duels — is likely to be the decisive factor in what promises to be the defining fixture of the winter calendar.",
       "key_players": [
-        "Mohamed Salah",
-        "Cole Palmer",
-        "Virgil van Dijk"
+        "Bukayo Saka",
+        "Erling Haaland",
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Season-ending ACL injury; not expected to return until pre-season 2025"
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Recovering",
+        "return": "Expected back in 3–4 weeks; targeting return before end of January"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Hamstring concern; being assessed day-to-day ahead of the weekend fixture"
+        "return": "Assessed daily ahead of weekend fixture; hamstring tightness flagged in training"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Credit Analysis",
-      "question": "An analyst is valuing a callable corporate bond using an option-adjusted spread (OAS) framework. The bond has a nominal spread of 185 bps over the benchmark Treasury. The value of the embedded call option is estimated at 42 bps. Which of the following best describes the OAS and its interpretation?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank holds a portfolio of corporate bonds. Under the Basel III framework, which of the following best describes the purpose of the Credit Valuation Adjustment (CVA)?",
       "options": {
-        "A": "OAS = 227 bps; it represents the spread earned if the issuer exercises the call at the worst time for the investor.",
-        "B": "OAS = 143 bps; it represents the spread over the benchmark after removing the value of the embedded option, reflecting pure credit and liquidity risk.",
-        "C": "OAS = 143 bps; it represents the yield advantage the investor demands solely for the issuer's credit risk, excluding liquidity.",
-        "D": "OAS = 185 bps; the embedded call does not affect the spread because it is already priced into the coupon rate."
+        "A": "It measures the probability that a counterparty will default before the maturity of the contract.",
+        "B": "It represents the market value of counterparty credit risk, reflecting the expected loss due to potential counterparty default.",
+        "C": "It is a regulatory capital charge applied uniformly to all OTC derivatives regardless of counterparty creditworthiness.",
+        "D": "It adjusts the risk-free discount rate used to value bond cash flows for liquidity premiums."
       },
       "correct": "B",
-      "explanation": "The OAS is calculated as the nominal spread minus the option cost: 185 bps − 42 bps = 143 bps. For a callable bond, the issuer owns the call option, which benefits the issuer at the investor's expense; therefore the option cost is subtracted from the nominal spread to isolate the compensation for credit and liquidity risk. OAS allows for apples-to-apples comparison across bonds with different embedded options. Option C is incorrect because OAS captures both credit and liquidity risk, not credit alone."
+      "explanation": "CVA is defined as the market value of counterparty credit risk — it is the difference between the risk-free portfolio value and the true portfolio value that accounts for the possibility of counterparty default. Unlike a simple probability of default metric, CVA incorporates exposure at default, loss given default, and the probability of default over the life of the instrument. Basel III introduced a CVA capital charge specifically to capture mark-to-market losses on OTC derivatives arising from counterparty credit deterioration, not just actual default events. Option A describes only PD, and Option C incorrectly implies uniformity across counterparties."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as a Systemic Force",
-      "subtitle": "Direct lending and private credit markets have grown into a $1.7 trillion asset class, reshaping how corporate debt is originated and held.",
+      "title": "The Mechanics of Basis Risk in Hedging",
+      "subtitle": "Why an imperfect hedge can sometimes create more risk than it eliminates.",
       "paragraphs": [
-        "Private credit refers to non-bank lending arranged directly between institutional investors — primarily private equity-backed funds, insurance companies, and pension funds — and corporate borrowers, bypassing traditional syndicated loan or bond markets. The asset class encompasses direct lending, mezzanine finance, distressed debt, and specialty finance, typically offering floating-rate, senior-secured loans to middle-market companies. Its expansion has been turbocharged by Basel III capital requirements that pushed banks to retreat from leveraged lending, creating a structural gap that alternative lenders eagerly filled.",
-        "The growth has been staggering: from roughly $400 billion in assets under management in 2015 to an estimated $1.7 trillion globally by 2024, with managers like Ares, Blue Owl, and Apollo deploying tens of billions annually. During the 2022–2023 rate hiking cycle, private credit funds benefited directly as floating-rate coupons reset higher, delivering net yields of 11–13% to investors — far exceeding public high-yield bonds on a risk-adjusted basis at the time. Major blue-chip companies, not just middle-market firms, began tapping private credit markets for large 'club deals' in the billions.",
-        "For risk managers and institutional allocators, private credit introduces unique challenges: illiquidity risk (lock-up periods of 5–7 years are common), mark-to-model valuation that can obscure true volatility, and concentration risk tied to sponsor relationships in private equity. Covenant-lite structures, increasingly common even in private markets, reduce lender protections. Regulators at the FSB and IMF have flagged interconnectedness risks, particularly where banks provide leverage to private credit funds — meaning stress in the asset class could transmit to the traditional financial system in ways not yet fully stress-tested."
+        "Basis risk arises when the asset being hedged and the instrument used to hedge it do not move in perfect lockstep. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging instrument. When a company hedges jet fuel exposure using crude oil futures, for example, the hedge is cross-commodity, and any divergence in the price relationship between jet fuel and crude oil represents basis risk. Unlike outright price risk, basis risk is often subtler — it doesn't disappear with a well-structured hedge; it simply transforms price risk into a narrower, more specific form of uncertainty.",
+        "A classic real-world illustration occurred during the 2021–2022 energy crisis in Europe. Many utilities and industrial firms had hedged their natural gas exposure using forward contracts on hub-priced natural gas, but the physical supply they relied on was priced off different regional indices. As pipeline constraints and LNG supply dislocations caused regional spreads to widen dramatically, companies found that their hedges were not moving in line with their actual cost base — the basis had blown out. Firms that had assumed stable basis relationships suffered significant unexpected losses despite being 'hedged' on paper.",
+        "For risk managers and investors, basis risk demands careful attention to the correlation structure between the hedge instrument and the underlying exposure, and how that correlation may change under stress. Hedge effectiveness testing — required under both IFRS 9 and ASC 815 — is designed to ensure that the economic relationship between the hedging instrument and the hedged item remains robust. Practitioners should model basis risk explicitly in their VaR frameworks, stress test basis widening scenarios, and consider rolling shorter-dated contracts to reduce cumulative basis drift over long hedge horizons."
       ],
       "key_takeaways": [
-        "Private credit has grown to ~$1.7T AUM by filling the void left by bank retreat from leveraged lending post-Basel III.",
-        "Floating-rate structures made private credit a major beneficiary of the 2022–2024 rate hiking cycle, generating double-digit yields.",
-        "Illiquidity, mark-to-model opacity, and regulatory scrutiny of bank-fund leverage are the key risk management concerns for allocators."
+        "Basis risk is the residual risk remaining after hedging, arising from imperfect correlation between the hedge and the underlying exposure.",
+        "Basis can widen sharply during market dislocations, turning a seemingly effective hedge into a source of unexpected loss.",
+        "Rigorous hedge effectiveness testing and explicit stress scenarios for basis widening are essential components of any enterprise risk management framework."
       ]
     },
     "japanese": {
@@ -314,29 +415,29 @@
       "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
       "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It is the polite past form of 〜てしまう.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the sum of money you've set aside. Picture yourself counting coins and saying 'this is YOUR SUM for the month!'"
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or an unintended result. It combines the te-form of a verb with しまいました to convey 'ended up doing something' or 'unfortunately did something.'",
+      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead!' and 算 (san) as 'calculate' — a budget is your plan-ahead calculation. Imagine a stressed accountant yelling 'Yo, SAN-ity check the numbers!' before overspending."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Automate Entire Financial Workflows End-to-End",
-      "summary": "A new generation of agentic AI systems — where multiple specialized AI models collaborate autonomously across tasks — is moving from research labs into live financial workflows. Firms including JPMorgan, Bloomberg, and several hedge funds are deploying agents that can autonomously retrieve earnings data, run valuation models, draft investment memos, and flag compliance issues within a single orchestrated pipeline. Unlike single-prompt LLMs, these multi-agent architectures can decompose complex financial research tasks into subtasks handled by specialist models, dramatically reducing analyst time on lower-value work. The key bottleneck shifting from 'can AI do this?' to 'how do we govern and audit what AI does autonomously?'",
+      "headline": "AI Agents Are Quietly Replacing Junior Analysts in Credit Research",
+      "summary": "A new wave of autonomous AI agents — systems capable of multi-step reasoning, tool use, and iterative self-correction — is beginning to automate tasks that previously required a junior analyst: pulling financial statements, running ratio analysis, summarizing credit agreements, and flagging covenant breaches. Major asset managers and bulge-bracket banks are piloting agentic workflows where a single prompt can trigger a full credit memo draft with sourced data. The productivity differential between firms deploying these systems and those that have not is expected to widen materially over the next 18–24 months. Unlike earlier NLP tools that required heavy human review, the latest agent architectures reduce hallucination rates through retrieval-augmented generation and structured output validation.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that autonomously plans and executes multi-step tasks — such as pulling data, running calculations, and generating reports — without requiring a human prompt at each step, using tools and memory to complete complex workflows."
+          "definition": "An AI system that can autonomously plan and execute multi-step tasks — like retrieving data, performing calculations, and drafting reports — without requiring a human prompt at each stage, analogous to a self-directed junior analyst."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant, up-to-date documents or data (e.g., filings, market data, internal research) before generating a response, ensuring outputs are grounded in current facts rather than only training data — critical for financial accuracy."
+          "definition": "A technique that grounds an AI's responses in real, retrieved documents (e.g., SEC filings, earnings transcripts) rather than relying solely on training data, dramatically reducing factual errors in financial analysis outputs."
         },
         {
-          "term": "Model Governance",
-          "definition": "The framework of policies, audit trails, validation processes, and human oversight mechanisms that ensure AI models used in financial decisions are accurate, explainable, fair, and compliant with regulatory requirements such as SR 11-7."
+          "term": "Structured Output Validation",
+          "definition": "A method of constraining AI outputs to conform to predefined schemas or formats — such as financial templates or JSON — ensuring that generated content is machine-readable, auditable, and less prone to inconsistency in regulated finance workflows."
         }
       ],
-      "career_insight": "Finance professionals who understand how to scope, prompt, evaluate, and govern AI agents — not just use them — will command significant career premiums over the next three to five years. The highest-value skill is not coding but rather the ability to translate complex financial judgment into structured workflows that AI can execute reliably, then audit those outputs critically. Risk, compliance, and audit functions are seeing the fastest AI adoption pressure, making AI literacy in those domains an immediate career differentiator."
+      "career_insight": "Finance professionals who understand how to design, supervise, and quality-control agentic AI workflows — rather than simply using AI as a search engine — will command a significant premium in the next hiring cycle. The most resilient career positioning combines domain expertise in credit, risk, or capital markets with the ability to architect AI-assisted workflows and critically evaluate model outputs. Prompt engineering is becoming a baseline skill; workflow orchestration and AI governance literacy are the emerging differentiators."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a complex cross-current as markets digest resilient US labor data pushing Fed cut expectations further into 2025, while a soft-landing narrative continues to underpin equity multiples near historically stretched levels. Treasury yields have stabilized in the 4.40–4.60% range on the 10-year after the latest CPI print showed core services inflation proving stickier than expected, keeping the dollar bid and pressuring EM carry trades. Credit spreads remain remarkably compressed — IG at roughly 95 bps and HY below 300 bps — suggesting either genuine fundamental strength or a market complacent about tail risks including geopolitical escalation, commercial real estate stress, and the upcoming US fiscal ceiling debate."
+    "market_sentiment": "Risk appetite remains cautiously constructive this morning as markets digest a resilient U.S. labor market print against a backdrop of stubbornly sticky services inflation, keeping Fed rate-cut expectations anchored to the back half of the year with roughly two cuts priced for 2025. The dollar index has edged higher, weighing on EM currencies and commodities, while credit spreads in investment-grade remain tight — a sign that institutional money has not yet rotated defensively despite elevated equity valuations. Watch the long end of the Treasury curve closely: any further steepening driven by term premium repricing could act as an unexpected headwind for duration-heavy portfolios and rate-sensitive equities in the sessions ahead."
   }
 }
