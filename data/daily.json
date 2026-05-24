@@ -1,37 +1,37 @@
 {
   "generated_at": "12:56 PM UTC",
-  "date": "Saturday, May 23, 2026",
+  "date": "Sunday, May 24, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 62,
-    "feels_like_f": 63,
-    "high_f": 64,
-    "low_f": 60,
+    "temp_f": 60,
+    "feels_like_f": 60,
+    "high_f": 61,
+    "low_f": 58,
     "description": "Mist",
     "icon": "🌫️",
     "humidity": 97,
-    "wind_mph": 7,
+    "wind_mph": 6,
     "forecast": [
       {
-        "day": "Sun",
-        "icon": "☁️",
-        "high": 62,
-        "low": 62,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Mon",
-        "icon": "☁️",
+        "icon": "🌧️",
         "high": 68,
         "low": 68,
-        "description": "Overcast Clouds"
+        "description": "Light Rain"
       },
       {
         "day": "Tue",
-        "icon": "☁️",
+        "icon": "🌧️",
         "high": 68,
         "low": 68,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Wed",
+        "icon": "☁️",
+        "high": 69,
+        "low": 69,
         "description": "Overcast Clouds"
       }
     ]
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 74732.55,
-        "change": -2723.7,
-        "change_pct": -3.52,
-        "up": false,
+        "price": 77092.51,
+        "change": 2351.27,
+        "change_pct": 3.15,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2031.37,
-        "change": -101.83,
-        "change_pct": -4.77,
-        "up": false,
+        "price": 2119.64,
+        "change": 88.25,
+        "change_pct": 4.34,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,51 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "What the AvalonBay, Equity Residential megamerger means for the apartment industry and rents - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/22/avalonbay-equity-residential-apartment-merger.html",
-        "description": "The deal will create one of the largest real estate companies in the U.S., with more than 180,000 rental apartments.",
-        "published": "11:00 AM UTC",
+        "title": "Chrysler, Dodge, And Ram Have 9 New Models Coming By 2030. Here's All Of Them - Motor1.com",
+        "source": "Motor1 ",
+        "url": "https://www.motor1.com/news/796653/new-chrysler-dodge-ram-models-2030/",
+        "description": "Stellantis has an entire range of new products coming to the US, including new Chrysler SUVs, small Ram trucks, and even possibly a halo SRT model from Dodge.",
+        "published": "7:54 AM UTC",
         "category": "Business"
       },
       {
-        "title": "As bullish bets surge, here’s the Goldman Sachs options play to protect portfolios from the likely pullback - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/as-bullish-bets-surge-heres-the-option-play-to-protect-portfolios-from-a-likely-pullback-says-goldman-sachs-e0f1017a",
-        "description": "Materials, tech and energy sectors offer an attractive hedging opportunity",
-        "published": "10:53 AM UTC",
+        "title": "E. coli outbreak linked to California restaurant chain sickens nine people across state - San Francisco Chronicle",
+        "source": "San Francisco Chronicle",
+        "url": "https://www.sfchronicle.com/health/article/e-coli-outbreak-kebab-22272798.php",
+        "description": "State health officials linked the outbreak to ground beef kebabs from the Kebab Shop, a restaurant chain with nine locations in the Bay Area.",
+        "published": "10:39 PM UTC",
         "category": "Business"
       },
       {
-        "title": "IN BRIEF: Frontier Developments stock up on new Warhammer game launch - London South East",
-        "source": "London South East",
-        "url": "https://www.lse.co.uk/news/in-brief-frontier-developments-stock-up-on-new-warhammer-game-launch-jjvylje3akw5hgp.html",
-        "description": "IN BRIEF: Frontier Developments stock up on new Warhammer game launch | Financial News",
-        "published": "11:30 AM UTC",
+        "title": "'I got drafted': Inside Meta's push to move 7,000 staff into its AI task force - Business Insider",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/meta-ai-task-force-workers-2026-5",
+        "description": "Meta reassigned thousands of employees to a new AI task force during this week's layoffs. Some are anxious and confused about what comes next.",
+        "published": "9:46 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "The Team Behind The Flipper One Needs Your Help - Hackaday",
+        "source": "Hackaday",
+        "url": "https://hackaday.com/2026/05/22/the-team-behind-the-flipper-one-needs-your-help/",
+        "description": "You’ve probably heard of the Flipper Zero, a pocket-sized device that packs in lots of great hacking potential. The team behind it has now turned their efforts towards developing the Flipper …",
+        "published": "5:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Warhammer 40,000 Video Game Crossover Event – Tacticus and Dawn of War IV | Warhammer Skulls 2026 - Warhammer Community",
-        "source": "Warhammer-community.com",
-        "url": "https://www.warhammer-community.com/videos/6qylarrs/warhammer-40000-video-game-crossover-event-tacticus-and-dawn-of-war-iv-warhammer-skulls-2026",
-        "description": "War escalates in Warhammer 40,000: Tacticus with the Warhammer 40,000: Dawn of War IV crossover!\n\nTake on the Primarch of the Dark Angels, Lion El’Jonson, as he enters the fray as a new Guild Raid bos",
-        "published": "10:04 AM UTC",
+        "title": "First-gen Chromecast streamers are suddenly failing for some users, 13 years later - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/05/22/first-gen-chromecast-streamers-are-suddenly-failing-for-some-users-13-years-later/",
+        "description": "One of Google’s first true hit pieces of hardware, 2013’s Chromecast, is starting to stop working for some users are...",
+        "published": "2:49 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Why cruise ships are sailing to a phantom destination that doesn’t appear on any map - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/travel/visiting-null-island-cruises",
-        "description": "Null Island isn’t an actual place. But that hasn’t stopped a small number of cruises from taking intrepid tourists to visit its location: 0 degrees latitude and longitude.",
-        "published": "9:03 AM UTC",
+        "title": "Unannounced Apple headphones revealed in FCC documents - 9to5Mac",
+        "source": "9to5Mac",
+        "url": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/",
+        "description": "A new filing in the FCC database has revealed an unannounced Apple-made Bluetooth headphone. Here are the details.",
+        "published": "1:43 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Pep Guardiola: 11 players he turned into stars at Manchester City - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/football/articles/c0e757ewz23o",
-        "description": "BBC Sport takes a look at 11 players who had their careers shaped by Pep Guardiola during his 10 season as at Manchester City.",
-        "published": "10:34 AM UTC",
+        "title": "China Coal Mine Explosion Kills 90 in Deadliest Blast Since 2009 - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast",
+        "description": "The death toll from a gas explosion at a coal mine in China’s Shanxi province has jumped to at least 90 people, making it the country’s deadliest such incident since 2009.",
+        "published": "7:45 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "U.S. bans green-card holders from returning from Ebola-stricken countries - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/health/2026/05/22/us-bans-green-card-holders-returning-ebola-stricken-countries/",
+        "description": "Health officials cite public health and « resource constraints » as they expand travel restrictions.",
+        "published": "6:29 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Evacuation orders issued in California city over chemical tank: 'It fails or it blows up' - ABC News - Breaking News, Latest News and Videos",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/evacuation-orders-issued-california-city-chemical-tank-fails/story?id\\\\u003d133234846",
+        "description": "",
+        "published": "6:20 AM UTC",
         "category": "General"
       }
     ]
@@ -336,19 +360,19 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Liverpool Target Bundesliga Midfielder as Gravenberch Cover Sought",
-        "summary": "Liverpool's recruitment team is reportedly tracking Borussia Dortmund's Emre Can-era successor in midfield as Arne Slot seeks greater depth and ball-winning capability in the engine room ahead of the January window. Personal terms are said to be straightforward, with the fee the primary sticking point between clubs.",
+        "headline": "Liverpool Join Race for Bundesliga Midfielder as Midfield Rebuild Continues",
+        "summary": "Liverpool are reported to have sent scouts to monitor Florian Wirtz on multiple occasions this season, with the club understood to be weighing a summer approach as they seek a long-term creative hub following the transition away from the Fabinho-Henderson era. Bayer Leverkusen are expected to demand in excess of £100 million.",
         "clubs": [
           "Liverpool",
-          "Borussia Dortmund"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Open Talks for 22-Year-Old Serie A Centre-Back",
-        "summary": "Chelsea are understood to have made initial contact with the representatives of a highly-rated Italian defender as Todd Boehly's recruitment team continues to overhaul the club's defensive options, with at least one senior centre-back potentially leaving Stamford Bridge in the coming weeks. Inter Milan are also monitoring the situation.",
+        "headline": "Chelsea in Advanced Talks Over Striker Signing to Bolster Attacking Options",
+        "summary": "Chelsea are understood to be in advanced discussions with Napoli regarding Victor Osimhen on a potential loan-to-buy structure, as the club look to add a proven centre-forward capable of competing for European places in the second half of the season. Personal terms are reported to be the primary remaining hurdle.",
         "clubs": [
           "Chelsea",
-          "Inter Milan"
+          "Napoli"
         ]
       }
     ],
@@ -356,7 +380,7 @@
       "home": "Arsenal",
       "away": "Manchester City",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "This fixture arrives at a pivotal moment in the title race, with Arsenal looking to close the gap on the top of the table and City seeking to reaffirm their credentials after a run of inconsistent performances. Mikel Arteta's side have been imperious at the Emirates this season, pressing with relentless intensity and converting chances at an elite rate, while Pep Guardiola will look to Rodri's midfield successor to control tempo and limit Arsenal's transition opportunities. The tactical battle in the middle third — and who wins the second-ball duels — is likely to be the decisive factor in what promises to be the defining fixture of the winter calendar.",
+      "preview": "The most anticipated fixture of the Premier League calendar arrives at the Emirates, with Arsenal looking to extend their lead at the summit while Manchester City seek a result that would keep their fading title hopes mathematically alive. Arsenal come into this on the back of four consecutive league wins and are particularly strong at home, where Saka and Martinelli have tormented defences all season; City meanwhile have been inconsistent but retain the individual quality to hurt any side on their day. The tactical battle between Arteta's high-press structure and Guardiola's positional play promises to be the defining subplot of the weekend.",
       "key_players": [
         "Bukayo Saka",
         "Erling Haaland",
@@ -365,16 +389,16 @@
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
+        "player": "Rodri",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected back in 3–4 weeks; targeting return before end of January"
+        "return": "Long-term absentee — not expected before late spring at earliest"
       },
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Ben White",
+        "team": "Arsenal",
         "status": "Doubtful",
-        "return": "Assessed daily ahead of weekend fixture; hamstring tightness flagged in training"
+        "return": "Being assessed ahead of the weekend; missed midweek training with a muscle complaint"
       }
     ]
   },
@@ -382,62 +406,62 @@
     "cfa_frm": {
       "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A bank holds a portfolio of corporate bonds. Under the Basel III framework, which of the following best describes the purpose of the Credit Valuation Adjustment (CVA)?",
+      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. Additionally, the asset correlation parameter is 0.18 and the confidence level is 99.9%. Under the Basel II Internal Ratings-Based (IRB) approach, which component directly captures the systematic risk contribution of a single obligor to the overall portfolio?",
       "options": {
-        "A": "It measures the probability that a counterparty will default before the maturity of the contract.",
-        "B": "It represents the market value of counterparty credit risk, reflecting the expected loss due to potential counterparty default.",
-        "C": "It is a regulatory capital charge applied uniformly to all OTC derivatives regardless of counterparty creditworthiness.",
-        "D": "It adjusts the risk-free discount rate used to value bond cash flows for liquidity premiums."
+        "A": "The product of PD × LGD × EAD, which gives Expected Loss",
+        "B": "The asset correlation parameter, which links individual obligor defaults to a common macroeconomic factor",
+        "C": "The LGD estimate, which reflects idiosyncratic recovery uncertainty",
+        "D": "The EAD, which captures the bank's gross exposure before recoveries"
       },
       "correct": "B",
-      "explanation": "CVA is defined as the market value of counterparty credit risk — it is the difference between the risk-free portfolio value and the true portfolio value that accounts for the possibility of counterparty default. Unlike a simple probability of default metric, CVA incorporates exposure at default, loss given default, and the probability of default over the life of the instrument. Basel III introduced a CVA capital charge specifically to capture mark-to-market losses on OTC derivatives arising from counterparty credit deterioration, not just actual default events. Option A describes only PD, and Option C incorrectly implies uniformity across counterparties."
+      "explanation": "Under the Basel II IRB framework, the asset correlation parameter (R) determines how much an obligor's default risk co-moves with the systematic (market-wide) risk factor. A higher correlation means that defaults are more likely to cluster during economic downturns, increasing unexpected loss and capital requirements. While PD × LGD × EAD computes Expected Loss, it is the correlation parameter that drives the Unexpected Loss and hence the regulatory capital charge. LGD and EAD are inputs to loss severity and exposure, not systematic co-movement."
     },
     "finance_topic": {
-      "title": "The Mechanics of Basis Risk in Hedging",
-      "subtitle": "Why an imperfect hedge can sometimes create more risk than it eliminates.",
+      "title": "Private Credit's Rise as a Mainstream Asset Class",
+      "subtitle": "Direct lending and private debt markets have expanded dramatically, reshaping how corporations borrow and how institutional investors build yield.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the instrument used to hedge it do not move in perfect lockstep. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging instrument. When a company hedges jet fuel exposure using crude oil futures, for example, the hedge is cross-commodity, and any divergence in the price relationship between jet fuel and crude oil represents basis risk. Unlike outright price risk, basis risk is often subtler — it doesn't disappear with a well-structured hedge; it simply transforms price risk into a narrower, more specific form of uncertainty.",
-        "A classic real-world illustration occurred during the 2021–2022 energy crisis in Europe. Many utilities and industrial firms had hedged their natural gas exposure using forward contracts on hub-priced natural gas, but the physical supply they relied on was priced off different regional indices. As pipeline constraints and LNG supply dislocations caused regional spreads to widen dramatically, companies found that their hedges were not moving in line with their actual cost base — the basis had blown out. Firms that had assumed stable basis relationships suffered significant unexpected losses despite being 'hedged' on paper.",
-        "For risk managers and investors, basis risk demands careful attention to the correlation structure between the hedge instrument and the underlying exposure, and how that correlation may change under stress. Hedge effectiveness testing — required under both IFRS 9 and ASC 815 — is designed to ensure that the economic relationship between the hedging instrument and the hedged item remains robust. Practitioners should model basis risk explicitly in their VaR frameworks, stress test basis widening scenarios, and consider rolling shorter-dated contracts to reduce cumulative basis drift over long hedge horizons."
+        "Private credit refers to non-bank lending arrangements where institutional investors — such as pension funds, insurance companies, and dedicated private debt funds — extend loans directly to corporations, often middle-market firms that lack easy access to public bond markets. Unlike syndicated loans or publicly traded high-yield bonds, private credit instruments are negotiated bilaterally, are typically floating-rate, and are held to maturity rather than traded on secondary markets. The asset class has grown from roughly $500 billion in assets under management in 2015 to over $1.7 trillion globally by 2024, driven by post-GFC bank retrenchment and sustained investor demand for illiquidity premiums.",
+        "The appeal of private credit became especially visible during the 2022–2023 rate hiking cycle. As public leveraged loan and high-yield markets seized up with pricing dislocation, private credit managers stepped in to finance leveraged buyouts and corporate expansions at spreads of SOFR + 600–700 bps, offering lenders strong all-in yields exceeding 11–12%. Firms like Ares Management, Blue Owl, and HPS Investment Partners competed directly with investment banks for large-cap direct lending mandates, a dynamic that would have seemed implausible a decade ago. This 'de-intermediation' of banks has structural, not merely cyclical, roots.",
+        "For risk managers and institutional allocators, private credit introduces unique challenges: illiquidity risk, valuation opacity (marks are model-based, not market-based), covenant analysis, and concentration risk in leveraged borrowers. The illiquidity premium is real but must be weighed against the difficulty of exiting positions in stress scenarios. Regulators in the US and Europe are increasingly scrutinizing the sector for systemic risk, particularly around the interconnections between private credit funds and the banking system through subscription credit lines and NAV financing."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, arising from imperfect correlation between the hedge and the underlying exposure.",
-        "Basis can widen sharply during market dislocations, turning a seemingly effective hedge into a source of unexpected loss.",
-        "Rigorous hedge effectiveness testing and explicit stress scenarios for basis widening are essential components of any enterprise risk management framework."
+        "Private credit has grown into a $1.7T+ asset class, driven by bank retrenchment and investor demand for yield above public market equivalents.",
+        "Floating-rate structures provided a natural hedge during the 2022–2023 rate cycle, but also amplify default risk if borrower cash flows deteriorate under sustained high rates.",
+        "Illiquidity, model-based valuations, and limited regulatory transparency are the primary risk management concerns for allocators entering or expanding exposure to the asset class."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kontsuki no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or an unintended result. It combines the te-form of a verb with しまいました to convey 'ended up doing something' or 'unfortunately did something.'",
-      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead!' and 算 (san) as 'calculate' — a budget is your plan-ahead calculation. Imagine a stressed accountant yelling 'Yo, SAN-ity check the numbers!' before overspending."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality — something happened and it cannot be undone. It is the polite past form of 〜てしまう.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you planned to spend. Picture counting out your last yen coins and saying 'yo, that's the sum!'"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Replacing Junior Analysts in Credit Research",
-      "summary": "A new wave of autonomous AI agents — systems capable of multi-step reasoning, tool use, and iterative self-correction — is beginning to automate tasks that previously required a junior analyst: pulling financial statements, running ratio analysis, summarizing credit agreements, and flagging covenant breaches. Major asset managers and bulge-bracket banks are piloting agentic workflows where a single prompt can trigger a full credit memo draft with sourced data. The productivity differential between firms deploying these systems and those that have not is expected to widen materially over the next 18–24 months. Unlike earlier NLP tools that required heavy human review, the latest agent architectures reduce hallucination rates through retrieval-augmented generation and structured output validation.",
+      "headline": "Agentic AI Is Quietly Automating Financial Analysis Workflows End-to-End",
+      "summary": "A new generation of AI 'agents' — systems capable of multi-step reasoning, tool use, and autonomous task completion — is moving from research labs into production finance environments. Firms including JPMorgan, BlackRock, and several tier-1 hedge funds are deploying agent frameworks (built on models like GPT-4o and Claude 3.5) to automate workflows that span data retrieval, model execution, report drafting, and compliance checking in a single pipeline. Unlike traditional RPA or simple chatbots, these agents can adapt to unexpected data, query APIs, and iterate toward a goal without human intervention at each step. The implication is not just faster analysis but a fundamental reduction in the analyst-hours required for routine research, earnings processing, and risk reporting.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan and execute multi-step tasks — like retrieving data, performing calculations, and drafting reports — without requiring a human prompt at each stage, analogous to a self-directed junior analyst."
+          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as pulling data, running calculations, and drafting a memo — to complete a complex goal, rather than simply responding to a single prompt."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique that grounds an AI's responses in real, retrieved documents (e.g., SEC filings, earnings transcripts) rather than relying solely on training data, dramatically reducing factual errors in financial analysis outputs."
+          "definition": "A technique where an AI model is connected to an external knowledge base or document store, allowing it to fetch current, firm-specific data (like earnings transcripts or risk reports) before generating a response — reducing hallucination and improving accuracy."
         },
         {
-          "term": "Structured Output Validation",
-          "definition": "A method of constraining AI outputs to conform to predefined schemas or formats — such as financial templates or JSON — ensuring that generated content is machine-readable, auditable, and less prone to inconsistency in regulated finance workflows."
+          "term": "Tool Use / Function Calling",
+          "definition": "The ability of an AI model to invoke external tools — such as a Bloomberg terminal API, Excel solver, or SQL database — mid-conversation, enabling it to perform live calculations and data lookups rather than relying solely on training data."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, supervise, and quality-control agentic AI workflows — rather than simply using AI as a search engine — will command a significant premium in the next hiring cycle. The most resilient career positioning combines domain expertise in credit, risk, or capital markets with the ability to architect AI-assisted workflows and critically evaluate model outputs. Prompt engineering is becoming a baseline skill; workflow orchestration and AI governance literacy are the emerging differentiators."
+      "career_insight": "Finance professionals who understand how to design, prompt, and oversee agentic AI workflows will command a significant productivity advantage over those who treat AI as merely a search tool. The most defensible skills are now at the intersection of domain expertise (knowing what a correct credit memo or risk model looks like) and AI orchestration (knowing how to build or direct agents to produce that output reliably). Junior roles focused purely on data gathering and report formatting face the greatest displacement risk in the next three to five years."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautiously constructive this morning as markets digest a resilient U.S. labor market print against a backdrop of stubbornly sticky services inflation, keeping Fed rate-cut expectations anchored to the back half of the year with roughly two cuts priced for 2025. The dollar index has edged higher, weighing on EM currencies and commodities, while credit spreads in investment-grade remain tight — a sign that institutional money has not yet rotated defensively despite elevated equity valuations. Watch the long end of the Treasury curve closely: any further steepening driven by term premium repricing could act as an unexpected headwind for duration-heavy portfolios and rate-sensitive equities in the sessions ahead."
+    "market_sentiment": "Risk appetite remains cautiously constructive heading into the session, with US equity futures modestly higher as markets digest a softer-than-expected core PCE print that has re-ignited rate cut speculation for later in the year. The dollar is marginally weaker on a DXY basis, providing a tailwind for EM assets and commodities, while the front end of the Treasury curve bull-steepens on recalibrated Fed expectations. Credit spreads continue to grind tighter in investment grade, though high yield is showing early signs of fatigue at current valuations — a market telling you that the easy money in spread compression has likely been made."
   }
 }
