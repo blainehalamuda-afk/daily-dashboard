@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:56 PM UTC",
-  "date": "Sunday, May 24, 2026",
+  "generated_at": "2:30 PM UTC",
+  "date": "Monday, May 25, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 60,
-    "feels_like_f": 60,
-    "high_f": 61,
-    "low_f": 58,
-    "description": "Mist",
-    "icon": "🌫️",
-    "humidity": 97,
-    "wind_mph": 6,
+    "temp_f": 74,
+    "feels_like_f": 76,
+    "high_f": 76,
+    "low_f": 73,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 90,
+    "wind_mph": 8,
     "forecast": [
       {
-        "day": "Mon",
-        "icon": "🌧️",
-        "high": 68,
-        "low": 68,
-        "description": "Light Rain"
-      },
-      {
         "day": "Tue",
-        "icon": "🌧️",
-        "high": 68,
-        "low": 68,
-        "description": "Light Rain"
+        "icon": "☁️",
+        "high": 70,
+        "low": 70,
+        "description": "Overcast Clouds"
       },
       {
         "day": "Wed",
         "icon": "☁️",
-        "high": 69,
-        "low": 69,
+        "high": 70,
+        "low": 70,
         "description": "Overcast Clouds"
+      },
+      {
+        "day": "Thu",
+        "icon": "☁️",
+        "high": 70,
+        "low": 70,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 745.64,
-        "change": 2.92,
-        "change_pct": 0.39,
+        "price": 745.66,
+        "change": 2.94,
+        "change_pct": 0.4,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,8 +54,8 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 308.82,
-        "change": 3.83,
+        "price": 308.84,
+        "change": 3.85,
         "change_pct": 1.26,
         "up": true,
         "is_crypto": false,
@@ -65,8 +65,8 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 215.33,
-        "change": -4.18,
+        "price": 215.35,
+        "change": -4.16,
         "change_pct": -1.9,
         "up": false,
         "is_crypto": false,
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 426.01,
-        "change": 8.16,
-        "change_pct": 1.95,
+        "price": 426.03,
+        "change": 8.18,
+        "change_pct": 1.96,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77092.51,
-        "change": 2351.27,
-        "change_pct": 3.15,
+        "price": 77583.63,
+        "change": 1144.89,
+        "change_pct": 1.5,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2119.64,
-        "change": 88.25,
-        "change_pct": 4.34,
+        "price": 2125.87,
+        "change": 31.3,
+        "change_pct": 1.49,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Chrysler, Dodge, And Ram Have 9 New Models Coming By 2030. Here's All Of Them - Motor1.com",
-        "source": "Motor1 ",
-        "url": "https://www.motor1.com/news/796653/new-chrysler-dodge-ram-models-2030/",
-        "description": "Stellantis has an entire range of new products coming to the US, including new Chrysler SUVs, small Ram trucks, and even possibly a halo SRT model from Dodge.",
-        "published": "7:54 AM UTC",
+        "title": "What will people remember about you after you die? Thinking about your legacy now could be good for you - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/future/article/20260522-why-do-we-want-to-be-remembered-after-we-die",
+        "description": "Research shows that considering how we will be remembered when we die can help us improve our mental health and find more meaning during our lives – including if we are still young.",
+        "published": "9:01 AM UTC",
         "category": "Business"
       },
       {
-        "title": "E. coli outbreak linked to California restaurant chain sickens nine people across state - San Francisco Chronicle",
-        "source": "San Francisco Chronicle",
-        "url": "https://www.sfchronicle.com/health/article/e-coli-outbreak-kebab-22272798.php",
-        "description": "State health officials linked the outbreak to ground beef kebabs from the Kebab Shop, a restaurant chain with nine locations in the Bay Area.",
-        "published": "10:39 PM UTC",
+        "title": "An Ohio family says hail wrecked their roof — but State Farm will only fix three shingles, a move that might be illegal - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/policy/articles/ohio-family-says-hail-wrecked-083000316.html",
+        "description": "An Ohio family is pushing back after their insurer says a repair is good enough. Here's why the suggested repair might violate the law.",
+        "published": "8:30 AM UTC",
         "category": "Business"
       },
       {
-        "title": "'I got drafted': Inside Meta's push to move 7,000 staff into its AI task force - Business Insider",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/meta-ai-task-force-workers-2026-5",
-        "description": "Meta reassigned thousands of employees to a new AI task force during this week's layoffs. Some are anxious and confused about what comes next.",
-        "published": "9:46 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "The Team Behind The Flipper One Needs Your Help - Hackaday",
-        "source": "Hackaday",
-        "url": "https://hackaday.com/2026/05/22/the-team-behind-the-flipper-one-needs-your-help/",
-        "description": "You’ve probably heard of the Flipper Zero, a pocket-sized device that packs in lots of great hacking potential. The team behind it has now turned their efforts towards developing the Flipper …",
-        "published": "5:00 AM UTC",
+        "title": "16 Tips And Tricks For Lego Batman: Legacy Of The Dark Knight - Kotaku",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/16-things-to-know-before-playing-lego-batman-legacy-of-the-dark-knight-2000697114",
+        "description": "Na-na-na-na-na-na BATMAN TIPS!",
+        "published": "8:01 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "First-gen Chromecast streamers are suddenly failing for some users, 13 years later - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/05/22/first-gen-chromecast-streamers-are-suddenly-failing-for-some-users-13-years-later/",
-        "description": "One of Google’s first true hit pieces of hardware, 2013’s Chromecast, is starting to stop working for some users are...",
-        "published": "2:49 AM UTC",
+        "title": "Pokémon GO Events This Week: May 25–31, 2026 - Pokémon GO Hub",
+        "source": "Pokemon GO Hub",
+        "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-may-25-31-2026/",
+        "description": "Pokémon GO’s May 25-31 week sees us enter the final week of the season of Memories in Motion! GO Fest season begins with Tokyo, and Blanche quests for knowledge globally. Plus the weekly rotating Raid",
+        "published": "7:51 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Unannounced Apple headphones revealed in FCC documents - 9to5Mac",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/",
-        "description": "A new filing in the FCC database has revealed an unannounced Apple-made Bluetooth headphone. Here are the details.",
-        "published": "1:43 AM UTC",
+        "title": "Kingdom Hearts Cloud Version Switch Demos Removed From eShop (US) - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/05/kingdom-hearts-cloud-version-switch-demos-removed-from-eshop-us",
+        "description": "But they're still up in other locations",
+        "published": "3:30 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "China Coal Mine Explosion Kills 90 in Deadliest Blast Since 2009 - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast",
-        "description": "The death toll from a gas explosion at a coal mine in China’s Shanxi province has jumped to at least 90 people, making it the country’s deadliest such incident since 2009.",
-        "published": "7:45 AM UTC",
-        "category": "General"
-      },
-      {
-        "title": "U.S. bans green-card holders from returning from Ebola-stricken countries - The Washington Post",
+        "title": "Suspected gunman dead after exchanging fire with Secret Service near White House - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/health/2026/05/22/us-bans-green-card-holders-returning-ebola-stricken-countries/",
-        "description": "Health officials cite public health and « resource constraints » as they expand travel restrictions.",
-        "published": "6:29 AM UTC",
+        "url": "https://www.washingtonpost.com/politics/2026/05/23/gunshots-fired-near-white-house-fbi-director-says/",
+        "description": "The alleged suspect had previously tried to enter the White House complex, according to court records. An unnamed bystander was also struck by gunfire.",
+        "published": "12:38 PM UTC",
         "category": "General"
       },
       {
-        "title": "Evacuation orders issued in California city over chemical tank: 'It fails or it blows up' - ABC News - Breaking News, Latest News and Videos",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/evacuation-orders-issued-california-city-chemical-tank-fails/story?id\\\\u003d133234846",
-        "description": "",
-        "published": "6:20 AM UTC",
+        "title": "Suicide car bomb attack on train in Pakistan kills at least 24 - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people",
+        "description": "The Balochistan Liberation Army has claimed responsibility for the attack.",
+        "published": "11:29 AM UTC",
         "category": "General"
       }
     ]
@@ -190,9 +174,9 @@
       {
         "home": "Sunderland",
         "away": "Chelsea",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -200,9 +184,9 @@
       {
         "home": "Brighton Hove",
         "away": "Man United",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 3,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -210,9 +194,9 @@
       {
         "home": "Crystal Palace",
         "away": "Arsenal",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -220,9 +204,9 @@
       {
         "home": "Burnley",
         "away": "Wolverhampton",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -230,9 +214,9 @@
       {
         "home": "Fulham",
         "away": "Newcastle",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -240,9 +224,9 @@
       {
         "home": "Liverpool",
         "away": "Brentford",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -250,9 +234,9 @@
       {
         "home": "Man City",
         "away": "Aston Villa",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -260,9 +244,9 @@
       {
         "home": "Nottingham",
         "away": "Bournemouth",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -270,9 +254,9 @@
       {
         "home": "Tottenham",
         "away": "Everton",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -280,9 +264,9 @@
       {
         "home": "West Ham",
         "away": "Leeds United",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 3,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "May 24",
         "highlighted": false
@@ -292,67 +276,67 @@
       {
         "position": 1,
         "team": "Arsenal",
-        "played": 37,
-        "won": 25,
+        "played": 38,
+        "won": 26,
         "drawn": 7,
         "lost": 5,
-        "gd": 43,
-        "points": 82,
+        "gd": 44,
+        "points": 85,
         "highlighted": false
       },
       {
         "position": 2,
         "team": "Man City",
-        "played": 37,
+        "played": 38,
         "won": 23,
         "drawn": 9,
-        "lost": 5,
-        "gd": 43,
+        "lost": 6,
+        "gd": 42,
         "points": 78,
         "highlighted": false
       },
       {
         "position": 3,
         "team": "Man United",
-        "played": 37,
-        "won": 19,
+        "played": 38,
+        "won": 20,
         "drawn": 11,
         "lost": 7,
-        "gd": 16,
-        "points": 68,
+        "gd": 19,
+        "points": 71,
         "highlighted": false
       },
       {
         "position": 4,
         "team": "Aston Villa",
-        "played": 37,
-        "won": 18,
+        "played": 38,
+        "won": 19,
         "drawn": 8,
         "lost": 11,
-        "gd": 6,
-        "points": 62,
+        "gd": 7,
+        "points": 65,
         "highlighted": false
       },
       {
         "position": 5,
         "team": "Liverpool",
-        "played": 37,
+        "played": 38,
         "won": 17,
-        "drawn": 8,
+        "drawn": 9,
         "lost": 12,
         "gd": 10,
-        "points": 59,
+        "points": 60,
         "highlighted": false
       },
       {
         "position": 6,
         "team": "Bournemouth",
-        "played": 37,
+        "played": 38,
         "won": 13,
-        "drawn": 17,
+        "drawn": 18,
         "lost": 7,
         "gd": 4,
-        "points": 56,
+        "points": 57,
         "highlighted": false
       }
     ]
@@ -360,108 +344,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Liverpool Join Race for Bundesliga Midfielder as Midfield Rebuild Continues",
-        "summary": "Liverpool are reported to have sent scouts to monitor Florian Wirtz on multiple occasions this season, with the club understood to be weighing a summer approach as they seek a long-term creative hub following the transition away from the Fabinho-Henderson era. Bayer Leverkusen are expected to demand in excess of £100 million.",
+        "headline": "Arsenal Tracking Bundesliga Striker as Backup to Jesus",
+        "summary": "Arsenal's recruitment team has been linked with a move for a prolific Bundesliga forward as Mikel Arteta seeks greater depth in attacking options following a congested fixture run. The player is understood to be available for a fee in the region of £40–50 million.",
         "clubs": [
-          "Liverpool",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks Over Striker Signing to Bolster Attacking Options",
-        "summary": "Chelsea are understood to be in advanced discussions with Napoli regarding Victor Osimhen on a potential loan-to-buy structure, as the club look to add a proven centre-forward capable of competing for European places in the second half of the season. Personal terms are reported to be the primary remaining hurdle.",
+        "headline": "Chelsea in Advanced Talks for Palmeiras Midfielder",
+        "summary": "Chelsea are reported to be in advanced negotiations to sign a highly-rated Brazilian central midfielder from Palmeiras, as the club looks to bolster its engine room ahead of the second half of the season. A fee of around £35 million plus add-ons is believed to be under discussion.",
         "clubs": [
           "Chelsea",
-          "Napoli"
+          "Palmeiras"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The most anticipated fixture of the Premier League calendar arrives at the Emirates, with Arsenal looking to extend their lead at the summit while Manchester City seek a result that would keep their fading title hopes mathematically alive. Arsenal come into this on the back of four consecutive league wins and are particularly strong at home, where Saka and Martinelli have tormented defences all season; City meanwhile have been inconsistent but retain the individual quality to hurt any side on their day. The tactical battle between Arteta's high-press structure and Guardiola's positional play promises to be the defining subplot of the weekend.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's most consequential rivalry resumes at the Etihad in a top-four clash that carries title-race implications for both sides. City have shown improved defensive solidity in recent weeks following the return of key personnel, while Liverpool arrive in formidable form under Arne Slot, having won five of their last six league fixtures. The tactical battle between Slot's high-press and Guardiola's positional rotations promises to be the defining subplot of what is arguably the match of the season so far.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Long-term absentee — not expected before late spring at earliest"
+        "status": "Doubtful",
+        "return": "Expected to be assessed on the morning of the match; could return within 1–2 weeks if not selected Sunday"
       },
       {
-        "player": "Ben White",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; missed midweek training with a muscle complaint"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Targeting return after the international break, approximately 2–3 weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
+      "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. Additionally, the asset correlation parameter is 0.18 and the confidence level is 99.9%. Under the Basel II Internal Ratings-Based (IRB) approach, which component directly captures the systematic risk contribution of a single obligor to the overall portfolio?",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using the Credit Metrics framework. The one-year transition matrix shows that a BBB-rated bond has a 4.5% probability of migrating to BB, a 0.3% probability of default, and remains BBB with 88% probability. If the recovery rate in default is 40% and the bond has a face value of $10 million with a current market value of $9.5 million, which of the following best describes the credit VaR concept in this framework?",
       "options": {
-        "A": "The product of PD × LGD × EAD, which gives Expected Loss",
-        "B": "The asset correlation parameter, which links individual obligor defaults to a common macroeconomic factor",
-        "C": "The LGD estimate, which reflects idiosyncratic recovery uncertainty",
-        "D": "The EAD, which captures the bank's gross exposure before recoveries"
+        "A": "Credit VaR equals the expected loss from default only, calculated as PD × LGD × EAD",
+        "B": "Credit VaR is the difference between the worst-case loss at a given confidence level and the expected loss, capturing both default and migration risk",
+        "C": "Credit VaR measures only the mark-to-market loss from a downgrade to non-investment grade, ignoring default scenarios",
+        "D": "Credit VaR is identical to market VaR when bonds are marked to market daily and transition probabilities are constant"
       },
       "correct": "B",
-      "explanation": "Under the Basel II IRB framework, the asset correlation parameter (R) determines how much an obligor's default risk co-moves with the systematic (market-wide) risk factor. A higher correlation means that defaults are more likely to cluster during economic downturns, increasing unexpected loss and capital requirements. While PD × LGD × EAD computes Expected Loss, it is the correlation parameter that drives the Unexpected Loss and hence the regulatory capital charge. LGD and EAD are inputs to loss severity and exposure, not systematic co-movement."
+      "explanation": "Credit VaR in the CreditMetrics framework captures the full distribution of portfolio value changes arising from both outright default and credit migration (rating changes). It is defined as the difference between the worst-case loss at a specified confidence level (e.g., 99%) and the expected loss — not just the expected loss itself. This distinguishes it from simple expected loss models because it quantifies unexpected losses driven by the entire transition matrix, including downgrades that reduce market value even without default. Options A and C represent partial or incorrect characterizations of the measure."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as a Mainstream Asset Class",
-      "subtitle": "Direct lending and private debt markets have expanded dramatically, reshaping how corporations borrow and how institutional investors build yield.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Basis risk arises when the hedge instrument and the exposure being hedged do not move in perfect lockstep, creating residual P&L volatility even in hedged portfolios.",
       "paragraphs": [
-        "Private credit refers to non-bank lending arrangements where institutional investors — such as pension funds, insurance companies, and dedicated private debt funds — extend loans directly to corporations, often middle-market firms that lack easy access to public bond markets. Unlike syndicated loans or publicly traded high-yield bonds, private credit instruments are negotiated bilaterally, are typically floating-rate, and are held to maturity rather than traded on secondary markets. The asset class has grown from roughly $500 billion in assets under management in 2015 to over $1.7 trillion globally by 2024, driven by post-GFC bank retrenchment and sustained investor demand for illiquidity premiums.",
-        "The appeal of private credit became especially visible during the 2022–2023 rate hiking cycle. As public leveraged loan and high-yield markets seized up with pricing dislocation, private credit managers stepped in to finance leveraged buyouts and corporate expansions at spreads of SOFR + 600–700 bps, offering lenders strong all-in yields exceeding 11–12%. Firms like Ares Management, Blue Owl, and HPS Investment Partners competed directly with investment banks for large-cap direct lending mandates, a dynamic that would have seemed implausible a decade ago. This 'de-intermediation' of banks has structural, not merely cyclical, roots.",
-        "For risk managers and institutional allocators, private credit introduces unique challenges: illiquidity risk, valuation opacity (marks are model-based, not market-based), covenant analysis, and concentration risk in leveraged borrowers. The illiquidity premium is real but must be weighed against the difficulty of exiting positions in stress scenarios. Regulators in the US and Europe are increasingly scrutinizing the sector for systemic risk, particularly around the interconnections between private credit funds and the banking system through subscription credit lines and NAV financing."
+        "Basis risk is the risk that the price of a hedging instrument will not move in perfect correlation with the underlying exposure it is intended to offset. It is formally defined as the difference between the spot price of the asset being hedged and the futures or swap price of the hedging instrument. Even when a risk manager constructs what appears to be a textbook hedge — matching notional, duration, or delta — imperfect correlation between the two legs means some net exposure always remains. This residual risk is unavoidable in practice and must be explicitly quantified and managed.",
+        "A classic real-world example is a U.S. airline hedging jet fuel costs using WTI crude oil futures. While jet fuel and crude oil prices are highly correlated, refining margins, regional supply dynamics, and contract specifications can cause the two prices to diverge significantly. In early 2022, as refining spreads widened dramatically post-pandemic, airlines that had hedged with crude futures found their hedge underperformed because jet fuel crack spreads surged independently of crude. Similarly, bond portfolio managers using Treasury futures to hedge corporate bond exposure face credit spread basis risk — Treasury yields may fall while corporate spreads simultaneously widen, leaving the portfolio net long risk.",
+        "For risk managers and portfolio managers, basis risk demands that hedge effectiveness be continuously monitored and not assumed static. Regulatory frameworks such as IFRS 9 and ASC 815 require hedge accounting designations to demonstrate ongoing effectiveness, often measured via the dollar-offset method or regression analysis. Practically, managers should use instruments with the tightest historical correlation to the exposure, consider rolling basis (the cost of maintaining a futures hedge through roll periods), and stress-test hedge portfolios under scenarios where historical correlations break down — precisely the environments where basis risk tends to spike."
       ],
       "key_takeaways": [
-        "Private credit has grown into a $1.7T+ asset class, driven by bank retrenchment and investor demand for yield above public market equivalents.",
-        "Floating-rate structures provided a natural hedge during the 2022–2023 rate cycle, but also amplify default risk if borrower cash flows deteriorate under sustained high rates.",
-        "Illiquidity, model-based valuations, and limited regulatory transparency are the primary risk management concerns for allocators entering or expanding exposure to the asset class."
+        "Basis risk is the unavoidable residual risk from imperfect correlation between a hedge instrument and the underlying exposure, measured as their price difference.",
+        "Real-world examples like jet fuel vs. crude hedges or corporate bonds vs. Treasury futures illustrate how basis can widen sharply during market stress, undermining hedge performance.",
+        "Risk managers must continuously monitor hedge effectiveness, stress-test correlation assumptions, and account for roll costs to ensure hedges perform as intended under adverse conditions."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kontsuki no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality — something happened and it cannot be undone. It is the polite past form of 〜てしまう.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you planned to spend. Picture counting out your last yen coins and saying 'yo, that's the sum!'"
+      "example_jp": "明日の会議に必ず出席するという約束を守ります。",
+      "example_romaji": "Ashita no kaigi ni kanarazu shusseki suru to iu yakusoku wo mamorimasu.",
+      "example_en": "I will keep my promise to attend tomorrow's meeting without fail.",
+      "grammar_point": "〜という約束を守る",
+      "grammar_explanation": "The pattern 〜という is used to quote or specify content, so 「出席するという約束」means 'the promise that [I will] attend.' 約束を守る (yakusoku wo mamoru) is a set phrase meaning 'to keep a promise,' while its opposite 約束を破る (yakusoku wo yaburu) means 'to break a promise.'",
+      "memory_tip": "Think of 'yaku-soku' as 'your schedule' — a promise is something you lock into your schedule and must honor. The kanji 約 suggests a binding tie, and 束 means bundle — your words are bundled together and tied as a commitment."
     },
     "ai_strategy": {
-      "headline": "Agentic AI Is Quietly Automating Financial Analysis Workflows End-to-End",
-      "summary": "A new generation of AI 'agents' — systems capable of multi-step reasoning, tool use, and autonomous task completion — is moving from research labs into production finance environments. Firms including JPMorgan, BlackRock, and several tier-1 hedge funds are deploying agent frameworks (built on models like GPT-4o and Claude 3.5) to automate workflows that span data retrieval, model execution, report drafting, and compliance checking in a single pipeline. Unlike traditional RPA or simple chatbots, these agents can adapt to unexpected data, query APIs, and iterate toward a goal without human intervention at each step. The implication is not just faster analysis but a fundamental reduction in the analyst-hours required for routine research, earnings processing, and risk reporting.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Management Careers Fundamentally",
+      "summary": "Large language models and gradient-boosted machine learning systems are increasingly being deployed by banks and credit funds to automate the initial stages of credit underwriting, covenant analysis, and counterparty risk scoring. JPMorgan, Goldman Sachs, and several large asset managers have reported deploying generative AI tools that can parse hundreds of pages of loan documentation, flag non-standard covenants, and produce preliminary credit memos in minutes rather than days. This shift is compressing timelines in leveraged finance and direct lending markets, giving institutions with mature AI infrastructure a meaningful competitive edge in deal speed. The implication is not mass job elimination but a significant repricing of which human skills command a premium — with deep model governance, AI output validation, and credit judgment in edge cases becoming the scarcest and most valuable competencies.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as pulling data, running calculations, and drafting a memo — to complete a complex goal, rather than simply responding to a single prompt."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds predictive models sequentially, with each new model correcting errors of the previous one. In credit risk, it is widely used for PD (probability of default) modeling because it handles non-linear relationships and missing data better than traditional logistic regression."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to an external knowledge base or document store, allowing it to fetch current, firm-specific data (like earnings transcripts or risk reports) before generating a response — reducing hallucination and improving accuracy."
+          "definition": "A technique that combines a large language model with a real-time search over a private document database, allowing the AI to answer questions grounded in specific documents such as credit agreements, offering memoranda, or 10-K filings rather than relying solely on training data."
         },
         {
-          "term": "Tool Use / Function Calling",
-          "definition": "The ability of an AI model to invoke external tools — such as a Bloomberg terminal API, Excel solver, or SQL database — mid-conversation, enabling it to perform live calculations and data lookups rather than relying solely on training data."
+          "term": "Model Governance",
+          "definition": "The set of policies, validation procedures, and oversight frameworks ensuring that quantitative and AI models used in financial decision-making are accurate, explainable, and compliant with regulatory standards such as SR 11-7. It is becoming a critical risk management function as AI models proliferate in credit and trading."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, and oversee agentic AI workflows will command a significant productivity advantage over those who treat AI as merely a search tool. The most defensible skills are now at the intersection of domain expertise (knowing what a correct credit memo or risk model looks like) and AI orchestration (knowing how to build or direct agents to produce that output reliably). Junior roles focused purely on data gathering and report formatting face the greatest displacement risk in the next three to five years."
+      "career_insight": "Finance professionals who can act as effective translators between AI systems and business decision-making — understanding model outputs, identifying when models are operating outside their training distribution, and applying human judgment to override or contextualize AI recommendations — will command significant career premiums over the next decade. Certifications and practical experience in Python, ML model validation, and prompt engineering for financial document analysis are rapidly becoming baseline expectations at bulge-bracket banks and sophisticated asset managers, particularly in credit, quant research, and risk management functions."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautiously constructive heading into the session, with US equity futures modestly higher as markets digest a softer-than-expected core PCE print that has re-ignited rate cut speculation for later in the year. The dollar is marginally weaker on a DXY basis, providing a tailwind for EM assets and commodities, while the front end of the Treasury curve bull-steepens on recalibrated Fed expectations. Credit spreads continue to grind tighter in investment grade, though high yield is showing early signs of fatigue at current valuations — a market telling you that the easy money in spread compression has likely been made."
+    "market_sentiment": "Risk assets are navigating a complex macro backdrop this week as markets digest persistently resilient U.S. labor data that continues to push back against aggressive Fed rate-cut pricing, with the two-year Treasury yield holding above 4.7% and reinforcing a higher-for-longer narrative. Equity markets remain bifurcated — mega-cap AI-linked technology names are holding near highs on strong earnings revisions, while rate-sensitive sectors including REITs and small caps face continued multiple compression. Credit spreads are modestly wide on the week as market participants watch for signs of consumer credit deterioration in upcoming bank earnings, though investment-grade primary issuance remains robust, suggesting institutional demand for carry has not meaningfully deteriorated."
   }
 }
