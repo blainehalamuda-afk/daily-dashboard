@@ -1,38 +1,38 @@
 {
-  "generated_at": "2:30 PM UTC",
-  "date": "Monday, May 25, 2026",
+  "generated_at": "2:36 PM UTC",
+  "date": "Tuesday, May 26, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 74,
-    "feels_like_f": 76,
-    "high_f": 76,
-    "low_f": 73,
-    "description": "Broken Clouds",
-    "icon": "☁️",
-    "humidity": 90,
-    "wind_mph": 8,
+    "temp_f": 76,
+    "feels_like_f": 77,
+    "high_f": 78,
+    "low_f": 74,
+    "description": "Mist",
+    "icon": "🌫️",
+    "humidity": 91,
+    "wind_mph": 0,
     "forecast": [
-      {
-        "day": "Tue",
-        "icon": "☁️",
-        "high": 70,
-        "low": 70,
-        "description": "Overcast Clouds"
-      },
       {
         "day": "Wed",
         "icon": "☁️",
-        "high": 70,
-        "low": 70,
+        "high": 69,
+        "low": 69,
         "description": "Overcast Clouds"
       },
       {
         "day": "Thu",
+        "icon": "🌤️",
+        "high": 72,
+        "low": 72,
+        "description": "Few Clouds"
+      },
+      {
+        "day": "Fri",
         "icon": "☁️",
-        "high": 70,
-        "low": 70,
-        "description": "Broken Clouds"
+        "high": 69,
+        "low": 69,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 745.66,
-        "change": 2.94,
-        "change_pct": 0.4,
+        "price": 751.93,
+        "change": 6.29,
+        "change_pct": 0.84,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 308.84,
-        "change": 3.85,
-        "change_pct": 1.26,
+        "price": 311.35,
+        "change": 2.53,
+        "change_pct": 0.82,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 215.35,
-        "change": -4.16,
-        "change_pct": -1.9,
-        "up": false,
+        "price": 217.02,
+        "change": 1.69,
+        "change_pct": 0.78,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 426.03,
-        "change": 8.18,
-        "change_pct": 1.96,
+        "price": 427.58,
+        "change": 1.57,
+        "change_pct": 0.37,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77583.63,
-        "change": 1144.89,
-        "change_pct": 1.5,
-        "up": true,
+        "price": 77481.03,
+        "change": -110.61,
+        "change_pct": -0.14,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2125.87,
-        "change": 31.3,
-        "change_pct": 1.49,
+        "price": 2129.32,
+        "change": 3.81,
+        "change_pct": 0.18,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,167 +111,66 @@
     "error": false,
     "articles": [
       {
-        "title": "What will people remember about you after you die? Thinking about your legacy now could be good for you - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/future/article/20260522-why-do-we-want-to-be-remembered-after-we-die",
-        "description": "Research shows that considering how we will be remembered when we die can help us improve our mental health and find more meaning during our lives – including if we are still young.",
-        "published": "9:01 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "An Ohio family says hail wrecked their roof — but State Farm will only fix three shingles, a move that might be illegal - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/policy/articles/ohio-family-says-hail-wrecked-083000316.html",
-        "description": "An Ohio family is pushing back after their insurer says a repair is good enough. Here's why the suggested repair might violate the law.",
-        "published": "8:30 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "16 Tips And Tricks For Lego Batman: Legacy Of The Dark Knight - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/16-things-to-know-before-playing-lego-batman-legacy-of-the-dark-knight-2000697114",
-        "description": "Na-na-na-na-na-na BATMAN TIPS!",
-        "published": "8:01 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Pokémon GO Events This Week: May 25–31, 2026 - Pokémon GO Hub",
-        "source": "Pokemon GO Hub",
-        "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-may-25-31-2026/",
-        "description": "Pokémon GO’s May 25-31 week sees us enter the final week of the season of Memories in Motion! GO Fest season begins with Tokyo, and Blanche quests for knowledge globally. Plus the weekly rotating Raid",
-        "published": "7:51 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Kingdom Hearts Cloud Version Switch Demos Removed From eShop (US) - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/05/kingdom-hearts-cloud-version-switch-demos-removed-from-eshop-us",
-        "description": "But they're still up in other locations",
-        "published": "3:30 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Suspected gunman dead after exchanging fire with Secret Service near White House - The Washington Post",
+        "title": "The creation of a new Murdoch empire - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/05/23/gunshots-fired-near-white-house-fbi-director-says/",
-        "description": "The alleged suspect had previously tried to enter the White House complex, according to court records. An unnamed bystander was also struck by gunfire.",
-        "published": "12:38 PM UTC",
-        "category": "General"
+        "url": "https://www.washingtonpost.com/business/2026/05/25/james-murdoch-is-building-different-kind-media-empire/",
+        "description": "James Murdoch is taking over New York magazine and Vox, building a different media company than his father’s.",
+        "published": "1:32 PM UTC",
+        "category": "Business"
       },
       {
-        "title": "Suicide car bomb attack on train in Pakistan kills at least 24 - Al Jazeera",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people",
-        "description": "The Balochistan Liberation Army has claimed responsibility for the attack.",
-        "published": "11:29 AM UTC",
+        "title": "Oil prices sink on signs of U.S.-Iran deal - Axios",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/05/24/oil-prices-iran-war-hormuz-strait-trump-tehran-peace-talks",
+        "description": "Crude oil prices dropped about $5 per barrel Sunday evening.",
+        "published": "12:59 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Expert Says Traders Should Brace for July Jump in Oil Prices - Crude Oil Prices Today | OilPrice.com",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Expert-Says-Traders-Should-Brace-for-July-Jump-in-Oil-Prices.html",
+        "description": "A top oil market expert warns traders are misreading Iran signals  and that a major price spike is coming in July as the Strait of Hormuz closure grinds on.",
+        "published": "12:30 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Ratel Not Concerned About Latest GT3 “Evolution” - Sportscar365",
+        "source": "Sportscar365",
+        "url": "https://sportscar365.com/lemans/wec/ratel-not-concerned-about-latest-gt3-evolution/",
+        "description": "Stephane Ratel on new-breed of GT3 cars developed for the race track first...",
+        "published": "12:02 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Google May 2026 Core Update Landed Over The Weekend - Search Engine Roundtable",
+        "source": "Seroundtable.com",
+        "url": "https://www.seroundtable.com/google-may-2026-core-update-landed-41380.html",
+        "description": "As you know, Google announced the May 2026 core update on Thursday afternoon and it didn't take long for the update to be felt by the SEO community.  Many, not all, but many, started to feel the impac",
+        "published": "12:01 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Let Out of PS3 Jail, Here's an Hour of Metal Gear Solid 4's New PS5 Version - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/05/let-out-of-ps3-jail-heres-an-hour-of-metal-gear-solid-4s-new-ps5-version",
+        "description": "See the opening act played on PS5",
+        "published": "12:00 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Ebola outbreak death toll climbs in Congo as new infections confirmed in Uganda - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/ebola-uganda-congo-infections-cases-suspected/",
+        "description": "The WHO chief says there have been 220 suspected deaths in the ongoing Ebola outbreak as Ugandan health authorities report two new Ebola infections.",
+        "published": "11:36 AM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [
-      {
-        "home": "Sunderland",
-        "away": "Chelsea",
-        "home_score": 2,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      },
-      {
-        "home": "Brighton Hove",
-        "away": "Man United",
-        "home_score": 0,
-        "away_score": 3,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      },
-      {
-        "home": "Crystal Palace",
-        "away": "Arsenal",
-        "home_score": 1,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      },
-      {
-        "home": "Burnley",
-        "away": "Wolverhampton",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      },
-      {
-        "home": "Fulham",
-        "away": "Newcastle",
-        "home_score": 2,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      },
-      {
-        "home": "Liverpool",
-        "away": "Brentford",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      },
-      {
-        "home": "Man City",
-        "away": "Aston Villa",
-        "home_score": 1,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      },
-      {
-        "home": "Nottingham",
-        "away": "Bournemouth",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      },
-      {
-        "home": "Tottenham",
-        "away": "Everton",
-        "home_score": 1,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      },
-      {
-        "home": "West Ham",
-        "away": "Leeds United",
-        "home_score": 3,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "May 24",
-        "highlighted": false
-      }
-    ],
+    "matches": [],
     "standings": [
       {
         "position": 1,
@@ -344,16 +243,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Tracking Bundesliga Striker as Backup to Jesus",
-        "summary": "Arsenal's recruitment team has been linked with a move for a prolific Bundesliga forward as Mikel Arteta seeks greater depth in attacking options following a congested fixture run. The player is understood to be available for a fee in the region of £40–50 million.",
+        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are understood to be in serious discussions over a summer move for a high-energy defensive midfielder, with Thomas Partey's contract situation forcing the club to plan ahead in the engine room. A fee in the region of £45-55 million is being discussed, with the player reportedly keen on a move to the Premier League.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks for Palmeiras Midfielder",
-        "summary": "Chelsea are reported to be in advanced negotiations to sign a highly-rated Brazilian central midfielder from Palmeiras, as the club looks to bolster its engine room ahead of the second half of the season. A fee of around £35 million plus add-ons is believed to be under discussion.",
+        "headline": "Chelsea Target Brazilian Winger as Co-Ownership Deal Takes Shape",
+        "summary": "Chelsea's recruitment team are monitoring a 21-year-old Brazilian wide attacker currently starring in Serie A, with a potential co-ownership structure reportedly being explored to manage Financial Fair Play considerations. The player has registered double-digit goal contributions this season and fits the club's profile of targeting young, high-upside talent.",
         "clubs": [
           "Chelsea",
           "Palmeiras"
@@ -364,88 +263,88 @@
       "home": "Manchester City",
       "away": "Liverpool",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's most consequential rivalry resumes at the Etihad in a top-four clash that carries title-race implications for both sides. City have shown improved defensive solidity in recent weeks following the return of key personnel, while Liverpool arrive in formidable form under Arne Slot, having won five of their last six league fixtures. The tactical battle between Slot's high-press and Guardiola's positional rotations promises to be the defining subplot of what is arguably the match of the season so far.",
+      "preview": "The Premier League's most consistently compelling fixture arrives at a pivotal moment in the title race, with City needing a win to close the gap on the leaders while Liverpool look to assert their credentials with a statement result at the Etihad. Pep Guardiola's side have rediscovered some of their earlier-season fluency in recent weeks, but Liverpool's high press and direct verticality will test City's reconstructed midfield in ways few other sides can. The tactical battle between how City try to build through Liverpool's press and how Slot's side exploit transitions promises to be the defining subplot of a match that could reshape the top-four picture.",
       "key_players": [
-        "Mohamed Salah",
         "Erling Haaland",
-        "Alexis Mac Allister"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed on the morning of the match; could return within 1–2 weeks if not selected Sunday"
+        "return": "Being assessed ahead of the weekend; 50/50 for Sunday's fixture"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return after the international break, approximately 2–3 weeks"
+        "return": "Expected to return to full training next week; targeting availability for mid-week fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
+      "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using the Credit Metrics framework. The one-year transition matrix shows that a BBB-rated bond has a 4.5% probability of migrating to BB, a 0.3% probability of default, and remains BBB with 88% probability. If the recovery rate in default is 40% and the bond has a face value of $10 million with a current market value of $9.5 million, which of the following best describes the credit VaR concept in this framework?",
+      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. The bank also estimates an asset correlation of 12% under the Basel IRB framework. Which of the following best describes the relationship between Expected Loss (EL) and Unexpected Loss (UL), and what does regulatory capital primarily cover?",
       "options": {
-        "A": "Credit VaR equals the expected loss from default only, calculated as PD × LGD × EAD",
-        "B": "Credit VaR is the difference between the worst-case loss at a given confidence level and the expected loss, capturing both default and migration risk",
-        "C": "Credit VaR measures only the mark-to-market loss from a downgrade to non-investment grade, ignoring default scenarios",
-        "D": "Credit VaR is identical to market VaR when bonds are marked to market daily and transition probabilities are constant"
+        "A": "EL = $90,000; regulatory capital covers EL because it represents the most probable loss outcome",
+        "B": "EL = $90,000; regulatory capital covers UL because EL is absorbed by loan loss provisions and pricing",
+        "C": "EL = $900,000; regulatory capital covers UL because EL is too small to require capital allocation",
+        "D": "EL = $90,000; regulatory capital covers both EL and UL equally to ensure full loss absorption"
       },
       "correct": "B",
-      "explanation": "Credit VaR in the CreditMetrics framework captures the full distribution of portfolio value changes arising from both outright default and credit migration (rating changes). It is defined as the difference between the worst-case loss at a specified confidence level (e.g., 99%) and the expected loss — not just the expected loss itself. This distinguishes it from simple expected loss models because it quantifies unexpected losses driven by the entire transition matrix, including downgrades that reduce market value even without default. Options A and C represent partial or incorrect characterizations of the measure."
+      "explanation": "Expected Loss = PD × LGD × EAD = 0.02 × 0.45 × $10,000,000 = $90,000. Under the Basel framework, EL is intended to be covered by loan loss reserves and incorporated into loan pricing — it is a cost of doing business. Regulatory capital (economic and risk-weighted capital) is specifically designed to absorb Unexpected Loss, which represents the volatility of losses around the expected value and poses true solvency risk. Asset correlation affects the shape of the loss distribution and thus the magnitude of UL, not EL itself."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Basis risk arises when the hedge instrument and the exposure being hedged do not move in perfect lockstep, creating residual P&L volatility even in hedged portfolios.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why even well-constructed hedges can leave significant residual risk on the table.",
       "paragraphs": [
-        "Basis risk is the risk that the price of a hedging instrument will not move in perfect correlation with the underlying exposure it is intended to offset. It is formally defined as the difference between the spot price of the asset being hedged and the futures or swap price of the hedging instrument. Even when a risk manager constructs what appears to be a textbook hedge — matching notional, duration, or delta — imperfect correlation between the two legs means some net exposure always remains. This residual risk is unavoidable in practice and must be explicitly quantified and managed.",
-        "A classic real-world example is a U.S. airline hedging jet fuel costs using WTI crude oil futures. While jet fuel and crude oil prices are highly correlated, refining margins, regional supply dynamics, and contract specifications can cause the two prices to diverge significantly. In early 2022, as refining spreads widened dramatically post-pandemic, airlines that had hedged with crude futures found their hedge underperformed because jet fuel crack spreads surged independently of crude. Similarly, bond portfolio managers using Treasury futures to hedge corporate bond exposure face credit spread basis risk — Treasury yields may fall while corporate spreads simultaneously widen, leaving the portfolio net long risk.",
-        "For risk managers and portfolio managers, basis risk demands that hedge effectiveness be continuously monitored and not assumed static. Regulatory frameworks such as IFRS 9 and ASC 815 require hedge accounting designations to demonstrate ongoing effectiveness, often measured via the dollar-offset method or regression analysis. Practically, managers should use instruments with the tightest historical correlation to the exposure, consider rolling basis (the cost of maintaining a futures hedge through roll periods), and stress-test hedge portfolios under scenarios where historical correlations break down — precisely the environments where basis risk tends to spike."
+        "Basis risk arises when the price of the instrument used to hedge does not move in perfect lockstep with the price of the underlying exposure being hedged. It is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when a hedge is directionally correct — meaning the hedge position gains when the underlying loses — imperfect correlation between the two instruments means a residual, unhedged risk remains. This residual exposure is basis risk, and it cannot be eliminated through position sizing alone.",
+        "A classic real-world example involves an airline hedging jet fuel costs using crude oil futures. Jet fuel and crude oil prices are highly correlated, but refining margins, regional supply disruptions, and seasonal demand patterns can cause jet fuel to move independently of crude. During the 2022 energy shock, crack spreads — the margin between crude and refined products — widened dramatically, meaning airlines that hedged via crude futures still faced surging effective fuel costs. Similarly, a bond portfolio manager hedging interest rate risk with Treasury futures faces basis risk if the portfolio contains corporate or mortgage bonds whose spreads widen during a flight-to-quality event.",
+        "For risk managers and investors, the critical implication is that hedge effectiveness must be continuously monitored, not assumed. Regulatory frameworks such as IFRS 9 and ASC 815 require entities to formally demonstrate hedge effectiveness through both prospective and retrospective testing. A hedge ratio derived from historical correlation can break down precisely when it matters most — during market stress, when correlations shift and liquidity in the hedging instrument diverges from the underlying. Understanding the sources of basis — location, quality, timing, and instrument type — allows practitioners to select superior hedging instruments and size residual basis risk appropriately within overall risk limits."
       ],
       "key_takeaways": [
-        "Basis risk is the unavoidable residual risk from imperfect correlation between a hedge instrument and the underlying exposure, measured as their price difference.",
-        "Real-world examples like jet fuel vs. crude hedges or corporate bonds vs. Treasury futures illustrate how basis can widen sharply during market stress, undermining hedge performance.",
-        "Risk managers must continuously monitor hedge effectiveness, stress-test correlation assumptions, and account for roll costs to ensure hedges perform as intended under adverse conditions."
+        "Basis risk is the irreducible residual risk remaining after a hedge is placed, arising from imperfect correlation between the hedged item and the hedging instrument.",
+        "Basis risk can be as damaging as the underlying price risk itself during stress periods when correlations break down — the 2022 energy and credit markets are recent examples.",
+        "Effective risk management requires ongoing hedge effectiveness testing and explicit sizing of basis risk within VaR or stress testing frameworks, not a set-and-forget approach."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; agreement",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "明日の会議に必ず出席するという約束を守ります。",
-      "example_romaji": "Ashita no kaigi ni kanarazu shusseki suru to iu yakusoku wo mamorimasu.",
-      "example_en": "I will keep my promise to attend tomorrow's meeting without fail.",
-      "grammar_point": "〜という約束を守る",
-      "grammar_explanation": "The pattern 〜という is used to quote or specify content, so 「出席するという約束」means 'the promise that [I will] attend.' 約束を守る (yakusoku wo mamoru) is a set phrase meaning 'to keep a promise,' while its opposite 約束を破る (yakusoku wo yaburu) means 'to break a promise.'",
-      "memory_tip": "Think of 'yaku-soku' as 'your schedule' — a promise is something you lock into your schedule and must honor. The kanji 約 suggests a binding tie, and 束 means bundle — your words are bundled together and tied as a commitment."
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that something happened completely or regrettably — often used when an action was unintentional or has an unfortunate result. Think of it as 'ended up doing' or 'unfortunately did.'",
+      "memory_tip": "Imagine a 'yo-yo' spinning out of control, SANking your savings — your YO-SAN (budget) is gone! The yo-yo going wild captures that helpless feeling of overspending."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Management Careers Fundamentally",
-      "summary": "Large language models and gradient-boosted machine learning systems are increasingly being deployed by banks and credit funds to automate the initial stages of credit underwriting, covenant analysis, and counterparty risk scoring. JPMorgan, Goldman Sachs, and several large asset managers have reported deploying generative AI tools that can parse hundreds of pages of loan documentation, flag non-standard covenants, and produce preliminary credit memos in minutes rather than days. This shift is compressing timelines in leveraged finance and direct lending markets, giving institutions with mature AI infrastructure a meaningful competitive edge in deal speed. The implication is not mass job elimination but a significant repricing of which human skills command a premium — with deep model governance, AI output validation, and credit judgment in edge cases becoming the scarcest and most valuable competencies.",
+      "headline": "Agentic AI Is Quietly Reshaping How Financial Analysts Do Research",
+      "summary": "A new generation of autonomous AI agents — systems that can plan multi-step tasks, call external tools, and iterate toward a goal without constant human prompting — is moving from research labs into financial workflows. Firms including Morgan Stanley, Bloomberg, and several hedge funds are deploying agent frameworks that can autonomously pull earnings transcripts, run quantitative screens, draft initial investment memos, and flag contradictions in management guidance. Unlike simple chatbots that answer one question at a time, these agents maintain state across a session, meaning they can conduct hours of research work in minutes. The critical insight for finance professionals is not that these agents replace analysts, but that they dramatically shift where human judgment adds value — from information gathering to hypothesis generation and critical challenge.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds predictive models sequentially, with each new model correcting errors of the previous one. In credit risk, it is widely used for PD (probability of default) modeling because it handles non-linear relationships and missing data better than traditional logistic regression."
+          "term": "Agentic AI",
+          "definition": "AI systems capable of autonomously breaking down complex goals into subtasks, using tools like web search or code execution, and iterating until the goal is achieved — relevant in finance for tasks like multi-source due diligence or automated report generation."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique that combines a large language model with a real-time search over a private document database, allowing the AI to answer questions grounded in specific documents such as credit agreements, offering memoranda, or 10-K filings rather than relying solely on training data."
+          "definition": "A technique where an AI model dynamically retrieves relevant documents or data (e.g., 10-K filings, analyst reports) before generating a response, dramatically improving accuracy and reducing hallucinations in financial research applications."
         },
         {
-          "term": "Model Governance",
-          "definition": "The set of policies, validation procedures, and oversight frameworks ensuring that quantitative and AI models used in financial decision-making are accurate, explainable, and compliant with regulatory standards such as SR 11-7. It is becoming a critical risk management function as AI models proliferate in credit and trading."
+          "term": "Tool Use / Function Calling",
+          "definition": "The ability of an AI model to invoke external systems — such as databases, calculators, or APIs — mid-conversation to fetch real data or execute computations, enabling reliable quantitative analysis rather than relying solely on learned knowledge."
         }
       ],
-      "career_insight": "Finance professionals who can act as effective translators between AI systems and business decision-making — understanding model outputs, identifying when models are operating outside their training distribution, and applying human judgment to override or contextualize AI recommendations — will command significant career premiums over the next decade. Certifications and practical experience in Python, ML model validation, and prompt engineering for financial document analysis are rapidly becoming baseline expectations at bulge-bracket banks and sophisticated asset managers, particularly in credit, quant research, and risk management functions."
+      "career_insight": "The finance professionals best positioned for the next five years are those who develop 'AI fluency' — the ability to critically evaluate AI outputs, design effective prompts and agent workflows, and identify where model limitations create risk. Technical skills matter less than the combination of deep domain expertise and the ability to act as an intelligent supervisor of AI systems; the analyst who understands both DCF modeling and how to audit an LLM's reasoning chain will be far more valuable than one who knows only one of these."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex macro backdrop this week as markets digest persistently resilient U.S. labor data that continues to push back against aggressive Fed rate-cut pricing, with the two-year Treasury yield holding above 4.7% and reinforcing a higher-for-longer narrative. Equity markets remain bifurcated — mega-cap AI-linked technology names are holding near highs on strong earnings revisions, while rate-sensitive sectors including REITs and small caps face continued multiple compression. Credit spreads are modestly wide on the week as market participants watch for signs of consumer credit deterioration in upcoming bank earnings, though investment-grade primary issuance remains robust, suggesting institutional demand for carry has not meaningfully deteriorated."
+    "market_sentiment": "Global risk appetite is cautiously constructive this morning as U.S. equity futures tick modestly higher, but the macro picture remains complex — sticky core services inflation continues to push back against early Fed cut expectations, with the first fully-priced cut now not arriving until late Q3 per fed funds futures. The dollar is softer on the margin as China signals incremental fiscal stimulus measures, providing a modest tailwind for EM assets and commodities, though credit spreads in European high yield are nudging wider on renewed concerns over refinancing risk for leveraged borrowers facing a higher-for-longer rate environment. Today's session is likely to be headline-driven ahead of this week's Fed speaker slate, with investors particularly attuned to any shift in language around the balance sheet runoff trajectory."
   }
 }
