@@ -1,37 +1,37 @@
 {
-  "generated_at": "2:36 PM UTC",
-  "date": "Tuesday, May 26, 2026",
+  "generated_at": "2:52 PM UTC",
+  "date": "Wednesday, May 27, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 76,
-    "feels_like_f": 77,
-    "high_f": 78,
-    "low_f": 74,
-    "description": "Mist",
-    "icon": "🌫️",
-    "humidity": 91,
-    "wind_mph": 0,
+    "temp_f": 74,
+    "feels_like_f": 76,
+    "high_f": 77,
+    "low_f": 73,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 89,
+    "wind_mph": 7,
     "forecast": [
       {
-        "day": "Wed",
-        "icon": "☁️",
-        "high": 69,
-        "low": 69,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Thu",
-        "icon": "🌤️",
-        "high": 72,
-        "low": 72,
-        "description": "Few Clouds"
+        "icon": "☁️",
+        "high": 71,
+        "low": 71,
+        "description": "Overcast Clouds"
       },
       {
         "day": "Fri",
         "icon": "☁️",
-        "high": 69,
-        "low": 69,
+        "high": 66,
+        "low": 66,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "☁️",
+        "high": 71,
+        "low": 71,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 751.93,
-        "change": 6.29,
-        "change_pct": 0.84,
-        "up": true,
+        "price": 750.27,
+        "change": -0.32,
+        "change_pct": -0.04,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 311.35,
-        "change": 2.53,
-        "change_pct": 0.82,
+        "price": 312.4,
+        "change": 4.07,
+        "change_pct": 1.32,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 217.02,
-        "change": 1.69,
-        "change_pct": 0.78,
-        "up": true,
+        "price": 210.27,
+        "change": -4.59,
+        "change_pct": -2.14,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 427.58,
-        "change": 1.57,
-        "change_pct": 0.37,
+        "price": 443.9,
+        "change": 10.31,
+        "change_pct": 2.38,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77481.03,
-        "change": -110.61,
-        "change_pct": -0.14,
+        "price": 75072.86,
+        "change": -2053.16,
+        "change_pct": -2.66,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2129.32,
-        "change": 3.81,
-        "change_pct": 0.18,
-        "up": true,
+        "price": 2062,
+        "change": -54.49,
+        "change_pct": -2.57,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,35 @@
     "error": false,
     "articles": [
       {
-        "title": "The creation of a new Murdoch empire - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/business/2026/05/25/james-murdoch-is-building-different-kind-media-empire/",
-        "description": "James Murdoch is taking over New York magazine and Vox, building a different media company than his father’s.",
-        "published": "1:32 PM UTC",
+        "title": "MU Stock Draws Investor Cheer After UBS’ New Price Target Implies A 100% Upside From Current Levels – What’s Driving The Analyst Optimism? - Yahoo Finance",
+        "source": "Stocktwits.com",
+        "url": "https://stocktwits.com/news-articles/markets/equity/mu-stock-draws-investor-cheer-after-ubs-new-price-target-implies-a-100-upside-from-current-levels-what-s-driving-the-analyst-optimism/cZgOchjReqc",
+        "description": "UBS said Micron is expected to benefit from long-term memory supply agreements that could lock in pricing and demand visibility across much of the industry.",
+        "published": "12:52 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Oil prices sink on signs of U.S.-Iran deal - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/05/24/oil-prices-iran-war-hormuz-strait-trump-tehran-peace-talks",
-        "description": "Crude oil prices dropped about $5 per barrel Sunday evening.",
-        "published": "12:59 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Expert Says Traders Should Brace for July Jump in Oil Prices - Crude Oil Prices Today | OilPrice.com",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Expert-Says-Traders-Should-Brace-for-July-Jump-in-Oil-Prices.html",
-        "description": "A top oil market expert warns traders are misreading Iran signals  and that a major price spike is coming in July as the Strait of Hormuz closure grinds on.",
-        "published": "12:30 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Ratel Not Concerned About Latest GT3 “Evolution” - Sportscar365",
-        "source": "Sportscar365",
-        "url": "https://sportscar365.com/lemans/wec/ratel-not-concerned-about-latest-gt3-evolution/",
-        "description": "Stephane Ratel on new-breed of GT3 cars developed for the race track first...",
-        "published": "12:02 PM UTC",
+        "title": "20 Questions For Bungie About What Happens After ‘Destiny 2’ Ends - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/paultassi/2026/05/26/20-questions-for-bungie-about-what-happens-after-destiny-2-ends/",
+        "description": "Destiny 2 ending service raises a whole lot of questions about the live aspects of a no-longer-live game.",
+        "published": "1:48 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Google May 2026 Core Update Landed Over The Weekend - Search Engine Roundtable",
-        "source": "Seroundtable.com",
-        "url": "https://www.seroundtable.com/google-may-2026-core-update-landed-41380.html",
-        "description": "As you know, Google announced the May 2026 core update on Thursday afternoon and it didn't take long for the update to be felt by the SEO community.  Many, not all, but many, started to feel the impac",
-        "published": "12:01 PM UTC",
+        "title": "NVIDIA Control Panel is officially retiring after 20 years for GeForce users - VideoCardz.com",
+        "source": "Videocardz.com",
+        "url": "https://videocardz.com/newz/nvidia-control-panel-is-officially-retiring-after-20-years-for-geforce-users",
+        "description": "NVIDIA App completes the transition of features from GeForce Control Panel  NVIDIA is retiring the classic NVIDIA Control Panel for GeForce Game",
+        "published": "1:42 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Let Out of PS3 Jail, Here's an Hour of Metal Gear Solid 4's New PS5 Version - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/05/let-out-of-ps3-jail-heres-an-hour-of-metal-gear-solid-4s-new-ps5-version",
-        "description": "See the opening act played on PS5",
-        "published": "12:00 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Ebola outbreak death toll climbs in Congo as new infections confirmed in Uganda - CBS News",
+        "title": "Live Updates: Iran accuses U.S. of \"grave violation\" of ceasefire as Trump seeks \"good deal or no deal\" - CBS News",
         "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/ebola-uganda-congo-infections-cases-suspected/",
-        "description": "The WHO chief says there have been 220 suspected deaths in the ongoing Ebola outbreak as Ugandan health authorities report two new Ebola infections.",
-        "published": "11:36 AM UTC",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-peace-talks-ceasefire/",
+        "description": "As Iran accuses the U.S. of a \"grave violation\" of the fragile ceasefire, Rubio says a deal is still possible despite the latest clash.",
+        "published": "2:29 PM UTC",
         "category": "General"
       }
     ]
@@ -243,31 +219,31 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are understood to be in serious discussions over a summer move for a high-energy defensive midfielder, with Thomas Partey's contract situation forcing the club to plan ahead in the engine room. A fee in the region of £45-55 million is being discussed, with the player reportedly keen on a move to the Premier League.",
+        "headline": "Arsenal Eyeing RB Leipzig Midfielder Xavi Simons on Permanent Deal",
+        "summary": "Arsenal are reportedly weighing a summer move for Xavi Simons as Mikel Arteta seeks greater creativity and verticality in central midfield. Leipzig's valuation is understood to be in the region of £70–80 million, with PSG holding a buyback clause that complicates any deal.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Chelsea Target Brazilian Winger as Co-Ownership Deal Takes Shape",
-        "summary": "Chelsea's recruitment team are monitoring a 21-year-old Brazilian wide attacker currently starring in Serie A, with a potential co-ownership structure reportedly being explored to manage Financial Fair Play considerations. The player has registered double-digit goal contributions this season and fits the club's profile of targeting young, high-upside talent.",
+        "headline": "Manchester United Hold Talks Over Viktor Gyokeres as Striker Search Intensifies",
+        "summary": "Manchester United's football leadership have opened preliminary discussions with Sporting CP over a deal for Swedish striker Viktor Gyokeres, who has scored over 40 goals across all competitions this season. United face competition from Arsenal and several top European clubs, with Sporting demanding close to their €100 million release clause.",
         "clubs": [
-          "Chelsea",
-          "Palmeiras"
+          "Manchester United",
+          "Sporting CP"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's most consistently compelling fixture arrives at a pivotal moment in the title race, with City needing a win to close the gap on the leaders while Liverpool look to assert their credentials with a statement result at the Etihad. Pep Guardiola's side have rediscovered some of their earlier-season fluency in recent weeks, but Liverpool's high press and direct verticality will test City's reconstructed midfield in ways few other sides can. The tactical battle between how City try to build through Liverpool's press and how Slot's side exploit transitions promises to be the defining subplot of a match that could reshape the top-four picture.",
+      "home": "Liverpool",
+      "away": "Chelsea",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "Anfield hosts a pivotal top-four clash as Liverpool, looking to consolidate their position at the summit, welcome a Chelsea side that has found startling consistency under their current setup and sit uncomfortably close in the table. Liverpool's home form has been near-impeccable, but Chelsea's high press and the electric pace of their attacking line could test a Liverpool backline that has been dealing with defensive rotation. The storyline of Enzo Maresca's youthful squad running down a title-hunting Liverpool adds extra spice to what promises to be an open, high-tempo encounter.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Cole Palmer",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
@@ -275,42 +251,42 @@
         "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; 50/50 for Sunday's fixture"
+        "return": "Being assessed ahead of the weekend; potential return within 7–10 days if scan results are positive"
       },
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Reece James",
+        "team": "Chelsea",
         "status": "Recovering",
-        "return": "Expected to return to full training next week; targeting availability for mid-week fixture"
+        "return": "Targeting a return to full training within two weeks; match fitness expected by mid-month"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. The bank also estimates an asset correlation of 12% under the Basel IRB framework. Which of the following best describes the relationship between Expected Loss (EL) and Unexpected Loss (UL), and what does regulatory capital primarily cover?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
+      "question": "An analyst observes that the 2-year spot rate is 4.20% and the 3-year spot rate is 4.75%. Using the pure expectations theory, which of the following is closest to the implied one-year forward rate two years from now (1y2y)?",
       "options": {
-        "A": "EL = $90,000; regulatory capital covers EL because it represents the most probable loss outcome",
-        "B": "EL = $90,000; regulatory capital covers UL because EL is absorbed by loan loss provisions and pricing",
-        "C": "EL = $900,000; regulatory capital covers UL because EL is too small to require capital allocation",
-        "D": "EL = $90,000; regulatory capital covers both EL and UL equally to ensure full loss absorption"
+        "A": "4.48%",
+        "B": "5.86%",
+        "C": "4.75%",
+        "D": "5.12%"
       },
       "correct": "B",
-      "explanation": "Expected Loss = PD × LGD × EAD = 0.02 × 0.45 × $10,000,000 = $90,000. Under the Basel framework, EL is intended to be covered by loan loss reserves and incorporated into loan pricing — it is a cost of doing business. Regulatory capital (economic and risk-weighted capital) is specifically designed to absorb Unexpected Loss, which represents the volatility of losses around the expected value and poses true solvency risk. Asset correlation affects the shape of the loss distribution and thus the magnitude of UL, not EL itself."
+      "explanation": "Under the pure expectations theory, the forward rate is derived by equating the return from rolling short-term investments to the return from a longer-term bond. The 1y2y forward rate is calculated as: [(1.0475)^3 / (1.0420)^2] – 1 = (1.14887 / 1.08576) – 1 ≈ 5.81%, which rounds closest to 5.86% given slight rounding in spot rates. This concept tests the bootstrapping of forward rates from spot rates, a core CFA Level 2 fixed income skill. The pure expectations theory asserts that forward rates are unbiased predictors of future spot rates, ignoring liquidity and risk premiums."
     },
     "finance_topic": {
-      "title": "Basis Risk and the Limits of Hedging",
-      "subtitle": "Why even well-constructed hedges can leave significant residual risk on the table.",
+      "title": "Basis Risk and Hedging Imperfection in Practice",
+      "subtitle": "Why even well-structured hedges leave residual risk that can surprise risk managers and investors alike.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument used to hedge does not move in perfect lockstep with the price of the underlying exposure being hedged. It is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when a hedge is directionally correct — meaning the hedge position gains when the underlying loses — imperfect correlation between the two instruments means a residual, unhedged risk remains. This residual exposure is basis risk, and it cannot be eliminated through position sizing alone.",
-        "A classic real-world example involves an airline hedging jet fuel costs using crude oil futures. Jet fuel and crude oil prices are highly correlated, but refining margins, regional supply disruptions, and seasonal demand patterns can cause jet fuel to move independently of crude. During the 2022 energy shock, crack spreads — the margin between crude and refined products — widened dramatically, meaning airlines that hedged via crude futures still faced surging effective fuel costs. Similarly, a bond portfolio manager hedging interest rate risk with Treasury futures faces basis risk if the portfolio contains corporate or mortgage bonds whose spreads widen during a flight-to-quality event.",
-        "For risk managers and investors, the critical implication is that hedge effectiveness must be continuously monitored, not assumed. Regulatory frameworks such as IFRS 9 and ASC 815 require entities to formally demonstrate hedge effectiveness through both prospective and retrospective testing. A hedge ratio derived from historical correlation can break down precisely when it matters most — during market stress, when correlations shift and liquidity in the hedging instrument diverges from the underlying. Understanding the sources of basis — location, quality, timing, and instrument type — allows practitioners to select superior hedging instruments and size residual basis risk appropriately within overall risk limits."
+        "Basis risk refers to the risk that the value of a hedge does not move in perfect lockstep with the value of the underlying exposure being hedged. It arises whenever the instrument used to hedge — such as a futures contract, an interest rate swap, or an ETF — differs from the actual asset in terms of maturity, credit quality, geography, or liquidity. In theory, a perfect hedge eliminates all price risk; in practice, basis risk ensures that some residual profit or loss almost always remains.",
+        "A classic example emerged during the 2022 UK gilts crisis, when liability-driven investment (LDI) funds used interest rate swaps and gilt repo strategies to hedge long-duration pension liabilities. When gilt yields spiked violently, the basis between swap rates and actual gilt yields widened sharply, margin calls cascaded, and funds were forced to liquidate assets at distressed prices — a scenario their hedging models had underweighted. Similarly, commodity producers hedging jet fuel costs with crude oil futures routinely absorb crack-spread basis risk when the refining margin diverges from historical norms.",
+        "For investors and risk managers, understanding basis risk is critical before deploying any hedging strategy. A hedge with high basis risk may provide false comfort — reducing headline volatility on paper while leaving the portfolio exposed to gap risk in stressed environments. Risk managers should stress-test the correlation between the hedge instrument and underlying exposure, monitor it dynamically, and account for liquidity risk in margin-intensive derivatives structures. The cost of basis risk is often invisible during calm markets and painfully visible during crises."
       ],
       "key_takeaways": [
-        "Basis risk is the irreducible residual risk remaining after a hedge is placed, arising from imperfect correlation between the hedged item and the hedging instrument.",
-        "Basis risk can be as damaging as the underlying price risk itself during stress periods when correlations break down — the 2022 energy and credit markets are recent examples.",
-        "Effective risk management requires ongoing hedge effectiveness testing and explicit sizing of basis risk within VaR or stress testing frameworks, not a set-and-forget approach."
+        "Basis risk is the residual mismatch between a hedge instrument and the underlying exposure — it can never be fully eliminated in real-world hedges.",
+        "Correlation between hedge and underlying is not static; it often breaks down precisely when protection is needed most, such as during liquidity crises.",
+        "Risk managers must stress-test hedge effectiveness under adverse scenarios and ensure sufficient liquidity to sustain margin calls without forced deleveraging."
       ]
     },
     "japanese": {
@@ -318,33 +294,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that something happened completely or regrettably — often used when an action was unintentional or has an unfortunate result. Think of it as 'ended up doing' or 'unfortunately did.'",
-      "memory_tip": "Imagine a 'yo-yo' spinning out of control, SANking your savings — your YO-SAN (budget) is gone! The yo-yo going wild captures that helpless feeling of overspending."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality — like 'ended up doing' or 'have completely done.' It combines the te-form of a verb with しまいました, the polite past form of しまう.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money YOU have planned for spending. Picture your wallet with a sticky note saying 'YOUR SUM = ¥50,000' to lock in the meaning of budget."
     },
     "ai_strategy": {
-      "headline": "Agentic AI Is Quietly Reshaping How Financial Analysts Do Research",
-      "summary": "A new generation of autonomous AI agents — systems that can plan multi-step tasks, call external tools, and iterate toward a goal without constant human prompting — is moving from research labs into financial workflows. Firms including Morgan Stanley, Bloomberg, and several hedge funds are deploying agent frameworks that can autonomously pull earnings transcripts, run quantitative screens, draft initial investment memos, and flag contradictions in management guidance. Unlike simple chatbots that answer one question at a time, these agents maintain state across a session, meaning they can conduct hours of research work in minutes. The critical insight for finance professionals is not that these agents replace analysts, but that they dramatically shift where human judgment adds value — from information gathering to hypothesis generation and critical challenge.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several European universal banks are deploying large language models and gradient-boosted machine learning models to augment — and in some cases partially automate — credit underwriting decisions for SME and consumer lending portfolios. These systems ingest alternative data sources including cash flow patterns, supplier payment histories, and even satellite imagery of commercial properties to generate credit scores that outperform traditional FICO-based models on default prediction accuracy. Regulators in the EU and US are scrambling to finalize model risk management guidance specific to AI-driven credit decisions, with particular focus on explainability requirements under the EU AI Act. For finance professionals, the shift signals a structural reduction in junior underwriting roles alongside surging demand for model validators, AI risk officers, and quantitative analysts who can audit machine learning outputs.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems capable of autonomously breaking down complex goals into subtasks, using tools like web search or code execution, and iterating until the goal is achieved — relevant in finance for tasks like multi-source due diligence or automated report generation."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and non-linear relationships that logistic regression misses."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically retrieves relevant documents or data (e.g., 10-K filings, analyst reports) before generating a response, dramatically improving accuracy and reducing hallucinations in financial research applications."
+          "term": "Explainability (XAI) and SHAP Values",
+          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input variable contributed to a specific model prediction — critical in finance where regulators require lenders to explain why a credit application was declined in plain language."
         },
         {
-          "term": "Tool Use / Function Calling",
-          "definition": "The ability of an AI model to invoke external systems — such as databases, calculators, or APIs — mid-conversation to fetch real data or execute computations, enabling reliable quantitative analysis rather than relying solely on learned knowledge."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as transaction flows, web scraping, geospatial data, or social signals — used to enrich credit and investment models, particularly valuable for assessing borrowers with thin or no traditional credit history."
         }
       ],
-      "career_insight": "The finance professionals best positioned for the next five years are those who develop 'AI fluency' — the ability to critically evaluate AI outputs, design effective prompts and agent workflows, and identify where model limitations create risk. Technical skills matter less than the combination of deep domain expertise and the ability to act as an intelligent supervisor of AI systems; the analyst who understands both DCF modeling and how to audit an LLM's reasoning chain will be far more valuable than one who knows only one of these."
+      "career_insight": "The fastest-growing hybrid role in financial risk management is the 'AI Risk Validator' — a professional who combines domain expertise in credit, market, or operational risk with the technical ability to audit, challenge, and document machine learning model outputs for regulatory compliance. Finance professionals who invest in learning Python, model interpretability tools like SHAP, and the conceptual foundations of supervised learning will be significantly more resilient as automation compresses traditional analyst pipelines. Soft skills in communicating model limitations to non-technical stakeholders — regulators, board members, and clients — are equally prized."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite is cautiously constructive this morning as U.S. equity futures tick modestly higher, but the macro picture remains complex — sticky core services inflation continues to push back against early Fed cut expectations, with the first fully-priced cut now not arriving until late Q3 per fed funds futures. The dollar is softer on the margin as China signals incremental fiscal stimulus measures, providing a modest tailwind for EM assets and commodities, though credit spreads in European high yield are nudging wider on renewed concerns over refinancing risk for leveraged borrowers facing a higher-for-longer rate environment. Today's session is likely to be headline-driven ahead of this week's Fed speaker slate, with investors particularly attuned to any shift in language around the balance sheet runoff trajectory."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this week, though macro crosscurrents are keeping volatility elevated across rates and FX. US Treasury yields have drifted higher on the back of stickier-than-expected core services inflation and a resilient labor market, pushing back near-term Fed cut pricing and pressuring rate-sensitive equity sectors including utilities and REITs. In credit markets, investment-grade spreads remain tight reflecting strong corporate balance sheets, while high-yield is showing early signs of spread widening in cyclical sectors as recession probability estimates edge higher among buy-side strategists. Watch the USD closely — a sustained break above the 105 DXY level would add headwinds for EM local currency debt and commodity-linked assets, while any dovish pivot signals from Fed speakers could reignite the risk-on momentum seen in Q1."
   }
 }
