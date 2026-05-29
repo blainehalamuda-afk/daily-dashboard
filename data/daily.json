@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:23 PM UTC",
-  "date": "Thursday, May 28, 2026",
+  "generated_at": "2:35 PM UTC",
+  "date": "Friday, May 29, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 84,
-    "feels_like_f": 89,
-    "high_f": 87,
-    "low_f": 82,
+    "temp_f": 76,
+    "feels_like_f": 76,
+    "high_f": 79,
+    "low_f": 75,
     "description": "Broken Clouds",
     "icon": "☁️",
-    "humidity": 63,
-    "wind_mph": 7,
+    "humidity": 52,
+    "wind_mph": 9,
     "forecast": [
-      {
-        "day": "Fri",
-        "icon": "☁️",
-        "high": 64,
-        "low": 64,
-        "description": "Overcast Clouds"
-      },
       {
         "day": "Sat",
         "icon": "🌧️",
-        "high": 71,
-        "low": 71,
+        "high": 70,
+        "low": 70,
         "description": "Light Rain"
       },
       {
         "day": "Sun",
         "icon": "☁️",
-        "high": 59,
-        "low": 59,
+        "high": 60,
+        "low": 60,
         "description": "Broken Clouds"
+      },
+      {
+        "day": "Mon",
+        "icon": "☁️",
+        "high": 66,
+        "low": 66,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 753.67,
-        "change": 3.21,
-        "change_pct": 0.43,
+        "price": 756.86,
+        "change": 2.26,
+        "change_pct": 0.3,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 311.65,
-        "change": 0.8,
-        "change_pct": 0.26,
+        "price": 313.8,
+        "change": 1.29,
+        "change_pct": 0.41,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 212.93,
-        "change": 0.33,
-        "change_pct": 0.16,
+        "price": 216.31,
+        "change": 2.06,
+        "change_pct": 0.96,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 441.45,
-        "change": 1.09,
-        "change_pct": 0.25,
-        "up": true,
+        "price": 431.59,
+        "change": -10.51,
+        "change_pct": -2.38,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 72837.22,
-        "change": -2424.78,
-        "change_pct": -3.22,
+        "price": 72851.18,
+        "change": -105.85,
+        "change_pct": -0.15,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1988.17,
-        "change": -82.54,
-        "change_pct": -3.99,
-        "up": false,
+        "price": 1991.27,
+        "change": 2.6,
+        "change_pct": 0.13,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition: 'We are on the lookout’ - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html",
-        "description": "A $20 billion deal would be among the largest in JPMorgan's history and could invite regulatory scrutiny given its position as the largest U.S. bank by assets.",
-        "published": "2:05 PM UTC",
+        "title": "Dow Jones Futures Fall, Snowflake Surges On Earnings; Fed Inflation Data Due - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amazon-marvell-snowflake-earnings/",
+        "description": "Snowflake skyrocketed overnight on earnings while Marvell led several losers.",
+        "published": "12:08 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too - CNBC",
+        "title": "More monthly auto loan payments are above $1,000, and most are not for luxury models - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html",
-        "description": "The new products allow customers to create AI assistants capable of carrying out investing strategies or spending instructions with minimal human involvement.",
-        "published": "12:32 PM UTC",
+        "url": "https://www.cnbc.com/2026/05/28/monthly-auto-loan-payments-above-1000-growing.html",
+        "description": "The top five models for the $1,000-plus payments were popular pickup trucks including the Ford F-150, Chevrolet Silverado 1500 and Ram 1500.",
+        "published": "12:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Space stocks surge after SpaceX IPO S-1 filing - qz.com",
-        "source": "Quartz India",
-        "url": "https://qz.com/space-stocks-surge-spacex-ipo-filing-052726",
-        "description": "The VanEck space ETF is up 24% in five days, with Redwire, Rocket Lab, and AST SpaceMobile among the biggest movers",
-        "published": "12:12 PM UTC",
+        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq close at record highs on hopes for Iran war ending; oil prices drop; Micron extends epic run - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-us-iran-peace-deal",
+        "description": "",
+        "published": "11:54 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Dragon Quest 12: Beyond Dreams reveals first trailer and details five years after announcement - Nintendo Everything",
-        "source": "Nintendoeverything.com",
-        "url": "https://nintendoeverything.com/dragon-quest-12-beyond-dreams-reveals-first-trailer-and-details-five-years-after-announcement/",
-        "description": "After years of waiting, Dragon Quest 12 has finally resurfaced. Square Enix shared an update in celebration of the series’ 40th anniversary today. Dragon Quest 12 was revealed five years ago today. Ho",
-        "published": "1:20 PM UTC",
+        "title": "The Outer Worlds 'Free' PS5 Upgrade Has Immediately Turned into a Mess - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/05/the-outer-worlds-free-ps5-upgrade-has-immediately-turned-into-a-mess",
+        "description": "Mixed messaging from Obsidian",
+        "published": "10:15 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Mina the Hollower Review - Refined Throwback - Game Informer",
-        "source": "Gameinformer.com",
-        "url": "https://gameinformer.com/review/mina-the-hollower/refined-throwback",
-        "description": "Mina the Hollower looks like a nostalgic throwback, and it undeniably is, but its thoughtful design and larger sensibilities make it play and feel like a contemporary video game – one that has taken t",
-        "published": "1:12 PM UTC",
+        "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880 - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+        "description": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+        "published": "7:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Dragon Quest Monsters: The Withered World announced for PS5, Xbox Series, Switch 2, Switch, and PC - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/05/dragon-quest-monsters-the-withered-world-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
-        "description": "Square Enix has announced Dragon Quest Monsters: The Withered World for PlayStation 5, Xbox Series, Switch 2, Switch, and PC (Steam, Microsoft Store). A release date was not announced. In Japan, it…",
-        "published": "1:10 PM UTC",
+        "title": "The golden age of handheld gaming is already over - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+        "description": "With Valve raising the starting price of the Steam Deck gaming handheld to $789, handhelds aren’t just getting more expensive — they’re out of reach for many.",
+        "published": "6:30 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "S&P 500, Nasdaq futures jump as oil falls, Micron continues epic run: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/26/stock-market-today-live-updates.html",
-        "description": "The S&P 500 and Nasdaq Composite rose to fresh intraday and closing records on Tuesday.",
-        "published": "2:25 PM UTC",
+        "title": "A rare blue micromoon rises this weekend - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/blue-micromoon-supermoon-astronomy-52449eae9ac9cc2c3fd42e4805d66cee",
+        "description": "Get set for a rare blue micromoon this weekend. It's when a blue moon that's also the most distant and smallest-looking full moon of the year rises. The brilliant star Antares will photobomb Sunday's ",
+        "published": "12:03 PM UTC",
         "category": "General"
       },
       {
-        "title": "'MobLand' Mess: Tom Hardy 'Refused' to Come Out of Trailer - The Hollywood Reporter",
-        "source": "Hollywood Reporter",
-        "url": "http://www.hollywoodreporter.com/tv/tv-news/mobland-tom-hardy-fired-pierce-brosnan-helen-mirren-1236606437/",
-        "description": "A source close to production tells The Hollywood Reporter that, if greenlit, season three of 'MobLand' is set to shoot this year — but Hardy's on-set behavior on the second season has spooked producer",
-        "published": "2:20 PM UTC",
+        "title": "Live Updates: Iran fires missile at Kuwait after U.S. strikes, as Trump says regime \"negotiating on fumes\" - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-trump-oman-strait-of-hormuz-deal/",
+        "description": "Iran says it targeted a U.S. base in retaliation for the second set of what the Pentagon calls \"purely defensive\" strikes carried out this week.",
+        "published": "11:41 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "\"Vast fortune\" belonging to legendary Mafia boss seized by police in Italy - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/mafia-matteo-messina-denaro-vast-fortune-seized-police-italy/",
+        "description": "Italy said it was seizing $232 million in assets belonging to the late Mafia boss Matteo Messina Denaro, who was captured after 30 years on the run.",
+        "published": "11:28 AM UTC",
         "category": "General"
       }
     ]
@@ -251,108 +259,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Enter Advanced Talks for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Arsenal are reportedly in advanced discussions with Sporting CP over a summer move for Swedish striker Viktor Gyökeres, with a fee believed to be in the region of £85 million. The Gunners view Gyökeres as the clinical finishing upgrade needed to mount a genuine title challenge next season.",
+        "headline": "Liverpool Target Bundesliga Midfielder as Gravenberch Cover Sought",
+        "summary": "Liverpool's recruitment team is reportedly monitoring a dynamic box-to-box midfielder from the Bundesliga as Arne Slot looks to add depth and competition in central midfield ahead of the January window. Personal terms are said to be straightforward, with the structural fee the key sticking point.",
         "clubs": [
-          "Arsenal",
-          "Sporting CP"
+          "Liverpool",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Eye Bayer Leverkusen's Granit Xhaka in Midfield Rebuild",
-        "summary": "Manchester United's new football structure is considering a shock move to re-sign Granit Xhaka from Bayer Leverkusen as part of a broader midfield overhaul under new manager oversight. Xhaka's Bundesliga title-winning form has reportedly impressed United's recruitment team significantly.",
+        "headline": "Chelsea Reignite Interest in Serie A Centre-Back as Injury Crisis Deepens",
+        "summary": "Chelsea are understood to have reopened dialogue with an Italian club over a highly-rated centre-back, with a potential loan-to-buy structure on the table after a string of defensive injuries left Enzo Maresca short of options at the back. The player is keen on a Premier League move.",
         "clubs": [
-          "Manchester United",
-          "Bayer Leverkusen"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The Premier League's most consequential fixture of the season arrives at the Etihad with both sides separated by just two points at the top of the table, making this a genuine six-pointer with title implications. City will be energized by Haaland's return to sharpness, while Liverpool under their revitalized setup have been the division's most consistent side over the last eight weeks. Expect a tactically disciplined, high-intensity contest where set pieces and individual moments of quality are likely to be decisive.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The standout fixture of the weekend pits an Arsenal side desperate to close the gap at the top against a Manchester City team that has found more consistent form under Pep Guardiola after a rocky start to the campaign. The Gunners have the home advantage and a fiercely vocal Emirates crowd behind them, but City's ability to control possession and suffocate spaces makes this a genuine 50-50 contest. With the title narrative still very much alive for both clubs, this fixture carries enormous psychological weight beyond the three points on offer.",
       "key_players": [
+        "Bukayo Saka",
         "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; targeting return within 7–10 days"
-      },
-      {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "On track to return after the international break, approximately 2–3 weeks"
+        "return": "Long-term absentee — reassessed in late spring"
+      },
+      {
+        "player": "Ben White",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of Sunday; 50-50 to feature"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the most significant limitation of this approach, as highlighted during the 2007–2008 financial crisis?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, $1,000 face value, and 5 years to maturity is priced at $1,054.17. An analyst observes that the bond's yield to maturity (YTM) is closest to 4.8%. If market interest rates rise by 100 basis points, which of the following best describes the expected price change, and why?",
       "options": {
-        "A": "The model cannot incorporate default correlations between obligors in a portfolio.",
-        "B": "The model assumes constant and symmetric tail dependence, underestimating joint defaults in stress scenarios.",
-        "C": "The Gaussian copula produces heavy-tailed marginal distributions that overstate individual default probabilities.",
-        "D": "The model is computationally intractable for portfolios exceeding 100 obligors."
+        "A": "The price will fall by approximately 4.3%, because bond prices and yields move inversely, with the magnitude driven by duration.",
+        "B": "The price will rise by approximately 4.3%, because higher yields increase the present value of future cash flows.",
+        "C": "The price will fall by exactly 5%, because the coupon rate minus the yield change determines percentage price decline.",
+        "D": "The price will remain unchanged because the coupon payments offset the increase in discount rates."
       },
-      "correct": "B",
-      "explanation": "The Gaussian copula's critical flaw is that it exhibits zero tail dependence — meaning it severely underestimates the probability that many obligors default simultaneously during extreme stress events. During the 2008 crisis, correlations between mortgage defaults spiked far beyond historical norms, exposing this assumption as dangerously optimistic. Alternative copulas such as the Student-t or Clayton copula better capture asymmetric and heavy-tail dependence structures. This limitation led to catastrophic mispricing of CDO tranches that had been rated AAA under Gaussian copula-based models."
+      "correct": "A",
+      "explanation": "Bond prices move inversely with interest rates — when yields rise, the present value of future cash flows falls, reducing the bond's price. The magnitude of the price change is approximated by modified duration multiplied by the change in yield (in decimal form). For a 5-year coupon bond priced near par, modified duration is roughly 4.2–4.4 years, implying an approximate 4.3% price decline for a 100 bps rise. Options B and C misstate the direction or mechanics, and D ignores the time value of money principle entirely."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why imperfect hedges can leave residual exposure that surprises even experienced risk managers.",
+      "title": "Basis Risk and Hedging Effectiveness in Derivatives",
+      "subtitle": "Understanding why imperfect hedges leave residual exposure that can surprise even sophisticated risk managers.",
       "paragraphs": [
-        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the price of the underlying exposure being hedged. Formally, the basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedge is carefully constructed, differences in contract specifications, delivery locations, quality grades, or maturities mean the basis can fluctuate unpredictably, leaving the hedger with residual profit-and-loss volatility.",
-        "A classic real-world example occurred in energy markets, where jet fuel consumers attempted to hedge their exposure using crude oil futures — a so-called cross-hedge. During periods of refinery stress or supply disruptions, the crack spread (the differential between crude oil and refined jet fuel prices) widened dramatically, meaning the crude futures hedge failed to offset the rising cost of jet fuel. Airlines that assumed a stable basis suffered significant unhedged losses even though they were technically 'hedged' on paper.",
-        "For risk managers and portfolio hedgers, basis risk demands that hedge effectiveness be continuously monitored, not just assumed at inception. Under IFRS 9 and ASC 815, hedge accounting requires formal documentation and ongoing effectiveness testing precisely because regulators recognize that imperfect hedges can create earnings volatility. Managers should stress-test basis assumptions across historical regimes — particularly crisis periods — and consider dynamic hedging programs or options overlays to bound worst-case basis blowouts."
+        "Basis risk arises when the asset being hedged and the instrument used to hedge it do not move in perfect lockstep. Formally, basis is defined as the difference between the spot price of the asset to be hedged and the futures (or derivative) price of the hedging instrument. Even when a trader constructs what appears to be a textbook hedge, changes in this basis over the life of the hedge can result in gains or losses that were not anticipated — a phenomenon that distinguishes theoretical hedge ratios from real-world outcomes.",
+        "A classic example occurred during the 2008 financial crisis when many banks used credit default swap (CDS) indices to hedge bespoke corporate bond portfolios. The index tracked a standardized basket of investment-grade names, while the underlying portfolios held illiquid, off-index securities. As liquidity dried up, basis between the hedge and the exposure widened dramatically — some desks that were 'fully hedged' on paper suffered hundreds of millions in mark-to-market losses purely from basis moves. Similarly, airlines hedging jet fuel with crude oil futures face commodity basis risk, since jet fuel and WTI crude do not always move in a fixed ratio.",
+        "For investors and risk managers, basis risk has direct implications for hedge ratio calibration and VaR model assumptions. Treating a hedge as 'perfect' when basis risk exists leads to systematic underestimation of tail risk. The hedge effectiveness ratio — computed as the R-squared of the regression between changes in the hedged item's value and changes in the hedging instrument — should be monitored dynamically rather than set once at inception. Regulators under IFRS 9 and ASC 815 require entities to document and periodically assess hedge effectiveness, reflecting the acknowledgment that basis risk is not a static quantity."
       ],
       "key_takeaways": [
-        "Basis risk is the residual volatility remaining after a hedge is applied, driven by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Cross-hedges — using a related but non-identical instrument — carry materially higher basis risk and require rigorous ongoing monitoring.",
-        "Stress-testing basis assumptions under crisis scenarios is essential, as correlations between spot and futures prices frequently break down precisely when hedges are most needed."
+        "Basis risk is the residual risk remaining after a hedge is placed, arising from imperfect correlation between the hedged asset and the hedging instrument.",
+        "Widening basis — especially during market stress — can transform a theoretically hedged position into a significant source of unexpected loss.",
+        "Effective risk management requires dynamic monitoring of hedge effectiveness ratios and explicit stress-testing of basis scenarios, not just parallel shift assumptions."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; agreement",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenditure",
       "part_of_speech": "noun",
-      "example_jp": "友達と明日の午後三時に会う約束をしました。",
-      "example_romaji": "Tomodachi to ashita no gogo sanji ni au yakusoku wo shimashita.",
-      "example_en": "I made a promise to meet my friend tomorrow at 3 PM.",
-      "grammar_point": "〜をしました (did/made ~)",
-      "grammar_explanation": "The pattern 'noun + をしました' expresses that you did or performed an action. Here, 'yakusoku wo shimashita' literally means 'made a promise,' and this construction works with many nouns that describe actions or events.",
-      "memory_tip": "Think of 'YAKU' as 'a pact' (like a yakuza oath — serious and binding!) and 'SOKU' as 'so cool to keep.' A yakusoku is a pact so cool you must keep it."
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It combines the te-form of a verb with しまう (shimau) in past polite form.",
+      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead' and 算 (san) as 'calculate' — a budget is literally a pre-planned calculation. Picture a stressed accountant yelling 'Yo, San! We blew the budget!'"
     },
     "ai_strategy": {
-      "headline": "Agentic AI Systems Begin Automating Complex Financial Analysis Workflows End-to-End",
-      "summary": "A new generation of agentic AI systems — capable of autonomously planning, executing multi-step tasks, and self-correcting — is moving beyond simple chatbots into core financial workflows. Leading banks and asset managers are piloting agents that can pull live market data, run scenario analyses, draft credit memos, and flag compliance issues with minimal human intervention. Unlike earlier LLM deployments limited to text generation, these agents integrate with APIs, code interpreters, and internal data warehouses to complete full analytical chains. The shift is forcing institutions to rethink not just technology infrastructure but the fundamental design of analyst and risk roles.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Lending Decisions and Risk Teams",
+      "summary": "Major banks and fintech lenders are deploying large language models and gradient boosting ensembles to augment — and in some cases replace — traditional scorecard-based credit underwriting. These systems ingest alternative data sources including cash flow patterns, supply chain signals, and even satellite imagery to generate dynamic credit assessments that update in near real-time. Regulators in the US and EU are scrambling to develop explainability standards, as the opacity of ensemble models creates fair lending compliance challenges. For finance professionals, the shift means that credit risk roles are evolving from rule-based governance toward model validation, feature engineering oversight, and AI audit competencies.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "An AI system that can autonomously set sub-goals, use tools, retrieve information, and complete multi-step tasks without requiring human prompting at each step — analogous to delegating a research task to a junior analyst who works independently and reports back."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions from structured financial data like loan applications, payment histories, and financial ratios."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically retrieves relevant documents or data from external sources before generating a response, allowing it to ground answers in current financial filings, market data, or internal reports rather than relying solely on training data."
+          "term": "Explainability / SHAP Values",
+          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input feature contributed to a model's prediction for a specific case — critical in credit decisions where regulators require lenders to explain adverse action notices to applicants."
         },
         {
-          "term": "Tool Use / Function Calling",
-          "definition": "The ability of an AI model to invoke external APIs, run code, query databases, or call financial data services mid-conversation — enabling it to fetch live prices, execute calculations, or pull regulatory filings on demand."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as utility payment history, e-commerce transaction flows, geolocation patterns, or web-scraped business signals — used to assess creditworthiness for borrowers with thin or no credit files."
         }
       ],
-      "career_insight": "Finance professionals who will thrive are those who can design, supervise, and critically evaluate AI agent workflows rather than simply consume their outputs. The highest-value skill is becoming an 'AI orchestrator' — someone who understands enough about both financial domain logic and AI system behavior to catch hallucinations, define appropriate guardrails, and improve agent performance iteratively. Roles in credit analysis, equity research, and risk are not disappearing, but they are rapidly bifurcating into those who leverage agents as force multipliers and those who are displaced by them."
+      "career_insight": "Credit risk analysts and underwriters who can bridge the gap between model outputs and regulatory compliance will be disproportionately valuable in the next five years. The most sought-after skill set combines Python/SQL proficiency for working with model outputs, a solid foundation in statistical inference, and fluency in fair lending frameworks like ECOA and the EU AI Act. Understanding how to challenge and validate AI models — not just consume them — is quickly becoming a core competency rather than a nice-to-have."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as markets digest a softer-than-expected US core PCE print, reinforcing the Fed's data-dependent pause narrative and pushing the two-year Treasury yield back below 4.70%. Equity markets are grinding higher on the margin, led by rate-sensitive sectors including utilities and REITs, though breadth remains narrow and the VIX hovering near 14 suggests complacency rather than conviction. The key macro overhang remains the divergence in central bank paths — the ECB is widely expected to cut ahead of the Fed, which is quietly pressuring EUR/USD toward the 1.07 handle and creating cross-asset ripples in EM currency carry trades."
+    "market_sentiment": "Global risk assets are navigating a delicate macro backdrop this week as markets weigh resilient US labor market data against softening manufacturing PMIs across the Eurozone and China, keeping the 'higher for longer' rate narrative firmly intact and flattening the front end of most G10 curves. The USD has regained modest safe-haven bids, pressuring EM currencies, while crude oil continues to consolidate in the mid-$70s as OPEC+ supply discipline faces skepticism from traders eyeing rising non-OPEC output. Equity sentiment remains cautiously constructive on large-cap tech earnings revisions, but credit spreads in BB-rated high yield are quietly widening — a signal worth watching as a leading indicator of broader risk appetite deterioration heading into the next Fed decision."
   }
 }
