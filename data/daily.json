@@ -1,37 +1,37 @@
 {
-  "generated_at": "1:09 PM UTC",
-  "date": "Sunday, May 31, 2026",
+  "generated_at": "5:12 PM UTC",
+  "date": "Monday, June 1, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 64,
-    "feels_like_f": 63,
-    "high_f": 66,
-    "low_f": 62,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 67,
-    "wind_mph": 10,
+    "temp_f": 83,
+    "feels_like_f": 87,
+    "high_f": 85,
+    "low_f": 80,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 62,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Mon",
-        "icon": "☁️",
-        "high": 68,
-        "low": 68,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Tue",
         "icon": "☁️",
-        "high": 63,
-        "low": 63,
+        "high": 65,
+        "low": 65,
         "description": "Broken Clouds"
       },
       {
         "day": "Wed",
         "icon": "☀️",
-        "high": 61,
-        "low": 61,
+        "high": 59,
+        "low": 59,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "high": 63,
+        "low": 63,
         "description": "Clear Sky"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 756.48,
-        "change": 1.88,
-        "change_pct": 0.25,
+        "price": 757.2,
+        "change": 0.72,
+        "change_pct": 0.1,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 312.06,
-        "change": -0.45,
-        "change_pct": -0.14,
+        "price": 305.47,
+        "change": -6.59,
+        "change_pct": -2.11,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 211.14,
-        "change": -3.11,
-        "change_pct": -1.45,
-        "up": false,
+        "price": 221.74,
+        "change": 10.6,
+        "change_pct": 5.02,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 435.79,
-        "change": -6.31,
-        "change_pct": -1.43,
+        "price": 420.28,
+        "change": -15.51,
+        "change_pct": -3.56,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 73919.99,
-        "change": 158.07,
-        "change_pct": 0.21,
-        "up": true,
+        "price": 71627.99,
+        "change": -1872.0,
+        "change_pct": -2.55,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2023.96,
-        "change": 2.97,
-        "change_pct": 0.15,
-        "up": true,
+        "price": 1984.7,
+        "change": -14.52,
+        "change_pct": -0.73,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,75 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "The SpaceX IPO is great for Elon Musk and terrible for you - The Verge",
+        "title": "United flight forced to turn around because of a Bluetooth speaker name - The Verge",
         "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
-        "description": "Elon Musk is hoping you will be fooled by his repeated invocation of Mars — because he wants you to finance his bad AI company.",
-        "published": "12:00 PM UTC",
+        "url": "https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb",
+        "description": "A ‘certain four-letter word’ sparked a security incident.",
+        "published": "3:50 PM UTC",
         "category": "Business"
       },
       {
-        "title": "We did the math on Ken Griffin's pied-à-terre tax bill - Business Insider",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/ken-griffin-pay-mamdani-nyc-pied-a-terre-tax-2026-5",
-        "description": "New York City's tax on second homes is now in effect after backlash from billionaires, including the Citadel CEO.",
-        "published": "9:56 AM UTC",
+        "title": "Market concentration is creating 'fragility': Only 60% of S&P 500 stocks are above their 200-day average - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/article/market-concentration-is-creating-fragility-only-60-of-sp-500-stocks-are-above-their-200-day-average-135336513.html",
+        "description": "Stocks zoomed to all-time highs, but Wall Street wants to see broader participation.",
+        "published": "3:16 PM UTC",
         "category": "Business"
       },
       {
-        "title": "United Airlines plane diverted and ‘unruly passenger’ detained after in-flight incident - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/united-airlines-plane-diverted-unruly-passenger-detained-rcna347658",
-        "description": "A United flight bound for Minneapolis diverted to Dane County Regional Airport Friday night after reports of an unruly passenger, officials said",
-        "published": "8:24 AM UTC",
+        "title": "Alaska Airlines accused of letting drunken passengers board flights, faces stiff penalty - KING5.com",
+        "source": "KING5.com",
+        "url": "https://www.king5.com/article/news/nation-world/alaska-airlines-fine-faa-federal-flight-violations-intoxicated-passengers/507-ddb968f5-3d43-4e5c-b355-1802ce58fcd0",
+        "description": "Alaska Airlines is facing a hefty fine for letting intoxicated passengers board flights, the FAA claims. Here's how much the airline could forced to pay. (AP Photo)",
+        "published": "1:34 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Sony Is Wrong To Take ‘Destiny 2’ Support Down To Absolute Zero - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/",
-        "description": "When Sony says Destiny 2 is getting no more updates, they truly mean zero, and that is a big mistake for a franchsie this storied.",
-        "published": "1:51 PM UTC",
+        "title": "Apple Glasses Reportedly Launching in 'Late 2027' With These Features - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/05/31/apple-glasses-late-2027-report/",
+        "description": "Apple is now aiming to release its first smart glasses in \"late 2027,\" according to the latest word from Bloomberg's Mark Gurman.  Meta...",
+        "published": "4:21 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "The ‘Return To Xbox’ Movement Is Starting To Lose The Plot - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/05/30/the-return-to-xbox-movement-is-starting-to-lose-the-plot/",
-        "description": "Microsoft is trying to recapture Xbox magic, but doing so by getting lost in minor complaints from fans, with big solutions nowhere in sight.",
-        "published": "12:35 PM UTC",
+        "title": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In June 2026 - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/05/video-11-exciting-new-games-coming-to-switch-1-and-2-in-june-2026",
+        "description": "Star Fox, Final Fantasy and more!",
+        "published": "4:08 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Scoop: First Windows PCs powered by Nvidia chips to debut next week - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell",
-        "description": "The chips will appear in Microsoft Surface computers and PCs from other manufacturers.",
-        "published": "12:04 PM UTC",
+        "title": "Phanteks’ new EX cases let users put ugly graphics cards in their own \"shame box\" - VideoCardz.com",
+        "source": "Videocardz.com",
+        "url": "https://videocardz.com/newz/phanteks-new-ex-cases-let-users-put-ugly-graphics-cards-in-their-own-shame-box",
+        "description": "Phanteks has a new case series for users who want to build a clean PC (with GPU hidden) We have first footage from Computex thanks to Hardware Canucks who",
+        "published": "4:01 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "WHO Chief Visits Bunia—Epicenter Of Africa’s Ebola Outbreak (Live Updates) - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/30/who-chief-visits-bunia-epicenter-of-africas-ebola-outbreak-live-updates/",
-        "description": "There have been more than 220 suspected deaths since the start of the Ebola outbreak.",
-        "published": "2:15 PM UTC",
+        "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2z23122zo",
+        "description": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
+        "published": "5:40 PM UTC",
         "category": "General"
       },
       {
-        "title": "Jameis Winston on Jaxson Dart-Abdul Carter issue: “We’ve grown from it” - NBC Sports",
-        "source": "NBCSports.com",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameis-winston-on-jaxson-dart-abdul-carter-issue-weve-grown-from-it",
-        "description": "On Friday, the Giants made both quarterback Jaxson Dart and linebacker Abdul Carter available to reporters to discuss the situation that unfolded when Dart introduced President Donald Trump at a rally",
-        "published": "1:51 PM UTC",
+        "title": "Newark mayor imposes curfew around Delaney Hall after clashes over immigration detention center - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/delaney-hall-new-jersey-immigration-f46fbc4942e063c74fa7b3515eb4dbc6",
+        "description": "The mayor of Newark has imposed a curfew around an immigration detention center in New Jersey after a series of intense clashes between protestors and police. Mayor Ras Baraka said early Sunday that t",
+        "published": "4:34 PM UTC",
         "category": "General"
       },
       {
-        "title": "Cats could help scientists better understand human cancer, study says - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/lifestyle/2026/05/30/scientists-find-cancer-gene-similarities-cats-humans-study-says/",
-        "description": "A study of nearly 500 domestic cats uncovered similarities between cancer gene mutations in felines and humans.",
-        "published": "1:32 PM UTC",
+        "title": "Africa CDC Says Over 1,100 Suspected Ebola Cases In DR Congo And Uganda - Barron's",
+        "source": "Barron's",
+        "url": "https://www.barrons.com/articles/africa-cdc-says-over-1-100-suspected-ebola-cases-in-dr-congo-and-uganda-373233af",
+        "description": "More than 1,100 people were suspected of having contracted Ebola in the Democratic Republic of Congo and neighbouring Uganda, the head of the African Union's health agency said on Sunday in a commenta",
+        "published": "4:19 PM UTC",
         "category": "General"
       }
     ]
@@ -259,16 +259,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Summer Move for Stuttgart's Chris Führich",
-        "summary": "Arsenal's recruitment team has been tracking the German international winger ahead of a potential summer window approach, with the Gunners seeking wide reinforcements should Leandro Trossard's role evolve. Stuttgart are reportedly valuing the 26-year-old at around £45 million.",
+        "headline": "Chelsea Revive Interest in Napoli Midfielder as Midfield Rebuild Continues",
+        "summary": "Chelsea are reportedly weighing a £45m move for a Serie A midfielder as co-sporting directors attempt to add physicality and press-resistance to a squad that struggled for cohesion in central areas last season. Personal terms are said to be straightforward, with the player keen on a Premier League move.",
         "clubs": [
-          "Arsenal",
-          "VfB Stuttgart"
+          "Chelsea",
+          "Napoli"
         ]
       },
       {
-        "headline": "Liverpool in Advanced Talks to Extend Trent Alexander-Arnold Contract — Reports",
-        "summary": "Despite persistent speculation linking the right-back with Real Madrid on a free transfer, Merseyside sources suggest Liverpool have intensified efforts to retain Alexander-Arnold with a significantly improved contract offer. A final decision is expected before the end of the season.",
+        "headline": "Alexander-Arnold Future Uncertain as Real Madrid Maintain Long-Term Interest",
+        "summary": "Trent Alexander-Arnold's contract situation at Liverpool continues to attract speculation, with sources in Spain suggesting Real Madrid view him as a priority target should he enter the final year of his deal. Liverpool are pushing hard for an extension, offering a significant wage increase to retain their academy graduate.",
         "clubs": [
           "Liverpool",
           "Real Madrid"
@@ -276,10 +276,10 @@
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Arsenal",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "This fixture arrives as a genuine six-pointer in the title race, with both sides separated by just two points and each having dropped unexpected points in recent weeks. City's return of Rodri from long-term injury has steadied their midfield platform, while Arsenal will look to their fluid press and the creativity of Bukayo Saka to exploit any transition moments at the Etihad. The tactical battle between Pep Guardiola's positional structure and Mikel Arteta's high-energy counter-press promises to be one of the defining clashes of the domestic season.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The Emirates hosts what is arguably the fixture of the Premier League season so far, as Arsenal and Manchester City meet in a top-of-the-table clash that could define the early-season title narrative. Arsenal come in on a five-match winning run with their high press looking sharper under refined tactical tweaks, while City arrive slightly battle-scarred from a midweek European exertion but remain formidable in possession and transition. The tactical battle between Arteta and Guardiola — two former colleagues — adds an unmistakable subplot, with both managers known to prepare meticulously specific game plans for this fixture.",
       "key_players": [
         "Bukayo Saka",
         "Erling Haaland",
@@ -288,79 +288,79 @@
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
+        "player": "Rodri",
+        "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Assessed day-to-day; potential return within 1-2 weeks"
+        "return": "Being assessed day-to-day; missed training Thursday with a muscle complaint"
       },
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
         "status": "Recovering",
-        "return": "Expected to be available for selection within 10 days"
+        "return": "Expected to return to full training within 2–3 weeks following a hamstring strain"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income — Term Structure and Interest Rate Dynamics",
-      "question": "An analyst is evaluating a 5-year callable bond using an interest rate tree calibrated to the current term structure. The option-adjusted spread (OAS) of the callable bond is 85 bps, while its Z-spread is 120 bps. Which of the following statements best explains the difference between the two spreads?",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model to estimate portfolio credit VaR. Which of the following is the most significant limitation of the Gaussian copula in this context?",
       "options": {
-        "A": "The OAS is lower than the Z-spread because the callable bond has negative convexity, and the OAS removes the value of the embedded call option from the Z-spread.",
-        "B": "The OAS exceeds the Z-spread because the issuer's credit risk is higher than implied by the benchmark curve.",
-        "C": "The Z-spread understates the true yield premium because it does not account for the shape of the yield curve.",
-        "D": "The difference reflects liquidity risk that is captured by the Z-spread but excluded from the OAS calculation."
+        "A": "It cannot model pairwise correlations between individual obligors in the portfolio.",
+        "B": "It underestimates tail dependence, leading to underestimation of joint default probabilities during stress periods.",
+        "C": "It requires each obligor's marginal default distribution to be normally distributed.",
+        "D": "It systematically overestimates expected loss (EL) under benign market conditions."
       },
-      "correct": "A",
-      "explanation": "The Z-spread includes compensation for credit risk, liquidity risk, AND the embedded option, while the OAS strips out the option component. For a callable bond, the issuer holds the call option, which benefits the issuer and disadvantages the investor; therefore the Z-spread exceeds the OAS by the value of that option (approximately 35 bps here). A lower OAS relative to the Z-spread is characteristic of callable bonds (negative option value to the investor), whereas putable bonds would show OAS above the Z-spread."
+      "correct": "B",
+      "explanation": "The Gaussian copula captures average linear correlation but exhibits zero tail dependence, meaning it assigns negligible probability to simultaneous extreme losses across obligors. During financial crises, defaults cluster far more than the Gaussian copula predicts, as was famously exposed in the 2007–2009 structured credit meltdown. This is a fundamental model risk: the copula fits historical data well in normal times but catastrophically underestimates systemic co-default risk. Alternatives such as the Student-t copula or Clayton copula are used to better capture tail dependence."
     },
     "finance_topic": {
-      "title": "Basis Risk and Its Hidden Dangers in Hedging",
-      "subtitle": "Understanding why imperfect hedges can leave risk managers exposed even when a hedge is in place.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Why hedges rarely achieve perfection — and what that gap costs you.",
       "paragraphs": [
-        "Basis risk arises when the hedge instrument and the underlying exposure do not move in perfect lockstep, creating a residual risk even after a hedge is applied. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures (or proxy instrument) price used to hedge it. When this difference is stable and predictable, hedging is straightforward. When it is volatile or mean-reverting unpredictably, a supposedly hedged position can still produce material gains or losses.",
-        "A classic real-world example emerged during the 2008 financial crisis when many banks used credit default swap indices (such as CDX) to hedge bespoke corporate loan exposures. When credit markets seized, the correlation between the index and individual loan spreads broke down dramatically — the basis widened from near-zero to hundreds of basis points. Institutions that believed they were hedged discovered significant mark-to-market losses on their underlying books that were not offset by their index hedges. Similarly, airlines hedging jet fuel using crude oil futures regularly face basis risk when the jet fuel–crude spread diverges due to refinery capacity or seasonal demand shifts.",
-        "For risk managers and portfolio managers, basis risk demands that hedging effectiveness be continuously monitored, not assumed. Regulatory frameworks such as IFRS 9 hedge accounting require firms to demonstrate and document hedge effectiveness, partly to force this discipline. Investors should understand that in stress scenarios — precisely when hedges are most needed — correlations tend to shift and basis can explode. Maintaining a basis risk reserve, stress-testing hedge portfolios under historical spread-widening scenarios, and diversifying hedge instruments are all best practices to mitigate this exposure."
+        "Basis risk arises when the price of the instrument used to hedge does not move in perfect lockstep with the price of the underlying exposure being hedged. The 'basis' is formally defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price of the hedging instrument. Even when a hedge is carefully constructed, basis risk can never be fully eliminated unless the hedging instrument is an exact contractual mirror of the exposure — a rare condition in practice.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Since jet fuel and crude oil prices are correlated but not identical, movements in refining margins, regional supply disruptions, or seasonal demand shifts can cause the basis to widen unexpectedly. In 2022, several European airlines reported that their fuel hedges provided significantly less protection than modeled because the crack spread — the refinery margin between crude and jet fuel — surged independently of crude benchmarks, widening the basis and leaving material unhedged exposure.",
+        "For risk managers and portfolio managers, basis risk demands careful instrument selection, continuous monitoring of the basis over time, and scenario analysis that stress-tests hedge effectiveness under adverse basis movements. Hedge effectiveness ratios (as required under IFRS 9 and ASC 815 accounting standards) must remain within an 80–125% effectiveness band for hedge accounting treatment to apply. A deteriorating basis can not only erode economic hedge performance but also trigger accounting volatility that flows directly into reported P&L."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is applied, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Basis tends to widen sharply during market stress, meaning hedges fail most severely exactly when protection is most needed.",
-        "Effective risk management requires ongoing monitoring of hedge effectiveness, stress testing basis under adverse scenarios, and avoiding over-reliance on a single hedge proxy."
+        "Basis risk is the residual risk remaining after a hedge is placed — it cannot be diversified away, only managed.",
+        "Instrument selection is critical: the closer the hedging instrument matches the underlying exposure in tenor, geography, and specification, the lower the basis risk.",
+        "Basis risk can cause hedge accounting disqualification under IFRS 9/ASC 815, creating earnings volatility even when the economic hedge is sound."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; agreement",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "明日の三時に会う約束をしました。",
-      "example_romaji": "Ashita no sanji ni au yakusoku wo shimashita.",
-      "example_en": "I made a promise to meet at three o'clock tomorrow.",
-      "grammar_point": "〜をしました (o shimashita)",
-      "grammar_explanation": "This pattern combines a noun with the verb する (suru, 'to do') in its polite past form しました (shimashita). It is used to express that an action was completed, and works with many nouns that describe activities or commitments.",
-      "memory_tip": "Think of 'yaku' as 'lock' (like a contract that locks you in) and 'soku' as 'sock' — you sealed the deal so tight you even shook on it with a sock-puppet handshake. Once you make a 約束, you're locked in!"
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over budget this month.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that it happened unintentionally. It is frequently used when something went wrong or contrary to one's intentions.",
+      "memory_tip": "Imagine you're holding a 'yo-yo' (yo) that represents your spending, and you 'sand' (san) it down trying to control it — your YOSAN is your tool for grinding spending down to size. When it snaps, you've busted your budget!"
     },
     "ai_strategy": {
-      "headline": "Agentic AI Is Quietly Reshaping How Investment Analysts Do Research",
-      "summary": "A new wave of agentic AI systems — tools that can autonomously plan, search, synthesize, and execute multi-step research tasks — is moving from experimentation into production at major asset managers and investment banks. Unlike basic LLM chatbots, agentic systems can pull earnings transcripts, cross-reference macro data, run sensitivity analyses, and draft investment memos with minimal human prompting. Firms like BlackRock, JPMorgan, and several quantitative hedge funds have begun deploying internal agent frameworks to compress the time from data ingestion to actionable insight from days to hours. The implication is not mass layoff of analysts, but a significant shift in what analysts are expected to do — less data gathering, more judgment, hypothesis generation, and communication.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Replacing Loan Officers",
+      "summary": "Major banks and fintech lenders are deploying large language models and gradient-boosted machine learning systems to automate credit decisioning for SME and consumer loans, reducing underwriting time from days to minutes. Firms like JPMorgan, Upstart, and Zest AI have reported measurable improvements in default prediction accuracy over traditional FICO-based scorecards, particularly for thin-file borrowers who lack extensive credit histories. Regulators are responding cautiously, with the CFPB and Basel Committee both issuing guidance on model explainability and fair lending obligations for algorithmic credit decisions. For risk professionals, the shift demands fluency in both model validation frameworks and the ethical dimensions of automated decisioning.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously break down complex goals into sub-tasks, use tools (web search, code execution, databases), and iterate toward a solution without step-by-step human instruction — think of it as an AI that can run a research project, not just answer a single question."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions for structured tabular data like credit applications — often outperforming logistic regression on default prediction tasks."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically pulls relevant documents or data from an external knowledge base before generating a response, allowing it to answer questions grounded in proprietary or up-to-date information — critical for financial applications where recency and accuracy matter."
+          "term": "Model Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) values quantify each input variable's contribution to an individual model prediction, allowing risk managers and regulators to understand *why* a model approved or denied a specific credit application — critical for adverse action notices and fair lending compliance."
         },
         {
-          "term": "Fine-Tuning",
-          "definition": "The process of further training a pre-built AI model on domain-specific data (e.g., analyst reports, risk frameworks, regulatory documents) so it develops specialized expertise, improving accuracy and relevance for finance-specific tasks compared to a general-purpose model."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as cash flow patterns from bank transaction data, utility payment history, or even device metadata — used to augment or replace traditional credit bureau data, enabling lenders to score previously 'unscorable' borrowers with greater accuracy."
         }
       ],
-      "career_insight": "Finance professionals who learn to design, evaluate, and critically oversee AI agent workflows will command a significant premium over those who only consume AI outputs passively. The highest-value skills are now prompt engineering for complex tasks, judgment about when AI outputs require human validation, and the ability to integrate AI tools into existing risk and compliance frameworks. Candidates who can demonstrate both financial domain depth and AI fluency are increasingly the most sought-after profiles at top-tier firms."
+      "career_insight": "Credit risk analysts who can bridge traditional regulatory knowledge (Basel III, CECL, IFRS 9) with machine learning model validation skills are becoming the most sought-after professionals at both banks and fintechs. The ability to challenge, validate, and communicate the outputs of black-box credit models — not just build them — is increasingly the differentiating skill. Professionals who invest in learning Python-based ML frameworks alongside SR 11-7 model risk governance principles will be well-positioned as automated underwriting scales across asset classes."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a delicate balancing act as investors weigh resilient US labor data against mounting evidence that higher-for-longer rates are beginning to bite consumer credit and commercial real estate. The USD remains firm, pressuring EM currencies and commodity prices, while the Treasury curve shows tentative bull-steepening as markets price a modestly more dovish Fed path for late 2025. Risk appetite is cautiously constructive in large-cap tech and AI infrastructure names, but breadth remains narrow — a pattern that historically warrants vigilance around index-level valuations masking underlying sector stress."
+    "market_sentiment": "Risk appetite is cautiously constructive this morning as markets digest a softer-than-expected US core PCE print, giving the Fed room to hold rates steady through Q3 while keeping a September cut on the table — front-end rates rallied modestly on the news. Equity markets remain in a narrow range as Q2 earnings season winds down with results broadly beating lowered expectations, though forward guidance from consumer-facing sectors continues to flag demand softness and margin compression from sticky services inflation. In FX, the dollar is softening at the margin against G10 peers, supporting EM local-currency debt, while crude oil hovers near $82/bbl as OPEC+ supply discipline offsets demand concerns out of China where the property sector overhang persists."
   }
 }
