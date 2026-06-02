@@ -1,37 +1,37 @@
 {
-  "generated_at": "5:12 PM UTC",
-  "date": "Monday, June 1, 2026",
+  "generated_at": "3:55 PM UTC",
+  "date": "Tuesday, June 2, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 83,
-    "feels_like_f": 87,
-    "high_f": 85,
-    "low_f": 80,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 62,
-    "wind_mph": 2,
+    "temp_f": 64,
+    "feels_like_f": 63,
+    "high_f": 64,
+    "low_f": 60,
+    "description": "Light Rain",
+    "icon": "🌧️",
+    "humidity": 55,
+    "wind_mph": 14,
     "forecast": [
-      {
-        "day": "Tue",
-        "icon": "☁️",
-        "high": 65,
-        "low": 65,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Wed",
         "icon": "☀️",
-        "high": 59,
-        "low": 59,
+        "high": 60,
+        "low": 60,
         "description": "Clear Sky"
       },
       {
         "day": "Thu",
         "icon": "☀️",
-        "high": 63,
-        "low": 63,
+        "high": 64,
+        "low": 64,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Fri",
+        "icon": "☀️",
+        "high": 67,
+        "low": 67,
         "description": "Clear Sky"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 757.2,
-        "change": 0.72,
-        "change_pct": 0.1,
+        "price": 759.72,
+        "change": 1.18,
+        "change_pct": 0.16,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 305.47,
-        "change": -6.59,
-        "change_pct": -2.11,
-        "up": false,
+        "price": 312.73,
+        "change": 6.42,
+        "change_pct": 2.1,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 221.74,
-        "change": 10.6,
-        "change_pct": 5.02,
+        "price": 224.98,
+        "change": 0.62,
+        "change_pct": 0.28,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 420.28,
-        "change": -15.51,
-        "change_pct": -3.56,
-        "up": false,
+        "price": 421.93,
+        "change": 6.05,
+        "change_pct": 1.45,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 71627.99,
-        "change": -1872.0,
-        "change_pct": -2.55,
+        "price": 67167.2,
+        "change": -3938.8,
+        "change_pct": -5.54,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1984.7,
-        "change": -14.52,
-        "change_pct": -0.73,
+        "price": 1909.38,
+        "change": -59.47,
+        "change_pct": -3.02,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "United flight forced to turn around because of a Bluetooth speaker name - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb",
-        "description": "A ‘certain four-letter word’ sparked a security incident.",
-        "published": "3:50 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Market concentration is creating 'fragility': Only 60% of S&P 500 stocks are above their 200-day average - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/article/market-concentration-is-creating-fragility-only-60-of-sp-500-stocks-are-above-their-200-day-average-135336513.html",
-        "description": "Stocks zoomed to all-time highs, but Wall Street wants to see broader participation.",
-        "published": "3:16 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Alaska Airlines accused of letting drunken passengers board flights, faces stiff penalty - KING5.com",
-        "source": "KING5.com",
-        "url": "https://www.king5.com/article/news/nation-world/alaska-airlines-fine-faa-federal-flight-violations-intoxicated-passengers/507-ddb968f5-3d43-4e5c-b355-1802ce58fcd0",
-        "description": "Alaska Airlines is facing a hefty fine for letting intoxicated passengers board flights, the FAA claims. Here's how much the airline could forced to pay. (AP Photo)",
-        "published": "1:34 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Apple Glasses Reportedly Launching in 'Late 2027' With These Features - MacRumors",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/05/31/apple-glasses-late-2027-report/",
-        "description": "Apple is now aiming to release its first smart glasses in \"late 2027,\" according to the latest word from Bloomberg's Mark Gurman.  Meta...",
-        "published": "4:21 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In June 2026 - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/05/video-11-exciting-new-games-coming-to-switch-1-and-2-in-june-2026",
-        "description": "Star Fox, Final Fantasy and more!",
-        "published": "4:08 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Phanteks’ new EX cases let users put ugly graphics cards in their own \"shame box\" - VideoCardz.com",
-        "source": "Videocardz.com",
-        "url": "https://videocardz.com/newz/phanteks-new-ex-cases-let-users-put-ugly-graphics-cards-in-their-own-shame-box",
-        "description": "Phanteks has a new case series for users who want to build a clean PC (with GPU hidden) We have first footage from Computex thanks to Hardware Canucks who",
-        "published": "4:01 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwy2z23122zo",
-        "description": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
-        "published": "5:40 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Newark mayor imposes curfew around Delaney Hall after clashes over immigration detention center - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/delaney-hall-new-jersey-immigration-f46fbc4942e063c74fa7b3515eb4dbc6",
-        "description": "The mayor of Newark has imposed a curfew around an immigration detention center in New Jersey after a series of intense clashes between protestors and police. Mayor Ras Baraka said early Sunday that t",
-        "published": "4:34 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Africa CDC Says Over 1,100 Suspected Ebola Cases In DR Congo And Uganda - Barron's",
+        "title": "Dow Falls at the Open as Oil Prices Spike on Iran Fears - Barron's",
         "source": "Barron's",
-        "url": "https://www.barrons.com/articles/africa-cdc-says-over-1-100-suspected-ebola-cases-in-dr-congo-and-uganda-373233af",
-        "description": "More than 1,100 people were suspected of having contracted Ebola in the Democratic Republic of Congo and neighbouring Uganda, the head of the African Union's health agency said on Sunday in a commenta",
-        "published": "4:19 PM UTC",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-060126",
+        "description": "The Dow, S&P 500, and Nasdaq futures are falling the stock market considers the latest military strikes between the U.S. and Iran and an oil-price spike.",
+        "published": "1:55 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Traveler used AirTag to prove airline lied about lost luggage — and responses prove it happens all the time - New York Post",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/01/lifestyle/travelers-using-airtags-to-catch-airlines-lying-about-luggage/",
+        "description": "Have airlines joined the Mile Lie Club?",
+        "published": "1:40 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "UAW Goes on Strike at Key General Motors Truck Supplier Plant - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/business/autos/american-axle-strike-uaw-workers-870e4ff4",
+        "description": "",
+        "published": "1:31 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "How to Watch the XBOX Games Showcase and Gears of War: E-Day Direct on Sunday - XBOX Wire",
+        "source": "Xbox.com",
+        "url": "https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/",
+        "description": "This Sunday, June 7, our yearly double feature returns, offering you a look at what's next from XBOX and our incredible partners across the world – here's everything you need to know to tune in.",
+        "published": "1:01 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Apple's Smart Glasses Reportedly Delayed Until Late 2027 - CNET",
+        "source": "CNET",
+        "url": "https://www.cnet.com/tech/mobile/apple-smart-glasses-development-bumps-reported-delay/",
+        "description": "Still, the glasses are regarded by company leadership as a top priority, Bloomberg's Mark Gurman writes.",
+        "published": "12:39 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Mandelson said government would 'never regret' appointing him as US ambassador, files show - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/live/cy02zzl4wknt",
+        "description": "Lord Mandelson made the comments in an exchange with cabinet minister Pat McFadden, which is included in more than 1,000 pages of newly-released documents.",
+        "published": "2:39 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "This new drug could change how we treat one of the deadliest cancers - PBS",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/health/pancreatic-cancer-is-deadly-and-difficult-to-treat-a-new-pill-could-change-that",
+        "description": "The overall survival rate for people who got daraxonrasib was 13.2 months, nearly double the 6.7 months people survived on standard chemotherapy alone.",
+        "published": "2:05 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Iran suspends peace talks in protest over Israeli offensive in Lebanon - Financial Times",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/a4f1e36d-f3a5-4959-b227-133300f01be1",
+        "description": "Tehran escalates tensions to protest Israeli offensive in Lebanon",
+        "published": "1:53 PM UTC",
         "category": "General"
       }
     ]
@@ -259,45 +251,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Chelsea Revive Interest in Napoli Midfielder as Midfield Rebuild Continues",
-        "summary": "Chelsea are reportedly weighing a £45m move for a Serie A midfielder as co-sporting directors attempt to add physicality and press-resistance to a squad that struggled for cohesion in central areas last season. Personal terms are said to be straightforward, with the player keen on a Premier League move.",
+        "headline": "Arsenal Eyeing Serie A Midfielder as Long-Term Thomas Partey Replacement",
+        "summary": "Arsenal's recruitment team has reportedly held preliminary discussions with representatives of a top Serie A defensive midfielder, with Mikel Arteta keen to add physicality and passing range to his engine room ahead of a potential title push. The Gunners are expected to move decisively in January if Partey's injury concerns persist.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Arsenal",
+          "Juventus"
         ]
       },
       {
-        "headline": "Alexander-Arnold Future Uncertain as Real Madrid Maintain Long-Term Interest",
-        "summary": "Trent Alexander-Arnold's contract situation at Liverpool continues to attract speculation, with sources in Spain suggesting Real Madrid view him as a priority target should he enter the final year of his deal. Liverpool are pushing hard for an extension, offering a significant wage increase to retain their academy graduate.",
+        "headline": "Manchester City in Talks to Extend Key Defender's Contract Amid Chelsea Interest",
+        "summary": "Manchester City are understood to be in advanced dialogue over a contract extension for one of their first-choice centre-backs, with Chelsea monitoring the situation closely should talks break down. City are determined to retain the player, viewing squad depth at the back as critical after early-season defensive frailties.",
         "clubs": [
-          "Liverpool",
-          "Real Madrid"
+          "Manchester City",
+          "Chelsea"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The Emirates hosts what is arguably the fixture of the Premier League season so far, as Arsenal and Manchester City meet in a top-of-the-table clash that could define the early-season title narrative. Arsenal come in on a five-match winning run with their high press looking sharper under refined tactical tweaks, while City arrive slightly battle-scarred from a midweek European exertion but remain formidable in possession and transition. The tactical battle between Arteta and Guardiola — two former colleagues — adds an unmistakable subplot, with both managers known to prepare meticulously specific game plans for this fixture.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "Anfield plays host to what promises to be the defining fixture of the Premier League season so far, as table-topping Liverpool welcome a resurgent Manchester City side that has quietly closed the gap to three points with a run of five straight wins. Arne Slot's high-press system has been exceptional at home this season, but Pep Guardiola's side has historically relished the space available on the counter at Anfield. With both clubs eyeing a statement result before the international break, expect a tactical chess match in the opening half-hour before the game opens up in the second period.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed day-to-day; missed training Thursday with a muscle complaint"
+        "status": "Out",
+        "return": "Season-ending ACL injury — not expected to return this campaign"
       },
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Recovering",
-        "return": "Expected to return to full training within 2–3 weeks following a hamstring strain"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Hamstring strain — fitness test scheduled Friday, targeting return within 2 weeks"
       }
     ]
   },
@@ -305,62 +297,62 @@
     "cfa_frm": {
       "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model to estimate portfolio credit VaR. Which of the following is the most significant limitation of the Gaussian copula in this context?",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds and wants to estimate the Expected Loss (EL) for a single obligor. The obligor has a Probability of Default (PD) of 2.5%, a Loss Given Default (LGD) of 60%, and an Exposure at Default (EAD) of $10,000,000. Additionally, the risk manager notes that the correlation between the obligor's default and the overall credit cycle is high. Which of the following statements is most accurate regarding the Expected Loss and its relationship to economic capital?",
       "options": {
-        "A": "It cannot model pairwise correlations between individual obligors in the portfolio.",
-        "B": "It underestimates tail dependence, leading to underestimation of joint default probabilities during stress periods.",
-        "C": "It requires each obligor's marginal default distribution to be normally distributed.",
-        "D": "It systematically overestimates expected loss (EL) under benign market conditions."
+        "A": "EL = $150,000; economic capital is set equal to EL to cover average credit losses over the cycle.",
+        "B": "EL = $150,000; economic capital is designed to cover Unexpected Loss (UL), which is the volatility of losses around EL, not EL itself.",
+        "C": "EL = $1,500,000; economic capital equals EL plus UL, and higher obligor-cycle correlation reduces the required economic capital.",
+        "D": "EL = $150,000; high correlation with the credit cycle reduces Unexpected Loss, thereby reducing required economic capital."
       },
       "correct": "B",
-      "explanation": "The Gaussian copula captures average linear correlation but exhibits zero tail dependence, meaning it assigns negligible probability to simultaneous extreme losses across obligors. During financial crises, defaults cluster far more than the Gaussian copula predicts, as was famously exposed in the 2007–2009 structured credit meltdown. This is a fundamental model risk: the copula fits historical data well in normal times but catastrophically underestimates systemic co-default risk. Alternatives such as the Student-t copula or Clayton copula are used to better capture tail dependence."
+      "explanation": "Expected Loss = PD × LGD × EAD = 0.025 × 0.60 × $10,000,000 = $150,000. EL represents the average loss anticipated over time and is typically priced into loan spreads or provisioned for via loan loss reserves — it is not the purpose of economic capital. Economic capital is specifically held to absorb Unexpected Loss (UL), which reflects the volatility or tail risk of credit losses beyond the expected level. High correlation with the credit cycle actually increases systematic risk and therefore increases UL and required economic capital, not reduces it."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why hedges rarely achieve perfection — and what that gap costs you.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Understanding how imperfect hedges create residual risk that can undermine even well-designed risk management programs.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument used to hedge does not move in perfect lockstep with the price of the underlying exposure being hedged. The 'basis' is formally defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price of the hedging instrument. Even when a hedge is carefully constructed, basis risk can never be fully eliminated unless the hedging instrument is an exact contractual mirror of the exposure — a rare condition in practice.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Since jet fuel and crude oil prices are correlated but not identical, movements in refining margins, regional supply disruptions, or seasonal demand shifts can cause the basis to widen unexpectedly. In 2022, several European airlines reported that their fuel hedges provided significantly less protection than modeled because the crack spread — the refinery margin between crude and jet fuel — surged independently of crude benchmarks, widening the basis and leaving material unhedged exposure.",
-        "For risk managers and portfolio managers, basis risk demands careful instrument selection, continuous monitoring of the basis over time, and scenario analysis that stress-tests hedge effectiveness under adverse basis movements. Hedge effectiveness ratios (as required under IFRS 9 and ASC 815 accounting standards) must remain within an 80–125% effectiveness band for hedge accounting treatment to apply. A deteriorating basis can not only erode economic hedge performance but also trigger accounting volatility that flows directly into reported P&L."
+        "Basis risk arises when the instrument used to hedge an exposure does not perfectly offset the price movements of the underlying asset being hedged. The 'basis' is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when a hedge is carefully constructed, differences in quality, location, maturity, or credit characteristics between the hedged item and the hedging instrument mean the two prices may not move in perfect lockstep, leaving a residual, unhedged exposure.",
+        "A classic real-world example emerged during the 2008 financial crisis, when financial institutions used credit default swap (CDS) indices — such as the CDX — to hedge bespoke corporate credit exposures. While the CDS index tracked broad credit spreads, the specific bonds held by these firms often widened by different magnitudes due to issuer-specific distress, liquidity premiums, and structural features. The hedge reduced overall exposure but left significant basis risk, contributing to mark-to-market losses that regulators and risk committees had not fully anticipated. Similarly, jet fuel hedgers like airlines often use crude oil futures as a proxy, accepting basis risk between refined product and crude prices.",
+        "For risk managers and portfolio managers, basis risk demands careful hedge ratio calibration — often using regression-based minimum variance hedge ratios — and ongoing monitoring as market conditions change. Under IFRS 9 and ASC 815 hedge accounting standards, firms must demonstrate that a hedging relationship is 'highly effective,' typically meaning the offset ratio falls between 80% and 125%. Failure to manage basis risk not only creates P&L volatility but may disqualify a hedge from favorable accounting treatment, forcing fair value changes through the income statement rather than Other Comprehensive Income (OCI)."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is placed — it cannot be diversified away, only managed.",
-        "Instrument selection is critical: the closer the hedging instrument matches the underlying exposure in tenor, geography, and specification, the lower the basis risk.",
-        "Basis risk can cause hedge accounting disqualification under IFRS 9/ASC 815, creating earnings volatility even when the economic hedge is sound."
+        "Basis risk is the residual price risk remaining after a hedge is applied, arising from imperfect correlation between the hedged item and the hedging instrument.",
+        "Minimum variance hedge ratios, calculated via regression of spot price changes on futures price changes, help minimize — but cannot eliminate — basis risk.",
+        "Under IFRS 9 and ASC 815, hedge effectiveness must be demonstrated quantitatively; unmanaged basis risk can disqualify hedges from favorable OCI treatment."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that it happened unintentionally. It is frequently used when something went wrong or contrary to one's intentions.",
-      "memory_tip": "Imagine you're holding a 'yo-yo' (yo) that represents your spending, and you 'sand' (san) it down trying to control it — your YOSAN is your tool for grinding spending down to size. When it snaps, you've busted your budget!"
+      "grammar_explanation": "The pattern 〜てしまいました is used to express that an action has been completed, often with a nuance of regret or finality — something happened that cannot be undone. It combines the te-form of a verb with しまいました (the polite past form of しまう).",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you are allowed to spend. Picture a calculator with 'YOUR SUM' printed on it to lock in the meaning of budget."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Replacing Loan Officers",
-      "summary": "Major banks and fintech lenders are deploying large language models and gradient-boosted machine learning systems to automate credit decisioning for SME and consumer loans, reducing underwriting time from days to minutes. Firms like JPMorgan, Upstart, and Zest AI have reported measurable improvements in default prediction accuracy over traditional FICO-based scorecards, particularly for thin-file borrowers who lack extensive credit histories. Regulators are responding cautiously, with the CFPB and Basel Committee both issuing guidance on model explainability and fair lending obligations for algorithmic credit decisions. For risk professionals, the shift demands fluency in both model validation frameworks and the ethical dimensions of automated decisioning.",
+      "headline": "Large Language Models Are Reshaping How Risk Teams Synthesize Information",
+      "summary": "Major financial institutions including JPMorgan, Goldman Sachs, and Bloomberg have deployed or are piloting large language model (LLM) tools specifically designed for financial document analysis, earnings call synthesis, and regulatory report drafting. These systems can ingest hundreds of pages of 10-K filings, credit agreements, or risk committee reports in seconds and surface key risk flags, covenant breaches, or sentiment shifts that would take human analysts hours to identify. The competitive advantage is shifting toward firms that can fine-tune these models on proprietary data while maintaining robust governance frameworks to prevent hallucination-driven errors in high-stakes decisions. Regulators including the FCA and SEC are actively developing supervisory guidance on AI model risk management, signaling that auditability and explainability will become compliance requirements, not just best practices.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions for structured tabular data like credit applications — often outperforming logistic regression on default prediction tasks."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model queries an external, up-to-date database or document store before generating a response — used in finance to ground model outputs in real filings, market data, or internal reports rather than relying solely on training data, reducing hallucination risk."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) values quantify each input variable's contribution to an individual model prediction, allowing risk managers and regulators to understand *why* a model approved or denied a specific credit application — critical for adverse action notices and fair lending compliance."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built AI model on a firm's proprietary dataset — such as internal credit memos or trade commentary — so the model learns domain-specific language, formats, and risk conventions relevant to that institution."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as cash flow patterns from bank transaction data, utility payment history, or even device metadata — used to augment or replace traditional credit bureau data, enabling lenders to score previously 'unscorable' borrowers with greater accuracy."
+          "term": "Model Risk Management (AI MRM)",
+          "definition": "An extension of traditional model risk management frameworks (like SR 11-7) to govern AI and ML models, requiring documentation of training data, validation testing, performance monitoring, and clear escalation paths when model outputs are unreliable or unexplainable."
         }
       ],
-      "career_insight": "Credit risk analysts who can bridge traditional regulatory knowledge (Basel III, CECL, IFRS 9) with machine learning model validation skills are becoming the most sought-after professionals at both banks and fintechs. The ability to challenge, validate, and communicate the outputs of black-box credit models — not just build them — is increasingly the differentiating skill. Professionals who invest in learning Python-based ML frameworks alongside SR 11-7 model risk governance principles will be well-positioned as automated underwriting scales across asset classes."
+      "career_insight": "Risk managers and analysts who understand both the technical capabilities and governance limitations of AI tools — not just how to use them, but when not to trust them — will be disproportionately valuable in the next hiring cycle. Firms are actively seeking professionals who can sit at the intersection of quantitative finance and AI literacy, capable of validating model outputs, designing human-in-the-loop workflows, and communicating AI-driven insights to senior stakeholders and regulators. Building skills in Python, prompt engineering, and AI model validation alongside traditional CFA/FRM credentials is quickly becoming the most differentiated professional profile in finance."
     },
     "error": false,
-    "market_sentiment": "Risk appetite is cautiously constructive this morning as markets digest a softer-than-expected US core PCE print, giving the Fed room to hold rates steady through Q3 while keeping a September cut on the table — front-end rates rallied modestly on the news. Equity markets remain in a narrow range as Q2 earnings season winds down with results broadly beating lowered expectations, though forward guidance from consumer-facing sectors continues to flag demand softness and margin compression from sticky services inflation. In FX, the dollar is softening at the margin against G10 peers, supporting EM local-currency debt, while crude oil hovers near $82/bbl as OPEC+ supply discipline offsets demand concerns out of China where the property sector overhang persists."
+    "market_sentiment": "Global risk assets are navigating a complex macro crossroads this week, as markets digest persistently sticky core services inflation in the US against a backdrop of softening labor market data — a combination that is keeping the Fed's reaction function deliberately ambiguous heading into the next FOMC meeting. Treasury yields are holding near multi-month highs as term premium re-prices higher, compressing equity multiples particularly in rate-sensitive sectors like utilities and REITs, while the dollar's resilience continues to create headwinds for EM sovereign spreads. Credit markets remain broadly constructive on investment-grade paper given robust corporate balance sheets, but leveraged loan and high-yield spreads are showing early signs of widening at the margin as refinancing risk for 2025-2026 maturity walls moves into sharper focus."
   }
 }
