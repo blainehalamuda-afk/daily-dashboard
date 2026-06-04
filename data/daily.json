@@ -1,38 +1,38 @@
 {
-  "generated_at": "4:13 PM UTC",
-  "date": "Wednesday, June 3, 2026",
+  "generated_at": "2:30 PM UTC",
+  "date": "Thursday, June 4, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 75,
-    "feels_like_f": 74,
-    "high_f": 77,
-    "low_f": 72,
+    "temp_f": 76,
+    "feels_like_f": 75,
+    "high_f": 78,
+    "low_f": 73,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 39,
-    "wind_mph": 3,
+    "humidity": 52,
+    "wind_mph": 1,
     "forecast": [
       {
-        "day": "Thu",
-        "icon": "☀️",
-        "high": 64,
-        "low": 64,
-        "description": "Clear Sky"
-      },
-      {
         "day": "Fri",
-        "icon": "⛅",
-        "high": 67,
-        "low": 67,
-        "description": "Scattered Clouds"
+        "icon": "☀️",
+        "high": 68,
+        "low": 68,
+        "description": "Clear Sky"
       },
       {
         "day": "Sat",
         "icon": "☁️",
-        "high": 68,
-        "low": 68,
-        "description": "Broken Clouds"
+        "high": 69,
+        "low": 69,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sun",
+        "icon": "☁️",
+        "high": 71,
+        "low": 71,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 755.39,
-        "change": -4.18,
-        "change_pct": -0.55,
+        "price": 754.06,
+        "change": -0.18,
+        "change_pct": -0.02,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 311.23,
-        "change": -3.97,
-        "change_pct": -1.26,
-        "up": false,
+        "price": 310.27,
+        "change": 0.01,
+        "change_pct": 0.0,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 216.54,
-        "change": -6.28,
-        "change_pct": -2.82,
+        "price": 213.46,
+        "change": -1.29,
+        "change_pct": -0.6,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 423.96,
-        "change": 0.22,
-        "change_pct": 0.05,
-        "up": true,
+        "price": 421.53,
+        "change": -2.17,
+        "change_pct": -0.51,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 66052,
-        "change": -1838.26,
-        "change_pct": -2.71,
+        "price": 64069.37,
+        "change": -2774.63,
+        "change_pct": -4.15,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1833.75,
-        "change": -97.3,
-        "change_pct": -5.04,
+        "price": 1779.82,
+        "change": -79.33,
+        "change_pct": -4.27,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "S&P 500 is little changed Tuesday as Alphabet slides: Live updates - CNBC",
+        "title": "Investors would be crazy to turn bearish on stocks now, says veteran strategist. Maybe not, in six months. - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/investors-would-be-crazy-to-turn-bearish-on-stocks-now-says-veteran-strategist-maybe-not-in-six-months-5c62a9d2",
+        "description": "Marco Papic says U.S. oil companies look attractive",
+        "published": "11:12 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Macy's posts strongest Q1 growth in four years, raises guidance despite consumer worries - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/01/stock-market-today-live-updates.html",
-        "description": "All three major indexes notched new intraday and closing highs on Monday.",
-        "published": "2:28 PM UTC",
+        "url": "https://www.cnbc.com/2026/06/03/macys-m-earnings-q1-2026.html",
+        "description": "Macy's has been in the midst of a turnaround under CEO Tony Spring, who has worked to close underperforming stores and reinvest in ones worth keeping open.",
+        "published": "10:57 AM UTC",
         "category": "Business"
       },
       {
-        "title": "‘No Deal, Patagonia’: Pattie Gonia Says Company’s Offer To Settle Would ‘Erase My Advocacy’ - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/conormurray/2026/06/02/pattie-gonia-rejects-patagonias-offer-to-drop-trademark-suit-says-it-would-erase-my-advocacy/",
-        "description": "Patagonia said it would be willing to resolve a trademark lawsuit filed against drag queen Pattie Gonia if the performer stops selling merchandise under her drag name and agrees not to use the apparel",
-        "published": "1:32 PM UTC",
+        "title": "How long will it take to rebuild Blue Origin’s launch pad? We asked some SpaceX vets. - Ars Technica",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+        "description": "Everyone is in a place where it’s no fun to be there.\"",
+        "published": "10:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "HPE Stock Surges On Fiscal Q2 Earnings Beat, Raised Guidance, Fiscal 2027 Outlook - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "url": "https://www.investors.com/news/technology/hpe-stock-hpe-earnings-news-q12026/",
-        "description": "HPE stock surged on a big fiscal Q2 earnings beat. HPE raised its 2026 full-year guidance and projected 8% to 12% sales growth in fiscal 2027.",
-        "published": "12:45 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "New data shows Sony has been selling fewer and fewer copies of its PlayStation exclusives since 2020 - Eurogamer",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/sony-playstation-first-party-sales-decline",
-        "description": "Newly-collated data on the sales performance of Sony's first-party PlayStation titles paints a grim picture.",
-        "published": "1:50 PM UTC",
+        "title": "Marathon's Big Free Season 2 Debut Plagued By Server Issues - Kotaku",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778",
+        "description": "Bungie's extraction shooter is facing outages on its biggest day since launch",
+        "published": "2:21 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "New ‘Crimson Desert’ Roadmap Says It Will Patch The Story - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/06/02/new-crimson-desert-roadmap-says-it-will-patch-the-story/",
-        "description": "Crimson Desert has undergone many fixes and seen many additions, but changing the lackluster story seemed impossible. Maybe not, according to a new roadmap.",
-        "published": "1:14 PM UTC",
+        "title": "The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft's Surface Laptop Ultra - PCMag",
+        "source": "PCMag.com",
+        "url": "https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-ultra-computex-2026",
+        "description": "Microsoft's new flagship Surface is the poster child for Nvidia's agentic-AI-first laptop platform. Here's what we learned from our first encounter with the hardware.",
+        "published": "1:21 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "PlayStation State Of Play: What Time, Where To Watch, What To Expect - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/06/02/playstation-state-of-play-what-time-where-to-watch-what-to-expect/",
-        "description": "Here's what time PlayStation's State of Play is today, where to watch and everything we might be able to expect, and not expect, from the show.",
-        "published": "12:56 PM UTC",
+        "title": "Google releases Fitbit Air blueprints to let anyone make bands, accessories - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/06/02/fitbit-air-blueprints/",
+        "description": "",
+        "published": "12:55 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Live updates: Strikes continue in southern Lebanon after Trump has heated call with Netanyahu - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/06/02/world/live-news/iran-trump-israel-lebanon-war-intl-hnk",
-        "description": "Iran-backed militant group Hezbollah and the Israeli military continued to exchange strikes overnight in southern Lebanon, as delegations from both countries prepared for another round of talks. Follo",
-        "published": "2:26 PM UTC",
+        "title": "Live Updates: Iran attack on Kuwait kills 1 after latest U.S. strikes, and as Trump says talks ongoing - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-attacks-kuwait-airport-israel-hezbollah-ceasefire/",
+        "description": "After Trump insisted talks with Iran were \"going on continuously,\" Iran fired a deadly missile and drone salvo at Kuwait, claiming retaliation for new U.S. strikes.",
+        "published": "11:55 AM UTC",
         "category": "General"
       },
       {
-        "title": "Trump names William Pulte as acting director of national intelligence - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/national-security/trump-william-pulte-acting-director-national-intelligence-tulsi-gabbar-rcna348036",
-        "description": "President Donald Trump has named Bill Pulte as acting director of national intelligence, succeeding Tulsi Gabbard who recently announced she plans to resign from the role at the end of June.",
-        "published": "1:55 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "‘Masters Of The Universe’ Rotten Tomatoes Reviews Praise But Find Glitches In Power Of Grayskull - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/timlammers/2026/06/02/masters-of-the-universe-rotten-tomatoes-reviews-praise-but-find-glitches-in-power-of-grayskull/",
-        "description": "\"Masters of the Universe,\" the new big-screen adaptation of He-Man’s story starring Nicholas Galitzine, Idris Elba and Camila Mendes, is getting a warm reception from Rotten Tomatoes critics.",
-        "published": "1:28 PM UTC",
+        "title": "Spencer Pratt Firmly in Second Place Behind Karen Bass in L.A. Mayoral Primary - TMZ",
+        "source": "TMZ",
+        "url": "https://www.tmz.com/2026/06/03/spencer-pratt-karen-bass-to-runoff-for-la-mayor/",
+        "description": "Spencer Pratt is close to securing political success and advancing to the L.A. mayoral runoff election -- though he would still have one more challenge to face.",
+        "published": "11:28 AM UTC",
         "category": "General"
       }
     ]
@@ -259,16 +251,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing January Move for Bundesliga Midfielder",
-        "summary": "Arsenal are reportedly monitoring Bayer Leverkusen's midfield options as Mikel Arteta seeks additional depth and creativity following a congested fixture schedule. Personal terms are said to be straightforward, with the stumbling block being the German club's reluctance to sell mid-season.",
+        "headline": "Liverpool Join Race for Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Liverpool are reportedly weighing a summer move for Viktor Gyökeres as a long-term successor to aging midfield options, with the Swedish striker's prolific Champions League form attracting interest from across Europe's elite clubs. Sporting are believed to value the player in excess of £80 million.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Liverpool",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Enter Race for Napoli Striker as Attacking Reinforcement Priority",
-        "summary": "Chelsea's recruitment team has identified a Serie A striker as a primary January target to address a lack of consistent goal threat in the Premier League. The Blues face competition from Atletico Madrid, and Napoli are demanding a fee north of £55 million.",
+        "headline": "Chelsea Revive Interest in Napoli Defender Alessandro Buongiorno",
+        "summary": "Chelsea's recruitment team has re-engaged in discussions over Napoli centre-back Alessandro Buongiorno as the club looks to address defensive instability heading into the summer window. Napoli are reluctant to sell but financial pressures could force their hand if an offer north of £55 million arrives.",
         "clubs": [
           "Chelsea",
           "Napoli"
@@ -276,91 +268,91 @@
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The biggest fixture in the English football calendar arrives at the Etihad with both sides separated by just two points at the top of the Premier League table, making this a genuine six-pointer in the title race. City have rediscovered their defensive solidity under Guardiola following a mid-season wobble, while Liverpool's high-tempo pressing game under Slot has been the most consistent attacking force in the division. Set pieces and midfield control will be decisive — whichever side wins the physical and tactical battle in the center of the park is likely to take all three points.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The Premier League's most compelling fixture of the season arrives at the Emirates as Arsenal, buoyed by a seven-match winning run, host a Manchester City side that desperately needs three points to keep their faint title hopes alive. Arsenal will look to exploit City's injury-hit defensive line, while Pep Guardiola is expected to deploy a high defensive block to frustrate the hosts and hit on the counter through Phil Foden. The last meeting between these sides ended in a pulsating 2-2 draw, and with the title potentially decided by this result, expect an intense, high-stakes tactical battle.",
       "key_players": [
-        "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
+        "Bukayo Saka",
+        "Phil Foden",
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Expected to be assessed on the morning of the match; 50/50 to feature from the bench"
+        "status": "Recovering",
+        "return": "No return expected this season — long-term ACL rehabilitation ongoing"
       },
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Targeting return after the international break; unlikely to feature this weekend"
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Assessed day-to-day; possible return for next weekend's fixture if training progresses well"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is priced at $950. If the bond's yield to maturity increases by 50 basis points, which of the following best describes the expected price change, and what concept explains the asymmetry in price sensitivity?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank has extended a $10 million loan to a corporate borrower. The probability of default (PD) is 3%, the loss given default (LGD) is 60%, and the exposure at default (EAD) is $10 million. The bank also estimates an unexpected loss (UL) based on a standard deviation of default of 0.17. What is the Expected Loss (EL) and which component primarily drives the economic capital requirement?",
       "options": {
-        "A": "The price will fall by more than it would rise for an equivalent decrease in yield, due to positive convexity.",
-        "B": "The price will fall by less than it would rise for an equivalent decrease in yield, due to positive convexity.",
-        "C": "The price will fall by the same amount it would rise for an equivalent change in yield, because duration is symmetric.",
-        "D": "The price will fall by more than it would rise for an equivalent decrease in yield, due to negative convexity."
+        "A": "EL = $180,000; economic capital is driven by Expected Loss",
+        "B": "EL = $180,000; economic capital is driven by Unexpected Loss",
+        "C": "EL = $300,000; economic capital is driven by Expected Loss",
+        "D": "EL = $600,000; economic capital is driven by Unexpected Loss"
       },
       "correct": "B",
-      "explanation": "For option-free bonds, convexity is positive, meaning the price-yield relationship is curved (convex) rather than linear. This implies that for a given change in yield, the price increase from a yield decrease is larger than the price decrease from an equivalent yield increase. Duration alone provides a linear approximation; convexity captures the curvature that makes bond price gains exceed bond price losses for equal yield movements. Negative convexity, seen in callable bonds, would reverse this asymmetry."
+      "explanation": "Expected Loss = PD × LGD × EAD = 0.03 × 0.60 × $10,000,000 = $180,000. EL is typically covered by loan loss provisions and pricing, not capital. Economic capital is held to absorb Unexpected Loss — the volatility around the mean loss — which represents the tail risk that could threaten solvency. Distinguishing EL (a cost of doing business) from UL (a capital charge) is a foundational FRM credit risk concept."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Balance Sheet Risk",
-      "subtitle": "How mismatches between asset and liability durations expose banks to interest rate risk and capital erosion.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Why hedges are never perfect and how residual price risk can erode even well-constructed positions.",
       "paragraphs": [
-        "Duration gap is the difference between the weighted-average duration of a financial institution's assets and the weighted-average duration of its liabilities, adjusted for the leverage ratio. When a bank holds long-duration assets — such as fixed-rate mortgages or long-dated bonds — funded by short-duration liabilities like demand deposits or short-term borrowings, a positive duration gap emerges. A positive duration gap means that when interest rates rise, the market value of assets falls faster than the market value of liabilities, compressing net worth.",
-        "The collapse of Silicon Valley Bank in March 2023 became the textbook case of duration gap risk materializing in real time. SVB had accumulated a large portfolio of long-dated U.S. Treasuries and agency mortgage-backed securities during the low-rate era, funded by short-term, highly concentrated deposits. When the Federal Reserve raised rates aggressively in 2022–2023, the marked-to-market losses on the asset side dramatically exceeded any offsetting liability changes, leaving the bank technically insolvent on a market-value basis before a classic bank run accelerated its failure.",
-        "For risk managers and investors, monitoring duration gap is critical during periods of rising or volatile rates. Banks with large positive duration gaps face earnings pressure, unrealized loss accumulation, and potential regulatory capital concerns under fair-value accounting. Portfolio managers in fixed income use duration matching or interest rate swaps to hedge duration gaps, while equity investors in financials should scrutinize 'Available for Sale' and 'Held to Maturity' securities disclosures alongside liability repricing schedules to assess true interest rate exposure."
+        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect correlation. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedge is carefully constructed, differences in underlying asset specifications, delivery locations, maturities, and liquidity between the hedged exposure and the derivative instrument mean that some residual price risk always remains. This imperfect offset is what practitioners call basis risk.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil are related but distinct commodities, their prices can diverge — particularly during refinery disruptions or demand shocks specific to distillates. During the 2022 energy crisis, crack spreads (the differential between crude and refined products) widened dramatically, meaning airlines that hedged with crude futures still faced significant unhedged fuel cost increases. Similarly, a fixed-income portfolio manager using Treasury futures to hedge a corporate bond portfolio faces basis risk because credit spreads can widen even as Treasury yields fall.",
+        "For risk managers and investors, basis risk demands careful instrument selection and ongoing monitoring rather than a set-and-forget approach. The hedge ratio should be calibrated using regression analysis to minimize residual variance, and the correlation assumption must be stress-tested under adverse scenarios. Regulators and accounting standards (IFRS 9, ASC 815) require firms to demonstrate hedge effectiveness, which means quantifying and documenting how well the hedging instrument offsets changes in the hedged item's fair value or cash flows. Ignoring basis risk can create a false sense of security and lead to material P&L surprises."
       ],
       "key_takeaways": [
-        "A positive duration gap means rising rates reduce the market value of equity; banks should actively manage this through hedging or asset-liability matching.",
-        "Accounting treatment (HTM vs. AFS) can mask unrealized losses, making market-value analysis more informative than book-value balance sheets.",
-        "Interest rate swap overlays are the most common institutional tool for closing duration gaps without restructuring the underlying asset portfolio."
+        "Basis risk is the residual price risk remaining after a hedge is placed, arising from imperfect correlation between the hedged asset and the hedging instrument.",
+        "Commodity, fixed-income, and currency hedges all carry basis risk; the magnitude depends on how closely the hedge instrument tracks the underlying exposure.",
+        "Risk managers must actively monitor hedge effectiveness and recalibrate hedge ratios, especially during stress periods when historical correlations tend to break down."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened to completion, often with a sense of regret or that the result was unintended. It combines the te-form of a verb with しまいました, the polite past form of しまう.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the sum of money you plan to spend. If you blow past your yo-SAN, you'll say 'shima-tta!' (dang!) — which is exactly what てしまいました sounds like."
+      "example_jp": "明日の会議に行くと約束しました。",
+      "example_romaji": "Ashita no kaigi ni iku to yakusoku shimashita.",
+      "example_en": "I promised that I would go to tomorrow's meeting.",
+      "grammar_point": "〜と約束する",
+      "grammar_explanation": "The pattern 〜と約束する means 'to promise that ~'. The particle と here quotes the content of the promise, similar to how 'that' introduces a clause in English. It is commonly used with plain-form verbs before と.",
+      "memory_tip": "Think of 'yakusoku' as 'you-a-sock-sue' — imagine being sued because you broke a promise about a sock. Silly, but the sound sticks: YA-KU-SO-KU = promise you must keep or face consequences!"
     },
     "ai_strategy": {
-      "headline": "AI Copilots Are Reshaping Credit Analysis and Underwriting Workflows",
-      "summary": "Major financial institutions including JPMorgan, Goldman Sachs, and Bloomberg are deploying large language model-based copilots that assist credit analysts in synthesizing earnings call transcripts, covenant reviews, and industry reports in minutes rather than days. These tools do not replace analyst judgment but dramatically compress the information-gathering phase, allowing professionals to spend more time on model assumptions and client dialogue. Early productivity studies from internal pilots suggest junior analyst output equivalence improvements of 30–50% on research-intensive tasks. The competitive implication is stark: firms that integrate AI workflows will require fewer entry-level generalist analysts while demanding more senior judgment and AI-prompt engineering fluency.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Assessment for Lenders",
+      "summary": "Major financial institutions and fintech lenders are deploying large language models and gradient boosting algorithms to augment — and in some cases replace — traditional scorecard-based credit underwriting. These systems ingest alternative data sources including cash flow patterns, supply chain signals, and even satellite imagery of commercial properties to generate more granular probability-of-default estimates. JPMorgan, Goldman Sachs, and a growing cohort of embedded finance platforms have reported material reductions in credit losses on SME portfolios where AI models are used alongside human review. Regulators, however, are scrutinizing these models for fair lending compliance, explainability, and model risk under SR 11-7 guidelines.",
       "concepts": [
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries a private database of documents — such as SEC filings, loan agreements, or internal research — before generating a response, ensuring outputs are grounded in proprietary data rather than general training knowledge."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning method that builds sequential decision trees, each correcting the errors of the previous one — widely used in credit scoring because it handles mixed data types and missing values well while delivering high predictive accuracy."
         },
         {
-          "term": "Fine-Tuning",
-          "definition": "The process of further training a pre-built AI model on domain-specific financial data (e.g., credit memos, analyst reports) so it learns specialized terminology, formatting conventions, and reasoning patterns relevant to finance."
+          "term": "Explainable AI (XAI) / SHAP Values",
+          "definition": "Techniques that decompose a model's prediction into contributions from each input feature, allowing risk managers and regulators to understand why a borrower received a particular credit decision — critical for fair lending compliance and model validation."
         },
         {
-          "term": "Agentic AI Workflow",
-          "definition": "An AI architecture where multiple AI agents autonomously plan, execute multi-step tasks — like pulling filings, running ratio analysis, and drafting a credit summary — with minimal human intervention at each step."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data inputs — such as bank transaction flows, utility payments, e-commerce sales history, and geospatial data — used to assess creditworthiness for borrowers with thin or no traditional credit files."
         }
       ],
-      "career_insight": "Finance professionals who treat AI as a research accelerator rather than a threat will gain a significant edge; the highest-value skill is learning to critically evaluate, refine, and challenge AI-generated outputs rather than simply accepting them. Roles centered on pure data aggregation and template-driven analysis face compression, while positions requiring client relationships, regulatory judgment, and complex structuring remain defensible and increasingly well-compensated."
+      "career_insight": "Credit risk analysts and underwriters who can bridge domain expertise with model interpretation skills — understanding not just what a model predicts but why — will be most resilient to automation. Proficiency in Python, SHAP-based model explainability, and regulatory frameworks like SR 11-7 and the EU AI Act is rapidly becoming a baseline expectation for quantitative credit roles at tier-one institutions."
     },
     "error": false,
-    "market_sentiment": "Risk sentiment has turned cautiously constructive as markets digest a resilient U.S. labor market print alongside softer core PCE readings, reinforcing the 'higher for longer but no further hikes' consensus around Fed policy. Treasury yields have stabilized in the 4.40–4.60% range on the 10-year, offering some relief to rate-sensitive equities and investment-grade credit spreads, which have tightened modestly on the week. Emerging market currencies remain under pressure from a still-strong dollar, while commodity markets are watching geopolitical developments closely, with Brent crude holding above $85 per barrel amid Middle East supply uncertainty — keep an eye on next week's CPI print as the next catalyst for repricing."
+    "market_sentiment": "Global risk sentiment enters the session in a cautiously constructive posture following softer-than-expected US core PCE data, which has reignited expectations for Fed rate cuts in the second half of the year and pushed 2-year Treasury yields 8bps lower overnight. Equity futures are modestly bid with tech and rate-sensitive sectors leading, while the USD index pulls back from recent highs, offering a tailwind to EM currencies and commodities. The macro focus this week shifts to ISM Services and Friday's payrolls print — a strong labor market reading could quickly challenge the dovish repricing, keeping volatility in rates and FX elevated as markets balance disinflation progress against still-resilient growth data."
   }
 }
