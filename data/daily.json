@@ -1,37 +1,37 @@
 {
-  "generated_at": "2:30 PM UTC",
-  "date": "Thursday, June 4, 2026",
+  "generated_at": "2:21 PM UTC",
+  "date": "Friday, June 5, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 76,
-    "feels_like_f": 75,
-    "high_f": 78,
-    "low_f": 73,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 52,
-    "wind_mph": 1,
+    "temp_f": 79,
+    "feels_like_f": 78,
+    "high_f": 83,
+    "low_f": 77,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 51,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Fri",
-        "icon": "☀️",
-        "high": 68,
-        "low": 68,
-        "description": "Clear Sky"
-      },
       {
         "day": "Sat",
         "icon": "☁️",
         "high": 69,
         "low": 69,
-        "description": "Overcast Clouds"
+        "description": "Broken Clouds"
       },
       {
         "day": "Sun",
         "icon": "☁️",
         "high": 71,
         "low": 71,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Mon",
+        "icon": "☁️",
+        "high": 73,
+        "low": 73,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 754.06,
-        "change": -0.18,
-        "change_pct": -0.02,
+        "price": 750.78,
+        "change": -6.31,
+        "change_pct": -0.83,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 310.27,
-        "change": 0.01,
-        "change_pct": 0.0,
+        "price": 313.96,
+        "change": 2.73,
+        "change_pct": 0.88,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 213.46,
-        "change": -1.29,
-        "change_pct": -0.6,
+        "price": 212.75,
+        "change": -5.91,
+        "change_pct": -2.7,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 421.53,
-        "change": -2.17,
-        "change_pct": -0.51,
+        "price": 409.66,
+        "change": -8.79,
+        "change_pct": -2.1,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64069.37,
-        "change": -2774.63,
-        "change_pct": -4.15,
+        "price": 60860.67,
+        "change": -3259.33,
+        "change_pct": -5.08,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1779.82,
-        "change": -79.33,
-        "change_pct": -4.27,
+        "price": 1616.09,
+        "change": -165.6,
+        "change_pct": -9.29,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Investors would be crazy to turn bearish on stocks now, says veteran strategist. Maybe not, in six months. - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/investors-would-be-crazy-to-turn-bearish-on-stocks-now-says-veteran-strategist-maybe-not-in-six-months-5c62a9d2",
-        "description": "Marco Papic says U.S. oil companies look attractive",
-        "published": "11:12 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Macy's posts strongest Q1 growth in four years, raises guidance despite consumer worries - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/03/macys-m-earnings-q1-2026.html",
-        "description": "Macy's has been in the midst of a turnaround under CEO Tony Spring, who has worked to close underperforming stores and reinvest in ones worth keeping open.",
-        "published": "10:57 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "How long will it take to rebuild Blue Origin’s launch pad? We asked some SpaceX vets. - Ars Technica",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
-        "description": "Everyone is in a place where it’s no fun to be there.\"",
-        "published": "10:00 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Marathon's Big Free Season 2 Debut Plagued By Server Issues - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778",
-        "description": "Bungie's extraction shooter is facing outages on its biggest day since launch",
-        "published": "2:21 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft's Surface Laptop Ultra - PCMag",
-        "source": "PCMag.com",
-        "url": "https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-ultra-computex-2026",
-        "description": "Microsoft's new flagship Surface is the poster child for Nvidia's agentic-AI-first laptop platform. Here's what we learned from our first encounter with the hardware.",
-        "published": "1:21 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Google releases Fitbit Air blueprints to let anyone make bands, accessories - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/06/02/fitbit-air-blueprints/",
+        "title": "Stock Market Today: Broadcom Earnings Weigh on Markets, Oil Slips — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-04-2026",
         "description": "",
-        "published": "12:55 AM UTC",
+        "published": "12:27 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Inside the Trump-backed push to bring AI doctors into American medicine - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/technology/2026/06/04/inside-trump-backed-push-bring-ai-doctors-into-american-medicine/",
+        "description": "The administration is laying the groundwork for chatbots that can diagnose illness and prescribe medicine, but physicians say AI can introduce more problems.",
+        "published": "12:02 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "‘Tank bottom’: Oil industry warning Trump administration that drained inventories threaten to spike gasoline prices - Politico",
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/06/04/oil-price-spike-white-house-hormuz-00949435",
+        "description": "Industry executives said the loss of oil through the Strait of Hormuz is draining petroleum inventories to dangerously low levels.",
+        "published": "11:28 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Google Releases Fitbit Air CAD Drawings & Specs: Bicep Bands Welcomed! - DC Rainmaker",
+        "source": "DC Rainmaker",
+        "url": "https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html",
+        "description": "Google releases CAD drawings and specs for the Fitbit Air pod, allowing 3rd party companies to make band and accessories",
+        "published": "9:38 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Live Updates: Iran attack on Kuwait kills 1 after latest U.S. strikes, and as Trump says talks ongoing - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-attacks-kuwait-airport-israel-hezbollah-ceasefire/",
-        "description": "After Trump insisted talks with Iran were \"going on continuously,\" Iran fired a deadly missile and drone salvo at Kuwait, claiming retaliation for new U.S. strikes.",
-        "published": "11:55 AM UTC",
+        "title": "Shokz upgraded its open earbuds with better sound and a lighter design - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+        "description": "Shokz’ clip-on open earbuds are now available in two versions with lighter designs, improved bass and clarity, and better noise reduction during calls.",
+        "published": "7:00 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "S&P 500 futures fall as Broadcom leads chip stocks lower: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
+        "description": "Rising oil prices and Treasury yields weighed all three major indexes lower on Wednesday.",
+        "published": "12:42 PM UTC",
         "category": "General"
       },
       {
-        "title": "Spencer Pratt Firmly in Second Place Behind Karen Bass in L.A. Mayoral Primary - TMZ",
-        "source": "TMZ",
-        "url": "https://www.tmz.com/2026/06/03/spencer-pratt-karen-bass-to-runoff-for-la-mayor/",
-        "description": "Spencer Pratt is close to securing political success and advancing to the L.A. mayoral runoff election -- though he would still have one more challenge to face.",
-        "published": "11:28 AM UTC",
+        "title": "The Eagles fleeced the Patriots in the A.J. Brown trade - PhillyVoice",
+        "source": "PhillyVoice.com",
+        "url": "https://www.phillyvoice.com/eagles-fleeced-patriots-aj-brown-trade-howie-roseman/",
+        "description": "A deep examination into how and why the Eagles got the best of the Patriots in the trade for A.J. Brown.",
+        "published": "11:37 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "US secures Israel-Lebanon ceasefire as House votes to curb Trump war powers - Fox News",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-israel-lebanon-ceasefire-house-votes-trump-war-powers-june-4",
+        "description": "The U.S. secures an Israel-Lebanon ceasefire as the House votes to limit President Donald Trump’s war powers, escalating debate over presidential military authority, foreign policy and Middle East con",
+        "published": "11:02 AM UTC",
         "category": "General"
       }
     ]
@@ -251,19 +251,19 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Liverpool Join Race for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Liverpool are reportedly weighing a summer move for Viktor Gyökeres as a long-term successor to aging midfield options, with the Swedish striker's prolific Champions League form attracting interest from across Europe's elite clubs. Sporting are believed to value the player in excess of £80 million.",
+        "headline": "Chelsea Accelerate Pursuit of Stuttgart's Enzo Millot as Midfield Priority",
+        "summary": "Chelsea are reportedly in advanced discussions with VfB Stuttgart over a deal for French midfielder Enzo Millot, with the Blues looking to add creativity and progressive passing to a midfield that has lacked consistency this season. A fee in the region of £40–45 million is being discussed as Enzo Maresca seeks a player capable of operating as an eight in his possession-based system.",
         "clubs": [
-          "Liverpool",
-          "Sporting CP"
+          "Chelsea",
+          "VfB Stuttgart"
         ]
       },
       {
-        "headline": "Chelsea Revive Interest in Napoli Defender Alessandro Buongiorno",
-        "summary": "Chelsea's recruitment team has re-engaged in discussions over Napoli centre-back Alessandro Buongiorno as the club looks to address defensive instability heading into the summer window. Napoli are reluctant to sell but financial pressures could force their hand if an offer north of £55 million arrives.",
+        "headline": "Manchester United Weighing Move for Aston Villa's Ollie Watkins as Striker Search Continues",
+        "summary": "Manchester United's recruitment team have identified Ollie Watkins as a viable alternative to their primary striker targets, attracted by his Premier League experience, movement in behind, and proven big-game performances. Villa would demand in excess of £70 million for the England international, making any deal a significant financial commitment for United's new ownership structure.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Manchester United",
+          "Aston Villa"
         ]
       }
     ],
@@ -271,10 +271,10 @@
       "home": "Arsenal",
       "away": "Manchester City",
       "date": "Sunday, 4:30 PM BST",
-      "preview": "The Premier League's most compelling fixture of the season arrives at the Emirates as Arsenal, buoyed by a seven-match winning run, host a Manchester City side that desperately needs three points to keep their faint title hopes alive. Arsenal will look to exploit City's injury-hit defensive line, while Pep Guardiola is expected to deploy a high defensive block to frustrate the hosts and hit on the counter through Phil Foden. The last meeting between these sides ended in a pulsating 2-2 draw, and with the title potentially decided by this result, expect an intense, high-stakes tactical battle.",
+      "preview": "The Emirates hosts what could be the defining fixture of the early Premier League season as Arsenal welcome Manchester City in a contest that pits Mikel Arteta against his former mentor Pep Guardiola. Arsenal arrive in fine form with four wins from five, buoyed by the returning fitness of Bukayo Saka and a settled defensive unit that has conceded the fewest goals in the league, while City are looking to arrest a rare inconsistent run having dropped points in consecutive away matches. The tactical chess match between Arteta's high press and City's positional rotations promises to be compelling, with title implications already visible in a game both sides desperately need to win.",
       "key_players": [
         "Bukayo Saka",
-        "Phil Foden",
+        "Erling Haaland",
         "Martin Ødegaard"
       ]
     },
@@ -283,76 +283,76 @@
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "No return expected this season — long-term ACL rehabilitation ongoing"
+        "return": "Expected return mid-November following knee surgery"
       },
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
+        "player": "Reece James",
+        "team": "Chelsea",
         "status": "Doubtful",
-        "return": "Assessed day-to-day; possible return for next weekend's fixture if training progresses well"
+        "return": "Week-to-week; hamstring strain sustained in training, reassessed Friday"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank has extended a $10 million loan to a corporate borrower. The probability of default (PD) is 3%, the loss given default (LGD) is 60%, and the exposure at default (EAD) is $10 million. The bank also estimates an unexpected loss (UL) based on a standard deviation of default of 0.17. What is the Expected Loss (EL) and which component primarily drives the economic capital requirement?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure Models",
+      "question": "An analyst is evaluating two term structure models. Model A assumes that short-term interest rates follow a mean-reverting process where volatility is proportional to the level of rates. Model B assumes constant volatility regardless of the rate level. Which of the following best characterizes these models?",
       "options": {
-        "A": "EL = $180,000; economic capital is driven by Expected Loss",
-        "B": "EL = $180,000; economic capital is driven by Unexpected Loss",
-        "C": "EL = $300,000; economic capital is driven by Expected Loss",
-        "D": "EL = $600,000; economic capital is driven by Unexpected Loss"
+        "A": "Model A is the Vasicek model; Model B is the Cox-Ingersoll-Ross (CIR) model.",
+        "B": "Model A is the Cox-Ingersoll-Ross (CIR) model; Model B is the Vasicek model.",
+        "C": "Both Model A and Model B are equilibrium models, but only Model A prevents negative interest rates.",
+        "D": "Model A is a no-arbitrage model; Model B is an equilibrium model."
       },
       "correct": "B",
-      "explanation": "Expected Loss = PD × LGD × EAD = 0.03 × 0.60 × $10,000,000 = $180,000. EL is typically covered by loan loss provisions and pricing, not capital. Economic capital is held to absorb Unexpected Loss — the volatility around the mean loss — which represents the tail risk that could threaten solvency. Distinguishing EL (a cost of doing business) from UL (a capital charge) is a foundational FRM credit risk concept."
+      "explanation": "The Cox-Ingersoll-Ross (CIR) model specifies that interest rate volatility is proportional to the square root of the rate level (σ√r), meaning volatility rises and falls with rates and negative rates are precluded. The Vasicek model, by contrast, uses constant volatility (σ), which allows for the possibility of negative interest rates. Both are equilibrium models, not no-arbitrage models, making option D incorrect and option C partially wrong because it misidentifies which model prevents negative rates."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Why hedges are never perfect and how residual price risk can erode even well-constructed positions.",
+      "title": "Private Credit's Rise as a Mainstream Asset Class",
+      "subtitle": "Direct lending and private debt have moved from niche alternatives to core portfolio allocations as traditional bank lending retreats.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect correlation. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedge is carefully constructed, differences in underlying asset specifications, delivery locations, maturities, and liquidity between the hedged exposure and the derivative instrument mean that some residual price risk always remains. This imperfect offset is what practitioners call basis risk.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil are related but distinct commodities, their prices can diverge — particularly during refinery disruptions or demand shocks specific to distillates. During the 2022 energy crisis, crack spreads (the differential between crude and refined products) widened dramatically, meaning airlines that hedged with crude futures still faced significant unhedged fuel cost increases. Similarly, a fixed-income portfolio manager using Treasury futures to hedge a corporate bond portfolio faces basis risk because credit spreads can widen even as Treasury yields fall.",
-        "For risk managers and investors, basis risk demands careful instrument selection and ongoing monitoring rather than a set-and-forget approach. The hedge ratio should be calibrated using regression analysis to minimize residual variance, and the correlation assumption must be stress-tested under adverse scenarios. Regulators and accounting standards (IFRS 9, ASC 815) require firms to demonstrate hedge effectiveness, which means quantifying and documenting how well the hedging instrument offsets changes in the hedged item's fair value or cash flows. Ignoring basis risk can create a false sense of security and lead to material P&L surprises."
+        "Private credit refers to non-bank lending extended directly to companies, typically in the form of senior secured loans, unitranche facilities, or mezzanine debt. Unlike publicly traded bonds, these instruments are negotiated bilaterally between lenders and borrowers, offering customized terms, floating-rate coupons, and covenants that give lenders meaningful protection. The asset class has grown from roughly $500 billion in assets under management a decade ago to well over $1.7 trillion today, attracting capital from institutional investors, sovereign wealth funds, and increasingly, high-net-worth individuals through new semi-liquid structures.",
+        "The structural growth of private credit is closely tied to post-2008 banking regulation. Basel III and subsequent capital requirements made it economically inefficient for banks to hold leveraged loans and middle-market loans on their balance sheets, creating a vacuum that asset managers like Ares, Blue Owl, and HPS Investment Partners rushed to fill. During the 2022–2024 rate cycle, private credit lenders benefited enormously as floating-rate coupons reset upward, with all-in yields on senior direct loans reaching 11–13%, delivering equity-like returns with senior claim priority. Sponsors increasingly chose private credit over broadly syndicated loans for its speed of execution and covenant flexibility.",
+        "For investors and risk managers, private credit introduces a distinctive risk profile that demands careful due diligence. Illiquidity risk is primary — these instruments have no secondary market depth, and redemption gates in commingled vehicles can trap capital during stress. Mark-to-model valuations can obscure true volatility, creating a 'smoothing' effect that flatters Sharpe ratios and may mislead portfolio construction. Default and recovery analysis must be borrower-specific, as middle-market companies often lack public financial disclosures. As the cycle turns and refinancing walls approach in 2025–2026, credit selection and covenant discipline will sharply differentiate manager performance."
       ],
       "key_takeaways": [
-        "Basis risk is the residual price risk remaining after a hedge is placed, arising from imperfect correlation between the hedged asset and the hedging instrument.",
-        "Commodity, fixed-income, and currency hedges all carry basis risk; the magnitude depends on how closely the hedge instrument tracks the underlying exposure.",
-        "Risk managers must actively monitor hedge effectiveness and recalibrate hedge ratios, especially during stress periods when historical correlations tend to break down."
+        "Private credit has grown to over $1.7 trillion AUM, filling the void left by bank retrenchment from leveraged and middle-market lending.",
+        "Floating-rate structures made the asset class a major beneficiary of the 2022–2024 rate hiking cycle, but create refinancing risk as borrowers face wall of maturities.",
+        "Illiquidity, mark-to-model valuation, and limited transparency are structural risks investors must price carefully when allocating to private debt."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; agreement",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; financial estimate",
       "part_of_speech": "noun",
-      "example_jp": "明日の会議に行くと約束しました。",
-      "example_romaji": "Ashita no kaigi ni iku to yakusoku shimashita.",
-      "example_en": "I promised that I would go to tomorrow's meeting.",
-      "grammar_point": "〜と約束する",
-      "grammar_explanation": "The pattern 〜と約束する means 'to promise that ~'. The particle と here quotes the content of the promise, similar to how 'that' introduces a clause in English. It is commonly used with plain-form verbs before と.",
-      "memory_tip": "Think of 'yakusoku' as 'you-a-sock-sue' — imagine being sued because you broke a promise about a sock. Silly, but the sound sticks: YA-KU-SO-KU = promise you must keep or face consequences!"
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over budget this month.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a sense of regret or that it happened unintentionally. It is formed by attaching しまいました to the て-form of a verb.",
+      "memory_tip": "Think of 予算 (yosan) as 'yo, son — here's the plan (budget)' — the 予 means 'advance/prior' and 算 means 'calculate', so it literally means a pre-calculation of money."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Assessment for Lenders",
-      "summary": "Major financial institutions and fintech lenders are deploying large language models and gradient boosting algorithms to augment — and in some cases replace — traditional scorecard-based credit underwriting. These systems ingest alternative data sources including cash flow patterns, supply chain signals, and even satellite imagery of commercial properties to generate more granular probability-of-default estimates. JPMorgan, Goldman Sachs, and a growing cohort of embedded finance platforms have reported material reductions in credit losses on SME portfolios where AI models are used alongside human review. Regulators, however, are scrutinizing these models for fair lending compliance, explainability, and model risk under SR 11-7 guidelines.",
+      "headline": "Agentic AI Is Quietly Reshaping How Investment Banks Operate Workflows",
+      "summary": "The next wave of AI in finance is not chatbots answering questions but autonomous 'agents' capable of executing multi-step workflows — pulling data, running models, drafting memos, and flagging anomalies — with minimal human intervention. Major banks including JPMorgan, Goldman Sachs, and Morgan Stanley are deploying agent frameworks across credit underwriting, compliance monitoring, and equity research. Unlike single-prompt large language models, agentic systems use tool-calling, memory, and planning loops to complete tasks that previously required analyst-hours. The productivity implications are significant: early pilots suggest junior analyst equivalents of 20–30% time savings on structured research and documentation tasks.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning method that builds sequential decision trees, each correcting the errors of the previous one — widely used in credit scoring because it handles mixed data types and missing values well while delivering high predictive accuracy."
+          "term": "Agentic AI",
+          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as querying databases, running calculations, and writing summaries — to complete a complex goal, rather than simply responding to a single prompt."
         },
         {
-          "term": "Explainable AI (XAI) / SHAP Values",
-          "definition": "Techniques that decompose a model's prediction into contributions from each input feature, allowing risk managers and regulators to understand why a borrower received a particular credit decision — critical for fair lending compliance and model validation."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model is connected to an external knowledge base or document store, allowing it to retrieve current, firm-specific information (like earnings filings or credit agreements) before generating its response, reducing hallucinations."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data inputs — such as bank transaction flows, utility payments, e-commerce sales history, and geospatial data — used to assess creditworthiness for borrowers with thin or no traditional credit files."
+          "term": "Tool Calling",
+          "definition": "The ability of an AI model to invoke external functions — such as running a Python script, querying a Bloomberg terminal API, or executing a SQL query — enabling it to take real actions rather than only produce text."
         }
       ],
-      "career_insight": "Credit risk analysts and underwriters who can bridge domain expertise with model interpretation skills — understanding not just what a model predicts but why — will be most resilient to automation. Proficiency in Python, SHAP-based model explainability, and regulatory frameworks like SR 11-7 and the EU AI Act is rapidly becoming a baseline expectation for quantitative credit roles at tier-one institutions."
+      "career_insight": "Finance professionals who understand how to design, prompt, and supervise agentic AI workflows will command a significant premium over those who treat AI purely as a search tool. The critical skill set is shifting from raw data manipulation toward workflow architecture, AI output auditing, and knowing when model outputs require human judgment — particularly in credit decisions, regulatory filings, and client communications where errors carry legal and reputational consequences."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment enters the session in a cautiously constructive posture following softer-than-expected US core PCE data, which has reignited expectations for Fed rate cuts in the second half of the year and pushed 2-year Treasury yields 8bps lower overnight. Equity futures are modestly bid with tech and rate-sensitive sectors leading, while the USD index pulls back from recent highs, offering a tailwind to EM currencies and commodities. The macro focus this week shifts to ISM Services and Friday's payrolls print — a strong labor market reading could quickly challenge the dovish repricing, keeping volatility in rates and FX elevated as markets balance disinflation progress against still-resilient growth data."
+    "market_sentiment": "Equity markets are navigating a cautiously risk-on tone this week as softer-than-expected US core PCE data reinforces the disinflation narrative and revives hopes for a September Fed rate cut, with the S&P 500 consolidating near all-time highs amid strong mega-cap earnings revisions. Rates markets have repriced to roughly 55 basis points of Fed cuts priced by year-end, steepening the 2s10s curve modestly and providing a tailwind to rate-sensitive sectors including utilities and REITs. Geopolitical noise in the Middle East and renewed USD strength against EM currencies remain the primary tail risks worth monitoring, while credit spreads in investment grade remain historically tight, suggesting the market is not yet pricing a meaningful slowdown."
   }
 }
