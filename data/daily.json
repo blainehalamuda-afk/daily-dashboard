@@ -1,37 +1,37 @@
 {
-  "generated_at": "2:21 PM UTC",
-  "date": "Friday, June 5, 2026",
+  "generated_at": "1:04 PM UTC",
+  "date": "Saturday, June 6, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 79,
-    "feels_like_f": 78,
-    "high_f": 83,
-    "low_f": 77,
-    "description": "Broken Clouds",
+    "temp_f": 72,
+    "feels_like_f": 72,
+    "high_f": 75,
+    "low_f": 70,
+    "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 51,
-    "wind_mph": 2,
+    "humidity": 76,
+    "wind_mph": 7,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 69,
-        "low": 69,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Sun",
         "icon": "☁️",
-        "high": 71,
-        "low": 71,
+        "high": 70,
+        "low": 70,
         "description": "Overcast Clouds"
       },
       {
         "day": "Mon",
         "icon": "☁️",
-        "high": 73,
-        "low": 73,
+        "high": 75,
+        "low": 75,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "☁️",
+        "high": 72,
+        "low": 72,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 750.78,
-        "change": -6.31,
-        "change_pct": -0.83,
+        "price": 737.55,
+        "change": -19.54,
+        "change_pct": -2.58,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 313.96,
-        "change": 2.73,
-        "change_pct": 0.88,
-        "up": true,
+        "price": 307.34,
+        "change": -3.89,
+        "change_pct": -1.25,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 212.75,
-        "change": -5.91,
-        "change_pct": -2.7,
+        "price": 205.1,
+        "change": -13.56,
+        "change_pct": -6.2,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 409.66,
-        "change": -8.79,
-        "change_pct": -2.1,
+        "price": 391,
+        "change": -27.45,
+        "change_pct": -6.56,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 60860.67,
-        "change": -3259.33,
-        "change_pct": -5.08,
+        "price": 61054,
+        "change": -982.85,
+        "change_pct": -1.58,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1616.09,
-        "change": -165.6,
-        "change_pct": -9.29,
+        "price": 1571.75,
+        "change": -93.56,
+        "change_pct": -5.62,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Broadcom Earnings Weigh on Markets, Oil Slips — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-04-2026",
-        "description": "",
-        "published": "12:27 PM UTC",
+        "title": "U.S. added 172,000 jobs in May, even as inflation squeezes consumers - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/economy/may-jobs-report-inflation-rcna348020",
+        "description": "The May jobs report, set to be released Friday morning, is expected to show that hiring has remained steady despite growing inflation.",
+        "published": "12:36 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Inside the Trump-backed push to bring AI doctors into American medicine - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/06/04/inside-trump-backed-push-bring-ai-doctors-into-american-medicine/",
-        "description": "The administration is laying the groundwork for chatbots that can diagnose illness and prescribe medicine, but physicians say AI can introduce more problems.",
-        "published": "12:02 PM UTC",
+        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to fall ahead of jobs report as tech enthusiasm dulls - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-fall-ahead-of-jobs-report-as-tech-enthusiasm-dulls",
+        "description": "Follow along to all the action in financial markets on Friday as investors react to the decision to exclude SpaceX from the S&P 500 as well as the latest jobs data.",
+        "published": "10:30 AM UTC",
         "category": "Business"
       },
       {
-        "title": "‘Tank bottom’: Oil industry warning Trump administration that drained inventories threaten to spike gasoline prices - Politico",
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/06/04/oil-price-spike-white-house-hormuz-00949435",
-        "description": "Industry executives said the loss of oil through the Strait of Hormuz is draining petroleum inventories to dangerously low levels.",
-        "published": "11:28 AM UTC",
+        "title": "Supreme Court sides with Trump administration on federal regulation of telecom companies - ABC News - Breaking News, Latest News and Videos",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Technology/wireStory/supreme-court-sides-trump-administration-federal-regulation-telecom-133587783",
+        "description": "The Supreme Court has sided with the Trump administration in a case about the power of federal regulators over telecommunications companies",
+        "published": "9:41 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Google Releases Fitbit Air CAD Drawings & Specs: Bicep Bands Welcomed! - DC Rainmaker",
-        "source": "DC Rainmaker",
-        "url": "https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html",
-        "description": "Google releases CAD drawings and specs for the Fitbit Air pod, allowing 3rd party companies to make band and accessories",
-        "published": "9:38 AM UTC",
+        "title": "Steve Jobs in Exile is a fine profile of Jobs’ years at NeXT - Ars Technica",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/",
+        "description": "“Why don’t we just frickin’ call Apple?”...",
+        "published": "11:15 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Shokz upgraded its open earbuds with better sound and a lighter design - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
-        "description": "Shokz’ clip-on open earbuds are now available in two versions with lighter designs, improved bass and clarity, and better noise reduction during calls.",
-        "published": "7:00 AM UTC",
+        "title": "Marriage advice: We devised a \"friendly\" way to keep our neighbor out of our lawn. He's furious. - Slate Magazine",
+        "source": "Slate Magazine",
+        "url": "https://slate.com/advice/2026/06/marriage-advice-neighbor-feud-dear-prudence.html",
+        "description": "Prudie replies to readers’ comments and suggestions.",
+        "published": "10:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "S&P 500 futures fall as Broadcom leads chip stocks lower: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html",
-        "description": "Rising oil prices and Treasury yields weighed all three major indexes lower on Wednesday.",
-        "published": "12:42 PM UTC",
+        "title": "Yacht Club Games Teases Some \"Very Secret Things\" In Mina The Hollower - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower",
+        "description": "But some playthroughs are missing up to \"50 percent of the game\"",
+        "published": "6:45 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Graham Platner Faces Accusations Of 'Toxic' Relationships And Disturbing Behavior—Days After Sexting Scandal - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/05/graham-platner-faces-accusations-of-toxic-relationships-and-disturbing-behavior-days-after-sexting-scandal/",
+        "description": "Multiple women who had romantic relationships with Platner alleged to The New York Times that the presumptive Democratic nominee for the Senate in Maine showed disturbing or intimidating behavior.",
+        "published": "12:41 PM UTC",
         "category": "General"
       },
       {
-        "title": "The Eagles fleeced the Patriots in the A.J. Brown trade - PhillyVoice",
-        "source": "PhillyVoice.com",
-        "url": "https://www.phillyvoice.com/eagles-fleeced-patriots-aj-brown-trade-howie-roseman/",
-        "description": "A deep examination into how and why the Eagles got the best of the Patriots in the trade for A.J. Brown.",
-        "published": "11:37 AM UTC",
-        "category": "General"
-      },
-      {
-        "title": "US secures Israel-Lebanon ceasefire as House votes to curb Trump war powers - Fox News",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/iran-war-israel-lebanon-ceasefire-house-votes-trump-war-powers-june-4",
-        "description": "The U.S. secures an Israel-Lebanon ceasefire as the House votes to limit President Donald Trump’s war powers, escalating debate over presidential military authority, foreign policy and Middle East con",
-        "published": "11:02 AM UTC",
+        "title": "Senate OKs $70B immigration bill after rejecting efforts to permanently ban Trump's settlement fund - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/trump-settlement-fund-ice-border-patrol-vote-93b9f5b487997b629d87bf59a046d7ec",
+        "description": "The Senate has passed legislation to fund President Donald Trump’s immigration enforcement agencies, sending it to the House. The Friday morning passage came after weeks of delays and fierce backlash ",
+        "published": "11:44 AM UTC",
         "category": "General"
       }
     ]
@@ -251,31 +251,31 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Chelsea Accelerate Pursuit of Stuttgart's Enzo Millot as Midfield Priority",
-        "summary": "Chelsea are reportedly in advanced discussions with VfB Stuttgart over a deal for French midfielder Enzo Millot, with the Blues looking to add creativity and progressive passing to a midfield that has lacked consistency this season. A fee in the region of £40–45 million is being discussed as Enzo Maresca seeks a player capable of operating as an eight in his possession-based system.",
+        "headline": "Arsenal Weighing Summer Move for Sporting CP Midfielder Viktor Gyokeres",
+        "summary": "Arsenal's technical directorate is reportedly monitoring Sporting CP striker Viktor Gyokeres as a potential marquee summer addition, with the Swedish international's 40+ goal season drawing interest from multiple top European clubs. A release clause rumored around €100 million is seen as a potential stumbling block.",
         "clubs": [
-          "Chelsea",
-          "VfB Stuttgart"
+          "Arsenal",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester United Weighing Move for Aston Villa's Ollie Watkins as Striker Search Continues",
-        "summary": "Manchester United's recruitment team have identified Ollie Watkins as a viable alternative to their primary striker targets, attracted by his Premier League experience, movement in behind, and proven big-game performances. Villa would demand in excess of £70 million for the England international, making any deal a significant financial commitment for United's new ownership structure.",
+        "headline": "Manchester United in Advanced Talks Over Defensive Reinforcement from Bundesliga",
+        "summary": "Manchester United are understood to be in advanced discussions with a Bundesliga club over a central defender, as INEOS looks to overhaul a backline that has been among the most porous in the Premier League this season. A deal could be structured with an initial loan and purchase option.",
         "clubs": [
           "Manchester United",
-          "Aston Villa"
+          "Bayer Leverkusen"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The Emirates hosts what could be the defining fixture of the early Premier League season as Arsenal welcome Manchester City in a contest that pits Mikel Arteta against his former mentor Pep Guardiola. Arsenal arrive in fine form with four wins from five, buoyed by the returning fitness of Bukayo Saka and a settled defensive unit that has conceded the fewest goals in the league, while City are looking to arrest a rare inconsistent run having dropped points in consecutive away matches. The tactical chess match between Arteta's high press and City's positional rotations promises to be compelling, with title implications already visible in a game both sides desperately need to win.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's most anticipated fixture of the season arrives with Liverpool sitting atop the table and Manchester City desperate to close the gap after an unusually inconsistent campaign by their standards. Arne Slot's Liverpool have been tactically fluid and ruthless in transition, while Pep Guardiola's side showed renewed resilience in midweek — making this a genuine tactical chess match between two elite coaching philosophies. The title implications are enormous: a Liverpool win could open a seven-point lead, while a City victory would reignite what has seemed like a one-horse race.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
@@ -283,76 +283,76 @@
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected return mid-November following knee surgery"
+        "return": "Long-term — remainder of season in doubt"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
+        "player": "Diogo Jota",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Week-to-week; hamstring strain sustained in training, reassessed Friday"
+        "return": "Expected to be assessed Thursday ahead of weekend fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Term Structure Models",
-      "question": "An analyst is evaluating two term structure models. Model A assumes that short-term interest rates follow a mean-reverting process where volatility is proportional to the level of rates. Model B assumes constant volatility regardless of the rate level. Which of the following best characterizes these models?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced at $1,074.39 to yield 5%. If the yield immediately rises to 6%, the bond's price will fall to $1,000. Which of the following best explains why the price decline is smaller for a bond with a shorter duration?",
       "options": {
-        "A": "Model A is the Vasicek model; Model B is the Cox-Ingersoll-Ross (CIR) model.",
-        "B": "Model A is the Cox-Ingersoll-Ross (CIR) model; Model B is the Vasicek model.",
-        "C": "Both Model A and Model B are equilibrium models, but only Model A prevents negative interest rates.",
-        "D": "Model A is a no-arbitrage model; Model B is an equilibrium model."
+        "A": "Shorter-duration bonds have higher coupon rates, which reduce sensitivity to rate changes.",
+        "B": "Shorter-duration bonds recover their cash flows sooner, reducing the present value impact of a given yield change.",
+        "C": "Shorter-duration bonds are always priced at par, so they are immune to yield movements.",
+        "D": "Shorter-duration bonds have lower convexity, which amplifies price gains but limits price losses."
       },
       "correct": "B",
-      "explanation": "The Cox-Ingersoll-Ross (CIR) model specifies that interest rate volatility is proportional to the square root of the rate level (σ√r), meaning volatility rises and falls with rates and negative rates are precluded. The Vasicek model, by contrast, uses constant volatility (σ), which allows for the possibility of negative interest rates. Both are equilibrium models, not no-arbitrage models, making option D incorrect and option C partially wrong because it misidentifies which model prevents negative rates."
+      "explanation": "Duration measures the weighted average time to receive a bond's cash flows. When yields rise, the present value of each future cash flow declines, but the further out the cash flow, the greater the present value loss. Shorter-duration bonds return principal and coupons earlier, so a given yield shift produces a smaller percentage price change. Option A confuses coupon rate with duration; Option C is incorrect — short-duration bonds are not necessarily at par; Option D mischaracterizes convexity's asymmetric effect."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as a Mainstream Asset Class",
-      "subtitle": "Direct lending and private debt have moved from niche alternatives to core portfolio allocations as traditional bank lending retreats.",
+      "title": "Yield Curve Control and Its Market Distortions",
+      "subtitle": "How central bank yield curve control policies suppress volatility, distort pricing, and create systemic vulnerabilities across global fixed income markets.",
       "paragraphs": [
-        "Private credit refers to non-bank lending extended directly to companies, typically in the form of senior secured loans, unitranche facilities, or mezzanine debt. Unlike publicly traded bonds, these instruments are negotiated bilaterally between lenders and borrowers, offering customized terms, floating-rate coupons, and covenants that give lenders meaningful protection. The asset class has grown from roughly $500 billion in assets under management a decade ago to well over $1.7 trillion today, attracting capital from institutional investors, sovereign wealth funds, and increasingly, high-net-worth individuals through new semi-liquid structures.",
-        "The structural growth of private credit is closely tied to post-2008 banking regulation. Basel III and subsequent capital requirements made it economically inefficient for banks to hold leveraged loans and middle-market loans on their balance sheets, creating a vacuum that asset managers like Ares, Blue Owl, and HPS Investment Partners rushed to fill. During the 2022–2024 rate cycle, private credit lenders benefited enormously as floating-rate coupons reset upward, with all-in yields on senior direct loans reaching 11–13%, delivering equity-like returns with senior claim priority. Sponsors increasingly chose private credit over broadly syndicated loans for its speed of execution and covenant flexibility.",
-        "For investors and risk managers, private credit introduces a distinctive risk profile that demands careful due diligence. Illiquidity risk is primary — these instruments have no secondary market depth, and redemption gates in commingled vehicles can trap capital during stress. Mark-to-model valuations can obscure true volatility, creating a 'smoothing' effect that flatters Sharpe ratios and may mislead portfolio construction. Default and recovery analysis must be borrower-specific, as middle-market companies often lack public financial disclosures. As the cycle turns and refinancing walls approach in 2025–2026, credit selection and covenant discipline will sharply differentiate manager performance."
+        "Yield Curve Control (YCC) is a monetary policy tool whereby a central bank explicitly targets a specific yield level on a particular maturity of government bonds — most notably used by the Bank of Japan (BoJ), which since 2016 has targeted the 10-year Japanese Government Bond (JGB) yield near zero. Unlike conventional quantitative easing, which targets the quantity of bond purchases, YCC commits the central bank to unlimited purchases at a stated price, effectively capping yields and anchoring the entire yield curve.",
+        "Japan's YCC experiment offers a striking real-world case study. For years, the BoJ's policy compressed JGB volatility to historic lows and suppressed yen carry trade unwinds. However, as global inflation surged in 2022-2023, the BoJ was forced into a series of awkward 'band-widening' adjustments — effectively quiet tightening steps — each of which triggered violent moves in yen, JGB futures, and global risk assets. The July 2023 YCC adjustment sent shockwaves through U.S. Treasury markets, illustrating how a single central bank's policy framework can export volatility worldwide through the carry trade and duration arbitrage channels.",
+        "For investors and risk managers, YCC creates a deceptively calm surface over structurally fragile foundations. Volatility suppression encourages excessive leverage and duration extension in search of yield — positioning that unwinds sharply when policy shifts. Fixed income portfolios with JGB exposure must model non-linear tail scenarios around YCC exits, while multi-asset managers need to monitor yen cross-currency basis swaps as a leading indicator of funding stress. The eventual full exit from YCC by the BoJ remains one of the most consequential unresolved macro risks in global markets."
       ],
       "key_takeaways": [
-        "Private credit has grown to over $1.7 trillion AUM, filling the void left by bank retrenchment from leveraged and middle-market lending.",
-        "Floating-rate structures made the asset class a major beneficiary of the 2022–2024 rate hiking cycle, but create refinancing risk as borrowers face wall of maturities.",
-        "Illiquidity, mark-to-model valuation, and limited transparency are structural risks investors must price carefully when allocating to private debt."
+        "YCC targets a specific bond yield rather than a quantity of purchases, committing the central bank to unlimited intervention at a price — a fundamentally different mechanism from standard QE.",
+        "Suppressed volatility under YCC incentivizes leverage and duration risk-taking that can unwind violently when the policy is adjusted, transmitting shocks globally through carry trade and duration channels.",
+        "Investors should treat yen cross-currency basis and JGB futures implied volatility as early warning indicators of YCC stress, and stress-test portfolios for non-linear scenarios around a BoJ policy exit."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial estimate",
+      "meaning": "budget; estimate of expenditure",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をオーバーしてしまいました。",
       "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
       "example_en": "I ended up going over budget this month.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a sense of regret or that it happened unintentionally. It is formed by attaching しまいました to the て-form of a verb.",
-      "memory_tip": "Think of 予算 (yosan) as 'yo, son — here's the plan (budget)' — the 予 means 'advance/prior' and 算 means 'calculate', so it literally means a pre-calculation of money."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. In this sentence, it conveys the speaker's mild regret about exceeding the budget.",
+      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead' and 算 (san) as 'calculate' — a yosan is your plan calculated ahead of time, i.e., a budget. Picture yourself doing math before going shopping."
     },
     "ai_strategy": {
-      "headline": "Agentic AI Is Quietly Reshaping How Investment Banks Operate Workflows",
-      "summary": "The next wave of AI in finance is not chatbots answering questions but autonomous 'agents' capable of executing multi-step workflows — pulling data, running models, drafting memos, and flagging anomalies — with minimal human intervention. Major banks including JPMorgan, Goldman Sachs, and Morgan Stanley are deploying agent frameworks across credit underwriting, compliance monitoring, and equity research. Unlike single-prompt large language models, agentic systems use tool-calling, memory, and planning loops to complete tasks that previously required analyst-hours. The productivity implications are significant: early pilots suggest junior analyst equivalents of 20–30% time savings on structured research and documentation tasks.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping How Banks Assess Default Risk",
+      "summary": "Major banks and fintech lenders are rapidly deploying large language models and gradient-boosting ensembles to replace or augment traditional credit scoring models like FICO. These systems ingest alternative data — including cash flow patterns, supply chain signals, and even satellite imagery for commercial lending — to generate dynamic credit assessments that update in near real-time rather than at point-in-time application. Early results from institutions including JPMorgan, Upstart, and HSBC suggest meaningful improvements in default prediction accuracy, particularly for thin-file borrowers who lack traditional credit histories. Regulators, however, are scrutinizing these models intensely for potential fair lending violations and model opacity.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as querying databases, running calculations, and writing summaries — to complete a complex goal, rather than simply responding to a single prompt."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning method that builds many sequential decision trees, each correcting the errors of the last — widely used in credit risk because it handles mixed data types, missing values, and non-linear relationships far better than logistic regression."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to an external knowledge base or document store, allowing it to retrieve current, firm-specific information (like earnings filings or credit agreements) before generating its response, reducing hallucinations."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as bank transaction flows, rental payment history, e-commerce behavior, or geospatial data — used to supplement or replace conventional financial metrics in credit and investment models."
         },
         {
-          "term": "Tool Calling",
-          "definition": "The ability of an AI model to invoke external functions — such as running a Python script, querying a Bloomberg terminal API, or executing a SQL query — enabling it to take real actions rather than only produce text."
+          "term": "Model Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) is a technique that quantifies each feature's contribution to a model's prediction, allowing risk managers and regulators to understand why a model made a specific credit decision — critical for fair lending compliance."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, and supervise agentic AI workflows will command a significant premium over those who treat AI purely as a search tool. The critical skill set is shifting from raw data manipulation toward workflow architecture, AI output auditing, and knowing when model outputs require human judgment — particularly in credit decisions, regulatory filings, and client communications where errors carry legal and reputational consequences."
+      "career_insight": "Credit analysts and risk managers who can bridge traditional underwriting judgment with hands-on knowledge of machine learning validation, model risk management (SR 11-7 frameworks), and explainability tools are commanding significant premiums in hiring. The most valuable professionals are not those who can build models from scratch, but those who can critically evaluate model assumptions, challenge outputs, and translate findings for regulators and senior leadership — making statistical literacy and communication skills equally important as technical depth."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a cautiously risk-on tone this week as softer-than-expected US core PCE data reinforces the disinflation narrative and revives hopes for a September Fed rate cut, with the S&P 500 consolidating near all-time highs amid strong mega-cap earnings revisions. Rates markets have repriced to roughly 55 basis points of Fed cuts priced by year-end, steepening the 2s10s curve modestly and providing a tailwind to rate-sensitive sectors including utilities and REITs. Geopolitical noise in the Middle East and renewed USD strength against EM currencies remain the primary tail risks worth monitoring, while credit spreads in investment grade remain historically tight, suggesting the market is not yet pricing a meaningful slowdown."
+    "market_sentiment": "Global risk assets are navigating a complex macro crosscurrent this week as markets reprice the 'higher-for-longer' Fed narrative following stronger-than-expected U.S. services PMI and a resilient labor market print, pushing 10-year Treasury yields back toward the 4.5% resistance zone and pressuring equity multiples in rate-sensitive sectors. The dollar index (DXY) has firmed, adding headwinds for EM currencies and commodities priced in USD, while credit spreads remain surprisingly tight — a divergence that suggests either complacency or genuine confidence in a soft-landing scenario that the rates market has not yet fully endorsed. Eyes turn to the next Fed speakers and incoming CPI data as the critical near-term catalyst, with vol markets beginning to price in a modest pickup in realized volatility after an unusually calm stretch."
   }
 }
