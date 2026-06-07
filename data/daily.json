@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:04 PM UTC",
-  "date": "Saturday, June 6, 2026",
+  "generated_at": "1:16 PM UTC",
+  "date": "Sunday, June 7, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 72,
-    "feels_like_f": 72,
-    "high_f": 75,
-    "low_f": 70,
+    "temp_f": 75,
+    "feels_like_f": 76,
+    "high_f": 78,
+    "low_f": 73,
     "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 76,
-    "wind_mph": 7,
+    "humidity": 74,
+    "wind_mph": 1,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "☁️",
-        "high": 70,
-        "low": 70,
-        "description": "Overcast Clouds"
-      },
       {
         "day": "Mon",
         "icon": "☁️",
-        "high": 75,
-        "low": 75,
+        "high": 74,
+        "low": 74,
         "description": "Overcast Clouds"
       },
       {
         "day": "Tue",
+        "icon": "🌧️",
+        "high": 67,
+        "low": 67,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Wed",
         "icon": "☁️",
-        "high": 72,
-        "low": 72,
-        "description": "Overcast Clouds"
+        "high": 70,
+        "low": 70,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 61054,
-        "change": -982.85,
-        "change_pct": -1.58,
-        "up": false,
+        "price": 61700.87,
+        "change": 754.87,
+        "change_pct": 1.24,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1571.75,
-        "change": -93.56,
-        "change_pct": -5.62,
-        "up": false,
+        "price": 1617.45,
+        "change": 50.61,
+        "change_pct": 3.23,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "U.S. added 172,000 jobs in May, even as inflation squeezes consumers - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/economy/may-jobs-report-inflation-rcna348020",
-        "description": "The May jobs report, set to be released Friday morning, is expected to show that hiring has remained steady despite growing inflation.",
-        "published": "12:36 PM UTC",
+        "title": "Trump says he’s considering government stake in top AI companies - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/06/05/tech-leaders-will-discuss-government-stakes-top-ai-firms-trump-says/",
+        "description": "Industry leaders will soon gather at the White House to discuss the idea, the president said. The comments come as SpaceX, Anthropic and OpenAI prepare to go public.",
+        "published": "4:23 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to fall ahead of jobs report as tech enthusiasm dulls - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-fall-ahead-of-jobs-report-as-tech-enthusiasm-dulls",
-        "description": "Follow along to all the action in financial markets on Friday as investors react to the decision to exclude SpaceX from the S&P 500 as well as the latest jobs data.",
-        "published": "10:30 AM UTC",
+        "title": "Chips sector bloodbath drags Nasdaq down 4.2% - Axios",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/06/05/stocks-nasdaq-tech-stocks",
+        "description": "Tech stocks plunged Friday amid rising bond yields, dragging down the Nasdaq in its worst session in 14 months.",
+        "published": "2:11 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Supreme Court sides with Trump administration on federal regulation of telecom companies - ABC News - Breaking News, Latest News and Videos",
+        "title": "Target voluntarily recalls some baby wipes due to potential contamination - ABC News - Breaking News, Latest News and Videos",
         "source": "Abcnews.com",
-        "url": "https://abcnews.com/Technology/wireStory/supreme-court-sides-trump-administration-federal-regulation-telecom-133587783",
-        "description": "The Supreme Court has sided with the Trump administration in a case about the power of federal regulators over telecommunications companies",
-        "published": "9:41 AM UTC",
+        "url": "https://abcnews.com/GMA/Family/target-voluntarily-recalls-baby-wipes-due-potential-contamination/story?id\\\\u003d133625232",
+        "description": "",
+        "published": "11:15 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Steve Jobs in Exile is a fine profile of Jobs’ years at NeXT - Ars Technica",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/",
-        "description": "“Why don’t we just frickin’ call Apple?”...",
-        "published": "11:15 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Marriage advice: We devised a \"friendly\" way to keep our neighbor out of our lawn. He's furious. - Slate Magazine",
-        "source": "Slate Magazine",
-        "url": "https://slate.com/advice/2026/06/marriage-advice-neighbor-feud-dear-prudence.html",
-        "description": "Prudie replies to readers’ comments and suggestions.",
-        "published": "10:00 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Yacht Club Games Teases Some \"Very Secret Things\" In Mina The Hollower - Nintendo Life",
+        "title": "Sonic Racing: CrossWorlds Season Pass 2 Announced, Includes Six New DLC Packs - Nintendo Life",
         "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower",
-        "description": "But some playthroughs are missing up to \"50 percent of the game\"",
-        "published": "6:45 AM UTC",
+        "url": "https://www.nintendolife.com/news/2026/06/sonic-racing-crossworlds-season-pass-2-announced-includes-six-new-dlc-packs",
+        "description": "Who's up next?",
+        "published": "4:30 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Graham Platner Faces Accusations Of 'Toxic' Relationships And Disturbing Behavior—Days After Sexting Scandal - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/05/graham-platner-faces-accusations-of-toxic-relationships-and-disturbing-behavior-days-after-sexting-scandal/",
-        "description": "Multiple women who had romantic relationships with Platner alleged to The New York Times that the presumptive Democratic nominee for the Senate in Maine showed disturbing or intimidating behavior.",
-        "published": "12:41 PM UTC",
+        "title": "Here's Everything Announced During The Summer Game Fest 2026 Showcase - Game Informer",
+        "source": "Gameinformer.com",
+        "url": "https://gameinformer.com/sgf-2026/2026/06/05/heres-everything-announced-during-the-summer-game-fest-2026-showcase",
+        "description": "From Resident Evil Veronica to Final Fantasy VII Revelation and everything in between.",
+        "published": "2:26 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Welcome Back, 47: HITMAN Classic Trilogy Remastered Revealed – Coming 2027 - XBOX Wire",
+        "source": "Xbox.com",
+        "url": "https://news.xbox.com/en-us/2026/06/05/hitman-classic-trilogy-remastered-sgf-announce/",
+        "description": "Saber Interactive has partnered with IOI for HITMAN Classic Trilogy Remastered, boasting enhanced visuals, improved performance, and new features, all while preserving the systems, tone, and freedom o",
+        "published": "1:01 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Pope Leo visits a polarized Spain where conservatives are turning on the church - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/06/06/pope-leo-visits-spain-conservative-catholics-say-church-is-too-liberal/",
+        "description": "On the first papal visit to Spain in 15 years, Leo plans to address political polarization and showcase the Catholic Church as an advocate for migrants and asylum seekers.",
+        "published": "12:18 PM UTC",
         "category": "General"
       },
       {
-        "title": "Senate OKs $70B immigration bill after rejecting efforts to permanently ban Trump's settlement fund - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/trump-settlement-fund-ice-border-patrol-vote-93b9f5b487997b629d87bf59a046d7ec",
-        "description": "The Senate has passed legislation to fund President Donald Trump’s immigration enforcement agencies, sending it to the House. The Friday morning passage came after weeks of delays and fierce backlash ",
-        "published": "11:44 AM UTC",
+        "title": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg7498kz808o",
+        "description": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+        "published": "10:54 AM UTC",
         "category": "General"
       }
     ]
@@ -251,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Summer Move for Sporting CP Midfielder Viktor Gyokeres",
-        "summary": "Arsenal's technical directorate is reportedly monitoring Sporting CP striker Viktor Gyokeres as a potential marquee summer addition, with the Swedish international's 40+ goal season drawing interest from multiple top European clubs. A release clause rumored around €100 million is seen as a potential stumbling block.",
+        "headline": "Arsenal Weighing Summer Move for Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Arsenal are reportedly leading the chase for Swedish striker Viktor Gyökeres, with Sporting CP understood to value the prolific forward at close to his €100 million release clause. Mikel Arteta views the 26-year-old as the clinical No.9 needed to close the gap on Manchester City in next season's title race.",
         "clubs": [
           "Arsenal",
           "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester United in Advanced Talks Over Defensive Reinforcement from Bundesliga",
-        "summary": "Manchester United are understood to be in advanced discussions with a Bundesliga club over a central defender, as INEOS looks to overhaul a backline that has been among the most porous in the Premier League this season. A deal could be structured with an initial loan and purchase option.",
+        "headline": "Chelsea Hold Talks Over Signing Napoli Defender Alessandro Buongiorno",
+        "summary": "Chelsea's sporting directors have reportedly initiated formal discussions with Napoli over centre-back Alessandro Buongiorno as Enzo Maresca looks to address defensive frailties exposed during the current campaign. Napoli are believed to want upwards of £55 million for the Italian international, who has also attracted interest from Bayern Munich.",
         "clubs": [
-          "Manchester United",
-          "Bayer Leverkusen"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Manchester City",
+      "home": "Manchester City",
+      "away": "Liverpool",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's most anticipated fixture of the season arrives with Liverpool sitting atop the table and Manchester City desperate to close the gap after an unusually inconsistent campaign by their standards. Arne Slot's Liverpool have been tactically fluid and ruthless in transition, while Pep Guardiola's side showed renewed resilience in midweek — making this a genuine tactical chess match between two elite coaching philosophies. The title implications are enormous: a Liverpool win could open a seven-point lead, while a City victory would reignite what has seemed like a one-horse race.",
+      "preview": "The Premier League's most consequential fixture of the calendar pits a resurgent Manchester City side against Liverpool in what amounts to a genuine title six-pointer at the Etihad. City have won their last five in all competitions and will look to Erling Haaland to exploit Liverpool's injury-hit defensive line, while Arne Slot's side arrive on the back of a dominant midweek Champions League performance and will be buoyed by the potential return of their captain from a hamstring complaint. The tactical battle between Slot's high press and Guardiola's positional play promises to be the defining subplot, with both teams knowing a defeat could prove season-defining.",
       "key_players": [
-        "Mohamed Salah",
         "Erling Haaland",
-        "Virgil van Dijk"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Long-term — remainder of season in doubt"
-      },
-      {
-        "player": "Diogo Jota",
+        "player": "Virgil van Dijk",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed Thursday ahead of weekend fixture"
+        "return": "Being assessed ahead of Sunday; 50/50 to feature"
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Expected to return to full training within 10 days; unlikely to feature Sunday"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced at $1,074.39 to yield 5%. If the yield immediately rises to 6%, the bond's price will fall to $1,000. Which of the following best explains why the price decline is smaller for a bond with a shorter duration?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank has a loan portfolio with an expected default rate of 2%, a loss given default (LGD) of 45%, and a total exposure at default (EAD) of $500 million. Regulatory capital under Basel III is intended to cover which of the following?",
       "options": {
-        "A": "Shorter-duration bonds have higher coupon rates, which reduce sensitivity to rate changes.",
-        "B": "Shorter-duration bonds recover their cash flows sooner, reducing the present value impact of a given yield change.",
-        "C": "Shorter-duration bonds are always priced at par, so they are immune to yield movements.",
-        "D": "Shorter-duration bonds have lower convexity, which amplifies price gains but limits price losses."
+        "A": "Expected Loss (EL) only, since unexpected losses are absorbed by loan loss reserves",
+        "B": "Unexpected Loss (UL) only, since Expected Loss should be covered by loan loss provisions and pricing",
+        "C": "Both Expected Loss and Unexpected Loss equally, as Basel III treats them symmetrically",
+        "D": "Neither EL nor UL; regulatory capital under Basel III only covers operational risk"
       },
       "correct": "B",
-      "explanation": "Duration measures the weighted average time to receive a bond's cash flows. When yields rise, the present value of each future cash flow declines, but the further out the cash flow, the greater the present value loss. Shorter-duration bonds return principal and coupons earlier, so a given yield shift produces a smaller percentage price change. Option A confuses coupon rate with duration; Option C is incorrect — short-duration bonds are not necessarily at par; Option D mischaracterizes convexity's asymmetric effect."
+      "explanation": "Under the Basel III framework, regulatory capital (Pillar 1 minimum capital requirements) is designed to cover Unexpected Loss (UL), which represents the volatility of losses around the expected level. Expected Loss (EL = PD × LGD × EAD = 2% × 45% × $500M = $4.5M) should already be priced into loan spreads and covered by loan loss provisions (IFRS 9 / CECL reserves). Requiring capital to absorb EL in addition to UL would result in double-counting of credit costs, making the framework unnecessarily punitive."
     },
     "finance_topic": {
-      "title": "Yield Curve Control and Its Market Distortions",
-      "subtitle": "How central bank yield curve control policies suppress volatility, distort pricing, and create systemic vulnerabilities across global fixed income markets.",
+      "title": "Duration Gap Risk in Bank Balance Sheets",
+      "subtitle": "How mismatches between asset and liability durations expose banks to devastating interest rate losses.",
       "paragraphs": [
-        "Yield Curve Control (YCC) is a monetary policy tool whereby a central bank explicitly targets a specific yield level on a particular maturity of government bonds — most notably used by the Bank of Japan (BoJ), which since 2016 has targeted the 10-year Japanese Government Bond (JGB) yield near zero. Unlike conventional quantitative easing, which targets the quantity of bond purchases, YCC commits the central bank to unlimited purchases at a stated price, effectively capping yields and anchoring the entire yield curve.",
-        "Japan's YCC experiment offers a striking real-world case study. For years, the BoJ's policy compressed JGB volatility to historic lows and suppressed yen carry trade unwinds. However, as global inflation surged in 2022-2023, the BoJ was forced into a series of awkward 'band-widening' adjustments — effectively quiet tightening steps — each of which triggered violent moves in yen, JGB futures, and global risk assets. The July 2023 YCC adjustment sent shockwaves through U.S. Treasury markets, illustrating how a single central bank's policy framework can export volatility worldwide through the carry trade and duration arbitrage channels.",
-        "For investors and risk managers, YCC creates a deceptively calm surface over structurally fragile foundations. Volatility suppression encourages excessive leverage and duration extension in search of yield — positioning that unwinds sharply when policy shifts. Fixed income portfolios with JGB exposure must model non-linear tail scenarios around YCC exits, while multi-asset managers need to monitor yen cross-currency basis swaps as a leading indicator of funding stress. The eventual full exit from YCC by the BoJ remains one of the most consequential unresolved macro risks in global markets."
+        "Duration gap is the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for leverage. A positive duration gap means a bank's assets reprice more slowly than its liabilities — when interest rates rise, the economic value of equity (EVE) falls sharply because long-dated fixed assets lose more market value than short-dated liabilities. This is the essence of interest rate risk in the banking book (IRRBB), a risk category that Basel standards require banks to actively measure and manage.",
+        "The collapse of Silicon Valley Bank in March 2023 became the defining real-world case study of duration gap risk in a generation. SVB had accumulated a massive portfolio of long-duration US Treasuries and agency mortgage-backed securities funded by short-term, rate-sensitive deposits. As the Federal Reserve raised rates by over 500 basis points in roughly 12 months, the mark-to-market losses on SVB's held-to-maturity portfolio exceeded its entire equity base — a textbook duration gap catastrophe. The subsequent bank run revealed that uninsured depositors needed little incentive to flee once the mismatch became public knowledge.",
+        "For risk managers and investors, duration gap analysis is a critical input to stress testing under rising-rate environments. Banks with positive duration gaps should consider interest rate swaps (receiving floating, paying fixed) to synthetically shorten asset duration, or actively restructure their investment portfolios toward shorter maturities. Investors evaluating bank stocks should scrutinize disclosures of unrealized losses in held-to-maturity (HTM) portfolios and compare EVE sensitivity disclosures in Pillar 2 regulatory filings, as these reveal vulnerability that book-value accounting can conceal for extended periods."
       ],
       "key_takeaways": [
-        "YCC targets a specific bond yield rather than a quantity of purchases, committing the central bank to unlimited intervention at a price — a fundamentally different mechanism from standard QE.",
-        "Suppressed volatility under YCC incentivizes leverage and duration risk-taking that can unwind violently when the policy is adjusted, transmitting shocks globally through carry trade and duration channels.",
-        "Investors should treat yen cross-currency basis and JGB futures implied volatility as early warning indicators of YCC stress, and stress-test portfolios for non-linear scenarios around a BoJ policy exit."
+        "Duration gap = weighted asset duration minus leverage-adjusted liability duration; a large positive gap signals acute exposure to rising rates.",
+        "Expected Loss must be provisioned; regulatory capital is reserved for Unexpected Loss — the same asymmetry applies to duration: small rate moves are manageable, but tail moves can be existential.",
+        "SVB's 2023 failure demonstrated that GAAP accounting rules allowing HTM classification can mask enormous economic losses until a liquidity event forces realization."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenditure",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved up",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. In this sentence, it conveys the speaker's mild regret about exceeding the budget.",
-      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead' and 算 (san) as 'calculate' — a yosan is your plan calculated ahead of time, i.e., a budget. Picture yourself doing math before going shopping."
+      "example_jp": "毎月少しずつ貯金しています。",
+      "example_romaji": "Maitsuki sukoshi zutsu chokin shite imasu.",
+      "example_en": "I save a little money every month.",
+      "grammar_point": "〜ています (ongoing action/habit)",
+      "grammar_explanation": "The pattern 〜ています (te-form + います) is used to describe either an action currently in progress or a habitual/repeated action. Here, 'chokin shite imasu' describes an ongoing personal habit of saving money rather than a single completed event.",
+      "memory_tip": "Think of 'chokin' as 'choking' your spending — you squeeze your wallet tight and save the money instead of letting it escape."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping How Banks Assess Default Risk",
-      "summary": "Major banks and fintech lenders are rapidly deploying large language models and gradient-boosting ensembles to replace or augment traditional credit scoring models like FICO. These systems ingest alternative data — including cash flow patterns, supply chain signals, and even satellite imagery for commercial lending — to generate dynamic credit assessments that update in near real-time rather than at point-in-time application. Early results from institutions including JPMorgan, Upstart, and HSBC suggest meaningful improvements in default prediction accuracy, particularly for thin-file borrowers who lack traditional credit histories. Regulators, however, are scrutinizing these models intensely for potential fair lending violations and model opacity.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Replacing Loan Officers at Scale",
+      "summary": "Major banks and fintech lenders are deploying large language models and gradient-boosting ensembles to automate credit decisions for SME and consumer loans, reducing underwriting time from days to seconds. JPMorgan's COiN platform and similar internal tools now process millions of document reviews annually, while startups like Zest AI and Upstart are demonstrating that alternative data — rent payments, cash flow patterns, device metadata — meaningfully outperforms FICO scores in predicting default, particularly for thin-file borrowers. Regulators at the OCC and CFPB are now scrambling to develop model risk governance frameworks that address explainability requirements under ECOA and fair lending statutes. For risk professionals, the era of 'black box' lending is already here — the compliance question is how to make these systems auditable and defensible.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning method that builds many sequential decision trees, each correcting the errors of the last — widely used in credit risk because it handles mixed data types, missing values, and non-linear relationships far better than logistic regression."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and nonlinear relationships better than logistic regression while remaining partially interpretable."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as bank transaction flows, rental payment history, e-commerce behavior, or geospatial data — used to supplement or replace conventional financial metrics in credit and investment models."
+          "term": "SHAP Values (Shapley Additive Explanations)",
+          "definition": "A game-theory-based method for explaining individual AI model predictions by quantifying each input variable's contribution to a specific decision — increasingly required by regulators to satisfy 'adverse action notice' requirements in consumer lending."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) is a technique that quantifies each feature's contribution to a model's prediction, allowing risk managers and regulators to understand why a model made a specific credit decision — critical for fair lending compliance."
+          "term": "Alternative Data in Credit",
+          "definition": "Non-traditional data sources — including bank transaction histories, rent and utility payments, social media signals, and behavioral biometrics — used to supplement or replace traditional bureau data in assessing creditworthiness, particularly valuable for underbanked populations."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge traditional underwriting judgment with hands-on knowledge of machine learning validation, model risk management (SR 11-7 frameworks), and explainability tools are commanding significant premiums in hiring. The most valuable professionals are not those who can build models from scratch, but those who can critically evaluate model assumptions, challenge outputs, and translate findings for regulators and senior leadership — making statistical literacy and communication skills equally important as technical depth."
+      "career_insight": "Credit risk analysts who can bridge traditional underwriting judgment with ML model validation skills are among the most sought-after profiles in banking right now. The ability to challenge a model's assumptions, audit its training data for bias, and communicate its outputs to both regulators and business lines is a distinct and highly compensated skill set. Professionals who invest in Python proficiency, SR 11-7 model risk frameworks, and fair lending compliance literacy will be structurally advantaged as AI adoption in underwriting accelerates through 2026."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a complex macro crosscurrent this week as markets reprice the 'higher-for-longer' Fed narrative following stronger-than-expected U.S. services PMI and a resilient labor market print, pushing 10-year Treasury yields back toward the 4.5% resistance zone and pressuring equity multiples in rate-sensitive sectors. The dollar index (DXY) has firmed, adding headwinds for EM currencies and commodities priced in USD, while credit spreads remain surprisingly tight — a divergence that suggests either complacency or genuine confidence in a soft-landing scenario that the rates market has not yet fully endorsed. Eyes turn to the next Fed speakers and incoming CPI data as the critical near-term catalyst, with vol markets beginning to price in a modest pickup in realized volatility after an unusually calm stretch."
+    "market_sentiment": "Risk assets enter the session on a cautiously constructive footing as markets digest a softer-than-expected core PCE print, reinforcing the Fed's optionality narrative and pushing rate-cut pricing modestly forward on the curve. The dollar index has retreated from recent highs, providing a modest tailwind for EM equities and commodities, while front-end Treasury yields ease slightly as real money accounts rotate back into duration. Credit spreads remain range-bound at historically tight levels, suggesting the market continues to price a soft-landing base case, though the vol surface is quietly bid — options traders appear to be hedging tail risks around the upcoming FOMC minutes and a heavy slate of investment-grade issuance expected mid-week."
   }
 }
