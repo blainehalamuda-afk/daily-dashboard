@@ -1,37 +1,37 @@
 {
-  "generated_at": "1:16 PM UTC",
-  "date": "Sunday, June 7, 2026",
+  "generated_at": "3:23 PM UTC",
+  "date": "Monday, June 8, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 75,
-    "feels_like_f": 76,
-    "high_f": 78,
-    "low_f": 73,
+    "temp_f": 84,
+    "feels_like_f": 89,
+    "high_f": 88,
+    "low_f": 83,
     "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 74,
+    "humidity": 64,
     "wind_mph": 1,
     "forecast": [
       {
-        "day": "Mon",
-        "icon": "☁️",
-        "high": 74,
-        "low": 74,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Tue",
         "icon": "🌧️",
-        "high": 67,
-        "low": 67,
+        "high": 70,
+        "low": 70,
         "description": "Light Rain"
       },
       {
         "day": "Wed",
-        "icon": "☁️",
+        "icon": "🌧️",
         "high": 70,
         "low": 70,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Thu",
+        "icon": "☁️",
+        "high": 75,
+        "low": 75,
         "description": "Broken Clouds"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 737.55,
-        "change": -19.54,
-        "change_pct": -2.58,
-        "up": false,
+        "price": 744.36,
+        "change": 6.81,
+        "change_pct": 0.92,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 307.34,
-        "change": -3.89,
-        "change_pct": -1.25,
-        "up": false,
+        "price": 314.15,
+        "change": 6.81,
+        "change_pct": 2.22,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 205.1,
-        "change": -13.56,
-        "change_pct": -6.2,
-        "up": false,
+        "price": 208.34,
+        "change": 3.24,
+        "change_pct": 1.58,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 391,
-        "change": -27.45,
-        "change_pct": -6.56,
-        "up": false,
+        "price": 402.71,
+        "change": 11.71,
+        "change_pct": 2.99,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 61700.87,
-        "change": 754.87,
-        "change_pct": 1.24,
+        "price": 64089.99,
+        "change": 2273.4,
+        "change_pct": 3.68,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1617.45,
-        "change": 50.61,
-        "change_pct": 3.23,
+        "price": 1699.31,
+        "change": 70.86,
+        "change_pct": 4.35,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Trump says he’s considering government stake in top AI companies - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/06/05/tech-leaders-will-discuss-government-stakes-top-ai-firms-trump-says/",
-        "description": "Industry leaders will soon gather at the White House to discuss the idea, the president said. The comments come as SpaceX, Anthropic and OpenAI prepare to go public.",
-        "published": "4:23 AM UTC",
+        "title": "Trump Says Fed Rate Increase Would Be Wrong, Again Calls for Cut - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/policy/articles/trump-says-fed-rate-increase-135215588.html",
+        "description": "(Bloomberg) -- President Donald Trump said the Federal Reserve would be wrong to raise interest rates as his nominee Kevin Warsh prepares to chair his first ...",
+        "published": "4:16 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Chips sector bloodbath drags Nasdaq down 4.2% - Axios",
+        "title": "The business of AI's 4 harsh realities - Axios",
         "source": "Axios",
-        "url": "https://www.axios.com/2026/06/05/stocks-nasdaq-tech-stocks",
-        "description": "Tech stocks plunged Friday amid rising bond yields, dragging down the Nasdaq in its worst session in 14 months.",
-        "published": "2:11 AM UTC",
+        "url": "https://www.axios.com/2026/06/07/ai-business-technology-stocks-broadcom",
+        "description": "Investors are starting to realize that things may not be as rosy as they wanted.",
+        "published": "1:02 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Target voluntarily recalls some baby wipes due to potential contamination - ABC News - Breaking News, Latest News and Videos",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/GMA/Family/target-voluntarily-recalls-baby-wipes-due-potential-contamination/story?id\\\\u003d133625232",
-        "description": "",
-        "published": "11:15 PM UTC",
+        "title": "Joe Rogan stunned after Caleb Hammer says US boomers should have $2M-$5M savings — no ‘sympathy’ otherwise. Is he right? - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/joe-rogan-stunned-caleb-hammer-124500206.html",
+        "description": "Many boomers may have missed the bus. Don’t make the same mistake.",
+        "published": "12:45 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Sonic Racing: CrossWorlds Season Pass 2 Announced, Includes Six New DLC Packs - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/06/sonic-racing-crossworlds-season-pass-2-announced-includes-six-new-dlc-packs",
-        "description": "Who's up next?",
-        "published": "4:30 AM UTC",
+        "title": "The Virtual OS Museum lets you relive over 600 operating systems right on your desktop - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os",
+        "description": "The Virtual OS Museum lets you relive computing history from mainframes, to Mac OS and Windows 95.",
+        "published": "2:17 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Here's Everything Announced During The Summer Game Fest 2026 Showcase - Game Informer",
-        "source": "Gameinformer.com",
-        "url": "https://gameinformer.com/sgf-2026/2026/06/05/heres-everything-announced-during-the-summer-game-fest-2026-showcase",
-        "description": "From Resident Evil Veronica to Final Fantasy VII Revelation and everything in between.",
-        "published": "2:26 AM UTC",
+        "title": "Rumour: Gears of War: E-Day Was Coming to PS5, Xbox Only Just Cancelled Port - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/06/rumour-gears-of-war-e-day-was-coming-to-ps5-xbox-only-just-cancelled-port",
+        "description": "Update: PS5 retail SKU exists, game was rated for Sony's console",
+        "published": "2:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Welcome Back, 47: HITMAN Classic Trilogy Remastered Revealed – Coming 2027 - XBOX Wire",
-        "source": "Xbox.com",
-        "url": "https://news.xbox.com/en-us/2026/06/05/hitman-classic-trilogy-remastered-sgf-announce/",
-        "description": "Saber Interactive has partnered with IOI for HITMAN Classic Trilogy Remastered, boasting enhanced visuals, improved performance, and new features, all while preserving the systems, tone, and freedom o",
-        "published": "1:01 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Pope Leo visits a polarized Spain where conservatives are turning on the church - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/06/06/pope-leo-visits-spain-conservative-catholics-say-church-is-too-liberal/",
-        "description": "On the first papal visit to Spain in 15 years, Leo plans to address political polarization and showcase the Catholic Church as an advocate for migrants and asylum seekers.",
-        "published": "12:18 PM UTC",
+        "title": "Scott Pelley Opens Up on ‘60 Minutes’ Firing, Calls for Bari Weiss’ Removal: “CBS News Is on Fire” - The Hollywood Reporter",
+        "source": "Hollywood Reporter",
+        "url": "http://www.hollywoodreporter.com/tv/tv-news/scott-pelley-60-minutes-firing-bari-weiss-political-bias-1236615648/",
+        "description": "\"We need adult supervision and at the moment we don’t have it,\" he told The New York Times in his first interview since his dismissal.",
+        "published": "3:47 PM UTC",
         "category": "General"
       },
       {
-        "title": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' - BBC",
+        "title": "Monaco Grand Prix result: Kimi Antonelli wins chaotic race from Lewis Hamilton - BBC",
         "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cg7498kz808o",
-        "description": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
-        "published": "10:54 AM UTC",
+        "url": "https://www.bbc.com/sport/formula1/articles/ckgpgp5q3z7o",
+        "description": "Kimi Antonelli wins the Monaco Grand Prix from Lewis Hamilton after a chaotic ending that featured two safety cars and a red flag.",
+        "published": "3:36 PM UTC",
         "category": "General"
       }
     ]
@@ -251,108 +243,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Summer Move for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Arsenal are reportedly leading the chase for Swedish striker Viktor Gyökeres, with Sporting CP understood to value the prolific forward at close to his €100 million release clause. Mikel Arteta views the 26-year-old as the clinical No.9 needed to close the gap on Manchester City in next season's title race.",
+        "headline": "Liverpool Eyeing Bayer Leverkusen Midfielder Amid Midfield Rebuild",
+        "summary": "Liverpool's recruitment team have been linked with a move for a creative central midfielder from Bundesliga champions Bayer Leverkusen, as Arne Slot looks to add depth and dynamism ahead of the January window. A fee in the region of £55-65 million is believed to be under internal discussion.",
         "clubs": [
-          "Arsenal",
-          "Sporting CP"
+          "Liverpool",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Hold Talks Over Signing Napoli Defender Alessandro Buongiorno",
-        "summary": "Chelsea's sporting directors have reportedly initiated formal discussions with Napoli over centre-back Alessandro Buongiorno as Enzo Maresca looks to address defensive frailties exposed during the current campaign. Napoli are believed to want upwards of £55 million for the Italian international, who has also attracted interest from Bayern Munich.",
+        "headline": "Chelsea in Advanced Talks to Offload Fringe Forward on Loan",
+        "summary": "Chelsea are pushing to move a fringe attacking player out on loan in January to free up squad space and wages, with a Serie A club understood to have submitted a formal enquiry. The player has made just four substitute appearances in the Premier League this season.",
         "clubs": [
           "Chelsea",
-          "Napoli"
+          "AC Milan"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's most consequential fixture of the calendar pits a resurgent Manchester City side against Liverpool in what amounts to a genuine title six-pointer at the Etihad. City have won their last five in all competitions and will look to Erling Haaland to exploit Liverpool's injury-hit defensive line, while Arne Slot's side arrive on the back of a dominant midweek Champions League performance and will be buoyed by the potential return of their captain from a hamstring complaint. The tactical battle between Slot's high press and Guardiola's positional play promises to be the defining subplot, with both teams knowing a defeat could prove season-defining.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Emirates hosts what could be the defining fixture of the Premier League title race so far this season, as Arsenal welcome Manchester City in a match where both sides desperately need three points to maintain contact with the pace-setters. Arsenal have been imperious at home, conceding just four league goals on their own ground this season, while City arrive having strung together three consecutive wins to silence doubters about their early-season inconsistency. The tactical duel between Mikel Arteta and Pep Guardiola — two coaches who know each other's systems intimately — promises to be one of the most compelling encounters of the English football calendar.",
       "key_players": [
+        "Bukayo Saka",
         "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Virgil van Dijk",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of Sunday; 50/50 to feature"
-      },
-      {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected to return to full training within 10 days; unlikely to feature Sunday"
+        "return": "Long-term absentee — potential return late spring"
+      },
+      {
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Late fitness test ahead of weekend fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
+      "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A bank has a loan portfolio with an expected default rate of 2%, a loss given default (LGD) of 45%, and a total exposure at default (EAD) of $500 million. Regulatory capital under Basel III is intended to cover which of the following?",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using the CreditMetrics framework. The portfolio contains two bonds with a correlation of asset returns of 0.30. The one-year probability of default is 2% for Bond A and 5% for Bond B. Which of the following best describes how asset return correlation affects the portfolio's credit VaR relative to the sum of individual credit VaRs?",
       "options": {
-        "A": "Expected Loss (EL) only, since unexpected losses are absorbed by loan loss reserves",
-        "B": "Unexpected Loss (UL) only, since Expected Loss should be covered by loan loss provisions and pricing",
-        "C": "Both Expected Loss and Unexpected Loss equally, as Basel III treats them symmetrically",
-        "D": "Neither EL nor UL; regulatory capital under Basel III only covers operational risk"
+        "A": "Higher asset return correlation increases diversification benefits, reducing portfolio credit VaR below the sum of individual credit VaRs.",
+        "B": "Asset return correlation has no effect on credit VaR because defaults are binary events.",
+        "C": "Higher asset return correlation increases the probability of joint default, raising portfolio credit VaR closer to the sum of individual credit VaRs and reducing diversification benefits.",
+        "D": "Portfolio credit VaR always equals the sum of individual credit VaRs regardless of correlation when using the CreditMetrics framework."
       },
-      "correct": "B",
-      "explanation": "Under the Basel III framework, regulatory capital (Pillar 1 minimum capital requirements) is designed to cover Unexpected Loss (UL), which represents the volatility of losses around the expected level. Expected Loss (EL = PD × LGD × EAD = 2% × 45% × $500M = $4.5M) should already be priced into loan spreads and covered by loan loss provisions (IFRS 9 / CECL reserves). Requiring capital to absorb EL in addition to UL would result in double-counting of credit costs, making the framework unnecessarily punitive."
+      "correct": "C",
+      "explanation": "In the CreditMetrics framework, asset return correlation drives joint default probabilities. As correlation increases, obligors are more likely to default together, concentrating losses and pushing portfolio credit VaR toward the undiversified sum of individual VaRs. At zero correlation, diversification benefits are maximized and joint defaults are rare. This is a critical distinction from market risk VaR, where correlation can cut both ways, but in credit risk the key concern is the amplification of tail losses through correlated defaults."
     },
     "finance_topic": {
-      "title": "Duration Gap Risk in Bank Balance Sheets",
-      "subtitle": "How mismatches between asset and liability durations expose banks to devastating interest rate losses.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Why a seemingly perfect hedge can still leave you exposed to residual losses.",
       "paragraphs": [
-        "Duration gap is the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for leverage. A positive duration gap means a bank's assets reprice more slowly than its liabilities — when interest rates rise, the economic value of equity (EVE) falls sharply because long-dated fixed assets lose more market value than short-dated liabilities. This is the essence of interest rate risk in the banking book (IRRBB), a risk category that Basel standards require banks to actively measure and manage.",
-        "The collapse of Silicon Valley Bank in March 2023 became the defining real-world case study of duration gap risk in a generation. SVB had accumulated a massive portfolio of long-duration US Treasuries and agency mortgage-backed securities funded by short-term, rate-sensitive deposits. As the Federal Reserve raised rates by over 500 basis points in roughly 12 months, the mark-to-market losses on SVB's held-to-maturity portfolio exceeded its entire equity base — a textbook duration gap catastrophe. The subsequent bank run revealed that uninsured depositors needed little incentive to flee once the mismatch became public knowledge.",
-        "For risk managers and investors, duration gap analysis is a critical input to stress testing under rising-rate environments. Banks with positive duration gaps should consider interest rate swaps (receiving floating, paying fixed) to synthetically shorten asset duration, or actively restructure their investment portfolios toward shorter maturities. Investors evaluating bank stocks should scrutinize disclosures of unrealized losses in held-to-maturity (HTM) portfolios and compare EVE sensitivity disclosures in Pillar 2 regulatory filings, as these reveal vulnerability that book-value accounting can conceal for extended periods."
+        "Basis risk arises when the price of the hedging instrument does not move in perfect lockstep with the price of the underlying exposure being hedged. The 'basis' is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Even when a hedger selects a closely related instrument, imperfect correlation, differences in contract specifications, liquidity mismatches, or tenor mismatches can all cause the basis to fluctuate unpredictably over time.",
+        "A classic real-world example emerged during the 2022 energy crisis, when European utilities attempted to hedge natural gas exposure using crude oil futures as a proxy due to limited gas futures liquidity. As gas and oil prices decoupled dramatically — gas spiking on supply disruptions while oil traded on different geopolitical dynamics — the basis widened catastrophically, generating margin calls and hedging losses that dwarfed the original risk. Similarly, airlines hedging jet fuel costs with Brent crude futures routinely face basis risk when crack spreads (the refining margin between crude and jet fuel) shift unexpectedly.",
+        "For risk managers and portfolio hedgers, basis risk demands that the hedge ratio be dynamically adjusted using the minimum-variance hedge ratio, calculated as the correlation between spot and futures price changes multiplied by the ratio of their standard deviations. A hedge ratio of 1.0 is rarely optimal. Stress testing the basis under adverse scenarios — particularly during periods of market dislocation when correlations break down — is essential. Hedges that appear robust in normal conditions can become dangerously ineffective precisely when protection is most needed."
       ],
       "key_takeaways": [
-        "Duration gap = weighted asset duration minus leverage-adjusted liability duration; a large positive gap signals acute exposure to rising rates.",
-        "Expected Loss must be provisioned; regulatory capital is reserved for Unexpected Loss — the same asymmetry applies to duration: small rate moves are manageable, but tail moves can be existential.",
-        "SVB's 2023 failure demonstrated that GAAP accounting rules allowing HTM classification can mask enormous economic losses until a liquidity event forces realization."
+        "Basis risk is the residual risk that remains even after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
+        "The minimum-variance hedge ratio accounts for basis risk by scaling the hedge position to the observed correlation and volatility relationship between the two instruments.",
+        "Basis risk tends to widen during market stress precisely when hedges are most critical, making scenario analysis and dynamic hedge rebalancing essential risk management practices."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved up",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "毎月少しずつ貯金しています。",
-      "example_romaji": "Maitsuki sukoshi zutsu chokin shite imasu.",
-      "example_en": "I save a little money every month.",
-      "grammar_point": "〜ています (ongoing action/habit)",
-      "grammar_explanation": "The pattern 〜ています (te-form + います) is used to describe either an action currently in progress or a habitual/repeated action. Here, 'chokin shite imasu' describes an ongoing personal habit of saving money rather than a single completed event.",
-      "memory_tip": "Think of 'chokin' as 'choking' your spending — you squeeze your wallet tight and save the money instead of letting it escape."
+      "example_jp": "今月の予算をもう使いきってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukai kitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened and it cannot be undone. It is formed by taking the て-form of a verb and adding しまいました.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you have planned for yourself. Once your 'yo-san' is gone, it's gone — just like the regretful feeling of 〜てしまいました."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Replacing Loan Officers at Scale",
-      "summary": "Major banks and fintech lenders are deploying large language models and gradient-boosting ensembles to automate credit decisions for SME and consumer loans, reducing underwriting time from days to seconds. JPMorgan's COiN platform and similar internal tools now process millions of document reviews annually, while startups like Zest AI and Upstart are demonstrating that alternative data — rent payments, cash flow patterns, device metadata — meaningfully outperforms FICO scores in predicting default, particularly for thin-file borrowers. Regulators at the OCC and CFPB are now scrambling to develop model risk governance frameworks that address explainability requirements under ECOA and fair lending statutes. For risk professionals, the era of 'black box' lending is already here — the compliance question is how to make these systems auditable and defensible.",
+      "headline": "AI Agents Are Quietly Reshaping How Investment Banks Process Risk Data",
+      "summary": "A new generation of autonomous AI agents — systems that can plan multi-step tasks, query databases, interpret results, and generate reports without human prompting — is being piloted across risk management and front-office functions at major financial institutions. Unlike earlier automation tools, these agents can dynamically adapt to new data inputs, flag anomalies in real time, and synthesize information across structured and unstructured sources simultaneously. Goldman Sachs, JPMorgan, and several large asset managers have publicly referenced agentic AI frameworks in their technology investment narratives, with use cases ranging from automated regulatory reporting to dynamic portfolio stress testing. The competitive implication is significant: firms that deploy these agents effectively could compress the time between risk identification and decision-making from hours to seconds.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and nonlinear relationships better than logistic regression while remaining partially interpretable."
+          "term": "Agentic AI",
+          "definition": "An AI system capable of autonomously executing multi-step workflows — such as pulling data, running models, and drafting reports — without requiring a human to direct each individual step. In finance, this means AI that can monitor a portfolio, detect a threshold breach, and escalate a risk alert automatically."
         },
         {
-          "term": "SHAP Values (Shapley Additive Explanations)",
-          "definition": "A game-theory-based method for explaining individual AI model predictions by quantifying each input variable's contribution to a specific decision — increasingly required by regulators to satisfy 'adverse action notice' requirements in consumer lending."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI language model is connected to an external knowledge base or database, allowing it to retrieve current, firm-specific documents before generating a response. In risk management, RAG enables AI to answer questions using live regulatory filings, internal policy documents, or up-to-date market data rather than relying solely on training data."
         },
         {
-          "term": "Alternative Data in Credit",
-          "definition": "Non-traditional data sources — including bank transaction histories, rent and utility payments, social media signals, and behavioral biometrics — used to supplement or replace traditional bureau data in assessing creditworthiness, particularly valuable for underbanked populations."
+          "term": "Model Explainability (XAI)",
+          "definition": "The ability to interpret and communicate why an AI or machine learning model produced a specific output — for example, why a credit scoring model denied a loan or why an algorithmic system flagged a trade. Regulators and risk committees increasingly require explainability as a condition for deploying AI in high-stakes financial decisions."
         }
       ],
-      "career_insight": "Credit risk analysts who can bridge traditional underwriting judgment with ML model validation skills are among the most sought-after profiles in banking right now. The ability to challenge a model's assumptions, audit its training data for bias, and communicate its outputs to both regulators and business lines is a distinct and highly compensated skill set. Professionals who invest in Python proficiency, SR 11-7 model risk frameworks, and fair lending compliance literacy will be structurally advantaged as AI adoption in underwriting accelerates through 2026."
+      "career_insight": "Finance and risk professionals who can serve as translators between AI systems and business decision-makers are becoming the most valuable people in their organizations. Technical fluency — understanding what models can and cannot do, how to validate their outputs, and where they fail — is now as important as traditional financial modeling skills. Building expertise in AI governance, prompt engineering for financial analysis, and model risk management will differentiate candidates over the next five years."
     },
     "error": false,
-    "market_sentiment": "Risk assets enter the session on a cautiously constructive footing as markets digest a softer-than-expected core PCE print, reinforcing the Fed's optionality narrative and pushing rate-cut pricing modestly forward on the curve. The dollar index has retreated from recent highs, providing a modest tailwind for EM equities and commodities, while front-end Treasury yields ease slightly as real money accounts rotate back into duration. Credit spreads remain range-bound at historically tight levels, suggesting the market continues to price a soft-landing base case, though the vol surface is quietly bid — options traders appear to be hedging tail risks around the upcoming FOMC minutes and a heavy slate of investment-grade issuance expected mid-week."
+    "market_sentiment": "Global risk appetite remains cautiously constructive as equity markets digest the prospect of a shallower Fed easing cycle, with the December dot plot now pricing fewer cuts than markets anticipated entering the quarter. The US dollar continues to exert pressure on EM currencies, while credit spreads in investment-grade have held relatively tight, suggesting institutional credit demand remains resilient despite elevated all-in yields. Commodities are the wildcard — oil has stabilized near recent support levels but geopolitical uncertainty in the Middle East and sluggish Chinese demand data are keeping the range narrow; watch the next PBoC policy signal and US jobs print as the near-term catalysts that could break the holding pattern."
   }
 }
