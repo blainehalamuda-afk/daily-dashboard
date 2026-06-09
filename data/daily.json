@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:23 PM UTC",
-  "date": "Monday, June 8, 2026",
+  "generated_at": "2:17 PM UTC",
+  "date": "Tuesday, June 9, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 84,
-    "feels_like_f": 89,
-    "high_f": 88,
-    "low_f": 83,
+    "temp_f": 74,
+    "feels_like_f": 75,
+    "high_f": 76,
+    "low_f": 73,
     "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 64,
-    "wind_mph": 1,
+    "humidity": 81,
+    "wind_mph": 6,
     "forecast": [
       {
-        "day": "Tue",
-        "icon": "🌧️",
-        "high": 70,
-        "low": 70,
-        "description": "Light Rain"
-      },
-      {
         "day": "Wed",
-        "icon": "🌧️",
-        "high": 70,
-        "low": 70,
-        "description": "Light Rain"
+        "icon": "☁️",
+        "high": 73,
+        "low": 73,
+        "description": "Overcast Clouds"
       },
       {
         "day": "Thu",
         "icon": "☁️",
-        "high": 75,
-        "low": 75,
+        "high": 73,
+        "low": 73,
         "description": "Broken Clouds"
+      },
+      {
+        "day": "Fri",
+        "icon": "🌧️",
+        "high": 73,
+        "low": 73,
+        "description": "Light Rain"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 744.36,
-        "change": 6.81,
-        "change_pct": 0.92,
+        "price": 740.85,
+        "change": 1.63,
+        "change_pct": 0.22,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 314.15,
-        "change": 6.81,
-        "change_pct": 2.22,
-        "up": true,
+        "price": 293.84,
+        "change": -7.7,
+        "change_pct": -2.55,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 208.34,
-        "change": 3.24,
-        "change_pct": 1.58,
-        "up": true,
+        "price": 206.56,
+        "change": -2.08,
+        "change_pct": -1.0,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 402.71,
-        "change": 11.71,
-        "change_pct": 2.99,
-        "up": true,
+        "price": 407.78,
+        "change": -1.17,
+        "change_pct": -0.29,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64089.99,
-        "change": 2273.4,
-        "change_pct": 3.68,
-        "up": true,
+        "price": 61858.01,
+        "change": -1963.99,
+        "change_pct": -3.08,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1699.31,
-        "change": 70.86,
-        "change_pct": 4.35,
-        "up": true,
+        "price": 1647.48,
+        "change": -37.45,
+        "change_pct": -2.22,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Trump Says Fed Rate Increase Would Be Wrong, Again Calls for Cut - Yahoo Finance",
+        "title": "Tim Cook posts comedic ‘Good morning’ video to mark final Apple event as CEO - 9to5Mac",
+        "source": "9to5Mac",
+        "url": "https://9to5mac.com/2026/06/08/tim-cook-posts-comedic-good-morning-video-to-mark-final-apple-event-as-ceo/",
+        "description": "Today’s WWDC keynote will be Tim Cook’s final Apple event to say, “Good morning,” so he’s just shared a special video ahead of the kickoff.",
+        "published": "1:25 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Oil prices pares gains after Iran announces end to attacks on Israel - Yahoo Finance",
         "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/policy/articles/trump-says-fed-rate-increase-135215588.html",
-        "description": "(Bloomberg) -- President Donald Trump said the Federal Reserve would be wrong to raise interest rates as his nominee Kevin Warsh prepares to chair his first ...",
-        "published": "4:16 PM UTC",
+        "url": "https://finance.yahoo.com/news/oil-prices-rise-more-2-223106619.html",
+        "description": "By Stephanie Kelly LONDON, June 8 (Reuters) - Oil prices pared gains on Monday, after rising more than 5% earlier in the session, following an announcement...",
+        "published": "1:14 PM UTC",
         "category": "Business"
       },
       {
-        "title": "The business of AI's 4 harsh realities - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/06/07/ai-business-technology-stocks-broadcom",
-        "description": "Investors are starting to realize that things may not be as rosy as they wanted.",
-        "published": "1:02 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Joe Rogan stunned after Caleb Hammer says US boomers should have $2M-$5M savings — no ‘sympathy’ otherwise. Is he right? - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/joe-rogan-stunned-caleb-hammer-124500206.html",
-        "description": "Many boomers may have missed the bus. Don’t make the same mistake.",
-        "published": "12:45 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "The Virtual OS Museum lets you relive over 600 operating systems right on your desktop - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os",
-        "description": "The Virtual OS Museum lets you relive computing history from mainframes, to Mac OS and Windows 95.",
-        "published": "2:17 PM UTC",
+        "title": "Nintendo Direct Announced For Tomorrow, 9th June 2026 - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/06/nintendo-direct-announced-for-tomorrow-9th-june-2026",
+        "description": "It's about time!",
+        "published": "1:50 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Rumour: Gears of War: E-Day Was Coming to PS5, Xbox Only Just Cancelled Port - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/06/rumour-gears-of-war-e-day-was-coming-to-ps5-xbox-only-just-cancelled-port",
-        "description": "Update: PS5 retail SKU exists, game was rated for Sony's console",
-        "published": "2:00 PM UTC",
+        "title": "WWDC 2026 live updates: Apple AI, Siri and iPhone software in focus - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
+        "description": "Follow Apple WWDC 2026 live updates as the keynote spotlights AI, software, Siri and developer tools and likely CEO John Ternus's first major appearance.",
+        "published": "1:26 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Scott Pelley Opens Up on ‘60 Minutes’ Firing, Calls for Bari Weiss’ Removal: “CBS News Is on Fire” - The Hollywood Reporter",
-        "source": "Hollywood Reporter",
-        "url": "http://www.hollywoodreporter.com/tv/tv-news/scott-pelley-60-minutes-firing-bari-weiss-political-bias-1236615648/",
-        "description": "\"We need adult supervision and at the moment we don’t have it,\" he told The New York Times in his first interview since his dismissal.",
-        "published": "3:47 PM UTC",
+        "title": "Round Up: Every Switch 1 & 2 Announcement From Summer Game Fest's Weekend Showcases - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/06/round-up-every-switch-1-and-2-announcement-from-summer-game-fests-weekend-showcases",
+        "description": "Stacked showcases",
+        "published": "11:45 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "6 people stabbed at Penn Station. Here's what we know. - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/newyork/news/penn-station-nyc-5-people-stabbed-nypd/",
+        "description": "Six people were taken to the hospital after a stabbing incident at New York City's Penn Station Sunday evening.",
+        "published": "2:27 PM UTC",
         "category": "General"
       },
       {
-        "title": "Monaco Grand Prix result: Kimi Antonelli wins chaotic race from Lewis Hamilton - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/formula1/articles/ckgpgp5q3z7o",
-        "description": "Kimi Antonelli wins the Monaco Grand Prix from Lewis Hamilton after a chaotic ending that featured two safety cars and a red flag.",
-        "published": "3:36 PM UTC",
+        "title": "Trump administration launches largest-ever effort to denaturalize U.S. citizens accused of fraud or other crimes - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/denaturalization-us-citizens-fraud-crimes-trump-administration/",
+        "description": "The Trump administration on Monday plans to announce it is seeking to revoke the citizenship of 17 U.S. citizens accused of immigration fraud.",
+        "published": "2:10 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "‘Scooby Doo’ Live-Action Netflix Series Reveals First Look at Crime-Solving Canine, to Premiere in 2027 - Variety",
+        "source": "Variety",
+        "url": "https://variety.com/2026/tv/news/scooby-doo-live-action-netflix-series-first-look-2027-1236768269/",
+        "description": "Netflix has unveiled an early first-look at its upcoming \"Scooby-Doo\" live action-series.",
+        "published": "2:00 PM UTC",
         "category": "General"
       }
     ]
@@ -243,31 +251,31 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Liverpool Eyeing Bayer Leverkusen Midfielder Amid Midfield Rebuild",
-        "summary": "Liverpool's recruitment team have been linked with a move for a creative central midfielder from Bundesliga champions Bayer Leverkusen, as Arne Slot looks to add depth and dynamism ahead of the January window. A fee in the region of £55-65 million is believed to be under internal discussion.",
+        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder Ahead of January Window",
+        "summary": "Arsenal's recruitment team has reportedly shortlisted Bayer Leverkusen's Granit Xhaka successor profile, with Mikel Arteta keen to add steel and creativity in the engine room as the Gunners push for a title challenge. Personal terms are said to be straightforward, with the fee the primary sticking point.",
         "clubs": [
-          "Liverpool",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Offload Fringe Forward on Loan",
-        "summary": "Chelsea are pushing to move a fringe attacking player out on loan in January to free up squad space and wages, with a Serie A club understood to have submitted a formal enquiry. The player has made just four substitute appearances in the Premier League this season.",
+        "headline": "Chelsea Monitoring 22-Year-Old Ligue 1 Striker as Attacking Options Run Thin",
+        "summary": "Chelsea's data-driven recruitment department has identified a high-profile young striker from a top Ligue 1 club as a January target, with Nicolas Jackson's inconsistent form prompting Enzo Maresca to request reinforcements up front. The player's release clause is understood to be in the £55–65 million range.",
         "clubs": [
           "Chelsea",
-          "AC Milan"
+          "Monaco"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
+      "home": "Manchester City",
+      "away": "Liverpool",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Emirates hosts what could be the defining fixture of the Premier League title race so far this season, as Arsenal welcome Manchester City in a match where both sides desperately need three points to maintain contact with the pace-setters. Arsenal have been imperious at home, conceding just four league goals on their own ground this season, while City arrive having strung together three consecutive wins to silence doubters about their early-season inconsistency. The tactical duel between Mikel Arteta and Pep Guardiola — two coaches who know each other's systems intimately — promises to be one of the most compelling encounters of the English football calendar.",
+      "preview": "The Premier League's standout fixture of the weekend pits a resurgent Manchester City side, fresh from a midweek Champions League victory, against an in-form Liverpool who sit just two points clear at the summit. Pep Guardiola's side have shown signs of recapturing their clinical best — winning four of their last five — while Arne Slot's Liverpool will be tested defensively against a City attack that has rediscovered its combinations through the middle. With title implications already looming in October, expect a tactically intense battle where transitions and set pieces could prove decisive.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
@@ -275,42 +283,42 @@
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Long-term absentee — potential return late spring"
+        "return": "Long-term absentee — not expected until late spring at earliest"
       },
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
+        "player": "Diogo Jota",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Late fitness test ahead of weekend fixture"
+        "return": "Assessed day-to-day; could return within 1–2 weeks pending scan results"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
+      "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using the CreditMetrics framework. The portfolio contains two bonds with a correlation of asset returns of 0.30. The one-year probability of default is 2% for Bond A and 5% for Bond B. Which of the following best describes how asset return correlation affects the portfolio's credit VaR relative to the sum of individual credit VaRs?",
+      "question": "A risk manager is evaluating the credit exposure of an interest rate swap. The counterparty has just defaulted when the swap has a positive mark-to-market value to the bank. Which of the following best describes the bank's loss in this scenario, assuming zero recovery?",
       "options": {
-        "A": "Higher asset return correlation increases diversification benefits, reducing portfolio credit VaR below the sum of individual credit VaRs.",
-        "B": "Asset return correlation has no effect on credit VaR because defaults are binary events.",
-        "C": "Higher asset return correlation increases the probability of joint default, raising portfolio credit VaR closer to the sum of individual credit VaRs and reducing diversification benefits.",
-        "D": "Portfolio credit VaR always equals the sum of individual credit VaRs regardless of correlation when using the CreditMetrics framework."
+        "A": "The notional principal of the swap",
+        "B": "The present value of all remaining fixed payments",
+        "C": "The current replacement cost of the swap, equal to its positive mark-to-market value",
+        "D": "The sum of all net cash flows exchanged over the life of the swap"
       },
       "correct": "C",
-      "explanation": "In the CreditMetrics framework, asset return correlation drives joint default probabilities. As correlation increases, obligors are more likely to default together, concentrating losses and pushing portfolio credit VaR toward the undiversified sum of individual VaRs. At zero correlation, diversification benefits are maximized and joint defaults are rare. This is a critical distinction from market risk VaR, where correlation can cut both ways, but in credit risk the key concern is the amplification of tail losses through correlated defaults."
+      "explanation": "In a derivatives contract, credit exposure at default equals the cost to replace the contract at current market rates — i.e., its positive mark-to-market value. Unlike a loan, notional principal is never exchanged in an interest rate swap, so the full notional is not at risk. The replacement cost concept is central to counterparty credit risk (CCR): the bank must re-enter the market to replicate the lost cash flows, and if rates have moved favorably, that replacement comes at a cost equal to the current MTM."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why a seemingly perfect hedge can still leave you exposed to residual losses.",
+      "title": "Basis Risk and Its Hidden Dangers",
+      "subtitle": "When a hedge doesn't perfectly offset an exposure, the residual mismatch — known as basis risk — can quietly erode a hedging strategy's effectiveness.",
       "paragraphs": [
-        "Basis risk arises when the price of the hedging instrument does not move in perfect lockstep with the price of the underlying exposure being hedged. The 'basis' is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Even when a hedger selects a closely related instrument, imperfect correlation, differences in contract specifications, liquidity mismatches, or tenor mismatches can all cause the basis to fluctuate unpredictably over time.",
-        "A classic real-world example emerged during the 2022 energy crisis, when European utilities attempted to hedge natural gas exposure using crude oil futures as a proxy due to limited gas futures liquidity. As gas and oil prices decoupled dramatically — gas spiking on supply disruptions while oil traded on different geopolitical dynamics — the basis widened catastrophically, generating margin calls and hedging losses that dwarfed the original risk. Similarly, airlines hedging jet fuel costs with Brent crude futures routinely face basis risk when crack spreads (the refining margin between crude and jet fuel) shift unexpectedly.",
-        "For risk managers and portfolio hedgers, basis risk demands that the hedge ratio be dynamically adjusted using the minimum-variance hedge ratio, calculated as the correlation between spot and futures price changes multiplied by the ratio of their standard deviations. A hedge ratio of 1.0 is rarely optimal. Stress testing the basis under adverse scenarios — particularly during periods of market dislocation when correlations break down — is essential. Hedges that appear robust in normal conditions can become dangerously ineffective precisely when protection is most needed."
+        "Basis risk arises when the price of the instrument used to hedge does not move in perfect lockstep with the price of the underlying exposure being hedged. It is formally defined as the variability of the difference (the 'basis') between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Even when a hedge is thoughtfully constructed, basis risk means that gains and losses will not perfectly cancel, leaving residual profit-and-loss volatility.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Jet fuel and crude oil are highly correlated, but not identical in price behavior — refining spreads, regional supply dynamics, and seasonal demand patterns can cause the two prices to diverge sharply. During the 2021–2022 energy volatility, several carriers discovered that crude-based hedges provided less protection than expected as crack spreads widened dramatically, illustrating that basis risk is not merely theoretical. Similarly, a fixed-income portfolio manager hedging a corporate bond portfolio with Treasury futures faces basis risk driven by changes in credit spreads.",
+        "For risk managers and investors, basis risk demands careful hedge ratio calculation — often using regression-based minimum variance approaches — and ongoing monitoring of the basis itself as a risk metric. Regulators and accounting standards (notably IFRS 9 and ASC 815) require firms to assess hedge effectiveness, and large, unexpected basis moves can disqualify a hedge for favorable accounting treatment. Practitioners should stress-test hedges under scenarios where historical correlations break down, as basis risk tends to spike precisely during market dislocations when hedges are needed most."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk that remains even after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "The minimum-variance hedge ratio accounts for basis risk by scaling the hedge position to the observed correlation and volatility relationship between the two instruments.",
-        "Basis risk tends to widen during market stress precisely when hedges are most critical, making scenario analysis and dynamic hedge rebalancing essential risk management practices."
+        "Basis risk is the residual price risk remaining after a hedge is in place, driven by imperfect correlation between the hedging instrument and the underlying exposure.",
+        "Real-world hedges — such as jet fuel hedged with crude oil, or corporate bonds hedged with Treasuries — always carry some basis risk that can amplify losses during stress periods.",
+        "Effective risk management requires quantifying, monitoring, and stress-testing basis risk, not simply assuming a hedge eliminates all price exposure."
       ]
     },
     "japanese": {
@@ -318,33 +326,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使いきってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukai kitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened and it cannot be undone. It is formed by taking the て-form of a verb and adding しまいました.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you have planned for yourself. Once your 'yo-san' is gone, it's gone — just like the regretful feeling of 〜てしまいました."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something was completed, often with a nuance of regret or that the action happened unintentionally. It combines the te-form of a verb with しまいました (the polite past of しまう).",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money YOU have allocated. Once you picture YOUR SUM as a budget envelope, the word becomes easy to recall."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Investment Banks Process Risk Data",
-      "summary": "A new generation of autonomous AI agents — systems that can plan multi-step tasks, query databases, interpret results, and generate reports without human prompting — is being piloted across risk management and front-office functions at major financial institutions. Unlike earlier automation tools, these agents can dynamically adapt to new data inputs, flag anomalies in real time, and synthesize information across structured and unstructured sources simultaneously. Goldman Sachs, JPMorgan, and several large asset managers have publicly referenced agentic AI frameworks in their technology investment narratives, with use cases ranging from automated regulatory reporting to dynamic portfolio stress testing. The competitive implication is significant: firms that deploy these agents effectively could compress the time between risk identification and decision-making from hours to seconds.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Multi-Step Financial Workflows",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step reasoning without human prompting at each stage — is moving from research labs into early production environments at hedge funds and investment banks. Unlike chatbots that answer single queries, these agents can chain tasks such as pulling market data, running quantitative screens, drafting trade memos, and flagging compliance issues in a single automated workflow. Firms including Point72 and several bulge-bracket banks have disclosed internal pilots where AI agents assist portfolio analysts in compressing hours of research into minutes. The critical risk-management challenge is ensuring these agents operate within sanctioned guardrails, as errors in autonomous chains can compound before human review occurs.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system capable of autonomously executing multi-step workflows — such as pulling data, running models, and drafting reports — without requiring a human to direct each individual step. In finance, this means AI that can monitor a portfolio, detect a threshold breach, and escalate a risk alert automatically."
+          "definition": "An AI system that can autonomously pursue a multi-step goal by planning, using external tools (APIs, databases, code interpreters), and adjusting its approach based on intermediate results — moving beyond single-turn question-answering toward goal-directed task completion."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI language model is connected to an external knowledge base or database, allowing it to retrieve current, firm-specific documents before generating a response. In risk management, RAG enables AI to answer questions using live regulatory filings, internal policy documents, or up-to-date market data rather than relying solely on training data."
+          "definition": "A technique where an AI model dynamically fetches relevant documents or data — such as earnings transcripts, regulatory filings, or market data — at query time and incorporates them into its response, reducing hallucination and improving factual grounding in financial analysis."
         },
         {
-          "term": "Model Explainability (XAI)",
-          "definition": "The ability to interpret and communicate why an AI or machine learning model produced a specific output — for example, why a credit scoring model denied a loan or why an algorithmic system flagged a trade. Regulators and risk committees increasingly require explainability as a condition for deploying AI in high-stakes financial decisions."
+          "term": "Human-in-the-Loop (HITL)",
+          "definition": "A system design where human reviewers are embedded at critical decision points within an AI workflow, ensuring that high-stakes outputs — such as trade recommendations or credit decisions — receive expert validation before execution."
         }
       ],
-      "career_insight": "Finance and risk professionals who can serve as translators between AI systems and business decision-makers are becoming the most valuable people in their organizations. Technical fluency — understanding what models can and cannot do, how to validate their outputs, and where they fail — is now as important as traditional financial modeling skills. Building expertise in AI governance, prompt engineering for financial analysis, and model risk management will differentiate candidates over the next five years."
+      "career_insight": "Finance professionals who understand how to design, supervise, and audit agentic AI workflows are becoming disproportionately valuable, as the bottleneck shifts from data access to intelligent oversight. Quantitative and risk roles increasingly require familiarity with prompt engineering, AI output validation, and model governance frameworks alongside traditional financial modeling skills. Professionals who can bridge domain expertise in credit, derivatives, or portfolio management with practical AI literacy will define the next generation of senior roles at banks, asset managers, and fintechs."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive as equity markets digest the prospect of a shallower Fed easing cycle, with the December dot plot now pricing fewer cuts than markets anticipated entering the quarter. The US dollar continues to exert pressure on EM currencies, while credit spreads in investment-grade have held relatively tight, suggesting institutional credit demand remains resilient despite elevated all-in yields. Commodities are the wildcard — oil has stabilized near recent support levels but geopolitical uncertainty in the Middle East and sluggish Chinese demand data are keeping the range narrow; watch the next PBoC policy signal and US jobs print as the near-term catalysts that could break the holding pattern."
+    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the session, with equity futures pointing modestly higher as investors digest a softer-than-expected U.S. services ISM print that reinforces the 'higher-for-longer-but-not-forever' Fed narrative. Treasury yields have edged down 4–6 bps across the belly of the curve, providing modest relief to rate-sensitive sectors, while the dollar index consolidates near recent highs ahead of Friday's payrolls data — the week's key binary risk event. Credit spreads are broadly unchanged, though EM debt faces idiosyncratic pressure as Chinese property sector concerns resurface, keeping risk managers focused on cross-asset contagion scenarios into quarter-end rebalancing flows."
   }
 }
