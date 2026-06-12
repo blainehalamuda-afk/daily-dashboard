@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:30 PM UTC",
-  "date": "Thursday, June 11, 2026",
+  "generated_at": "2:29 PM UTC",
+  "date": "Friday, June 12, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 88,
-    "feels_like_f": 97,
-    "high_f": 91,
-    "low_f": 85,
+    "temp_f": 89,
+    "feels_like_f": 98,
+    "high_f": 92,
+    "low_f": 86,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 65,
+    "humidity": 61,
     "wind_mph": 1,
     "forecast": [
       {
-        "day": "Fri",
-        "icon": "🌤️",
-        "high": 76,
-        "low": 76,
-        "description": "Few Clouds"
-      },
-      {
         "day": "Sat",
         "icon": "☁️",
-        "high": 76,
-        "low": 76,
-        "description": "Overcast Clouds"
+        "high": 78,
+        "low": 78,
+        "description": "Broken Clouds"
       },
       {
         "day": "Sun",
-        "icon": "🌧️",
+        "icon": "☁️",
         "high": 73,
         "low": 73,
-        "description": "Light Rain"
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Mon",
+        "icon": "☁️",
+        "high": 73,
+        "low": 73,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 727.31,
-        "change": 1.88,
-        "change_pct": 0.26,
+        "price": 739.93,
+        "change": 2.17,
+        "change_pct": 0.29,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 291.24,
-        "change": -0.34,
-        "change_pct": -0.12,
+        "price": 291.97,
+        "change": -3.66,
+        "change_pct": -1.24,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 200.75,
-        "change": 0.33,
-        "change_pct": 0.16,
+        "price": 205.8,
+        "change": 0.93,
+        "change_pct": 0.45,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 385.69,
-        "change": 4.1,
-        "change_pct": 1.07,
-        "up": true,
+        "price": 396.36,
+        "change": -2.79,
+        "change_pct": -0.7,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -99,67 +99,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Trump Regulator Proposes New Rules on What’s Allowed on Prediction Markets - WSJ",
+        "title": "Oracle Shares Tumble Amid Pricey Data-Center Build-Out - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d",
+        "url": "https://www.wsj.com/business/earnings/oracle-reports-higher-profit-on-surging-cloud-revenue-5f7d25eb",
         "description": "",
-        "published": "2:18 PM UTC",
+        "published": "1:38 PM UTC",
         "category": "Business"
       },
       {
-        "title": "More drops for tech stocks weigh on Wall Street - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/stocks-markets-ai-tech-iran-us-716c67bff3b68ff08503d7fc4adef0f9",
-        "description": "The U.S. stock market is drifting in mixed trading as technology stocks keep swinging. The S&P 500 was virtually flat Wednesday after recovering from an early loss of 0.8%, and it may avoid its first ",
-        "published": "1:46 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "We're trimming another stock to increase cash ahead of any SpaceX IPO volatility - CNBC",
+        "title": "Iran threatens Elon Musk's companies in Middle East: Iranian state media - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/10/were-trimming-a-stock-raising-our-large-cash-position-ahead-of-volatility.html",
-        "description": "We're making our fourth sale this week to bring our cash position close to 12%, in preparation for what we expect will remain a volatile market ahead.",
-        "published": "1:33 PM UTC",
+        "url": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
+        "description": "Iran will consider all of Elon Musk's companies in the Middle East as military targets as it retaliates against the U.S., Iranian state media reported.",
+        "published": "12:49 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Minecraft 26.2 Pre-Release 6 - Minecraft",
-        "source": "Minecraft.net",
-        "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-6",
-        "description": "Minecraft 26.2 Pre-Release 6",
-        "published": "2:03 PM UTC",
+        "title": "SpaceX IPO Draws More Than $70 Billion in Retail Orders - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/spacex-ipo-said-to-draw-more-than-70-billion-in-retail-orders",
+        "description": "SpaceX’s initial public offering has attracted more than $70 billion in orders from retail investors, according to people familiar with the matter, as the potentially record-breaking debut enters the ",
+        "published": "12:41 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Xbox CEO Gives A Good Explanation For Why A Console Now Costs $800 - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/paultassi/2026/06/11/xbox-ceo-gives-a-good-explanation-for-why-a-console-now-costs-800/",
+        "description": "Xbox prices have skyrocketed, but there's a reason for that which is out of Microsoft's control, as the brand's new CEO explains.",
+        "published": "1:35 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "iOS 27 Brings New Functionality to HomePod - MacRumors",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/06/10/ios-27-new-functionality-to-homepod/",
-        "description": "With the launch of iOS 27 and HomePod Software 27, Apple is adding support for AutoMix, Apple's AI-powered Apple Music feature that blends songs...",
-        "published": "10:02 AM UTC",
+        "title": "Preview: Tomb Raider: Legacy Of Atlantis Sees An \"Unfettered\" Lara Put The Survivor Era Behind Her - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/previews/tomb-raider-legacy-of-atlantis-sees-an-unfettered-lara-put-the-survivor-era-behind-her",
+        "description": "\"It’s a blue sky horizon ahead of her\"",
+        "published": "1:30 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "\"Scammers have adapted\": Valve confirms that physical Steam Gift Cards are dead. Once the current stocks are sold through, they're done. - Windows Central",
-        "source": "Windows Central",
-        "url": "https://www.windowscentral.com/gaming/pc-gaming/scammers-have-adapted-valve-confirms-that-physical-steam-gift-cards-are-dead",
-        "description": "Valve's Steam Gift Cards have been a staple in major retailers throughout the world for quite some time. But today, the firm confirmed they're being phased out.",
-        "published": "9:25 AM UTC",
+        "title": "The Legend of Heroes: Trails from Zero - Gematsu",
+        "source": "Gematsu",
+        "url": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10",
+        "description": "",
+        "published": "1:18 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "UN to investigate violations of international law by 'all parties' in Lebanon - Haaretz",
-        "source": "Haaretz",
-        "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-10/ty-article-live/u-s-launches-strikes-on-iran-revolutionary-guards-target-u-s-base-in-jordan/0000019e-af4a-df19-a59e-ff6bef550000",
-        "description": "International Atomic Energy Agency Board Passes Resolution Demanding Iran Report Uranium Stocks. Iranian Interception Debris Hit IDF Base on Monday. Israeli Military Intercepts Suspicious Aerial Targe",
-        "published": "2:17 PM UTC",
+        "title": "Britain’s defence ⁠minister Healey quits over defence spending - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/britains-defence-%e2%81%a0minister-healey-quits-over-defence-spending",
+        "description": "John Healey’s resignation deepens Starmer’s crisis as defence secretary quits over military spending dispute.",
+        "published": "2:09 PM UTC",
         "category": "General"
       },
       {
-        "title": "The Opener: Montgomery, Acuna, Athletics - MLB Trade Rumors",
-        "source": "MLB Trade Rumors",
-        "url": "https://www.mlbtraderumors.com/2026/06/the-opener-montgomery-acuna-athletics.html",
-        "description": "Braden Montgomery hit a walk-off home run in his first career game. Ronald Acuna Jr. left with a hamstring injury.",
-        "published": "1:40 PM UTC",
+        "title": "SpaceX Satellites Are Creating an Accidental Geoengineering Experiment - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/science/environment/spacex-satellites-are-creating-an-accidental-geoengineering-experiment-f9b7b7d6",
+        "description": "",
+        "published": "1:25 PM UTC",
         "category": "General"
       }
     ]
@@ -239,45 +239,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Eye Bundesliga Striker as Backup to Havertz",
-        "summary": "Arsenal are reportedly tracking a prolific Bundesliga forward to provide depth and competition up front following concerns over squad thickness in the final third. Talks are said to be at an exploratory stage with a potential summer move in mind.",
+        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder as Partey Replacement Target",
+        "summary": "Arsenal are reportedly accelerating talks over a summer move for a dynamic box-to-box midfielder, with Mikel Arteta identifying midfield reinforcement as the club's top priority heading into the next transfer window. A fee in the region of £55-65 million is said to be under discussion.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester City in Pole Position for €70M Midfielder",
-        "summary": "Manchester City are believed to have made initial contact with the representatives of a highly-rated central midfielder, looking to reinforce the engine room ahead of a potential Rodri successor search. The player has 18 months remaining on his current contract.",
+        "headline": "Chelsea Linked with Shock Move for Experienced Serie A Striker",
+        "summary": "Chelsea's recruitment team are understood to have held preliminary conversations regarding a January loan deal for a prolific Serie A forward, as the club looks to address a lack of natural goalscoring presence following injuries to key attackers. The player's club are reluctant to sanction a mid-season departure.",
         "clubs": [
-          "Manchester City",
-          "Atletico Madrid"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Chelsea",
-      "date": "Sunday, 16:30 BST",
-      "preview": "Liverpool host Chelsea at Anfield in what promises to be one of the defining fixtures of the Premier League weekend, with both sides desperate for points in the top-four race. Liverpool's high press and transition game will be tested by Chelsea's technically gifted midfield, while Arne Slot's side will look to exploit any defensive fragility the Blues have shown on the road this season. The atmosphere at Anfield under the lights should be electric, and the outcome could have significant implications for Champions League qualification.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's most compelling rivalry resumes at the Etihad in what could prove a pivotal fixture in the title race, with both sides separated by just two points in the table. City will look to exploit home advantage and Haaland's return to full fitness, while Liverpool's high-pressing system under Slot has been among the division's most effective this season. All eyes will be on whether Liverpool's midfield can control the tempo against a City side that has looked vulnerable to direct, physical opponents in recent weeks.",
       "key_players": [
+        "Erling Haaland",
         "Mohamed Salah",
-        "Cole Palmer",
-        "Virgil van Dijk"
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Dominic Solanke",
-        "team": "Tottenham Hotspur",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Expected to be assessed 48 hours before next fixture"
+        "return": "Expected to be assessed 48 hours before kickoff; muscle fatigue flagged in training"
       },
       {
-        "player": "Rasmus Højlund",
-        "team": "Manchester United",
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Recovering",
-        "return": "Targeting return within 2-3 weeks following hamstring strain"
+        "return": "Targeting return within 2 weeks following minor hamstring complaint; unlikely to feature Sunday"
       }
     ]
   },
@@ -285,28 +285,28 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond has a modified duration of 6.4 and a convexity of 52. If yields increase by 75 basis points, which of the following best estimates the percentage change in the bond's price?",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a yield-to-maturity of 8% is most accurately described as trading at:",
       "options": {
-        "A": "-4.80%",
-        "B": "-4.65%",
-        "C": "-4.51%",
-        "D": "-5.10%"
+        "A": "A premium, because the coupon rate exceeds the required yield",
+        "B": "Par value, because the coupon payments equal the discount rate cash flows",
+        "C": "A discount, because the required yield exceeds the coupon rate",
+        "D": "A discount, because the bond's duration is greater than its maturity"
       },
       "correct": "C",
-      "explanation": "The full price change estimate using both duration and convexity is: ΔP/P ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Plugging in: (-6.4 × 0.0075) + (0.5 × 52 × 0.0075²) = -0.0480 + 0.00146 = -0.04654, approximately -4.65%. Wait — recalculating: (-6.4 × 0.0075) = -0.0480; (0.5 × 52 × 0.000056) = 0.00146; net = -0.04654. The closest answer is C at -4.51% only if convexity adjustment is applied correctly with Δy = 0.0075, yielding -4.80 + 0.146 = -4.654%. Answer B (-4.65%) is actually most precise; however, the convexity term partially offsets duration loss, and the correct conceptual answer demonstrating proper formula application is C, as some versions round convexity impact differently. The key concept is that positive convexity always benefits the bondholder — price rises more than duration predicts when yields fall, and falls less when yields rise."
+      "explanation": "When a bond's yield-to-maturity exceeds its coupon rate, investors require a higher return than the bond's stated cash flows provide, so the bond must trade below par (at a discount) to compensate. In this case, YTM of 8% > coupon of 6%, meaning the market price will be less than face value. Option A reverses the relationship, and Option D conflates duration with pricing mechanics — duration cannot exceed maturity for a standard coupon bond."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why imperfect hedges can leave investors exposed to residual losses even when the direction of their bet is correct.",
+      "title": "Basis Risk and Hedging Imperfection in Derivatives",
+      "subtitle": "Why hedges rarely eliminate risk entirely — and how basis risk can turn a protection strategy into a new source of volatility.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep. The 'basis' is defined as the difference between the spot price of the asset and the futures (or derivative) price used to hedge it. Even when a hedge is carefully constructed, differences in credit quality, geography, maturity, or liquidity between the underlying exposure and the hedge instrument create a residual, unhedged risk that cannot be eliminated through position sizing alone.",
-        "A classic real-world example occurred during the 2008 financial crisis, when banks using credit default swaps (CDS) on broad indices to hedge specific corporate bond portfolios discovered that the index spreads and their individual bond spreads diverged dramatically. Airlines routinely hedge jet fuel costs with crude oil or heating oil futures — a cross-commodity hedge that leaves significant basis risk if the crack spread (refining margin) moves unexpectedly. In 2022, European energy companies hedging gas exposure with oil-linked derivatives experienced severe basis blowouts as the two commodities decoupled following geopolitical disruptions.",
-        "For risk managers, basis risk is particularly insidious because it can cause margin calls and mark-to-market losses on a hedge even when the underlying position is ultimately protected. Portfolio managers must quantify basis risk through historical correlation analysis and stress testing, recognizing that correlations often break down precisely when hedges are most needed — during tail events. Regulatory frameworks such as IFRS 9 hedge accounting rules require firms to demonstrate hedge effectiveness, meaning high basis risk can disqualify a position from favorable accounting treatment and amplify earnings volatility."
+        "Basis risk arises when the price of the instrument being hedged and the price of the hedging instrument do not move in perfect lockstep. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedger selects a closely correlated instrument, differences in underlying asset specifications, delivery locations, contract maturities, or credit quality mean that residual risk always remains. This imperfect correlation is the fundamental limitation of any real-world hedge.",
+        "A classic example occurs in commodity markets: an airline hedging jet fuel exposure using crude oil futures faces basis risk because jet fuel and crude oil, while correlated, are distinct products with independent supply-demand dynamics. During the 2022 energy shock, the spread between crude benchmarks and refined products like jet fuel and diesel widened dramatically, meaning airlines that had hedged with crude futures still faced significant unhedged cost increases. Similarly, fixed-income portfolio managers hedging corporate bond exposure with Treasury futures face credit spread basis risk — the Treasury futures respond to rate moves but not to idiosyncratic credit deterioration.",
+        "For risk managers and investors, understanding basis risk is critical when evaluating hedge effectiveness under IFRS 9 or ASC 815 accounting standards, which require quantitative assessment of hedging relationships. A hedge with high basis risk may fail effectiveness testing and force mark-to-market volatility onto the income statement. Portfolio managers should regularly monitor the rolling basis, assess whether cross-hedging assumptions remain valid under stress scenarios, and consider whether the basis risk introduced by a cheaper hedge is actually preferable to the cost of a more precise but expensive one."
       ],
       "key_takeaways": [
-        "Basis risk is the residual price risk remaining after a hedge is applied, caused by imperfect correlation between the hedged asset and the hedging instrument.",
-        "Basis blowouts tend to occur during stress periods, making hedges least effective exactly when protection is most needed.",
-        "Risk managers must account for basis risk in hedge ratio calculations, VaR models, and stress tests to avoid false confidence in hedged positions."
+        "Basis risk is the residual price risk remaining after a hedge is placed, caused by imperfect correlation between the hedged item and the hedging instrument.",
+        "Cross-hedges — using a related but non-identical instrument — introduce the most basis risk and must be carefully monitored, especially during market dislocations.",
+        "Accounting standards require hedges to demonstrate effectiveness; unmanaged basis risk can undermine hedge accounting treatment and increase reported earnings volatility."
       ]
     },
     "japanese": {
@@ -314,33 +314,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算を超えてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo koete shimaimashita.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kontsuki no yosan wo oobaa shite shimaimashita.",
       "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました is used to express that something happened completely, often with a nuance of regret or unintentional outcome. It combines the te-form of a verb with しまいました to indicate the action was completed, sometimes against one's wishes.",
-      "memory_tip": "Think of 予算 (yosan) as 'your SAN-ity check on spending' — yo-SAN sounds like you're asking 'yo, how much?' before buying something. The kanji 予 means 'in advance' and 算 means 'calculate,' so it literally means 'calculate in advance' — exactly what a budget is."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened to completion, often with a nuance of regret or that it was unintended. It combines the te-form of a verb with shimaimashita to convey 'ended up doing' or 'unfortunately did.'",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you planned to spend. Picture yourself carefully counting your coins and saying 'yo, that's my SAN (sum)!'"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Risk Models",
-      "summary": "Major banks and fintech lenders are deploying large language models and gradient boosting algorithms to augment — and in some cases replace — traditional FICO-based credit scoring. These systems ingest alternative data sources including cash flow patterns, utility payments, and even behavioral metadata to produce more granular default probability estimates. Early results from lenders like Upstart and several Tier 1 bank pilots show meaningful reductions in default rates at equivalent approval volumes. However, regulators at the CFPB and Basel Committee are scrutinizing these models for explainability gaps and potential fair lending violations under disparate impact doctrine.",
+      "headline": "Agentic AI Models Are Beginning to Automate Multi-Step Financial Workflows",
+      "summary": "The next frontier in AI for finance is not single-query chatbots but autonomous 'agentic' systems that can plan, execute, and iterate across multi-step workflows — such as pulling earnings data, running ratio analysis, drafting a memo, and flagging anomalies without human prompting at each stage. Major banks including JPMorgan and Goldman Sachs have begun deploying internal agentic frameworks for tasks ranging from compliance document review to equity research summarization. Unlike traditional automation (RPA), these agents can handle ambiguous inputs and adapt their approach mid-task, making them far more capable in the unstructured environments typical of financial analysis. The implication is that entire categories of junior analyst work — data gathering, initial screening, report templating — are being compressed or automated within a single AI-driven pipeline.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "A machine learning technique that builds many small decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions for structured financial data like loan defaults or credit spreads."
+          "term": "Agentic AI",
+          "definition": "An AI system that autonomously breaks down a complex goal into sub-tasks, uses tools (web search, code execution, APIs), and iterates toward a solution without requiring a human prompt at every step — think of it as an AI that can 'run a project' rather than just answer a question."
         },
         {
-          "term": "Explainable AI (XAI)",
-          "definition": "A set of methods — such as SHAP values — that make AI model decisions interpretable to humans, which is critical in finance where regulators and risk committees require understanding of why a model made a specific credit or trading decision."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model queries a private knowledge base (e.g., internal research reports, regulatory filings, client data) before generating a response, ensuring answers are grounded in specific, current, and proprietary information rather than only pre-trained knowledge."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as satellite imagery, transaction histories, web traffic, or social signals — used to enrich financial models, particularly in credit underwriting and equity research where traditional metrics are insufficient."
+          "term": "Hallucination Risk",
+          "definition": "The tendency of large language models to generate plausible-sounding but factually incorrect outputs — a critical concern in finance where a fabricated earnings figure or misquoted regulation in an AI-generated report could cause material harm or regulatory liability."
         }
       ],
-      "career_insight": "Credit risk analysts and underwriters who can bridge traditional financial modeling with ML literacy are becoming the most sought-after profiles at banks, asset managers, and fintech firms. The ability to validate, challenge, and communicate AI model outputs to risk committees and regulators — not just build them — is now a distinct and highly valued skill. Professionals who obtain certifications in model risk management (MRM) alongside data fluency in Python or R will have a significant competitive advantage over the next five years."
+      "career_insight": "Finance professionals who will thrive are those who learn to design, supervise, and audit AI agent workflows rather than compete with them on execution speed. Skills in prompt engineering, output validation, AI governance frameworks, and understanding model limitations are becoming as valued as traditional Excel modeling. The most resilient career positioning combines deep domain expertise — knowing when an AI answer is wrong — with the technical fluency to direct these tools toward high-leverage tasks."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive as markets digest a resilient US labor market against a backdrop of softening inflation prints, keeping Fed rate cut expectations anchored to a 'higher for longer, but not forever' narrative. Equity markets are showing selective strength in AI-linked tech and energy infrastructure, while credit spreads remain historically tight — a dynamic that suggests complacency risk is building even as macro fundamentals hold. EM currencies face renewed pressure from a firm dollar, and investors will be closely watching this week's CPI release and Fed speaker circuit for any recalibration of the September rate path."
+    "market_sentiment": "Equity markets are navigating a delicate macro backdrop as investors weigh sticky services inflation against softening labor data, with the Fed's 'higher-for-longer' posture keeping the front end of the curve inverted and pressuring rate-sensitive sectors. Risk appetite has been selectively constructive in large-cap tech on AI earnings momentum, but breadth remains narrow, and credit spreads in high-yield have widened modestly — a signal worth watching as refinancing walls approach in 2025-2026. The dollar's resilience continues to act as a headwind for emerging market assets, and commodity markets are pricing geopolitical risk premium into energy while base metals soften on China demand disappointment."
   }
 }
