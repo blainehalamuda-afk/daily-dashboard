@@ -1,30 +1,23 @@
 {
-  "generated_at": "2:29 PM UTC",
-  "date": "Friday, June 12, 2026",
+  "generated_at": "1:21 PM UTC",
+  "date": "Saturday, June 13, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 89,
-    "feels_like_f": 98,
-    "high_f": 92,
-    "low_f": 86,
+    "temp_f": 82,
+    "feels_like_f": 86,
+    "high_f": 84,
+    "low_f": 79,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 61,
-    "wind_mph": 1,
+    "humidity": 71,
+    "wind_mph": 3,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 78,
-        "low": 78,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Sun",
         "icon": "☁️",
-        "high": 73,
-        "low": 73,
+        "high": 76,
+        "low": 76,
         "description": "Overcast Clouds"
       },
       {
@@ -32,6 +25,13 @@
         "icon": "☁️",
         "high": 73,
         "low": 73,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "☁️",
+        "high": 72,
+        "low": 72,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 739.93,
-        "change": 2.17,
-        "change_pct": 0.29,
+        "price": 741.75,
+        "change": 3.99,
+        "change_pct": 0.54,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 291.97,
-        "change": -3.66,
-        "change_pct": -1.24,
+        "price": 291.13,
+        "change": -4.5,
+        "change_pct": -1.52,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 205.8,
-        "change": 0.93,
-        "change_pct": 0.45,
+        "price": 205.19,
+        "change": 0.32,
+        "change_pct": 0.16,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 396.36,
-        "change": -2.79,
-        "change_pct": -0.7,
-        "up": false,
+        "price": 406.43,
+        "change": 7.28,
+        "change_pct": 1.82,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -99,67 +99,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Oracle Shares Tumble Amid Pricey Data-Center Build-Out - WSJ",
+        "title": "SpaceX IPO Today: Dow Futures Rise Ahead of SpaceX Stock Opening — Live Updates - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/earnings/oracle-reports-higher-profit-on-surging-cloud-revenue-5f7d25eb",
-        "description": "",
-        "published": "1:38 PM UTC",
+        "url": "https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026",
+        "description": "Live updates on markets and finance with SpaceX set to list in the largest IPO on record. Follow along for news and analysis on the Dow, Nasdaq and S&P 500.",
+        "published": "12:39 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Iran threatens Elon Musk's companies in Middle East: Iranian state media - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
-        "description": "Iran will consider all of Elon Musk's companies in the Middle East as military targets as it retaliates against the U.S., Iranian state media reported.",
-        "published": "12:49 PM UTC",
+        "title": "Smartphones arrived just before the US fertility rate plunged. One study says it’s a direct cause - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/12/health/fertility-decline-smartphone-study",
+        "description": "The US fertility rate has been trending down for decades, leaving researchers and policymakers searching for causes that may help pinpoint solutions. There have been all kinds of theories, including s",
+        "published": "11:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "SpaceX IPO Draws More Than $70 Billion in Retail Orders - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-11/spacex-ipo-said-to-draw-more-than-70-billion-in-retail-orders",
-        "description": "SpaceX’s initial public offering has attracted more than $70 billion in orders from retail investors, according to people familiar with the matter, as the potentially record-breaking debut enters the ",
-        "published": "12:41 PM UTC",
+        "title": "Why AI token prices are about to plummet - Business Insider",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/ai-token-price-crash-nvidia-blackwell-gpus-2026-6#article",
+        "description": "Nvidia's Blackwell systems could flood the market with cheap AI tokens, driving down costs and reshaping the economics of AI.",
+        "published": "9:01 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Xbox CEO Gives A Good Explanation For Why A Console Now Costs $800 - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/06/11/xbox-ceo-gives-a-good-explanation-for-why-a-console-now-costs-800/",
-        "description": "Xbox prices have skyrocketed, but there's a reason for that which is out of Microsoft's control, as the brand's new CEO explains.",
-        "published": "1:35 PM UTC",
+        "title": "Arch Linux's AUR Sees More Than 400 Packages Compromised With Malware - Phoronix",
+        "source": "Phoronix",
+        "url": "https://www.phoronix.com/news/Arch-Linux-AUR-400-Compromised",
+        "description": "The Arch Linux User Repository 'AUR' was hit by a large-scale malware campaign this week with more than 400 of these user-supplied packages being compromised.",
+        "published": "10:39 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Preview: Tomb Raider: Legacy Of Atlantis Sees An \"Unfettered\" Lara Put The Survivor Era Behind Her - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/previews/tomb-raider-legacy-of-atlantis-sees-an-unfettered-lara-put-the-survivor-era-behind-her",
-        "description": "\"It’s a blue sky horizon ahead of her\"",
-        "published": "1:30 PM UTC",
+        "title": "Tomb Raider: Legacy of Atlantis developers used gen AI to get \"the right answers faster\", Crystal Dynamics explains - Eurogamer",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-ai-use-explained",
+        "description": "Tomb Raider: Legacy of Atlantis developers Crystal Dynamics and Flying Wild Hog used gen AI to create placeholder assets to assist with visualisation.",
+        "published": "9:08 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "The Legend of Heroes: Trails from Zero - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10",
-        "description": "",
-        "published": "1:18 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Britain’s defence ⁠minister Healey quits over defence spending - Al Jazeera",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/11/britains-defence-%e2%81%a0minister-healey-quits-over-defence-spending",
-        "description": "John Healey’s resignation deepens Starmer’s crisis as defence secretary quits over military spending dispute.",
-        "published": "2:09 PM UTC",
+        "title": "Live updates: Interim US-Iran agreement appears to take shape - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel",
+        "description": "A deal would extend the ceasefire and reopen the Strait of Hormuz, a source says, but Iran has yet to confirm despite President Donald Trump saying it may be signed soon. Follow here for live updates.",
+        "published": "12:04 PM UTC",
         "category": "General"
       },
       {
-        "title": "SpaceX Satellites Are Creating an Accidental Geoengineering Experiment - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/science/environment/spacex-satellites-are-creating-an-accidental-geoengineering-experiment-f9b7b7d6",
-        "description": "",
-        "published": "1:25 PM UTC",
+        "title": "Federal authorities investigate giant ‘8647’ markings on National Mall - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/federal-authorities-investigate-giant-8647-markings-national-mall-rcna349717",
+        "description": "A judge ruled this month that the numbers on their own, which the Trump administration has called a threat against the president, constitute free speech.",
+        "published": "11:24 AM UTC",
         "category": "General"
       }
     ]
@@ -239,19 +231,19 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder as Partey Replacement Target",
-        "summary": "Arsenal are reportedly accelerating talks over a summer move for a dynamic box-to-box midfielder, with Mikel Arteta identifying midfield reinforcement as the club's top priority heading into the next transfer window. A fee in the region of £55-65 million is said to be under discussion.",
+        "headline": "Arsenal Tracking Athletic Club Midfielder as Partey Replacement Option",
+        "summary": "Arsenal's recruitment team is understood to be monitoring Athletic Club's Oihan Sancet as a potential long-term successor to Thomas Partey, whose contract expires at the end of the season. The 24-year-old Basque midfielder has registered eight goals and six assists in La Liga this campaign, attracting interest from multiple top-six Premier League clubs.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Chelsea Linked with Shock Move for Experienced Serie A Striker",
-        "summary": "Chelsea's recruitment team are understood to have held preliminary conversations regarding a January loan deal for a prolific Serie A forward, as the club looks to address a lack of natural goalscoring presence following injuries to key attackers. The player's club are reluctant to sanction a mid-season departure.",
+        "headline": "Chelsea Open Talks with Palmeiras over Estevao Willian Summer Move",
+        "summary": "Chelsea are reported to have opened formal discussions with Palmeiras over the structure of Estevao Willian's anticipated summer transfer, with the Brazilian winger expected to complete his move to Stamford Bridge after turning 18. The Blues are keen to finalise personal terms early to fend off renewed interest from Real Madrid.",
         "clubs": [
           "Chelsea",
-          "Napoli"
+          "Palmeiras"
         ]
       }
     ],
@@ -259,7 +251,7 @@
       "home": "Manchester City",
       "away": "Liverpool",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's most compelling rivalry resumes at the Etihad in what could prove a pivotal fixture in the title race, with both sides separated by just two points in the table. City will look to exploit home advantage and Haaland's return to full fitness, while Liverpool's high-pressing system under Slot has been among the division's most effective this season. All eyes will be on whether Liverpool's midfield can control the tempo against a City side that has looked vulnerable to direct, physical opponents in recent weeks.",
+      "preview": "The most anticipated fixture of the Premier League calendar arrives at the Etihad with both sides separated by just two points at the top of the table, making this a potential title-defining six-pointer. City have recovered their fluency under Guardiola after a mid-season wobble, winning five consecutive league games, while Liverpool arrive on the back of a dominant 4-1 demolition of Tottenham that underscored their title credentials under Slot's high-pressing system. The tactical battle between City's positional play and Liverpool's vertical transitions promises to be the most compelling chess match of the season.",
       "key_players": [
         "Erling Haaland",
         "Mohamed Salah",
@@ -268,45 +260,45 @@
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Expected to be assessed 48 hours before kickoff; muscle fatigue flagged in training"
-      },
-      {
         "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Expected to be assessed on the morning of the match; muscle tightness picked up in training"
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return within 2 weeks following minor hamstring complaint; unlikely to feature Sunday"
+        "return": "Targeting return to full training within 10 days; unlikely to feature this weekend"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a yield-to-maturity of 8% is most accurately described as trading at:",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the most significant limitation of this model that was exposed during the 2007–2008 financial crisis?",
       "options": {
-        "A": "A premium, because the coupon rate exceeds the required yield",
-        "B": "Par value, because the coupon payments equal the discount rate cash flows",
-        "C": "A discount, because the required yield exceeds the coupon rate",
-        "D": "A discount, because the bond's duration is greater than its maturity"
+        "A": "The model overestimates individual obligor default probabilities during stress periods.",
+        "B": "The model assumes static pairwise correlations and fails to capture tail dependence between defaults.",
+        "C": "The model cannot accommodate more than two obligors in a single portfolio simulation.",
+        "D": "The model requires market prices for all underlying reference entities, making it impractical for illiquid assets."
       },
-      "correct": "C",
-      "explanation": "When a bond's yield-to-maturity exceeds its coupon rate, investors require a higher return than the bond's stated cash flows provide, so the bond must trade below par (at a discount) to compensate. In this case, YTM of 8% > coupon of 6%, meaning the market price will be less than face value. Option A reverses the relationship, and Option D conflates duration with pricing mechanics — duration cannot exceed maturity for a standard coupon bond."
+      "correct": "B",
+      "explanation": "The Gaussian copula model assumes a fixed linear correlation structure between obligor defaults, which severely underestimates the probability of simultaneous defaults during market stress — a phenomenon known as tail dependence. During the 2008 crisis, correlated defaults in CDO tranches far exceeded model predictions because the Gaussian copula assigns near-zero probability to joint extreme events. Alternative copulas such as the Student-t copula better capture this tail dependence. This flaw was central to the mispricing of structured credit products like synthetic CDOs."
     },
     "finance_topic": {
-      "title": "Basis Risk and Hedging Imperfection in Derivatives",
-      "subtitle": "Why hedges rarely eliminate risk entirely — and how basis risk can turn a protection strategy into a new source of volatility.",
+      "title": "The Basis Risk Hidden in Hedge Portfolios",
+      "subtitle": "When a hedge that looks perfect on paper silently accumulates losses in practice.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument being hedged and the price of the hedging instrument do not move in perfect lockstep. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedger selects a closely correlated instrument, differences in underlying asset specifications, delivery locations, contract maturities, or credit quality mean that residual risk always remains. This imperfect correlation is the fundamental limitation of any real-world hedge.",
-        "A classic example occurs in commodity markets: an airline hedging jet fuel exposure using crude oil futures faces basis risk because jet fuel and crude oil, while correlated, are distinct products with independent supply-demand dynamics. During the 2022 energy shock, the spread between crude benchmarks and refined products like jet fuel and diesel widened dramatically, meaning airlines that had hedged with crude futures still faced significant unhedged cost increases. Similarly, fixed-income portfolio managers hedging corporate bond exposure with Treasury futures face credit spread basis risk — the Treasury futures respond to rate moves but not to idiosyncratic credit deterioration.",
-        "For risk managers and investors, understanding basis risk is critical when evaluating hedge effectiveness under IFRS 9 or ASC 815 accounting standards, which require quantitative assessment of hedging relationships. A hedge with high basis risk may fail effectiveness testing and force mark-to-market volatility onto the income statement. Portfolio managers should regularly monitor the rolling basis, assess whether cross-hedging assumptions remain valid under stress scenarios, and consider whether the basis risk introduced by a cheaper hedge is actually preferable to the cost of a more precise but expensive one."
+        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. It is defined as the variance of the difference between the spot price of the hedged asset and the futures or derivative price of the hedging instrument. Even a well-constructed hedge retains basis risk because the two instruments respond differently to supply-demand dynamics, credit spreads, liquidity conditions, and contract specifications. Basis risk is often described as the residual risk that remains after hedging — the irreducible gap between intention and execution.",
+        "A classic real-world example emerged during the 2022 UK gilt crisis. Pension funds using liability-driven investment (LDI) strategies held leveraged positions in gilt futures and interest rate swaps to hedge their long-duration liabilities. When gilt yields spiked violently, the basis between their liability valuations and their hedge instruments widened sharply, generating massive variation margin calls. The funds were forced to liquidate gilts at distressed prices, amplifying the very move they sought to hedge — a feedback loop driven entirely by basis and liquidity risk. Similarly, airlines hedging jet fuel exposure with crude oil futures routinely experience basis blowouts when refinery crack spreads diverge.",
+        "For risk managers and portfolio managers, basis risk demands that hedge effectiveness be monitored continuously, not just at inception. Regulatory frameworks such as IFRS 9 and ASC 815 require formal hedge effectiveness testing, but these backward-looking tests can miss forward-looking basis deterioration. Practitioners should stress-test hedges under scenarios where historical correlations break down, size hedge ratios using regression-based minimum variance approaches, and maintain liquidity buffers to absorb margin calls that may arise even when the economic hedge is sound. Ignoring basis risk is one of the most common sources of unexpected P&L in treasury and risk management operations."
       ],
       "key_takeaways": [
-        "Basis risk is the residual price risk remaining after a hedge is placed, caused by imperfect correlation between the hedged item and the hedging instrument.",
-        "Cross-hedges — using a related but non-identical instrument — introduce the most basis risk and must be carefully monitored, especially during market dislocations.",
-        "Accounting standards require hedges to demonstrate effectiveness; unmanaged basis risk can undermine hedge accounting treatment and increase reported earnings volatility."
+        "Basis risk is the residual, unhedgeable gap between a hedging instrument and the underlying exposure — it never fully disappears.",
+        "Stress periods cause basis to widen dramatically, as seen in LDI strategies during the 2022 gilt crisis and in commodity hedging during supply shocks.",
+        "Risk managers must continuously monitor hedge effectiveness, stress-test correlation assumptions, and hold liquidity reserves to meet margin calls from imperfect hedges."
       ]
     },
     "japanese": {
@@ -314,33 +306,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kontsuki no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened to completion, often with a nuance of regret or that it was unintended. It combines the te-form of a verb with shimaimashita to convey 'ended up doing' or 'unfortunately did.'",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you planned to spend. Picture yourself carefully counting your coins and saying 'yo, that's my SAN (sum)!'"
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened that perhaps shouldn't have, or is now done and cannot be undone. It is formed by attaching てしまう to the て-form of a verb and then conjugating into past polite form.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the sum of money you are allowed to spend. Picture yourself counting your yen coins and realizing the sum is gone."
     },
     "ai_strategy": {
-      "headline": "Agentic AI Models Are Beginning to Automate Multi-Step Financial Workflows",
-      "summary": "The next frontier in AI for finance is not single-query chatbots but autonomous 'agentic' systems that can plan, execute, and iterate across multi-step workflows — such as pulling earnings data, running ratio analysis, drafting a memo, and flagging anomalies without human prompting at each stage. Major banks including JPMorgan and Goldman Sachs have begun deploying internal agentic frameworks for tasks ranging from compliance document review to equity research summarization. Unlike traditional automation (RPA), these agents can handle ambiguous inputs and adapt their approach mid-task, making them far more capable in the unstructured environments typical of financial analysis. The implication is that entire categories of junior analyst work — data gathering, initial screening, report templating — are being compressed or automated within a single AI-driven pipeline.",
+      "headline": "AI Agents Are Quietly Automating Core Functions Inside Investment Banks",
+      "summary": "Major investment banks including JPMorgan, Goldman Sachs, and Morgan Stanley are deploying autonomous AI agents — systems that can plan, execute multi-step tasks, and call external tools — across functions ranging from equity research summarization to credit memo drafting and regulatory reporting. Unlike simple chatbots, these agents can retrieve live data, run calculations, query internal databases, and produce structured outputs with minimal human intervention. The shift represents a meaningful change in how financial institutions think about headcount, workflow design, and the boundary between human judgment and machine execution. Early deployments suggest significant gains in analyst throughput, but also raise new questions about model governance, auditability, and liability when AI outputs drive client-facing decisions.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that autonomously breaks down a complex goal into sub-tasks, uses tools (web search, code execution, APIs), and iterates toward a solution without requiring a human prompt at every step — think of it as an AI that can 'run a project' rather than just answer a question."
+          "definition": "An AI system that can autonomously pursue a goal by breaking it into sub-tasks, using tools like code execution or web search, and iterating based on intermediate results — rather than simply responding to a single prompt."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries a private knowledge base (e.g., internal research reports, regulatory filings, client data) before generating a response, ensuring answers are grounded in specific, current, and proprietary information rather than only pre-trained knowledge."
+          "definition": "A technique where an AI model retrieves relevant documents or data from an external database before generating a response, allowing it to answer questions grounded in current, firm-specific information rather than only its training data — critical for compliance and research applications."
         },
         {
-          "term": "Hallucination Risk",
-          "definition": "The tendency of large language models to generate plausible-sounding but factually incorrect outputs — a critical concern in finance where a fabricated earnings figure or misquoted regulation in an AI-generated report could cause material harm or regulatory liability."
+          "term": "Model Governance",
+          "definition": "The policies, validation processes, and audit trails that financial institutions use to ensure AI and ML models are accurate, fair, explainable, and compliant with regulatory standards such as SR 11-7 — becoming increasingly complex as agentic systems are deployed."
         }
       ],
-      "career_insight": "Finance professionals who will thrive are those who learn to design, supervise, and audit AI agent workflows rather than compete with them on execution speed. Skills in prompt engineering, output validation, AI governance frameworks, and understanding model limitations are becoming as valued as traditional Excel modeling. The most resilient career positioning combines deep domain expertise — knowing when an AI answer is wrong — with the technical fluency to direct these tools toward high-leverage tasks."
+      "career_insight": "Finance professionals who understand how to design, prompt, and govern AI agents — not just use consumer AI tools — will have a structural advantage as banks restructure analyst workflows around automation. The highest-value skills are converging around model risk awareness, structured data literacy, and the ability to critically evaluate AI-generated outputs rather than simply accept them. Risk managers and analysts who treat AI fluency as a core competency alongside Excel and Bloomberg will be far better positioned for roles that survive the current wave of automation."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a delicate macro backdrop as investors weigh sticky services inflation against softening labor data, with the Fed's 'higher-for-longer' posture keeping the front end of the curve inverted and pressuring rate-sensitive sectors. Risk appetite has been selectively constructive in large-cap tech on AI earnings momentum, but breadth remains narrow, and credit spreads in high-yield have widened modestly — a signal worth watching as refinancing walls approach in 2025-2026. The dollar's resilience continues to act as a headwind for emerging market assets, and commodity markets are pricing geopolitical risk premium into energy while base metals soften on China demand disappointment."
+    "market_sentiment": "Global equities are navigating a cautious consolidation phase as markets digest a higher-for-longer Fed narrative reinforced by sticky core services inflation and a resilient US labor market, with the 10-year Treasury yield testing the 4.55–4.65% range and creating persistent headwinds for rate-sensitive sectors. Credit spreads remain surprisingly tight relative to the macro backdrop, suggesting either genuine confidence in corporate fundamentals or a concerning complacency that leaves portfolios vulnerable to a sentiment reversal. In FX, the dollar continues to draw safe-haven flows as China's uneven consumption recovery disappoints bulls, keeping emerging market currencies under pressure and commodities rangebound — oil finding support near $82 on OPEC+ discipline but capped by demand uncertainty out of Asia."
   }
 }
