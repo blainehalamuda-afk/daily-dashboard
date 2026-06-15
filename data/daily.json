@@ -1,25 +1,18 @@
 {
-  "generated_at": "1:24 PM UTC",
-  "date": "Sunday, June 14, 2026",
+  "generated_at": "4:52 PM UTC",
+  "date": "Monday, June 15, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 79,
-    "feels_like_f": 79,
-    "high_f": 82,
-    "low_f": 77,
-    "description": "Overcast Clouds",
+    "temp_f": 83,
+    "feels_like_f": 84,
+    "high_f": 84,
+    "low_f": 82,
+    "description": "Broken Clouds",
     "icon": "☁️",
-    "humidity": 79,
-    "wind_mph": 2,
+    "humidity": 50,
+    "wind_mph": 1,
     "forecast": [
-      {
-        "day": "Mon",
-        "icon": "☁️",
-        "high": 80,
-        "low": 80,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Tue",
         "icon": "☁️",
@@ -29,10 +22,17 @@
       },
       {
         "day": "Wed",
-        "icon": "⛅",
+        "icon": "☁️",
         "high": 71,
         "low": 71,
-        "description": "Scattered Clouds"
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Thu",
+        "icon": "☁️",
+        "high": 75,
+        "low": 75,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 741.75,
-        "change": 3.99,
-        "change_pct": 0.54,
+        "price": 755.73,
+        "change": 13.98,
+        "change_pct": 1.88,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 291.13,
-        "change": -4.5,
-        "change_pct": -1.52,
-        "up": false,
+        "price": 296.65,
+        "change": 5.52,
+        "change_pct": 1.9,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 205.19,
-        "change": 0.32,
-        "change_pct": 0.16,
+        "price": 212.08,
+        "change": 6.89,
+        "change_pct": 3.36,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 406.43,
-        "change": 7.28,
-        "change_pct": 1.82,
+        "price": 408.85,
+        "change": 2.42,
+        "change_pct": 0.6,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -99,51 +99,75 @@
     "error": false,
     "articles": [
       {
-        "title": "BMW Just Revealed The Future Of The M3 - Motor1.com",
-        "source": "Motor1 ",
-        "url": "https://www.motor1.com/news/798518/bmw-electric-m3-concept/",
-        "description": "BMW gives us a taste of next year's electric M3 with the M Concept Neue Klasse, a radically styled performance sedan with a quad-motor setup.",
-        "published": "11:22 AM UTC",
+        "title": "Amazon Prime Day 2026: Early deals are already live from Apple, Keurig, Hanes, Shark and more, plus everything we know about summer's biggest sale - Yahoo",
+        "source": "Yahoo Entertainment",
+        "url": "https://shopping.yahoo.com/deals/breaking-news/article/amazon-prime-day-2026-early-deals-are-already-live-from-apple-keurig-hanes-shark-and-more-plus-everything-we-know-about-summers-biggest-sale-095951903.html",
+        "description": "Mark your calendars: The epic blowout is set for June 23-26. Yes, that's four whole days of retail therapy!",
+        "published": "2:03 PM UTC",
         "category": "Business"
       },
       {
-        "title": "SpaceX workers just hit the jackpot. Now comes the hard part. - Business Insider",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/how-spacex-employee-millionaires-should-spend-ipo-windfall-2026-6#article",
-        "description": "SpaceX's blockbuster IPO will ink thousands of new millionaires. Wealth advisors urge them to spend smartly.",
-        "published": "9:29 AM UTC",
+        "title": "‘A fool and his money are soon parted’: Barron Trump-backed beverage company is charging $39 for a 12-pack - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/fool-money-soon-parted-barron-130000567.html",
+        "description": "The release of yerba mate drink SOLLOS was tinged with controversy over the cost of the beverage, and its link to President Donald Trump’s youngest son.",
+        "published": "1:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Poll: What were your favorite Xbox Games Showcase 2026 announcements? - TrueAchievements",
-        "source": "TrueAchievements",
-        "url": "https://www.trueachievements.com/poll/62717/poll-xbox-games-showcase-2026",
-        "description": "From Gears of War: E-day to Clockwork Revolution, for this week's poll, we want to know: what were your favorite Xbox Games Showcase 2026 announcements?",
-        "published": "8:03 AM UTC",
-        "category": "Technology"
+        "title": "How Amazon and the White House ended Anthropic's Fable - Axios",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/06/13/anthropic-amazon-white-house",
+        "description": "The episode highlights the reactionary approach to a technology that is moving at breakneck speed.",
+        "published": "12:24 PM UTC",
+        "category": "Business"
       },
       {
-        "title": "Bandai Namco hosting big Nintendo Switch 2 and Switch sale with lowest prices ever for Tales of Berseria and Xillia Remastered, Once Upon a Katamari, more - Nintendo Everything",
+        "title": "Nintendo says Zelda: Ocarina of Time Switch 2 remake has \"stunning visuals, updated designs, and timeless gameplay\" - Nintendo Everything",
         "source": "Nintendoeverything.com",
-        "url": "https://nintendoeverything.com/bandai-namco-sale-switch-2-switch-tales-berseria-xillia-once-upon-a-katamari/",
-        "description": "A huge Bandai Namco sale started up on the eShop this week with tons of  big discounts for games like Tales of Berseria and Xillia Remastered, Once Upon a Katamari, and more. Many games are at new low",
-        "published": "4:52 AM UTC",
+        "url": "https://nintendoeverything.com/nintendo-says-zelda-ocarina-of-time-switch-2-remake-has-stunning-visuals-updated-designs-and-timeless-gameplay/",
+        "description": "Nintendo gives a bit of additional information about its remake of The Legend of Zelda: Ocarina of Time for Switch 2.",
+        "published": "2:45 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "'The Only Way to Keep Bungie Alive Is to Support Marathon,' Ex-Destiny Community Manager Says - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says",
-        "description": "As Destiny 2 fans mourn the game's final update, Bungie's former community manager has said its player count shouldn't be compared with that of fledgling extraction shooter Marathon — insisting the co",
-        "published": "9:59 PM UTC",
+        "title": "Apple still has three unannounced iOS 27 features in the pipeline: report - 9to5Mac",
+        "source": "9to5Mac",
+        "url": "https://9to5mac.com/2026/06/14/three-major-unannounced-ios-27-features-coming-soon/",
+        "description": "Apple wrapped up its WWDC 2026 keynote this week, outlining all of its major new software features for the coming...",
+        "published": "2:41 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Switzerland to vote on plan to cap population at 10 million - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx23kz7e76po",
-        "description": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
-        "published": "11:47 AM UTC",
+        "title": "Siri’s New Brain - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/tech/siris-new-brain-eb28fe50",
+        "description": "Plus, Anthropic’s Fable woes, Meta’s big teacher bonuses and the terrifying rise of deepfake porn",
+        "published": "1:09 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Backlash Is Growing Over Kevin O’Leary’s Data Center. He Is Blaming China. - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/us-news/backlash-is-growing-over-kevin-olearys-data-center-he-is-blaming-china-d885f1b4",
+        "description": "‘Shark Tank’ panelist blasts his detractors on TV and social media as tools of Beijing. Some locals in Utah say the tactic is backfiring.",
+        "published": "3:43 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Israel continues strikes in Beirut’s southern suburbs, killing 3 - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/lebanon/israel-continues-strikes-beiruts-southern-suburbs-rcna349995",
+        "description": "Israel said its military attacked Hezbollah targets in Beirut’s southern suburbs on Sunday after the Lebanese armed group fired ⁠into Israeli territory.",
+        "published": "3:19 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Mayhem mars euphoria as New York City celebrates the Knicks' first championship in 53 years - Yahoo Sports",
+        "source": "Yahoo Entertainment",
+        "url": "https://sports.yahoo.com/articles/us-knicks-fans-champs-064849120.html",
+        "description": "It was bedlam on Broadway as the New York Knicks won their first NBA championship in 53 years on Saturday night, with exuberant celebrations marred by mayhem...",
+        "published": "3:04 PM UTC",
         "category": "General"
       }
     ]
@@ -223,108 +247,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Lead Chase for Bundesliga Midfielder Ahead of Summer Window",
-        "summary": "Arsenal are reportedly in advanced talks to secure a deal for a dynamic box-to-box midfielder, with Mikel Arteta keen to add more physicality and pressing intensity to the squad ahead of next season's Champions League campaign. The player's club have set an asking price of around £65 million, but Arsenal are hopeful of agreeing a fee closer to £55 million.",
+        "headline": "Arsenal Eye Sporting CP Striker Viktor Gyökeres Ahead of Summer Window",
+        "summary": "Arsenal are reported to be leading the chase for Swedish striker Viktor Gyökeres, who has scored over 40 goals this season for Sporting CP. The Gunners are expected to trigger conversations around his reported £85 million release clause as they seek a proven clinical finisher to complement their high-pressing system.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Target Striker as Uncertainty Grows Over Jackson's Long-Term Role",
-        "summary": "Chelsea's recruitment team has been scouting a prolific Ligue 1 striker as the club weighs its options at centre-forward, with Nicolas Jackson's inconsistency drawing scrutiny from the board. A move could materialise in the summer window if Chelsea secure European football and the financial fair play situation allows for investment.",
+        "headline": "Manchester United Weighing Move for Wolves Midfielder João Gomes",
+        "summary": "Manchester United's new sporting structure under INEOS is assessing a summer bid for Wolverhampton's João Gomes as they look to reinforce their midfield engine room. Gomes, 23, has impressed with his defensive output and ball-winning ability this season, attracting interest from multiple top-six clubs.",
         "clubs": [
-          "Chelsea",
-          "Paris Saint-Germain"
+          "Manchester United",
+          "Wolverhampton Wanderers"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's most consequential fixture of the season arrives as Manchester City host Liverpool at the Etihad, with both sides separated by just two points in the title race and neither able to afford a slip. City have rediscovered their defensive solidity under Pep Guardiola after a mid-season wobble, while Liverpool's relentless pressing game under Arne Slot has made them arguably the most feared attacking side in Europe this term. The tactical battle between Guardiola's positional play and Slot's high-press counter-pressing structure promises to be the defining subplot, with the result likely to have major implications for who lifts the trophy in May.",
+      "home": "Liverpool",
+      "away": "Chelsea",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "Liverpool host Chelsea at Anfield in a fixture with significant top-four implications, with the Blues desperate for points after a run of inconsistent form has threatened their Champions League qualification hopes. Arne Slot's Liverpool side have been formidable at Anfield this season, conceding just five goals at home, and will look to exploit Chelsea's defensive vulnerabilities from wide areas through Mohamed Salah and Luis Díaz. The storyline of former Liverpool manager Jürgen Klopp's departure legacy looms large as Slot continues to stamp his identity on the squad in what promises to be an electric atmosphere.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Cole Palmer",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Expected to be assessed 48 hours before kick-off; 50/50 for the City fixture"
-      },
-      {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return within 2 weeks; unlikely to feature against Liverpool"
+        "return": "Expected pre-season 2025; long-term ACL recovery ongoing"
+      },
+      {
+        "player": "Dominic Calvert-Lewin",
+        "team": "Everton",
+        "status": "Doubtful",
+        "return": "Week-to-week; minor hamstring strain, reassessed after international break"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
+      "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model. The model estimates a 1-year 99% CVaR of $45 million. During a period of market stress, realized losses significantly exceed this estimate. Which of the following best explains the primary limitation of the Gaussian copula in this context?",
+      "question": "A bank has a loan portfolio with an expected default frequency (EDF) of 2%, a loss given default (LGD) of 45%, and a total exposure at default (EAD) of $500 million. If the asset correlation between obligors is 12%, which of the following best describes the relationship between expected loss (EL) and economic capital requirements?",
       "options": {
-        "A": "The Gaussian copula overestimates tail dependence between assets during periods of market stress, leading to overstated loss estimates.",
-        "B": "The Gaussian copula assumes zero correlation between assets in the tail of the joint distribution, underestimating the probability of simultaneous large losses.",
-        "C": "The Gaussian copula uses a normal distribution for marginal defaults, which overweights central outcomes and underweights extreme co-movement in the tails.",
-        "D": "The Gaussian copula is only applicable to equity portfolios and cannot model credit default correlation accurately for any bond portfolio."
+        "A": "EL equals $4.5 million and economic capital is zero because EL is fully provisioned through loan loss reserves",
+        "B": "EL equals $4.5 million and economic capital must cover unexpected losses driven by correlation-induced portfolio concentration",
+        "C": "EL equals $45 million and economic capital is determined solely by individual obligor PDs regardless of correlation",
+        "D": "EL equals $4.5 million and higher asset correlation reduces economic capital by diversifying idiosyncratic risk"
       },
-      "correct": "C",
-      "explanation": "The Gaussian copula models dependence between assets using a normal distribution, which has thin tails and near-zero tail dependence — meaning it severely underestimates the likelihood of simultaneous extreme losses across correlated credits during stress events. This was a key criticism following the 2008 financial crisis, where structured credit products using Gaussian copulas massively underpriced joint default risk. Unlike t-copulas or Clayton copulas, the Gaussian copula cannot capture the 'tail dependence' phenomenon where correlations spike precisely when markets are in distress. Option A is incorrect because the model underestimates, not overestimates, tail dependence."
+      "correct": "B",
+      "explanation": "Expected Loss = EDF × LGD × EAD = 0.02 × 0.45 × $500M = $4.5 million, which is covered by loan loss provisions and priced into the loan spread. Economic capital is designed to absorb unexpected losses — the tail risk beyond EL — and asset correlation is a critical driver: higher correlation means obligors tend to default together, increasing portfolio variance and therefore the capital buffer required. Option D is incorrect because higher correlation actually increases, not decreases, economic capital requirements by amplifying systematic risk and reducing diversification benefits."
     },
     "finance_topic": {
-      "title": "Basis Risk in Credit Default Swaps",
-      "subtitle": "Why hedging with CDS doesn't always eliminate the risk you think it does.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Why imperfect hedges can leave risk managers exposed even when a hedge is in place.",
       "paragraphs": [
-        "Basis risk in the context of credit default swaps (CDS) refers to the divergence between the price movement of the CDS contract used as a hedge and the underlying cash bond or credit exposure being hedged. In theory, buying protection via a CDS on a reference entity should offset losses on a long position in that entity's bonds. In practice, however, the CDS spread and the bond's asset-swap spread (ASS) can diverge significantly, meaning the hedge is imperfect. The 'basis' is defined as the CDS spread minus the bond spread; when this basis is non-zero, a hedged position still carries residual risk.",
-        "During the 2008 financial crisis, the CDS-bond basis turned sharply negative for many investment-grade and high-yield issuers. Forced selling by leveraged investors pushed bond spreads dramatically wider while CDS spreads, though also widening, did not move in lockstep. Hedge funds that were long cash bonds and long CDS protection — a supposedly market-neutral 'negative basis trade' — suffered unexpected losses as the basis compressed violently and funding costs on the bond positions became unsustainable. More recently, the 2020 COVID shock and the 2023 regional banking stress events both produced notable basis dislocations, reminding practitioners that liquidity mismatches between cash and derivative markets can persist for longer than expected.",
-        "For a risk manager or portfolio manager, basis risk means that CDS hedges should never be assumed to provide perfect dollar-for-dollar protection. Position sizing must account for the historical volatility of the basis, not just the spread level. Additionally, basis risk has a term structure — short-dated CDS may behave very differently from the long-dated bonds they are meant to hedge. Practitioners should stress-test hedged portfolios under scenarios of basis widening and monitor the cheapest-to-deliver (CTD) option embedded in CDS contracts, which can introduce further slippage between the hedge and the underlying exposure."
+        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, creating a residual exposure even after the hedge is established. The 'basis' is defined as the spot price of the asset minus the futures price of the hedging instrument. When a firm hedges jet fuel exposure using crude oil futures, for instance, changes in the crack spread — the refining margin between crude and jet fuel — introduce basis risk that the hedge cannot neutralize. This is distinct from market risk, which the hedge is designed to mitigate.",
+        "A classic real-world example emerged during 2021–2022 when energy traders and airlines that had hedged using WTI crude futures found their hedges underperforming as natural gas and refined product prices diverged sharply from crude benchmarks due to supply chain disruptions and sanctions. Similarly, fixed-income portfolio managers using Treasury futures to hedge corporate bond portfolios faced widening credit spreads that the hedge could not offset — the Treasury leg performed as expected, but the corporate spread widened independently, crystallizing basis losses.",
+        "For risk managers, basis risk demands careful selection of hedging instruments — ideally those with high historical correlation to the underlying exposure, measured via regression-based hedge ratios (the minimum variance hedge ratio). Portfolios should be stress-tested not just for parallel shifts in market prices but for divergence scenarios where basis widens unexpectedly. From a regulatory standpoint, hedge accounting under IFRS 9 and ASC 815 requires ongoing effectiveness testing, and high basis risk can disqualify a position from hedge accounting treatment, with P&L volatility consequences."
       ],
       "key_takeaways": [
-        "CDS basis (CDS spread minus bond ASW spread) is rarely zero and can become highly volatile during market stress, creating residual risk even in 'fully hedged' positions.",
-        "Negative basis trades — long cash bond, long CDS protection — appear market-neutral but carry funding liquidity risk and can lose money if the basis widens adversely.",
-        "Effective credit hedging requires monitoring basis volatility, the CTD option in CDS contracts, and the liquidity mismatch between cash and derivative markets."
+        "Basis risk is the residual risk remaining after a hedge is applied, arising from imperfect correlation between the hedged item and the hedging instrument.",
+        "Higher basis risk erodes hedge effectiveness and can result in losses even when the directional view on the underlying market is correct.",
+        "The minimum variance hedge ratio, derived from regression analysis, helps minimize basis risk by optimally sizing the hedge position relative to exposure."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; agreement",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "明日の３時に会う約束をしました。",
-      "example_romaji": "Ashita no sanji ni au yakusoku wo shimashita.",
-      "example_en": "I made a promise to meet at 3 o'clock tomorrow.",
-      "grammar_point": "〜をしました (verb phrase: 'did ~')",
-      "grammar_explanation": "The pattern 〜をしました uses the noun + を + しました to express that you performed an action, often used with nouns that describe activities like 約束 (promise) or 電話 (phone call). It is the polite past tense form and is very common in everyday conversation.",
-      "memory_tip": "Think of 'yaku' sounding like 'lock' and 'soku' like 'sock' — when you make a promise, you LOCK it in tight like a sock on your foot. Once a 約束 is made, it's locked!"
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or that something happened unintentionally. It combines the te-form of a verb with しまいました (the polite past of しまう).",
+      "memory_tip": "Think of 予 (yo) as 'yo, I'm planning ahead' and 算 (san) as 'calculate' — a budget is what you calculate in advance. Yosan sounds like 'your sun' — you need a budget to keep your financial sun shining!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Transforming How Risk Desks Operate Daily",
-      "summary": "A new generation of autonomous AI agents — systems capable of multi-step reasoning, tool use, and self-correction — is being piloted at major investment banks and asset managers to automate tasks previously requiring senior analyst judgment. These agents can now draft credit memos, run scenario analyses, monitor regulatory capital thresholds in real time, and flag anomalies across thousands of positions simultaneously. Firms including JPMorgan, Goldman Sachs, and BlackRock have disclosed investments in agentic AI infrastructure, with use cases spanning middle-office risk monitoring to front-office idea generation. The transition from 'AI as a tool' to 'AI as a colleague' is accelerating faster than most compliance and governance frameworks can keep pace with.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Assessment at Scale",
+      "summary": "Major financial institutions including JPMorgan, Goldman Sachs, and a wave of fintech lenders are deploying large language models and gradient boosting algorithms to augment — and in some cases replace — traditional credit scoring models. These systems ingest alternative data sources such as cash flow patterns, geolocation behavior, and even utility payment histories to assess creditworthiness for segments historically underserved by FICO-based models. Regulators at the OCC and FRB are actively developing supervisory frameworks around model explainability requirements, particularly under fair lending laws, creating a new compliance discipline at the intersection of AI governance and credit risk. The competitive advantage is shifting toward institutions that can balance predictive power with auditability.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, execute multi-step tasks, use external tools (like databases or APIs), and self-correct — going beyond single-prompt responses to complete complex workflows with minimal human intervention, such as running a full credit analysis pipeline."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds a sequence of decision trees, each correcting the errors of the last, producing highly accurate predictions for structured financial data like loan default probability — widely favored in credit risk modeling competitions and production deployments."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically fetches relevant, up-to-date information from external data sources (e.g., earnings transcripts, regulatory filings, market data) before generating a response — making outputs more factually grounded and reducing hallucination risk in financial analysis contexts."
+          "term": "Explainable AI (XAI)",
+          "definition": "A set of methods — such as SHAP values and LIME — that allow risk managers and regulators to understand why an AI model made a specific credit decision, critical for compliance with fair lending regulations like ECOA and the Equal Credit Opportunity Act."
         },
         {
-          "term": "Model Governance",
-          "definition": "The framework of policies, validation procedures, and audit trails used to ensure AI and ML models used in finance are accurate, fair, explainable, and compliant with regulations — analogous to the model risk management (SR 11-7) framework but extended to cover generative AI systems."
+          "term": "Alternative Data",
+          "definition": "Non-traditional datasets — including rental payment history, e-commerce transaction patterns, and mobile app usage — used by AI credit models to evaluate borrowers who lack conventional credit histories, expanding lending access while introducing new model validation challenges."
         }
       ],
-      "career_insight": "Finance and risk professionals who understand how to design, validate, and govern AI agent workflows will command a significant premium over those who only know how to use AI as a passive query tool. The most valuable skillset emerging is the intersection of domain expertise (credit risk, derivatives, regulatory capital) with working knowledge of prompt engineering, RAG architectures, and model risk governance — allowing professionals to be effective translators between AI engineering teams and business stakeholders."
+      "career_insight": "Credit risk professionals who can bridge quantitative model development with regulatory interpretation are commanding significant premiums in the current hiring market — the ability to validate AI models against SR 11-7 guidance and articulate model risk to non-technical stakeholders is now a core competency. Upskilling in Python-based model validation, SHAP interpretability frameworks, and fair lending compliance positions risk managers at the intersection of the two fastest-growing demand areas in financial services talent."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets continue to reprice Federal Reserve rate expectations following a string of resilient labor market prints and stickier-than-expected services inflation, pushing the first projected cut deeper into the second half of the year. The U.S. dollar has regained modest strength, applying pressure on EM currencies and commodity-linked assets, while the front end of the Treasury curve remains inverted as recession probability models sit in the 35–45% range. Equity markets are displaying a notable dispersion dynamic — mega-cap tech is holding in on AI earnings momentum while small-caps and rate-sensitive sectors face headwinds — suggesting this is a stock-picker's environment rather than a broad risk-on regime."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a softer-than-expected US core PCE print, reinforcing the narrative that the Fed's next move is a cut rather than a hike, though the timing remains data-dependent and June pricing has been pulled back toward September. European equities are outperforming modestly on EUR weakness and improving PMI data out of Germany, while EM credit spreads have tightened on the back of a softer dollar, though China property sector overhang continues to weigh on Asian sentiment. Treasuries are range-bound in the 4.25–4.45% corridor on the 10-year as the market awaits Friday's nonfarm payrolls for the next directional catalyst — a sub-175K print could meaningfully accelerate rate cut pricing."
   }
 }
