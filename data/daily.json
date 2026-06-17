@@ -1,37 +1,37 @@
 {
-  "generated_at": "4:20 PM UTC",
-  "date": "Tuesday, June 16, 2026",
+  "generated_at": "2:47 PM UTC",
+  "date": "Wednesday, June 17, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 76,
-    "feels_like_f": 75,
-    "high_f": 78,
-    "low_f": 73,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 55,
-    "wind_mph": 5,
+    "temp_f": 79,
+    "feels_like_f": 79,
+    "high_f": 82,
+    "low_f": 76,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 67,
+    "wind_mph": 2,
     "forecast": [
       {
-        "day": "Wed",
-        "icon": "☁️",
-        "high": 72,
-        "low": 72,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Thu",
-        "icon": "☁️",
-        "high": 75,
-        "low": 75,
-        "description": "Overcast Clouds"
+        "icon": "⛅",
+        "high": 76,
+        "low": 76,
+        "description": "Scattered Clouds"
       },
       {
         "day": "Fri",
         "icon": "☁️",
-        "high": 71,
-        "low": 71,
+        "high": 73,
+        "low": 73,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "☁️",
+        "high": 73,
+        "low": 73,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 753.65,
-        "change": -1.18,
-        "change_pct": -0.16,
-        "up": false,
+        "price": 750.45,
+        "change": 0.12,
+        "change_pct": 0.02,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 299.07,
-        "change": 2.65,
-        "change_pct": 0.89,
+        "price": 299.71,
+        "change": 0.47,
+        "change_pct": 0.16,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 209.36,
-        "change": -3.09,
-        "change_pct": -1.45,
-        "up": false,
+        "price": 207.86,
+        "change": 0.45,
+        "change_pct": 0.22,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 406.6,
-        "change": -4.55,
-        "change_pct": -1.11,
+        "price": 399.64,
+        "change": -5.02,
+        "change_pct": -1.24,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -99,67 +99,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Why Fox Stock Is Tumbling After $22 Billion Roku Deal - Barron's",
+        "title": "U.S. stock futures are flat after Dow record close on U.S.-Iran deal; SpaceX rallies again: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+        "description": "On Monday, the Dow Jones Industrial Average climbed to new intraday and closing records on a potential deal between the U.S. and Iran.",
+        "published": "12:44 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Micron Stock Rises Toward New High and Could Reach This Level - Barron's",
         "source": "Barron's",
-        "url": "https://www.barrons.com/articles/roku-stock-price-fox-deal-4c7f9899",
-        "description": "Fox Corp. has agreed to buy streaming technology maker Roku for $160 a share, or an enterprise value of around $22 billion.",
-        "published": "3:09 PM UTC",
+        "url": "https://www.barrons.com/articles/micron-stock-price-new-high-analyst-fc450072",
+        "description": "Micron stock is setting records and Wall Street is racing to raise price targets for the memory-chip maker.",
+        "published": "12:24 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion - TechCrunch",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-        "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-        "published": "2:34 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool - BleepingComputer",
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-        "description": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a sp",
-        "published": "3:51 PM UTC",
+        "title": "Review: Rise Of The Tomb Raider: 20 Year Celebration (Switch 2) - The Crown Jewel Of The Survivor Trilogy - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/rise-of-the-tomb-raider-20-year-celebration",
+        "description": "Actually, it's more like a 30 year celebration now",
+        "published": "12:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "'Staggering' pristine copy of legendary game sells for record-breaking millions - Polygon.com",
-        "source": "Polygon",
-        "url": "https://www.polygon.com/super-mario-bros-nes-record-2026-sale-why-rare-price-psa-grade/",
-        "description": "There aren't many NES games in such a pristine condition, which is one of the few reasons this SMB cartridge just broke a huge record",
-        "published": "3:36 PM UTC",
+        "title": "Forza Horizon 6 update reduces 1,000-hour grind for multiplayer Xbox achievement - TrueAchievements",
+        "source": "TrueAchievements",
+        "url": "https://www.trueachievements.com/news/forza-horizon-6-series-2-update-patch-notes",
+        "description": "Playground Games has rolled out a new update for Forza Horizon 6, which makes an achievement easier to unlock and balances the game's crazy AI racers.",
+        "published": "11:18 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Final Fantasy 7 Revelation Is Bringing Back the Airship Dream - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/final-fantasy-7-revelation-is-bringing-back-the-airship-dream",
-        "description": "By putting you back in the pilot seat and letting you command the Highwind, Final Fantasy 7 Revelation is finally bringing back the airship dream.",
-        "published": "3:30 PM UTC",
+        "title": "Aphelion and Life is Strange developer Don't Nod in trouble as it struggles to secure funding for its next project - Eurogamer",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/dont-nod-funding-danger-next-project",
+        "description": "Don't Nod is in trouble yet again, as the company prepares to address a shortage of cash in its reserves.",
+        "published": "10:31 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Under-16s to be banned from social media by next spring, Starmer says - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/live/c77yx1jpg1nt",
-        "description": "Watch live as Technology Secretary Liz Kendall delivers a statement to the Commons on the ban.",
-        "published": "4:36 PM UTC",
+        "title": "Live Updates: Iran says deal with U.S. requires Israeli forces to leave Lebanon - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-deal-peace-israel-lebanon-hezbollah-strait-of-hormuz/",
+        "description": "Iran's foreign minister says Israeli troops can't remain in Lebanon under the pending deal with the U.S.",
+        "published": "12:00 PM UTC",
         "category": "General"
       },
       {
-        "title": "President says 250th celebration on July 4 will be a ‘Trump rally’ - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/06/15/trump-says-july-4-event-national-mall-will-be-trump-rally/",
-        "description": "The previously planned event for the country’s anniversary will feature the president’s playlist and his keynote address, he said.",
-        "published": "4:36 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Everything we know about this Thursday's Knicks ticker-tape parade, set to become one of the biggest ever in NYC - Time Out Worldwide",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/newyork/news/everything-we-know-about-this-thursdays-knicks-ticker-tape-parade-set-to-become-one-of-the-biggest-ever-in-nyc-061526",
-        "description": "We did it!",
-        "published": "4:27 PM UTC",
+        "title": "Trump admits he’s ‘not happy’ with Israel over Lebanon strikes, suggests Syria ‘take care of Hezbollah’ - New York Post",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/16/us-news/trump-is-not-happy-with-israel-over-lebanon-strikes-amid-iran-peace-deal-talks/",
+        "description": "President Trump has acknowledged he was displeased with Israel over its weekend strikes on Lebanon, which came as he was finalizing a peace deal with Iran.",
+        "published": "11:48 AM UTC",
         "category": "General"
       }
     ]
@@ -239,45 +231,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Intensify Interest in Athletic Club Midfielder Nico Williams",
-        "summary": "Arsenal are reportedly weighing a summer approach for the dynamic Spanish international as Mikel Arteta seeks a creative wide option to complement his title-chasing squad. Williams has a release clause in the region of €58 million, making the move financially viable for the Gunners.",
+        "headline": "Arsenal Revive Interest in Bundesliga Midfielder Ahead of January Window",
+        "summary": "Arsenal are reportedly monitoring Bayer Leverkusen's Granit Xhaka successor profile as Mikel Arteta looks to add depth and creativity to the engine room following a congested fixture run that has exposed midfield fatigue. A January loan with an obligation to buy structure is said to be under consideration.",
         "clubs": [
           "Arsenal",
-          "Athletic Club"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Eye Eintracht Frankfurt Striker Hugo Ekitiké",
-        "summary": "United's recruitment team have identified the French forward as a potential solution to their chronic striker problem, with Ekitiké's consistent Bundesliga form this season drawing attention from multiple Premier League clubs. A summer bid is expected if United qualify for European football.",
+        "headline": "Chelsea Target Napoli Striker as Palmer Support Act in Winter Market",
+        "summary": "Chelsea's recruitment team has identified a Serie A forward to ease the burden on Cole Palmer and provide a more clinical central presence, with Napoli's Victor Osimhen reportedly discussed in internal briefings despite the financial complexity of any deal given his release clause structure.",
         "clubs": [
-          "Manchester United",
-          "Eintracht Frankfurt"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
       "home": "Manchester City",
-      "away": "Arsenal",
+      "away": "Liverpool",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "This heavyweight clash at the Etihad arrives as a potential title-defining moment, with Arsenal sitting two points behind City having played the same number of games. City have rediscovered their ruthless form following Haaland's return from injury, but Arsenal's defensive solidity — the best goals-against record in the division — means this could hinge on a single moment of quality. The tactical duel between Guardiola's positional play and Arteta's high press promises to be one of the most compelling encounters of the season.",
+      "preview": "The Premier League's most anticipated fixture of the calendar pits a Liverpool side riding a seven-match unbeaten run against a Manchester City team desperately seeking to rediscover defensive solidity and the fluid pressing game that made them dominant. Arne Slot's Liverpool arrive at the Etihad buoyed by a midweek Champions League win, while Pep Guardiola faces mounting scrutiny after back-to-back league defeats have opened a significant gap to the summit. The tactical battle between Slot's structured high press and City's positional rotations in the half-spaces promises to be the defining chess match of the Premier League season so far.",
       "key_players": [
+        "Mohamed Salah",
         "Erling Haaland",
-        "Bukayo Saka",
-        "Rodri"
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; missed midweek training with a hamstring concern"
+        "return": "Being assessed daily; may miss Sunday's fixture but expected back within 7–10 days"
       },
       {
-        "player": "Gabriel Magalhães",
-        "team": "Arsenal",
-        "status": "Recovering",
-        "return": "Expected to be available for selection after returning to full training this week"
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Out",
+        "return": "Long-term ACL recovery; not expected to return until late spring at the earliest"
       }
     ]
   },
@@ -285,62 +277,62 @@
     "cfa_frm": {
       "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit default swap (CDS) on a corporate bond. The CDS spread is 180 bps, the risk-free rate is 4.5%, and the recovery rate is assumed to be 40%. Using the simplified no-arbitrage relationship, what is the approximate implied annual probability of default?",
+      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. Additionally, the asset correlation parameter is 0.18. Which of the following best describes the relationship between Expected Loss (EL) and the capital requirement under the Basel IRB approach?",
       "options": {
-        "A": "1.80%",
-        "B": "3.00%",
-        "C": "4.50%",
-        "D": "7.20%"
+        "A": "EL equals the regulatory capital requirement because both capture average credit losses over the economic cycle.",
+        "B": "Regulatory capital covers Unexpected Loss (UL) only; EL is meant to be covered by loan loss provisions and pricing, not capital.",
+        "C": "Regulatory capital covers both EL and UL; EL is subtracted from capital to avoid double-counting with provisions.",
+        "D": "EL and UL are additive components of regulatory capital, and both must be fully capitalized under Basel III."
       },
       "correct": "B",
-      "explanation": "Using the simplified CDS pricing formula: CDS Spread ≈ PD × (1 − Recovery Rate). Rearranging: PD ≈ CDS Spread / (1 − RR) = 0.0180 / (1 − 0.40) = 0.0180 / 0.60 = 0.03 or 3.00%. This approximation holds when default probabilities are small and the term structure is flat. The risk-free rate is not directly used in this simplified model but affects the present value of premium and protection legs in a full valuation."
+      "explanation": "Under the Basel II/III Internal Ratings-Based (IRB) approach, Expected Loss (EL = PD × LGD × EAD) represents the average loss a bank anticipates and should be covered through loan pricing and provisions (IFRS 9 / CECL reserves). Regulatory capital is designed to absorb Unexpected Loss — the deviation of actual losses from expected losses at a high confidence level. If a bank's eligible provisions exceed EL, the excess can be added back to Tier 2 capital up to a limit; if provisions are insufficient, the shortfall is deducted from capital. This distinction is fundamental to understanding why banks must maintain both adequate reserves and capital buffers."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Why imperfect hedges can leave investors exposed even when they think they're protected.",
+      "title": "Basis Risk and Its Hidden Dangers",
+      "subtitle": "Why hedges sometimes fail when you need them most — and how basis risk quietly undermines risk management strategies.",
       "paragraphs": [
-        "Basis risk arises when the hedging instrument used to offset a position does not move in perfect lockstep with the underlying exposure being hedged. The 'basis' is defined as the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. When this spread narrows or widens unexpectedly, the hedge becomes imperfect, leaving residual profit-and-loss volatility even after the hedge is in place.",
-        "A classic real-world example occurred during the 2008 financial crisis when airlines that had hedged jet fuel exposure using crude oil futures discovered significant basis risk. Jet fuel prices and crude oil prices diverged sharply as refinery capacity constraints and demand disruptions created unusual spread dynamics. Similarly, fixed income portfolio managers who hedge corporate bond duration with Treasury futures often find the hedge breaks down during credit stress events, when corporate spreads widen independently of rate moves — a phenomenon known as 'spread duration' risk.",
-        "For risk managers, basis risk demands that hedging effectiveness be continuously monitored rather than assumed. Regulatory frameworks such as IFRS 9 and ASC 815 require firms to formally assess and document hedge effectiveness, and a hedge that fails the 80–125% effectiveness threshold must be dedesignated. Practitioners should stress-test the stability of historical correlations between the hedged item and the hedging instrument, particularly across different market regimes, and consider rolling strategies or cross-hedges with care when liquid direct hedges are unavailable."
+        "Basis risk is the risk that the price of a hedging instrument does not move in perfect synchrony with the underlying exposure it is meant to offset. It arises whenever the asset being hedged and the hedging instrument differ in grade, location, maturity, or liquidity. For example, a jet fuel purchaser who hedges using crude oil futures is exposed to basis risk because the spread between crude and refined jet fuel is itself volatile. Even a textbook hedge can leave a residual, unpredictable P&L if basis widens or narrows unexpectedly.",
+        "Basis risk became painfully visible during the 2008 financial crisis, when credit default swap (CDS) indices used to hedge corporate bond portfolios diverged sharply from the bonds themselves due to liquidity dislocations. Similarly, in commodity markets, the 2021–2022 energy shock caused massive basis blowouts between TTF natural gas hub prices and local European utility hedges, forcing margin calls that threatened solvency even for companies with ostensibly 'hedged' books. JP Morgan's 2012 'London Whale' loss was also partly a basis trade — betting on convergence between two correlated credit indices — that moved violently against the bank.",
+        "For risk managers, the implication is that no hedge is truly risk-free. When constructing hedges, practitioners should measure and stress-test the historical basis distribution, monitor basis as a standalone risk factor in their VaR frameworks, and size hedges using the minimum-variance hedge ratio (ρ × σS/σF) rather than a naive 1:1 notional match. Regulators increasingly require firms to document basis risk separately in their ILAAP and ICAAP submissions, recognizing that a false sense of security from incomplete hedges can be more dangerous than being unhedged and aware."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is applied, caused by imperfect correlation between the hedged item and the hedging instrument.",
-        "Basis can widen dramatically during market stress, turning a seemingly robust hedge into a source of unexpected losses.",
-        "Risk managers must continuously monitor hedge effectiveness and stress-test correlation assumptions across different market environments."
+        "Basis risk is the residual risk that remains after hedging — it is the difference in price behavior between your exposure and your hedge instrument.",
+        "Real-world events like the 2008 crisis and 2022 energy shock show basis can widen violently precisely when hedges are most needed.",
+        "The minimum-variance hedge ratio and active monitoring of basis as its own risk factor are essential tools for sophisticated hedgers."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened completely, often with a nuance of regret or that the result was unintended. It combines the te-form of a verb with しまいました (the polite past form of しまう).",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the sum of money you planned to spend. Picture yourself counting your coins and realizing your sum (yosan) has run out!"
+      "example_jp": "来年の予算をそろそろ考えなければなりません。",
+      "example_romaji": "Rainen no yosan wo sorosoro kangaenakereba narimasen.",
+      "example_en": "I need to start thinking about next year's budget soon.",
+      "grammar_point": "〜なければなりません",
+      "grammar_explanation": "This pattern attaches to the negative stem of a verb (verb-nai form, drop い, add ければなりません) to express obligation or necessity — equivalent to 'must' or 'have to' in English. It is one of the most common patterns for expressing duty in formal and everyday Japanese.",
+      "memory_tip": "Break it down: 予 (yo) = 'beforehand' + 算 (san) = 'calculate' — a budget is literally something you calculate in advance. Picture a calculator with a calendar on it marked 'YO-SAN plan'!"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Scale",
-      "summary": "Major banks and alternative lenders are deploying large language models and gradient boosting ensembles to automate credit memo generation, covenant monitoring, and early-warning detection across loan portfolios. Firms like JPMorgan and emerging fintech lenders report 40–60% reductions in underwriting cycle time while maintaining or improving default prediction accuracy versus traditional scorecards. The shift is moving credit risk roles away from data gathering and toward model governance, exception management, and qualitative judgment on edge cases that AI flags but cannot fully resolve. Regulators are responding with new model risk management guidance — notably SR 11-7 updates under discussion at the Fed — requiring explainability and bias testing for AI-driven credit decisions.",
+      "headline": "AI Agents Are Quietly Reshaping How Finance Teams Operate Daily",
+      "summary": "Agentic AI systems — AI that can autonomously plan, use tools, and complete multi-step tasks — are moving from research labs into live finance workflows. Firms including Bloomberg, BlackRock, and major bulge-bracket banks have begun deploying agent-based architectures that can autonomously pull market data, run scenario analyses, draft credit memos, and flag regulatory anomalies without step-by-step human instruction. Unlike earlier chatbot deployments, these agents operate in loops: they assess a goal, execute actions via APIs, evaluate results, and iterate — dramatically compressing analyst hours on routine research and compliance tasks. The shift is forcing finance teams to rethink workflows not around 'what humans do' but around 'what requires human judgment versus what can be safely delegated to an agent.'",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and nonlinear relationships better than logistic regression."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously break down a high-level goal into sub-tasks, use external tools (databases, APIs, code interpreters), and iterate toward a solution — moving beyond single-turn question-answering to multi-step autonomous execution relevant in research, compliance, and portfolio analytics."
         },
         {
-          "term": "Explainable AI (XAI) / SHAP Values",
-          "definition": "Methods that decompose a model's prediction into the contribution of each input variable, allowing risk managers and regulators to understand why a borrower was approved or denied — critical for fair lending compliance and model validation."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model dynamically fetches relevant, up-to-date information from a private database or document store before generating a response — allowing finance firms to ground AI outputs in proprietary research, filings, or internal risk data rather than relying solely on training data."
         },
         {
-          "term": "Alternative Data Integration",
-          "definition": "The use of non-traditional data sources — such as cash flow patterns, satellite imagery, web traffic, or ESG metrics — fed into AI models to assess creditworthiness for borrowers with thin traditional credit files."
+          "term": "Human-in-the-Loop (HITL)",
+          "definition": "A governance design where AI systems flag decisions above a certain risk or novelty threshold for human review before execution — critical in finance for ensuring model outputs on credit decisions, trade execution, or regulatory reporting meet accountability standards."
         }
       ],
-      "career_insight": "Credit risk and underwriting professionals who can bridge the gap between model outputs and business judgment are becoming the most sought-after talent in financial services — pure quants who cannot communicate model risk to stakeholders, and pure relationship bankers who distrust AI entirely, are both being displaced. Building fluency in model validation frameworks, Python-based data analysis, and regulatory compliance (SR 11-7, ECOA adverse action notices) will differentiate candidates in this rapidly automating space."
+      "career_insight": "Finance professionals who thrive in the next five years will be those who can act as 'AI orchestrators' — people who know how to design workflows, evaluate AI outputs critically, and identify where human judgment is irreplaceable versus where automation adds speed and scale. Deep domain expertise in risk, credit, or capital markets actually becomes more valuable, not less, because it is needed to validate and direct AI agents effectively. Proficiency in prompt engineering, familiarity with RAG systems, and understanding of model risk governance frameworks (SR 11-7 principles extended to LLMs) are rapidly becoming baseline expectations at top-tier financial institutions."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a delicate balance as sticky services inflation in the US keeps Fed rate-cut expectations anchored at just one to two cuts for 2025, compressing the valuation multiple expansion many bulls had priced in. The dollar remains firm on a relative rate differential basis, weighing on EM assets and commodity prices denominated in USD, while credit spreads have held surprisingly tight — suggesting corporate credit markets are more sanguine on soft-landing prospects than rates markets imply. Watch for this week's PCE print and Fed speaker commentary as the key catalyst that could either validate the 'higher-for-longer' narrative or give risk assets room to re-rate higher into quarter-end."
+    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the session, though the macro backdrop is increasingly bifurcated: US equity markets continue to draw support from resilient labor data and expectations of a shallow Fed easing cycle, while European assets face headwinds from sticky core services inflation and renewed political uncertainty in France. Treasury yields are tracking sideways near the 4.35–4.50% range on the 10-year as markets digest conflicting signals between strong ISM services prints and softening manufacturing PMIs. In credit, IG spreads remain historically tight while HY is beginning to show early signs of dispersion — a pattern that typically precedes a broader risk-off reassessment if macro data deteriorates into year-end."
   }
 }
