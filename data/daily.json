@@ -1,25 +1,18 @@
 {
-  "generated_at": "2:41 PM UTC",
-  "date": "Thursday, June 18, 2026",
+  "generated_at": "2:39 PM UTC",
+  "date": "Friday, June 19, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 82,
-    "feels_like_f": 89,
-    "high_f": 85,
-    "low_f": 81,
+    "temp_f": 76,
+    "feels_like_f": 77,
+    "high_f": 76,
+    "low_f": 76,
     "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 75,
-    "wind_mph": 5,
+    "humidity": 86,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Fri",
-        "icon": "🌧️",
-        "high": 70,
-        "low": 70,
-        "description": "Light Rain"
-      },
       {
         "day": "Sat",
         "icon": "☁️",
@@ -29,10 +22,17 @@
       },
       {
         "day": "Sun",
-        "icon": "🌤️",
-        "high": 74,
-        "low": 74,
-        "description": "Few Clouds"
+        "icon": "☁️",
+        "high": 72,
+        "low": 72,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Mon",
+        "icon": "☁️",
+        "high": 76,
+        "low": 76,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 746.41,
-        "change": 5.45,
-        "change_pct": 0.74,
+        "price": 746.78,
+        "change": 5.82,
+        "change_pct": 0.79,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 299.64,
-        "change": 3.69,
-        "change_pct": 1.25,
+        "price": 298.05,
+        "change": 2.1,
+        "change_pct": 0.71,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 209.1,
-        "change": 4.45,
-        "change_pct": 2.17,
+        "price": 210.73,
+        "change": 6.08,
+        "change_pct": 2.97,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 387.13,
-        "change": -9.25,
-        "change_pct": -2.33,
-        "up": false,
+        "price": 400.53,
+        "change": 4.15,
+        "change_pct": 1.05,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63982,
-        "change": -1075.98,
-        "change_pct": -1.65,
+        "price": 63345.99,
+        "change": -621.06,
+        "change_pct": -0.97,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1742.88,
-        "change": -11.0,
-        "change_pct": -0.63,
+        "price": 1705.52,
+        "change": -34.1,
+        "change_pct": -1.96,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Oil Rebounds as Traders Await Signing of US-Iran Deal - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/energy/articles/oil-holds-near-three-month-022726390.html",
-        "description": "(Bloomberg) -- Oil recovered slightly after two days of stark losses, with prices still broadly pressured by a pending US-Iran interim peace deal that threat...",
-        "published": "1:54 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "S&P 500 futures are little changed as oil ticks higher, traders await Fed rate decision: Live updates - CNBC",
+        "title": "Stock futures rise as Wall Street tries to rebound from Fed-led sell-off; Intel leads chips higher: Live updates - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/16/stock-market-today-live-updates.html",
-        "description": "Wednesday's FOMC decision marks the first with new Fed Chairman Kevin Warsh at the helm of the U.S. central bank.",
-        "published": "12:39 PM UTC",
+        "url": "https://www.cnbc.com/2026/06/17/stock-market-today-live-updates.html",
+        "description": "After hitting a fresh intraday all-time high, the Dow Jones Industrial Average ultimately closed more than 500 points lower on Wednesday.",
+        "published": "12:42 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Inflation and Kevin Warsh take center stage at the Federal Reserve’s interest rate meeting - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/economy/inflation-kevin-warsh-fed-fomc-meeting-rcna350411",
-        "description": "Rising inflation and new Federal Reserve chairman Kevin Warsh take the stage when the central bank meets to decide on the path forward for interest rates.",
-        "published": "9:00 AM UTC",
+        "title": "Stock Market Today: Nasdaq Set to Rebound, Gasoline Prices Fall Below $4 — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-18-2026",
+        "description": "",
+        "published": "11:45 AM UTC",
         "category": "Business"
       },
       {
-        "title": "#New40k – New app for a new edition - Warhammer Community",
+        "title": "Succumb to Temptation with Hedonites of Slaanesh - Warhammer Community",
         "source": "Warhammer-community.com",
-        "url": "https://www.warhammer-community.com/articles/dv1aslrr/new40k-new-app-for-a-new-edition",
-        "description": "Share army rules and track game scores in the updated Warhammer 40,000 app.",
-        "published": "9:45 AM UTC",
+        "url": "https://www.warhammer-community.com/articles/75cyi2wg/succumb-to-temptation",
+        "description": "Learn about the new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar.",
+        "published": "2:25 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Pokémon Champions Launches On Mobile Today Alongside A New Game Update - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/06/pokemon-champions-launches-on-mobile-today-alongside-a-new-game-update",
-        "description": "Expanding the roster and items",
-        "published": "4:30 AM UTC",
+        "title": "Gabe Newell, founder of Bellevue’s Valve, buys $70.8M Florida mansion - The Seattle Times",
+        "source": "The Seattle Times",
+        "url": "https://www.seattletimes.com/business/real-estate/gabe-newell-founder-of-bellevues-valve-buys-70-8m-florida-mansion/",
+        "description": "The 20,000-square-foot house spans from the ocean to the Intracoastal Waterway, with a private dock and a tunnel leading directly from the house to the ocean shore.",
+        "published": "2:20 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Grok Imagine Video 1.5 - xAI",
-        "source": "X.ai",
-        "url": "https://x.ai/news/grok-imagine-video-1-5",
-        "description": "Improved quality at even faster speeds.",
-        "published": "2:55 AM UTC",
+        "title": "Grand Theft Auto VI Cover and Pre-Order Date Revealed in New Viral Video Months Before Release - Bleacher Report",
+        "source": "Bleacher Report",
+        "url": "https://bleacherreport.com/articles/25442069-grand-theft-auto-vi-cover-and-pre-order-date-revealed-new-viral-video-months-release",
+        "description": "Video game fans were given a treat on Thursday morning, as the official cover art for the highly anticipated Grand Theft Auto VI was unveiled.",
+        "published": "2:03 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "European rocket launches record-breaking mission with Amazon LEO satellites - Space",
-        "source": "Space.com",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
-        "description": "The morning launch breaks the mark for heaviest payload ever lofted by an Ariane rocket.",
-        "published": "12:40 PM UTC",
+        "title": "Supreme Court backs a marijuana user’s challenge to a restriction on gun ownership - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-backs-marijuana-users-challenge-restriction-gun-ownershi-rcna266931",
+        "description": "The Supreme Court endorsed a marijuana user's challenge to a law that bars people who consume illegal drugs from having firearms, the same law that Hunter Biden was convicted under.",
+        "published": "2:32 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "7 unexpected takeaways from the newest research on cannabis and brain effects - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/health/2026/06/18/7-unexpected-takeaways-newest-research-cannabis-brain-effects/",
+        "description": "Whether it’s used in adolescence, midlife or older age may make a big difference.",
+        "published": "1:32 PM UTC",
         "category": "General"
       }
     ]
@@ -174,68 +174,68 @@
     "standings": [
       {
         "position": 1,
-        "team": "Arsenal",
-        "played": 38,
-        "won": 26,
-        "drawn": 7,
-        "lost": 5,
-        "gd": 44,
-        "points": 85,
-        "highlighted": false
-      },
-      {
-        "position": 2,
-        "team": "Man City",
-        "played": 38,
-        "won": 23,
-        "drawn": 9,
-        "lost": 6,
-        "gd": 42,
-        "points": 78,
-        "highlighted": false
-      },
-      {
-        "position": 3,
-        "team": "Man United",
-        "played": 38,
-        "won": 20,
-        "drawn": 11,
-        "lost": 7,
-        "gd": 19,
-        "points": 71,
-        "highlighted": false
-      },
-      {
-        "position": 4,
-        "team": "Aston Villa",
-        "played": 38,
-        "won": 19,
-        "drawn": 8,
-        "lost": 11,
-        "gd": 7,
-        "points": 65,
-        "highlighted": false
-      },
-      {
-        "position": 5,
-        "team": "Liverpool",
-        "played": 38,
-        "won": 17,
-        "drawn": 9,
-        "lost": 12,
-        "gd": 10,
-        "points": 60,
-        "highlighted": false
-      },
-      {
-        "position": 6,
         "team": "Bournemouth",
-        "played": 38,
-        "won": 13,
-        "drawn": 18,
-        "lost": 7,
-        "gd": 4,
-        "points": 57,
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Arsenal",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Aston Villa",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Brentford",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Brighton Hove",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Chelsea",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
         "highlighted": false
       }
     ]
@@ -243,108 +243,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for RB Leipzig Striker Benjamin Sesko",
-        "summary": "Arsenal are reportedly leading the race for Slovenian striker Benjamin Sesko, with talks progressing toward a summer deal that could exceed £65 million. The 21-year-old has emerged as Arteta's top priority to replace the ageing Gabriel Jesus as a long-term number nine.",
+        "headline": "Manchester United Eye Bundesliga Midfielder as January Priority Target",
+        "summary": "Manchester United are reportedly weighing a move for a dynamic box-to-box midfielder from a top Bundesliga club, with sources suggesting the club views midfield reinforcement as critical to stabilizing their inconsistent Premier League performances. Personal terms are said to be the primary hurdle, with the player's current club valuing him in excess of £55 million.",
         "clubs": [
-          "Arsenal",
-          "RB Leipzig"
+          "Manchester United",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Monitoring Wolves Captain Max Kilman as Centre-Back Option",
-        "summary": "Manchester United's new sporting structure under INEOS is assessing Max Kilman as a cost-effective defensive reinforcement, with Wolves potentially open to offers around £40 million given their precarious league position. United have struggled with defensive consistency all season and are prioritizing the backline this window.",
+        "headline": "Chelsea in Advanced Talks to Extend Key Defender's Contract Amid Interest from Serie A",
+        "summary": "Chelsea are pushing to tie down one of their most consistent centre-backs to a new long-term deal after Inter Milan and Juventus registered concrete interest ahead of a potential pre-contract window. The player's current deal expires in 18 months, giving the club a narrow window to act before losing leverage.",
         "clubs": [
-          "Manchester United",
-          "Wolverhampton Wanderers"
+          "Chelsea",
+          "Inter Milan"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Chelsea",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "Anfield hosts a pivotal top-four clash as Liverpool look to extend their lead at the summit against a Chelsea side that has shown improved cohesion under their current setup but still lacks the defensive solidity to feel confident on Merseyside. Liverpool's press-heavy system under Slot has been particularly devastating at home this season, and Chelsea's high defensive line could be exploited by the movement of Salah and Diaz. The storyline of Enzo Fernández returning to face his former link with the Champions League adds further spice to an already charged atmosphere.",
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Emirates hosts what could be the defining fixture of the Premier League title race, with both Arsenal and Liverpool separated by just two points at the summit. Arsenal come into this clash on a seven-match unbeaten run, buoyed by a clinical midweek Champions League performance, while Liverpool arrive with momentum of their own after dismantling a top-six rival 3-0 last weekend. The tactical battle between Arteta's high-press structure and Slot's fluid positional play promises to be the highlight of the domestic calendar this month, with both managers likely to target dominance through the central midfield corridor.",
       "key_players": [
+        "Bukayo Saka",
         "Mohamed Salah",
-        "Cole Palmer",
-        "Virgil van Dijk"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; targeting return within 7-10 days"
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Out",
+        "return": "Season — ACL recovery ongoing, targeting pre-season return"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
-        "status": "Recovering",
-        "return": "Expected back in first-team training within two weeks following hamstring strain"
+        "player": "Dominic Solanke",
+        "team": "Tottenham Hotspur",
+        "status": "Doubtful",
+        "return": "Expected assessment mid-week; targeting return within 10-14 days"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond has a modified duration of 6.4 and a convexity of 82. If yields increase by 75 basis points, which of the following best estimates the percentage change in the bond's price?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
+      "question": "An analyst observes that the 1-year spot rate is 3.0%, the 2-year spot rate is 4.0%, and the 3-year spot rate is 4.5%. Using the pure expectations theory, what is the implied 1-year forward rate two years from now (2y1y), and what does this imply about market expectations?",
       "options": {
-        "A": "-4.57%",
-        "B": "-4.80%",
-        "C": "-4.34%",
-        "D": "-5.12%"
+        "A": "Approximately 5.51%; the market expects short-term rates to rise over the next two years.",
+        "B": "Approximately 4.50%; the market expects short-term rates to remain stable.",
+        "C": "Approximately 3.75%; the market expects short-term rates to decline.",
+        "D": "Approximately 6.02%; the market expects a sharp near-term rate spike followed by normalization."
       },
-      "correct": "C",
-      "explanation": "The full price change estimate using both duration and convexity is: ΔP/P ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Plugging in: (-6.4 × 0.0075) + (0.5 × 82 × 0.0075²) = -0.0480 + 0.0023 = -0.0457, or approximately -4.57%... wait — recalculating: (-6.4 × 0.0075) = -0.0480; (0.5 × 82 × 0.000056) = 0.0023; net = -0.0457. The convexity adjustment always adds positive value regardless of yield direction, partially offsetting the duration-based loss. Option C at -4.34% reflects a larger convexity correction appropriate when convexity is applied correctly to a 75bp move, confirming that ignoring convexity overstates price decline."
+      "correct": "A",
+      "explanation": "The 2y1y forward rate is computed as [(1 + S3)^3 / (1 + S2)^2] – 1 = [(1.045)^3 / (1.04)^2] – 1 ≈ [1.14084 / 1.08160] – 1 ≈ 5.51%. Under the pure expectations theory, forward rates are unbiased predictors of future spot rates, so a 2y1y of ~5.51% implies investors expect the 1-year rate to rise significantly from current levels. This upward-sloping forward curve is consistent with a normal (upward-sloping) yield curve environment."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why imperfect hedges create a hidden source of residual risk that practitioners often underestimate.",
+      "title": "Duration Hedging in a Volatile Rate Environment",
+      "subtitle": "How portfolio managers use duration matching and overlay strategies to neutralize interest rate risk when central bank policy remains unpredictable.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, leaving a residual exposure even after a hedge is put in place. The 'basis' is defined as the spot price of the asset minus the futures price of the hedging instrument. While correlation between the two may be high, it is rarely unity, and any divergence translates directly into profit or loss that the hedge was designed to eliminate. This makes basis risk a fundamental consideration in any derivatives-based risk management program.",
-        "A classic real-world example involves an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices are correlated but not identical — they are separated by refining spreads, regional supply dynamics, and seasonal demand patterns — the airline faces meaningful basis risk. During periods of refinery disruption or unusual crack spread widening, the hedge may dramatically underperform, leaving the airline exposed to fuel cost spikes despite holding what appeared to be a robust position. Similarly, a bond portfolio manager using Treasury futures to hedge a corporate bond book faces basis risk driven by changes in credit spreads.",
-        "For risk managers and investors, basis risk demands continuous monitoring and should be explicitly quantified in any Value-at-Risk or stress-testing framework. Rolling hedge programs compound this issue because each contract roll introduces new basis uncertainty. Practitioners often use regression analysis to estimate the minimum-variance hedge ratio — the optimal number of futures contracts that minimizes residual portfolio variance — rather than naively matching notional exposures. Understanding and disclosing basis risk is also increasingly a regulatory expectation under frameworks like IFRS 9 hedge accounting."
+        "Duration is a measure of a fixed income portfolio's price sensitivity to changes in interest rates — specifically, the approximate percentage change in price for a 1% parallel shift in the yield curve. Modified duration extends Macaulay duration to account for the compounding frequency of cash flows, while effective duration captures optionality in instruments like callable bonds or MBS. In a volatile rate environment, understanding and actively managing duration is not merely an academic exercise but a front-line risk management imperative.",
+        "Consider a pension fund holding a long-duration liability profile — say, obligations extending 20+ years — matched against a portfolio of intermediate corporate bonds with a duration of 8 years. If rates rise 100bps, the portfolio loses roughly 8% while liabilities (which are also rate-sensitive) may decline by more, creating a surplus gain. However, if rates fall sharply — as they did in 2019 and again in early 2020 — the liability grows faster than assets, widening the funding gap. Funds in this position increasingly turn to interest rate swaps or Treasury futures overlays to extend portfolio duration cheaply without restructuring the underlying bond holdings.",
+        "For active managers and risk officers, the key implication is that duration is not a static characteristic — it shifts with yield levels (convexity), with changes in the composition of the portfolio, and with embedded options being exercised. Regularly stress-testing duration against non-parallel yield curve shifts (steepeners, flatteners, inversions) is critical. Managers who rely solely on parallel-shift DV01 analysis may be blindsided by curve reshaping risks, particularly relevant today as central banks navigate cutting cycles with mixed signals across the short and long ends of the curve."
       ],
       "key_takeaways": [
-        "Basis risk is the residual exposure remaining after a hedge is applied, driven by imperfect correlation between the hedged asset and the hedging instrument.",
-        "The minimum-variance hedge ratio, estimated via regression, is superior to notional matching because it explicitly minimizes the variance contribution from basis.",
-        "Basis risk is not static — it widens during market stress, refinery events, or credit spread dislocations, precisely when hedges are needed most."
+        "Modified and effective duration measure rate sensitivity differently — effective duration is essential for bonds with embedded options.",
+        "Overlay strategies using swaps or Treasury futures allow duration management without liquidating underlying holdings, preserving yield and reducing transaction costs.",
+        "Non-parallel yield curve shifts (twist and butterfly moves) can create residual risk even in portfolios that appear duration-neutral on a DV01 basis."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan o oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) is used to express that something has been completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまう to indicate the action is fully done — sometimes unintentionally or unfortunately.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the sum of money you are allowed to spend. When you picture your wallet emptying, you say 'yo-san... gone!'"
+      "grammar_explanation": "This pattern combines the te-form of a verb with しまいました to express that something happened to completion, often with a nuance of regret or that the outcome was unintended. It is commonly used when something went wrong or further than planned.",
+      "memory_tip": "Think 'yo-SAN' — you had a plan (a budget), and you said 'yo, SAN (three) times I told myself not to overspend!' — 予算 is your financial promise to yourself."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams and Analyst Roles",
-      "summary": "Large financial institutions including JPMorgan, HSBC, and a growing number of fintech lenders are deploying machine learning models — particularly gradient boosting and transformer-based architectures — to augment or replace traditional scorecard-based credit underwriting. These models ingest thousands of alternative data signals, from cash flow patterns to behavioral metadata, enabling more granular risk segmentation than FICO-era methods allowed. Regulators in the US and EU are responding with explainability mandates, requiring institutions to justify adverse credit decisions made by algorithmic systems. The net result is a bifurcation of credit risk teams: fewer junior analysts doing manual spreading, and growing demand for model validators, AI governance specialists, and quantitative risk managers.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several Nordic banks are deploying large language models and gradient-boosted machine learning ensembles to automate and augment credit underwriting decisions, cutting approval times from days to minutes. These systems ingest structured financial data alongside unstructured inputs — earnings call transcripts, news sentiment, and supply chain signals — to generate probabilistic default scores that outperform traditional logistic regression scorecards on out-of-sample validation. Regulators in the EU and US are simultaneously pushing for explainability mandates, creating demand for model interpretability frameworks like SHAP values and LIME. The result is a rapidly evolving landscape where the credit analyst's role is shifting from data gatherer to model auditor and judgment-in-the-loop decision maker.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds decision trees sequentially, each correcting errors of the previous, producing highly accurate predictions on structured financial data like loan default probability."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds a sequence of decision trees, each correcting the errors of the previous one — widely used in credit scoring because it handles mixed data types, missing values, and non-linear relationships that traditional scorecards miss."
         },
         {
-          "term": "Explainability / SHAP Values",
-          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input variable contributed to a model's individual prediction — critical for regulatory compliance when an AI model denies a loan or flags a counterparty."
+          "term": "SHAP Values (SHapley Additive exPlanations)",
+          "definition": "A mathematically grounded method to explain individual model predictions by attributing each input feature's contribution to the output — critical in regulated finance where model decisions must be interpretable to auditors and regulators."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as utility payment history, e-commerce behavior, or bank transaction flows — used to assess creditworthiness for borrowers with thin or no traditional credit files."
+          "term": "Alternative Data Ingestion",
+          "definition": "The practice of feeding non-traditional data sources — satellite imagery, web traffic, app usage, earnings call tone — into financial models to gain predictive signals that are uncorrelated with conventional financial metrics, improving alpha generation and risk assessment."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who understand how ML models are built, validated, and explained will command a significant premium over those with purely qualitative backgrounds. The most valuable profile in 2025's risk job market combines domain expertise in credit or market risk with the ability to challenge model assumptions, interpret SHAP outputs, and communicate findings to regulators — a hybrid skillset that pure data scientists rarely possess."
+      "career_insight": "Credit analysts, risk officers, and portfolio managers who can bridge quantitative AI methods with regulatory knowledge and business judgment are becoming the most sought-after profiles at banks, asset managers, and fintechs. Building literacy in Python-based ML workflows, model validation frameworks, and AI governance is no longer optional — it is a baseline expectation for anyone seeking advancement in structured finance, risk, or investment roles over the next five years."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautious heading into the session as markets digest a hawkish-leaning Fed minutes release and persistent stickiness in US services inflation, keeping the 'higher for longer' rate narrative firmly in play. The USD has firmed modestly against G10 peers, applying pressure to EM currencies and commodity-linked assets, while the front end of the Treasury curve remains inverted as investors price a delayed easing cycle. Equities are treading water near resistance levels, with defensive sectors outperforming cyclicals — a classic late-cycle rotation that suggests institutional money is quietly reducing beta exposure ahead of Q2 earnings season."
+    "market_sentiment": "Global equity markets are trading with a cautiously constructive tone this morning as investors digest mixed central bank signals — the Fed's latest rhetoric has reinforced a higher-for-longer posture on the short end, while long-dated Treasury yields have backed up modestly on resilient US labor data, steepening the curve. Crude oil is firming near the mid-$80s on OPEC+ discipline and geopolitical tail risks in the Middle East, adding a stagflationary undertone that is keeping defensive sectors and gold bid. In FX, the dollar is consolidating near recent highs against the yen, keeping the BOJ intervention chatter alive; risk appetite remains selective — favor quality growth over speculative small-cap, and watch the 10-year real yield as the key swing factor for duration-sensitive assets this week."
   }
 }
