@@ -1,38 +1,38 @@
 {
-  "generated_at": "2:39 PM UTC",
-  "date": "Friday, June 19, 2026",
+  "generated_at": "1:23 PM UTC",
+  "date": "Saturday, June 20, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 76,
-    "feels_like_f": 77,
-    "high_f": 76,
-    "low_f": 76,
+    "temp_f": 75,
+    "feels_like_f": 75,
+    "high_f": 77,
+    "low_f": 70,
     "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 86,
+    "humidity": 60,
     "wind_mph": 2,
     "forecast": [
       {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 70,
-        "low": 70,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Sun",
-        "icon": "☁️",
-        "high": 72,
-        "low": 72,
-        "description": "Broken Clouds"
+        "icon": "☀️",
+        "high": 71,
+        "low": 71,
+        "description": "Clear Sky"
       },
       {
         "day": "Mon",
+        "icon": "🌤️",
+        "high": 75,
+        "low": 75,
+        "description": "Few Clouds"
+      },
+      {
+        "day": "Tue",
         "icon": "☁️",
-        "high": 76,
-        "low": 76,
-        "description": "Overcast Clouds"
+        "high": 74,
+        "low": 74,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 746.78,
-        "change": 5.82,
-        "change_pct": 0.79,
+        "price": 746.74,
+        "change": 5.78,
+        "change_pct": 0.78,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 298.05,
-        "change": 2.1,
-        "change_pct": 0.71,
+        "price": 298.01,
+        "change": 2.06,
+        "change_pct": 0.7,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 210.73,
-        "change": 6.08,
-        "change_pct": 2.97,
+        "price": 210.69,
+        "change": 6.04,
+        "change_pct": 2.95,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 400.53,
-        "change": 4.15,
-        "change_pct": 1.05,
+        "price": 400.49,
+        "change": 4.11,
+        "change_pct": 1.04,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63345.99,
-        "change": -621.06,
-        "change_pct": -0.97,
-        "up": false,
+        "price": 63444.01,
+        "change": 688.07,
+        "change_pct": 1.1,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1705.52,
-        "change": -34.1,
-        "change_pct": -1.96,
-        "up": false,
+        "price": 1718.95,
+        "change": 27.34,
+        "change_pct": 1.62,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock futures rise as Wall Street tries to rebound from Fed-led sell-off; Intel leads chips higher: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/17/stock-market-today-live-updates.html",
-        "description": "After hitting a fresh intraday all-time high, the Dow Jones Industrial Average ultimately closed more than 500 points lower on Wednesday.",
-        "published": "12:42 PM UTC",
+        "title": "US export ban on Anthropic’s AI models further strains alliances - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/19/us-export-ban-on-anthropics-ai-models-further-strains-alliances",
+        "description": "Trump administration’s move to cut off allies’ access to advanced AI prompts calls for greater self-reliance.",
+        "published": "9:08 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock Market Today: Nasdaq Set to Rebound, Gasoline Prices Fall Below $4 — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-18-2026",
-        "description": "",
-        "published": "11:45 AM UTC",
+        "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+        "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+        "published": "7:59 AM UTC",
         "category": "Business"
+      },
+      {
+        "title": "Meta lobbies Congress for immunity from lawsuits alleging online harm to children - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/technology/meta-lobbies-congress-immunity-from-lawsuits-alleging-online-harm-children",
+        "description": "Meta reportedly lobbied U.S. lawmakers for legal immunity from child harm lawsuits as part of the Kids Online Safety Act under Senate consideration.",
+        "published": "7:05 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Beloved seafood restaurant serves last ever dish before closing after 42yrs - the-sun.com",
+        "source": "The-sun.com",
+        "url": "https://www.the-sun.com/money/16538263/beloved-seafood-restaurant-serves-last-dish-closing-doors/",
+        "description": "",
+        "published": "9:26 AM UTC",
+        "category": "Technology"
       },
       {
         "title": "Succumb to Temptation with Hedonites of Slaanesh - Warhammer Community",
         "source": "Warhammer-community.com",
         "url": "https://www.warhammer-community.com/articles/75cyi2wg/succumb-to-temptation",
         "description": "Learn about the new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar.",
-        "published": "2:25 PM UTC",
+        "published": "8:37 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Gabe Newell, founder of Bellevue’s Valve, buys $70.8M Florida mansion - The Seattle Times",
-        "source": "The Seattle Times",
-        "url": "https://www.seattletimes.com/business/real-estate/gabe-newell-founder-of-bellevues-valve-buys-70-8m-florida-mansion/",
-        "description": "The 20,000-square-foot house spans from the ocean to the Intracoastal Waterway, with a private dock and a tunnel leading directly from the house to the ocean shore.",
-        "published": "2:20 PM UTC",
+        "title": "AI is turning Nintendo and Sony products into accidental luxury goods - Financial Times",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/c1d00925-39b9-43ac-88c7-abe13d1d3f84?syn-25a6b1a6\\\\u003d1",
+        "description": "With component-makers busy supplying data centres, console prices are rising as demand outstrips production capacity",
+        "published": "4:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Grand Theft Auto VI Cover and Pre-Order Date Revealed in New Viral Video Months Before Release - Bleacher Report",
-        "source": "Bleacher Report",
-        "url": "https://bleacherreport.com/articles/25442069-grand-theft-auto-vi-cover-and-pre-order-date-revealed-new-viral-video-months-release",
-        "description": "Video game fans were given a treat on Thursday morning, as the official cover art for the highly anticipated Grand Theft Auto VI was unveiled.",
-        "published": "2:03 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Supreme Court backs a marijuana user’s challenge to a restriction on gun ownership - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-backs-marijuana-users-challenge-restriction-gun-ownershi-rcna266931",
-        "description": "The Supreme Court endorsed a marijuana user's challenge to a law that bars people who consume illegal drugs from having firearms, the same law that Hunter Biden was convicted under.",
-        "published": "2:32 PM UTC",
+        "title": "U.S.-Iran Latest: Israel-Hezbollah fighting flares up in Lebanon as next-phase talks delayed - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/",
+        "description": "The U.S.-Iran deal faces an early test as fighting in Lebanon between Israel and Hezbollah reignites and next-phase talks are delayed.",
+        "published": "12:42 PM UTC",
         "category": "General"
       },
       {
-        "title": "7 unexpected takeaways from the newest research on cannabis and brain effects - The Washington Post",
+        "title": "Democrat Hannah Pingree and Republican Bobby Charles advance in Maine governor’s race - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/health/2026/06/18/7-unexpected-takeaways-newest-research-cannabis-brain-effects/",
-        "description": "Whether it’s used in adolescence, midlife or older age may make a big difference.",
-        "published": "1:32 PM UTC",
+        "url": "https://www.washingtonpost.com/politics/2026/06/19/hannah-pingree-bobby-charles-advance-maine-governors-race/",
+        "description": "Hannah Pingree, a former State House speaker endorsed by outgoing Gov. Janet Mills, won the Democratic nomination, while Bobby Charles won the Republican nomination.",
+        "published": "12:27 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Jelly Roll, Bunnie Xo 'still having a baby together' despite divorce: everything we know about the split - Fox News",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/entertainment/jelly-roll-bunnie-xo-still-having-baby-together-despite-divorce-everything-we-know-about-split",
+        "description": "Jelly Roll filed for divorce from Bunnie Xo on May 18 in Tennessee, with Bunnie saying a big fight on Mother's Day led to a breakdown in their relationship.",
+        "published": "12:00 PM UTC",
         "category": "General"
       }
     ]
@@ -243,108 +259,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Eye Bundesliga Midfielder as January Priority Target",
-        "summary": "Manchester United are reportedly weighing a move for a dynamic box-to-box midfielder from a top Bundesliga club, with sources suggesting the club views midfield reinforcement as critical to stabilizing their inconsistent Premier League performances. Personal terms are said to be the primary hurdle, with the player's current club valuing him in excess of £55 million.",
+        "headline": "Arsenal Tracking Bundesliga Striker as Backup to Jesus",
+        "summary": "Arsenal's recruitment team has been scouting a prolific Bundesliga forward as cover for Gabriel Jesus following a slow start to the striker's season. Talks are said to be at an exploratory stage with a potential January window move under consideration.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Key Defender's Contract Amid Interest from Serie A",
-        "summary": "Chelsea are pushing to tie down one of their most consistent centre-backs to a new long-term deal after Inter Milan and Juventus registered concrete interest ahead of a potential pre-contract window. The player's current deal expires in 18 months, giving the club a narrow window to act before losing leverage.",
+        "headline": "Chelsea in Advanced Talks to Offload Fringe Midfielder in January",
+        "summary": "Chelsea are looking to trim their bloated squad in the January transfer window, with a fringe midfielder attracting interest from two Serie A clubs. The player, who has made fewer than five league appearances this season, is keen on a move to secure regular first-team football.",
         "clubs": [
           "Chelsea",
-          "Inter Milan"
+          "AC Milan"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Manchester City",
       "away": "Liverpool",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Emirates hosts what could be the defining fixture of the Premier League title race, with both Arsenal and Liverpool separated by just two points at the summit. Arsenal come into this clash on a seven-match unbeaten run, buoyed by a clinical midweek Champions League performance, while Liverpool arrive with momentum of their own after dismantling a top-six rival 3-0 last weekend. The tactical battle between Arteta's high-press structure and Slot's fluid positional play promises to be the highlight of the domestic calendar this month, with both managers likely to target dominance through the central midfield corridor.",
+      "preview": "The Premier League's defining fixture returns as Manchester City host Liverpool at the Etihad in what could prove a pivotal moment in the title race, with both sides separated by just two points in the table. City will look to Haaland's movement to exploit Liverpool's high defensive line, while Slot's side arrive full of confidence following back-to-back clean sheet victories. The tactical battle between City's positional play and Liverpool's high-press transition game promises to be one of the defining encounters of the season.",
       "key_players": [
-        "Bukayo Saka",
+        "Erling Haaland",
         "Mohamed Salah",
-        "Martin Ødegaard"
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Season — ACL recovery ongoing, targeting pre-season return"
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Expected to be assessed 48 hours before kick-off; muscle tightness flagged in training"
       },
       {
-        "player": "Dominic Solanke",
-        "team": "Tottenham Hotspur",
-        "status": "Doubtful",
-        "return": "Expected assessment mid-week; targeting return within 10-14 days"
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Targeting return to full training within 10 days; unlikely to feature this weekend"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
-      "question": "An analyst observes that the 1-year spot rate is 3.0%, the 2-year spot rate is 4.0%, and the 3-year spot rate is 4.5%. Using the pure expectations theory, what is the implied 1-year forward rate two years from now (2y1y), and what does this imply about market expectations?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. The bank also determines that the asset correlation parameter (ρ) implies a significant concentration in the portfolio. Under the Basel II IRB approach, which of the following best describes the purpose of the Maturity Adjustment (M) in the capital requirement formula?",
       "options": {
-        "A": "Approximately 5.51%; the market expects short-term rates to rise over the next two years.",
-        "B": "Approximately 4.50%; the market expects short-term rates to remain stable.",
-        "C": "Approximately 3.75%; the market expects short-term rates to decline.",
-        "D": "Approximately 6.02%; the market expects a sharp near-term rate spike followed by normalization."
+        "A": "It scales the PD upward to reflect the probability that a borrower migrates to a worse rating class before the end of the one-year capital horizon.",
+        "B": "It captures the risk that mark-to-market losses occur due to credit deterioration over the remaining life of the exposure, not just default within one year.",
+        "C": "It adjusts the LGD downward to reflect collateral recovery improvements for longer-dated instruments.",
+        "D": "It increases EAD proportionally for exposures with a remaining maturity greater than 2.5 years to reflect funding risk."
       },
-      "correct": "A",
-      "explanation": "The 2y1y forward rate is computed as [(1 + S3)^3 / (1 + S2)^2] – 1 = [(1.045)^3 / (1.04)^2] – 1 ≈ [1.14084 / 1.08160] – 1 ≈ 5.51%. Under the pure expectations theory, forward rates are unbiased predictors of future spot rates, so a 2y1y of ~5.51% implies investors expect the 1-year rate to rise significantly from current levels. This upward-sloping forward curve is consistent with a normal (upward-sloping) yield curve environment."
+      "correct": "B",
+      "explanation": "Under the Basel II Internal Ratings-Based (IRB) approach, the Maturity Adjustment accounts for the fact that longer-maturity exposures carry greater risk of mark-to-market losses from credit migration — not just outright default — over the remaining life of the instrument. A loan maturing in 5 years, for example, has more time for the borrower's creditworthiness to deteriorate, causing mark-to-market losses even if no default occurs within the one-year capital horizon. This distinguishes the maturity adjustment from PD, which only captures one-year default probability. The adjustment increases capital requirements for longer-dated exposures relative to short-term ones."
     },
     "finance_topic": {
-      "title": "Duration Hedging in a Volatile Rate Environment",
-      "subtitle": "How portfolio managers use duration matching and overlay strategies to neutralize interest rate risk when central bank policy remains unpredictable.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Why a seemingly perfect hedge can still leave you significantly exposed to residual risk.",
       "paragraphs": [
-        "Duration is a measure of a fixed income portfolio's price sensitivity to changes in interest rates — specifically, the approximate percentage change in price for a 1% parallel shift in the yield curve. Modified duration extends Macaulay duration to account for the compounding frequency of cash flows, while effective duration captures optionality in instruments like callable bonds or MBS. In a volatile rate environment, understanding and actively managing duration is not merely an academic exercise but a front-line risk management imperative.",
-        "Consider a pension fund holding a long-duration liability profile — say, obligations extending 20+ years — matched against a portfolio of intermediate corporate bonds with a duration of 8 years. If rates rise 100bps, the portfolio loses roughly 8% while liabilities (which are also rate-sensitive) may decline by more, creating a surplus gain. However, if rates fall sharply — as they did in 2019 and again in early 2020 — the liability grows faster than assets, widening the funding gap. Funds in this position increasingly turn to interest rate swaps or Treasury futures overlays to extend portfolio duration cheaply without restructuring the underlying bond holdings.",
-        "For active managers and risk officers, the key implication is that duration is not a static characteristic — it shifts with yield levels (convexity), with changes in the composition of the portfolio, and with embedded options being exercised. Regularly stress-testing duration against non-parallel yield curve shifts (steepeners, flatteners, inversions) is critical. Managers who rely solely on parallel-shift DV01 analysis may be blindsided by curve reshaping risks, particularly relevant today as central banks navigate cutting cycles with mixed signals across the short and long ends of the curve."
+        "Basis risk arises when the price of the instrument being hedged and the price of the hedging instrument do not move in perfect correlation. In theory, a hedge eliminates price exposure by taking an offsetting position — but in practice, the 'basis,' defined as the spot price of the asset minus the futures price (or the price of the hedge instrument), is rarely constant. Because the hedge and the underlying are not perfectly correlated, gains on one leg of the trade may not fully offset losses on the other, leaving a residual profit or loss known as the basis risk.",
+        "A classic real-world example is a jet fuel hedge executed using crude oil futures. An airline seeking to lock in its fuel costs might buy WTI crude oil futures, but jet fuel and WTI crude do not trade at a fixed spread — refining margins, seasonal demand for distillates, and regional supply disruptions cause the relationship to shift. During periods of refinery stress, jet fuel prices can spike dramatically even as crude oil remains range-bound, leaving the airline's hedge badly mismatched. Similarly, a fixed-income portfolio manager hedging a BBB corporate bond portfolio with Treasury futures faces basis risk driven by credit spread widening — the Treasuries may rally during a risk-off event as corporate bonds sell off simultaneously.",
+        "For risk managers and portfolio managers, basis risk is a critical consideration when selecting hedge instruments and sizing positions. A hedge ratio based solely on price sensitivity (delta or DV01 matching) may still expose the portfolio to significant basis risk if the correlation between the hedge and the underlying is unstable or regime-dependent. Practitioners often monitor rolling basis levels, stress-test hedges under historical correlation breakdowns, and consider using more targeted instruments — such as credit default swaps rather than index proxies — to reduce residual exposure. Ignoring basis risk can lead to the paradox of a 'fully hedged' portfolio that still generates large unexpected losses."
       ],
       "key_takeaways": [
-        "Modified and effective duration measure rate sensitivity differently — effective duration is essential for bonds with embedded options.",
-        "Overlay strategies using swaps or Treasury futures allow duration management without liquidating underlying holdings, preserving yield and reducing transaction costs.",
-        "Non-parallel yield curve shifts (twist and butterfly moves) can create residual risk even in portfolios that appear duration-neutral on a DV01 basis."
+        "Basis risk is the residual risk remaining after a hedge is placed, arising from imperfect correlation between the hedged asset and the hedging instrument.",
+        "Common sources of basis risk include geographic price differences, grade or quality mismatches, timing mismatches, and credit spread dynamics that diverge from rate movements.",
+        "Effective risk management requires ongoing monitoring of the basis itself, not just the notional hedge ratio, particularly during periods of market stress when correlations tend to break down."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved in a bank",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan o oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "This pattern combines the te-form of a verb with しまいました to express that something happened to completion, often with a nuance of regret or that the outcome was unintended. It is commonly used when something went wrong or further than planned.",
-      "memory_tip": "Think 'yo-SAN' — you had a plan (a budget), and you said 'yo, SAN (three) times I told myself not to overspend!' — 予算 is your financial promise to yourself."
+      "example_jp": "毎月、給料の一部を貯金しています。",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_en": "Every month, I save a portion of my salary.",
+      "grammar_point": "〜ています (te-form + います)",
+      "grammar_explanation": "The 〜ています pattern is used to describe an ongoing action or a habitual routine. In this sentence, 貯金しています means 'I am (habitually) saving money,' indicating a repeated behavior rather than a one-time action.",
+      "memory_tip": "Think of 'chokin' as 'cho-COIN' — you are carefully choosing which coins (and bills) to stash away each month. The 貯 character contains the idea of storing or accumulating, reinforcing the image of a growing piggy bank."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
-      "summary": "Major financial institutions including JPMorgan, HSBC, and several Nordic banks are deploying large language models and gradient-boosted machine learning ensembles to automate and augment credit underwriting decisions, cutting approval times from days to minutes. These systems ingest structured financial data alongside unstructured inputs — earnings call transcripts, news sentiment, and supply chain signals — to generate probabilistic default scores that outperform traditional logistic regression scorecards on out-of-sample validation. Regulators in the EU and US are simultaneously pushing for explainability mandates, creating demand for model interpretability frameworks like SHAP values and LIME. The result is a rapidly evolving landscape where the credit analyst's role is shifting from data gatherer to model auditor and judgment-in-the-loop decision maker.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Risk Models",
+      "summary": "Major financial institutions and fintech lenders are increasingly deploying large language models and gradient-boosted machine learning systems to augment — and in some cases replace — traditional scorecards in credit underwriting. These systems ingest alternative data sources such as cash flow patterns, rental payment histories, and even supply chain data to assess creditworthiness for borrowers who are thin-file or unbanked. Regulators in the US and EU are responding with new model risk management guidance specifically targeting AI-driven credit decisions, particularly around explainability requirements under fair lending laws. The shift is compressing underwriting timelines from days to seconds while simultaneously raising new questions about model bias, adversarial data manipulation, and systemic concentration risk if many institutions converge on similar AI architectures.",
       "concepts": [
         {
           "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds a sequence of decision trees, each correcting the errors of the previous one — widely used in credit scoring because it handles mixed data types, missing values, and non-linear relationships that traditional scorecards miss."
+          "definition": "An ensemble machine learning technique that builds a series of decision trees sequentially, each correcting the errors of the prior one. In credit risk, it often outperforms logistic regression on structured tabular data and is widely used for PD modeling."
         },
         {
-          "term": "SHAP Values (SHapley Additive exPlanations)",
-          "definition": "A mathematically grounded method to explain individual model predictions by attributing each input feature's contribution to the output — critical in regulated finance where model decisions must be interpretable to auditors and regulators."
+          "term": "Explainability / SHAP Values",
+          "definition": "SHAP (SHapley Additive exPlanations) values decompose an AI model's prediction into contributions from each input variable. Regulators and risk managers use SHAP to satisfy 'adverse action notice' requirements — explaining to borrowers in plain language why credit was denied."
         },
         {
-          "term": "Alternative Data Ingestion",
-          "definition": "The practice of feeding non-traditional data sources — satellite imagery, web traffic, app usage, earnings call tone — into financial models to gain predictive signals that are uncorrelated with conventional financial metrics, improving alpha generation and risk assessment."
+          "term": "Model Risk Management (MRM)",
+          "definition": "The discipline of identifying, validating, and monitoring the risks that arise when financial institutions rely on quantitative models to make decisions. With AI, MRM must address issues like concept drift — where a model trained on pre-pandemic data underperforms in new economic regimes."
         }
       ],
-      "career_insight": "Credit analysts, risk officers, and portfolio managers who can bridge quantitative AI methods with regulatory knowledge and business judgment are becoming the most sought-after profiles at banks, asset managers, and fintechs. Building literacy in Python-based ML workflows, model validation frameworks, and AI governance is no longer optional — it is a baseline expectation for anyone seeking advancement in structured finance, risk, or investment roles over the next five years."
+      "career_insight": "Risk professionals who can sit at the intersection of model validation, regulatory compliance, and machine learning implementation are among the most sought-after hires in financial services right now. The ability to critically evaluate an AI credit model — understanding not just how to run it but how it can fail, and being able to articulate that risk to a board or regulator — is a skill premium that traditional quant training alone does not provide. Professionals combining FRM or CFA credentials with Python-based ML literacy and knowledge of SR 11-7 model risk guidance are commanding significant hiring premiums across banks, insurers, and asset managers."
     },
     "error": false,
-    "market_sentiment": "Global equity markets are trading with a cautiously constructive tone this morning as investors digest mixed central bank signals — the Fed's latest rhetoric has reinforced a higher-for-longer posture on the short end, while long-dated Treasury yields have backed up modestly on resilient US labor data, steepening the curve. Crude oil is firming near the mid-$80s on OPEC+ discipline and geopolitical tail risks in the Middle East, adding a stagflationary undertone that is keeping defensive sectors and gold bid. In FX, the dollar is consolidating near recent highs against the yen, keeping the BOJ intervention chatter alive; risk appetite remains selective — favor quality growth over speculative small-cap, and watch the 10-year real yield as the key swing factor for duration-sensitive assets this week."
+    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets weigh the durability of US economic resilience against a deteriorating global demand picture — with China's property sector overhang and sluggish Eurozone PMIs continuing to dampen conviction in a synchronised global recovery. US Treasuries remain in a tug-of-war between sticky core services inflation keeping the Fed on hold longer than anticipated and growing evidence of consumer credit stress at the lower-income cohort, which is beginning to show up in delinquency rates. For today's session, watch credit spreads closely — any widening in IG or HY beyond recent ranges would be an early warning signal that the equity market's relative calm is masking deteriorating credit fundamentals beneath the surface."
   }
 }
