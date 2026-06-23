@@ -1,25 +1,18 @@
 {
-  "generated_at": "4:24 PM UTC",
-  "date": "Monday, June 22, 2026",
+  "generated_at": "2:21 PM UTC",
+  "date": "Tuesday, June 23, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 89,
-    "feels_like_f": 97,
-    "high_f": 91,
-    "low_f": 86,
-    "description": "Scattered Clouds",
-    "icon": "⛅",
-    "humidity": 61,
-    "wind_mph": 2,
+    "temp_f": 76,
+    "feels_like_f": 78,
+    "high_f": 78,
+    "low_f": 74,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 87,
+    "wind_mph": 10,
     "forecast": [
-      {
-        "day": "Tue",
-        "icon": "🌧️",
-        "high": 72,
-        "low": 72,
-        "description": "Light Rain"
-      },
       {
         "day": "Wed",
         "icon": "☀️",
@@ -30,9 +23,16 @@
       {
         "day": "Thu",
         "icon": "☁️",
-        "high": 74,
-        "low": 74,
-        "description": "Broken Clouds"
+        "high": 73,
+        "low": 73,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Fri",
+        "icon": "⛅",
+        "high": 76,
+        "low": 76,
+        "description": "Scattered Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 744.64,
-        "change": -2.1,
-        "change_pct": -0.28,
+        "price": 739.28,
+        "change": -5.11,
+        "change_pct": -0.69,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 300.85,
-        "change": 2.84,
-        "change_pct": 0.95,
+        "price": 299.31,
+        "change": 2.3,
+        "change_pct": 0.77,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 209.54,
-        "change": -1.15,
-        "change_pct": -0.55,
+        "price": 203.38,
+        "change": -5.27,
+        "change_pct": -2.53,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 407.55,
-        "change": 7.06,
-        "change_pct": 1.76,
-        "up": true,
+        "price": 387.54,
+        "change": -17.51,
+        "change_pct": -4.32,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64742,
-        "change": 511.98,
-        "change_pct": 0.8,
-        "up": true,
+        "price": 62754.18,
+        "change": -2439.82,
+        "change_pct": -3.74,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1743.46,
-        "change": 15.14,
-        "change_pct": 0.88,
-        "up": true,
+        "price": 1666.09,
+        "change": -98.72,
+        "change_pct": -5.59,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,68 +111,52 @@
     "error": false,
     "articles": [
       {
-        "title": "Dow Jones Futures: U.S.-Iran Talks Begin; Nvidia, SpaceX In Focus With Micron Earnings Ahead - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-talks-hormuz-nvidia-spacex-micron/",
-        "description": "Nvidia, SpaceX are among stocks to watch.",
-        "published": "2:57 PM UTC",
+        "title": "Alan Greenspan, economist and longtime head of the Federal Reserve, dies at 100 - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/obituaries/alan-greenspan-economist-longtime-head-federal-reserve-dies-100-rcna42286",
+        "description": "Alan Greenspan, the former chairman of the Federal Reserve Board whose economic prowess was indelibly marred for some by his actions leading up to the 2008 financial crisis, has died.",
+        "published": "12:22 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Ingredient needed for pretty much all food just got way more expensive. Your grocery bill may soar too - The Hill",
-        "source": "The Hill",
-        "url": "https://thehill.com/business/personal-finance/5926563-ingredient-needed-for-pretty-much-all-food-just-got-way-more-expensive-your-grocery-bill-may-soar-too/",
-        "description": "The commodity is a crucial ingredient in growing or producing pretty much everything you put in your grocery cart or serve up on your dinner plate.",
-        "published": "2:00 PM UTC",
+        "title": "Chevron to fuel massive Microsoft data center in Texas with natural gas - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/22/chevron-cvx-microsoft-msft-natural-gas-data-center.html",
+        "description": "Microsoft's embrace of natural gas shows it is willing to invest in a fossil fuel to meet the power demand from its data centers.",
+        "published": "11:59 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Oil Glut Bets Are Back in Play as Crude Sinks After US-Iran Deal - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-21/oil-glut-bets-are-back-in-play-as-crude-sinks-after-us-iran-deal",
-        "description": "A slew of all-but-forgotten niche option positions betting on an oil glut are coming back into play as crude futures slump following a peace deal between the US and Iran.",
-        "published": "1:00 PM UTC",
+        "title": "Stock Market Today: Nasdaq Futures Inch Up After Tense U.S.-Iran Talks — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-22-2026",
+        "description": "",
+        "published": "11:45 AM UTC",
         "category": "Business"
       },
       {
-        "title": "RIP Nest Mini – The Google Home Speaker isn't a replacement, but hopefully the start of a new era - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/06/21/nest-mini-google-home-speaker-replacement-new-era/",
-        "description": "The Google Home Speaker finally has a release date and, with it, Google has also ended its long-running and mega-hit...",
-        "published": "3:00 PM UTC",
+        "title": "Your Storage Problem Has a Prime Day Solution. We Found SSDs Starting at $50 - CNET",
+        "source": "CNET",
+        "url": "https://www.cnet.com/deals/best-prime-day-ssd-deals-2026-06-22/",
+        "description": "From budget picks to blazing-fast upgrades, here's every Prime Day SSD deal worth your attention.",
+        "published": "12:28 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "I Thought My Swiffer Wasn’t Working Properly—Turns Out I Was Using It Wrong the Whole Time - The Spruce",
-        "source": "Thespruce.com",
-        "url": "https://www.thespruce.com/my-swiffer-sweeper-mops-perfectly-11985284",
-        "description": "I thought mopping was a hassle—until I learned how to actually use my Swiffer. Now my floors are cleaner in 15 minutes, no bucket required.",
-        "published": "2:17 PM UTC",
+        "title": "Sounds Like a Steal: 40+ Apple, Sony and Bose Deals Are Live With Prime Day Starting Tomorrow - CNET",
+        "source": "CNET",
+        "url": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-22/",
+        "description": "Whether you want the best of the best or a budget pair, these are our favorite deals.",
+        "published": "12:21 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "New Nintendo games sale live on Amazon, multiple Switch 1 and 2 games at lowest prices ever - Nintendo Everything",
-        "source": "Nintendoeverything.com",
-        "url": "https://nintendoeverything.com/new-nintendo-games-sale-live-on-amazon-multiple-switch-1-and-2-games-at-lowest-prices-ever/",
-        "description": "A limited time Nintendo games sale just went live for Switch 2 and Switch, including the lowest price ever for Zelda: Tears of the Kingdom.",
-        "published": "1:43 PM UTC",
+        "title": "Review: Devil May Cry 5 Devil Hunter Edition (Switch 2) - Not Definitive, But Another Great Capcom Port - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/devil-may-cry-5-devil-hunter-edition",
+        "description": "No deal breaker",
+        "published": "12:00 PM UTC",
         "category": "Technology"
-      },
-      {
-        "title": "'Toy Story 5' Box Office: Pixar Sequel Sets Franchise Opening Record - Variety",
-        "source": "Variety",
-        "url": "https://variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574/",
-        "description": "\"Toy Story 5\" set a franchise box office record in its opening weekend.",
-        "published": "3:13 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "2026 U.S. Open final round leaderboard, live updates: Wyndham Clark leads by 6 entering Sunday at Shinnecock Hills - Yahoo Sports",
-        "source": "Yahoo Entertainment",
-        "url": "https://sports.yahoo.com/golf/live/2026-us-open-final-round-leaderboard-live-updates-wyndham-clark-leads-by-6-entering-sunday-at-shinnecock-hills-114500547.html",
-        "description": "Wyndham Clark is in full control of the U.S. Open.",
-        "published": "2:30 PM UTC",
-        "category": "General"
       }
     ]
   },
@@ -248,111 +232,10 @@
       }
     ]
   },
-  "pl_content": {
-    "transfer_news": [
-      {
-        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder Ahead of Summer Window",
-        "summary": "Arsenal's recruitment team is reported to have sent scouts to observe Florian Wirtz on multiple occasions this season, with Arteta believed to see the Bayer Leverkusen playmaker as the creative fulcrum his system needs. A deal would likely require a club-record fee exceeding £100 million given Leverkusen's strong negotiating position.",
-        "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
-        ]
-      },
-      {
-        "headline": "Chelsea and Newcastle United Both Targeting Same Sporting CP Striker",
-        "summary": "Viktor Gyökeres has reportedly attracted formal interest from both Chelsea and Newcastle, with Sporting CP believed to hold firm on their €100 million release clause valuation. Chelsea are seen as frontrunners given their superior European competition pedigree, though Newcastle's improving financial position makes them a credible alternative.",
-        "clubs": [
-          "Chelsea",
-          "Newcastle United"
-        ]
-      }
-    ],
-    "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The summit clash at the Etihad arrives at a pivotal moment in the title race, with Liverpool leading the table by three points and City desperate to close the gap and assert psychological dominance over their closest rivals. Arne Slot's Liverpool arrive in excellent form having conceded just twice in their last six league outings, while Pep Guardiola's City have rediscovered attacking fluency with Haaland returning to his predatory best after a minor injury absence. The tactical battle between Liverpool's high press and City's positional play in midfield could be the decisive axis of a match that historically produces one of world football's most compelling spectacles.",
-      "key_players": [
-        "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
-      ]
-    },
-    "injury_news": [
-      {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; 50/50 to feature"
-      },
-      {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected to return to full training within 10 days; likely available after the international break"
-      }
-    ]
-  },
+  "pl_content": {},
   "ai": {
-    "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A credit analyst is evaluating a corporate bond using the reduced-form credit risk model. Which of the following best describes how default is modeled under this approach, compared to the structural model?",
-      "options": {
-        "A": "Default occurs when the firm's asset value falls below a threshold defined by its liabilities, making it predictable given observable balance sheet data.",
-        "B": "Default is modeled as a surprise event governed by a stochastic hazard rate, independent of an explicit asset-value process.",
-        "C": "Default probability is derived solely from equity option pricing, using the firm's market capitalization as the underlying asset.",
-        "D": "Default is assumed to occur only at bond maturity, with the probability determined by the distance-to-default metric."
-      },
-      "correct": "B",
-      "explanation": "Reduced-form models (e.g., Jarrow-Turnbull, Duffie-Singleton) treat default as an unpredictable, exogenous event driven by a hazard rate (intensity) that can be calibrated to market credit spreads. Unlike structural models (e.g., Merton), which tie default explicitly to the firm's asset value crossing a liability threshold, reduced-form models do not require unobservable asset value inputs. This makes them more tractable for pricing credit derivatives and bonds in practice. Options A and D describe structural model features, while Option C is a distractor referencing equity-based inputs used in some structural adaptations."
-    },
-    "finance_topic": {
-      "title": "Basis Risk and Hedging Imperfections in Practice",
-      "subtitle": "Why a hedge is almost never perfect, and what the gap between your exposure and your instrument costs you.",
-      "paragraphs": [
-        "Basis risk is the residual risk that remains after a hedging position is established, arising because the hedging instrument and the underlying exposure do not move in perfect lockstep. It is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a trader selects the most closely correlated instrument available, differences in maturity, credit quality, geography, or contract specifications ensure that some basis risk persists. In commodity markets, basis can reflect transportation costs and local supply-demand dynamics; in fixed income, it often reflects differences in duration, convexity, or credit spread.",
-        "A canonical real-world example is an airline hedging jet fuel costs using crude oil futures, since no liquid standardized jet fuel futures contract exists. The airline faces cross-hedge basis risk because jet fuel and crude oil prices are correlated but not identical — refining margins, seasonal demand, and geopolitical disruptions can cause the spread between them to widen unpredictably. During 2022, several European carriers discovered this acutely when crack spreads surged dramatically, meaning their crude hedges provided far less protection than modeled. Similarly, fixed income portfolio managers who hedge rate risk using Treasury futures can be stung by basis widening if their corporate bond holdings suffer spread widening while Treasuries rally — a phenomenon painfully evident during the March 2020 liquidity crisis.",
-        "For risk managers and investors, understanding basis risk is critical because it means no hedge eliminates risk entirely — it merely transforms market risk into basis risk. The optimal hedge ratio, typically estimated via OLS regression of spot price changes on futures price changes, minimizes variance but cannot reduce basis to zero. Practitioners must quantify the basis volatility and factor it into their hedging cost-benefit analysis. When basis risk is high or unpredictable, a firm must weigh whether a partial, imperfect hedge is preferable to no hedge at all, and whether the accounting treatment (e.g., hedge accounting under IFRS 9) will reflect the economic reality of the position."
-      ],
-      "key_takeaways": [
-        "Basis risk is the unavoidable residual risk when the hedging instrument and the underlying exposure are not perfectly correlated.",
-        "Cross-hedges (e.g., jet fuel with crude futures) carry higher basis risk than direct hedges, requiring careful monitoring of the spread between the two.",
-        "The optimal hedge ratio minimizes variance but cannot eliminate basis risk; risk managers must explicitly quantify and budget for this residual exposure."
-      ]
-    },
-    "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
-      "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました is used to express that something was completed, often with a nuance of regret or an unintended outcome. Attach てしまう to the te-form of a verb; in polite past tense it becomes てしまいました.",
-      "memory_tip": "Think of 予 (yo) as 'yo, I predicted this' and 算 (san) as 'calculation' — a budget is your predicted calculation of money. Yosan = your planned numbers."
-    },
-    "ai_strategy": {
-      "headline": "AI Credit Underwriting Is Replacing Analyst Judgment at Scale",
-      "summary": "Major banks and fintechs are deploying large language models and gradient-boosted machine learning ensembles to automate commercial credit underwriting decisions that previously required senior analyst review. JPMorgan, Goldman Sachs, and a wave of B2B lending fintechs have reported significant reductions in underwriting cycle times — from days to minutes — while maintaining or improving default prediction accuracy versus traditional scorecards. The models ingest alternative data sources including supply chain signals, transaction-level cash flow patterns, and even satellite imagery of physical assets to generate credit opinions. Regulators in the US and EU are now racing to establish explainability and fairness standards before these systems become load-bearing infrastructure in capital allocation.",
-      "concepts": [
-        {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions of default probability from structured financial data — widely used in credit scoring because it handles missing data and nonlinear relationships well."
-        },
-        {
-          "term": "Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input variable contributed to a specific model prediction, allowing risk managers and regulators to understand why a model approved or denied credit — critical for compliance with fair lending laws."
-        },
-        {
-          "term": "Alternative Data Ingestion",
-          "definition": "The use of non-traditional data sources — such as bank transaction flows, web-scraped supplier relationships, app usage patterns, or geospatial signals — to supplement or replace conventional financial statements in credit and investment analysis, improving predictive power especially for thin-file or private borrowers."
-        }
-      ],
-      "career_insight": "Credit analysts and risk managers who can bridge quantitative modeling and business judgment are becoming the most valued professionals in lending and capital markets — not because AI replaces them, but because someone must own model governance, interpret edge cases, and defend decisions to regulators. Developing fluency in Python, understanding ML model validation frameworks, and earning credentials in model risk management (such as the FRM or SR 11-7 literacy) are the highest-ROI skill investments for credit professionals over the next five years."
-    },
-    "error": false,
-    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets balance resilient US labor data against growing concerns about the Federal Reserve's higher-for-longer stance extending into Q3. The 10-year Treasury yield has been grinding higher, pressuring rate-sensitive equities and widening investment-grade credit spreads at the margin, while the USD continues to attract safe-haven flows ahead of key CPI print expectations. Commodity markets are watching OPEC+ supply discipline carefully, with Brent crude holding a constructive technical base, though demand signals from China remain the wildcard that could break the range in either direction."
+    "error": true,
+    "message": "Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CcLLi94pHTghjDcb53G28'}",
+    "market_sentiment": null
   }
 }
