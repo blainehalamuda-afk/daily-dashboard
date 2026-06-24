@@ -1,38 +1,38 @@
 {
-  "generated_at": "2:21 PM UTC",
-  "date": "Tuesday, June 23, 2026",
+  "generated_at": "2:02 PM UTC",
+  "date": "Wednesday, June 24, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 76,
-    "feels_like_f": 78,
+    "temp_f": 75,
+    "feels_like_f": 75,
     "high_f": 78,
-    "low_f": 74,
-    "description": "Broken Clouds",
-    "icon": "☁️",
-    "humidity": 87,
-    "wind_mph": 10,
+    "low_f": 73,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 54,
+    "wind_mph": 4,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 69,
-        "low": 69,
-        "description": "Clear Sky"
-      },
       {
         "day": "Thu",
         "icon": "☁️",
         "high": 73,
         "low": 73,
-        "description": "Overcast Clouds"
+        "description": "Broken Clouds"
       },
       {
         "day": "Fri",
-        "icon": "⛅",
+        "icon": "☁️",
         "high": 76,
         "low": 76,
-        "description": "Scattered Clouds"
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "☁️",
+        "high": 76,
+        "low": 76,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 739.28,
-        "change": -5.11,
-        "change_pct": -0.69,
-        "up": false,
+        "price": 735.8,
+        "change": 2.22,
+        "change_pct": 0.3,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 299.31,
-        "change": 2.3,
-        "change_pct": 0.77,
+        "price": 294.49,
+        "change": 0.19,
+        "change_pct": 0.06,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 203.38,
-        "change": -5.27,
-        "change_pct": -2.53,
-        "up": false,
+        "price": 200.19,
+        "change": 0.15,
+        "change_pct": 0.07,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 387.54,
-        "change": -17.51,
-        "change_pct": -4.32,
+        "price": 380.71,
+        "change": -0.9,
+        "change_pct": -0.24,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 62754.18,
-        "change": -2439.82,
-        "change_pct": -3.74,
+        "price": 61238.23,
+        "change": -1354.68,
+        "change_pct": -2.16,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1666.09,
-        "change": -98.72,
-        "change_pct": -5.59,
+        "price": 1639.79,
+        "change": -26.91,
+        "change_pct": -1.61,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,52 +111,60 @@
     "error": false,
     "articles": [
       {
-        "title": "Alan Greenspan, economist and longtime head of the Federal Reserve, dies at 100 - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/obituaries/alan-greenspan-economist-longtime-head-federal-reserve-dies-100-rcna42286",
-        "description": "Alan Greenspan, the former chairman of the Federal Reserve Board whose economic prowess was indelibly marred for some by his actions leading up to the 2008 financial crisis, has died.",
-        "published": "12:22 PM UTC",
+        "title": "AI on pace to bypass cybersecurity systems in months, not years, \"Five Eyes\" spy partners warn - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/ai-bypass-cybersecurity-systems-months-not-years-five-eyes/",
+        "description": "The most advanced artificial intelligence models are improving quickly enough to outsmart prevailing cybersecurity know-how within months, the Five Eyes spy agency alliance is warning.",
+        "published": "1:40 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Chevron to fuel massive Microsoft data center in Texas with natural gas - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/22/chevron-cvx-microsoft-msft-natural-gas-data-center.html",
-        "description": "Microsoft's embrace of natural gas shows it is willing to invest in a fossil fuel to meet the power demand from its data centers.",
-        "published": "11:59 AM UTC",
+        "title": "Bath & Body Works expands beyond malls with Ulta Beauty partnership, revives fan-favorite scent - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/retail/bath-body-works-expands-beyond-malls-ulta-beauty-partnership-revives-fan-favorite-scent",
+        "description": "Bath & Body Works announced its strategic partnership with Ulta Beauty, rolling out products in more than 600 stores starting July 12 as part of its growth plan.",
+        "published": "1:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock Market Today: Nasdaq Futures Inch Up After Tense U.S.-Iran Talks — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-22-2026",
-        "description": "",
-        "published": "11:45 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Your Storage Problem Has a Prime Day Solution. We Found SSDs Starting at $50 - CNET",
-        "source": "CNET",
-        "url": "https://www.cnet.com/deals/best-prime-day-ssd-deals-2026-06-22/",
-        "description": "From budget picks to blazing-fast upgrades, here's every Prime Day SSD deal worth your attention.",
-        "published": "12:28 PM UTC",
+        "title": "Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech",
+        "source": "Yahoo Entertainment",
+        "url": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-officially-live-shop-the-best-tech-sales-from-apple-sony-bose-anker-and-others-for-up-to-54-off-right-now-184252541.html",
+        "description": "Prime Day deals have discounted a bunch of our favorite tech from headphones to TVs to iPhone accessories and more.",
+        "published": "2:30 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Sounds Like a Steal: 40+ Apple, Sony and Bose Deals Are Live With Prime Day Starting Tomorrow - CNET",
+        "title": "Prime Day Tablet Deals Are Live: 25+ Offers to Grab Right Now - CNET",
         "source": "CNET",
-        "url": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-22/",
-        "description": "Whether you want the best of the best or a budget pair, these are our favorite deals.",
-        "published": "12:21 PM UTC",
+        "url": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-23/",
+        "description": "We're spotting massive discounts on iPads, Samsung Galaxy Tabs and more.",
+        "published": "2:08 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Review: Devil May Cry 5 Devil Hunter Edition (Switch 2) - Not Definitive, But Another Great Capcom Port - Nintendo Life",
+        "title": "8BitDo Celebrates N64 In Style With New Controller And Keyboard - Nintendo Life",
         "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/devil-may-cry-5-devil-hunter-edition",
-        "description": "No deal breaker",
-        "published": "12:00 PM UTC",
+        "url": "https://www.nintendolife.com/news/2026/06/8bitdo-celebrates-n64-in-style-with-new-controller-and-keyboard",
+        "description": "Holy moly",
+        "published": "1:30 PM UTC",
         "category": "Technology"
+      },
+      {
+        "title": "Supreme Court rules against Rastafarian man over religious rights claim against prison officials - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-rastafarian-man-religious-rights-claim-prison-offi-rcna252594",
+        "description": "The Supreme Court ruled in the case of a devout Rastafarian who sought damages after Louisiana prison officials cut his dreadlocks in violation of his religious beliefs.",
+        "published": "2:14 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Iran’s President Pezeshkian lands in Pakistan for talks after US deal - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us",
+        "description": "Pakistan hosts Iranian President Masoud Pezeshkian after mediating the breakthrough US-Iran negotiations in Switzerland.",
+        "published": "1:39 PM UTC",
+        "category": "General"
       }
     ]
   },
@@ -232,10 +240,111 @@
       }
     ]
   },
-  "pl_content": {},
+  "pl_content": {
+    "transfer_news": [
+      {
+        "headline": "Arsenal Tracking Bundesliga Striker as Backup to Jesus",
+        "summary": "Arsenal's recruitment team has been linked with a move for a prolific Bundesliga forward as Mikel Arteta seeks depth in the striking position following injury concerns around Gabriel Jesus. A summer approach is considered likely if the Gunners qualify for Champions League football.",
+        "clubs": [
+          "Arsenal",
+          "Bayer Leverkusen"
+        ]
+      },
+      {
+        "headline": "Chelsea in Advanced Talks for Midfield Enforcer to Shore Up Defensive Line",
+        "summary": "Chelsea are reportedly in advanced discussions to sign a combative central midfielder before the end of the season, with Enzo Maresca keen to add physicality and ball-winning ability to a squad that has struggled for consistency in the middle third. A loan-to-buy structure is said to be under negotiation.",
+        "clubs": [
+          "Chelsea",
+          "Atletico Madrid"
+        ]
+      }
+    ],
+    "match_preview": {
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "A fixture that never needs a storyline still carries enormous weight this season, with both sides locked in a fierce top-four battle and Liverpool nursing ambitions of a title push. City come into this contest on the back of a patchy run of form that has exposed defensive vulnerabilities Pep Guardiola has been reluctant to publicly acknowledge, while Arne Slot's Liverpool side carry momentum and a settled identity that is beginning to look ominously like prime Klopp. Whoever blinks in the press and transition phases of this game will likely lose it — the margins are razor-thin.",
+      "key_players": [
+        "Mohamed Salah",
+        "Erling Haaland",
+        "Alexis Mac Allister"
+      ]
+    },
+    "injury_news": [
+      {
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Long-term absence — remainder of season in doubt"
+      },
+      {
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Expected to be assessed ahead of the weekend fixture"
+      }
+    ]
+  },
   "ai": {
-    "error": true,
-    "message": "Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CcLLi94pHTghjDcb53G28'}",
-    "market_sentiment": null
+    "cfa_frm": {
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure & Interest Rate Models",
+      "question": "An analyst is using the Cox-Ingersoll-Ross (CIR) model to value a bond. Which of the following statements best describes a key advantage of the CIR model over the Vasicek model?",
+      "options": {
+        "A": "The CIR model allows for mean reversion of interest rates, whereas the Vasicek model does not.",
+        "B": "The CIR model prevents nominal interest rates from becoming negative by making volatility proportional to the square root of the rate level.",
+        "C": "The CIR model produces a flat term structure under all parameter assumptions, simplifying calibration.",
+        "D": "The CIR model uses risk-neutral pricing exclusively, eliminating the need for real-world probability measures."
+      },
+      "correct": "B",
+      "explanation": "Both the Vasicek and CIR models incorporate mean reversion, so option A is incorrect. The defining advantage of CIR is that its volatility term is multiplied by the square root of the current rate level (√r), which ensures that as rates approach zero, volatility also approaches zero, preventing negative nominal rates. The Vasicek model's constant volatility allows rates to go negative, which is economically undesirable in standard contexts. Options C and D mischaracterize both models entirely."
+    },
+    "finance_topic": {
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why hedges rarely provide perfect protection and how residual risk can surprise even sophisticated investors.",
+      "paragraphs": [
+        "Basis risk refers to the risk that the value of a hedging instrument does not move in perfect lockstep with the underlying exposure being hedged. It arises whenever the asset being hedged and the hedging instrument differ in maturity, credit quality, geography, or liquidity. Even a well-constructed hedge carries basis risk, and in stress scenarios, this residual risk can become the dominant source of loss rather than a minor accounting footnote.",
+        "A classic example emerged during the 2008 financial crisis, when banks hedging mortgage-backed securities with credit default swap indices (CDX) discovered that idiosyncratic deterioration in their specific MBS tranches was far more severe than movements in the broader index. The hedge reduced mark-to-market losses on paper but left substantial unhedged exposure to the specific credits held. Similarly, airlines hedging jet fuel with crude oil futures face basis risk because jet fuel crack spreads can diverge sharply from crude prices during refinery disruptions or seasonal demand spikes.",
+        "For risk managers and portfolio constructors, basis risk demands that hedge effectiveness be tested under historical stress scenarios—not just normal market conditions. Regulatory frameworks like IFRS 9 and ASC 815 require formal hedge effectiveness testing precisely because basis risk can disqualify an instrument from hedge accounting treatment. Investors should demand transparency around hedge ratios and the specific instruments used, particularly in credit, commodity, and cross-currency strategies where basis can widen unpredictably."
+      ],
+      "key_takeaways": [
+        "Basis risk exists whenever the hedging instrument and the hedged exposure are not identical in all economically relevant dimensions.",
+        "Stress periods tend to widen basis dramatically, often at the worst possible time for the hedger.",
+        "Effective risk management requires ongoing monitoring of hedge effectiveness ratios, not a one-time hedge construction decision."
+      ]
+    },
+    "japanese": {
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved up",
+      "part_of_speech": "noun",
+      "example_jp": "毎月、給料の一部を貯金しています。",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_en": "Every month, I save part of my salary.",
+      "grammar_point": "〜ています (ongoing action / habitual action)",
+      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) is used to express either an action currently in progress or a regularly repeated habit. In this sentence, 'chokin shite imasu' describes a habitual monthly routine rather than something happening at this exact moment.",
+      "memory_tip": "Think of 'cho' as 'storing' and 'kin' as 'gold (money)' — you are storing gold coins safely away. Picture a piggy bank labeled CHO-KIN stamped on its side."
+    },
+    "ai_strategy": {
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Global Banks",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several large European banks are deploying large language models and gradient-boosting ensembles to augment—and in some cases replace—portions of their traditional credit underwriting workflows. These systems ingest structured financial data alongside unstructured sources such as earnings call transcripts, regulatory filings, and news sentiment to generate probability-of-default estimates with greater granularity than legacy scorecards. Early evidence suggests these models reduce underwriting cycle times by 30–50% while improving default prediction accuracy on mid-market corporate loans. However, regulators in the EU and US are scrutinizing model explainability requirements, making interpretable ML a competitive differentiator rather than a nice-to-have.",
+      "concepts": [
+        {
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning method that builds many simple decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions on tabular financial data like balance sheet ratios and payment histories."
+        },
+        {
+          "term": "Explainable AI (XAI) / SHAP Values",
+          "definition": "Techniques that decompose a model's output to show how much each input variable contributed to a specific prediction — critical in regulated finance where lenders must justify credit decisions to borrowers and regulators."
+        },
+        {
+          "term": "Alternative Data Ingestion",
+          "definition": "The process of feeding non-traditional data sources — satellite imagery, web scraping, social sentiment, supply chain signals — into financial models to generate signals that fundamental analysts would miss or receive too slowly."
+        }
+      ],
+      "career_insight": "Credit analysts and risk officers who can bridge quantitative model development with regulatory interpretation and business communication are becoming the most sought-after profiles at banks and fintechs alike. The pure 'black-box builder' is increasingly commoditized; the differentiated professional understands model limitations, can defend assumptions to a regulator, and translates outputs into actionable credit decisions. Building fluency in Python-based ML libraries alongside a deep understanding of Basel IV model validation requirements is now a meaningful career accelerant."
+    },
+    "error": false,
+    "market_sentiment": "Global risk assets are navigating a delicate macro crossroads this week, with equity markets holding near recent highs even as Treasury yields creep higher on resilient US labor data that continues to push back Fed rate-cut expectations into late 2025. The USD is bid across the board, pressuring EM currencies and commodities, while credit spreads remain historically tight — a divergence from rates volatility that strategists are flagging as unsustainable. Eyes are on this week's Core PCE print and Fedspeak for any recalibration of the 'higher-for-longer' narrative that has dominated positioning since the March FOMC meeting."
   }
 }
