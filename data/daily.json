@@ -1,37 +1,37 @@
 {
-  "generated_at": "1:59 PM UTC",
-  "date": "Thursday, June 25, 2026",
+  "generated_at": "1:58 PM UTC",
+  "date": "Friday, June 26, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 77,
-    "feels_like_f": 77,
-    "high_f": 81,
-    "low_f": 74,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 57,
-    "wind_mph": 2,
+    "temp_f": 78,
+    "feels_like_f": 78,
+    "high_f": 78,
+    "low_f": 78,
+    "description": "Light Rain",
+    "icon": "🌧️",
+    "humidity": 65,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Fri",
+        "day": "Sat",
         "icon": "⛅",
-        "high": 72,
-        "low": 72,
+        "high": 71,
+        "low": 71,
         "description": "Scattered Clouds"
       },
       {
-        "day": "Sat",
+        "day": "Sun",
         "icon": "☁️",
-        "high": 74,
-        "low": 74,
+        "high": 73,
+        "low": 73,
         "description": "Broken Clouds"
       },
       {
-        "day": "Sun",
+        "day": "Mon",
         "icon": "⛅",
-        "high": 73,
-        "low": 73,
+        "high": 74,
+        "low": 74,
         "description": "Scattered Clouds"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 730.32,
-        "change": -2.92,
-        "change_pct": -0.4,
+        "price": 730.72,
+        "change": -3.58,
+        "change_pct": -0.49,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 278.86,
-        "change": -14.22,
-        "change_pct": -4.85,
-        "up": false,
+        "price": 276.46,
+        "change": 1.31,
+        "change_pct": 0.48,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 192.93,
-        "change": -6.07,
-        "change_pct": -3.05,
+        "price": 193.91,
+        "change": -1.83,
+        "change_pct": -0.93,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 371.77,
-        "change": -3.76,
-        "change_pct": -1.0,
+        "price": 373.94,
+        "change": -1.18,
+        "change_pct": -0.31,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 58170.54,
-        "change": -3161.88,
-        "change_pct": -5.16,
-        "up": false,
+        "price": 60077.91,
+        "change": 1726.53,
+        "change_pct": 2.96,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1535.55,
-        "change": -110.32,
-        "change_pct": -6.7,
-        "up": false,
+        "price": 1567.13,
+        "change": 21.92,
+        "change_pct": 1.42,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,52 +111,68 @@
     "error": false,
     "articles": [
       {
-        "title": "We checked thousands of Amazon Prime Day deals — here’s 207+ worth buying - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-06-24-rcna351521",
-        "description": "Shop Amazon Prime Day 2026 deals vetted by NBC Select editors, including Oura, Medicube, Samsonite and more. Each pick is 20% off or more and at its lowest price in at least three months.",
-        "published": "12:30 PM UTC",
+        "title": "Nasdaq futures soar 2% after Micron's strong earnings, in-line inflation data: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html",
+        "description": "U.S. stock futures rose on Thursday, boosted by a blowout Micron Technology earnings report, as traders digested the release of a key inflation reading for May.",
+        "published": "12:41 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-eye-rebound-from-tech-rout-with-micron-in-focus-230105138.html",
-        "description": "Investors are braced for Micron earnings for clues to whether AI optimism has overrun.",
-        "published": "10:56 AM UTC",
+        "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
+        "description": "",
+        "published": "12:22 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Micron to report third quarter earnings amid sky-high demand from data centers - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/technology/article/micron-to-report-third-quarter-earnings-amid-sky-high-demand-from-data-centers-113000152.html",
-        "description": "Micron will announce its Q3 earnings after the bell on Wednesday.",
-        "published": "9:10 AM UTC",
+        "title": "Darden Restaurants earnings beat estimates but Olive Garden growth weakens - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/25/darden-restaurants-dri-q4-2026-earnings.html",
+        "description": "Same-store sales growth at Darden's fine-dining restaurants and Olive Garden fell short of expectations.",
+        "published": "11:14 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Prime Day deals are live: Shop today’s best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech",
-        "source": "Yahoo Entertainment",
-        "url": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-live-shop-todays-best-tech-sales-from-apple-sony-bose-anker-and-others-184252541.html",
-        "description": "Prime Day deals have discounted a bunch of our favorite tech from headphones to TVs to iPhone accessories and more.",
-        "published": "12:30 PM UTC",
+        "title": "Prime Day 2026 LIVE: our home cinema experts' picks of the best OLED TV, Dolby Atmos soundbar, projector deals and more - What Hi-Fi?",
+        "source": "What Hi-Fi? US",
+        "url": "https://www.whathifi.com/tv-home-cinema/live/prime-day-2026-live-our-home-cinema-experts-picks-of-the-best-oled-tv-dolby-atmos-soundbar-projector-deals-and-more",
+        "description": "We’re recommending the top savings, on and off Amazon, in real time",
+        "published": "7:09 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Introducing Grand Seiko Updates The Core Evolution 9 Collection With Tapered Bracelets And Micro-Adjustment Clasps (Live Pics) - Hodinkee",
-        "source": "HODINKEE",
-        "url": "https://www.hodinkee.com/articles/grand-seiko-updates-the-core-evolution-9-collection-with-tapered-bracelets-and-micro-adjustment-clas",
-        "description": "A whopping nine new references with both major and subtle tweaks.",
-        "published": "7:30 AM UTC",
+        "title": "Samsung confirms the existence of the Galaxy S27 Pro - SamMobile",
+        "source": "SamMobile",
+        "url": "https://www.sammobile.com/news/samsung-confirms-the-existence-of-the-galaxy-s27-pro/",
+        "description": "It has long been rumored that Samsung could launch at least four Galaxy S27 series phones next year. While three of them will succeed the Galaxy S26, Galaxy S26+, and Galaxy S26 Ultra, the fourth coul",
+        "published": "6:16 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Monster Fantasy announced for PC – action RPG with cozy life simulation elements - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/06/monster-fantasy-announced-for-pc-action-rpg-with-cozy-life-simulation-elements",
-        "description": "Chengdu-based developer Jotoyo has announced Monster Fantasy, an action RPG with cozy life simulation elements coming to PC via Steam. A release date was not announced. A Kickstarter campaign will …",
-        "published": "5:22 AM UTC",
+        "title": "Porsche Unveils 911 GT4 R as 718 Cayman Replacement - Sportscar365",
+        "source": "Sportscar365",
+        "url": "https://sportscar365.com/imsa/impc/porsche-unveils-911-gt4-r-as-718-cayman-replacement/",
+        "description": "Porsche 911 Cup-based model to compete in GT4 ranks beginning next year...",
+        "published": "6:14 AM UTC",
         "category": "Technology"
+      },
+      {
+        "title": "College basketball coaches on the top 2026 NBA draft picks - ESPN",
+        "source": "ESPN",
+        "url": "https://www.espn.com/mens-college-basketball/story/_/id/49167037/coaches-confidential-2026-nba-draft-picks-dybantsa-peterson-point-guards-sleepers",
+        "description": "Here's what coaches who have schemed against the top incoming rookies think about their future upside.",
+        "published": "12:15 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Column | At this point, the Reflecting Pool deserves an Emmy - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/style/2026/06/25/this-point-reflecting-pool-deserves-an-emmy/",
+        "description": "The scene unfolding on the National Mall is the must-watch show of the summer. It’s a drama. A farce. A whodunit. A murder mystery.",
+        "published": "11:32 AM UTC",
+        "category": "General"
       }
     ]
   },
@@ -235,74 +251,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Open Talks for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Manchester United's new sporting structure is reportedly exploring a summer move for Viktor Gyökeres, with Sporting CP valuing the prolific Swedish striker at upwards of £85 million amid strong interest from multiple top European clubs.",
+        "headline": "Manchester United Revive Interest in Bologna's Joshua Zirkzee Amid Striker Search",
+        "summary": "Manchester United are reported to have held preliminary discussions over a summer move for Dutch striker Joshua Zirkzee, with Bologna open to selling if their €40m release clause is met. The 23-year-old's impressive Serie A form has attracted interest from multiple top-six Premier League clubs.",
         "clubs": [
           "Manchester United",
-          "Sporting CP"
+          "Bologna"
         ]
       },
       {
-        "headline": "Chelsea Tracking Palmeiras Winger Estêvão Ahead of Confirmed July Arrival",
-        "summary": "Chelsea are said to be finalizing preparation for 17-year-old Brazilian wonderkid Estêvão Willian's confirmed July 2025 arrival, with the club accelerating behind-the-scenes integration planning as excitement builds around the highly-rated winger.",
+        "headline": "Arsenal Target Riccardo Calafiori as Defensive Reinforcement Priority",
+        "summary": "Arsenal have identified Bologna's versatile defender Riccardo Calafiori as a top summer target, with Mikel Arteta keen to add a left-footed ball-playing centre-back ahead of a Champions League campaign. Negotiations are understood to be at an early stage with Bologna holding firm on their valuation.",
         "clubs": [
-          "Chelsea",
-          "Palmeiras"
+          "Arsenal",
+          "Bologna"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Emirates hosts arguably the match of the Premier League season as Arsenal and Manchester City clash in a title six-pointer that could reshape the top of the table. Arsenal come into this fixture in superb domestic form, with Mikel Arteta's side conceding just once in their last five league outings, while City have shown signs of their characteristic late-season resurgence under Pep Guardiola. The tactical battle between Arsenal's high press and City's positional rotation is expected to be intense, and with both teams within touching distance of the summit, dropped points here could prove decisive come May.",
+      "home": "Manchester City",
+      "away": "Arsenal",
+      "date": "Sunday, 3:00 PM BST",
+      "preview": "This fixture carries title-race weight as Arsenal travel to the Etihad looking to close the gap on City at the top of the table — a defeat would leave Arteta's side with a mountain to climb in the run-in. City enter on a five-game winning streak with Haaland back to clinical form, but Arsenal's defensive organization under pressure has been their defining strength this season. The tactical battle between Guardiola's positional press and Arsenal's rapid transitions through Saka and Martinelli promises to be the Premier League's match of the season.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Bukayo Saka",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Long-term — not expected to feature before end of season"
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend fixture; hamstring tightness reported in training"
       },
       {
-        "player": "Gabriel Jesus",
+        "player": "Ben White",
         "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of weekend fixture, return uncertain"
+        "status": "Recovering",
+        "return": "Expected to return within 10–14 days; minor knee complaint managed with rest"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio using the Merton model. Under this framework, a firm defaults when which of the following conditions occurs at debt maturity?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced at $1,074.39 to yield 5%. If the yield immediately rises to 6%, the bond's price will fall to par ($1,000). Which of the following best explains why the price decline is larger in percentage terms than the price increase when yields fall by an equal amount?",
       "options": {
-        "A": "The firm's asset volatility exceeds its liability volatility",
-        "B": "The market value of the firm's assets falls below the face value of its debt",
-        "C": "The firm's credit spread widens beyond the risk-free rate",
-        "D": "The probability of default exceeds the loss given default"
+        "A": "The bond exhibits negative convexity, meaning price increases are always smaller than price decreases for equal yield changes.",
+        "B": "Positive convexity causes price increases to exceed price decreases for equal yield movements, so a yield rise causes a proportionally smaller loss than a yield drop causes a gain — the question's premise is incorrect.",
+        "C": "Duration underestimates the price increase when yields fall and overestimates the price decrease when yields rise, due to positive convexity — meaning the gain from falling yields exceeds the loss from rising yields by the same magnitude.",
+        "D": "Modified duration is symmetrical, so the price impact of equal yield changes in both directions is always identical."
       },
-      "correct": "B",
-      "explanation": "In the Merton structural model, equity is modeled as a call option on the firm's assets with a strike price equal to the face value of debt. Default occurs at maturity when the asset value drops below the debt's face value, leaving equity holders with nothing. This framework links asset volatility and leverage directly to default probability, making it a structural — rather than reduced-form — approach to credit risk. Options A, C, and D confuse related but distinct credit risk concepts."
+      "correct": "C",
+      "explanation": "For a standard option-free bond, positive convexity means the price-yield relationship is curved (convex to the origin). When yields fall, the actual price increase exceeds what duration alone predicts; when yields rise, the actual price decrease is less than what duration predicts. Therefore, for equal-sized yield changes, the gain from a yield decline always exceeds the loss from a yield increase of the same magnitude — making option C correct. The question's premise is actually reversed: the price gain from a yield decline is larger, not smaller, than the price loss from an equal yield increase. Positive convexity is a desirable property for bond investors."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why imperfect hedges can create their own source of financial risk.",
+      "title": "The Term Premium and Yield Curve Shape",
+      "subtitle": "Understanding why long-term bond yields embed a risk premium beyond pure rate expectations.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged does not perfectly match the hedging instrument, causing the hedge to be imperfect. Basis is formally defined as the difference between the spot price of the asset to be hedged and the futures price of the contract used to hedge it. Even when a hedger selects the most closely correlated futures contract available, changes in this difference over time introduce uncertainty into what should be a risk-mitigating strategy.",
-        "A classic real-world example occurred in 2012 during JPMorgan's 'London Whale' episode, where traders used CDX index derivatives to hedge a bespoke corporate credit portfolio. Because the index and the underlying portfolio did not move in lockstep, the hedge not only failed to offset losses but amplified them — a direct consequence of unmanaged basis risk. Similarly, an airline hedging jet fuel costs with crude oil futures faces basis risk because jet fuel and crude prices, while correlated, diverge based on refining margins and regional supply dynamics.",
-        "For risk managers and portfolio hedgers, basis risk is an unavoidable cost of using standardized, liquid instruments to hedge idiosyncratic exposures. Minimizing basis risk requires careful instrument selection, dynamic hedge ratio adjustment using techniques like minimum variance hedging, and ongoing monitoring of correlation stability between the asset and the hedge. Crucially, basis risk is itself a risk that must be quantified and disclosed — regulators and auditors increasingly expect firms to model it explicitly rather than treat hedges as perfectly offsetting."
+        "The term premium is the extra compensation investors demand for holding long-duration bonds rather than rolling over a series of short-term instruments. Under the pure expectations theory, a 10-year yield would simply equal the average of expected future short-term rates. In reality, investors face duration risk, inflation uncertainty, and liquidity constraints — all of which command additional yield. The term premium is the portion of long-term yield that cannot be explained by rate expectations alone, and it can be positive, negative, or zero depending on market conditions.",
+        "In the post-2008 era of quantitative easing, central bank asset purchases compressed the term premium to historically low — and sometimes negative — levels in the US, Germany, and Japan. The Federal Reserve Bank of New York's Adrian-Crump-Moench (ACM) model estimated the 10-year US term premium turned negative in 2016 and remained suppressed through 2021. As QE unwind accelerated in 2022–2023, the term premium began normalizing, contributing meaningfully to the dramatic sell-off in long-duration Treasuries. By late 2023, ACM estimates placed the 10-year term premium back above 50 basis points for the first time in years.",
+        "For fixed income investors and risk managers, monitoring the term premium is critical because it separates two fundamentally different drivers of yield movements. A rise in yields driven by higher rate expectations implies the economy is strengthening, which may benefit equities. A rise driven by an expanding term premium — often tied to fiscal concerns, supply dynamics, or reduced Fed demand — can be more disruptive, compressing both bond and equity valuations simultaneously. Portfolio managers may use interest rate swaps or duration overlays to isolate or hedge term premium exposure independently of their rate views."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk from a mismatch between a hedged asset and its hedging instrument, and it can never be fully eliminated with standardized contracts.",
-        "The minimum variance hedge ratio (rho × sigma_S / sigma_F) helps reduce but not eliminate basis risk by calibrating the hedge to historical correlation.",
-        "Basis risk must be actively monitored — correlations that held during normal markets may break down during stress periods, turning a hedge into a source of loss."
+        "The term premium is compensation for duration risk and inflation uncertainty, not just expected short-rate levels.",
+        "QE suppressed the term premium for over a decade; its normalization post-2022 was a major driver of long-bond losses.",
+        "Rising yields from expanding term premiums are typically more damaging to multi-asset portfolios than expectation-driven yield rises."
       ]
     },
     "japanese": {
@@ -310,33 +326,33 @@
       "reading": "yosan",
       "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "来月の予算をもう決めましたか。",
-      "example_romaji": "Raigetsu no yosan wo mou kimemashita ka.",
-      "example_en": "Have you already decided next month's budget?",
-      "grammar_point": "〜をもう〜ましたか (Have you already done ~?)",
-      "grammar_explanation": "The pattern 'もう + verb in past polite form + か' is used to ask if someone has already completed an action. It is very common in everyday conversation and business settings to check on progress or completion.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — your budget is literally the sum of money that is yours to spend. Picture yourself counting coins labeled 'yo-san.'"
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something was completed, often with a nuance of regret or that it happened unintentionally. It combines the te-form of a verb with しまう (shimau), which signals finality or an undesirable outcome.",
+      "memory_tip": "Think of 予算 as 'yo, SAN' — you're calling out to someone saying 'yo, SAN (three) dollars is all I have left!' — you're working with a tight budget."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Wall Street",
-      "summary": "Major financial institutions including Goldman Sachs, JPMorgan, and several large European banks are deploying large language models and gradient boosting systems to augment — and in some cases replace — traditional credit underwriting workflows. These systems ingest unstructured data such as earnings call transcripts, news sentiment, and supply chain signals alongside traditional financial ratios to generate dynamic credit scores that update in near real-time. The shift is compressing underwriting timelines from days to hours for mid-market corporate lending, while also surfacing non-obvious default risk signals that human analysts routinely miss. Regulators in the US and EU are scrambling to develop interpretability standards, as black-box AI credit decisions create fair lending and model risk compliance challenges.",
+      "headline": "AI Agents Are Quietly Transforming Analyst Workflows Across Investment Banks",
+      "summary": "Major investment banks including Goldman Sachs, JPMorgan, and Morgan Stanley have deployed internal large language model platforms that allow analysts to automate earnings summarization, covenant analysis, and first-draft memo generation. These agentic systems go beyond simple Q&A — they can execute multi-step research workflows, pull from proprietary data warehouses, and flag regulatory red flags in credit agreements within minutes. The productivity gains are measurable: early pilots at several bulge-bracket firms report 30–40% reductions in time spent on routine document processing tasks. The implication is not mass layoffs but a sharp repricing of what junior analyst roles are expected to produce in terms of volume and quality.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and non-linear relationships far better than logistic regression."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as pulling data, running calculations, and drafting reports — without requiring a human to direct every individual step."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — satellite imagery, web traffic, job posting trends, social sentiment — used by AI models to generate credit or equity signals that are uncorrelated with conventional financial statement inputs."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model queries a private or proprietary database in real time before generating a response, allowing it to answer questions grounded in a firm's own documents, filings, or internal research rather than relying solely on its training data."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) assigns each input feature a contribution score for a given prediction, allowing risk managers and regulators to understand why an AI model made a specific credit or trading decision — critical for SR 11-7 model risk compliance."
+          "term": "Fine-tuning",
+          "definition": "The process of further training a pre-built AI model on domain-specific data — such as credit memos, earnings calls, or regulatory filings — so it produces outputs that match the tone, terminology, and analytical standards of a specific financial context."
         }
       ],
-      "career_insight": "Risk managers and credit analysts who can bridge quantitative AI methods with regulatory and business judgment will command significant premium in the job market over the next five years — pure quants without domain knowledge and pure fundamentalists without data literacy will both find themselves squeezed. Building fluency in Python, understanding model validation frameworks (SR 11-7, SS1/23), and developing the ability to challenge AI outputs with sound financial reasoning is the skill trifecta that finance professionals should prioritize now."
+      "career_insight": "Finance professionals who understand how to design prompts, evaluate AI outputs critically, and integrate agentic tools into research workflows will command a significant edge over peers who treat AI as a novelty. The highest-value skill is not coding — it is knowing enough about AI capabilities and limitations to act as an intelligent supervisor of these systems, catching hallucinations and calibrating confidence. Risk managers in particular should upskill in model governance frameworks as regulators increasingly expect documented oversight of AI-assisted decision-making."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment remains cautiously constructive this morning as markets digest a resilient US labor market print against a backdrop of still-elevated long-end Treasury yields, with the 10-year hovering near 4.55% and continuing to pressure rate-sensitive equities and real estate. The dollar is firm, keeping EM currency pairs under pressure particularly in LATAM, while Brent crude edges higher on tightening OPEC+ supply signals and geopolitical risk premium in the Middle East corridor. Equity vol is subdued — VIX sub-14 — but credit spreads in HY have widened modestly, suggesting the options market may be underpricing tail risk relative to the credit market's more cautious read on the cycle."
+    "market_sentiment": "Global risk appetite remains cautiously constructive as markets digest a data-dependent Fed posture, with the June dot plot reinforcing a 'higher for longer' bias that continues to anchor the short end of the Treasury curve near 5.25–5.50%. Macro attention is shifting toward fiscal sustainability concerns in developed markets, with US term premium creep and elevated gilt yields in the UK reflecting structural supply-demand imbalances rather than near-term growth worries. Equities remain resilient on AI-driven earnings optimism in mega-cap tech, though breadth is narrowing — a classic late-cycle dynamic that warrants selective positioning and attention to credit spread behavior as a leading stress indicator."
   }
 }
