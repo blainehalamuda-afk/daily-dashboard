@@ -1,25 +1,18 @@
 {
-  "generated_at": "1:58 PM UTC",
-  "date": "Friday, June 26, 2026",
+  "generated_at": "1:05 PM UTC",
+  "date": "Saturday, June 27, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 78,
+    "temp_f": 76,
     "feels_like_f": 78,
     "high_f": 78,
-    "low_f": 78,
-    "description": "Light Rain",
-    "icon": "🌧️",
-    "humidity": 65,
-    "wind_mph": 5,
+    "low_f": 75,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 89,
+    "wind_mph": 1,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "⛅",
-        "high": 71,
-        "low": 71,
-        "description": "Scattered Clouds"
-      },
       {
         "day": "Sun",
         "icon": "☁️",
@@ -29,10 +22,17 @@
       },
       {
         "day": "Mon",
-        "icon": "⛅",
-        "high": 74,
-        "low": 74,
-        "description": "Scattered Clouds"
+        "icon": "☀️",
+        "high": 76,
+        "low": 76,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "high": 78,
+        "low": 78,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 730.72,
-        "change": -3.58,
-        "change_pct": -0.49,
+        "price": 728.99,
+        "change": -5.31,
+        "change_pct": -0.72,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 276.46,
-        "change": 1.31,
-        "change_pct": 0.48,
+        "price": 283.78,
+        "change": 8.63,
+        "change_pct": 3.14,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 193.91,
-        "change": -1.83,
-        "change_pct": -0.93,
+        "price": 192.53,
+        "change": -3.21,
+        "change_pct": -1.64,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 373.94,
-        "change": -1.18,
-        "change_pct": -0.31,
-        "up": false,
+        "price": 379.71,
+        "change": 4.59,
+        "change_pct": 1.22,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 60077.91,
-        "change": 1726.53,
-        "change_pct": 2.96,
+        "price": 60443.28,
+        "change": 1250.93,
+        "change_pct": 2.11,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1567.13,
-        "change": 21.92,
-        "change_pct": 1.42,
+        "price": 1587.93,
+        "change": 52.93,
+        "change_pct": 3.45,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,51 @@
     "error": false,
     "articles": [
       {
-        "title": "Nasdaq futures soar 2% after Micron's strong earnings, in-line inflation data: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html",
-        "description": "U.S. stock futures rose on Thursday, boosted by a blowout Micron Technology earnings report, as traders digested the release of a key inflation reading for May.",
-        "published": "12:41 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
+        "title": "Stock Market Today: Nasdaq Futures Fall as Tech Selloff Deepens — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-26-2026",
         "description": "",
-        "published": "12:22 PM UTC",
+        "published": "11:38 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Darden Restaurants earnings beat estimates but Olive Garden growth weakens - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/25/darden-restaurants-dri-q4-2026-earnings.html",
-        "description": "Same-store sales growth at Darden's fine-dining restaurants and Olive Garden fell short of expectations.",
-        "published": "11:14 AM UTC",
+        "title": "Prime Day deals end tonight — I hand-picked 361+ of the best ones to shop before they’re gone - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-rcna351886",
+        "description": "It’s the final day of Amazon Prime Day 2026, and we’re updating our list of editor-approved deals live. Shop tech, beauty, kitchen and more before the sale ends.",
+        "published": "10:32 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Prime Day 2026 LIVE: our home cinema experts' picks of the best OLED TV, Dolby Atmos soundbar, projector deals and more - What Hi-Fi?",
-        "source": "What Hi-Fi? US",
-        "url": "https://www.whathifi.com/tv-home-cinema/live/prime-day-2026-live-our-home-cinema-experts-picks-of-the-best-oled-tv-dolby-atmos-soundbar-projector-deals-and-more",
-        "description": "We’re recommending the top savings, on and off Amazon, in real time",
-        "published": "7:09 AM UTC",
+        "title": "Best 150 Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
+        "source": "CNET",
+        "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-26/",
+        "description": "Don't let the price tags fool you. These are some of the best value deals you can grab on the last day of the sale.",
+        "published": "9:26 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Samsung confirms the existence of the Galaxy S27 Pro - SamMobile",
-        "source": "SamMobile",
-        "url": "https://www.sammobile.com/news/samsung-confirms-the-existence-of-the-galaxy-s27-pro/",
-        "description": "It has long been rumored that Samsung could launch at least four Galaxy S27 series phones next year. While three of them will succeed the Galaxy S26, Galaxy S26+, and Galaxy S26 Ultra, the fourth coul",
-        "published": "6:16 AM UTC",
+        "title": "Prime Day Smartphone Deals Are Live: Save Up to 44% on Samsung Foldables, Google Pixels, Motorolas, and More - PCMag",
+        "source": "PCMag.com",
+        "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026-day-3",
+        "description": "These are the Amazon Prime Day smartphone deals actually worth buying, featuring editor-approved picks from Samsung, Google, Motorola, and more.",
+        "published": "8:37 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Porsche Unveils 911 GT4 R as 718 Cayman Replacement - Sportscar365",
-        "source": "Sportscar365",
-        "url": "https://sportscar365.com/imsa/impc/porsche-unveils-911-gt4-r-as-718-cayman-replacement/",
-        "description": "Porsche 911 Cup-based model to compete in GT4 ranks beginning next year...",
-        "published": "6:14 AM UTC",
+        "title": "Ozone Ascent: Mega Rayquaza Timed Research - Pokémon GO Hub",
+        "source": "Pokemon GO Hub",
+        "url": "https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/",
+        "description": "From Saturday, July 25, at 10:00 a.m. to Sunday, July 26, 2026, at 8:00 p.m. local time free Timed Research will be available to all Trainers that rewards a Meteorite that enables you to Mega Evolve R",
+        "published": "7:46 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "College basketball coaches on the top 2026 NBA draft picks - ESPN",
-        "source": "ESPN",
-        "url": "https://www.espn.com/mens-college-basketball/story/_/id/49167037/coaches-confidential-2026-nba-draft-picks-dybantsa-peterson-point-guards-sleepers",
-        "description": "Here's what coaches who have schemed against the top incoming rookies think about their future upside.",
-        "published": "12:15 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Column | At this point, the Reflecting Pool deserves an Emmy - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/style/2026/06/25/this-point-reflecting-pool-deserves-an-emmy/",
-        "description": "The scene unfolding on the National Mall is the must-watch show of the summer. It’s a drama. A farce. A whodunit. A murder mystery.",
-        "published": "11:32 AM UTC",
+        "title": "What we really need is for Jaylen Brown to be like Manny Ramirez and brush off nearly being traded, and other thoughts - The Boston Globe",
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/06/26/sports/jaylen-brown-manny-ramirez-nomar-garciaparra/",
+        "description": "Does Brad Stevens now have to make a deal because his star is incapable of recovering from the notion that the team thought it could improve by trading him?",
+        "published": "11:55 AM UTC",
         "category": "General"
       }
     ]
@@ -251,108 +235,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Revive Interest in Bologna's Joshua Zirkzee Amid Striker Search",
-        "summary": "Manchester United are reported to have held preliminary discussions over a summer move for Dutch striker Joshua Zirkzee, with Bologna open to selling if their €40m release clause is met. The 23-year-old's impressive Serie A form has attracted interest from multiple top-six Premier League clubs.",
+        "headline": "Manchester United Eye Bundesliga Midfielder as Ten Hag Replacement Era Begins",
+        "summary": "United's new football leadership structure is reportedly tracking a proven Bundesliga ball-winner to address the chronic midfield press-resistance issues that plagued the club last season. A summer move is considered likely if Champions League qualification is secured.",
         "clubs": [
           "Manchester United",
-          "Bologna"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Arsenal Target Riccardo Calafiori as Defensive Reinforcement Priority",
-        "summary": "Arsenal have identified Bologna's versatile defender Riccardo Calafiori as a top summer target, with Mikel Arteta keen to add a left-footed ball-playing centre-back ahead of a Champions League campaign. Negotiations are understood to be at an early stage with Bologna holding firm on their valuation.",
+        "headline": "Chelsea Offered Chance to Sign Osimhen on Permanent Deal as Napoli Rebuild Continues",
+        "summary": "Napoli are willing to negotiate a permanent transfer for Victor Osimhen following his loan spell, with Chelsea leading the race amid interest from PSG. A fee in the region of £65–70 million is expected to be the starting point for negotiations.",
         "clubs": [
-          "Arsenal",
-          "Bologna"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Arsenal",
-      "date": "Sunday, 3:00 PM BST",
-      "preview": "This fixture carries title-race weight as Arsenal travel to the Etihad looking to close the gap on City at the top of the table — a defeat would leave Arteta's side with a mountain to climb in the run-in. City enter on a five-game winning streak with Haaland back to clinical form, but Arsenal's defensive organization under pressure has been their defining strength this season. The tactical battle between Guardiola's positional press and Arsenal's rapid transitions through Saka and Martinelli promises to be the Premier League's match of the season.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 16:30 GMT",
+      "preview": "This is the defining fixture of the Premier League weekend — a potential title-swing six-pointer between Arsenal and a City side that has shown signs of vulnerability in central midfield following injuries. Arsenal come in on a seven-match unbeaten run with Saka returning to full fitness, while City will rely on Haaland's relentless movement to stretch Saliba and White. The tactical battle between Arteta's high press and Guardiola's positional build-out will likely determine the outcome in a match where margins will be razor thin.",
       "key_players": [
-        "Erling Haaland",
         "Bukayo Saka",
-        "Rodri"
+        "Erling Haaland",
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend fixture; hamstring tightness reported in training"
+        "status": "Recovering",
+        "return": "Not expected before late April at the earliest"
       },
       {
-        "player": "Ben White",
-        "team": "Arsenal",
-        "status": "Recovering",
-        "return": "Expected to return within 10–14 days; minor knee complaint managed with rest"
+        "player": "Destiny Udogie",
+        "team": "Tottenham Hotspur",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend fixture; 50/50 for selection"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced at $1,074.39 to yield 5%. If the yield immediately rises to 6%, the bond's price will fall to par ($1,000). Which of the following best explains why the price decline is larger in percentage terms than the price increase when yields fall by an equal amount?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Interest Rate Risk & Duration",
+      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates rise by 150 basis points, which of the following best estimates the percentage change in the bond's price?",
       "options": {
-        "A": "The bond exhibits negative convexity, meaning price increases are always smaller than price decreases for equal yield changes.",
-        "B": "Positive convexity causes price increases to exceed price decreases for equal yield movements, so a yield rise causes a proportionally smaller loss than a yield drop causes a gain — the question's premise is incorrect.",
-        "C": "Duration underestimates the price increase when yields fall and overestimates the price decrease when yields rise, due to positive convexity — meaning the gain from falling yields exceeds the loss from rising yields by the same magnitude.",
-        "D": "Modified duration is symmetrical, so the price impact of equal yield changes in both directions is always identical."
+        "A": "−10.80%",
+        "B": "−9.84%",
+        "C": "−10.80% + 0.96% = −9.84%",
+        "D": "−10.80% + 1.91% = −8.89%"
       },
       "correct": "C",
-      "explanation": "For a standard option-free bond, positive convexity means the price-yield relationship is curved (convex to the origin). When yields fall, the actual price increase exceeds what duration alone predicts; when yields rise, the actual price decrease is less than what duration predicts. Therefore, for equal-sized yield changes, the gain from a yield decline always exceeds the loss from a yield increase of the same magnitude — making option C correct. The question's premise is actually reversed: the price gain from a yield decline is larger, not smaller, than the price loss from an equal yield increase. Positive convexity is a desirable property for bond investors."
+      "explanation": "The full price change estimate using duration and convexity is: %ΔP ≈ (−Modified Duration × Δy) + (0.5 × Convexity × Δy²). Here: (−7.2 × 0.015) + (0.5 × 85 × 0.015²) = −0.1080 + 0.5 × 85 × 0.000225 = −0.1080 + 0.009563 ≈ −9.84%. Duration alone overstates the price decline because it assumes a linear price-yield relationship; convexity corrects for the curvature, always adding a positive adjustment for non-callable bonds regardless of the direction of the rate move. Option D incorrectly doubles the convexity adjustment."
     },
     "finance_topic": {
-      "title": "The Term Premium and Yield Curve Shape",
-      "subtitle": "Understanding why long-term bond yields embed a risk premium beyond pure rate expectations.",
+      "title": "Private Credit's Rise as Rate Cycle Turns",
+      "subtitle": "How the $1.7 trillion private credit market is repricing as central banks pivot, and what it means for investors.",
       "paragraphs": [
-        "The term premium is the extra compensation investors demand for holding long-duration bonds rather than rolling over a series of short-term instruments. Under the pure expectations theory, a 10-year yield would simply equal the average of expected future short-term rates. In reality, investors face duration risk, inflation uncertainty, and liquidity constraints — all of which command additional yield. The term premium is the portion of long-term yield that cannot be explained by rate expectations alone, and it can be positive, negative, or zero depending on market conditions.",
-        "In the post-2008 era of quantitative easing, central bank asset purchases compressed the term premium to historically low — and sometimes negative — levels in the US, Germany, and Japan. The Federal Reserve Bank of New York's Adrian-Crump-Moench (ACM) model estimated the 10-year US term premium turned negative in 2016 and remained suppressed through 2021. As QE unwind accelerated in 2022–2023, the term premium began normalizing, contributing meaningfully to the dramatic sell-off in long-duration Treasuries. By late 2023, ACM estimates placed the 10-year term premium back above 50 basis points for the first time in years.",
-        "For fixed income investors and risk managers, monitoring the term premium is critical because it separates two fundamentally different drivers of yield movements. A rise in yields driven by higher rate expectations implies the economy is strengthening, which may benefit equities. A rise driven by an expanding term premium — often tied to fiscal concerns, supply dynamics, or reduced Fed demand — can be more disruptive, compressing both bond and equity valuations simultaneously. Portfolio managers may use interest rate swaps or duration overlays to isolate or hedge term premium exposure independently of their rate views."
+        "Private credit refers to non-bank lending extended directly to corporations, typically through floating-rate instruments such as leveraged loans, unitranche facilities, and mezzanine debt. Unlike publicly traded bonds, these instruments are illiquid, held to maturity by institutional investors — pension funds, insurance companies, and private debt funds — who accept an illiquidity premium in exchange for higher yield. The asset class has grown from roughly $400 billion in 2012 to over $1.7 trillion globally today, becoming a structurally important part of corporate financing.",
+        "During the 2022–2023 rate hiking cycle, private credit became the dominant alternative to broadly syndicated loans, offering speed and certainty of execution that public markets could not. Borrowers paid spreads of SOFR+600bps or more, delivering net yields north of 12% to lenders at peak. Now, as the Federal Reserve and ECB enter easing cycles, the dynamics are shifting: floating-rate income is compressing, refinancing risk is rising for over-levered borrowers, and default rates in direct lending portfolios — which lagged public markets — are beginning to tick upward, particularly in the software and healthcare services sectors.",
+        "For investors and risk managers, the key implication is that vintage-year selection and manager underwriting discipline now matter far more than they did when rising rates masked covenant-lite structures. Investors should scrutinize loan-to-value ratios, EBITDA addback assumptions, and PIK (payment-in-kind) interest proportions in fund portfolios. Regulators including the SEC and FSB are also increasing scrutiny of valuation practices, since private credit NAVs are mark-to-model rather than mark-to-market — creating potential for delayed loss recognition that can mislead allocators."
       ],
       "key_takeaways": [
-        "The term premium is compensation for duration risk and inflation uncertainty, not just expected short-rate levels.",
-        "QE suppressed the term premium for over a decade; its normalization post-2022 was a major driver of long-bond losses.",
-        "Rising yields from expanding term premiums are typically more damaging to multi-asset portfolios than expectation-driven yield rises."
+        "Private credit's floating-rate structure was a tailwind in rising rate environments but becomes a headwind to borrower credit quality as rates stay elevated or decline slowly.",
+        "Manager underwriting quality and covenant discipline are now the primary differentiators, as the rising-tide effect of high base rates recedes.",
+        "Valuation opacity and mark-to-model NAVs are growing regulatory concerns — investors should demand greater transparency on realized vs. unrealized loss recognition."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something was completed, often with a nuance of regret or that it happened unintentionally. It combines the te-form of a verb with しまう (shimau), which signals finality or an undesirable outcome.",
-      "memory_tip": "Think of 予算 as 'yo, SAN' — you're calling out to someone saying 'yo, SAN (three) dollars is all I have left!' — you're working with a tight budget."
+      "grammar_explanation": "〜てしまいました expresses that an action has been completed, often with a sense of regret or finality. It is formed by attaching しまいました to the te-form of a verb — here, 使い切って (having used up completely) + しまいました conveys the speaker's mild regret.",
+      "memory_tip": "Think of 予算 as 'yo-san' — imagine you and your savings saying 'Yo, three (san) dollars left!' to remember it means budget running low."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Transforming Analyst Workflows Across Investment Banks",
-      "summary": "Major investment banks including Goldman Sachs, JPMorgan, and Morgan Stanley have deployed internal large language model platforms that allow analysts to automate earnings summarization, covenant analysis, and first-draft memo generation. These agentic systems go beyond simple Q&A — they can execute multi-step research workflows, pull from proprietary data warehouses, and flag regulatory red flags in credit agreements within minutes. The productivity gains are measurable: early pilots at several bulge-bracket firms report 30–40% reductions in time spent on routine document processing tasks. The implication is not mass layoffs but a sharp repricing of what junior analyst roles are expected to produce in terms of volume and quality.",
+      "headline": "Agentic AI Systems Are Quietly Reshaping Investment Research Workflows",
+      "summary": "A new generation of agentic AI — systems that can autonomously plan multi-step tasks, call external tools, and iterate on their own outputs — is moving from research labs into financial services workflows. Firms including Goldman Sachs, JPMorgan, and a growing cohort of hedge funds are deploying agents that can autonomously pull earnings data, run scenario analyses, draft investment memos, and flag covenant breaches in credit agreements without human prompting at each step. Unlike earlier co-pilot tools that required a human to initiate every action, these agents operate on defined objectives, raising both productivity ceilings and new questions about auditability and model governance. For finance professionals, the shift means the competitive advantage is migrating from information access to judgment — knowing how to frame the right objective, validate agent outputs, and design robust human-in-the-loop checkpoints.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as pulling data, running calculations, and drafting reports — without requiring a human to direct every individual step."
+          "definition": "An AI system that autonomously breaks down a high-level goal into sub-tasks, selects tools or data sources to complete them, and iterates without requiring human input at each step — analogous to a junior analyst who can run an entire research project end-to-end."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries a private or proprietary database in real time before generating a response, allowing it to answer questions grounded in a firm's own documents, filings, or internal research rather than relying solely on its training data."
+          "definition": "A technique where an AI model pulls relevant documents — such as SEC filings, earnings transcripts, or credit agreements — from a database at query time before generating a response, dramatically reducing hallucination and keeping outputs grounded in actual source data."
         },
         {
-          "term": "Fine-tuning",
-          "definition": "The process of further training a pre-built AI model on domain-specific data — such as credit memos, earnings calls, or regulatory filings — so it produces outputs that match the tone, terminology, and analytical standards of a specific financial context."
+          "term": "Model Governance",
+          "definition": "The framework of policies, audit trails, and validation processes ensuring AI-generated outputs in financial decisions are explainable, compliant with regulations, and subject to human review — increasingly required by the SEC, FCA, and internal risk committees."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design prompts, evaluate AI outputs critically, and integrate agentic tools into research workflows will command a significant edge over peers who treat AI as a novelty. The highest-value skill is not coding — it is knowing enough about AI capabilities and limitations to act as an intelligent supervisor of these systems, catching hallucinations and calibrating confidence. Risk managers in particular should upskill in model governance frameworks as regulators increasingly expect documented oversight of AI-assisted decision-making."
+      "career_insight": "Finance professionals who treat AI purely as a productivity shortcut are missing the deeper strategic shift: agentic tools are beginning to compress the analyst-to-output pipeline so significantly that headcount structures in research and middle-office functions will shrink. The skills that will be premium in this environment are prompt engineering for financial tasks, AI output validation and critical review, and the ability to design workflows that pair AI efficiency with human accountability — especially for decisions touching regulatory reporting or client-facing recommendations."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive as markets digest a data-dependent Fed posture, with the June dot plot reinforcing a 'higher for longer' bias that continues to anchor the short end of the Treasury curve near 5.25–5.50%. Macro attention is shifting toward fiscal sustainability concerns in developed markets, with US term premium creep and elevated gilt yields in the UK reflecting structural supply-demand imbalances rather than near-term growth worries. Equities remain resilient on AI-driven earnings optimism in mega-cap tech, though breadth is narrowing — a classic late-cycle dynamic that warrants selective positioning and attention to credit spread behavior as a leading stress indicator."
+    "market_sentiment": "Risk assets are navigating a delicate balance this week as market participants weigh resilient U.S. labor data against softening ISM manufacturing prints, keeping Fed cut expectations anchored to just one or two moves in 2025 and flattening the front end of the Treasury curve. Equities are grinding higher on the back of strong mega-cap earnings revisions, but breadth remains narrow, with small-caps and regional banks underperforming amid renewed concerns about commercial real estate loan roll-overs. In FX, the dollar is modestly firmer against G10 peers as European PMIs disappoint, while credit spreads in IG remain historically tight, suggesting complacency that could unwind quickly if macro data deteriorates or geopolitical risk in the Middle East re-escalates."
   }
 }
