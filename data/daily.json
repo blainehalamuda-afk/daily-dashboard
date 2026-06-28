@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:05 PM UTC",
-  "date": "Saturday, June 27, 2026",
+  "generated_at": "1:10 PM UTC",
+  "date": "Sunday, June 28, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 76,
-    "feels_like_f": 78,
-    "high_f": 78,
-    "low_f": 75,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 89,
-    "wind_mph": 1,
+    "temp_f": 74,
+    "feels_like_f": 76,
+    "high_f": 76,
+    "low_f": 73,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 96,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "☁️",
-        "high": 73,
-        "low": 73,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Mon",
         "icon": "☀️",
-        "high": 76,
-        "low": 76,
+        "high": 77,
+        "low": 77,
         "description": "Clear Sky"
       },
       {
         "day": "Tue",
-        "icon": "☀️",
+        "icon": "☁️",
         "high": 78,
         "low": 78,
-        "description": "Clear Sky"
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "⛅",
+        "high": 76,
+        "low": 76,
+        "description": "Scattered Clouds"
       }
     ]
   },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 60443.28,
-        "change": 1250.93,
-        "change_pct": 2.11,
-        "up": true,
+        "price": 60021.18,
+        "change": -406.81,
+        "change_pct": -0.67,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1587.93,
-        "change": 52.93,
-        "change_pct": 3.45,
-        "up": true,
+        "price": 1576.83,
+        "change": -9.81,
+        "change_pct": -0.62,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,51 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Nasdaq Futures Fall as Tech Selloff Deepens — Live Updates - WSJ",
+        "title": "With Just 6 Words, Fed Chair Kevin Warsh Demolished Expectations. \"It's Hard to Believe,\" Says President Trump. - Yahoo Finance",
+        "source": "Motley Fool",
+        "url": "https://www.fool.com/investing/2026/06/27/with-just-six-words-fed-chair-kevin-warsh-demolish/",
+        "description": "The new Fed chair signaled a major policy shift, and not everyone was happy.",
+        "published": "11:20 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Amazon FTC settlement deadline is 1 month away. How to file a claim - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/money/2026/06/27/amazon-ftc-settlement-claim-deadline/90606426007/",
+        "description": "Some Amazon customers eligible for money from a settlement with the Federal Trade Commission have just a little longer to submit a claim.",
+        "published": "10:01 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "I spent 8 hours on hold with the IRS over my dead mother's taxes - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/money/personalfinance/2026/06/27/long-irs-customer-support-wait-times/90698212007/",
+        "description": "The IRS used to boast that taxpayer calls would be answered within 3 minutes. That is no longer true. Take it from me.",
+        "published": "9:04 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "\"This doesn’t represent pre-order data,\" Xbox disputes reports of PS5 crushing GTA 6 preorder demand - Windows Central",
+        "source": "Windows Central",
+        "url": "https://www.windowscentral.com/gaming/xbox/this-doesnt-represent-pre-order-data-xbox-disputes-reports-of-ps5-crushing-gta-6-preorder-demand",
+        "description": "Xbox clarifies that affiliate links aren't sales data, refuting viral claims of PS5's 8-to-1 lead in GTA 6 preorder",
+        "published": "1:26 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Why the Samsung Galaxy Z Fold 8 Ultra is Breaking the Internet - Geeky Gadgets",
+        "source": "Geeky Gadgets",
+        "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-leaks-12/",
+        "description": "Discover the leaked specs and design details of the upcoming Samsung Galaxy Z Fold 8 and Z Fold 8 Ultra ahead of their July 26 unveiling.",
+        "published": "9:01 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Steam Summer Sale Offers Discounts On More Than 800 VR Games - UploadVR",
+        "source": "UploadVR",
+        "url": "https://www.uploadvr.com/steam-summer-sale-offers-discounts-on-more-than-800-vr-games/",
+        "description": "Steam's Summer Sale is offering massive discounts on hundreds of VR titles right now.",
+        "published": "2:39 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Mideast Fighting Widens With Attacks on Bahrain, Hormuz Tanker - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-26-2026",
+        "url": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8",
         "description": "",
-        "published": "11:38 AM UTC",
-        "category": "Business"
+        "published": "2:19 PM UTC",
+        "category": "General"
       },
       {
-        "title": "Prime Day deals end tonight — I hand-picked 361+ of the best ones to shop before they’re gone - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-rcna351886",
-        "description": "It’s the final day of Amazon Prime Day 2026, and we’re updating our list of editor-approved deals live. Shop tech, beauty, kitchen and more before the sale ends.",
-        "published": "10:32 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Best 150 Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
-        "source": "CNET",
-        "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-26/",
-        "description": "Don't let the price tags fool you. These are some of the best value deals you can grab on the last day of the sale.",
-        "published": "9:26 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Prime Day Smartphone Deals Are Live: Save Up to 44% on Samsung Foldables, Google Pixels, Motorolas, and More - PCMag",
-        "source": "PCMag.com",
-        "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026-day-3",
-        "description": "These are the Amazon Prime Day smartphone deals actually worth buying, featuring editor-approved picks from Samsung, Google, Motorola, and more.",
-        "published": "8:37 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Ozone Ascent: Mega Rayquaza Timed Research - Pokémon GO Hub",
-        "source": "Pokemon GO Hub",
-        "url": "https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/",
-        "description": "From Saturday, July 25, at 10:00 a.m. to Sunday, July 26, 2026, at 8:00 p.m. local time free Timed Research will be available to all Trainers that rewards a Meteorite that enables you to Mega Evolve R",
-        "published": "7:46 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "What we really need is for Jaylen Brown to be like Manny Ramirez and brush off nearly being traded, and other thoughts - The Boston Globe",
-        "source": "The Boston Globe",
-        "url": "https://www.bostonglobe.com/2026/06/26/sports/jaylen-brown-manny-ramirez-nomar-garciaparra/",
-        "description": "Does Brad Stevens now have to make a deal because his star is incapable of recovering from the notion that the team thought it could improve by trading him?",
-        "published": "11:55 AM UTC",
+        "title": "Oliver Tree Art Foundation Launched Following Musician's Death - TMZ",
+        "source": "TMZ",
+        "url": "https://www.tmz.com/2026/06/27/oliver-tree-art-foundation-launched-after-his-death/",
+        "description": "Oliver Tree‘s team wasted no time fulfilling his wishes following his sudden death earlier this month -- they've officially launched Dr. Oliver Tree's Extremely Epic Art Grant for Baby Geniuses founda",
+        "published": "1:02 PM UTC",
         "category": "General"
       }
     ]
@@ -235,16 +251,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Eye Bundesliga Midfielder as Ten Hag Replacement Era Begins",
-        "summary": "United's new football leadership structure is reportedly tracking a proven Bundesliga ball-winner to address the chronic midfield press-resistance issues that plagued the club last season. A summer move is considered likely if Champions League qualification is secured.",
+        "headline": "Arsenal Revive Interest in RB Leipzig Midfielder Xavi Simons",
+        "summary": "Arsenal are understood to have lodged an informal inquiry with Leipzig regarding Xavi Simons, whose loan from PSG is set to expire. The Gunners view the Dutch international as the creative midfield profile needed to replace the aging Thomas Partey era and compete at the highest level next season.",
         "clubs": [
-          "Manchester United",
-          "Bayer Leverkusen"
+          "Arsenal",
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Chelsea Offered Chance to Sign Osimhen on Permanent Deal as Napoli Rebuild Continues",
-        "summary": "Napoli are willing to negotiate a permanent transfer for Victor Osimhen following his loan spell, with Chelsea leading the race amid interest from PSG. A fee in the region of £65–70 million is expected to be the starting point for negotiations.",
+        "headline": "Chelsea Target Napoli's Khvicha Kvaratskhelia as Sancho Future Remains Uncertain",
+        "summary": "Chelsea are reportedly exploring a move for Georgian winger Kvaratskhelia as Napoli face financial pressure to sell. Jadon Sancho's permanent deal at Stamford Bridge is described as 'complicated' by those close to the negotiations, leaving Chelsea's left flank a priority in the summer window.",
         "clubs": [
           "Chelsea",
           "Napoli"
@@ -252,57 +268,57 @@
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 16:30 GMT",
-      "preview": "This is the defining fixture of the Premier League weekend — a potential title-swing six-pointer between Arsenal and a City side that has shown signs of vulnerability in central midfield following injuries. Arsenal come in on a seven-match unbeaten run with Saka returning to full fitness, while City will rely on Haaland's relentless movement to stretch Saliba and White. The tactical battle between Arteta's high press and Guardiola's positional build-out will likely determine the outcome in a match where margins will be razor thin.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 16:30 BST",
+      "preview": "The most anticipated fixture of the Premier League season arrives at the Etihad, with City needing all three points to maintain pressure on the top four and Liverpool looking to extend their lead at the summit. Pep Guardiola's side have rediscovered form in recent weeks following a turbulent mid-season injury crisis, while Arne Slot's Liverpool bring relentless pressing and the league's most efficient attack. The tactical battle between City's positional play and Liverpool's high-press transition game promises to be one of the defining contests of the campaign.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Trent Alexander-Arnold"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Not expected before late April at the earliest"
+        "status": "Doubtful",
+        "return": "Being assessed day-to-day; fitness test scheduled Saturday morning"
       },
       {
-        "player": "Destiny Udogie",
-        "team": "Tottenham Hotspur",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend fixture; 50/50 for selection"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Expected back in full training within 10-14 days; likely to miss Sunday's fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
       "exam": "CFA Level 2",
-      "topic": "Fixed Income – Interest Rate Risk & Duration",
-      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates rise by 150 basis points, which of the following best estimates the percentage change in the bond's price?",
+      "topic": "Fixed Income – Term Structure & Interest Rate Risk",
+      "question": "A portfolio manager uses the Nelson-Siegel model to decompose the yield curve into three factors. Which of the following best describes the role of the 'curvature' factor in this model?",
       "options": {
-        "A": "−10.80%",
-        "B": "−9.84%",
-        "C": "−10.80% + 0.96% = −9.84%",
-        "D": "−10.80% + 1.91% = −8.89%"
+        "A": "It captures parallel shifts in the yield curve and is the dominant source of return variation across maturities.",
+        "B": "It captures the slope of the yield curve, representing the spread between long-term and short-term rates.",
+        "C": "It captures the hump or belly of the yield curve, affecting medium-term maturities more than short or long ends.",
+        "D": "It captures credit spread changes across the curve, independent of the risk-free rate movements."
       },
       "correct": "C",
-      "explanation": "The full price change estimate using duration and convexity is: %ΔP ≈ (−Modified Duration × Δy) + (0.5 × Convexity × Δy²). Here: (−7.2 × 0.015) + (0.5 × 85 × 0.015²) = −0.1080 + 0.5 × 85 × 0.000225 = −0.1080 + 0.009563 ≈ −9.84%. Duration alone overstates the price decline because it assumes a linear price-yield relationship; convexity corrects for the curvature, always adding a positive adjustment for non-callable bonds regardless of the direction of the rate move. Option D incorrectly doubles the convexity adjustment."
+      "explanation": "In the Nelson-Siegel framework, the yield curve is decomposed into three factors: level (parallel shift), slope (short vs. long end spread), and curvature (hump), which loads most heavily on intermediate maturities and dissipates at both ends. The curvature factor determines how pronounced the 'belly' of the curve is relative to the short and long ends. Option A describes the level factor, and Option B describes the slope factor. Credit spreads are not part of the Nelson-Siegel risk-free term structure model."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as Rate Cycle Turns",
-      "subtitle": "How the $1.7 trillion private credit market is repricing as central banks pivot, and what it means for investors.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why imperfect hedges can leave risk managers more exposed than they expect.",
       "paragraphs": [
-        "Private credit refers to non-bank lending extended directly to corporations, typically through floating-rate instruments such as leveraged loans, unitranche facilities, and mezzanine debt. Unlike publicly traded bonds, these instruments are illiquid, held to maturity by institutional investors — pension funds, insurance companies, and private debt funds — who accept an illiquidity premium in exchange for higher yield. The asset class has grown from roughly $400 billion in 2012 to over $1.7 trillion globally today, becoming a structurally important part of corporate financing.",
-        "During the 2022–2023 rate hiking cycle, private credit became the dominant alternative to broadly syndicated loans, offering speed and certainty of execution that public markets could not. Borrowers paid spreads of SOFR+600bps or more, delivering net yields north of 12% to lenders at peak. Now, as the Federal Reserve and ECB enter easing cycles, the dynamics are shifting: floating-rate income is compressing, refinancing risk is rising for over-levered borrowers, and default rates in direct lending portfolios — which lagged public markets — are beginning to tick upward, particularly in the software and healthcare services sectors.",
-        "For investors and risk managers, the key implication is that vintage-year selection and manager underwriting discipline now matter far more than they did when rising rates masked covenant-lite structures. Investors should scrutinize loan-to-value ratios, EBITDA addback assumptions, and PIK (payment-in-kind) interest proportions in fund portfolios. Regulators including the SEC and FSB are also increasing scrutiny of valuation practices, since private credit NAVs are mark-to-model rather than mark-to-market — creating potential for delayed loss recognition that can mislead allocators."
+        "Basis risk arises when the hedge instrument does not move in perfect lockstep with the underlying exposure being hedged. It is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a hedge is well-constructed in theory, basis risk ensures that profit and loss on the hedge position will rarely perfectly offset the underlying exposure, leaving a residual — and often unpredictable — source of risk.",
+        "A classic real-world example emerged during the 2022 energy crisis in Europe. Many utilities had hedged their natural gas exposure using Henry Hub futures (a US benchmark), but their actual exposure was to TTF (Title Transfer Facility) prices in the Netherlands. As the war in Ukraine caused European gas prices to spike dramatically while US prices rose far less, the basis between TTF and Henry Hub blew out to historic levels, rendering hedges nearly useless and triggering massive margin calls that threatened the solvency of several large energy firms.",
+        "For risk managers and portfolio managers, basis risk demands careful attention to hedge ratio construction, the choice of hedge instrument, and the correlation assumptions embedded in the hedge. Cross-hedging — using a correlated but non-identical instrument — is sometimes necessary due to liquidity constraints, but it materially increases basis risk. Stress-testing hedge portfolios under scenarios where correlations break down is now considered best practice, particularly after the lessons of 2022."
       ],
       "key_takeaways": [
-        "Private credit's floating-rate structure was a tailwind in rising rate environments but becomes a headwind to borrower credit quality as rates stay elevated or decline slowly.",
-        "Manager underwriting quality and covenant discipline are now the primary differentiators, as the rising-tide effect of high base rates recedes.",
-        "Valuation opacity and mark-to-model NAVs are growing regulatory concerns — investors should demand greater transparency on realized vs. unrealized loss recognition."
+        "Basis risk is the residual risk that remains after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
+        "Cross-hedging across geographies or benchmarks (e.g., TTF vs. Henry Hub) can cause basis to widen dramatically under stress, negating the hedge's effectiveness.",
+        "Robust risk management requires stress-testing hedge portfolios under correlation breakdown scenarios and continuously monitoring basis levels."
       ]
     },
     "japanese": {
@@ -311,32 +327,32 @@
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
       "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikitte shimaimashita.",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "〜てしまいました expresses that an action has been completed, often with a sense of regret or finality. It is formed by attaching しまいました to the te-form of a verb — here, 使い切って (having used up completely) + しまいました conveys the speaker's mild regret.",
-      "memory_tip": "Think of 予算 as 'yo-san' — imagine you and your savings saying 'Yo, three (san) dollars left!' to remember it means budget running low."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a sense of regret or finality — like saying something 'ended up happening' or was done completely. It combines the te-form of a verb with shimaimashita, the past polite form of shimau.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — yosan is the sum of money you've budgeted. Picture a calculator showing your total sum with '予算' written above it."
     },
     "ai_strategy": {
-      "headline": "Agentic AI Systems Are Quietly Reshaping Investment Research Workflows",
-      "summary": "A new generation of agentic AI — systems that can autonomously plan multi-step tasks, call external tools, and iterate on their own outputs — is moving from research labs into financial services workflows. Firms including Goldman Sachs, JPMorgan, and a growing cohort of hedge funds are deploying agents that can autonomously pull earnings data, run scenario analyses, draft investment memos, and flag covenant breaches in credit agreements without human prompting at each step. Unlike earlier co-pilot tools that required a human to initiate every action, these agents operate on defined objectives, raising both productivity ceilings and new questions about auditability and model governance. For finance professionals, the shift means the competitive advantage is migrating from information access to judgment — knowing how to frame the right objective, validate agent outputs, and design robust human-in-the-loop checkpoints.",
+      "headline": "AI Agents Are Now Autonomously Executing Multi-Step Financial Research Tasks",
+      "summary": "A new generation of agentic AI systems — capable of browsing data sources, writing code, running models, and synthesizing outputs without step-by-step human instruction — is rapidly entering finance workflows. Major asset managers including BlackRock and Point72 have reportedly piloted LLM-based research agents that can ingest earnings transcripts, pull macro data, run scenario analyses, and generate investment memos in minutes. Unlike copilot tools that assist analysts, these agents operate with goal-directed autonomy, raising both productivity and oversight questions. Regulatory bodies including ESMA and the SEC have begun preliminary consultations on accountability frameworks for AI-assisted investment decisions.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that autonomously breaks down a high-level goal into sub-tasks, selects tools or data sources to complete them, and iterates without requiring human input at each step — analogous to a junior analyst who can run an entire research project end-to-end."
+          "definition": "AI systems that can autonomously plan and execute sequences of tasks — such as retrieving data, running calculations, and drafting reports — toward a defined goal, without requiring a human prompt at each step."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model pulls relevant documents — such as SEC filings, earnings transcripts, or credit agreements — from a database at query time before generating a response, dramatically reducing hallucination and keeping outputs grounded in actual source data."
+          "definition": "A technique where an AI model queries external databases or documents in real time before generating a response, allowing it to ground outputs in current, specific financial data rather than relying solely on training knowledge."
         },
         {
-          "term": "Model Governance",
-          "definition": "The framework of policies, audit trails, and validation processes ensuring AI-generated outputs in financial decisions are explainable, compliant with regulations, and subject to human review — increasingly required by the SEC, FCA, and internal risk committees."
+          "term": "Human-in-the-Loop (HITL)",
+          "definition": "A framework design principle where AI systems are required to pause and seek human approval at critical decision points — particularly important in high-stakes finance contexts like trade execution or risk limit breaches."
         }
       ],
-      "career_insight": "Finance professionals who treat AI purely as a productivity shortcut are missing the deeper strategic shift: agentic tools are beginning to compress the analyst-to-output pipeline so significantly that headcount structures in research and middle-office functions will shrink. The skills that will be premium in this environment are prompt engineering for financial tasks, AI output validation and critical review, and the ability to design workflows that pair AI efficiency with human accountability — especially for decisions touching regulatory reporting or client-facing recommendations."
+      "career_insight": "Finance professionals who can design, supervise, and critically evaluate agentic AI workflows — rather than just use AI tools passively — will command significant career premiums over the next five years. The most valued skillset is emerging as a hybrid of domain expertise (credit analysis, risk modeling, portfolio construction) combined with prompt engineering, workflow orchestration, and AI output validation. Those who understand where AI agents fail — hallucination, data staleness, overconfidence in extrapolation — will be indispensable as governance and compliance demands intensify."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a delicate balance this week as market participants weigh resilient U.S. labor data against softening ISM manufacturing prints, keeping Fed cut expectations anchored to just one or two moves in 2025 and flattening the front end of the Treasury curve. Equities are grinding higher on the back of strong mega-cap earnings revisions, but breadth remains narrow, with small-caps and regional banks underperforming amid renewed concerns about commercial real estate loan roll-overs. In FX, the dollar is modestly firmer against G10 peers as European PMIs disappoint, while credit spreads in IG remain historically tight, suggesting complacency that could unwind quickly if macro data deteriorates or geopolitical risk in the Middle East re-escalates."
+    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the week, with equity markets supported by resilient US labor data and a softer-than-expected core PCE print that has markets pricing approximately 42bps of Fed cuts by year-end. The dollar is consolidating near recent highs as EUR/USD hovers around 1.085, while Brent crude drifts lower on demand concerns from China's uneven recovery and rising OPEC+ compliance questions. Credit spreads in IG remain tight but HY is showing early signs of widening at the margin — worth monitoring as a leading indicator of risk-off rotation."
   }
 }
