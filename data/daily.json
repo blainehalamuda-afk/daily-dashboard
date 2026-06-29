@@ -1,31 +1,24 @@
 {
-  "generated_at": "1:10 PM UTC",
-  "date": "Sunday, June 28, 2026",
+  "generated_at": "3:26 PM UTC",
+  "date": "Monday, June 29, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 74,
-    "feels_like_f": 76,
-    "high_f": 76,
-    "low_f": 73,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 96,
+    "temp_f": 86,
+    "feels_like_f": 95,
+    "high_f": 89,
+    "low_f": 85,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 68,
     "wind_mph": 2,
     "forecast": [
       {
-        "day": "Mon",
-        "icon": "☀️",
-        "high": 77,
-        "low": 77,
-        "description": "Clear Sky"
-      },
-      {
         "day": "Tue",
-        "icon": "☁️",
-        "high": 78,
-        "low": 78,
-        "description": "Broken Clouds"
+        "icon": "🌤️",
+        "high": 75,
+        "low": 75,
+        "description": "Few Clouds"
       },
       {
         "day": "Wed",
@@ -33,6 +26,13 @@
         "high": 76,
         "low": 76,
         "description": "Scattered Clouds"
+      },
+      {
+        "day": "Thu",
+        "icon": "☁️",
+        "high": 76,
+        "low": 76,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 728.99,
-        "change": -5.31,
-        "change_pct": -0.72,
-        "up": false,
+        "price": 736.78,
+        "change": 7.79,
+        "change_pct": 1.07,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 283.78,
-        "change": 8.63,
-        "change_pct": 3.14,
-        "up": true,
+        "price": 281.81,
+        "change": -1.97,
+        "change_pct": -0.69,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 192.53,
-        "change": -3.21,
-        "change_pct": -1.64,
-        "up": false,
+        "price": 193.86,
+        "change": 1.33,
+        "change_pct": 0.69,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 379.71,
-        "change": 4.59,
-        "change_pct": 1.22,
+        "price": 395.86,
+        "change": 16.15,
+        "change_pct": 4.25,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 60021.18,
-        "change": -406.81,
-        "change_pct": -0.67,
+        "price": 59240,
+        "change": -834,
+        "change_pct": -1.39,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1576.83,
-        "change": -9.81,
-        "change_pct": -0.62,
+        "price": 1567.23,
+        "change": -16.38,
+        "change_pct": -1.03,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "With Just 6 Words, Fed Chair Kevin Warsh Demolished Expectations. \"It's Hard to Believe,\" Says President Trump. - Yahoo Finance",
-        "source": "Motley Fool",
-        "url": "https://www.fool.com/investing/2026/06/27/with-just-six-words-fed-chair-kevin-warsh-demolish/",
-        "description": "The new Fed chair signaled a major policy shift, and not everyone was happy.",
-        "published": "11:20 AM UTC",
+        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+        "description": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+        "published": "3:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Amazon FTC settlement deadline is 1 month away. How to file a claim - USA Today",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/money/2026/06/27/amazon-ftc-settlement-claim-deadline/90606426007/",
-        "description": "Some Amazon customers eligible for money from a settlement with the Federal Trade Commission have just a little longer to submit a claim.",
-        "published": "10:01 AM UTC",
+        "title": "FBI warns Microsoft users about passwordless scam - Fox News",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/tech/fbi-warns-microsoft-users-passwordless-scam",
+        "description": "The FBI warns about Kali365, a phishing scam targeting Microsoft 365 accounts that can bypass multifactor authentication using device code tricks.",
+        "published": "1:53 PM UTC",
         "category": "Business"
       },
       {
-        "title": "I spent 8 hours on hold with the IRS over my dead mother's taxes - USA Today",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/money/personalfinance/2026/06/27/long-irs-customer-support-wait-times/90698212007/",
-        "description": "The IRS used to boast that taxpayer calls would be answered within 3 minutes. That is no longer true. Take it from me.",
-        "published": "9:04 AM UTC",
+        "title": "‘We should be at $2.25 at the pump’: Trump says Exxon, Chevron, Shell and BP are price gouging drivers. Do you agree? - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/2-25-pump-trump-says-131500941.html",
+        "description": "Trump said he had instructed the DOJ to ‘immediately start looking into this.’",
+        "published": "1:15 PM UTC",
         "category": "Business"
       },
       {
-        "title": "\"This doesn’t represent pre-order data,\" Xbox disputes reports of PS5 crushing GTA 6 preorder demand - Windows Central",
-        "source": "Windows Central",
-        "url": "https://www.windowscentral.com/gaming/xbox/this-doesnt-represent-pre-order-data-xbox-disputes-reports-of-ps5-crushing-gta-6-preorder-demand",
-        "description": "Xbox clarifies that affiliate links aren't sales data, refuting viral claims of PS5's 8-to-1 lead in GTA 6 preorder",
-        "published": "1:26 PM UTC",
+        "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+        "description": "For some people, the ice in a beverage is almost as important as the drink itself. That's the audience Govee had in mind when designing its latest ice",
+        "published": "2:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Why the Samsung Galaxy Z Fold 8 Ultra is Breaking the Internet - Geeky Gadgets",
-        "source": "Geeky Gadgets",
-        "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-leaks-12/",
-        "description": "Discover the leaked specs and design details of the upcoming Samsung Galaxy Z Fold 8 and Z Fold 8 Ultra ahead of their July 26 unveiling.",
-        "published": "9:01 AM UTC",
+        "title": "Could 'humanmaxxing' actually help you live longer? Here's what experts say - Fox News",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/health/could-humanmaxxing-actually-help-live-longer-heres-experts-say",
+        "description": "Humanmaxxing is the latest wellness trend focused on maximizing human potential through biohacking, longevity science and advanced medical treatments.",
+        "published": "1:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Steam Summer Sale Offers Discounts On More Than 800 VR Games - UploadVR",
-        "source": "UploadVR",
-        "url": "https://www.uploadvr.com/steam-summer-sale-offers-discounts-on-more-than-800-vr-games/",
-        "description": "Steam's Summer Sale is offering massive discounts on hundreds of VR titles right now.",
-        "published": "2:39 AM UTC",
+        "title": "The Big Summer Preview – New Ork miniatures and codex are coming - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming",
+        "description": "Updated Trukk, Mek and Warboss are on the horizon.",
+        "published": "12:35 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Mideast Fighting Widens With Attacks on Bahrain, Hormuz Tanker - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8",
-        "description": "",
-        "published": "2:19 PM UTC",
+        "title": "France records 1,000 excess deaths during record-breaking heatwave - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/europe/france-records-excess-deaths-record-breaking-heatwave-rcna352098",
+        "description": "France saw around 1,000 additional deaths last week at the height of its record-smashing heat wave, the country’s public health agency said Sunday.",
+        "published": "3:45 PM UTC",
         "category": "General"
       },
       {
-        "title": "Oliver Tree Art Foundation Launched Following Musician's Death - TMZ",
+        "title": "A$AP Rocky Shouts Out Son Riot Onstage as Rihanna Watches in Crowd - TMZ",
         "source": "TMZ",
-        "url": "https://www.tmz.com/2026/06/27/oliver-tree-art-foundation-launched-after-his-death/",
-        "description": "Oliver Tree‘s team wasted no time fulfilling his wishes following his sudden death earlier this month -- they've officially launched Dr. Oliver Tree's Extremely Epic Art Grant for Baby Geniuses founda",
-        "published": "1:02 PM UTC",
+        "url": "https://www.tmz.com/2026/06/28/rihanna-seen-at-asap-rocky-concert/",
+        "description": "Rihanna made a rare appearance in Los Angeles Saturday night, stepping out with her son Riot Rose Mayers to support A$AP Rocky during his \"Don’t Be Dumb\" tour stop at Kia Forum.",
+        "published": "3:45 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "'Supergirl' Stumbles in Box Office Debut, 'Toy Story 5' Remains No. 1 - Variety",
+        "source": "Variety",
+        "url": "https://variety.com/2026/film/box-office/supergirl-stumbles-box-office-opening-weekend-jackass-flops-toy-story-rules-1236797777/",
+        "description": "\"Supergirl\" struggled to take flight at the box office, while \"Toy Story 5\" ruled again.",
+        "published": "3:27 PM UTC",
         "category": "General"
       }
     ]
@@ -251,18 +259,18 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Revive Interest in RB Leipzig Midfielder Xavi Simons",
-        "summary": "Arsenal are understood to have lodged an informal inquiry with Leipzig regarding Xavi Simons, whose loan from PSG is set to expire. The Gunners view the Dutch international as the creative midfield profile needed to replace the aging Thomas Partey era and compete at the highest level next season.",
+        "headline": "Arsenal in Advanced Talks for RB Leipzig Midfielder Xaver Schlager",
+        "summary": "Arsenal are reportedly closing in on a deal for Austrian international Xaver Schlager as Mikel Arteta seeks greater defensive solidity in midfield. The fee is believed to be in the region of £45 million with personal terms largely agreed.",
         "clubs": [
           "Arsenal",
           "RB Leipzig"
         ]
       },
       {
-        "headline": "Chelsea Target Napoli's Khvicha Kvaratskhelia as Sancho Future Remains Uncertain",
-        "summary": "Chelsea are reportedly exploring a move for Georgian winger Kvaratskhelia as Napoli face financial pressure to sell. Jadon Sancho's permanent deal at Stamford Bridge is described as 'complicated' by those close to the negotiations, leaving Chelsea's left flank a priority in the summer window.",
+        "headline": "Tottenham Hotspur Eye Napoli Striker Victor Osimhen as Kane Replacement Contingency",
+        "summary": "Spurs are monitoring Victor Osimhen's contract situation at Napoli as the club prepares for the possibility of needing a marquee striker heading into the transfer window. Osimhen's release clause is reported at €120 million, with several Premier League clubs circling.",
         "clubs": [
-          "Chelsea",
+          "Tottenham Hotspur",
           "Napoli"
         ]
       }
@@ -270,89 +278,89 @@
     "match_preview": {
       "home": "Manchester City",
       "away": "Liverpool",
-      "date": "Sunday, 16:30 BST",
-      "preview": "The most anticipated fixture of the Premier League season arrives at the Etihad, with City needing all three points to maintain pressure on the top four and Liverpool looking to extend their lead at the summit. Pep Guardiola's side have rediscovered form in recent weeks following a turbulent mid-season injury crisis, while Arne Slot's Liverpool bring relentless pressing and the league's most efficient attack. The tactical battle between City's positional play and Liverpool's high-press transition game promises to be one of the defining contests of the campaign.",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The Premier League's defining fixture of the season so far sees Pep Guardiola's champions host a resurgent Liverpool side under Arne Slot, who have dropped just one point in their opening seven matches. City enter the game having recovered from a stuttering start but remain without key defensive personnel, while Liverpool's high press and rapid transitions pose the most credible tactical test Guardiola's squad has faced this term. The result could effectively shape the title race narrative for the coming months, with both sides separated by just two points at the top of the table.",
       "key_players": [
-        "Mohamed Salah",
         "Erling Haaland",
-        "Trent Alexander-Arnold"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed day-to-day; fitness test scheduled Saturday morning"
+        "status": "Out",
+        "return": "Long-term — not expected before January"
       },
       {
-        "player": "Diogo Jota",
+        "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Expected back in full training within 10-14 days; likely to miss Sunday's fixture"
+        "status": "Doubtful",
+        "return": "Late fitness test ahead of Sunday's fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Term Structure & Interest Rate Risk",
-      "question": "A portfolio manager uses the Nelson-Siegel model to decompose the yield curve into three factors. Which of the following best describes the role of the 'curvature' factor in this model?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond has a modified duration of 7.2 and a convexity of 85. If yields rise by 150 basis points, which of the following best estimates the percentage price change of the bond?",
       "options": {
-        "A": "It captures parallel shifts in the yield curve and is the dominant source of return variation across maturities.",
-        "B": "It captures the slope of the yield curve, representing the spread between long-term and short-term rates.",
-        "C": "It captures the hump or belly of the yield curve, affecting medium-term maturities more than short or long ends.",
-        "D": "It captures credit spread changes across the curve, independent of the risk-free rate movements."
+        "A": "-10.80%",
+        "B": "-9.84%",
+        "C": "-10.56%",
+        "D": "-11.24%"
       },
-      "correct": "C",
-      "explanation": "In the Nelson-Siegel framework, the yield curve is decomposed into three factors: level (parallel shift), slope (short vs. long end spread), and curvature (hump), which loads most heavily on intermediate maturities and dissipates at both ends. The curvature factor determines how pronounced the 'belly' of the curve is relative to the short and long ends. Option A describes the level factor, and Option B describes the slope factor. Credit spreads are not part of the Nelson-Siegel risk-free term structure model."
+      "correct": "B",
+      "explanation": "The full price change estimate using both duration and convexity is: ΔP/P ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Plugging in: (-7.2 × 0.015) + (0.5 × 85 × 0.015²) = -0.1080 + 0.009563 = -0.09844, or approximately -9.84%. The convexity adjustment is always positive for a standard bond, partially offsetting the duration-based price decline. Ignoring convexity would overstate the price decline, making option A incorrect."
     },
     "finance_topic": {
-      "title": "Basis Risk and the Limits of Hedging",
-      "subtitle": "Why imperfect hedges can leave risk managers more exposed than they expect.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Why imperfect hedges can leave investors exposed to residual risk even after hedging.",
       "paragraphs": [
-        "Basis risk arises when the hedge instrument does not move in perfect lockstep with the underlying exposure being hedged. It is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a hedge is well-constructed in theory, basis risk ensures that profit and loss on the hedge position will rarely perfectly offset the underlying exposure, leaving a residual — and often unpredictable — source of risk.",
-        "A classic real-world example emerged during the 2022 energy crisis in Europe. Many utilities had hedged their natural gas exposure using Henry Hub futures (a US benchmark), but their actual exposure was to TTF (Title Transfer Facility) prices in the Netherlands. As the war in Ukraine caused European gas prices to spike dramatically while US prices rose far less, the basis between TTF and Henry Hub blew out to historic levels, rendering hedges nearly useless and triggering massive margin calls that threatened the solvency of several large energy firms.",
-        "For risk managers and portfolio managers, basis risk demands careful attention to hedge ratio construction, the choice of hedge instrument, and the correlation assumptions embedded in the hedge. Cross-hedging — using a correlated but non-identical instrument — is sometimes necessary due to liquidity constraints, but it materially increases basis risk. Stress-testing hedge portfolios under scenarios where correlations break down is now considered best practice, particularly after the lessons of 2022."
+        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, creating a gap — the 'basis' — between the spot price of the exposed asset and the price of the futures or derivative used to hedge it. Formally, basis is defined as the spot price minus the futures price. While a perfect hedge would eliminate all price risk, real-world hedges almost always involve some mismatch in maturity, underlying asset quality, or geographic delivery point, leaving residual exposure that cannot be diversified away.",
+        "A classic example is a jet fuel hedging program run by an airline. Since there is no liquid exchange-traded futures contract for jet fuel itself, airlines typically use crude oil or heating oil futures as a proxy hedge. During the 2021–2022 energy crisis, the spread between crude oil and refined jet fuel widened dramatically due to refinery bottlenecks, meaning airlines that had hedged crude exposure still suffered significant losses on their unhedged jet fuel crack spread. This basis blowout turned what looked like a prudent hedging program into a partial liability.",
+        "For risk managers and portfolio managers, basis risk demands careful selection of hedging instruments, ongoing monitoring of the basis relationship, and stress-testing under scenarios where historical correlations break down. It is particularly important in commodity, currency, and fixed income hedging programs. Regulators and auditors also scrutinize hedge effectiveness under IFRS 9 and ASC 815 standards, where a hedge must demonstrate both prospective and retrospective effectiveness — making uncontrolled basis risk a financial reporting risk as much as a market risk."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk that remains after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Cross-hedging across geographies or benchmarks (e.g., TTF vs. Henry Hub) can cause basis to widen dramatically under stress, negating the hedge's effectiveness.",
-        "Robust risk management requires stress-testing hedge portfolios under correlation breakdown scenarios and continuously monitoring basis levels."
+        "Basis risk is the residual price risk that remains after hedging due to imperfect correlation between the hedged item and the hedging instrument.",
+        "Basis can widen dramatically during market stress events, turning a protective hedge into a source of unexpected loss.",
+        "Accounting standards such as IFRS 9 require hedge effectiveness testing, making basis risk management a legal and reporting obligation, not just a financial one."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a sense of regret or finality — like saying something 'ended up happening' or was done completely. It combines the te-form of a verb with shimaimashita, the past polite form of shimau.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — yosan is the sum of money you've budgeted. Picture a calculator showing your total sum with '予算' written above it."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or that something happened beyond one's intention. It combines the te-form of a verb with しまいました to convey a sense of finality.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you have allocated for yourself. Picture carefully counting your coins and saying 'yo, that's my sum!'"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Autonomously Executing Multi-Step Financial Research Tasks",
-      "summary": "A new generation of agentic AI systems — capable of browsing data sources, writing code, running models, and synthesizing outputs without step-by-step human instruction — is rapidly entering finance workflows. Major asset managers including BlackRock and Point72 have reportedly piloted LLM-based research agents that can ingest earnings transcripts, pull macro data, run scenario analyses, and generate investment memos in minutes. Unlike copilot tools that assist analysts, these agents operate with goal-directed autonomy, raising both productivity and oversight questions. Regulatory bodies including ESMA and the SEC have begun preliminary consultations on accountability frameworks for AI-assisted investment decisions.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
+      "summary": "Major banks including JPMorgan, HSBC, and Goldman Sachs are deploying large language models and gradient boosting algorithms to augment credit underwriting, compressing decision timelines from days to minutes while improving default prediction accuracy. These systems ingest alternative data sources — including supply chain signals, satellite imagery of retail locations, and real-time cash flow feeds — to build dynamic borrower profiles that traditional scorecards cannot capture. The shift is not replacing credit analysts wholesale but is fundamentally changing their role from data gatherer to model validator and exception manager. Risk committees are now grappling with model explainability requirements under Basel III and SR 11-7 guidance, creating a new intersection between AI governance and regulatory compliance.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute sequences of tasks — such as retrieving data, running calculations, and drafting reports — toward a defined goal, without requiring a human prompt at each step."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning method that builds decision trees sequentially, where each tree corrects the errors of the previous one. In finance, it is widely used for credit scoring and fraud detection because it handles tabular data well and often outperforms logistic regression on structured financial datasets."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries external databases or documents in real time before generating a response, allowing it to ground outputs in current, specific financial data rather than relying solely on training knowledge."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources such as satellite imagery, web-scraped pricing data, geolocation patterns, or social media sentiment that are fed into AI models to generate investment or credit signals that are not visible in standard financial statements."
         },
         {
-          "term": "Human-in-the-Loop (HITL)",
-          "definition": "A framework design principle where AI systems are required to pause and seek human approval at critical decision points — particularly important in high-stakes finance contexts like trade execution or risk limit breaches."
+          "term": "Model Explainability (XAI)",
+          "definition": "Techniques like SHAP (SHapley Additive exPlanations) that decompose a model's output into individual feature contributions, allowing risk managers and regulators to understand why a model made a particular decision — critical for fair lending compliance and internal audit."
         }
       ],
-      "career_insight": "Finance professionals who can design, supervise, and critically evaluate agentic AI workflows — rather than just use AI tools passively — will command significant career premiums over the next five years. The most valued skillset is emerging as a hybrid of domain expertise (credit analysis, risk modeling, portfolio construction) combined with prompt engineering, workflow orchestration, and AI output validation. Those who understand where AI agents fail — hallucination, data staleness, overconfidence in extrapolation — will be indispensable as governance and compliance demands intensify."
+      "career_insight": "Finance professionals who combine domain expertise in credit, risk, or portfolio management with hands-on fluency in Python, SQL, and model validation frameworks are commanding significant premiums in the current hiring market. The most valuable skillset is not building AI models from scratch but critically evaluating model assumptions, identifying distributional shift, and communicating model limitations to non-technical stakeholders including regulators and boards. Investing in certifications like the FRM alongside AI literacy courses positions analysts at the exact intersection where institutions are most urgently hiring."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the week, with equity markets supported by resilient US labor data and a softer-than-expected core PCE print that has markets pricing approximately 42bps of Fed cuts by year-end. The dollar is consolidating near recent highs as EUR/USD hovers around 1.085, while Brent crude drifts lower on demand concerns from China's uneven recovery and rising OPEC+ compliance questions. Credit spreads in IG remain tight but HY is showing early signs of widening at the margin — worth monitoring as a leading indicator of risk-off rotation."
+    "market_sentiment": "Global risk sentiment remains cautiously constructive this week as equity markets digest a resilient US labor market print against a backdrop of softening core PCE inflation, keeping the Fed's 'higher for longer' narrative intact but reducing tail risk of further hikes. Treasury yields are consolidating near recent highs with the 10-year hovering around 4.45%, while the USD index has pulled back modestly, providing brief relief to EM currencies and commodities. Credit spreads in investment grade remain tight, suggesting the market is pricing a soft-landing base case, though leveraged loan markets are showing early signs of stress that warrant monitoring into Q3 earnings season."
   }
 }
