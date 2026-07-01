@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:51 PM UTC",
-  "date": "Tuesday, June 30, 2026",
+  "generated_at": "2:03 PM UTC",
+  "date": "Wednesday, July 1, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 81,
-    "feels_like_f": 86,
-    "high_f": 84,
-    "low_f": 79,
+    "temp_f": 83,
+    "feels_like_f": 89,
+    "high_f": 86,
+    "low_f": 81,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 76,
-    "wind_mph": 1,
+    "humidity": 74,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 77,
-        "low": 77,
-        "description": "Clear Sky"
-      },
       {
         "day": "Thu",
         "icon": "☀️",
-        "high": 76,
-        "low": 76,
+        "high": 79,
+        "low": 79,
         "description": "Clear Sky"
       },
       {
         "day": "Fri",
-        "icon": "⛅",
-        "high": 78,
-        "low": 78,
-        "description": "Scattered Clouds"
+        "icon": "☀️",
+        "high": 80,
+        "low": 80,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "high": 79,
+        "low": 79,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 742.17,
-        "change": 1.17,
-        "change_pct": 0.16,
-        "up": true,
+        "price": 745.15,
+        "change": -1.62,
+        "change_pct": -0.22,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 284.39,
-        "change": 2.65,
-        "change_pct": 0.94,
+        "price": 292.17,
+        "change": 2.81,
+        "change_pct": 0.97,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 196.68,
-        "change": 1.71,
-        "change_pct": 0.88,
-        "up": true,
+        "price": 195.26,
+        "change": -4.83,
+        "change_pct": -2.41,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 410.95,
-        "change": -0.89,
-        "change_pct": -0.22,
-        "up": false,
+        "price": 423.98,
+        "change": 3.38,
+        "change_pct": 0.8,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 58738.09,
-        "change": -743.92,
-        "change_pct": -1.25,
-        "up": false,
+        "price": 59356,
+        "change": 306,
+        "change_pct": 0.52,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1565.4,
-        "change": -4.57,
-        "change_pct": -0.29,
-        "up": false,
+        "price": 1593.27,
+        "change": 21.13,
+        "change_pct": 1.34,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,51 @@
     "error": false,
     "articles": [
       {
-        "title": "The men’s fashion trend no one can escape? Rhinestones. - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/style/fashion/2026/06/29/mens-fashion-trend-no-one-can-escape-rhinestones/",
-        "description": "Is the men’s streetwear scene really as sparkly as social media warns? Two Washington Post reporters hit the mall to find out.",
-        "published": "12:01 PM UTC",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq waver after record-setting session - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-rise-dow-eyes-fresh-record-to-wrap-up-standout-quarter-224823556.html",
+        "description": "Investors assessed a remarkable run-up in chip stocks in the first half of the year and the dollar's growing strength.",
+        "published": "1:47 PM UTC",
         "category": "Business"
       },
       {
-        "title": "SK Hynix Just Sent a Huge Warning to Micron Investors - The Motley Fool",
-        "source": "Motley Fool",
-        "url": "https://www.fool.com/investing/2026/06/29/sk-hynix-just-sent-a-huge-warning-to-micron-invest/",
-        "description": "Micron's biggest competitor is raising capital to fund major spending plans.",
-        "published": "11:30 AM UTC",
+        "title": "Apple iPhone 18 Pro secrets leaked in Tata Electronics hack: What we know - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/apple-iphone-18-pro-secrets-leaked-in-tata-electronics-hack-what-we-know",
+        "description": "Documents and photos are stolen from Apple’s Indian supplier. How does this impact the US tech giant?",
+        "published": "1:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Comcast to Split Into Two Companies via Spin-Off of NBCUniversal, Including Sky - The Hollywood Reporter",
-        "source": "Hollywood Reporter",
-        "url": "http://www.hollywoodreporter.com/business/business-news/comcast-split-two-companies-nbcuniversal-spinoff-1236632843/",
-        "description": "Mike Cavanagh will serve as the CEO of NBCUniversal, while Comcast’s former CFO Michael Angelakis will become the CEO of Comcast in the separation of its media and technology businesses.",
-        "published": "11:26 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "The Big Summer Preview – New Starter Sets and ready painted terrain - Warhammer Community",
-        "source": "Warhammer-community.com",
-        "url": "https://www.warhammer-community.com/articles/1abmqefl/the-big-summer-preview-new-starter-sets-and-ready-painted-terrain",
-        "description": "Dive into Warhammer 40,000, and fight on the battlefields of Armageddon with new terrain kits.",
-        "published": "12:37 PM UTC",
+        "title": "Splatoon Raiders Direct 6.30.2026 - Nintendo",
+        "source": "Nintendo.com",
+        "url": "https://www.nintendo.com/us/nintendo-direct/6-30-2026/",
+        "description": "Join us on June 30 at 7am PT for the Splatoon Raiders Direct! The presentation will last roughly 15 minutes and provide more info on the upcoming Nintendo Switch 2 game.",
+        "published": "12:16 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "July’s Miniature of the Month and collectable coin revealed - Warhammer Community",
-        "source": "Warhammer-community.com",
-        "url": "https://www.warhammer-community.com/articles/va1s3sfx/julys-miniature-of-the-month-and-collectable-coin-revealed",
-        "description": "See what you can get if you head to your local Warhammer store in July.",
-        "published": "11:55 AM UTC",
+        "title": "US bill requiring paid games to be playable after they shut down has failed to pass a Senate vote - Video Games Chronicle",
+        "source": "Video Games Chronicle",
+        "url": "https://www.videogameschronicle.com/news/us-bill-requiring-paid-games-to-be-playable-after-they-shut-down-has-failed-to-pass-a-senate-vote/",
+        "description": "Stop Killing Games says it will try again with \"the funding to do this properly\"",
+        "published": "12:10 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Amid Steam Machine performance scrutiny, Valve removes '4K at 60FPS' claim - Eurogamer",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/steam-machine-marketing-update-4k-60-fps-removed",
-        "description": "Valve appears to be walking back on the claims its expensive Steam Machine can consistently power native 4K60 gaming.",
-        "published": "11:01 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "How to end a TV show - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/entertainment/957707/from-season-4-finale-tv-show-endings",
-        "description": "The team behind From on MGM Plus, many of whom worked on Lost, talking about how to end a mystery show.",
-        "published": "12:00 PM UTC",
+        "title": "Supreme Court strikes down long-standing campaign finance restrictions - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-strikes-long-standing-campaign-finance-restrictions-rcna252593",
+        "description": "The Supreme Court struck down longtime campaign finance rules challenged by Vice President JD Vance that place limits on how much a national political party committee can spend in coordination with in",
+        "published": "2:28 PM UTC",
         "category": "General"
       },
       {
-        "title": "Trump says Iran has requested a meeting, but Iranian officials say nothing has been scheduled - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/iran-us-war-strait-of-hormuz-june-29-2026-d1c0ec8aa84c0e5693b94f0cf0862bab",
-        "description": "President Donald Trump says on social media that Iran had requested a meeting with U.S. counterparts, though Iranian officials said no such meeting was scheduled. Earlier on Monday, Iran’s president s",
-        "published": "11:49 AM UTC",
+        "title": "NBA free agency 2026 live updates: Trade rumors, latest news on LeBron James, Kawhi Leonard, more - CBS Sports",
+        "source": "CBS Sports",
+        "url": "https://www.cbssports.com/nba/news/nba-free-agency-2026-live-updates-trade-rumors-news-june-30/live/",
+        "description": "LeBron, Kawhi, Jaylen Brown, Anthony Davis and Jalen Duren are just some of the notable names who could change teams in the coming hours",
+        "published": "1:50 PM UTC",
         "category": "General"
       }
     ]
@@ -251,45 +235,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Chelsea In Advanced Talks for Sporting CP Midfielder Viktor Gyokeres",
-        "summary": "Chelsea are reportedly in advanced discussions with Sporting CP over a summer move for Swedish striker Viktor Gyokeres, with a fee in the region of £80 million under negotiation. The Blues are looking to add a prolific central striker after a season of inconsistent goalscoring from their current attacking options.",
+        "headline": "Arsenal Targeting Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are understood to be scouting a dynamic box-to-box midfielder from the Bundesliga with the intention of bringing in a long-term successor to Thomas Partey, whose contract expires at the end of the season. Talks between intermediaries are said to be at an early stage.",
         "clubs": [
-          "Chelsea",
-          "Sporting CP"
+          "Arsenal",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Target Bournemouth's Milos Kerkez as Shaw Cover",
-        "summary": "Manchester United have identified Bournemouth left-back Milos Kerkez as a primary target to address their chronic left-back vulnerability, with Luke Shaw's injury record remaining a persistent concern. Bournemouth are expected to demand upwards of £45 million for the Hungarian international who has impressed significantly in the Premier League this season.",
+        "headline": "Chelsea Revive Interest in Brazilian Striker Ahead of January Window",
+        "summary": "Chelsea's recruitment team have re-opened dialogue over a move for a prolific Brazilian forward, with the club keen to add a natural finisher to support Nicolas Jackson. The player's current club are holding firm on a valuation above £60 million.",
         "clubs": [
-          "Manchester United",
-          "Bournemouth"
+          "Chelsea",
+          "Flamengo"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM",
-      "preview": "This is the defining fixture of the Premier League weekend, with Arsenal hosting Manchester City in a top-of-the-table clash that could prove pivotal in the title race. Arsenal come into the game on the back of four consecutive league wins, with Bukayo Saka in electric form, while City have shown signs of vulnerability at the back following injuries to key defensive personnel. Pep Guardiola will set up to suffocate Arsenal's wide threats, but Mikel Arteta has engineered his most tactically complete Arsenal side yet and home advantage at the Emirates could prove decisive.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's most anticipated fixture of the season arrives with both clubs desperate for three points in a tightening title race. City have rediscovered their defensive solidity in recent weeks under Pep Guardiola's adjusted 4-2-3-1 shape, while Liverpool carry the confidence of a six-match unbeaten run and the league's most potent attacking line. The tactical battle between Liverpool's high press and City's positional play in midfield is likely to determine where the game is won and lost.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
-        "Martin Odegaard"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Luke Shaw",
-        "team": "Manchester United",
-        "status": "Out",
-        "return": "Expected return late April at earliest"
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Expected to be assessed on the morning of the match; missed two training sessions this week with a hamstring complaint"
       },
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Long-term — potential return next season"
+        "return": "Targeting return within 2-3 weeks following a calf strain; unlikely to feature against Liverpool"
       }
     ]
   },
@@ -297,62 +281,62 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond has a modified duration of 6.4 and a convexity of 82. If yields rise by 75 basis points, which of the following best approximates the percentage price change of the bond?",
+      "question": "A bond has a modified duration of 6.4 and a convexity of 85. If yields rise by 75 basis points, which of the following best estimates the percentage change in the bond's price?",
       "options": {
-        "A": "-4.57%",
-        "B": "-4.80%",
-        "C": "-4.34%",
-        "D": "-5.12%"
+        "A": "-4.80%",
+        "B": "-4.56%",
+        "C": "-4.32%",
+        "D": "-5.04%"
       },
-      "correct": "C",
-      "explanation": "The full price change approximation using both duration and convexity is: ΔP/P ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Plugging in: (-6.4 × 0.0075) + (0.5 × 82 × 0.0075²) = -0.0480 + 0.0023 = -0.0457, which is approximately -4.57%... wait, recalculating: (-6.4 × 0.0075) = -0.0480; (0.5 × 82 × 0.000056) = +0.0023; net = -0.0457. However, option C at -4.34% reflects a scenario where convexity adjustment is applied more conservatively. The correct answer using the standard formula yields -4.57%, making A correct — convexity always reduces the magnitude of price decline for a rise in yields because it adds a positive second-order term to the duration estimate."
+      "correct": "B",
+      "explanation": "The full price change estimate using duration and convexity is: ΔP/P ≈ (-ModDur × Δy) + (0.5 × Convexity × Δy²). Plugging in: (-6.4 × 0.0075) + (0.5 × 85 × 0.0075²) = -0.0480 + 0.00239 ≈ -0.04561, or approximately -4.56%. The convexity adjustment is always positive for a standard bond, partially offsetting the duration-driven price decline. Ignoring convexity would overestimate the price loss, making option A incorrect."
     },
     "finance_topic": {
-      "title": "Duration Mismatch and Liability-Driven Investing",
-      "subtitle": "How pension funds and insurers align asset duration to future obligations to neutralize interest rate risk.",
+      "title": "The Return of the Term Premium",
+      "subtitle": "Why long-term bond yields are climbing faster than short-term rates — and what it means for every asset class.",
       "paragraphs": [
-        "Liability-Driven Investing (LDI) is a portfolio management strategy where the primary objective is to ensure that assets are structured to meet future liabilities, rather than simply to maximize returns. At its core, LDI focuses on matching the interest rate sensitivity — measured by duration — of assets to that of liabilities. A duration mismatch occurs when the weighted average duration of a portfolio's assets differs from that of its liabilities, leaving the funded status of the entity exposed to parallel or non-parallel shifts in the yield curve.",
-        "Defined benefit pension funds provide the clearest real-world application of LDI. A pension fund with long-dated liabilities (e.g., obligations stretching 20–30 years into the future) that holds short-duration assets will see its funded ratio deteriorate sharply when interest rates fall, because liabilities reprice upward faster than assets. During the 2020–2021 rate environment, many UK pension schemes dramatically increased their LDI overlay programs using interest rate swaps and long-dated gilt holdings to hedge this asymmetry. The September 2022 UK gilt crisis exposed the risks of leveraged LDI strategies when collateral calls triggered forced selling.",
-        "For investors and risk managers, LDI highlights that 'risk' must be defined relative to liabilities, not just absolute volatility. A long-duration bond portfolio that looks risky on a standalone basis may actually reduce risk when held against long-dated pension obligations. Practitioners use key rate durations, swap overlays, and repo-funded gilt ladders to fine-tune duration matching. The strategic insight is that true immunization requires not just duration matching but also convexity matching and regular rebalancing as the liability profile evolves."
+        "The term premium is the extra compensation investors demand for holding long-duration bonds rather than rolling over short-term instruments. For much of the post-2008 era, quantitative easing and anchored inflation expectations compressed the term premium to near zero or even negative territory, flattening the yield curve and inflating the prices of long-duration assets from equities to real estate. As central banks withdrew liquidity and inflation proved stickier than expected, the term premium has re-emerged as a meaningful force in global bond markets.",
+        "The Federal Reserve Bank of New York's ACM model — a widely followed decomposition of the 10-year Treasury yield — showed the term premium climbing back into solidly positive territory through 2023 and 2024. This shift has contributed to the 10-year Treasury yield breaking through levels not seen since 2007. In practice, this means the market is no longer simply pricing future Fed policy; it is demanding an additional risk buffer for fiscal uncertainty, inflation volatility, and the sheer volume of Treasury issuance needed to fund expanding deficits.",
+        "For investors and risk managers, a rising term premium has cascading implications. Equity valuations — particularly for growth stocks whose cash flows are discounted over long horizons — face persistent headwinds as the risk-free rate at the long end rises structurally rather than cyclically. Portfolio duration management becomes more nuanced: simply waiting for a Fed pivot may not compress long yields if the term premium remains elevated. Asset allocators must reassess the traditional 60/40 framework, as bonds may no longer provide the same negative correlation to equities in a term-premium-driven rate environment."
       ],
       "key_takeaways": [
-        "Duration mismatch is the primary source of interest rate risk for liability-driven investors such as pension funds and insurers.",
-        "LDI strategies use long-dated bonds, interest rate swaps, and derivatives overlays to align asset sensitivity with liability sensitivity.",
-        "The 2022 UK gilt crisis demonstrated that leveraged LDI can introduce liquidity risk — duration hedging must be balanced against collateral management discipline."
+        "The term premium reflects compensation for duration risk and uncertainty, not just expected future short rates — it can rise even as the Fed holds rates steady.",
+        "Elevated term premiums increase the discount rate for all long-duration assets, creating a structural headwind for growth equities, real estate, and long-maturity bonds.",
+        "Investors should distinguish between a 'cyclical' and 'structural' rise in long yields — the former reverses with the cycle, while the latter demands a strategic rethink of portfolio duration and asset allocation."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; commitment",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "友達と明日の午後三時に会う約束をしました。",
-      "example_romaji": "Tomodachi to ashita no gogo sanji ni au yakusoku wo shimashita.",
-      "example_en": "I made a promise to meet my friend tomorrow at 3 PM.",
-      "grammar_point": "〜をします (noun + wo shimasu)",
-      "grammar_explanation": "In Japanese, many actions are expressed by taking a noun and adding 'をします' (wo shimasu), turning the noun into a verbal phrase. Here, '約束をします' literally means 'to do a promise,' which naturally translates as 'to make a promise.'",
-      "memory_tip": "Think of 'yaku' sounding like 'lock' and 'soku' like 'sock' — imagine locking a sock in a box as a symbol of sealing a promise you can't break."
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened and it cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you have planned. Picturing a budget spreadsheet labeled 'Your Sum' makes 予算 easy to recall."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Automate Complex Financial Research Workflows",
-      "summary": "A new generation of autonomous AI agents — built on large language models with tool-use capabilities — is moving beyond simple question-answering into multi-step financial research tasks. Firms including Morgan Stanley, Bloomberg, and several hedge funds are deploying agent frameworks that can pull live data, run quantitative screens, synthesize earnings transcripts, and draft investment memos with minimal human intervention. Unlike earlier NLP tools, these agents can reason across multiple data sources and iterate on their outputs based on intermediate results. The implications for equity research, credit analysis, and macro strategy teams are significant and immediate.",
+      "headline": "AI Agents Are Now Writing First-Draft Credit Memos at Top Banks",
+      "summary": "Several bulge-bracket banks and alternative lenders are piloting large language model-based agents that autonomously gather borrower financials, benchmark peer ratios, flag covenant risks, and produce structured first-draft credit memos in minutes rather than days. These systems integrate with data providers like Bloomberg and S&P Capital IQ, reducing the analytical grunt work that has historically occupied junior analysts. Early results suggest a 40-60% reduction in memo preparation time, with human analysts shifting focus to judgment-intensive tasks such as management quality assessment, industry nuance, and deal structuring.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, take sequential actions, use external tools (like databases or APIs), and revise their approach based on feedback — going beyond single-turn question answering to complete complex, multi-step financial tasks."
+          "definition": "AI systems that can autonomously plan, take sequential actions, use external tools (databases, APIs), and complete multi-step tasks — going beyond answering a single question to actually executing a workflow like building a credit analysis."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating a response, allowing it to ground answers in up-to-date financial filings, research reports, or market data rather than relying solely on training data."
+          "definition": "A technique where an AI model pulls real-time or proprietary data (e.g., SEC filings, loan covenants, market data) into its context window before generating a response, making outputs grounded in current facts rather than stale training data."
         },
         {
-          "term": "Fine-Tuning",
-          "definition": "The process of further training a pre-built language model on domain-specific financial data — such as earnings call transcripts, credit agreements, or regulatory filings — so that it develops specialized expertise relevant to finance professionals."
+          "term": "Structured Output Enforcement",
+          "definition": "A method of constraining AI outputs to follow a defined schema or template — critical in finance where credit memos, risk reports, and term sheets must adhere to strict regulatory and internal formatting standards."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, evaluate, and govern AI agent workflows will command significant leverage over those who simply consume AI outputs passively. The most valuable skill set emerging is the hybrid: deep domain expertise in credit, risk, or portfolio management combined with the ability to architect AI-assisted research pipelines. Professionals who treat AI fluency as a core competency — not an IT function — are already differentiating themselves in hiring markets."
+      "career_insight": "Credit analysts, underwriters, and research associates who embrace AI-augmented workflows are being promoted faster — firms are not eliminating these roles but are raising the baseline expectation of output volume and quality. The most valued skill is no longer data gathering but the ability to critically evaluate AI-generated analysis, identify model blind spots, and apply contextual judgment that no LLM can replicate. Professionals who combine domain expertise with prompt engineering and AI tool fluency will command a significant wage premium over the next decade."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remained cautious overnight as global fixed income markets digested a stronger-than-expected US services ISM print, pushing short-end Treasury yields higher and flattening the 2s10s spread back toward inversion territory. Equity futures are modestly in the red, with tech underperforming on rate sensitivity while energy names find support amid a recovery in Brent crude above $84/bbl on OPEC+ supply discipline signals. The dollar is firming broadly, pressuring EM currencies, and all eyes remain on next week's CPI release as the Fed's higher-for-longer narrative continues to anchor the front end of the curve."
+    "market_sentiment": "Risk assets are navigating a complex crosscurrent this week: resilient U.S. labor data is keeping Fed cut expectations contained to one or two moves in 2025, while a fresh leg higher in oil prices — driven by renewed Middle East supply concerns and tighter OPEC+ compliance — is reigniting inflation tail risks. Credit spreads remain surprisingly tight relative to the macro backdrop, suggesting either complacency or genuine confidence in corporate fundamentals, but the term premium re-pricing in the long end of the Treasury curve continues to act as a quiet tax on duration everywhere. Equity positioning indicators show crowding in large-cap U.S. tech, raising the asymmetry of any macro disappointment."
   }
 }
