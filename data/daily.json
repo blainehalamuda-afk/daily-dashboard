@@ -1,37 +1,37 @@
 {
-  "generated_at": "1:30 PM UTC",
-  "date": "Friday, July 3, 2026",
+  "generated_at": "12:56 PM UTC",
+  "date": "Saturday, July 4, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 84,
-    "feels_like_f": 89,
-    "high_f": 87,
-    "low_f": 81,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 67,
+    "temp_f": 82,
+    "feels_like_f": 87,
+    "high_f": 86,
+    "low_f": 78,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 75,
     "wind_mph": 1,
     "forecast": [
       {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 77,
-        "low": 77,
-        "description": "Broken Clouds"
-      },
-      {
         "day": "Sun",
         "icon": "☀️",
-        "high": 80,
-        "low": 80,
+        "high": 78,
+        "low": 78,
         "description": "Clear Sky"
       },
       {
         "day": "Mon",
+        "icon": "🌧️",
+        "high": 74,
+        "low": 74,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Tue",
         "icon": "☁️",
-        "high": 78,
-        "low": 78,
+        "high": 73,
+        "low": 73,
         "description": "Broken Clouds"
       }
     ]
@@ -43,8 +43,8 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 744.82,
-        "change": -0.94,
+        "price": 744.78,
+        "change": -0.98,
         "change_pct": -0.13,
         "up": false,
         "is_crypto": false,
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 308.67,
-        "change": 14.29,
-        "change_pct": 4.85,
+        "price": 308.63,
+        "change": 14.25,
+        "change_pct": 4.84,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 194.86,
-        "change": -2.72,
-        "change_pct": -1.38,
+        "price": 194.83,
+        "change": -2.75,
+        "change_pct": -1.39,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 393.49,
-        "change": -31.81,
-        "change_pct": -7.48,
+        "price": 393.45,
+        "change": -31.85,
+        "change_pct": -7.49,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 62088.01,
-        "change": 529.59,
-        "change_pct": 0.86,
+        "price": 62629.27,
+        "change": 649.27,
+        "change_pct": 1.05,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1744.52,
-        "change": 65.0,
-        "change_pct": 3.87,
+        "price": 1763.74,
+        "change": 27.68,
+        "change_pct": 1.59,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow Opens Higher After June Hiring Misses Expectations — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/june-jobs-report-stock-market-07-02-2026",
-        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on the jobs report, oil prices, the Dow, S&P 500 and Nasdaq.",
-        "published": "2:20 PM UTC",
+        "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
+        "description": "Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.",
+        "published": "12:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Two Blue Owl Private Credit Funds Impose Caps After Redemption Requests - Bloomberg",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-02/blue-owl-bdcs-impose-caps-after-facing-19-38-requests-to-exit",
-        "description": "For the second straight quarter, two Blue Owl Capital Inc. private credit funds were hit with the industry’s largest redemption requests, forcing the manager to again cap withdrawals.",
-        "published": "1:57 PM UTC",
+        "title": "A hot summer trend in the sharing economy? Rental swimming pools - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/03/nx-s1-5876505/swimming-pool-rental-sharing-economy-swimply",
+        "description": "The Airbnb-style company Swimply said there have been about 275,000 private pool reservations so far this year.",
+        "published": "9:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Ford Q2 sales slide 10% on EV drop and model phase-outs; Bronco and Maverick hybrid set records - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/article/ford-q2-sales-slide-10-on-ev-drop-and-model-phase-outs-bronco-and-maverick-hybrid-set-records-135627404.html",
-        "description": "Ford (F) reported a 10.3% drop in second-quarter US sales, to 549,200 vehicles, as electric-vehicle demand tumbled, F-Series and SUV volumes slipped, and the...",
-        "published": "1:56 PM UTC",
+        "title": "California farmer and food marketer spar over who can sell white nectarines - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1",
+        "description": "A California farmer has been giving away free nectarines this week amid a legal dispute with a food market and distributing company claiming exclusive rights over the variety of white nectarine he gro",
+        "published": "6:41 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Obsidian Entertainment Reportedly Also at Risk of Closure - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/avowed-the-outer-worlds-and-fallout-new-vegas-developer-obsidian-entertainment-reportedly-also-at-risk-of-closure-amid-xbox-reset",
-        "description": "Bloomberg's Jason Schreier has said The Game Business report about Obsidian is incorrect, and that the studio is not in negotiations to avoid shutting down.",
-        "published": "1:56 PM UTC",
+        "title": "Early Steam Machine user mourns \"red line of death\" following GPU failure - Digital Foundry",
+        "source": "Digitalfoundry.net",
+        "url": "https://www.digitalfoundry.net/news/2026/07/early-steam-machine-user-mourns-red-line-of-death-following-gpu-failure",
+        "description": "\"Pretty cool for the 20 minutes that it worked\".",
+        "published": "9:57 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Xbox divided over its future, and do people even buy physical PlayStation games? - The Game Business",
-        "source": "Thegamebusiness.com",
-        "url": "https://www.thegamebusiness.com/p/xbox-divided-over-its-future-and",
-        "description": "Plus, we’re joined by Midwest Games CEO Ben Kvalo to discuss a flexible future for game publishing",
-        "published": "1:05 PM UTC",
+        "title": "Sony has already started repurposing its lone PlayStation disc factory, and the body of physical gaming isn't even cold - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/sony-playstation-disc-factory-repurposed",
+        "description": "The Sony disc-making operation is already planning to retrain its 300 employees to make microlenses.",
+        "published": "9:17 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "‘Destiny 2’ Is Now Permanently Disabling Gear It Can’t Patch - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/07/02/destiny-2-is-now-permanently-disabling-gear-it-cant-patch/",
-        "description": "Destiny 2 has limited options to fixing issues with the game with just one hotfix left. So it is starting to permanently disable things.",
-        "published": "12:55 PM UTC",
+        "title": "News of disease outbreaks can warp our brains in strange and subtle ways - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/future/article/20260702-ebola-and-hantavirus-how-fear-of-infection-warps-our-psychology",
+        "description": "The \"behavioural immune system\" can drive harsher moral judgement and may even contribute to xenophobia.",
+        "published": "9:01 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "U.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress - CBS News",
+        "title": "Live updates: Taylor Swift and Travis Kelce’s multi-day wedding celebration is underway - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/02/entertainment/live-news/taylor-swift-travis-kelce-wedding",
+        "description": "An event believed to be the rehearsal dinner for the couple kicked off Swift and Kelce’s wedding festivities ahead of Friday’s big celebration, according to people familiar with the planning.",
+        "published": "12:17 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused - CBS News",
         "source": "CBS News",
         "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/",
-        "description": "Negotiations between Iran and the U.S. will pause for a week for the funeral of Iran's slain supreme leader, but Trump, and mediators, say there's been progress.",
-        "published": "1:56 PM UTC",
+        "description": "The flag-draped casket of Ayatollah Ali Khamenei was put on display in Tehran Friday with millions expected to attend his dayslong funeral.",
+        "published": "11:15 AM UTC",
         "category": "General"
       }
     ]
@@ -243,19 +251,19 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Summer Move for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Arsenal are reported to be among the leading contenders for Sporting CP striker Viktor Gyökeres, who has been in sensational form this season. The Gunners are said to view him as the long-term focal point of their attack as they push for a maiden Premier League title.",
+        "headline": "Arsenal Reignite Interest in £70m-Rated Bundesliga Midfielder",
+        "summary": "Arsenal are reported to have renewed contact with Bayer Leverkusen over Granit Xhaka's former position replacement, with Mikel Arteta identified a deep-lying playmaker as a priority for the summer window to add Champions League-ready depth to the squad.",
         "clubs": [
           "Arsenal",
-          "Sporting CP"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Open to Selling Casemiro as Summer Squad Overhaul Continues",
-        "summary": "Manchester United are reportedly willing to listen to offers for veteran midfielder Casemiro, with Saudi Pro League clubs expressing strong interest. The move would free up significant wages as INEOS continues its structural rebuild of the squad.",
+        "headline": "Manchester United in Talks Over Striker as Ten Hag Eyes January Reinforcement",
+        "summary": "Manchester United are reportedly exploring a loan-to-buy structure for a top-flight striker after Rasmus Højlund's injury exposed the club's lack of depth up front, with Napoli's Victor Osimhen among the names being discussed internally at Old Trafford.",
         "clubs": [
           "Manchester United",
-          "Al-Qadsiah"
+          "Napoli"
         ]
       }
     ],
@@ -263,7 +271,7 @@
       "home": "Liverpool",
       "away": "Manchester City",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend sees leaders Liverpool host a wounded Manchester City side desperate to close the gap at the top of the table. Liverpool have been imperious at Anfield this season, conceding rarely and converting chances at an elite rate under Arne Slot, while City's defensive frailties have been exposed repeatedly in recent weeks. With the title race potentially at a tipping point, expect an intense, high-stakes encounter where individual moments of quality from both squads' attackers could prove decisive.",
+      "preview": "The most anticipated fixture of the Premier League season arrives at Anfield on Sunday, with Liverpool looking to extend their lead at the top of the table against a City side that has shown renewed defensive solidity under Pep Guardiola following a rocky autumn. Arne Slot's side are unbeaten at Anfield in the league this season and will rely on a raucous home crowd to press an advantage in what is effectively a six-point swing in the title race. City's fitness concerns in midfield could prove decisive, but their ability to control tempo and possession means Liverpool cannot afford a slow start.",
       "key_players": [
         "Mohamed Salah",
         "Erling Haaland",
@@ -275,76 +283,76 @@
         "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; potential return in 1–2 weeks if scans are clear"
+        "return": "Assessed day-to-day; 50/50 for Sunday's match"
       },
       {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Out",
-        "return": "Long-term absence; not expected to feature again this season following ACL recovery"
+        "return": "Long-term — not expected to return before March"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
+      "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using the Merton model. Which of the following best describes the key insight of the Merton model regarding default risk?",
+      "question": "A bank has a $10 million loan to a corporate borrower with a probability of default (PD) of 2%, a loss given default (LGD) of 60%, and an exposure at default (EAD) of $10 million. Under the Basel framework, which of the following best describes the relationship between Expected Loss (EL) and Unexpected Loss (UL), and what capital is primarily held against?",
       "options": {
-        "A": "Default occurs when the firm's asset volatility exceeds a regulatory threshold set by Basel III.",
-        "B": "Equity is modeled as a European call option on the firm's assets, with default occurring when asset value falls below the face value of debt at maturity.",
-        "C": "Credit spreads are solely determined by the firm's leverage ratio and are independent of asset volatility.",
-        "D": "Default probability is estimated by regressing historical default rates against macroeconomic indicators."
+        "A": "EL = $120,000; capital is held primarily against EL because it represents the average loss the bank will incur.",
+        "B": "EL = $120,000; capital is held primarily against UL because EL should be covered by loan loss provisions and pricing.",
+        "C": "EL = $200,000; capital is held primarily against UL because UL represents the worst-case scenario loss.",
+        "D": "EL = $120,000; capital is held against both EL and UL equally under Basel III rules."
       },
       "correct": "B",
-      "explanation": "The Merton model treats a firm's equity as a European call option on its assets, with the strike price equal to the face value of debt at maturity. If the asset value at maturity falls below the debt obligation, equity is worthless and the firm is considered to have defaulted. This structural approach links default probability directly to asset value and volatility, making both inputs critical. Options A, C, and D mischaracterize the model by ignoring its option-theoretic foundation."
+      "explanation": "Expected Loss is calculated as PD × LGD × EAD = 0.02 × 0.60 × $10,000,000 = $120,000. Under the Basel framework, EL is not the primary driver of regulatory capital; instead, banks are expected to cover EL through loan loss provisions and risk-adjusted pricing built into lending spreads. Regulatory capital (and economic capital) is held primarily against Unexpected Loss — the variability of losses around the expected mean — because this is the risk that can render a bank insolvent in stress scenarios."
     },
     "finance_topic": {
-      "title": "Basis Risk in Fixed Income Hedging",
-      "subtitle": "Why hedging with futures or swaps rarely eliminates risk entirely — and what the gap means for portfolio managers.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why a hedge is rarely perfect, and how residual basis risk can turn a risk management strategy into a new source of exposure.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge a position does not move in perfect synchrony with the exposure being hedged. In fixed income markets, basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Because these two prices rarely converge perfectly — due to differences in coupon, maturity, credit quality, or liquidity — a residual, unhedged risk remains even after the hedge is placed.",
-        "A practical example arose prominently during the March 2020 Treasury market dislocation, when basis between Treasury futures and cash Treasuries widened dramatically. Hedge funds running relative-value basis trades — long cash Treasuries, short futures — faced catastrophic margin calls as the basis moved violently against them, forcing deleveraging that ironically amplified the very stress regulators and the Fed ultimately had to address with emergency asset purchases. This illustrated that basis risk, often treated as a second-order concern, can become the primary source of loss in stress environments.",
-        "For risk managers and portfolio managers, basis risk demands careful attention to hedge ratio calibration and ongoing monitoring. Duration-based hedges using Treasury futures may leave meaningful spread duration or convexity exposure uncovered, particularly in corporate or mortgage portfolios. Practitioners often supplement macro hedges with issuer-level CDS or bespoke OTC swaps to minimize residual basis, while stress-testing hedged portfolios under historical scenarios where basis has widened significantly."
+        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the price of the underlying exposure being hedged. In theory, a perfect hedge eliminates all price risk by taking an equal and opposite position. In practice, differences in contract specifications, delivery locations, credit quality, maturity dates, or liquidity between the hedged item and the hedging instrument create a wedge — known as the basis — that fluctuates over time and leaves the hedger exposed to residual profit-and-loss volatility.",
+        "A classic real-world example is a U.S. airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices are highly correlated but not identical, the airline accepts basis risk — the spread between jet fuel spot prices and crude futures prices can widen dramatically during supply disruptions or refinery outages. During the 2021 energy volatility, several carriers that had hedged with crude-linked instruments found their hedges underperforming as crack spreads (the refining margin between crude and refined products) spiked, eroding the economic benefit of the hedge.",
+        "For risk managers and portfolio hedgers, quantifying basis risk is as important as measuring the primary market risk being hedged. The hedge effectiveness ratio — typically assessed via regression of changes in the hedged item's value against changes in the hedging instrument — should be monitored continuously, not just at hedge inception. A low R-squared or a structurally shifting relationship (as seen in cross-currency basis swaps during dollar funding stress) signals that a hedge may provide significantly less protection than modeled, and position sizing or instrument selection should be revisited accordingly."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is placed, stemming from imperfect correlation between the hedged asset and the hedging instrument.",
-        "Basis can widen dramatically during market stress, turning a routine hedging strategy into a source of significant loss — as seen in March 2020.",
-        "Effective hedging requires ongoing hedge ratio adjustments, multi-instrument approaches, and explicit stress testing of basis widening scenarios."
+        "Basis risk is the irreducible residual risk left after hedging, arising from imperfect correlation between the hedged item and the hedging instrument.",
+        "Real-world hedges using related-but-not-identical instruments (e.g., crude futures to hedge jet fuel) can produce significant basis P&L that overwhelms the hedge's intended benefit during market stress.",
+        "Hedge effectiveness must be monitored dynamically using statistical tools; a hedge that was 95% effective at inception can deteriorate materially as market structure or liquidity conditions change."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It is formed by attaching てしまう to the te-form of a verb, with しまいました being the polite past form.",
-      "memory_tip": "Think of 予算 (yosan) as 'your-sum' — the sum of money you have set aside for yourself. When your 'your-sum' hits zero, you say it with a regretful しまいました!"
+      "example_jp": "明日の会議に必ず行くと約束しました。",
+      "example_romaji": "Ashita no kaigi ni kanarazu iku to yakusoku shimashita.",
+      "example_en": "I promised that I would definitely attend tomorrow's meeting.",
+      "grammar_point": "〜と約束する",
+      "grammar_explanation": "The pattern 〜と約束する means 'to promise that ~'. The particle と here quotes the content of the promise, similar to saying 'I promised [that]...' in English. The verb 約束する (yakusoku suru) turns the noun 約束 into a verb meaning 'to make a promise'.",
+      "memory_tip": "Think of 約束 as a 'yak' (a shaggy animal) that is 'soku' (fast) — the yak made a PROMISE to run fast in a race and everyone is holding him to it. The image of a yak solemnly promising to run is hard to forget!"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Risk Departments Everywhere",
-      "summary": "Major banks and fintech lenders are rapidly deploying machine learning models — particularly gradient boosting and deep neural networks — to replace or augment traditional scorecards in credit underwriting. Unlike FICO-based models, these systems ingest thousands of alternative data signals including cash flow patterns, behavioral data, and macroeconomic indicators to produce dynamic credit assessments that update in near real time. Regulators in the US and EU are scrambling to catch up, issuing new guidance on model explainability and fair lending compliance for AI-driven decisions. For risk professionals, this shift creates both opportunity and exposure: AI models can outperform legacy systems but introduce model risk, data drift, and interpretability challenges that must be actively governed.",
+      "headline": "AI Agents Are Beginning to Execute Trades, Not Just Recommend Them",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and autonomous action across multi-step workflows — is moving from research curiosity to live deployment in financial services. Firms including hedge funds and trading desks are piloting AI agents that can ingest market data, reason over a defined investment thesis, and execute orders within pre-approved risk guardrails, all without human intervention at each step. Unlike earlier ML models that produced a signal for a human to act on, these systems close the loop autonomously, raising profound questions about accountability, model risk governance, and regulatory compliance. The pace of capability improvement means that risk and compliance functions that have not yet built frameworks for 'agentic model risk' are already behind.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the previous one, producing highly accurate predictions — widely used in credit scoring and fraud detection because it handles missing data and non-linear relationships well."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously plan and execute sequences of actions — such as querying data sources, running calculations, and placing orders — to achieve a goal, rather than simply producing a one-shot output for a human to act on."
         },
         {
-          "term": "Model Drift",
-          "definition": "The gradual degradation in a model's predictive accuracy over time as the statistical relationships between input features and outcomes shift — a critical concern in credit models when economic conditions change rapidly, requiring continuous monitoring and recalibration."
+          "term": "Human-in-the-Loop vs. Human-on-the-Loop",
+          "definition": "A governance distinction where 'in-the-loop' requires human approval at each decision point, while 'on-the-loop' means a human monitors and can override an AI system that otherwise operates autonomously — the latter is increasingly common in algo trading and AI agent deployments."
         },
         {
-          "term": "SHAP Values (Explainability)",
-          "definition": "A mathematical framework borrowed from game theory that quantifies how much each input variable contributed to a specific model prediction, allowing risk managers and compliance teams to explain AI-driven credit decisions to regulators and customers."
+          "term": "Model Risk Governance (MRG)",
+          "definition": "The framework of policies, validation processes, and controls that financial institutions use to manage risks arising from quantitative and AI models — now being urgently extended to cover generative AI and agentic systems that behave less predictably than traditional statistical models."
         }
       ],
-      "career_insight": "Risk and credit professionals who can bridge quantitative modeling skills with regulatory knowledge — particularly around SR 11-7 model risk management and fair lending compliance for AI systems — are commanding significant premiums in the job market. The most valuable profile is no longer purely a quant or purely a compliance officer, but a hybrid who can evaluate model performance, interrogate training data for bias, and translate findings to both engineers and regulators. Investing in Python, ML fundamentals, and explainable AI tools like SHAP is rapidly becoming table stakes for mid-to-senior risk roles at banks, asset managers, and fintechs."
+      "career_insight": "Finance professionals who understand both the technical architecture of AI agents and the regulatory landscape (SR 11-7, DORA, emerging SEC AI guidance) will be disproportionately valuable as firms struggle to deploy these systems compliantly. The most sought-after skill combination in 2025 is not just prompt engineering but the ability to design governance guardrails — kill switches, audit trails, exposure limits — that allow AI autonomy without creating unacceptable operational or regulatory risk."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets reprice the pace of Fed easing following a string of resilient labor market prints, pushing the 10-year Treasury yield back toward the 4.50–4.60% range and steepening the front end meaningfully. Credit spreads remain broadly constructive — IG near post-GFC tights — but HY technicals are showing early signs of fatigue with modest outflows and softer primary market demand in cyclical sectors. Equity markets are caught between solid corporate earnings revisions and valuation sensitivity to the higher-for-longer rate narrative, with the S&P 500 range-bound as investors await the next CPI print for directional conviction."
+    "market_sentiment": "Global risk sentiment is treading cautiously this morning as markets digest a resilient U.S. labor market print that pushes back market-implied Fed rate cut expectations further into the second half of the year, with the 2-year Treasury yield holding stubbornly above 4.7%. European equities are modestly offered as EUR/USD slips toward 1.07, reflecting divergent central bank paths after the ECB signaled June as a live meeting for its first cut. Credit spreads in IG remain tight but HY is beginning to show marginal widening, suggesting investors are selectively rotating away from lower-quality duration as the 'higher for longer' narrative reasserts itself — watch energy and real estate sectors for early stress signals."
   }
 }
