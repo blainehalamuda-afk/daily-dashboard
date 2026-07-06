@@ -1,37 +1,37 @@
 {
-  "generated_at": "1:03 PM UTC",
-  "date": "Sunday, July 5, 2026",
+  "generated_at": "2:54 PM UTC",
+  "date": "Monday, July 6, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 82,
-    "feels_like_f": 87,
-    "high_f": 84,
-    "low_f": 80,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 71,
-    "wind_mph": 1,
+    "temp_f": 88,
+    "feels_like_f": 96,
+    "high_f": 90,
+    "low_f": 84,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 63,
+    "wind_mph": 4,
     "forecast": [
       {
-        "day": "Mon",
-        "icon": "🌧️",
+        "day": "Tue",
+        "icon": "☀️",
         "high": 74,
         "low": 74,
-        "description": "Light Rain"
-      },
-      {
-        "day": "Tue",
-        "icon": "☁️",
-        "high": 75,
-        "low": 75,
-        "description": "Broken Clouds"
+        "description": "Clear Sky"
       },
       {
         "day": "Wed",
         "icon": "☀️",
-        "high": 79,
-        "low": 79,
+        "high": 80,
+        "low": 80,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "high": 80,
+        "low": 80,
         "description": "Clear Sky"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 744.78,
-        "change": -0.98,
-        "change_pct": -0.13,
-        "up": false,
+        "price": 749.69,
+        "change": 4.91,
+        "change_pct": 0.66,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 308.63,
-        "change": 14.25,
-        "change_pct": 4.84,
+        "price": 312.16,
+        "change": 3.53,
+        "change_pct": 1.14,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 194.83,
-        "change": -2.75,
-        "change_pct": -1.39,
-        "up": false,
+        "price": 196.2,
+        "change": 1.37,
+        "change_pct": 0.7,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 393.45,
-        "change": -31.85,
-        "change_pct": -7.49,
-        "up": false,
+        "price": 404.77,
+        "change": 11.32,
+        "change_pct": 2.88,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 62710.01,
-        "change": 71.99,
-        "change_pct": 0.11,
-        "up": true,
+        "price": 62014.69,
+        "change": -709.32,
+        "change_pct": -1.13,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1764.24,
-        "change": 1.11,
-        "change_pct": 0.06,
-        "up": true,
+        "price": 1750.07,
+        "change": -18.39,
+        "change_pct": -1.04,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Passenger removed from flight at PDX after TSA finds marijuana in luggage - KPTV",
-        "source": "KPTV.com",
-        "url": "https://www.kptv.com/2026/07/04/passenger-removed-flight-pdx-after-tsa-finds-marijuana-luggage/",
-        "description": "A man was removed from a flight at Portland International Airport after investigators said a significant amount of marijuana was found in his checked luggage.",
-        "published": "1:21 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Beloved California beer to bring back iconic label after failed woke rebrand - New York Post",
+        "title": "Dad reveals clever hack to feed family of five for cheap at Chick-fil-A: ‘It’s like it’s 2018 again’ - New York Post",
         "source": "New York Post",
-        "url": "https://nypost.com/2026/07/03/us-news/san-franciscos-anchor-brewing-company-to-bring-back-iconic-labels-after-failed-woke-rebrand/",
-        "description": "Anchor Brewing Company applied for and received federal approval for its iconic, original illustrated beer labels for Anchor Steam Beer and Old Foghorn ale.",
-        "published": "12:08 AM UTC",
+        "url": "https://nypost.com/2026/07/05/lifestyle/dads-clever-hack-to-feed-family-for-cheap-at-chick-fil-a/",
+        "description": "He’s saving people’s wallets, one fried chicken sandwich at a time.",
+        "published": "2:18 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Qi fan fan - The Verge",
+        "title": "Walmart 4th of July sales are still red hot: Score last-minute deals from Dyson, Bissell, Cuisinart, Michael Kors and more up to 80% off - Yahoo",
+        "source": "Yahoo Entertainment",
+        "url": "https://shopping.yahoo.com/deals/article/walmart-4th-of-july-sales-are-still-red-hot-score-last-minute-deals-from-dyson-bissell-cuisinart-michael-kors-and-more-up-to-80-off-160300778.html",
+        "description": "Also on the superstore's rollback list? Patio furniture, home decor, kitchenware and much more.",
+        "published": "1:04 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "'It's a bull market': Wall Street sees more upside in stocks for the second half of 2026 - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/article/its-a-bull-market-wall-street-sees-more-upside-in-stocks-for-the-second-half-of-2026-120220657.html",
+        "description": "Stocks closed out the quarter with a bang, and Wall Street sees more gains ahead.",
+        "published": "12:02 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "It's Official, Shantae's Seventh Game Will Arrive In 2027 - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/07/its-official-shantaes-seventh-game-will-arrive-in-2027",
+        "description": "Check out the brand-new teaser image",
+        "published": "1:30 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Americans of all ages are spending less time socializing - Axios",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/07/05/americans-socializing-decline",
+        "description": "It's a fundamental shift in the way we live our lives that has implications for everything from what we believe to how long we live.",
+        "published": "1:10 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Vizio made a great dumb TV, and it might have been by accident - The Verge",
         "source": "The Verge",
-        "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
-        "description": "Active cooling really works as demonstrated on a Kuxiu D5  Qi2.2 charging dock. Useful at Qi 25W, it’ll likely be required for QI 50W.",
-        "published": "7:00 AM UTC",
+        "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
+        "description": "The Mini LED Quantum is the cheapest quantum-dot TV you can get, but Walmart’s tracking is worrisome. Luckily you can avoid it.",
+        "published": "1:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak - GSMArena.com news - GSMArena.com",
-        "source": "GSMArena.com",
-        "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_watch_ultra_2_prices_leak-news-73569.php",
-        "description": "The motherlode is here. Samsung is widely expected to unveil the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, Galaxy Z Flip8, Galaxy Watch9, and Galaxy Watch...",
-        "published": "7:41 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android - The Hacker News",
-        "source": "Internet",
-        "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-        "description": "Bad Epoll (CVE-2026-46242) is a use-after-free race in the Linux kernel that lets a local user gain root on Linux and Android. A patch is out; update",
-        "published": "7:40 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Live updates: Iran begins dayslong funeral for supreme leader - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/04/world/live-news/iran-khamenei-funeral-war-trump",
-        "description": "The first day of public ceremonies has begun as Iran pauses diplomacy with the US for the funeral. Follow for live updates.",
-        "published": "10:14 AM UTC",
+        "title": "Taylor Swift and Travis Kelce’s love story, from friendship bracelets to wedding rings - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/taylor-swift-travis-kelce-married-deedf312935d9391dd244706b39c3965",
+        "description": "Taylor Swift and Travis Kelce have officially tied the knot. The pop superstar and football champion were married Friday at Madison Square Garden, as confirmed by Swift's publicist. The marquee outsid",
+        "published": "2:20 PM UTC",
         "category": "General"
       },
       {
-        "title": "Trump praises army, rails against communism in US 250th anniversary speech - Al Jazeera",
+        "title": "Reform UK’s Farage failed to disclose funds from convicted criminal: Report - Al Jazeera",
         "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/4/trump-praises-army-rails-against-communism-in-us-250th-anniversary-speech",
-        "description": "At Mount Rushmore Trump warns of ‘communist menace’, ties rhetoric to immigration ahead of November midterms.",
-        "published": "7:22 AM UTC",
+        "url": "https://www.aljazeera.com/news/2026/7/5/reform-uks-farage-failed-to-disclose-funds-from-convicted-criminal-report",
+        "description": "George Cottrell provided funds for Reform UK leader’s security, drivers, staff and accommodation, Sunday Times reports.",
+        "published": "1:44 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Turkey sees its status in NATO rise, thanks to its weapons factories and Trump - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/07/03/trump-attendance-nato-summit-will-highlight-turkeys-new-prominence/",
+        "description": "A friendship between presidents Donald Trump and Recep Tayyip Erdogan, and a need for weapons production, has changed how other NATO countries treat Turkey.",
+        "published": "1:31 PM UTC",
         "category": "General"
       }
     ]
@@ -243,45 +259,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United weighing move for Bundesliga midfielder as Casemiro future remains uncertain",
-        "summary": "United's recruitment team has identified a dynamic box-to-box midfielder from a top Bundesliga club as a potential replacement for Casemiro, whose performances have attracted scrutiny this season. Preliminary discussions are understood to be at an early stage with a deal potentially structured in the January window.",
+        "headline": "Arsenal Heavily Linked With Bundesliga Midfielder Ahead of January Window",
+        "summary": "Arsenal are reportedly accelerating their interest in a creative central midfielder from a top Bundesliga club, with Mikel Arteta said to view the position as the final piece needed to mount a sustained title challenge. Initial contacts between clubs are believed to have taken place, though a fee in excess of £60 million could prove a stumbling block.",
         "clubs": [
-          "Manchester United",
-          "Bayer Leverkusen"
+          "Arsenal",
+          "Bayern Munich"
         ]
       },
       {
-        "headline": "Chelsea in talks to extend key defender's contract amid interest from European giants",
-        "summary": "Chelsea are accelerating efforts to tie down one of their most consistent defensive performers on a new long-term deal, as clubs from Spain and Germany have registered interest ahead of the summer transfer window. The club views retaining the player as a priority given his integral role in their defensive structure.",
+        "headline": "Manchester United Consider Offloading Fringe Striker in Mid-Season Loan",
+        "summary": "Manchester United are open to loaning out a striker who has struggled for regular minutes under Ruben Amorim, with several Championship and mid-table Premier League clubs monitoring the situation. The club are keen to ensure the player receives game time ahead of potential international commitments.",
         "clubs": [
-          "Chelsea",
-          "Real Madrid"
+          "Manchester United",
+          "Everton"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League title race narrative hinges on this top-of-the-table clash at the Emirates, with Arsenal knowing a victory would open a meaningful gap at the summit while City will be determined to demonstrate their championship credentials despite a slightly inconsistent run of form. Arteta's side have been devastating at home this season, pressing with ferocious intensity, but will face their sternest test against Guardiola's system of positional play and off-ball pressing traps. The tactical battle in midfield — where City's control meets Arsenal's verticality — could define which side controls the tempo and ultimately claims a decisive three points.",
+      "preview": "The standout fixture of the weekend pits league leaders Liverpool against a Manchester City side desperate to arrest a run of inconsistent form that has seen them slip out of the title conversation. Liverpool arrive at Anfield having won seven of their last nine in all competitions, buoyed by the form of their dynamic midfield and clinical finishing, while City will lean on Erling Haaland's relentless threat to press for a result. The tactical duel between Slot's high-pressing system and Guardiola's positional play makes this one of the most compelling tactical matchups of the season.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; potential return within 1-2 weeks"
+        "return": "Expected to be assessed on matchday; potentially 1-2 weeks if he misses Sunday"
       },
       {
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return to full training within 2-3 weeks; unlikely to feature this weekend"
+        "return": "Targeting return after the international break, approximately 2-3 weeks"
       }
     ]
   },
@@ -289,62 +305,62 @@
     "cfa_frm": {
       "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model. Which of the following best describes the primary limitation of the Gaussian copula when modeling portfolio credit risk during periods of market stress?",
+      "question": "A risk manager is evaluating a portfolio of credit default swaps (CDS). The portfolio has a notional value of $500 million, and the reference entity has a 5-year cumulative default probability of 12%, with a recovery rate of 40%. If the risk-free rate is 3% and defaults are assumed to occur at mid-year, which of the following best describes the approximate fair value CDS spread (in basis points) the protection buyer should pay annually?",
       "options": {
-        "A": "It overestimates default correlations during normal market conditions, leading to excessive capital charges.",
-        "B": "It fails to capture tail dependence, underestimating the probability of simultaneous defaults during extreme events.",
-        "C": "It requires individual default probabilities to be normally distributed, which violates empirical observations.",
-        "D": "It cannot incorporate recovery rate uncertainty into the joint default distribution."
+        "A": "Approximately 144 bps, derived by dividing expected loss by the risky annuity factor",
+        "B": "Approximately 240 bps, derived by applying the raw default probability to the notional without discounting",
+        "C": "Approximately 72 bps, derived by halving the hazard rate to adjust for mid-year convention",
+        "D": "Approximately 200 bps, derived directly from the 5-year cumulative default probability times the loss given default"
       },
-      "correct": "B",
-      "explanation": "The Gaussian copula assumes that extreme co-movements (tail dependence) are negligible, meaning it assigns near-zero probability to simultaneous defaults in the tails of the distribution. In reality, during financial crises, default correlations spike dramatically, and many entities fail together — a phenomenon the Gaussian copula systematically underestimates. This was a key structural flaw exposed during the 2008 financial crisis in CDO pricing models. Copulas with heavier tails, such as the Student-t copula, better capture this tail dependence."
+      "correct": "A",
+      "explanation": "The fair CDS spread is calculated as Expected Loss divided by the Risky Present Value of an Annuity (RPV01). Expected loss equals the probability of default multiplied by loss given default (1 - recovery rate): 12% × 60% = 7.2% of notional. This must then be divided by the risky annuity factor (approximately 5 years discounted for default risk), yielding roughly 144 bps annually. Option D ignores discounting, Option B ignores the recovery rate adjustment and discounting, and Option C misapplies the mid-year convention by halving rather than properly computing the hazard rate."
     },
     "finance_topic": {
       "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why a hedge is almost never perfect, and what that gap can cost you.",
+      "subtitle": "Why perfect hedges exist only in textbooks, and how basis risk quietly erodes real-world portfolio protection.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep. Technically, the basis is defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price used to hedge it. Even when a firm selects a closely related instrument, divergences in maturity, underlying asset specification, liquidity, or geography can cause the hedge to behave unexpectedly. This imperfection is not a flaw in execution — it is a structural feature of derivative markets that every risk manager must account for.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Jet fuel and crude oil prices are correlated but not identical: refining spreads, seasonal demand, and supply chain disruptions can cause the two prices to diverge sharply. During COVID-19, airlines that had hedged using WTI futures faced a double blow — demand collapsed while their hedge instruments behaved erratically as WTI briefly went negative in April 2020. Similarly, a fixed-income portfolio manager hedging a corporate bond portfolio with Treasury futures faces basis risk driven by the credit spread component, which the hedge does not neutralize.",
-        "For risk managers and investors, basis risk must be explicitly modeled rather than assumed away. When constructing a hedge ratio using the minimum-variance approach, the quality of the hedge (measured by the correlation coefficient squared, R²) directly quantifies the proportion of risk eliminated — the residual is basis risk. In stressed environments, correlations between hedging instruments and underlying exposures tend to break down precisely when protection is most needed. Practitioners should stress-test hedge effectiveness across historical regimes, size residual basis risk exposures against risk budgets, and consider dynamic rebalancing strategies to manage evolving correlations."
+        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, creating a residual exposure even after a hedge is in place. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging instrument. When a portfolio manager uses a futures contract on a related — but not identical — asset, or when contract maturities differ from the hedge horizon, the basis will fluctuate and introduce uncertainty into what was intended to be a protected position.",
+        "A classic real-world example occurs in the energy sector. A jet fuel purchaser who hedges using crude oil futures faces basis risk because jet fuel and crude oil prices, while highly correlated, are not perfectly so. During supply disruptions or refinery outages, crack spreads can widen dramatically, meaning the hedge that looked effective under normal market conditions provides far less protection precisely when it is most needed. Similarly, a fixed-income portfolio manager using 10-year Treasury futures to hedge a portfolio of investment-grade corporate bonds faces basis risk from the credit spread component — Treasury futures cannot neutralize spread widening.",
+        "For risk managers, basis risk demands that hedge effectiveness be monitored dynamically, not set and forgotten. Under IFRS 9 and ASC 815, hedge accounting requires demonstrating prospective and retrospective effectiveness, typically within an 80–125% threshold. A hedge that drifts outside this band can lose its accounting designation, forcing mark-to-market volatility through the income statement. Prudent managers quantify basis risk using regression analysis of historical price relationships and stress-test hedges under scenarios where correlations break down."
       ],
       "key_takeaways": [
-        "Basis risk is the residual, unhedgeable risk that remains when a hedging instrument does not perfectly track the exposure being hedged.",
-        "Real-world basis risk emerges from differences in maturity, asset specification, liquidity, and market segmentation — not just statistical correlation.",
-        "Effective hedge design requires stress-testing correlation assumptions, as basis tends to widen catastrophically during market dislocations when hedges are needed most."
+        "Basis risk is the residual risk remaining after a hedge is applied, caused by imperfect correlation between the hedged item and the hedging instrument.",
+        "Basis risk is most dangerous in stress scenarios when correlations between related assets tend to break down — exactly when hedges are most relied upon.",
+        "Effective hedge ratio calculation and ongoing monitoring of hedge effectiveness are essential to managing basis risk and maintaining hedge accounting designations."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; estimate of expenditure",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をオーバーしてしまいました。",
       "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It is the polite past form of 〜てしまう, commonly used when a result is unfortunate or irreversible.",
-      "memory_tip": "Think of 予算 (yosan) as 'yo, san!' — you gasp 'yo!' when you realize you spent three (san = 3) times your budget. The 予 character means 'in advance' and 算 means 'calculate' — so it literally means 'calculate in advance,' which is exactly what a budget is."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It combines the te-form of a verb with しまいました, adding an emotional tone that plain completion (〜ました) lacks.",
+      "memory_tip": "Think of 予 (beforehand) + 算 (calculate) — a budget is what you calculate beforehand. Picture yourself calculating your spending BEFORE you shop, with a big red YO-SAN stamp on your shopping list."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Autonomously Execute Financial Research Workflows",
-      "summary": "A new generation of agentic AI systems — capable of planning multi-step tasks, querying databases, writing code, and synthesizing outputs without continuous human prompting — is moving from research labs into financial services workflows. Major asset managers and investment banks are piloting systems where AI agents can independently pull earnings data, run valuation models, flag anomalies, and draft investment memos, reducing analyst turnaround time from days to hours. Unlike traditional LLM chat interfaces, these agents maintain memory across sessions, use external tools like Bloomberg APIs and Python interpreters, and self-correct errors through feedback loops. The shift signals that AI in finance is evolving from a copilot that assists humans to a system that can own discrete research tasks end-to-end.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Real Financial Workflows",
+      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous decision execution — is moving from research labs into financial services workflows. Major institutions including JPMorgan, Bloomberg, and BlackRock are piloting AI agents that can autonomously retrieve data, draft investment memos, screen compliance documents, and even trigger alerts in risk systems without step-by-step human prompting. Unlike earlier AI tools that required a human to manually prompt each action, agents chain together tasks, remember context across sessions, and adapt their approach based on intermediate results. The productivity implications for analysts, compliance officers, and risk managers are significant — but so are the model governance and auditability challenges.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that autonomously plans and executes sequences of actions to complete a goal — such as retrieving data, running analysis, and generating a report — without requiring step-by-step human instruction."
+          "definition": "An AI system that can autonomously plan and execute multi-step tasks — such as pulling financial data, running analysis, and generating a report — without requiring a human to prompt each individual step, using tools like web search, code execution, or database queries."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to an external knowledge base (e.g., SEC filings, market data) and retrieves relevant information at query time, improving accuracy and grounding outputs in real, up-to-date facts rather than training data alone."
+          "definition": "A technique where an AI model is connected to an external knowledge base (e.g., regulatory filings, earnings transcripts, internal risk policies) so it can retrieve relevant, up-to-date information before generating responses, significantly improving accuracy and auditability in financial applications."
         },
         {
-          "term": "Tool-Use / Function Calling",
-          "definition": "The ability of an LLM to invoke external tools — such as a Python code interpreter, a financial data API, or a spreadsheet model — allowing it to perform quantitative tasks that pure language generation cannot accomplish."
+          "term": "Model Governance",
+          "definition": "The framework of policies, validation processes, and controls that financial institutions use to ensure AI/ML models are accurate, fair, auditable, and compliant with regulatory expectations — equivalent to the model risk management standards outlined in SR 11-7 guidance."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, evaluate, and govern agentic AI workflows — not just use chat interfaces — will be disproportionately valuable in the next hiring cycle. Critical skills include prompt engineering for structured outputs, understanding model limitations and hallucination risks, and the ability to build validation checkpoints into AI-assisted research processes. The analyst of the future is less a data gatherer and more an AI orchestrator who exercises judgment on model outputs and manages the residual risks those systems introduce."
+      "career_insight": "Finance professionals who understand how to design, oversee, and critically evaluate agentic AI workflows — rather than just use AI as a text generator — will command a significant advantage over the next five years. Skills in prompt engineering, model validation, and AI governance are becoming as valued as traditional financial modeling, particularly in risk management, compliance, and investment research roles where auditability and accuracy are non-negotiable."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex macro crosscurrent as markets digest persistently resilient US labor data against a backdrop of softening consumer credit quality and renewed concerns around commercial real estate refinancing. The Fed's higher-for-longer posture continues to support the dollar and pressure EM currencies, while front-end rates pricing has trimmed aggressive cut expectations back toward two cuts in the next twelve months. Equity markets are showing selective strength in mega-cap AI beneficiaries masking broader breadth deterioration, suggesting the rally remains technically narrow and vulnerable to any negative catalyst from Q3 earnings guidance revisions or geopolitical risk escalation."
+    "market_sentiment": "Risk appetite remains cautiously constructive this morning as markets digest a resilient U.S. labor market print alongside renewed discussion at the Fed about the timing of rate cuts, pushing the 2-year Treasury yield back above 4.75% and flattening the curve modestly. Equity markets are caught between solid corporate earnings revisions on one hand and persistent 'higher for longer' rate concerns on the other, with defensives and dividend payers quietly outperforming high-multiple growth names. In FX, the dollar index holds near recent highs, weighing on EM currencies and commodities, while credit spreads remain tight by historical standards — a signal that institutional investors are not yet pricing meaningful recession risk despite the macro noise."
   }
 }
