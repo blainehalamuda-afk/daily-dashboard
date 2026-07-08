@@ -1,38 +1,38 @@
 {
-  "generated_at": "2:03 PM UTC",
-  "date": "Tuesday, July 7, 2026",
+  "generated_at": "1:26 PM UTC",
+  "date": "Wednesday, July 8, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 81,
-    "feels_like_f": 87,
-    "high_f": 83,
-    "low_f": 79,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 83,
-    "wind_mph": 2,
+    "temp_f": 82,
+    "feels_like_f": 89,
+    "high_f": 85,
+    "low_f": 78,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 80,
+    "wind_mph": 1,
     "forecast": [
       {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 77,
-        "low": 77,
-        "description": "Clear Sky"
-      },
-      {
         "day": "Thu",
-        "icon": "⛅",
-        "high": 79,
-        "low": 79,
-        "description": "Scattered Clouds"
+        "icon": "☀️",
+        "high": 76,
+        "low": 76,
+        "description": "Clear Sky"
       },
       {
         "day": "Fri",
-        "icon": "☀️",
-        "high": 78,
-        "low": 78,
-        "description": "Clear Sky"
+        "icon": "⛅",
+        "high": 77,
+        "low": 77,
+        "description": "Scattered Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "🌧️",
+        "high": 75,
+        "low": 75,
+        "description": "Light Rain"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 748.79,
-        "change": -2.49,
-        "change_pct": -0.33,
+        "price": 747.71,
+        "change": -3.57,
+        "change_pct": -0.48,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 311.53,
-        "change": -1.13,
-        "change_pct": -0.36,
+        "price": 310.66,
+        "change": -2.0,
+        "change_pct": -0.64,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 193.1,
-        "change": -2.45,
-        "change_pct": -1.25,
-        "up": false,
+        "price": 196.93,
+        "change": 1.38,
+        "change_pct": 0.71,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 414.55,
-        "change": -5.22,
-        "change_pct": -1.24,
+        "price": 402.9,
+        "change": -16.87,
+        "change_pct": -4.02,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63122.86,
-        "change": 1300.26,
-        "change_pct": 2.1,
-        "up": true,
+        "price": 61766.01,
+        "change": -1369.98,
+        "change_pct": -2.17,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1774.41,
-        "change": 28.84,
-        "change_pct": 1.65,
-        "up": true,
+        "price": 1734.29,
+        "change": -37.7,
+        "change_pct": -2.13,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,75 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Morgan Stanley’s Wilson Sees Rotation From Chips to Hyperscalers - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-06/morgan-stanley-s-wilson-sees-rotation-from-chips-to-hyperscalers",
-        "description": "US stocks will struggle to reach new highs as investors rotate out of some of this year’s biggest winning technology trades, according to Morgan Stanley strategists.",
-        "published": "12:26 PM UTC",
+        "title": "Louis Vuitton court victory against Chinese tea chain stirs up a debate over copyrights - ABC News - Breaking News, Latest News and Videos",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/louis-vuitton-court-victory-chinese-tea-chain-stirs-134541020",
+        "description": "A debate over use of traditional Chinese symbols has cropped up after a court ordered a Chinese tea chain to pay the French luxury brand Louis Vuitton $1.5 million over copyright infringement claims",
+        "published": "1:59 PM UTC",
         "category": "Business"
       },
       {
-        "title": "The covert U.S.-China battle to make chatbots leak their secrets - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/",
-        "description": "American tech firms say rivals are forcing their chatbots to act as tutors to make Chinese AI smarter.",
-        "published": "12:03 PM UTC",
+        "title": "Rivian stock down on 75 million share sale, preannounces Q2 revenue - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/article/rivian-stock-down-on-75-million-share-sale-preannounces-q2-revenue-131646447.html",
+        "description": "Rivian stock slipped on Tuesday after the company announced a new share offering after Monday's close.",
+        "published": "1:16 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Versant agrees to buy golf simulator company Full Swing for $530 million - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html",
-        "description": "The deal for Full Swing will expand Versant's non-traditional media assets in an effort to diversify revenue from cable television.",
-        "published": "12:00 PM UTC",
+        "title": "Metro Commute Update: “this is going to be a rough few months” - PoPville",
+        "source": "PoPville",
+        "url": "https://www.popville.com/2026/07/this-is-going-to-be-a-rough-few-months/",
+        "description": "Yesterday we shared some 'Bad(ish) News/Good(ish) Metro News' - welp, gonna upgrade that to straight up BAD. Thanks to G. for sharing from yesterday afternoon's commute at Friendship Heights: \"got off",
+        "published": "1:15 PM UTC",
         "category": "Business"
       },
       {
-        "title": "These 15+ PS5 and PS Plus Games Are Coming Out This Week (6th-12th July) - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/guides/these-15plus-ps5-and-ps-plus-games-are-coming-out-this-week-6th-12th-july",
-        "description": "Assassin's Creed! College Football! Sword Art Online!",
-        "published": "11:19 AM UTC",
+        "title": "Apple's iPhone Ultra will be double the price of the iPhone 17 Pro Max, report claims - Mashable",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/apple-iphone-ultra-price-rumor",
+        "description": "Ouch.",
+        "published": "2:08 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "'This Should Not Be Possible': Developer Calls for Steam Refund Policy to Change, After Fans Complete Bitesize Game in Under 2 Hours, Leave Great Reviews — Then Get Money Back Anyway - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/steam-rules-must-change-developer-says-after-players-praise-bitesize-game-but-are-allowed-to-refund-it-anyway",
-        "description": "A Steam game developer has called for the storefront's refund policy to be changed, after players who praised its bitesize game were still able to get their money back.",
-        "published": "11:12 AM UTC",
+        "title": "Epic settles with Fortnite leaker who shared South Park, Minecraft and Overwatch collabs - Video Games Chronicle",
+        "source": "Video Games Chronicle",
+        "url": "https://www.videogameschronicle.com/news/epic-settles-with-fortnite-leaker-who-shared-south-park-minecraft-and-overwatch-collabs/",
+        "description": "Hayden Cohen previously worked on Fortnite as an associate producer",
+        "published": "1:33 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "These 5 Android apps are so good, I'm surprised they're free - Android Authority",
-        "source": "Android Authority",
-        "url": "https://www.androidauthority.com/best-free-android-apps-2026-3683259/",
-        "description": "Free Android apps almost always have some catch. These don't — no paywalls, no subscriptions, not even ads.",
-        "published": "10:36 AM UTC",
+        "title": "Google Pixel 11 leak claims higher prices, no 128GB model, August release date - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/07/07/pixel-11-price-128gb-release-date-leak/",
+        "description": "A new leak reveals that Google is probably raising Pixel 11 series prices, finally ditching the 128GB storage option, and...",
+        "published": "1:23 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Trump urged FIFA to review Balogun’s suspension before star was cleared for World Cup - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/sports/2026/07/05/us-top-scorer-folarin-balogun-allowed-play-world-cup-showdown-against-belgium/",
-        "description": "The decision by the global soccer governing body ahead of the United States’ round-of-16 match against Belgium was denounced as « incomprehensible » by the sport's European federation.",
-        "published": "12:13 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Prince Harry told he replied too late to stay at Buckingham Palace amid confusion over UK visit - CNN",
+        "title": "What to know about cyclospora, the gut-churning parasite causing illness in several states, and how to avoid it - CNN",
         "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/06/uk/prince-harry-buckingham-palace-intl",
-        "description": "Prince Harry will not be able to stay at Buckingham Palace when he visits London this week, despite his team appearing to confirm earlier Monday that he had accepted an invitation to stay there.",
-        "published": "11:56 AM UTC",
+        "url": "https://www.cnn.com/2026/07/07/health/cyclosporiasis-parasite-symptoms-causes",
+        "description": "Got a nasty stomach bug that won’t go away? It could be cyclosporiasis, a parasitic infection that causes weeks of debilitating diarrhea, cramps and bloating.",
+        "published": "2:00 PM UTC",
         "category": "General"
       },
       {
-        "title": "Philippine Senate opens the politically volatile impeachment trial of Vice President Sara Duterte - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/philippine-vice-president-sara-duterte-impeachment-trial-6052d854b78881b742e48732b9305509",
-        "description": "The Philippine Senate has started the impeachment trial of Vice President Sara Duterte in a politically volatile event that will unfold against the backdrop of her feud with President Ferdinand Marcos",
-        "published": "11:48 AM UTC",
+        "title": "Nigel Farage quits and triggers by-election - politico.eu",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/nigel-farage-triggers-by-election-amid-donations-probe/",
+        "description": "The Reform UK leader gambles on “a people versus the establishment by-election” as scrutiny mounts.",
+        "published": "1:46 PM UTC",
         "category": "General"
       }
     ]
@@ -259,45 +251,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Chelsea Weighing Move for Napoli Midfielder as Midfield Reinforcement Priority",
-        "summary": "Chelsea's recruitment team is reportedly monitoring Napoli's Scottish international Scott McTominay ahead of a potential January approach, with the Blues seeking greater physicality and box-to-box energy in central midfield. Napoli are said to value the player above £40 million given his influential start to the Serie A season.",
+        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are reportedly closing in on a deal for a dynamic box-to-box midfielder from the Bundesliga, with Mikel Arteta identifying the position as critical to sustaining a title challenge following Thomas Partey's persistent injury issues. A fee in the region of £55 million is believed to be under discussion, with personal terms already largely agreed.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Arsenal",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Open Talks Over Striker Acquisition as Ten Hag Seeks January Fix",
-        "summary": "Manchester United are understood to have initiated preliminary discussions regarding a loan-to-buy arrangement for a top-flight striker, with Victor Gyökeres of Sporting CP among names being evaluated internally. United's chronic lack of a reliable goal-scorer has become the defining issue of their inconsistent league campaign.",
+        "headline": "Manchester United to Revive Interest in Everton's Jarrad Branthwaite",
+        "summary": "Manchester United are set to reignite their pursuit of Everton centre-back Jarrad Branthwaite in the January window, with INEOS prioritizing defensive reinforcement after a string of costly errors at the back. Everton's precarious financial situation could make them more willing to negotiate despite their reluctance to sell a key asset mid-season.",
         "clubs": [
           "Manchester United",
-          "Sporting CP"
+          "Everton"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The most anticipated fixture of the Premier League weekend pits title-chasing Arsenal against Liverpool in what shapes up as a genuine six-pointer at the top of the table. Arsenal arrive in imperious home form, having kept five consecutive clean sheets at the Emirates, while Liverpool's relentless pressing game under Arne Slot has yielded the division's best away record so far this season. With both sides separated by just two points, dropped points for either could prove decisive in the title narrative by February.",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's defining fixture of the season so far pits league leaders Liverpool against a Manchester City side desperately seeking to arrest a troubling run of inconsistency that has seen them slide out of the top four conversation. Liverpool's high press under Arne Slot has been relentless and tactically suffocating, but Pep Guardiola's side have historically risen for this occasion at Anfield, and the return of key midfield figures could give City the control they need to frustrate the home crowd. The title narrative may effectively hinge on this result — a City loss likely opens a gap too wide to realistically close, while a win could reignite what many assumed was already a two-horse race.",
       "key_players": [
-        "Bukayo Saka",
         "Mohamed Salah",
-        "Martin Ødegaard"
+        "Erling Haaland",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; targeting return within 7-10 days"
+      },
+      {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Out",
-        "return": "Season-ending ACL injury — not expected to return until pre-season 2025/26"
-      },
-      {
-        "player": "Dominic Calvert-Lewin",
-        "team": "Everton",
-        "status": "Doubtful",
-        "return": "Hamstring tightness; assessed day-to-day with weekend fixture in doubt"
+        "return": "Long-term absence; not expected to feature before the new year at the earliest"
       }
     ]
   },
@@ -305,28 +297,28 @@
     "cfa_frm": {
       "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using the KMV model. The firm's asset value is $150 million, the default point is $90 million, and the asset volatility is $20 million. The model estimates a distance-to-default (DD) of 3.0. Which of the following best describes what would happen to the DD if the firm's asset volatility increases while all other inputs remain constant, and what is the primary limitation of mapping DD to an Expected Default Frequency (EDF)?",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using a credit VaR framework. The portfolio has an expected loss (EL) of $12 million and an unexpected loss (UL) at the 99.9% confidence level of $47 million. Which of the following best describes the economic capital required to support this portfolio, and what does it represent?",
       "options": {
-        "A": "DD increases; the primary limitation is that EDF is derived from accounting data rather than market prices.",
-        "B": "DD decreases; the primary limitation is that EDF relies on a historical empirical database of defaults that may not reflect current market conditions.",
-        "C": "DD decreases; the primary limitation is that the model assumes asset returns follow a normal distribution, underestimating tail risk.",
-        "D": "DD increases; the primary limitation is that EDF cannot distinguish between investment-grade and speculative-grade issuers."
+        "A": "Economic capital equals $12 million; it covers the average loss the portfolio is expected to generate over the holding period.",
+        "B": "Economic capital equals $47 million; it represents the difference between the worst-case loss at the chosen confidence level and the expected loss.",
+        "C": "Economic capital equals $59 million; it represents the total potential loss at the 99.9% confidence level including both expected and unexpected losses.",
+        "D": "Economic capital equals $35 million; it is calculated as the unexpected loss minus the expected loss, adjusted for correlation."
       },
       "correct": "B",
-      "explanation": "Distance-to-default is calculated as (Asset Value − Default Point) / Asset Volatility. An increase in asset volatility while the numerator stays constant will reduce the DD, meaning the firm is closer to default in volatility-adjusted terms. The key limitation of converting DD to EDF is that Moody's KMV maps DD values to empirical default frequencies using a proprietary historical database; this mapping is backward-looking and may be stale during structural market shifts, regime changes, or periods with sparse default data for a given DD bucket. Option C describes a concern about the Merton model more broadly but is not the primary limitation of the DD-to-EDF mapping step specifically."
+      "explanation": "Economic capital in a credit VaR framework is designed to absorb unexpected losses, not expected losses, since expected losses are typically priced into loan spreads or provisioned through loan loss reserves. The unexpected loss (UL) at the chosen confidence level — here $47 million — represents the buffer capital a firm must hold to remain solvent under stress scenarios beyond the mean. Option C incorrectly adds EL to UL, which would double-count provisioned amounts; options A and D reflect fundamental misunderstandings of how economic capital is defined in Basel and industry practice."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Fixed Income Portfolios",
-      "subtitle": "When your hedge and your exposure don't move in perfect lockstep, residual risk emerges — and markets can punish the difference.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Why a hedge is almost never perfect, and how the gap between spot and futures prices can erode — or amplify — a risk manager's best-laid plans.",
       "paragraphs": [
-        "Basis risk arises whenever the instrument used to hedge an exposure differs in some meaningful way from the underlying position being hedged. In fixed income, this most commonly surfaces when a portfolio manager uses Treasury futures or interest rate swaps to hedge a portfolio of corporate bonds. Even if both instruments respond to changes in the general level of interest rates, differences in credit spread, liquidity, coupon structure, maturity, and convexity mean the hedge is imperfect. The 'basis' is simply the spread between the price behavior of the hedging instrument and the hedged position, and that spread can widen or narrow unpredictably.",
-        "A vivid real-world example occurred during the March 2020 COVID liquidity shock. Many fixed income managers held investment-grade corporate bond portfolios hedged with Treasury futures. As the crisis unfolded, Treasury yields fell sharply (a flight-to-quality bid), while investment-grade credit spreads simultaneously blew out by 200–300 basis points. The hedge performed well against the rate move, but the credit spread widening was entirely unhedged — managers experienced significant mark-to-market losses precisely because the basis between Treasuries and corporates moved violently. This episode illustrated that a rate hedge is not a credit hedge.",
-        "For risk managers and portfolio managers, understanding and quantifying basis risk is essential before sizing any hedge. Tools include tracking historical basis volatility, running scenario analyses where the basis moves adversely, and using DV01-matching combined with credit spread duration adjustments. Where basis risk is material, layering on CDS protection on the relevant credit index (e.g., CDX IG) alongside rate futures can narrow the residual exposure. Regulatory frameworks like FRTB also require banks to hold capital against non-delta risks, including basis, reinforcing that this is not a theoretical concern but a capital-relevant one."
+        "Basis risk refers to the risk that the value of a hedge instrument will not move in perfect lockstep with the underlying exposure being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price used to hedge it. Even when a hedger selects a closely related instrument, this difference is rarely zero and can fluctuate unpredictably due to supply-demand dynamics, storage costs, convenience yields, or market microstructure effects. The result is that the net hedged position retains residual risk that cannot be diversified away through the hedge itself.",
+        "A classic real-world example involves an airline hedging jet fuel costs using crude oil futures — a cross-hedge — because liquid jet fuel futures markets may not exist or carry insufficient depth. If crude oil prices fall but refinery margins widen (driving jet fuel prices higher relative to crude), the basis moves adversely against the airline. The hedge offsets crude exposure but fails to capture the spread movement, leaving the firm exposed to exactly the refinery-margin risk it did not intend to bear. This scenario played out for several carriers during periods of refinery capacity constraints, where their hedges delivered far less protection than their notional coverage suggested.",
+        "For investors and risk managers, basis risk demands careful instrument selection, continuous monitoring of the basis over the hedge horizon, and explicit recognition in hedge effectiveness testing under ASC 815 or IFRS 9 accounting standards. A hedge deemed 'highly effective' under these frameworks must demonstrate that basis movements remain within acceptable bounds over time. Risk managers should also consider the 'tailing the hedge' adjustment — scaling futures positions to account for the daily mark-to-market settlement feature of futures versus the lump-sum settlement of the underlying — to reduce a subtle but meaningful source of additional basis risk."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk that remains after hedging — it exists whenever the hedge instrument and the exposure differ in credit quality, maturity, or liquidity.",
-        "Rate hedges do not eliminate credit spread risk; the two components can move independently or even in opposite directions during stress events.",
-        "Effective hedge design requires modeling basis volatility historically and stress-testing adverse basis scenarios, not just matching DV01."
+        "Basis = Spot Price minus Futures Price; it is non-zero and variable, making perfect hedges nearly impossible in practice.",
+        "Cross-hedges (using a related but non-identical instrument) introduce additional basis risk that can negate hedge effectiveness during market dislocations.",
+        "Hedge accounting standards require rigorous effectiveness testing precisely because unexpected basis movements can turn a risk-reduction strategy into an unintended speculative position."
       ]
     },
     "japanese": {
@@ -334,33 +326,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikiite shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "〜てしまいました expresses that an action was completed, often with a nuance of regret or that it happened unintentionally. It is formed by attaching 'しまいました' (the polite past form of しまう) to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you plan to spend. If you blow past your 'yo-san,' you'll say 'shimaimashita' with a regretful sigh!"
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — as if something happened that cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Imagine a 'yo-yo' that spins (yo) and then a 'san' (three) dollar coin flying out of your wallet — your budget is gone! 予 sounds like 'yo' (in advance) and 算 relates to calculation, so 予算 literally means 'advance calculation' — your planned spending."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Autonomously Execute Complex Financial Research Tasks",
-      "summary": "A new generation of agentic AI systems — capable of planning multi-step tasks, calling external tools, and iterating on their own outputs — is moving from research labs into early production in financial services. Firms including large asset managers and sell-side banks are piloting AI agents that can ingest earnings transcripts, pull live market data via APIs, cross-reference macro indicators, and produce structured investment memos with minimal human prompting. Unlike simple chatbots, these agents maintain context across long workflows and can self-correct when intermediate outputs fail validation checks. The implication for front-office and risk teams is significant: the bottleneck is shifting from information gathering to judgment, synthesis, and oversight of AI-generated analysis.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Risk Models",
+      "summary": "Major banks and fintech lenders are increasingly deploying gradient boosting and deep learning models to augment — and in some cases replace — traditional FICO-based underwriting, using alternative data sources such as cash flow patterns, utility payments, and even behavioral metadata to assess creditworthiness. Regulators at the OCC and CFPB have begun issuing guidance around model explainability requirements, pushing firms toward interpretable AI techniques like SHAP values to justify credit decisions. For risk managers, this shift creates both opportunity (sharper risk discrimination, lower default rates) and new model risk obligations under SR 11-7, including validation of non-linear, high-dimensional models that traditional model risk teams are often underprepared to handle. The competitive pressure to adopt AI-driven underwriting is now meeting serious governance friction, making the intersection of model risk and machine learning one of the most consequential professional battlegrounds in finance.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "An AI system that can autonomously decompose a complex goal into sub-tasks, use tools (web search, code execution, APIs), and iterate toward a final output — going beyond single-turn question-answering to manage entire workflows relevant to research, compliance monitoring, or portfolio construction."
+          "term": "SHAP Values (SHapley Additive Explanations)",
+          "definition": "A game-theory-based method that assigns each input feature a contribution score to a model's prediction, allowing risk managers to explain why an AI model approved or denied a specific loan — critical for regulatory compliance and fair lending audits."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically fetches relevant documents or data — such as SEC filings, loan covenants, or internal risk reports — at inference time before generating a response, improving factual accuracy and grounding answers in specific, up-to-date source material."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many small decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions on structured financial data like credit bureau files and transaction histories."
         },
         {
-          "term": "Human-in-the-Loop (HITL)",
-          "definition": "A workflow design principle where AI systems flag decisions above a certain complexity or risk threshold for human review before execution, ensuring accountability in regulated financial processes such as credit approvals, trade surveillance alerts, or model risk sign-offs."
+          "term": "Model Risk (SR 11-7 Framework)",
+          "definition": "The risk of adverse consequences — financial loss, reputational damage, or regulatory penalty — arising from errors in model development, implementation, or misuse; AI models face heightened SR 11-7 scrutiny due to their complexity and reduced interpretability."
         }
       ],
-      "career_insight": "Finance professionals who learn to design, prompt, and critically evaluate AI agent workflows will have a significant edge over those who treat AI as a passive search tool. The highest-value skill in the near term is not coding from scratch but rather knowing how to structure a complex financial problem so an AI agent can reliably solve it — combined with the domain expertise to catch errors that the model cannot. Risk managers and analysts who invest in AI literacy now are positioning themselves as the supervisors of AI-augmented teams, rather than candidates for displacement."
+      "career_insight": "Finance professionals who can bridge quantitative modeling and regulatory fluency — understanding both how gradient boosting works and what SR 11-7 requires for its validation — are commanding premium salaries at banks, fintechs, and consulting firms. The fastest-growing hybrid role in credit risk is the 'AI Model Validator,' who must stress-test machine learning models for bias, stability, and conceptual soundness, making Python proficiency combined with credit domain expertise the most valuable skill pairing in the market today."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as U.S. equity futures edge higher ahead of a heavy week of Fed speaker commentary and CPI data, with the market still repricing the path of rate cuts after last month's hotter-than-expected PPI print. The dollar index holds near multi-week highs, pressuring EM currencies and commodities, while the front end of the Treasury curve remains inverted as traders push back the timing of the first ease toward late 2025. Credit spreads in IG are grinding tighter on strong technicals and resilient earnings revisions, though HY remains vulnerable to any deterioration in consumer credit data expected later this week."
+    "market_sentiment": "Risk appetite remains cautiously constructive as markets digest a resilient U.S. labor market print against a backdrop of sticky services inflation, keeping the Fed's 'higher for longer' narrative firmly in play and pushing the 2-year Treasury yield back above 4.8%. Equity markets are showing classic late-cycle rotation dynamics — energy and financials catching a bid on strong earnings revisions while rate-sensitive sectors like utilities and REITs continue to face multiple compression headwinds. Credit spreads in IG remain remarkably tight given the macro uncertainty, suggesting investors are still willing to reach for carry, but CDS index positioning hints that sophisticated money is quietly buying tail-risk protection — a divergence worth monitoring heading into the next FOMC window."
   }
 }
