@@ -1,37 +1,37 @@
 {
-  "generated_at": "1:26 PM UTC",
-  "date": "Wednesday, July 8, 2026",
+  "generated_at": "2:26 PM UTC",
+  "date": "Thursday, July 9, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 82,
-    "feels_like_f": 89,
-    "high_f": 85,
-    "low_f": 78,
+    "temp_f": 86,
+    "feels_like_f": 92,
+    "high_f": 89,
+    "low_f": 83,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 80,
+    "humidity": 64,
     "wind_mph": 1,
     "forecast": [
       {
-        "day": "Thu",
+        "day": "Fri",
         "icon": "☀️",
-        "high": 76,
-        "low": 76,
+        "high": 75,
+        "low": 75,
         "description": "Clear Sky"
       },
       {
-        "day": "Fri",
-        "icon": "⛅",
+        "day": "Sat",
+        "icon": "☁️",
         "high": 77,
         "low": 77,
-        "description": "Scattered Clouds"
+        "description": "Overcast Clouds"
       },
       {
-        "day": "Sat",
+        "day": "Sun",
         "icon": "🌧️",
-        "high": 75,
-        "low": 75,
+        "high": 73,
+        "low": 73,
         "description": "Light Rain"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 747.71,
-        "change": -3.57,
-        "change_pct": -0.48,
-        "up": false,
+        "price": 747.07,
+        "change": 1.67,
+        "change_pct": 0.22,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 310.66,
-        "change": -2.0,
-        "change_pct": -0.64,
+        "price": 312.14,
+        "change": -1.25,
+        "change_pct": -0.4,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 196.93,
-        "change": 1.38,
-        "change_pct": 0.71,
-        "up": true,
+        "price": 199.62,
+        "change": -4.5,
+        "change_pct": -2.2,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 402.9,
-        "change": -16.87,
-        "change_pct": -4.02,
+        "price": 393.33,
+        "change": -0.73,
+        "change_pct": -0.19,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 61766.01,
-        "change": -1369.98,
-        "change_pct": -2.17,
-        "up": false,
+        "price": 62766.33,
+        "change": 674.14,
+        "change_pct": 1.09,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1734.29,
-        "change": -37.7,
-        "change_pct": -2.13,
+        "price": 1737.3,
+        "change": -0.22,
+        "change_pct": -0.01,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Louis Vuitton court victory against Chinese tea chain stirs up a debate over copyrights - ABC News - Breaking News, Latest News and Videos",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/louis-vuitton-court-victory-chinese-tea-chain-stirs-134541020",
-        "description": "A debate over use of traditional Chinese symbols has cropped up after a court ordered a Chinese tea chain to pay the French luxury brand Louis Vuitton $1.5 million over copyright infringement claims",
-        "published": "1:59 PM UTC",
+        "title": "Delta launches 'basic business' fares without lounge access, seat selection - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
+        "description": "Delta is launching basic business and other stripped-down premium classes that come with fewer perks.",
+        "published": "1:14 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Rivian stock down on 75 million share sale, preannounces Q2 revenue - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/article/rivian-stock-down-on-75-million-share-sale-preannounces-q2-revenue-131646447.html",
-        "description": "Rivian stock slipped on Tuesday after the company announced a new share offering after Monday's close.",
-        "published": "1:16 PM UTC",
+        "title": "Bezos' Blue Origin valued at $130 billion in first public fundraising round - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
+        "description": "Bezos' Blue Origin is raising outside capital in a round valuing the rocket company at $130 billion, sources told CNBC's Andrew Ross Sorkin.",
+        "published": "12:32 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Metro Commute Update: “this is going to be a rough few months” - PoPville",
-        "source": "PoPville",
-        "url": "https://www.popville.com/2026/07/this-is-going-to-be-a-rough-few-months/",
-        "description": "Yesterday we shared some 'Bad(ish) News/Good(ish) Metro News' - welp, gonna upgrade that to straight up BAD. Thanks to G. for sharing from yesterday afternoon's commute at Friendship Heights: \"got off",
-        "published": "1:15 PM UTC",
+        "title": "Stock Market Today: Dow Falls As Trump Declares Iran Ceasefire 'Over'; Micron, Sandisk Keep Losing (Live Coverage) - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-ceasefire-micron-sandisk/",
+        "description": "Stock Market Today: The Dow Jones index dives Wednesday after Trump declares the ceasefire is \"over.\" Airline stocks fall as oil spikes up.",
+        "published": "12:09 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Apple's iPhone Ultra will be double the price of the iPhone 17 Pro Max, report claims - Mashable",
-        "source": "Mashable",
-        "url": "https://mashable.com/tech/apple-iphone-ultra-price-rumor",
-        "description": "Ouch.",
-        "published": "2:08 PM UTC",
+        "title": "The ‘Assassin’s Creed Black Flag Resynced’ Metacritic Review Score Is In - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/paultassi/2026/07/08/the-assassins-creed-black-flag-resynced-metacritic-review-score-is-in/",
+        "description": "Assassin's Creed Black Flag Resynced reviews are in, and the game now has a Metacritic score to compare to the original.",
+        "published": "1:08 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Epic settles with Fortnite leaker who shared South Park, Minecraft and Overwatch collabs - Video Games Chronicle",
-        "source": "Video Games Chronicle",
-        "url": "https://www.videogameschronicle.com/news/epic-settles-with-fortnite-leaker-who-shared-south-park-minecraft-and-overwatch-collabs/",
-        "description": "Hayden Cohen previously worked on Fortnite as an associate producer",
-        "published": "1:33 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Google Pixel 11 leak claims higher prices, no 128GB model, August release date - 9to5Google",
+        "title": "Pixel Watch 5 leaks detail new ‘Pyrite’ color, higher $399 starting price - 9to5Google",
         "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/07/07/pixel-11-price-128gb-release-date-leak/",
-        "description": "A new leak reveals that Google is probably raising Pixel 11 series prices, finally ditching the 128GB storage option, and...",
-        "published": "1:23 PM UTC",
+        "url": "http://9to5google.com/2026/07/08/google-pixel-watch-5-price-colors-leak/",
+        "description": "Ahead of Google’s launch event which is now confirmed for August 12, a pair of new leaks reveal some of...",
+        "published": "12:45 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "What to know about cyclospora, the gut-churning parasite causing illness in several states, and how to avoid it - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/07/health/cyclosporiasis-parasite-symptoms-causes",
-        "description": "Got a nasty stomach bug that won’t go away? It could be cyclosporiasis, a parasitic infection that causes weeks of debilitating diarrhea, cramps and bloating.",
-        "published": "2:00 PM UTC",
+        "title": "Mario Kart Tour and Final Fantasy 7 Ever Crisis are the next two high-profile mobile games shutting down as publishers dial back spending - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/mobile-games-mario-kart-tour-ff7-ever-crisis-shut-down",
+        "description": "Two of Nintendo and Square Enix's biggest mobile games will go offline this year as gaming giants continue to rethink their overall strategies.",
+        "published": "12:32 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Elaine Chao releases statement amid husband Mitch McConnell's long hospital stay - WLKY",
+        "source": "WLKY Louisville",
+        "url": "https://www.wlky.com/article/elaine-chao-mitch-mcconnell-health-statement/71858467",
+        "description": "It's been more than three weeks since Sen. Mitch McConnell was admitted to the hospital, and while questions about his health remain unanswered, we're hearing from the senator's wife for the first tim",
+        "published": "2:17 PM UTC",
         "category": "General"
       },
       {
-        "title": "Nigel Farage quits and triggers by-election - politico.eu",
-        "source": "POLITICO.eu",
-        "url": "https://www.politico.eu/article/nigel-farage-triggers-by-election-amid-donations-probe/",
-        "description": "The Reform UK leader gambles on “a people versus the establishment by-election” as scrutiny mounts.",
-        "published": "1:46 PM UTC",
+        "title": "Manhattan Building At Risk Of Collapse Is ‘Stable,’ Officials Say As Some Streets Remain Closed - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/conormurray/2026/07/08/manhattan-building-at-risk-of-collapse-is-stable-officials-say-as-some-streets-remain-closed/",
+        "description": "Several buildings in Midtown Manhattan were evacuated Tuesday morning after officials discovered buckling support beams in a former office building that is being converted to residences.",
+        "published": "1:23 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Members of a sexual predator network on Telegram tried to hide their crimes with code words - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/germany-china-telegram-sexual-violence-women-6279c80947f419ee178707f111487193",
+        "description": "A German investigation into an online predator network that thrived on the messaging app Telegram for years has led to the convictions of four alleged members of the group's inner circle. The network ",
+        "published": "1:17 PM UTC",
         "category": "General"
       }
     ]
@@ -252,44 +260,44 @@
     "transfer_news": [
       {
         "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are reportedly closing in on a deal for a dynamic box-to-box midfielder from the Bundesliga, with Mikel Arteta identifying the position as critical to sustaining a title challenge following Thomas Partey's persistent injury issues. A fee in the region of £55 million is believed to be under discussion, with personal terms already largely agreed.",
+        "summary": "Arsenal are reportedly in advanced discussions over a summer deal for a combative central midfielder from the Bundesliga, with Thomas Partey's contract set to expire and the club seeking a more dynamic long-term option in the engine room.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United to Revive Interest in Everton's Jarrad Branthwaite",
-        "summary": "Manchester United are set to reignite their pursuit of Everton centre-back Jarrad Branthwaite in the January window, with INEOS prioritizing defensive reinforcement after a string of costly errors at the back. Everton's precarious financial situation could make them more willing to negotiate despite their reluctance to sell a key asset mid-season.",
+        "headline": "Chelsea Weighing Move for Napoli Striker as Jackson Backup Target Emerges",
+        "summary": "Chelsea's recruitment team has identified a prolific Serie A striker as a potential deputy to Nicolas Jackson, with the club's ownership keen to add proven goal-scoring depth following a season of inconsistent finishing in key fixtures.",
         "clubs": [
-          "Manchester United",
-          "Everton"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's defining fixture of the season so far pits league leaders Liverpool against a Manchester City side desperately seeking to arrest a troubling run of inconsistency that has seen them slide out of the top four conversation. Liverpool's high press under Arne Slot has been relentless and tactically suffocating, but Pep Guardiola's side have historically risen for this occasion at Anfield, and the return of key midfield figures could give City the control they need to frustrate the home crowd. The title narrative may effectively hinge on this result — a City loss likely opens a gap too wide to realistically close, while a win could reignite what many assumed was already a two-horse race.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The Premier League's most consequential rivalry meets at the Etihad in what could prove decisive in the title race, with both sides separated by just two points and neither able to afford dropped points at this stage of the season. City will lean on their home fortress record and Haaland's relentless form, while Liverpool's high press and the continued brilliance of Salah — on what may be his final season at the club — sets up a contest of contrasting philosophies at the very highest level. Expect an electric atmosphere and a tactically intricate first half as Guardiola and Slot seek to impose their respective structures before the game opens up.",
       "key_players": [
-        "Mohamed Salah",
         "Erling Haaland",
+        "Mohamed Salah",
         "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; targeting return within 7-10 days"
+        "return": "Assessed day-to-day; may miss Sunday's fixture"
       },
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Long-term absence; not expected to feature before the new year at the earliest"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Expected return within 2-3 weeks; not in contention this weekend"
       }
     ]
   },
@@ -297,28 +305,28 @@
     "cfa_frm": {
       "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using a credit VaR framework. The portfolio has an expected loss (EL) of $12 million and an unexpected loss (UL) at the 99.9% confidence level of $47 million. Which of the following best describes the economic capital required to support this portfolio, and what does it represent?",
+      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the most significant limitation of this approach, as highlighted by the 2008 financial crisis?",
       "options": {
-        "A": "Economic capital equals $12 million; it covers the average loss the portfolio is expected to generate over the holding period.",
-        "B": "Economic capital equals $47 million; it represents the difference between the worst-case loss at the chosen confidence level and the expected loss.",
-        "C": "Economic capital equals $59 million; it represents the total potential loss at the 99.9% confidence level including both expected and unexpected losses.",
-        "D": "Economic capital equals $35 million; it is calculated as the unexpected loss minus the expected loss, adjusted for correlation."
+        "A": "The model overestimates the probability of individual obligor default in isolation.",
+        "B": "The model fails to capture tail dependence, underestimating the likelihood of simultaneous defaults during systemic stress.",
+        "C": "The Gaussian copula cannot be parameterized using historical default correlations.",
+        "D": "The model assumes non-constant hazard rates, making it too complex for large portfolios."
       },
       "correct": "B",
-      "explanation": "Economic capital in a credit VaR framework is designed to absorb unexpected losses, not expected losses, since expected losses are typically priced into loan spreads or provisioned through loan loss reserves. The unexpected loss (UL) at the chosen confidence level — here $47 million — represents the buffer capital a firm must hold to remain solvent under stress scenarios beyond the mean. Option C incorrectly adds EL to UL, which would double-count provisioned amounts; options A and D reflect fundamental misunderstandings of how economic capital is defined in Basel and industry practice."
+      "explanation": "The Gaussian copula model assumes joint normality, which implies near-zero tail dependence — meaning it severely underestimates the probability that many obligors default simultaneously in a crisis. During 2008, correlations across structured credit products spiked far beyond model estimates, causing catastrophic losses in CDO tranches. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence but were not widely adopted. This limitation became known colloquially as 'the formula that killed Wall Street.'"
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Why a hedge is almost never perfect, and how the gap between spot and futures prices can erode — or amplify — a risk manager's best-laid plans.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why imperfect hedges can introduce new sources of risk rather than eliminating them.",
       "paragraphs": [
-        "Basis risk refers to the risk that the value of a hedge instrument will not move in perfect lockstep with the underlying exposure being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price used to hedge it. Even when a hedger selects a closely related instrument, this difference is rarely zero and can fluctuate unpredictably due to supply-demand dynamics, storage costs, convenience yields, or market microstructure effects. The result is that the net hedged position retains residual risk that cannot be diversified away through the hedge itself.",
-        "A classic real-world example involves an airline hedging jet fuel costs using crude oil futures — a cross-hedge — because liquid jet fuel futures markets may not exist or carry insufficient depth. If crude oil prices fall but refinery margins widen (driving jet fuel prices higher relative to crude), the basis moves adversely against the airline. The hedge offsets crude exposure but fails to capture the spread movement, leaving the firm exposed to exactly the refinery-margin risk it did not intend to bear. This scenario played out for several carriers during periods of refinery capacity constraints, where their hedges delivered far less protection than their notional coverage suggested.",
-        "For investors and risk managers, basis risk demands careful instrument selection, continuous monitoring of the basis over the hedge horizon, and explicit recognition in hedge effectiveness testing under ASC 815 or IFRS 9 accounting standards. A hedge deemed 'highly effective' under these frameworks must demonstrate that basis movements remain within acceptable bounds over time. Risk managers should also consider the 'tailing the hedge' adjustment — scaling futures positions to account for the daily mark-to-market settlement feature of futures versus the lump-sum settlement of the underlying — to reduce a subtle but meaningful source of additional basis risk."
+        "Basis risk arises when the asset being hedged and the instrument used to hedge it do not move in perfect lockstep. Formally, basis is defined as the difference between the spot price of the hedged asset and the futures or derivative price used in the hedge. Even when a hedger selects the most correlated available instrument, residual price divergence — driven by supply-demand imbalances, contract specifications, or geographic differences — means the hedge will rarely be perfect.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and West Texas Intermediate crude are related but distinct commodities, the correlation is high but not perfect. During periods of refinery disruption or regional supply shocks, the crack spread between crude and refined products can widen dramatically, meaning the airline's hedge gain or loss diverges significantly from its actual fuel cost exposure. Similarly, bond portfolio managers hedging with Treasury futures face basis risk when their portfolio contains corporate or mortgage-backed securities whose spreads move independently of benchmark rates.",
+        "For risk managers and investors, basis risk demands careful hedge ratio calibration using regression-based minimum variance approaches, and continuous monitoring of the basis itself as a risk factor. In volatile or dislocated markets — exactly when hedges are most needed — basis risk tends to spike, creating the uncomfortable paradox where hedging costs increase and effectiveness decreases simultaneously. Stress-testing hedge portfolios under scenarios of basis widening is therefore an essential component of sound risk management practice."
       ],
       "key_takeaways": [
-        "Basis = Spot Price minus Futures Price; it is non-zero and variable, making perfect hedges nearly impossible in practice.",
-        "Cross-hedges (using a related but non-identical instrument) introduce additional basis risk that can negate hedge effectiveness during market dislocations.",
-        "Hedge accounting standards require rigorous effectiveness testing precisely because unexpected basis movements can turn a risk-reduction strategy into an unintended speculative position."
+        "Basis risk is the residual risk remaining after a hedge is placed, stemming from imperfect correlation between the hedged asset and the hedge instrument.",
+        "High historical correlation does not guarantee low basis risk in stress scenarios — hedgers must stress-test across a range of basis outcomes.",
+        "Minimum variance hedge ratios derived from regression analysis can reduce but never fully eliminate basis risk in practical hedging programs."
       ]
     },
     "japanese": {
@@ -326,33 +334,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikiite shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — as if something happened that cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Imagine a 'yo-yo' that spins (yo) and then a 'san' (three) dollar coin flying out of your wallet — your budget is gone! 予 sounds like 'yo' (in advance) and 算 relates to calculation, so 予算 literally means 'advance calculation' — your planned spending."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) is used to express that something was completed, often with a nuance of regret or that the result was unintended. It combines the te-form of a verb with しまう to convey 'ended up doing' something.",
+      "memory_tip": "Think of 'yo-san' as 'yo, son, how much did we spend?' — someone anxiously checking the budget. The kanji 予 means 'in advance' and 算 means 'calculate,' so 予算 literally means 'calculated in advance' — a pre-planned amount."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Risk Models",
-      "summary": "Major banks and fintech lenders are increasingly deploying gradient boosting and deep learning models to augment — and in some cases replace — traditional FICO-based underwriting, using alternative data sources such as cash flow patterns, utility payments, and even behavioral metadata to assess creditworthiness. Regulators at the OCC and CFPB have begun issuing guidance around model explainability requirements, pushing firms toward interpretable AI techniques like SHAP values to justify credit decisions. For risk managers, this shift creates both opportunity (sharper risk discrimination, lower default rates) and new model risk obligations under SR 11-7, including validation of non-linear, high-dimensional models that traditional model risk teams are often underprepared to handle. The competitive pressure to adopt AI-driven underwriting is now meeting serious governance friction, making the intersection of model risk and machine learning one of the most consequential professional battlegrounds in finance.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Complex Financial Workflows",
+      "summary": "A new generation of agentic AI systems — capable of multi-step planning, tool use, and autonomous decision-making — is moving from research labs into financial services workflows. Unlike traditional AI tools that answer single queries, agents can be tasked with objectives like 'research this counterparty and draft a credit memo,' iterating through data retrieval, analysis, and synthesis without human prompting at each step. Early adopters in investment banking and asset management are deploying these systems for due diligence acceleration, earnings analysis, and regulatory document review, reporting 40-60% reductions in analyst time on routine research tasks. The key challenge is governance: ensuring agents operate within defined risk boundaries and that their reasoning chains are auditable.",
       "concepts": [
         {
-          "term": "SHAP Values (SHapley Additive Explanations)",
-          "definition": "A game-theory-based method that assigns each input feature a contribution score to a model's prediction, allowing risk managers to explain why an AI model approved or denied a specific loan — critical for regulatory compliance and fair lending audits."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously plan and execute multi-step tasks toward a goal, using tools like web search, code execution, and APIs — moving beyond single-turn question answering to autonomous workflow completion."
         },
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many small decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions on structured financial data like credit bureau files and transaction histories."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model queries a curated external knowledge base — such as a firm's internal filings, market data, or research reports — before generating a response, dramatically improving factual accuracy and domain relevance in financial applications."
         },
         {
-          "term": "Model Risk (SR 11-7 Framework)",
-          "definition": "The risk of adverse consequences — financial loss, reputational damage, or regulatory penalty — arising from errors in model development, implementation, or misuse; AI models face heightened SR 11-7 scrutiny due to their complexity and reduced interpretability."
+          "term": "Guardrails",
+          "definition": "Programmatic or model-level constraints placed around AI outputs in financial systems to prevent the agent from taking unauthorized actions, generating non-compliant content, or exceeding defined risk thresholds."
         }
       ],
-      "career_insight": "Finance professionals who can bridge quantitative modeling and regulatory fluency — understanding both how gradient boosting works and what SR 11-7 requires for its validation — are commanding premium salaries at banks, fintechs, and consulting firms. The fastest-growing hybrid role in credit risk is the 'AI Model Validator,' who must stress-test machine learning models for bias, stability, and conceptual soundness, making Python proficiency combined with credit domain expertise the most valuable skill pairing in the market today."
+      "career_insight": "Finance professionals who can define, supervise, and quality-control the outputs of agentic AI systems will become the most valuable operators in the next wave of financial services automation. The critical skill is not prompting alone, but understanding enough about credit analysis, risk frameworks, and regulatory compliance to catch when an AI agent has reasoned incorrectly — making deep domain expertise more valuable, not less, in an AI-augmented environment."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautiously constructive as markets digest a resilient U.S. labor market print against a backdrop of sticky services inflation, keeping the Fed's 'higher for longer' narrative firmly in play and pushing the 2-year Treasury yield back above 4.8%. Equity markets are showing classic late-cycle rotation dynamics — energy and financials catching a bid on strong earnings revisions while rate-sensitive sectors like utilities and REITs continue to face multiple compression headwinds. Credit spreads in IG remain remarkably tight given the macro uncertainty, suggesting investors are still willing to reach for carry, but CDS index positioning hints that sophisticated money is quietly buying tail-risk protection — a divergence worth monitoring heading into the next FOMC window."
+    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the session, with equity futures slightly positive as markets digest a cooler-than-expected U.S. core PCE print that has renewed confidence in a Fed rate-cutting trajectory into Q4. Treasury yields are modestly lower across the curve, with the 2s10s spread continuing its gradual steepening trend as front-end rates reprice easing expectations. In credit, IG spreads are holding firm but HY is showing early signs of spread widening in cyclical sectors, suggesting the market is beginning to price a soft-landing scenario with selective caution rather than broad-based risk-on euphoria."
   }
 }
