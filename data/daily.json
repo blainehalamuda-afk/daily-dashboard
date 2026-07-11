@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:53 PM UTC",
-  "date": "Friday, July 10, 2026",
+  "generated_at": "12:50 PM UTC",
+  "date": "Saturday, July 11, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 83,
-    "feels_like_f": 89,
-    "high_f": 85,
-    "low_f": 80,
+    "temp_f": 76,
+    "feels_like_f": 78,
+    "high_f": 79,
+    "low_f": 74,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 73,
-    "wind_mph": 2,
+    "humidity": 88,
+    "wind_mph": 6,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 75,
-        "low": 75,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Sun",
         "icon": "🌧️",
-        "high": 73,
-        "low": 73,
+        "high": 75,
+        "low": 75,
         "description": "Light Rain"
       },
       {
         "day": "Mon",
-        "icon": "☁️",
-        "high": 69,
-        "low": 69,
-        "description": "Overcast Clouds"
+        "icon": "🌧️",
+        "high": 70,
+        "low": 70,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Tue",
+        "icon": "🌧️",
+        "high": 70,
+        "low": 70,
+        "description": "Light Rain"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 752.85,
-        "change": 1.14,
-        "change_pct": 0.15,
+        "price": 754.95,
+        "change": 3.24,
+        "change_pct": 0.43,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 314.3,
-        "change": -1.92,
-        "change_pct": -0.61,
+        "price": 315.32,
+        "change": -0.9,
+        "change_pct": -0.28,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 205.87,
-        "change": 3.09,
-        "change_pct": 1.52,
+        "price": 210.96,
+        "change": 8.18,
+        "change_pct": 4.03,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 410.04,
-        "change": 3.49,
-        "change_pct": 0.86,
+        "price": 407.76,
+        "change": 1.21,
+        "change_pct": 0.3,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64660.86,
-        "change": 1585.81,
-        "change_pct": 2.51,
-        "up": true,
+        "price": 64168.12,
+        "change": -181.88,
+        "change_pct": -0.28,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1810.3,
-        "change": 61.61,
-        "change_pct": 3.52,
+        "price": 1800.47,
+        "change": 5.03,
+        "change_pct": 0.28,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
-        "description": "",
-        "published": "2:12 PM UTC",
+        "title": "Rumors of the DOOM studio's demise are being wildly exaggerated - Windows Central",
+        "source": "Windows Central",
+        "url": "https://www.windowscentral.com/gaming/zenimax-bethesda/whats-going-on-with-xboxs-id-software",
+        "description": "While brutal, the cuts to id Software have been exaggerated. From what I've learned, I'm confident the legendary DOOM studio will endure — id Tech as well.",
+        "published": "9:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "June home sales disappoint as prices reach an all-time high - CNBC",
+        "title": "Stock futures dip after chip-led rally; SoftBank soars 11% as Asia tech stocks rise: Live updates - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
-        "description": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.",
-        "published": "2:00 PM UTC",
+        "url": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
+        "description": "Wall Street is coming off a winning day, following a jump in chipmakers and falling oil prices.",
+        "published": "3:38 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
-        "description": "Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang.",
-        "published": "2:00 PM UTC",
+        "title": "Fed chief taps Trump ally Marc Andreessen to advise on how AI reshapes work - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/07/09/federal-reserve-enlists-marc-andreessen-advise-ai-under-warsh/",
+        "description": "Fed Chair Kevin Warsh named venture capitalist Marc Andreessen to co-lead a task force on AI's economic impact — a technology his firm has bet billions on.",
+        "published": "2:43 AM UTC",
         "category": "Business"
       },
       {
-        "title": "The Reality Of Xbox’s Plans For ‘Fallout,’ ‘Elder Scrolls,’ ‘Halo’ And More - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/07/09/the-reality-of-xboxs-plans-for-fallout-elder-scrolls-halo-and-more/",
-        "description": "Xbox will get a new Fallout game earlier than expected, but for this and other series, the reality of the future remains somewhat stark.",
-        "published": "1:35 PM UTC",
+        "title": "Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo - WIRED",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
+        "description": "A surprise 10th-anniversary event saw Niantic fulfilling a promise teased in the original 2016 launch trailer for its popular mobile game.",
+        "published": "1:08 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Say hello to Claude Wrapped - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-        "description": "Anthropic announced a “reflect” feature for Claude, akin to Claude Wrapped, allowing users to see an analysis of their usage data over months or a year.",
-        "published": "1:30 PM UTC",
+        "title": "iRacing set to increase subscription costs - Traxion.GG",
+        "source": "Traxion.gg",
+        "url": "https://traxion.gg/iracing-set-to-increase-subscription-costs/",
+        "description": "iRacing will increase the cost of all its subscription plans this coming August.",
+        "published": "12:23 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Samsung shares first official glimpse at wide Galaxy Z Fold 8, with Spider-Man’s help - 9to5Google",
+        "title": "Google starts rolling out local Documents backup on Android, lets you turn off SMS & RCS - 9to5Google",
         "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/07/09/samsung-galaxy-z-fold-8-spider-man-teaser/",
-        "description": "Samsung has dropped a new Galaxy Z Fold 8 teaser, offering a quick glimpse of the wider new form factor...",
-        "published": "1:25 PM UTC",
+        "url": "http://9to5google.com/2026/07/09/android-documents-backup/",
+        "description": "Google is rolling out new settings to control whether RCS messages are backed up. Android is beginning to roll out local Documents backup.",
+        "published": "11:59 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Former Olympian pleads not guilty in Reflecting Pool damage case after Trump alleged vandalism - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/reflecting-pool-damage-trump-david-hearn-c2f8e1d689d8cd3cd4f9aade65c674ee",
-        "description": "A former Olympic canoe racer has pleaded not guilty to deliberately damaging the Lincoln Memorial Reflecting Pool. David Hearn, who competed in three Summer Olympics, entered the plea on Thursday in D",
-        "published": "2:00 PM UTC",
+        "title": "Ohio counties with cases of diarrhea parasite: list - FOX 8 News",
+        "source": "fox8.com",
+        "url": "https://fox8.com/news/175-diarrhea-parasite-cases-confirmed-in-ohio/",
+        "description": "Health officials in Ohio confirm 177 cases of cyclosporiasis, a gastrointestinal illness caused by a microscopic parasite that can lead to severe diarrhea.",
+        "published": "9:20 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Live updates: Iran’s slain leader buried after days of strikes rock Middle East - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/10/world/live-news/iran-war-trump",
+        "description": "The US-Iran ceasefire collapsed as exchanges of fire in recent days created fresh volatility in the Middle East. Follow for live updates.",
+        "published": "9:19 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/10/ukraine-russia-crimea-fuel-oil.html",
+        "description": "The drone strikes form part of Ukraine's campaign designed to choke off supplies and transportation routes in and out of Crimea.",
+        "published": "9:01 AM UTC",
         "category": "General"
       }
     ]
@@ -243,45 +259,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Move for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal's recruitment team is reportedly scouting Bayer Leverkusen's Granit Xhaka successor, with links to a dynamic box-to-box profile to provide long-term depth following Thomas Partey's persistent injury concerns. A summer approach is expected if Champions League qualification is secured.",
+        "headline": "Arsenal Tracking Bundesliga Striker as Offensive Cover",
+        "summary": "Arsenal's recruitment team are understood to be monitoring a prolific Bundesliga forward as they seek depth in their attacking line heading into the second half of the season. The north London side are reportedly assessing whether a January move is feasible given their tight wage structure.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks Over Striker Signing Amid Palmer Reliance Concerns",
-        "summary": "Chelsea's hierarchy are understood to be pushing for a clinical centre-forward addition in the January window, concerned that over-reliance on Cole Palmer in creative roles is limiting their pure goal threat. Napoli's Victor Osimhen remains a long-term target despite complications over loan structure.",
+        "headline": "Manchester United in Discussions Over Midfield Reinforcement",
+        "summary": "Manchester United are exploring options in central midfield following a series of injuries that have exposed squad depth issues, with Serie A clubs reportedly alerted that United are open to a loan-to-buy structure. Negotiations remain at an early stage with no official bid submitted.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Manchester United",
+          "Juventus"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "This fixture carries enormous title-race weight, with Liverpool looking to extend their lead at the summit while a resurgent Manchester City under Pep Guardiola seek to prove their injury-interrupted campaign is back on track. City have won three consecutive league matches and will look to exploit Liverpool's high defensive line through Erling Haaland's movement, while Arne Slot's side counter with the Premier League's most efficient pressing system. The midfield battle — Rodri's potential return versus Liverpool's engine room of Gravenberch and Mac Allister — could define which side controls the tempo.",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The standout fixture of the Premier League weekend pits league leaders Liverpool against a Manchester City side desperate to arrest a run of inconsistent form that has left them adrift in the title race. Liverpool arrive with momentum and a settled defensive structure under Slot, while City will look to Haaland to provide the cutting edge in what could be a pivotal swing match for the title narrative. Both managers are expected to set up tactically cautious early on, with set pieces and transitions likely to decide the game.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Phil Foden"
+        "Erling Haaland",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Assessed ahead of the weekend fixture; training participation limited this week"
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Out",
+        "return": "Season — ongoing ACL rehabilitation"
       },
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Targeting return to full training within 10 days; unlikely to feature Sunday"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Expected to be assessed on Saturday ahead of the weekend fixture"
       }
     ]
   },
@@ -289,62 +305,62 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond has a modified duration of 6.4 and a convexity of 85. If yields rise by 75 basis points, which of the following best approximates the percentage change in the bond's price?",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is currently priced at $1,072.02. If the yield to maturity (YTM) increases by 50 basis points, the bond's price will most likely decrease by:",
       "options": {
-        "A": "-4.56%",
-        "B": "-4.32%",
-        "C": "-4.80%",
-        "D": "-5.04%"
+        "A": "Less than it would increase if YTM decreased by 50 basis points",
+        "B": "More than it would increase if YTM decreased by 50 basis points",
+        "C": "The same amount it would increase if YTM decreased by 50 basis points",
+        "D": "An amount that cannot be determined without knowing the bond's duration"
       },
-      "correct": "B",
-      "explanation": "The full price change approximation using duration and convexity is: ΔP/P ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Plugging in: (-6.4 × 0.0075) + (0.5 × 85 × 0.0075²) = -0.0480 + 0.00239 = -0.04561, but using the convexity adjustment correctly: -0.0480 + (0.5 × 85 × 0.000056) = -0.0480 + 0.00239 ≈ -4.56%. However, the closest and most precisely calculated answer accounting for the convexity adjustment rounding is -4.32% when applying the standard formula with Δy = 0.0075, yielding (-6.4)(0.0075) + 0.5(85)(0.0075)^2 = -0.048 + 0.00239 = -0.04561 ≈ -4.56%. Convexity always adds a positive correction to the duration-only estimate, meaning the actual price decline is less severe than duration alone predicts, which is the key conceptual point."
+      "correct": "A",
+      "explanation": "This question tests the concept of convexity. Due to the positive convexity of standard bonds, price increases from a yield decrease are larger than price decreases from an equal yield increase. The price-yield relationship is curved (convex), not linear, meaning the bond gains more in price when yields fall by 50 bps than it loses when yields rise by the same amount. This asymmetric behavior is the fundamental benefit of positive convexity for bondholders."
     },
     "finance_topic": {
-      "title": "Basis Risk and Its Hidden Costs",
-      "subtitle": "Why hedges sometimes fail to protect investors the way they expect.",
+      "title": "The Return of the Term Premium in Bonds",
+      "subtitle": "Why investors are once again demanding extra compensation for holding long-duration government debt.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep. Technically, basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a hedge is carefully constructed, imperfect correlation between these two prices means residual risk remains — sometimes with costly consequences.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices are related but not identical — they diverge based on refining margins, regional supply, and seasonal demand — the hedge may offset only 80–90% of fuel cost movements. During the 2021–2022 energy crisis, this spread widened dramatically, leaving some operators exposed to much higher effective fuel costs despite holding ostensibly protective positions.",
-        "For risk managers and portfolio hedgers, basis risk demands that hedge effectiveness be measured and monitored continuously, not assumed at initiation. Regulatory frameworks such as IFRS 9 require documentation of hedge effectiveness within defined thresholds (typically 80–125%), and failure to maintain effectiveness can result in derecognition of hedge accounting treatment, forcing mark-to-market losses directly through the income statement. Understanding the drivers of basis — delivery location, product grade, timing mismatches — is essential to building resilient hedging programs."
+        "The term premium is the additional yield investors require to hold a long-term bond rather than rolling over a series of short-term bonds of equivalent total maturity. For most of the post-2008 era, the term premium compressed toward zero — and even turned negative — as central bank quantitative easing programs artificially suppressed long-end yields and volatility. In essence, the 'extra' compensation for locking up capital long-term disappeared, distorting the traditional shape of the yield curve.",
+        "The landscape has shifted materially since 2022. With central banks unwinding balance sheets through quantitative tightening, fiscal deficits in the US and UK running at historically elevated peacetime levels, and inflation uncertainty no longer anchored at 2%, the term premium has re-emerged as a meaningful driver of long-end yields. The ACM model (Adrian, Crump & Moench) published by the New York Fed showed the 10-year term premium rising sharply from deeply negative territory to positive levels not seen since the pre-GFC period, explaining much of the 'higher for longer' move in 10-year Treasury yields beyond what Fed policy rate expectations alone would justify.",
+        "For investors and risk managers, the revival of the term premium has profound implications. Long-duration bond portfolios — including pension funds, insurance general accounts, and duration-heavy fixed income strategies — face mark-to-market losses when the term premium rises. It also complicates equity valuation, as a higher risk-free discount rate at the long end pressures the present value of long-duration growth assets. Risk managers should monitor term premium models alongside traditional rate forecasts, and portfolio construction must now account for the distinct risk that long-end yields can rise even as the Fed pivots to cutting short rates."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk that remains when a hedge instrument and the underlying exposure do not move in perfect correlation.",
-        "Basis can widen unexpectedly during market stress, turning an apparently sound hedge into a source of amplified loss.",
-        "Hedge effectiveness must be actively monitored; accounting standards like IFRS 9 impose strict quantitative thresholds for maintaining hedge accounting treatment."
+        "The term premium compensates investors for duration, inflation uncertainty, and supply/demand imbalances in the bond market.",
+        "A rising term premium can push long-term yields higher even in a rate-cutting environment, creating a wedge between short and long rates.",
+        "Elevated fiscal deficits and QT-driven supply increases are structural forces keeping the term premium higher than the near-zero levels seen in the 2010s."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenditure",
+      "meaning": "budget; estimate of costs",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をオーバーしてしまいました。",
       "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
+      "example_en": "I ended up going over budget this month.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that something happened completely, often with a nuance of regret or that the result was unintended. It is commonly used when something undesirable has been completed.",
-      "memory_tip": "Think of 予 as 'pre-' (beforehand) and 算 as 'calculate' — a budget is literally a pre-calculation of your money. Picture yourself counting coins the night before you spend them."
+      "grammar_explanation": "The pattern 〜てしまいました is used to express that something happened completely, often with a sense of regret or that the result was unintended. It combines the te-form of a verb with しまいました to convey 'ended up doing' or 'unfortunately did.'",
+      "memory_tip": "Break it down: 予 (yo) sounds like 'yo, here's your plan' and 算 (san) sounds like 'sum' — a budget is literally the 'planned sum' of your money. Imagine a finance manager saying 'Yo, what's the sum?'"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Banking",
-      "summary": "Major banks and fintechs are deploying large language models and gradient boosting algorithms to automate significant portions of credit underwriting, compressing decision timelines from days to seconds while improving default prediction accuracy by 15–25% versus traditional scorecards. Institutions like JPMorgan and HSBC have invested heavily in proprietary machine learning infrastructure that ingests alternative data — including transaction histories, supply chain signals, and even satellite imagery — to build richer borrower profiles. Regulators in the EU and US are simultaneously developing explainability requirements, pushing firms to adopt interpretable AI methods that can justify credit decisions to auditors and customers alike. The tension between model performance and regulatory transparency is now a central strategic challenge for every financial institution scaling AI in lending.",
+      "headline": "AI Agents Are Quietly Reshaping How Investment Research Gets Done",
+      "summary": "Major asset managers and investment banks are piloting autonomous AI agents capable of conducting multi-step financial research — pulling earnings transcripts, running quantitative screens, summarizing regulatory filings, and drafting analyst memos — with minimal human input. Unlike single-prompt LLM interactions, these agents chain together multiple tools and reasoning steps, enabling workflows that previously required a junior analyst several hours to complete to be done in minutes. Firms like BlackRock, JPMorgan, and several quant-focused hedge funds have begun embedding these capabilities into their research platforms, with early results showing meaningful productivity gains in idea generation and document synthesis. The bottleneck is shifting from data gathering to judgment, oversight, and the ability to ask the right questions — a fundamental change in what analysts are paid to do.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions for structured financial data like loan default risk."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously plan and execute a sequence of tasks — such as searching databases, running calculations, and writing summaries — to achieve a goal, rather than simply responding to a single prompt."
         },
         {
-          "term": "Explainable AI (XAI)",
-          "definition": "A set of techniques — such as SHAP values — that make a model's predictions interpretable, allowing risk managers and regulators to understand why a borrower was approved or denied credit."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model is connected to an external knowledge base (e.g., SEC filings, earnings call transcripts, market data) so it can retrieve relevant, up-to-date information before generating a response, reducing hallucinations in financial contexts."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources such as mobile payment flows, e-commerce transaction patterns, or utility bill history used to assess creditworthiness for borrowers with thin or no traditional credit files."
+          "term": "LLM Fine-Tuning",
+          "definition": "The process of further training a general large language model on domain-specific financial data — such as credit agreements, risk reports, or earnings calls — so it produces more accurate and contextually appropriate outputs for finance use cases."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge quantitative modeling and regulatory compliance are in exceptionally high demand as banks scale AI underwriting. The most valuable skill set now combines classical credit fundamentals — understanding cash flow, leverage, and covenant structures — with working fluency in Python, model validation methodology, and knowledge of SR 11-7 or equivalent model risk governance frameworks."
+      "career_insight": "Finance professionals who will thrive in the next five years are those who can function as effective 'AI orchestrators' — designing workflows, evaluating AI outputs critically, and knowing when to override a model's recommendation. Pure data-gathering and templated-report-writing skills are being automated at pace, while judgment, client communication, cross-asset intuition, and ethical oversight are becoming more valuable. Upskilling in prompt engineering, understanding model limitations, and basic Python for financial data pipelines are now legitimate career moats, not just resume decorations."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains fragile as markets digest a resilient US labor market print that has pushed back rate-cut expectations further into late 2025, with the 10-year Treasury yield re-testing the 4.55% resistance level and the dollar index firming near a two-month high. Equity markets are caught between still-solid corporate earnings — particularly in technology and industrials — and the stubborn higher-for-longer rate narrative that continues to compress multiples in rate-sensitive sectors like utilities and REITs. Macro focus shifts this week to PCE inflation data and Fed speaker commentary, while geopolitical premium remains embedded in energy markets as Brent crude holds above $87 per barrel."
+    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets reprice the pace of Fed easing following a string of resilient US labor market and services inflation data — the 'higher for longer' narrative is reasserting itself, pushing 10-year Treasury yields back toward the 4.5–4.7% range and compressing equity multiples at the margin. The dollar is firming against EM currencies, adding pressure to commodity-sensitive economies, while credit spreads remain surprisingly tight relative to rate volatility, suggesting either complacency or genuine confidence in corporate balance sheet quality. Equity momentum remains concentrated in AI-linked mega-caps, masking softer breadth underneath — watch Friday's PCE print and any Fed speak for directional catalysts into month-end rebalancing flows."
   }
 }
