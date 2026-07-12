@@ -1,25 +1,18 @@
 {
-  "generated_at": "12:50 PM UTC",
-  "date": "Saturday, July 11, 2026",
+  "generated_at": "12:53 PM UTC",
+  "date": "Sunday, July 12, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 76,
-    "feels_like_f": 78,
-    "high_f": 79,
-    "low_f": 74,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 88,
-    "wind_mph": 6,
+    "temp_f": 78,
+    "feels_like_f": 80,
+    "high_f": 80,
+    "low_f": 76,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 85,
+    "wind_mph": 3,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "🌧️",
-        "high": 75,
-        "low": 75,
-        "description": "Light Rain"
-      },
       {
         "day": "Mon",
         "icon": "🌧️",
@@ -29,10 +22,17 @@
       },
       {
         "day": "Tue",
-        "icon": "🌧️",
-        "high": 70,
-        "low": 70,
-        "description": "Light Rain"
+        "icon": "☁️",
+        "high": 69,
+        "low": 69,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "🌤️",
+        "high": 75,
+        "low": 75,
+        "description": "Few Clouds"
       }
     ]
   },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64168.12,
-        "change": -181.88,
-        "change_pct": -0.28,
+        "price": 63997.36,
+        "change": -200.64,
+        "change_pct": -0.31,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1800.47,
-        "change": 5.03,
-        "change_pct": 0.28,
+        "price": 1805.66,
+        "change": 4.35,
+        "change_pct": 0.24,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Rumors of the DOOM studio's demise are being wildly exaggerated - Windows Central",
-        "source": "Windows Central",
-        "url": "https://www.windowscentral.com/gaming/zenimax-bethesda/whats-going-on-with-xboxs-id-software",
-        "description": "While brutal, the cuts to id Software have been exaggerated. From what I've learned, I'm confident the legendary DOOM studio will endure — id Tech as well.",
-        "published": "9:00 AM UTC",
+        "title": "Trump Accounts: Will the new savings scheme for American children succeed? - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg55v9e2y9o",
+        "description": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+        "published": "7:41 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock futures dip after chip-led rally; SoftBank soars 11% as Asia tech stocks rise: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
-        "description": "Wall Street is coming off a winning day, following a jump in chipmakers and falling oil prices.",
-        "published": "3:38 AM UTC",
+        "title": "Oregon AG Drops Demand For Records & Motion To Delay Paramount-Warner Bros. Discovery Merger, Company Says - Deadline",
+        "source": "Deadline",
+        "url": "http://deadline.com/2026/07/paramount-warner-bros-oregon-attorney-general-motion-1236979773/",
+        "description": "The attorney general sought records related to federal lobbying activity.",
+        "published": "2:40 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Fed chief taps Trump ally Marc Andreessen to advise on how AI reshapes work - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/business/2026/07/09/federal-reserve-enlists-marc-andreessen-advise-ai-under-warsh/",
-        "description": "Fed Chair Kevin Warsh named venture capitalist Marc Andreessen to co-lead a task force on AI's economic impact — a technology his firm has bet billions on.",
-        "published": "2:43 AM UTC",
+        "title": "Trump celebrates $250B Micron investment, says America is 'GETTING SHOVELS IN THE GROUND' - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/politics/trump-celebrates-250b-micron-investment-america-getting-shovels-ground",
+        "description": "Micron Technology's $250 billion investment will create 100,000 American jobs across semiconductor facilities in New York, Idaho and Virginia.",
+        "published": "1:38 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo - WIRED",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
-        "description": "A surprise 10th-anniversary event saw Niantic fulfilling a promise teased in the original 2016 launch trailer for its popular mobile game.",
-        "published": "1:08 AM UTC",
+        "title": "EU Says It's Powerless to Stop PlayStation From Killing Discs - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
+        "description": "As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU has said it’s powerless to actually stop Sony — and indeed any company — from killing discs.",
+        "published": "8:05 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "iRacing set to increase subscription costs - Traxion.GG",
-        "source": "Traxion.gg",
-        "url": "https://traxion.gg/iracing-set-to-increase-subscription-costs/",
-        "description": "iRacing will increase the cost of all its subscription plans this coming August.",
-        "published": "12:23 AM UTC",
+        "title": "Pokémon GO Fest Global 2026: Sunday Raids - Pokémon GO Hub",
+        "source": "Pokemon GO Hub",
+        "url": "https://pokemongohub.net/post/event/pokemon-go-fest-global-2026-sunday-raids/",
+        "description": "Pokémon GO Fest 2026: Global takes place from July 11-12, from 10:00 am local time, to 7:00 pm local time on each day. Mega Mewtwo X and Y will make their Pokémon GO debut, along with Zeraora! To cele",
+        "published": "7:40 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Google starts rolling out local Documents backup on Android, lets you turn off SMS & RCS - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/07/09/android-documents-backup/",
-        "description": "Google is rolling out new settings to control whether RCS messages are backed up. Android is beginning to roll out local Documents backup.",
-        "published": "11:59 PM UTC",
+        "title": "Donkey Kong Arcade Set Surfaces In New LEGO Leak, Here's A First Look - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-set-surfaces-in-new-lego-leak-heres-a-first-look",
+        "description": "It's on like Donkey Kong!",
+        "published": "12:55 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Ohio counties with cases of diarrhea parasite: list - FOX 8 News",
-        "source": "fox8.com",
-        "url": "https://fox8.com/news/175-diarrhea-parasite-cases-confirmed-in-ohio/",
-        "description": "Health officials in Ohio confirm 177 cases of cyclosporiasis, a gastrointestinal illness caused by a microscopic parasite that can lead to severe diarrhea.",
-        "published": "9:20 AM UTC",
+        "title": "Judge vacates convictions of 4 Proud Boys in Jan. 6 Capitol insurrection - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/judge-vacates-convictions-of-4-proud-boys-jan-6-capitol-insurrection/",
+        "description": "A federal judge on Friday agreed to dismiss the convictions of four members of the far-right Proud Boys group for their actions in the Jan. 6 Capitol riot.",
+        "published": "11:43 AM UTC",
         "category": "General"
       },
       {
-        "title": "Live updates: Iran’s slain leader buried after days of strikes rock Middle East - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/10/world/live-news/iran-war-trump",
-        "description": "The US-Iran ceasefire collapsed as exchanges of fire in recent days created fresh volatility in the Middle East. Follow for live updates.",
-        "published": "9:19 AM UTC",
+        "title": "15 Indian tourists were killed after a speedboat capsized in southern Vietnam - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/vietnam-indian-tourists-boat-966811c42ef3038ba4084391e2d83d37",
+        "description": "A tourist boat has capsized in southern Vietnam, killing 15 Indian visitors. The speedboat was carrying 32 Indian tourists and four crew members when it overturned Saturday near Hon May Rut Ngoai Isla",
+        "published": "11:11 AM UTC",
         "category": "General"
       },
       {
-        "title": "Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite - CNBC",
+        "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/10/ukraine-russia-crimea-fuel-oil.html",
-        "description": "The drone strikes form part of Ukraine's campaign designed to choke off supplies and transportation routes in and out of Crimea.",
-        "published": "9:01 AM UTC",
+        "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+        "description": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+        "published": "9:36 AM UTC",
         "category": "General"
       }
     ]
@@ -259,27 +259,27 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Tracking Bundesliga Striker as Offensive Cover",
-        "summary": "Arsenal's recruitment team are understood to be monitoring a prolific Bundesliga forward as they seek depth in their attacking line heading into the second half of the season. The north London side are reportedly assessing whether a January move is feasible given their tight wage structure.",
+        "headline": "Arsenal in Advanced Talks for Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Arsenal are understood to have held direct discussions with Sporting CP over a potential summer move for Swedish striker Viktor Gyökeres, with the player's release clause of approximately €100 million central to negotiations. The Gunners view Gyökeres as the long-term successor to their attacking blueprint as they intensify their title challenge.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester United in Discussions Over Midfield Reinforcement",
-        "summary": "Manchester United are exploring options in central midfield following a series of injuries that have exposed squad depth issues, with Serie A clubs reportedly alerted that United are open to a loan-to-buy structure. Negotiations remain at an early stage with no official bid submitted.",
+        "headline": "Manchester United Eyeing Wolves Winger Pedro Neto as Summer Priority",
+        "summary": "Manchester United's new football leadership structure has identified Wolves winger Pedro Neto as a key target for the summer window, with the Portuguese international seen as capable of providing the pace and creativity that has been missing from United's wide areas this season. Wolves are expected to demand a fee in the region of £60 million.",
         "clubs": [
           "Manchester United",
-          "Juventus"
+          "Wolverhampton Wanderers"
         ]
       }
     ],
     "match_preview": {
       "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits league leaders Liverpool against a Manchester City side desperate to arrest a run of inconsistent form that has left them adrift in the title race. Liverpool arrive with momentum and a settled defensive structure under Slot, while City will look to Haaland to provide the cutting edge in what could be a pivotal swing match for the title narrative. Both managers are expected to set up tactically cautious early on, with set pieces and transitions likely to decide the game.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The standout fixture of the Premier League weekend pits league leaders Liverpool against a Manchester City side desperately trying to rediscover form after a turbulent run that has seen them slip out of the title conversation. Liverpool come into this fixture on a nine-match unbeaten run in all competitions and will look to exploit City's defensive fragility from set pieces, a weakness that has been ruthlessly targeted by opponents this season. For Pep Guardiola, this is a must-win encounter to keep any slim Champions League qualification hopes alive, ensuring maximum intensity in what promises to be a high-stakes Anfield encounter.",
       "key_players": [
         "Mohamed Salah",
         "Erling Haaland",
@@ -291,76 +291,76 @@
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Out",
-        "return": "Season — ongoing ACL rehabilitation"
+        "return": "Out for remainder of season — long-term ACL recovery ongoing"
       },
       {
-        "player": "Diogo Jota",
+        "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed on Saturday ahead of the weekend fixture"
+        "return": "Being assessed ahead of the weekend; knock sustained in midweek training"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is currently priced at $1,072.02. If the yield to maturity (YTM) increases by 50 basis points, the bond's price will most likely decrease by:",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income — Arbitrage-Free Valuation",
+      "question": "An analyst is valuing a 3-year, 5% annual coupon bond using a binomial interest rate tree calibrated to the current term structure. The tree produces the following risk-neutral 1-year rates: Year 0: 3.00%; Year 1: 4.50% (up) / 3.20% (down); Year 2: 5.80% (uu) / 4.10% (ud) / 2.90% (dd). Which of the following best describes why the binomial tree must be calibrated to match benchmark bond prices?",
       "options": {
-        "A": "Less than it would increase if YTM decreased by 50 basis points",
-        "B": "More than it would increase if YTM decreased by 50 basis points",
-        "C": "The same amount it would increase if YTM decreased by 50 basis points",
-        "D": "An amount that cannot be determined without knowing the bond's duration"
+        "A": "To ensure the model produces the same yield-to-maturity as the bond's coupon rate under all interest rate paths.",
+        "B": "To eliminate arbitrage opportunities by ensuring the model prices benchmark securities at their observed market values.",
+        "C": "To guarantee that the bond's duration matches the weighted average of the interest rate paths in the tree.",
+        "D": "To ensure the risk-neutral probabilities at each node sum to greater than one, compensating for convexity."
       },
-      "correct": "A",
-      "explanation": "This question tests the concept of convexity. Due to the positive convexity of standard bonds, price increases from a yield decrease are larger than price decreases from an equal yield increase. The price-yield relationship is curved (convex), not linear, meaning the bond gains more in price when yields fall by 50 bps than it loses when yields rise by the same amount. This asymmetric behavior is the fundamental benefit of positive convexity for bondholders."
+      "correct": "B",
+      "explanation": "The arbitrage-free valuation framework requires that the interest rate tree be calibrated so that it correctly prices all on-the-run benchmark (typically Treasury) securities at their observed market prices. If the model mispriced benchmarks, traders could construct riskless profits by simultaneously buying and selling the bond and its replicating portfolio. Risk-neutral probabilities are set at 0.5 for each branch (up/down) precisely so that expected discounted cash flows reproduce market prices, not to compensate for convexity. Duration matching and YTM equality are not the objectives of the calibration process."
     },
     "finance_topic": {
-      "title": "The Return of the Term Premium in Bonds",
-      "subtitle": "Why investors are once again demanding extra compensation for holding long-duration government debt.",
+      "title": "The Term Premium and Its Market Signals",
+      "subtitle": "The term premium — the extra yield investors demand for holding long-dated bonds — is quietly reshaping global asset allocation.",
       "paragraphs": [
-        "The term premium is the additional yield investors require to hold a long-term bond rather than rolling over a series of short-term bonds of equivalent total maturity. For most of the post-2008 era, the term premium compressed toward zero — and even turned negative — as central bank quantitative easing programs artificially suppressed long-end yields and volatility. In essence, the 'extra' compensation for locking up capital long-term disappeared, distorting the traditional shape of the yield curve.",
-        "The landscape has shifted materially since 2022. With central banks unwinding balance sheets through quantitative tightening, fiscal deficits in the US and UK running at historically elevated peacetime levels, and inflation uncertainty no longer anchored at 2%, the term premium has re-emerged as a meaningful driver of long-end yields. The ACM model (Adrian, Crump & Moench) published by the New York Fed showed the 10-year term premium rising sharply from deeply negative territory to positive levels not seen since the pre-GFC period, explaining much of the 'higher for longer' move in 10-year Treasury yields beyond what Fed policy rate expectations alone would justify.",
-        "For investors and risk managers, the revival of the term premium has profound implications. Long-duration bond portfolios — including pension funds, insurance general accounts, and duration-heavy fixed income strategies — face mark-to-market losses when the term premium rises. It also complicates equity valuation, as a higher risk-free discount rate at the long end pressures the present value of long-duration growth assets. Risk managers should monitor term premium models alongside traditional rate forecasts, and portfolio construction must now account for the distinct risk that long-end yields can rise even as the Fed pivots to cutting short rates."
+        "The term premium is the compensation bond investors require for bearing the uncertainty of holding a long-maturity instrument rather than rolling over a series of short-term positions. Formally, it is the difference between the observed long-term yield and the expected average of future short-term rates over the same horizon. When the term premium is positive, the yield curve slopes upward even if markets expect rates to remain flat. Models such as the ACM (Adrian, Crump, Moench) decomposition from the New York Federal Reserve attempt to isolate this component from pure rate expectations.",
+        "After a decade of compressed term premia — driven by quantitative easing, low inflation, and a global savings glut — the post-2022 rate cycle has seen a significant re-pricing. The 10-year US Treasury term premium turned sharply positive in 2023 for the first time in years, contributing to the bond market selloff that pushed 10-year yields above 5%. Investors who had positioned for a 'lower for longer' regime found their duration risk unexpectedly punished not just by rate hike expectations but by a structural re-rating of the premium itself.",
+        "For portfolio managers and risk officers, understanding term premium dynamics is critical for duration positioning, liability matching, and cross-asset allocation. A rising term premium tends to tighten financial conditions independently of central bank action, suppressing equity valuations through a higher discount rate. Conversely, if the term premium compresses — as it may during risk-off 'flight to quality' episodes — long bonds can rally even as short rates remain elevated, creating steepening or flattening dynamics that wrong-foot carry traders and ALM desks alike."
       ],
       "key_takeaways": [
-        "The term premium compensates investors for duration, inflation uncertainty, and supply/demand imbalances in the bond market.",
-        "A rising term premium can push long-term yields higher even in a rate-cutting environment, creating a wedge between short and long rates.",
-        "Elevated fiscal deficits and QT-driven supply increases are structural forces keeping the term premium higher than the near-zero levels seen in the 2010s."
+        "The term premium is distinct from rate expectations; it reflects uncertainty and supply/demand dynamics in the long end of the yield curve.",
+        "Post-QE normalization has restored positive term premia, fundamentally changing the risk profile of long-duration fixed income.",
+        "Rising term premia tighten financial conditions independently of the policy rate, with direct implications for equity valuations and credit spreads."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of costs",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました is used to express that something happened completely, often with a sense of regret or that the result was unintended. It combines the te-form of a verb with しまいました to convey 'ended up doing' or 'unfortunately did.'",
-      "memory_tip": "Break it down: 予 (yo) sounds like 'yo, here's your plan' and 算 (san) sounds like 'sum' — a budget is literally the 'planned sum' of your money. Imagine a finance manager saying 'Yo, what's the sum?'"
+      "grammar_explanation": "The pattern 〜てしまいました is used to express that an action was completed, often with a nuance of regret or that something happened unintentionally or fully. It combines the te-form of a verb with しまう (shimau), which conveys a sense of finality or unfortunate completion.",
+      "memory_tip": "Think of 予算 (yosan) as 'your SAN-ity' — once the budget is gone, you lose your sanity! The 予 character means 'in advance' and 算 means 'calculate,' so it literally means 'pre-calculated amount.'"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Investment Research Gets Done",
-      "summary": "Major asset managers and investment banks are piloting autonomous AI agents capable of conducting multi-step financial research — pulling earnings transcripts, running quantitative screens, summarizing regulatory filings, and drafting analyst memos — with minimal human input. Unlike single-prompt LLM interactions, these agents chain together multiple tools and reasoning steps, enabling workflows that previously required a junior analyst several hours to complete to be done in minutes. Firms like BlackRock, JPMorgan, and several quant-focused hedge funds have begun embedding these capabilities into their research platforms, with early results showing meaningful productivity gains in idea generation and document synthesis. The bottleneck is shifting from data gathering to judgment, oversight, and the ability to ask the right questions — a fundamental change in what analysts are paid to do.",
+      "headline": "AI Agents Are Now Autonomously Executing Multi-Step Financial Research Workflows",
+      "summary": "Agentic AI systems — AI models that can plan, use tools, and take sequential actions with minimal human intervention — are moving from demos to deployment inside financial institutions. Firms including Bloomberg, BlackRock, and several tier-one banks are piloting agents that can retrieve earnings filings, run quantitative screens, synthesize analyst commentary, and draft investment memos with limited human prompting. Unlike static large language models, these agents integrate with APIs, databases, and code execution environments, allowing them to perform tasks that previously required a junior analyst working several hours. The shift raises important questions about oversight, model risk governance, and how institutions validate AI-generated financial conclusions.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute a sequence of tasks — such as searching databases, running calculations, and writing summaries — to achieve a goal, rather than simply responding to a single prompt."
+          "definition": "An AI system that can autonomously plan and execute a sequence of tasks — such as querying data, writing code, and synthesizing output — to achieve a higher-level goal, rather than simply responding to a single prompt."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to an external knowledge base (e.g., SEC filings, earnings call transcripts, market data) so it can retrieve relevant, up-to-date information before generating a response, reducing hallucinations in financial contexts."
+          "definition": "A technique where an AI model's responses are grounded by dynamically retrieving relevant documents (e.g., filings, research reports, market data) before generating an answer, reducing hallucinations and improving factual accuracy in financial applications."
         },
         {
-          "term": "LLM Fine-Tuning",
-          "definition": "The process of further training a general large language model on domain-specific financial data — such as credit agreements, risk reports, or earnings calls — so it produces more accurate and contextually appropriate outputs for finance use cases."
+          "term": "Model Risk Governance for AI",
+          "definition": "The framework — analogous to SR 11-7 for traditional quantitative models — used to validate, monitor, and audit AI/ML models deployed in financial decision-making, ensuring outputs are explainable, auditable, and free from unintended bias."
         }
       ],
-      "career_insight": "Finance professionals who will thrive in the next five years are those who can function as effective 'AI orchestrators' — designing workflows, evaluating AI outputs critically, and knowing when to override a model's recommendation. Pure data-gathering and templated-report-writing skills are being automated at pace, while judgment, client communication, cross-asset intuition, and ethical oversight are becoming more valuable. Upskilling in prompt engineering, understanding model limitations, and basic Python for financial data pipelines are now legitimate career moats, not just resume decorations."
+      "career_insight": "Finance professionals who can act as effective 'AI orchestrators' — designing workflows, validating outputs, and knowing when to override an agent — will be disproportionately valuable in the next five years. Deep domain expertise in credit, risk, or portfolio management is increasingly a moat precisely because AI systems require a knowledgeable human to catch subtle errors that are invisible to a non-specialist reviewer. Learning prompt engineering, basic Python for data validation, and AI governance frameworks alongside traditional finance skills is the most high-leverage career investment available right now."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets reprice the pace of Fed easing following a string of resilient US labor market and services inflation data — the 'higher for longer' narrative is reasserting itself, pushing 10-year Treasury yields back toward the 4.5–4.7% range and compressing equity multiples at the margin. The dollar is firming against EM currencies, adding pressure to commodity-sensitive economies, while credit spreads remain surprisingly tight relative to rate volatility, suggesting either complacency or genuine confidence in corporate balance sheet quality. Equity momentum remains concentrated in AI-linked mega-caps, masking softer breadth underneath — watch Friday's PCE print and any Fed speak for directional catalysts into month-end rebalancing flows."
+    "market_sentiment": "Global risk assets are navigating a delicate balance this week as markets reprice the 'higher for longer' Fed narrative against surprisingly resilient US labor data, keeping the 2-year Treasury pinned above 4.8% and the dollar bid against G10 peers. Equity futures are modestly offered at the open as the market absorbs the prospect of fewer rate cuts in 2025 than the January consensus implied, with the S&P 500 multiple looking increasingly stretched relative to the real yield backdrop. Credit spreads remain historically tight despite the rate vol overhang — a divergence that suggests either exceptional corporate fundamental quality or complacency that a shock in duration or growth could rapidly unwind."
   }
 }
