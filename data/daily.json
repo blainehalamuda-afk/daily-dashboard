@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:02 PM UTC",
-  "date": "Tuesday, July 14, 2026",
+  "generated_at": "1:06 PM UTC",
+  "date": "Wednesday, July 15, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 72,
-    "feels_like_f": 74,
-    "high_f": 74,
-    "low_f": 71,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 92,
-    "wind_mph": 2,
+    "temp_f": 80,
+    "feels_like_f": 80,
+    "high_f": 82,
+    "low_f": 76,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 73,
+    "wind_mph": 3,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "☁️",
-        "high": 77,
-        "low": 77,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Thu",
         "icon": "☀️",
-        "high": 79,
-        "low": 79,
+        "high": 78,
+        "low": 78,
         "description": "Clear Sky"
       },
       {
         "day": "Fri",
-        "icon": "⛅",
-        "high": 83,
-        "low": 83,
-        "description": "Scattered Clouds"
+        "icon": "☀️",
+        "high": 82,
+        "low": 82,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Sat",
+        "icon": "☁️",
+        "high": 81,
+        "low": 81,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 749.17,
-        "change": -5.78,
-        "change_pct": -0.77,
-        "up": false,
+        "price": 751.83,
+        "change": 2.66,
+        "change_pct": 0.36,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 317.31,
-        "change": 1.99,
-        "change_pct": 0.63,
-        "up": true,
+        "price": 314.86,
+        "change": -2.45,
+        "change_pct": -0.77,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 203.53,
-        "change": -7.43,
-        "change_pct": -3.52,
-        "up": false,
+        "price": 211.8,
+        "change": 8.27,
+        "change_pct": 4.06,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 394.76,
-        "change": -13.0,
-        "change_pct": -3.19,
-        "up": false,
+        "price": 396.18,
+        "change": 1.42,
+        "change_pct": 0.36,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63879.99,
-        "change": 1245.03,
-        "change_pct": 1.99,
+        "price": 65303.98,
+        "change": 1435.98,
+        "change_pct": 2.25,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1862.9,
-        "change": 91.14,
-        "change_pct": 5.14,
+        "price": 1934.9,
+        "change": 71.6,
+        "change_pct": 3.84,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,51 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Column | The surprising health benefits of eating spicy food - The Washington Post",
+        "title": "Stock Market Today: Big Banks’ Bumper Quarter Points to Strong U.S. Economy - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026",
+        "description": "",
+        "published": "2:06 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Goodbye, middle seat. United's new seating design offers extra space - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/travel/airline-news/2026/07/14/united-airlines-middle-seat-extra-space/90908273007/",
+        "description": "United is introducing a new Economy Plus seating option that swaps the middle seat for a table on select Airbus A321XLR aircraft.",
+        "published": "1:30 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Natural Light unveils the CoolShed for beer drinkers - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/money/2026/07/14/natural-light-coolshed-beer-cooler/90911791007/",
+        "description": "Natural Light has unveiled a new way for beer drinkers to keep their drinks ice cold this summer. Here's what to know about the CoolShed.",
+        "published": "1:26 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "How Cycling Solved Sleep - Defector",
+        "source": "Defector.com",
+        "url": "https://defector.com/how-cycling-solved-sleep",
+        "description": "AURILLAC, France — Is the Tour de France is the most competitive sleep environment in sports? “Probably, yeah,” answered Dr. Jon Greenwell, EF-Education EasyPost’s Head Doctor when I asked him. Every ",
+        "published": "12:59 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/",
+        "description": "Facilities in Apple's supply chain have finished renovations ahead of \"iPhone 20\" production, according to a Weibo leaker who says...",
+        "published": "12:46 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Pixel Watch 5 leaks in official-looking renders with new colors, bands, watch face [Gallery] - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/07/14/google-pixel-watch-5-render-leaks/",
+        "description": "Ahead of its official reveal next month, Google’s Pixel Watch 5 has fully leaked in official-looking new renders, showing off...",
+        "published": "12:35 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "As Cases of ‘Diarrhea Parasite’ Cyclospora Rise Across the US, Is It Safe to Eat Fresh Produce? - TODAY.com",
+        "source": "TODAY",
+        "url": "https://www.today.com/health/news/cyclosporiasis-cases-diarrhea-parasite-what-safe-eat-produce-foods-rcna587280",
+        "description": "What foods / produce are safe amid a national increase in cyclosporiasis, the explosive diarrhea parasite? Experts on how cyclospora spreads, ways to stay safe.",
+        "published": "2:25 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Jordan Walker spoils Philly’s Kyle Schwarber party, rallies to win Home Run Derby - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/home-run-derby-all-star-game-5dcc1b03ebb96723a9e1b74cc362cc59",
+        "description": "Jordan Walker silenced Philadelphia’s boo birds by homering on his last six swings, chasing down Phillies slugger Kyle Schwarber in the final round and becoming the first Cardinal to win the Home Run ",
+        "published": "1:53 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "One of the planet’s strongest heat domes will soon scorch the East Coast - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/wellness/2026/07/13/is-spicy-food-good-you-here-what-science-says/",
-        "description": "Like it hot? Your heart, gut — and even your lifespan — may benefit.",
-        "published": "12:26 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "SK Hynix Stock Drops as AI Fears Resurface - Barron's",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/sk-hynix-stock-price-fall-5ab9a632",
-        "description": "SK Hynix dropped as investors looked to be taking some profit after a 500% gain in the past 12 months and a blockbuster U.S. listing.",
-        "published": "12:14 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Octopath Traveler 1 and 2 announce Nintendo Switch 2 versions, out today - Nintendo Everything",
-        "source": "Nintendoeverything.com",
-        "url": "https://nintendoeverything.com/octopath-traveler-1-and-2-announce-nintendo-switch-2-versions-out-today/",
-        "description": "The Octopath Traveler series is expanding on Nintendo Switch 2 with native versions of Octopath Traveler and Octopath Traveler 2. Both will launch as digital downloads today. News about this just drop",
-        "published": "11:26 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "AI Isn’t Human. Stop Talking About It Like It Is. - The Free Press",
-        "source": "Thefp.com",
-        "url": "https://www.thefp.com/p/artificial-intelligence-not-human",
-        "description": "Anthropic’s latest research reveals how Claude reasons internally, but it offers no evidence that AI has the kind of consciousness or experience that make us human.",
-        "published": "11:00 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "This free Mac app reveals the truth about your mystery USB-C cables - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
-        "description": "WhatCable is an free Mac app, for Macs with M1 or later chips, that can test your USB-C cables and connections.",
-        "published": "10:00 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-        "description": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
-        "published": "12:00 PM UTC",
+        "url": "https://www.washingtonpost.com/weather/2026/07/14/triple-digit-temperatures-searing-conditions-will-soon-hit-east/",
+        "description": "Temperatures are forecast to push 100 degrees from the Dakotas to New Hampshire on Tuesday before searing conditions reach the Mid-Atlantic on Wednesday.",
+        "published": "1:48 PM UTC",
         "category": "General"
       }
     ]
@@ -235,108 +259,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Target Bundesliga Midfielder as Partey Replacement Sought",
-        "summary": "Arsenal are reportedly accelerating talks for a dynamic box-to-box midfielder from the Bundesliga as Thomas Partey's injury-prone tenure looks set to end at the Emirates this summer. The north London club is believed to have opened initial discussions with the player's representatives ahead of a potential £55m move.",
+        "headline": "Arsenal Revive Interest in Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Arsenal are reportedly considering a summer move for Swedish striker Viktor Gyökeres as Mikel Arteta seeks an upgrade in the center-forward position. Gyökeres, who has scored prolifically in the Primeira Liga this season, is expected to command a fee in the region of £60–70 million with a release clause monitored by several top clubs.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester United Hold Talks Over Striker Reinforcement in January Window",
-        "summary": "Manchester United are understood to be exploring a loan deal for a proven Premier League striker to ease the burden on Rasmus Højlund, with the club's new ownership structure keen to show decisive action in the winter window. Negotiations remain at an early stage but United's sporting director is said to be personally involved in discussions.",
+        "headline": "Manchester United Eye Bundesliga Defender Amid Back-Line Overhaul",
+        "summary": "Manchester United's recruitment team have been scouting Bayer Leverkusen's Jonathan Tah as new football leadership looks to rebuild a leaky defensive unit. The German international would be available on a free transfer at the end of the season, making him one of the most attractive defensive targets in Europe this window.",
         "clubs": [
           "Manchester United",
-          "Napoli"
+          "Bayer Leverkusen"
         ]
       }
     ],
     "match_preview": {
       "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The fixture of the season arrives at Anfield as league leaders Liverpool host a Manchester City side desperate to claw back points and reassert their title credentials after a turbulent run of form. Arne Slot's side have been imperious at home, with Mohamed Salah in the form of his life, while Pep Guardiola will be looking to Erling Haaland to provide the cutting edge that has at times eluded City in big away matches this season. The tactical battle between Slot's high-press and City's positional game promises to be absorbing, with the result likely to have significant implications for the title race.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The match at Anfield promises to be the defining fixture of the Premier League season, with Liverpool sitting two points clear at the top and Manchester City in desperate need of a result to maintain realistic title ambitions. Arne Slot's Liverpool have been defensively formidable at Anfield this season, conceding fewer than any side in the league at home, while City's attacking fluidity has returned in recent weeks following Haaland's return to full fitness. The tactical battle between Slot's high-press structure and Guardiola's positional play will be fascinating, with both managers expected to make bold selections in the knowledge that dropped points here could be season-defining.",
       "key_players": [
         "Mohamed Salah",
         "Erling Haaland",
-        "Alexis Mac Allister"
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of Sunday; full return expected within 10 days if he misses the City match"
-      },
-      {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Out",
-        "return": "Long-term absence continues; no return date before end of season"
+        "status": "Recovering",
+        "return": "Expected return mid-March 2025 following long-term knee injury"
+      },
+      {
+        "player": "Bukayo Saka",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Hamstring strain — fitness test expected 48 hours before next fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If the yield to maturity increases by 50 basis points, which of the following best describes the price change, and why does convexity matter in this context?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Interest Rate Risk & Convexity",
+      "question": "A portfolio manager holds two bonds with identical modified duration of 6.2. Bond A has positive convexity of 85, while Bond B has negative convexity of –30 (a callable bond). If interest rates decline by 150 basis points, which of the following best describes the relative price performance?",
       "options": {
-        "A": "The price will fall by exactly the amount predicted by duration, because convexity only applies to zero-coupon bonds.",
-        "B": "The price will fall by less than predicted by duration alone, because positive convexity means the price-yield relationship is curved, providing a cushion on the downside.",
-        "C": "The price will fall by more than predicted by duration alone, because higher yields always amplify price declines beyond linear estimates.",
-        "D": "The price change will be identical to that of a zero-coupon bond with the same maturity, because coupon frequency does not affect convexity."
+        "A": "Bond B will outperform Bond A because negative convexity accelerates price gains in falling rate environments.",
+        "B": "Bond A will outperform Bond B because positive convexity causes price appreciation to exceed the linear duration estimate, while Bond B's price is capped by the call feature.",
+        "C": "Both bonds will perform identically since they share the same modified duration.",
+        "D": "Bond A will underperform Bond B because higher convexity implies greater reinvestment risk during rate declines."
       },
       "correct": "B",
-      "explanation": "For a standard fixed-rate bond, the price-yield relationship is convex, meaning the actual price decline from a yield increase is less than the decline predicted by duration alone. Duration provides a linear approximation of price sensitivity, but convexity captures the curvature: as yields rise, the rate of price decline slows. Positive convexity benefits investors on both sides — losses are smaller than duration predicts and gains are larger. Zero-coupon bonds have the highest convexity for a given duration, so option D is incorrect; coupon-paying bonds have lower convexity than zeros of the same maturity."
+      "explanation": "When interest rates fall, positive convexity causes a bond's price to rise by more than the linear duration approximation predicts — the price-yield curve is bowed favorably. Callable bonds exhibit negative convexity in low-rate environments because the issuer's call option becomes valuable, capping price appreciation near par (price compression). Although both bonds share identical modified duration, the large rate move of 150bps makes convexity differences highly significant; Bond A's price gain will materially exceed Bond B's. Negative convexity is a structural disadvantage for the investor in falling-rate scenarios."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Understanding why perfect hedges are rare and how residual basis risk can erode or amplify a portfolio's intended risk profile.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why imperfect hedges can leave investors exposed to residual losses even after deploying sophisticated derivatives overlays.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep. In a textbook hedge, a trader would use a futures or swap contract whose underlying perfectly matches the exposure — but in practice, differences in contract specifications, delivery dates, credit quality, or geographic location create a gap called the 'basis.' The basis is formally defined as the spot price of the asset minus the futures price of the hedging contract, and this spread can fluctuate unpredictably over the life of the hedge.",
-        "A classic real-world example is a U.S. airline hedging jet fuel costs using crude oil futures, since no liquid jet fuel futures market exists with sufficient depth. While jet fuel and crude oil prices are highly correlated, refining margins, seasonal demand, and supply shocks cause the spread between them to widen and narrow. During the 2022 energy crisis, refining crack spreads surged to historic highs — airlines that thought they were well-hedged found their actual fuel costs far exceeded what their crude oil hedges covered, illustrating how basis risk can materialize violently during market stress.",
-        "For risk managers and portfolio managers, basis risk demands ongoing monitoring rather than a 'set and forget' approach. Effective hedging programs quantify the historical correlation and regression beta between the exposure and the hedging instrument, stress-test the basis under adverse scenarios, and size positions using the minimum variance hedge ratio. Importantly, a hedge that reduces price risk may simultaneously introduce basis risk, so the net risk reduction must be evaluated holistically — sometimes a partial hedge with lower basis risk outperforms a theoretically complete hedge with high basis uncertainty."
+        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the underlying exposure being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price used as the hedge. Even when a manager believes they have neutralized market exposure, changes in this spread — driven by supply and demand dynamics, liquidity conditions, or credit quality differences — can generate unexpected gains or losses entirely attributable to the hedge itself, not the underlying position.",
+        "A classic real-world example emerged during the 2022 LDI (Liability-Driven Investment) crisis among UK pension funds. Many funds used gilt futures and interest rate swaps to hedge their long-duration liabilities. When UK gilt yields spiked violently following the Truss government's mini-budget, the basis between physical gilts and swap rates widened sharply as liquidity evaporated. Funds faced massive variation margin calls on their derivatives books even as the value of their physical gilt holdings moved in an offsetting direction — the imperfect basis meant the hedge provided less protection than modeled, and the liquidity mismatch triggered forced asset sales.",
+        "For risk managers, basis risk demands that hedges be continuously monitored and never assumed to be static. A hedge ratio that minimizes basis risk at inception — often calculated using the minimum-variance hedge ratio derived from regression analysis of historical price changes — may become stale as correlations shift. Practitioners must also account for 'tailing the hedge' to adjust for daily mark-to-market settlement in futures, roll risk as contracts approach expiration, and cross-hedge basis when no direct derivative exists for the exact underlying exposure, such as hedging a corporate bond portfolio with Treasury futures."
       ],
       "key_takeaways": [
-        "Basis risk is the residual uncertainty remaining after a hedge is placed, arising from imperfect correlation between the hedged asset and the hedging instrument.",
-        "The minimum variance hedge ratio (β = correlation × σ_spot / σ_futures) should be used to size hedges optimally rather than assuming a 1:1 notional match.",
-        "During market stress events, basis often widens dramatically, meaning hedges fail precisely when protection is most needed — making stress testing of basis essential."
+        "Basis risk is the residual, unhedgeable risk that remains when a derivative instrument is not a perfect substitute for the underlying exposure.",
+        "Changes in basis can turn a theoretically sound hedge into a source of significant P&L volatility, as demonstrated by the 2022 UK LDI crisis.",
+        "The minimum-variance hedge ratio, regular rebalancing, and liquidity stress-testing are essential tools for managing basis risk in practice."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenditure",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikiite shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a sense of regret or finality — similar to saying 'ended up doing' or 'have done completely' in English. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — your budget is the sum of money you plan to spend. Picture counting coins and saying 'Yo, that's my sum!'"
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or that the outcome is final and irreversible. It is the polite past form of 〜てしまう, used when something happened completely — sometimes unintentionally.",
+      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you set aside. Once it's gone, you say 'shimaimashita' — it's done, finished, regrettably spent!"
     },
     "ai_strategy": {
-      "headline": "Agentic AI Is Reshaping How Financial Analysts Research and Decide",
-      "summary": "A new generation of agentic AI systems — capable of autonomously browsing data sources, writing code, executing multi-step reasoning chains, and self-correcting — is moving from research labs into production environments at major banks and asset managers. Unlike earlier chatbots that required constant human prompting, these agents can be given a high-level goal such as 'synthesize earnings call transcripts for the S&P 500 healthcare sector and flag margin deterioration signals' and complete the task end-to-end. Firms including Goldman Sachs and JPMorgan have begun deploying agent frameworks for equity research augmentation, regulatory document review, and stress-test scenario generation. The productivity implications are significant: tasks that once took analyst teams days can be compressed into hours, fundamentally changing how research desks are staffed and structured.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Major Banks",
+      "summary": "Major global banks including JPMorgan, HSBC, and Goldman Sachs are accelerating deployment of machine learning models in credit underwriting, replacing or augmenting traditional scorecard approaches. These models ingest thousands of alternative data signals — transaction patterns, supply chain data, and even satellite imagery — to generate dynamic probability-of-default estimates that update in near real-time. The shift is compressing underwriting cycles from days to minutes for SME lending and is allowing institutions to price risk more granularly across segments previously considered opaque. Regulators are simultaneously increasing scrutiny of model explainability requirements under frameworks like SR 11-7 and the EU AI Act, creating tension between predictive power and interpretability.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, execute multi-step tasks, use external tools (like web search or code execution), and self-correct without requiring a human to guide each individual step — increasingly used in financial research and compliance workflows."
+          "term": "XGBoost / Gradient Boosting",
+          "definition": "A high-performance machine learning algorithm that builds an ensemble of decision trees sequentially, each correcting errors of the previous one. Widely used in credit risk modeling because it handles mixed data types, missing values, and nonlinear relationships better than traditional logistic regression."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to an external knowledge base or document store, allowing it to fetch up-to-date, firm-specific information before generating a response — critical for keeping AI outputs grounded in accurate financial data rather than relying on potentially stale training data."
+          "term": "Model Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input variable contributed to a specific model prediction. In finance, regulators and risk committees require explainability so that credit decisions can be justified to borrowers and auditors — critical for fair lending compliance."
         },
         {
-          "term": "Hallucination Risk",
-          "definition": "The tendency of large language models to generate plausible-sounding but factually incorrect information — a critical governance concern in finance where an AI confidently citing a wrong earnings figure or regulatory rule could lead to costly errors."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as web scraping, geolocation data, payment flows, and social sentiment — used to supplement or replace conventional financial inputs like balance sheets. In credit, alternative data can assess borrowers with thin or no credit history, expanding financial inclusion while introducing new data governance risks."
         }
       ],
-      "career_insight": "Finance professionals who can act as effective 'AI orchestrators' — designing workflows, evaluating model outputs critically, and knowing when to trust versus override AI recommendations — are rapidly becoming the most valuable talent in the industry. Technical fluency in prompt engineering, RAG architecture basics, and AI governance frameworks is increasingly appearing in job descriptions for senior analyst, risk, and strategy roles. The analysts most at risk are those performing purely mechanical data aggregation tasks, while those who combine domain expertise with AI literacy are seeing expanded scope and influence."
+      "career_insight": "Credit risk analysts and quantitative researchers who can bridge statistical modeling with regulatory knowledge — particularly around model validation and SR 11-7 compliance — are commanding significant premiums in the market. The most valuable skill set combines Python/ML proficiency with the ability to communicate model limitations to senior management and regulators in plain language, a hybrid that pure data scientists or pure finance professionals rarely possess alone."
     },
     "error": false,
-    "market_sentiment": "Global equities are navigating a cautious risk-on tone this morning as markets digest a resilient U.S. labor market print against a backdrop of softening core PCE — a combination that keeps the Fed's 'higher for longer' narrative intact but reduces immediate recession anxiety. Treasury yields are holding near the upper end of recent ranges with the 10-year around 4.55%, keeping pressure on rate-sensitive sectors including utilities and real estate, while financials and energy continue to attract rotation flows. In FX, the dollar index remains firm, weighing on EM currencies, and commodity markets are watching Middle East supply risk premiums carefully — crude is hovering with a modest geopolitical bid that could amplify if logistics disruptions materialize."
+    "market_sentiment": "Equity markets are navigating a cautious tone this week as investors digest a mixed signals environment: resilient US labor data continues to push back aggressive Fed rate-cut pricing, with the first full cut now not fully priced until Q3 2025, keeping the front end of the Treasury curve elevated. Credit spreads in IG remain tight by historical standards, suggesting complacency risk, while HY spreads have nudged wider on renewed concerns around refinancing walls for lower-rated issuers in a prolonged higher-for-longer regime. In FX, the dollar index (DXY) holds firm above 104, pressuring EM currencies, particularly in markets with twin deficits, and commodity markets are watching Middle East supply risk premiums closely with Brent hovering near the $87–$90 range — overall positioning suggests a market that is neither risk-on nor decisively risk-off, but increasingly selective."
   }
 }
