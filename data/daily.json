@@ -1,31 +1,24 @@
 {
-  "generated_at": "1:06 PM UTC",
-  "date": "Wednesday, July 15, 2026",
+  "generated_at": "1:15 PM UTC",
+  "date": "Thursday, July 16, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 80,
-    "feels_like_f": 80,
-    "high_f": 82,
-    "low_f": 76,
+    "temp_f": 83,
+    "feels_like_f": 90,
+    "high_f": 84,
+    "low_f": 79,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 73,
+    "humidity": 74,
     "wind_mph": 3,
     "forecast": [
       {
-        "day": "Thu",
-        "icon": "☀️",
-        "high": 78,
-        "low": 78,
-        "description": "Clear Sky"
-      },
-      {
         "day": "Fri",
-        "icon": "☀️",
-        "high": 82,
-        "low": 82,
-        "description": "Clear Sky"
+        "icon": "☁️",
+        "high": 77,
+        "low": 77,
+        "description": "Overcast Clouds"
       },
       {
         "day": "Sat",
@@ -33,6 +26,13 @@
         "high": 81,
         "low": 81,
         "description": "Broken Clouds"
+      },
+      {
+        "day": "Sun",
+        "icon": "🌧️",
+        "high": 77,
+        "low": 77,
+        "description": "Light Rain"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 751.83,
-        "change": 2.66,
-        "change_pct": 0.36,
+        "price": 754.81,
+        "change": 2.98,
+        "change_pct": 0.4,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 314.86,
-        "change": -2.45,
-        "change_pct": -0.77,
-        "up": false,
+        "price": 327.5,
+        "change": 12.64,
+        "change_pct": 4.01,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 211.8,
-        "change": 8.27,
-        "change_pct": 4.06,
+        "price": 212.5,
+        "change": 0.7,
+        "change_pct": 0.33,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 396.18,
-        "change": 1.42,
-        "change_pct": 0.36,
-        "up": true,
+        "price": 394.46,
+        "change": -1.72,
+        "change_pct": -0.43,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 65303.98,
-        "change": 1435.98,
-        "change_pct": 2.25,
-        "up": true,
+        "price": 64085.23,
+        "change": -1295.09,
+        "change_pct": -1.98,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1934.9,
-        "change": 71.6,
-        "change_pct": 3.84,
-        "up": true,
+        "price": 1875.91,
+        "change": -62.85,
+        "change_pct": -3.24,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,75 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Big Banks’ Bumper Quarter Points to Strong U.S. Economy - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026",
-        "description": "",
-        "published": "2:06 PM UTC",
+        "title": "Watch Fed Chairman Kevin Warsh testify live before Senate banking committee - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+        "description": "Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.",
+        "published": "1:46 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Goodbye, middle seat. United's new seating design offers extra space - USA Today",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/travel/airline-news/2026/07/14/united-airlines-middle-seat-extra-space/90908273007/",
-        "description": "United is introducing a new Economy Plus seating option that swaps the middle seat for a table on select Airbus A321XLR aircraft.",
+        "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
+        "description": "JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.",
+        "published": "1:45 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Stock futures rise on chip stocks bounce, encouraging inflation signs: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+        "description": "S&P 500 futures edged higher Wednesday, led by gains in chipmakers, after a rally fueled by softer-than-expected inflation data.",
+        "published": "1:12 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Will Halo: Campaign Evolved's New Missions Continue The Series' Ambitious, Troubled Expanded Universe? - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/halo-campaign-evolved-new-missions-expanded-universe",
+        "description": "Halo: Campaign Evolved's new Operation METEORITE missions could be a gateway to the series' ambitious expanded universe.",
         "published": "1:30 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Natural Light unveils the CoolShed for beer drinkers - USA Today",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/money/2026/07/14/natural-light-coolshed-beer-cooler/90911791007/",
-        "description": "Natural Light has unveiled a new way for beer drinkers to keep their drinks ice cold this summer. Here's what to know about the CoolShed.",
-        "published": "1:26 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "How Cycling Solved Sleep - Defector",
-        "source": "Defector.com",
-        "url": "https://defector.com/how-cycling-solved-sleep",
-        "description": "AURILLAC, France — Is the Tour de France is the most competitive sleep environment in sports? “Probably, yeah,” answered Dr. Jon Greenwell, EF-Education EasyPost’s Head Doctor when I asked him. Every ",
-        "published": "12:59 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims - MacRumors",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/",
-        "description": "Facilities in Apple's supply chain have finished renovations ahead of \"iPhone 20\" production, according to a Weibo leaker who says...",
-        "published": "12:46 PM UTC",
+        "title": "Skullgirls Dev Accused Of Misconduct Working On Avatar Fighter - Kotaku",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/developer-accused-of-past-sexual-harassment-confirmed-to-be-working-on-new-avatar-legends-the-fighting-game-2000716173",
+        "description": "Paramount confirmed that the former Skullgirls and Indivisible CEO 'holds a position as an individual contributor' on its upcoming game",
+        "published": "1:21 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Pixel Watch 5 leaks in official-looking renders with new colors, bands, watch face [Gallery] - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/07/14/google-pixel-watch-5-render-leaks/",
-        "description": "Ahead of its official reveal next month, Google’s Pixel Watch 5 has fully leaked in official-looking new renders, showing off...",
-        "published": "12:35 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "As Cases of ‘Diarrhea Parasite’ Cyclospora Rise Across the US, Is It Safe to Eat Fresh Produce? - TODAY.com",
-        "source": "TODAY",
-        "url": "https://www.today.com/health/news/cyclosporiasis-cases-diarrhea-parasite-what-safe-eat-produce-foods-rcna587280",
-        "description": "What foods / produce are safe amid a national increase in cyclosporiasis, the explosive diarrhea parasite? Experts on how cyclospora spreads, ways to stay safe.",
-        "published": "2:25 PM UTC",
+        "title": "Live updates: US launches new attacks on Iran as battle for control over Hormuz intensifies - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/15/world/live-news/iran-war-trump",
+        "description": "US Central Command says it carried out strikes on Iran for 90 minutes this morning, as tensions flare over the critical Strait of Hormuz. Follow along for live news updates.",
+        "published": "2:27 PM UTC",
         "category": "General"
       },
       {
-        "title": "Jordan Walker spoils Philly’s Kyle Schwarber party, rallies to win Home Run Derby - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/home-run-derby-all-star-game-5dcc1b03ebb96723a9e1b74cc362cc59",
-        "description": "Jordan Walker silenced Philadelphia’s boo birds by homering on his last six swings, chasing down Phillies slugger Kyle Schwarber in the final round and becoming the first Cardinal to win the Home Run ",
-        "published": "1:53 PM UTC",
+        "title": "Spain storms into World Cup final after shutting down France - Yahoo Sports",
+        "source": "Yahoo Entertainment",
+        "url": "https://sports.yahoo.com/soccer/live/france-vs-spain-world-cup-2026-scores-results-schedule-live-updates-150000075.html",
+        "description": "Spain will face either defending champion Argentina or England in Sunday's World Cup final.",
+        "published": "2:12 PM UTC",
         "category": "General"
       },
       {
-        "title": "One of the planet’s strongest heat domes will soon scorch the East Coast - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/weather/2026/07/14/triple-digit-temperatures-searing-conditions-will-soon-hit-east/",
-        "description": "Temperatures are forecast to push 100 degrees from the Dakotas to New Hampshire on Tuesday before searing conditions reach the Mid-Atlantic on Wednesday.",
-        "published": "1:48 PM UTC",
+        "title": "One dead and three missing after boat sinks near Alcatraz - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwylyzvy444o",
+        "description": "Witnesses reported seeing a boat in rough seas which began to take on water and was turned over, authorities say.",
+        "published": "1:57 PM UTC",
         "category": "General"
       }
     ]
@@ -259,16 +251,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Revive Interest in Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Arsenal are reportedly considering a summer move for Swedish striker Viktor Gyökeres as Mikel Arteta seeks an upgrade in the center-forward position. Gyökeres, who has scored prolifically in the Primeira Liga this season, is expected to command a fee in the region of £60–70 million with a release clause monitored by several top clubs.",
+        "headline": "Chelsea Reignite Interest in Sporting CP Midfielder Viktor Gyokeres",
+        "summary": "Chelsea are reportedly monitoring Gyokeres as they seek creative midfield reinforcement in January, though Sporting are holding firm on their €100m release clause valuation. The Swedish international has been in exceptional form this season with double-digit goals and assists in all competitions.",
         "clubs": [
-          "Arsenal",
+          "Chelsea",
           "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester United Eye Bundesliga Defender Amid Back-Line Overhaul",
-        "summary": "Manchester United's recruitment team have been scouting Bayer Leverkusen's Jonathan Tah as new football leadership looks to rebuild a leaky defensive unit. The German international would be available on a free transfer at the end of the season, making him one of the most attractive defensive targets in Europe this window.",
+        "headline": "Manchester United Target Bayer Leverkusen Defender Edmond Tapsoba",
+        "summary": "United's recruitment team has identified Tapsoba as a primary January defensive target as Ruben Amorim seeks a ball-playing centre-back capable of operating in a back three. Leverkusen are reluctant to sell mid-season but financial pressure on United's ownership may force a premium bid.",
         "clubs": [
           "Manchester United",
           "Bayer Leverkusen"
@@ -276,91 +268,91 @@
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The match at Anfield promises to be the defining fixture of the Premier League season, with Liverpool sitting two points clear at the top and Manchester City in desperate need of a result to maintain realistic title ambitions. Arne Slot's Liverpool have been defensively formidable at Anfield this season, conceding fewer than any side in the league at home, while City's attacking fluidity has returned in recent weeks following Haaland's return to full fitness. The tactical battle between Slot's high-press structure and Guardiola's positional play will be fascinating, with both managers expected to make bold selections in the knowledge that dropped points here could be season-defining.",
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's most intriguing title rivalry resumes at the Emirates in what could be a defining fixture in the early-season standings. Arsenal arrive in strong home form but face a Liverpool side unbeaten in their last nine league matches under Arne Slot, who has quietly built one of the most cohesive pressing units in Europe. With both clubs separated by just two points, Mikel Arteta will demand a high-press, high-intensity performance that tests Liverpool's defensive structure — the last three meetings have produced seven goals and high drama.",
       "key_players": [
+        "Bukayo Saka",
         "Mohamed Salah",
-        "Erling Haaland",
-        "Virgil van Dijk"
+        "Martin Odegaard"
       ]
     },
     "injury_news": [
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected return mid-March 2025 following long-term knee injury"
+        "status": "Out",
+        "return": "Season-ending ACL injury; not expected to return until pre-season 2025/26"
       },
       {
-        "player": "Bukayo Saka",
-        "team": "Arsenal",
+        "player": "Dominic Calvert-Lewin",
+        "team": "Nottingham Forest",
         "status": "Doubtful",
-        "return": "Hamstring strain — fitness test expected 48 hours before next fixture"
+        "return": "Hamstring strain; assessed day-to-day, targeting return within 2-3 weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Interest Rate Risk & Convexity",
-      "question": "A portfolio manager holds two bonds with identical modified duration of 6.2. Bond A has positive convexity of 85, while Bond B has negative convexity of –30 (a callable bond). If interest rates decline by 150 basis points, which of the following best describes the relative price performance?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If the yield to maturity increases by 50 basis points, which of the following best describes the expected price change, and what concept explains the asymmetry in price sensitivity?",
       "options": {
-        "A": "Bond B will outperform Bond A because negative convexity accelerates price gains in falling rate environments.",
-        "B": "Bond A will outperform Bond B because positive convexity causes price appreciation to exceed the linear duration estimate, while Bond B's price is capped by the call feature.",
-        "C": "Both bonds will perform identically since they share the same modified duration.",
-        "D": "Bond A will underperform Bond B because higher convexity implies greater reinvestment risk during rate declines."
+        "A": "The bond price will fall by more than it would rise if yields decreased by 50 bps; this is explained by negative convexity.",
+        "B": "The bond price will fall by less than it would rise if yields decreased by 50 bps; this is explained by positive convexity.",
+        "C": "The bond price will fall by the same amount it would rise if yields decreased by 50 bps; duration captures this symmetry perfectly.",
+        "D": "The bond price will fall by more than it would rise if yields decreased by 50 bps; this is explained by positive convexity."
       },
       "correct": "B",
-      "explanation": "When interest rates fall, positive convexity causes a bond's price to rise by more than the linear duration approximation predicts — the price-yield curve is bowed favorably. Callable bonds exhibit negative convexity in low-rate environments because the issuer's call option becomes valuable, capping price appreciation near par (price compression). Although both bonds share identical modified duration, the large rate move of 150bps makes convexity differences highly significant; Bond A's price gain will materially exceed Bond B's. Negative convexity is a structural disadvantage for the investor in falling-rate scenarios."
+      "explanation": "For a standard fixed-rate bond, the price-yield relationship is convex, meaning price increases more when yields fall than it decreases when yields rise by the same amount — this is positive convexity. Duration alone assumes a linear price-yield relationship and understates price increases and overstates price declines. Positive convexity is a desirable property for bondholders because it provides asymmetric upside. Negative convexity, seen in callable bonds or mortgage-backed securities, behaves in the opposite manner."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why imperfect hedges can leave investors exposed to residual losses even after deploying sophisticated derivatives overlays.",
+      "title": "Sovereign Debt Distress and Contagion Risk",
+      "subtitle": "How a single government's fiscal crisis can cascade across emerging and developed markets through interconnected capital flows.",
       "paragraphs": [
-        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the underlying exposure being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price used as the hedge. Even when a manager believes they have neutralized market exposure, changes in this spread — driven by supply and demand dynamics, liquidity conditions, or credit quality differences — can generate unexpected gains or losses entirely attributable to the hedge itself, not the underlying position.",
-        "A classic real-world example emerged during the 2022 LDI (Liability-Driven Investment) crisis among UK pension funds. Many funds used gilt futures and interest rate swaps to hedge their long-duration liabilities. When UK gilt yields spiked violently following the Truss government's mini-budget, the basis between physical gilts and swap rates widened sharply as liquidity evaporated. Funds faced massive variation margin calls on their derivatives books even as the value of their physical gilt holdings moved in an offsetting direction — the imperfect basis meant the hedge provided less protection than modeled, and the liquidity mismatch triggered forced asset sales.",
-        "For risk managers, basis risk demands that hedges be continuously monitored and never assumed to be static. A hedge ratio that minimizes basis risk at inception — often calculated using the minimum-variance hedge ratio derived from regression analysis of historical price changes — may become stale as correlations shift. Practitioners must also account for 'tailing the hedge' to adjust for daily mark-to-market settlement in futures, roll risk as contracts approach expiration, and cross-hedge basis when no direct derivative exists for the exact underlying exposure, such as hedging a corporate bond portfolio with Treasury futures."
+        "Sovereign debt distress occurs when a government struggles or fails to meet its debt obligations, triggering a reassessment of creditworthiness by global investors. Unlike corporate defaults, sovereign defaults are complicated by the absence of a formal international bankruptcy framework, making restructuring negotiations lengthy, politically charged, and economically devastating. Distress is typically signaled by widening credit default swap spreads, a sharp depreciation of the domestic currency, and rising yields on local-currency bonds — all of which reflect investor demand for a higher risk premium.",
+        "Argentina's repeated debt crises and Sri Lanka's 2022 default offer vivid real-world illustrations. In Sri Lanka's case, a combination of pandemic-driven tourism collapse, ill-timed tax cuts, and a sharp rise in global commodity prices depleted foreign exchange reserves, making dollar-denominated debt service impossible. The IMF was eventually brought in for a $2.9 billion bailout, but not before inflation exceeded 50% and civil unrest destabilized the government. The contagion effect was felt across other frontier markets as investors pulled capital from perceived 'weak link' sovereigns, widening spreads in Pakistan, Egypt, and Ghana simultaneously.",
+        "For investors and risk managers, sovereign distress demands a multi-dimensional analytical framework. Debt-to-GDP ratios alone are insufficient; external financing needs, reserve adequacy (measured in months of import cover), political stability, and the currency composition of debt are equally critical inputs. Portfolio managers holding emerging market bonds should monitor the IMF's Debt Sustainability Analysis reports and maintain scenario-based stress tests that account for sudden stops in capital flows. Diversification across sovereigns with low default correlation and maintaining liquidity buffers are essential hedging strategies in a world of rising global interest rates and dollar strength."
       ],
       "key_takeaways": [
-        "Basis risk is the residual, unhedgeable risk that remains when a derivative instrument is not a perfect substitute for the underlying exposure.",
-        "Changes in basis can turn a theoretically sound hedge into a source of significant P&L volatility, as demonstrated by the 2022 UK LDI crisis.",
-        "The minimum-variance hedge ratio, regular rebalancing, and liquidity stress-testing are essential tools for managing basis risk in practice."
+        "Sovereign default risk is multidimensional — fiscal ratios must be analyzed alongside reserve adequacy, political risk, and currency denomination of debt.",
+        "Contagion spreads rapidly through investor sentiment, often punishing fundamentally sound emerging markets alongside distressed ones.",
+        "Risk managers should integrate IMF sustainability frameworks and stress-test portfolios against sudden-stop scenarios and dollar strengthening cycles."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikiite shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or that the outcome is final and irreversible. It is the polite past form of 〜てしまう, used when something happened completely — sometimes unintentionally.",
-      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you set aside. Once it's gone, you say 'shimaimashita' — it's done, finished, regrettably spent!"
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened completely, often with a sense of regret or that the result was unintended. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you set aside for yourself. If you bust your 'yo-san,' you use てしまいました to confess the regrettable overspend!"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Major Banks",
-      "summary": "Major global banks including JPMorgan, HSBC, and Goldman Sachs are accelerating deployment of machine learning models in credit underwriting, replacing or augmenting traditional scorecard approaches. These models ingest thousands of alternative data signals — transaction patterns, supply chain data, and even satellite imagery — to generate dynamic probability-of-default estimates that update in near real-time. The shift is compressing underwriting cycles from days to minutes for SME lending and is allowing institutions to price risk more granularly across segments previously considered opaque. Regulators are simultaneously increasing scrutiny of model explainability requirements under frameworks like SR 11-7 and the EU AI Act, creating tension between predictive power and interpretability.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several European universal banks are scaling AI-driven credit underwriting models that assess borrower risk using alternative data sources — including cash flow patterns, supply chain relationships, and behavioral signals — far beyond what traditional FICO or internal credit scores capture. These models are reducing underwriting time from days to minutes for SME lending and are beginning to challenge the role of junior credit analysts in structured credit teams. Regulators in the EU and US are now actively developing explainability mandates that require institutions to justify AI-generated credit decisions in plain language, creating a new compliance frontier.",
       "concepts": [
         {
-          "term": "XGBoost / Gradient Boosting",
-          "definition": "A high-performance machine learning algorithm that builds an ensemble of decision trees sequentially, each correcting errors of the previous one. Widely used in credit risk modeling because it handles mixed data types, missing values, and nonlinear relationships better than traditional logistic regression."
-        },
-        {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input variable contributed to a specific model prediction. In finance, regulators and risk committees require explainability so that credit decisions can be justified to borrowers and auditors — critical for fair lending compliance."
-        },
-        {
           "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as web scraping, geolocation data, payment flows, and social sentiment — used to supplement or replace conventional financial inputs like balance sheets. In credit, alternative data can assess borrowers with thin or no credit history, expanding financial inclusion while introducing new data governance risks."
+          "definition": "Non-traditional data inputs — such as satellite imagery, transaction-level bank data, social sentiment, or supplier payment history — used to augment or replace conventional financial metrics in credit and equity analysis."
+        },
+        {
+          "term": "Explainable AI (XAI)",
+          "definition": "A class of AI techniques that make model outputs interpretable to humans, critical in finance where regulators require institutions to explain why a loan was denied or a risk flag was raised."
+        },
+        {
+          "term": "Gradient Boosting Models",
+          "definition": "A family of machine learning algorithms (including XGBoost and LightGBM) widely used in credit scoring and fraud detection because they handle tabular financial data efficiently and often outperform neural networks on structured datasets."
         }
       ],
-      "career_insight": "Credit risk analysts and quantitative researchers who can bridge statistical modeling with regulatory knowledge — particularly around model validation and SR 11-7 compliance — are commanding significant premiums in the market. The most valuable skill set combines Python/ML proficiency with the ability to communicate model limitations to senior management and regulators in plain language, a hybrid that pure data scientists or pure finance professionals rarely possess alone."
+      "career_insight": "Credit analysts and risk managers who combine domain expertise with proficiency in Python, an understanding of model validation frameworks, and knowledge of regulatory explainability requirements will be the most resilient professionals over the next decade. The demand is not for coders who understand finance, but for finance professionals who can critically evaluate, challenge, and govern AI model outputs — a skill set that sits at the intersection of CFA-level credit knowledge and data literacy."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a cautious tone this week as investors digest a mixed signals environment: resilient US labor data continues to push back aggressive Fed rate-cut pricing, with the first full cut now not fully priced until Q3 2025, keeping the front end of the Treasury curve elevated. Credit spreads in IG remain tight by historical standards, suggesting complacency risk, while HY spreads have nudged wider on renewed concerns around refinancing walls for lower-rated issuers in a prolonged higher-for-longer regime. In FX, the dollar index (DXY) holds firm above 104, pressuring EM currencies, particularly in markets with twin deficits, and commodity markets are watching Middle East supply risk premiums closely with Brent hovering near the $87–$90 range — overall positioning suggests a market that is neither risk-on nor decisively risk-off, but increasingly selective."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this week, with equity markets digesting a mixed earnings season against a backdrop of persistent central bank uncertainty. The Fed's higher-for-longer narrative continues to exert upward pressure on the long end of the Treasury curve, with the 10-year yield hovering near levels that historically compress equity multiples in rate-sensitive sectors. Meanwhile, dollar strength is tightening financial conditions across EM, particularly in economies with significant external financing needs, while commodity markets — especially oil — remain volatile amid OPEC+ supply discipline and uncertain Chinese demand recovery signals."
   }
 }
