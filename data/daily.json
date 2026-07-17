@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:15 PM UTC",
-  "date": "Thursday, July 16, 2026",
+  "generated_at": "12:59 PM UTC",
+  "date": "Friday, July 17, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 83,
-    "feels_like_f": 90,
-    "high_f": 84,
-    "low_f": 79,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 74,
-    "wind_mph": 3,
+    "temp_f": 82,
+    "feels_like_f": 88,
+    "high_f": 86,
+    "low_f": 80,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 72,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Fri",
-        "icon": "☁️",
-        "high": 77,
-        "low": 77,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Sat",
-        "icon": "☁️",
+        "icon": "☀️",
         "high": 81,
         "low": 81,
-        "description": "Broken Clouds"
+        "description": "Clear Sky"
       },
       {
         "day": "Sun",
-        "icon": "🌧️",
+        "icon": "☁️",
+        "high": 79,
+        "low": 79,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
         "high": 77,
         "low": 77,
-        "description": "Light Rain"
+        "description": "Few Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 754.81,
-        "change": 2.98,
-        "change_pct": 0.4,
-        "up": true,
+        "price": 750.72,
+        "change": -4.09,
+        "change_pct": -0.54,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 327.5,
-        "change": 12.64,
-        "change_pct": 4.01,
+        "price": 333.26,
+        "change": 5.76,
+        "change_pct": 1.76,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 212.5,
-        "change": 0.7,
-        "change_pct": 0.33,
-        "up": true,
+        "price": 207.4,
+        "change": -5.1,
+        "change_pct": -2.4,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 394.46,
-        "change": -1.72,
-        "change_pct": -0.43,
+        "price": 391.06,
+        "change": -3.4,
+        "change_pct": -0.86,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64085.23,
-        "change": -1295.09,
-        "change_pct": -1.98,
+        "price": 63094.66,
+        "change": -878.47,
+        "change_pct": -1.37,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1875.91,
-        "change": -62.85,
-        "change_pct": -3.24,
+        "price": 1828.58,
+        "change": -45.12,
+        "change_pct": -2.41,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Watch Fed Chairman Kevin Warsh testify live before Senate banking committee - CNBC",
+        "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-        "description": "Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.",
-        "published": "1:46 PM UTC",
+        "url": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
+        "description": "The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into AI.",
+        "published": "9:56 AM UTC",
         "category": "Business"
       },
       {
-        "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
-        "description": "JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.",
-        "published": "1:45 PM UTC",
+        "title": "Lilly Said to Near Deal for Psychedelic Drugmaker AtaiBeckley - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-15/lilly-said-to-near-deal-for-psychedelic-drugmaker-ataibeckley",
+        "description": "Eli Lilly & Co. is in talks to acquire AtaiBeckley Inc., according to people familiar with the matter, underscoring growing interest from large drugmakers in the once-fringe area of psychedelic medici",
+        "published": "8:47 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock futures rise on chip stocks bounce, encouraging inflation signs: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
-        "description": "S&P 500 futures edged higher Wednesday, led by gains in chipmakers, after a rally fueled by softer-than-expected inflation data.",
-        "published": "1:12 PM UTC",
+        "title": "South Korea to Halt New Listings of Single Stock Leveraged ETFs - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/south-korea-to-halt-new-listings-of-single-stock-leveraged-etfs",
+        "description": "South Korea will temporarily halt new listings of single-stock leveraged exchange traded products to curb market volatility after a surge in popularity of funds tied to Samsung Electronics Co. and SK ",
+        "published": "7:40 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Will Halo: Campaign Evolved's New Missions Continue The Series' Ambitious, Troubled Expanded Universe? - IGN",
+        "title": "OnePlus officially gives up on the US and Europe - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+        "description": "OnePlus will no longer sell new hardware in the two markets, and existing devices will transition to Oppo’s ColorOS for future software updates.",
+        "published": "9:00 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Final Fantasy Resonance Gets A Stunning New Trailer Ahead Of Switch 1 & 2 Launch - nintendolife.com",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/07/final-fantasy-resonance-gets-a-stunning-new-trailer-ahead-of-switch-1-and-2-launch",
+        "description": "The HD-2D RPG adventure unfolds this October",
+        "published": "5:55 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer - IGN",
         "source": "IGN",
-        "url": "https://www.ign.com/articles/halo-campaign-evolved-new-missions-expanded-universe",
-        "description": "Halo: Campaign Evolved's new Operation METEORITE missions could be a gateway to the series' ambitious expanded universe.",
-        "published": "1:30 PM UTC",
+        "url": "https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer",
+        "description": "",
+        "published": "2:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Skullgirls Dev Accused Of Misconduct Working On Avatar Fighter - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/developer-accused-of-past-sexual-harassment-confirmed-to-be-working-on-new-avatar-legends-the-fighting-game-2000716173",
-        "description": "Paramount confirmed that the former Skullgirls and Indivisible CEO 'holds a position as an individual contributor' on its upcoming game",
-        "published": "1:21 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Live updates: US launches new attacks on Iran as battle for control over Hormuz intensifies - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/15/world/live-news/iran-war-trump",
-        "description": "US Central Command says it carried out strikes on Iran for 90 minutes this morning, as tensions flare over the critical Strait of Hormuz. Follow along for live news updates.",
-        "published": "2:27 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Spain storms into World Cup final after shutting down France - Yahoo Sports",
+        "title": "British Open Thursday live updates, leaderboard: Scottie Scheffler, Rory McIlroy are big favorites early at Royal Birkdale - Yahoo Sports",
         "source": "Yahoo Entertainment",
-        "url": "https://sports.yahoo.com/soccer/live/france-vs-spain-world-cup-2026-scores-results-schedule-live-updates-150000075.html",
-        "description": "Spain will face either defending champion Argentina or England in Sunday's World Cup final.",
-        "published": "2:12 PM UTC",
+        "url": "https://sports.yahoo.com/golf/live/british-open-thursday-live-updates-leaderboard-scottie-scheffler-is-on-a-heater-early-053000601.html",
+        "description": "For one last time in 2026, the race for a major championship title is on.",
+        "published": "9:57 AM UTC",
         "category": "General"
       },
       {
-        "title": "One dead and three missing after boat sinks near Alcatraz - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwylyzvy444o",
-        "description": "Witnesses reported seeing a boat in rough seas which began to take on water and was turned over, authorities say.",
-        "published": "1:57 PM UTC",
+        "title": "State health officials confirm 43 cases of Cyclosporiasis, WI farmers on alert - WKOW",
+        "source": "WKOW",
+        "url": "https://www.wkow.com/news/state-health-officials-confirm-43-cases-of-cyclosporiasis-wi-farmers-on-alert/article_917ee96f-f263-4b9f-b8e6-73faceb38b25.html",
+        "description": "STOUGHTON, Wis. (WKOW) — As Wisconsin's farmers markets reach peak season, a recent Cyclospora outbreak is prompting shoppers and farmers alike to pay closer attention to food safety and where",
+        "published": "9:42 AM UTC",
         "category": "General"
       }
     ]
@@ -251,74 +251,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Chelsea Reignite Interest in Sporting CP Midfielder Viktor Gyokeres",
-        "summary": "Chelsea are reportedly monitoring Gyokeres as they seek creative midfield reinforcement in January, though Sporting are holding firm on their €100m release clause valuation. The Swedish international has been in exceptional form this season with double-digit goals and assists in all competitions.",
+        "headline": "Arsenal in Advanced Talks for RB Leipzig Midfielder Xaver Schlager",
+        "summary": "Arsenal are reportedly closing in on a deal for Austrian international Xaver Schlager as Mikel Arteta seeks to add proven Premier League-calibre depth in central midfield ahead of a title challenge next season. Leipzig are understood to be open to a sale in the region of £35–40 million.",
         "clubs": [
-          "Chelsea",
-          "Sporting CP"
+          "Arsenal",
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Manchester United Target Bayer Leverkusen Defender Edmond Tapsoba",
-        "summary": "United's recruitment team has identified Tapsoba as a primary January defensive target as Ruben Amorim seeks a ball-playing centre-back capable of operating in a back three. Leverkusen are reluctant to sell mid-season but financial pressure on United's ownership may force a premium bid.",
+        "headline": "Chelsea Eyeing Move for Napoli Striker Victor Osimhen on Loan",
+        "summary": "Chelsea are exploring the possibility of a season-long loan for Victor Osimhen, with Napoli willing to temporarily offload the Nigerian striker who has struggled to rediscover peak form following last summer's protracted transfer saga. The Blues see Osimhen as a short-term fix for their ongoing striker inconsistency.",
         "clubs": [
-          "Manchester United",
-          "Bayer Leverkusen"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Manchester City",
       "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's most intriguing title rivalry resumes at the Emirates in what could be a defining fixture in the early-season standings. Arsenal arrive in strong home form but face a Liverpool side unbeaten in their last nine league matches under Arne Slot, who has quietly built one of the most cohesive pressing units in Europe. With both clubs separated by just two points, Mikel Arteta will demand a high-press, high-intensity performance that tests Liverpool's defensive structure — the last three meetings have produced seven goals and high drama.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's most storied modern rivalry resumes at the Etihad in what could prove a defining fixture in the title race, with both sides separated by just two points at the top of the table. Pep Guardiola's City have rediscovered their defensive solidity in recent weeks, conceding just one goal across their last four league outings, while Arne Slot's Liverpool arrive on the back of five consecutive wins and with Mohamed Salah in the form of his career. Expect intense pressing battles in the middle third, with the ability to control transitions likely to be decisive — the team that wins the midfield duel wins the match.",
       "key_players": [
-        "Bukayo Saka",
         "Mohamed Salah",
-        "Martin Odegaard"
+        "Erling Haaland",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Season-ending ACL injury; not expected to return until pre-season 2025/26"
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed day-to-day; expected return within 1–2 weeks"
       },
       {
-        "player": "Dominic Calvert-Lewin",
-        "team": "Nottingham Forest",
-        "status": "Doubtful",
-        "return": "Hamstring strain; assessed day-to-day, targeting return within 2-3 weeks"
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Long-term ACL recovery; targeting return before end of season"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If the yield to maturity increases by 50 basis points, which of the following best describes the expected price change, and what concept explains the asymmetry in price sensitivity?",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating the credit exposure of a portfolio containing interest rate swaps. Under the Internal Models Method (IMM), which of the following best describes Effective Expected Positive Exposure (EEPE) and why it is preferred over simple EPE for capital calculation purposes?",
       "options": {
-        "A": "The bond price will fall by more than it would rise if yields decreased by 50 bps; this is explained by negative convexity.",
-        "B": "The bond price will fall by less than it would rise if yields decreased by 50 bps; this is explained by positive convexity.",
-        "C": "The bond price will fall by the same amount it would rise if yields decreased by 50 bps; duration captures this symmetry perfectly.",
-        "D": "The bond price will fall by more than it would rise if yields decreased by 50 bps; this is explained by positive convexity."
+        "A": "EEPE is the time-weighted average of Effective EPE across the first year, and it prevents underestimation of exposure caused by declining EPE profiles in short-dated trades.",
+        "B": "EEPE is the maximum EPE observed over the life of the trade, ensuring capital is always sufficient under worst-case scenarios.",
+        "C": "EEPE is calculated as the arithmetic mean of all simulated exposure paths at maturity, adjusted for collateral agreements.",
+        "D": "EEPE is the discounted sum of expected exposures weighted by the probability of default at each future time step."
       },
-      "correct": "B",
-      "explanation": "For a standard fixed-rate bond, the price-yield relationship is convex, meaning price increases more when yields fall than it decreases when yields rise by the same amount — this is positive convexity. Duration alone assumes a linear price-yield relationship and understates price increases and overstates price declines. Positive convexity is a desirable property for bondholders because it provides asymmetric upside. Negative convexity, seen in callable bonds or mortgage-backed securities, behaves in the opposite manner."
+      "correct": "A",
+      "explanation": "EEPE is defined as the time-weighted average of Effective EPE over the first year of the transaction (or the full life of the trade if shorter). Effective EPE is a non-decreasing version of EPE — at each future date it is set to the maximum of its own value and any prior value — which prevents the capital measure from being artificially reduced by trades whose exposure profiles peak early and then decline. Regulators prefer EEPE because simple EPE can understate exposure for trades with hump-shaped or declining profiles, leading to insufficient capital buffers under Basel IMM rules."
     },
     "finance_topic": {
-      "title": "Sovereign Debt Distress and Contagion Risk",
-      "subtitle": "How a single government's fiscal crisis can cascade across emerging and developed markets through interconnected capital flows.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Why imperfect hedges can leave investors exposed to residual losses even when the overall direction of the market is correct.",
       "paragraphs": [
-        "Sovereign debt distress occurs when a government struggles or fails to meet its debt obligations, triggering a reassessment of creditworthiness by global investors. Unlike corporate defaults, sovereign defaults are complicated by the absence of a formal international bankruptcy framework, making restructuring negotiations lengthy, politically charged, and economically devastating. Distress is typically signaled by widening credit default swap spreads, a sharp depreciation of the domestic currency, and rising yields on local-currency bonds — all of which reflect investor demand for a higher risk premium.",
-        "Argentina's repeated debt crises and Sri Lanka's 2022 default offer vivid real-world illustrations. In Sri Lanka's case, a combination of pandemic-driven tourism collapse, ill-timed tax cuts, and a sharp rise in global commodity prices depleted foreign exchange reserves, making dollar-denominated debt service impossible. The IMF was eventually brought in for a $2.9 billion bailout, but not before inflation exceeded 50% and civil unrest destabilized the government. The contagion effect was felt across other frontier markets as investors pulled capital from perceived 'weak link' sovereigns, widening spreads in Pakistan, Egypt, and Ghana simultaneously.",
-        "For investors and risk managers, sovereign distress demands a multi-dimensional analytical framework. Debt-to-GDP ratios alone are insufficient; external financing needs, reserve adequacy (measured in months of import cover), political stability, and the currency composition of debt are equally critical inputs. Portfolio managers holding emerging market bonds should monitor the IMF's Debt Sustainability Analysis reports and maintain scenario-based stress tests that account for sudden stops in capital flows. Diversification across sovereigns with low default correlation and maintaining liquidity buffers are essential hedging strategies in a world of rising global interest rates and dollar strength."
+        "Basis risk arises when the hedging instrument and the underlying exposure do not move in perfect lockstep, creating a gap — the 'basis' — between the two positions. In theory, a hedge eliminates price risk by taking an offsetting position; in practice, differences in liquidity, contract specifications, delivery dates, or credit quality mean the hedge rarely provides perfect insulation. The basis is formally defined as the spot price of the asset being hedged minus the futures price of the hedging contract, and it can be positive or negative depending on market conditions.",
+        "A classic real-world example emerged during the 2022 UK gilt crisis, when liability-driven investment (LDI) funds used interest rate swaps and gilt futures to hedge long-duration pension liabilities. As yields spiked violently, the basis between the OTC swap rates and exchange-traded gilt futures widened sharply, and collateral calls were triggered faster than funds could liquidate assets. Even though the directional hedge — duration reduction — was conceptually correct, the basis movement and margin mechanics produced catastrophic liquidity stress. Similarly, airlines that hedge jet fuel exposure using crude oil futures face commodity basis risk, since the crack spread between crude and refined products fluctuates independently.",
+        "For risk managers, basis risk demands that hedging effectiveness be continuously monitored using metrics such as the correlation between the hedging instrument and the underlying, and the hedge ratio should be adjusted dynamically — a technique known as delta hedging or minimum-variance hedging. Investors should understand that basis risk cannot be diversified away in the traditional sense; it is an irreducible structural feature of any hedge that uses a proxy instrument. Stress-testing hedge portfolios for basis widening scenarios — particularly during market dislocations — is essential for robust risk management."
       ],
       "key_takeaways": [
-        "Sovereign default risk is multidimensional — fiscal ratios must be analyzed alongside reserve adequacy, political risk, and currency denomination of debt.",
-        "Contagion spreads rapidly through investor sentiment, often punishing fundamentally sound emerging markets alongside distressed ones.",
-        "Risk managers should integrate IMF sustainability frameworks and stress-test portfolios against sudden-stop scenarios and dollar strengthening cycles."
+        "Basis risk is the residual exposure remaining after a hedge is placed, arising from imperfect correlation between the hedging instrument and the underlying asset.",
+        "Real-world events like the 2022 LDI crisis demonstrate that basis risk can interact with liquidity risk to produce losses far larger than the original directional risk.",
+        "Risk managers should use minimum-variance hedge ratios, monitor basis continuously, and stress-test for basis widening under adverse market conditions."
       ]
     },
     "japanese": {
@@ -326,33 +326,33 @@
       "reading": "yosan",
       "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened completely, often with a sense of regret or that the result was unintended. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you set aside for yourself. If you bust your 'yo-san,' you use てしまいました to confess the regrettable overspend!"
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — like saying something happened and it cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you planned to spend. When you picture your wallet empty, you remember 予算 means budget."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
-      "summary": "Major financial institutions including JPMorgan, HSBC, and several European universal banks are scaling AI-driven credit underwriting models that assess borrower risk using alternative data sources — including cash flow patterns, supply chain relationships, and behavioral signals — far beyond what traditional FICO or internal credit scores capture. These models are reducing underwriting time from days to minutes for SME lending and are beginning to challenge the role of junior credit analysts in structured credit teams. Regulators in the EU and US are now actively developing explainability mandates that require institutions to justify AI-generated credit decisions in plain language, creating a new compliance frontier.",
+      "headline": "AI Agents Are Quietly Reshaping How Risk Teams Operate Daily",
+      "summary": "Autonomous AI agents — systems capable of planning multi-step tasks, querying data sources, and executing workflows without human prompting at each step — are moving from research labs into production environments at major financial institutions. Banks including JPMorgan and Goldman Sachs have deployed early-stage agentic systems for tasks like credit memo drafting, regulatory document summarization, and anomaly flagging in transaction monitoring. Unlike simple chatbots, agents can chain together tool calls — pulling live market data, running a stress-test model, and drafting a summary report — in a single automated pipeline. For risk and finance professionals, understanding how to design, supervise, and audit these agent workflows is rapidly becoming a core professional competency.",
       "concepts": [
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data inputs — such as satellite imagery, transaction-level bank data, social sentiment, or supplier payment history — used to augment or replace conventional financial metrics in credit and equity analysis."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously plan and execute sequences of actions — such as retrieving data, running calculations, and generating reports — to complete a goal, rather than simply responding to a single prompt. In finance, this could mean an agent that monitors covenant compliance daily and auto-escalates breaches."
         },
         {
-          "term": "Explainable AI (XAI)",
-          "definition": "A class of AI techniques that make model outputs interpretable to humans, critical in finance where regulators require institutions to explain why a loan was denied or a risk flag was raised."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model fetches relevant external documents or data at query time before generating a response, allowing it to cite up-to-date regulatory texts, earnings reports, or risk guidelines rather than relying solely on its training data."
         },
         {
-          "term": "Gradient Boosting Models",
-          "definition": "A family of machine learning algorithms (including XGBoost and LightGBM) widely used in credit scoring and fraud detection because they handle tabular financial data efficiently and often outperform neural networks on structured datasets."
+          "term": "Human-in-the-Loop (HITL)",
+          "definition": "A workflow design principle where AI handles routine processing autonomously but flags edge cases or high-stakes decisions for human review — critical in credit approval, fraud escalation, and model validation contexts to maintain accountability."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who combine domain expertise with proficiency in Python, an understanding of model validation frameworks, and knowledge of regulatory explainability requirements will be the most resilient professionals over the next decade. The demand is not for coders who understand finance, but for finance professionals who can critically evaluate, challenge, and govern AI model outputs — a skill set that sits at the intersection of CFA-level credit knowledge and data literacy."
+      "career_insight": "Finance professionals who understand how to define the scope, guardrails, and audit trails for AI agent workflows will be significantly more valuable than those who only know how to prompt a chatbot. The emerging skill set combines domain expertise — knowing what a credit analyst or risk manager actually needs — with enough technical fluency to collaborate with data science teams on agent design, tool selection, and failure-mode analysis. Roles like 'AI Risk Analyst,' 'Model Governance Lead,' and 'Quantitative AI Strategist' are seeing sharp increases in job postings across tier-one banks and asset managers globally."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive this week, with equity markets digesting a mixed earnings season against a backdrop of persistent central bank uncertainty. The Fed's higher-for-longer narrative continues to exert upward pressure on the long end of the Treasury curve, with the 10-year yield hovering near levels that historically compress equity multiples in rate-sensitive sectors. Meanwhile, dollar strength is tightening financial conditions across EM, particularly in economies with significant external financing needs, while commodity markets — especially oil — remain volatile amid OPEC+ supply discipline and uncertain Chinese demand recovery signals."
+    "market_sentiment": "Global risk assets are navigating a delicate equilibrium as markets digest persistent central bank caution against a backdrop of softening but still-sticky services inflation across the G10. The USD has edged higher on renewed safe-haven flows following mixed PMI readings out of the Eurozone, while Treasury yields are range-bound in the 4.40–4.60% corridor on the 10-year as traders price in a shallower Fed easing cycle than anticipated at the start of the year. Equity markets remain bifurcated — mega-cap AI-linked technology names continue to command premium multiples while rate-sensitive sectors like REITs and small-caps face headwinds, suggesting the rally's breadth remains a key vulnerability heading into the next round of earnings and CPI prints."
   }
 }
