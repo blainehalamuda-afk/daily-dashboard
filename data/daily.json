@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:59 PM UTC",
-  "date": "Friday, July 17, 2026",
+  "generated_at": "12:45 PM UTC",
+  "date": "Saturday, July 18, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 82,
-    "feels_like_f": 88,
-    "high_f": 86,
-    "low_f": 80,
+    "temp_f": 80,
+    "feels_like_f": 80,
+    "high_f": 83,
+    "low_f": 78,
     "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 72,
-    "wind_mph": 5,
+    "humidity": 84,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "☀️",
-        "high": 81,
-        "low": 81,
-        "description": "Clear Sky"
-      },
       {
         "day": "Sun",
         "icon": "☁️",
-        "high": 79,
-        "low": 79,
+        "high": 78,
+        "low": 78,
         "description": "Overcast Clouds"
       },
       {
         "day": "Mon",
-        "icon": "🌤️",
-        "high": 77,
-        "low": 77,
-        "description": "Few Clouds"
+        "icon": "☁️",
+        "high": 76,
+        "low": 76,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "☁️",
+        "high": 78,
+        "low": 78,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 750.72,
-        "change": -4.09,
-        "change_pct": -0.54,
+        "price": 743.29,
+        "change": -7.43,
+        "change_pct": -0.99,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 333.26,
-        "change": 5.76,
-        "change_pct": 1.76,
+        "price": 333.74,
+        "change": 0.48,
+        "change_pct": 0.14,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 207.4,
-        "change": -5.1,
-        "change_pct": -2.4,
+        "price": 202.81,
+        "change": -4.59,
+        "change_pct": -2.21,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 391.06,
-        "change": -3.4,
-        "change_pct": -0.86,
+        "price": 380.84,
+        "change": -10.22,
+        "change_pct": -2.61,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63094.66,
-        "change": -878.47,
-        "change_pct": -1.37,
-        "up": false,
+        "price": 64188.35,
+        "change": 1081.44,
+        "change_pct": 1.71,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1828.58,
-        "change": -45.12,
-        "change_pct": -2.41,
-        "up": false,
+        "price": 1844.53,
+        "change": 15.28,
+        "change_pct": 0.84,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs - CNBC",
+        "title": "Nasdaq futures fall 2% as global chip sell-off continues: Live updates - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
-        "description": "The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into AI.",
-        "published": "9:56 AM UTC",
+        "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+        "description": "The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued to strike Iran overnight.",
+        "published": "10:03 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Lilly Said to Near Deal for Psychedelic Drugmaker AtaiBeckley - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-15/lilly-said-to-near-deal-for-psychedelic-drugmaker-ataibeckley",
-        "description": "Eli Lilly & Co. is in talks to acquire AtaiBeckley Inc., according to people familiar with the matter, underscoring growing interest from large drugmakers in the once-fringe area of psychedelic medici",
-        "published": "8:47 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "South Korea to Halt New Listings of Single Stock Leveraged ETFs - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-16/south-korea-to-halt-new-listings-of-single-stock-leveraged-etfs",
-        "description": "South Korea will temporarily halt new listings of single-stock leveraged exchange traded products to curb market volatility after a surge in popularity of funds tied to Samsung Electronics Co. and SK ",
-        "published": "7:40 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "OnePlus officially gives up on the US and Europe - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
-        "description": "OnePlus will no longer sell new hardware in the two markets, and existing devices will transition to Oppo’s ColorOS for future software updates.",
+        "title": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin tool maker - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+        "description": "Business is booming for Snap-on, a Wisconsin company that has made tools for professional mechanics for more than a century. It recently got a fact-finding visit from the head of the Chicago Federal R",
         "published": "9:00 AM UTC",
-        "category": "Technology"
+        "category": "Business"
       },
       {
-        "title": "Final Fantasy Resonance Gets A Stunning New Trailer Ahead Of Switch 1 & 2 Launch - nintendolife.com",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/07/final-fantasy-resonance-gets-a-stunning-new-trailer-ahead-of-switch-1-and-2-launch",
-        "description": "The HD-2D RPG adventure unfolds this October",
-        "published": "5:55 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer - IGN",
+        "title": "Castlevania: Belmont’s Curse Might Make the Long Wait for a New 2D Castlevania Worth It | IGN Preview - IGN",
         "source": "IGN",
-        "url": "https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer",
-        "description": "",
-        "published": "2:00 AM UTC",
+        "url": "https://www.ign.com/articles/castlevania-belmonts-curse-might-make-the-long-wait-for-a-new-2d-castlevania-worth-it-ign-preview",
+        "description": "After playing the first three hours of Castlevania: Belmont's Curse, Dead Cells developer Evil Empire's take on the legendary series seems to be poised to live up to extraordinarily high standards set",
+        "published": "7:01 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "British Open Thursday live updates, leaderboard: Scottie Scheffler, Rory McIlroy are big favorites early at Royal Birkdale - Yahoo Sports",
-        "source": "Yahoo Entertainment",
-        "url": "https://sports.yahoo.com/golf/live/british-open-thursday-live-updates-leaderboard-scottie-scheffler-is-on-a-heater-early-053000601.html",
-        "description": "For one last time in 2026, the race for a major championship title is on.",
-        "published": "9:57 AM UTC",
+        "title": "'Shouldn't Be Too Hard to Figure Out Who It Is': Pokémon Go Fans React in Disgust as Players Hand-Picked to Attend Exclusive Times Square Event Sell Their Prized Mewtwo for Thousands of Dollars, Breaking the Game's Rules - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/pokemon-go-fans-react-in-disgust-as-players-hand-picked-to-attend-exclusive-times-square-event-sell-their-prized-mewtwo-for-thousands-of-dollars-breaking-the-games-rules",
+        "description": "Pokémon Go players are reacting in disgust after seeing fans who were hand-picked to attend the game's ultra-exclusive 10th anniversary Times Square event now selling off their unique Mewtwo on eBay f",
+        "published": "11:12 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
+        "description": "The European Commission today formally ordered Google to give third-party AI services the same access to Android device features that Gemini has....",
+        "published": "10:45 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Chicago Air Quality Alert in effect with index at hazardous levels from Canadian wildfire smoke - ABC7 Chicago",
+        "source": "WLS-TV",
+        "url": "https://abc7chicago.com/post/chicago-air-quality-alert-effect-index-hazardous-levels-canadian-wildfire-smoke/19525207/",
+        "description": "Air Quality Index map shows hazardous levels in parts of Chicago area",
+        "published": "10:01 AM UTC",
         "category": "General"
       },
       {
-        "title": "State health officials confirm 43 cases of Cyclosporiasis, WI farmers on alert - WKOW",
-        "source": "WKOW",
-        "url": "https://www.wkow.com/news/state-health-officials-confirm-43-cases-of-cyclosporiasis-wi-farmers-on-alert/article_917ee96f-f263-4b9f-b8e6-73faceb38b25.html",
-        "description": "STOUGHTON, Wis. (WKOW) — As Wisconsin's farmers markets reach peak season, a recent Cyclospora outbreak is prompting shoppers and farmers alike to pay closer attention to food safety and where",
-        "published": "9:42 AM UTC",
+        "title": "At least 2 dead in Texas floods as hundreds rescued in same region as Camp Mystic disaster - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/17/weather/texas-flooding-risks-damage-hnk",
+        "description": "Disastrous flash flooding has hit southern Texas after days of torrential rain, leaving at least two people dead and hundreds of people rescued across the same region struck by last July’s catastrophi",
+        "published": "9:20 AM UTC",
         "category": "General"
       }
     ]
@@ -251,108 +243,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for RB Leipzig Midfielder Xaver Schlager",
-        "summary": "Arsenal are reportedly closing in on a deal for Austrian international Xaver Schlager as Mikel Arteta seeks to add proven Premier League-calibre depth in central midfield ahead of a title challenge next season. Leipzig are understood to be open to a sale in the region of £35–40 million.",
+        "headline": "Arsenal Ramp Up Interest in Athletic Club Midfielder Amid Partey Uncertainty",
+        "summary": "Arsenal's technical director is reportedly accelerating talks over a summer move for a deep-lying playmaker as Thomas Partey's contract situation remains unresolved heading into the final months of the season. The Gunners are said to have lodged an opening inquiry, though Athletic Club value the player at over £60 million.",
         "clubs": [
           "Arsenal",
-          "RB Leipzig"
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Chelsea Eyeing Move for Napoli Striker Victor Osimhen on Loan",
-        "summary": "Chelsea are exploring the possibility of a season-long loan for Victor Osimhen, with Napoli willing to temporarily offload the Nigerian striker who has struggled to rediscover peak form following last summer's protracted transfer saga. The Blues see Osimhen as a short-term fix for their ongoing striker inconsistency.",
+        "headline": "Newcastle United Eye Eze as Bowen Alternative in Ambitious Summer Rebuild",
+        "summary": "Newcastle United are monitoring Crystal Palace's Eberechi Eze as a primary attacking midfield target, with the club's Saudi-backed ownership prepared to test Palace's resolve with a bid approaching £70 million. Palace insist the England international is not for sale, but Newcastle's financial firepower could yet force their hand.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Newcastle United",
+          "Crystal Palace"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
+      "home": "Liverpool",
+      "away": "Manchester City",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's most storied modern rivalry resumes at the Etihad in what could prove a defining fixture in the title race, with both sides separated by just two points at the top of the table. Pep Guardiola's City have rediscovered their defensive solidity in recent weeks, conceding just one goal across their last four league outings, while Arne Slot's Liverpool arrive on the back of five consecutive wins and with Mohamed Salah in the form of his career. Expect intense pressing battles in the middle third, with the ability to control transitions likely to be decisive — the team that wins the midfield duel wins the match.",
+      "preview": "The defining fixture of the Premier League season arrives at Anfield with Liverpool looking to extend their lead at the top of the table against a Manchester City side desperate to close the gap and prove their title credentials are still intact. Liverpool enter on the back of five consecutive league wins and boast the league's best home record, while City have shown signs of resurgent form under Guardiola with three clean sheets in their last four. The tactical battle between Liverpool's relentless high press and City's positional build-up play promises a match of the highest quality, with the result likely to have significant title implications.",
       "key_players": [
         "Mohamed Salah",
         "Erling Haaland",
-        "Alexis Mac Allister"
+        "Trent Alexander-Arnold"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed day-to-day; expected return within 1–2 weeks"
-      },
-      {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Long-term ACL recovery; targeting return before end of season"
+        "return": "Long-term absence — not expected before late April at earliest"
+      },
+      {
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Assessed day-to-day; targeting return within 10–14 days"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating the credit exposure of a portfolio containing interest rate swaps. Under the Internal Models Method (IMM), which of the following best describes Effective Expected Positive Exposure (EEPE) and why it is preferred over simple EPE for capital calculation purposes?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure & Interest Rate Dynamics",
+      "question": "An analyst observes that the 2-year spot rate is 4.20% and the 3-year spot rate is 4.65%. Using the bootstrapping method, what is the implied 1-year forward rate two years from now (2y1y), and which term structure theory best explains an upward-sloping yield curve driven primarily by investor risk aversion rather than rate expectations?",
       "options": {
-        "A": "EEPE is the time-weighted average of Effective EPE across the first year, and it prevents underestimation of exposure caused by declining EPE profiles in short-dated trades.",
-        "B": "EEPE is the maximum EPE observed over the life of the trade, ensuring capital is always sufficient under worst-case scenarios.",
-        "C": "EEPE is calculated as the arithmetic mean of all simulated exposure paths at maturity, adjusted for collateral agreements.",
-        "D": "EEPE is the discounted sum of expected exposures weighted by the probability of default at each future time step."
+        "A": "5.56%; Pure Expectations Theory",
+        "B": "5.56%; Liquidity Preference Theory",
+        "C": "4.93%; Market Segmentation Theory",
+        "D": "4.93%; Liquidity Preference Theory"
       },
-      "correct": "A",
-      "explanation": "EEPE is defined as the time-weighted average of Effective EPE over the first year of the transaction (or the full life of the trade if shorter). Effective EPE is a non-decreasing version of EPE — at each future date it is set to the maximum of its own value and any prior value — which prevents the capital measure from being artificially reduced by trades whose exposure profiles peak early and then decline. Regulators prefer EEPE because simple EPE can understate exposure for trades with hump-shaped or declining profiles, leading to insufficient capital buffers under Basel IMM rules."
+      "correct": "B",
+      "explanation": "The 2y1y forward rate is calculated as [(1.0465)^3 / (1.0420)^2] – 1 ≈ 5.56%, derived by compounding spot rates and solving for the implied one-period forward rate. Liquidity Preference Theory posits that investors demand a premium for holding longer-duration bonds due to interest rate risk, causing the yield curve to slope upward even when future short rates are expected to be flat — this is distinct from Pure Expectations Theory, which assumes no risk premium and that the curve shape reflects only rate forecasts. Market Segmentation Theory attributes curve shape to supply/demand imbalances in maturity segments and does not rely on risk aversion as a primary driver."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Why imperfect hedges can leave investors exposed to residual losses even when the overall direction of the market is correct.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why perfect hedges exist only in textbooks, and how residual basis risk can quietly erode risk management strategies.",
       "paragraphs": [
-        "Basis risk arises when the hedging instrument and the underlying exposure do not move in perfect lockstep, creating a gap — the 'basis' — between the two positions. In theory, a hedge eliminates price risk by taking an offsetting position; in practice, differences in liquidity, contract specifications, delivery dates, or credit quality mean the hedge rarely provides perfect insulation. The basis is formally defined as the spot price of the asset being hedged minus the futures price of the hedging contract, and it can be positive or negative depending on market conditions.",
-        "A classic real-world example emerged during the 2022 UK gilt crisis, when liability-driven investment (LDI) funds used interest rate swaps and gilt futures to hedge long-duration pension liabilities. As yields spiked violently, the basis between the OTC swap rates and exchange-traded gilt futures widened sharply, and collateral calls were triggered faster than funds could liquidate assets. Even though the directional hedge — duration reduction — was conceptually correct, the basis movement and margin mechanics produced catastrophic liquidity stress. Similarly, airlines that hedge jet fuel exposure using crude oil futures face commodity basis risk, since the crack spread between crude and refined products fluctuates independently.",
-        "For risk managers, basis risk demands that hedging effectiveness be continuously monitored using metrics such as the correlation between the hedging instrument and the underlying, and the hedge ratio should be adjusted dynamically — a technique known as delta hedging or minimum-variance hedging. Investors should understand that basis risk cannot be diversified away in the traditional sense; it is an irreducible structural feature of any hedge that uses a proxy instrument. Stress-testing hedge portfolios for basis widening scenarios — particularly during market dislocations — is essential for robust risk management."
+        "Basis risk arises when the hedge instrument does not move in perfect lockstep with the underlying exposure being hedged. It is formally defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price used as the hedge vehicle. Even when a portfolio manager constructs what appears to be a textbook hedge — matching notional values and durations — the hedge ratio remains imperfect because the two instruments respond to different risk drivers, trade in different markets, or have different credit and liquidity profiles.",
+        "A classic real-world example emerged during the 2008 financial crisis, when corporate bond portfolio managers discovered that their hedges using investment-grade credit default swap indices (CDX IG) diverged sharply from the actual spread movements on their specific bond holdings. The index reflected broad market sentiment while individual bonds were subject to idiosyncratic issuer distress. Similarly, commodity producers hedging jet fuel exposure using crude oil futures routinely face basis risk because the crack spread — the refining margin between crude and refined products — can widen dramatically during supply disruptions, leaving the hedge partially ineffective.",
+        "For risk managers, basis risk is not a reason to abandon hedging but a critical input into hedge effectiveness testing under IFRS 9 and ASC 815, which require that hedges demonstrate an economic relationship between the hedging instrument and the hedged item. Practitioners typically monitor the hedge ratio dynamically and measure effectiveness using regression-based dollar-offset methods. Understanding basis risk also informs capital allocation decisions: a hedge with high basis risk provides less economic protection than its notional size implies, meaning the residual unhedged exposure must be accounted for in VaR and stress testing frameworks."
       ],
       "key_takeaways": [
-        "Basis risk is the residual exposure remaining after a hedge is placed, arising from imperfect correlation between the hedging instrument and the underlying asset.",
-        "Real-world events like the 2022 LDI crisis demonstrate that basis risk can interact with liquidity risk to produce losses far larger than the original directional risk.",
-        "Risk managers should use minimum-variance hedge ratios, monitor basis continuously, and stress-test for basis widening under adverse market conditions."
+        "Basis risk is the irreducible gap between a hedge instrument's behavior and the actual exposure — it can never be fully eliminated, only managed.",
+        "Hedges that appear perfect on paper often break down during stress events precisely when risk reduction is most needed, as correlations and spreads diverge.",
+        "Accounting standards (IFRS 9, ASC 815) require formal hedge effectiveness testing, making a quantitative understanding of basis risk essential for finance and treasury professionals."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenditure",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — like saying something happened and it cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you planned to spend. When you picture your wallet empty, you remember 予算 means budget."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action was completed, often with a sense of regret or unintended consequence. It combines the te-form of a verb with しまう to indicate the speaker wishes the outcome had been different.",
+      "memory_tip": "Think of 予 (yo) as 'pre-' and 算 (san) as 'calculate' — a budget is what you PRE-CALCULATE before spending. Picture yourself pre-calculating your yen before a Tokyo shopping spree!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Risk Teams Operate Daily",
-      "summary": "Autonomous AI agents — systems capable of planning multi-step tasks, querying data sources, and executing workflows without human prompting at each step — are moving from research labs into production environments at major financial institutions. Banks including JPMorgan and Goldman Sachs have deployed early-stage agentic systems for tasks like credit memo drafting, regulatory document summarization, and anomaly flagging in transaction monitoring. Unlike simple chatbots, agents can chain together tool calls — pulling live market data, running a stress-test model, and drafting a summary report — in a single automated pipeline. For risk and finance professionals, understanding how to design, supervise, and audit these agent workflows is rapidly becoming a core professional competency.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Decisions Globally",
+      "summary": "Large financial institutions including JPMorgan, HSBC, and several leading fintechs are deploying gradient boosting and deep learning models to augment — and in some cases replace — traditional FICO-based credit scoring. These models ingest thousands of alternative data signals including transaction velocity, behavioral patterns, and even utility payment history to produce dynamic credit assessments that update in near real-time. The shift is compressing underwriting timelines from days to seconds while simultaneously improving default prediction accuracy by 15–25% over legacy scorecards in internal back-tests. Regulators in the US, EU, and UK are now racing to develop model risk governance frameworks (SR 11-7 extensions, EBA guidelines) specifically targeting algorithmic credit decisioning.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously plan and execute sequences of actions — such as retrieving data, running calculations, and generating reports — to complete a goal, rather than simply responding to a single prompt. In finance, this could mean an agent that monitors covenant compliance daily and auto-escalates breaches."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds a series of weak decision trees sequentially, each correcting errors of the prior — widely used in credit risk because it handles missing data, nonlinear relationships, and mixed data types far better than logistic regression."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model fetches relevant external documents or data at query time before generating a response, allowing it to cite up-to-date regulatory texts, earnings reports, or risk guidelines rather than relying solely on its training data."
+          "term": "Alternative Data",
+          "definition": "Non-traditional information sources — such as rent payments, e-commerce behavior, mobile metadata, or social patterns — used to assess creditworthiness for borrowers who are 'thin-file' or unscored by conventional bureaus."
         },
         {
-          "term": "Human-in-the-Loop (HITL)",
-          "definition": "A workflow design principle where AI handles routine processing autonomously but flags edge cases or high-stakes decisions for human review — critical in credit approval, fraud escalation, and model validation contexts to maintain accountability."
+          "term": "Model Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) values quantify each input feature's contribution to an individual model prediction, allowing risk managers and regulators to understand *why* a model approved or denied credit — critical for adverse action notice compliance under ECOA and GDPR."
         }
       ],
-      "career_insight": "Finance professionals who understand how to define the scope, guardrails, and audit trails for AI agent workflows will be significantly more valuable than those who only know how to prompt a chatbot. The emerging skill set combines domain expertise — knowing what a credit analyst or risk manager actually needs — with enough technical fluency to collaborate with data science teams on agent design, tool selection, and failure-mode analysis. Roles like 'AI Risk Analyst,' 'Model Governance Lead,' and 'Quantitative AI Strategist' are seeing sharp increases in job postings across tier-one banks and asset managers globally."
+      "career_insight": "Credit risk analysts who can bridge traditional financial modeling with ML interpretability — particularly around SHAP-based model explanation and regulatory model validation — are commanding significant salary premiums in 2025's hiring market. The most future-proof skill combination is not coding alone, but the ability to challenge model assumptions, design stress tests for AI systems, and communicate model limitations to non-technical stakeholders including regulators and boards."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a delicate equilibrium as markets digest persistent central bank caution against a backdrop of softening but still-sticky services inflation across the G10. The USD has edged higher on renewed safe-haven flows following mixed PMI readings out of the Eurozone, while Treasury yields are range-bound in the 4.40–4.60% corridor on the 10-year as traders price in a shallower Fed easing cycle than anticipated at the start of the year. Equity markets remain bifurcated — mega-cap AI-linked technology names continue to command premium multiples while rate-sensitive sectors like REITs and small-caps face headwinds, suggesting the rally's breadth remains a key vulnerability heading into the next round of earnings and CPI prints."
+    "market_sentiment": "Global risk appetite is cautiously constructive this morning as US Treasury yields stabilize near the 4.40–4.50% range on the 10-year, with Fed officials continuing to signal a 'higher for longer' posture absent a material deterioration in labor data. Equity markets are navigating a narrow path between resilient corporate earnings — particularly in financials and energy — and ongoing uncertainty around the timing of rate cuts, with the rates market now pricing fewer than two 25bp cuts through year-end 2025. Dollar strength remains a headwind for EM assets and commodity exporters, while credit spreads in IG have ground tighter but HY is showing early signs of fatigue at current entry levels."
   }
 }
