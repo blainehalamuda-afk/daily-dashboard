@@ -1,25 +1,18 @@
 {
-  "generated_at": "1:44 PM UTC",
-  "date": "Monday, July 20, 2026",
+  "generated_at": "1:11 PM UTC",
+  "date": "Tuesday, July 21, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 83,
-    "feels_like_f": 90,
-    "high_f": 86,
-    "low_f": 80,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 77,
-    "wind_mph": 3,
+    "temp_f": 80,
+    "feels_like_f": 84,
+    "high_f": 83,
+    "low_f": 79,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 75,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Tue",
-        "icon": "🌧️",
-        "high": 79,
-        "low": 79,
-        "description": "Light Rain"
-      },
       {
         "day": "Wed",
         "icon": "☁️",
@@ -29,10 +22,17 @@
       },
       {
         "day": "Thu",
-        "icon": "☁️",
-        "high": 73,
-        "low": 73,
-        "description": "Broken Clouds"
+        "icon": "🌧️",
+        "high": 75,
+        "low": 75,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Fri",
+        "icon": "🌧️",
+        "high": 67,
+        "low": 67,
+        "description": "Light Rain"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 748.48,
-        "change": 5.19,
-        "change_pct": 0.7,
-        "up": true,
+        "price": 742.09,
+        "change": -1.2,
+        "change_pct": -0.16,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 330.63,
-        "change": -3.11,
-        "change_pct": -0.93,
+        "price": 326.59,
+        "change": -7.15,
+        "change_pct": -2.14,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 206.88,
-        "change": 4.07,
-        "change_pct": 2.01,
+        "price": 203.28,
+        "change": 0.47,
+        "change_pct": 0.23,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 381.59,
-        "change": 0.75,
-        "change_pct": 0.2,
-        "up": true,
+        "price": 369.57,
+        "change": -11.27,
+        "change_pct": -2.96,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64650.66,
-        "change": 227.88,
-        "change_pct": 0.35,
+        "price": 66557.4,
+        "change": 1812.86,
+        "change_pct": 2.8,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1876.44,
-        "change": 7.32,
-        "change_pct": 0.39,
+        "price": 1941.55,
+        "change": 66.28,
+        "change_pct": 3.53,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "DOGE was supposed to be dead. Its remnants are everywhere. - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/07/19/doge-was-supposed-be-dead-its-remnants-are-everywhere/",
-        "description": "The fallout from Elon Musk’s cost-cutting venture can be found across the government if you know where to look.",
-        "published": "1:32 PM UTC",
+        "title": "Taylor Farms lettuce sample that tested positive for cyclospora was a false positive, FDA says - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/taylor-farms-lettuce-false-positive-cyclospora/",
+        "description": "The FDA said that as of Sunday, it had not found any \"confirmed positive sample results for product testing for Cyclospora.\"",
+        "published": "11:57 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says - NewsNation",
-        "source": "Newsnationnow.com",
-        "url": "https://www.newsnationnow.com/health/diarrhea-outbreak-lettuce-tests-positive-fda/",
-        "description": "Positive test on shredded iceberg lettuce adds to investigation of parasitic outbreak that has sickened more than 1,600 people nationwide.",
-        "published": "1:06 PM UTC",
+        "title": "Stock Market Today: Oil Ticks Up After Weekend of Fighting in Mideast — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026",
+        "description": "",
+        "published": "11:35 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Big Tech earnings test tech's big rotation: What to watch this week - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
-        "description": "Earnings results from Alphabet and Tesla headline a busy week, amid a chip sell-off and a conflict in Iran that keeps geopolitics simmering and oil prices ri...",
-        "published": "12:23 PM UTC",
+        "title": "Anduril Brings The Thunder With Autonomous Tiltrotor Attack Drone Concept - TWZ",
+        "source": "Twz.com",
+        "url": "https://www.twz.com/news-features/anduril-brings-the-thunder-with-autonomous-tiltrotor-attack-drone-concept",
+        "description": "Thunder is designed to fly deep into hostile airspace at low altitude as a highly autonomous wingman for AH-64 Apaches and MV-75 Cheyennes.",
+        "published": "11:30 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Xbox Promises A Third Upcoming Exclusive As It Tries To Explain A Confusing Reversal - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/xbox-promises-a-third-upcoming-exclusive-as-it-tries-to-explain-a-confusing-reversal-2000717484",
-        "description": "Why is Halo coming to PS5 but Gears of War: E-Day isn't?",
-        "published": "1:36 PM UTC",
+        "title": "\"The Gears of War trilogy was largely developed hungover by me\" - Cliff Bleszinski reckons with a difficult past while plotting a return to games and a brighter future - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/cliff-bleszinski-alcoholism-gears-of-war-lawbreakers",
+        "description": "Cliff Bleszkinski, the designer instrumental in the creation of Gears of War - the face of the series for three games -…",
+        "published": "10:44 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "FedEx Delivery Driver Falling Into a Front Yard Pool Outside a Georgia Home Shows What Seconds of Screen Distraction Can Do - Yahoo",
-        "source": "Guessingheadlights.com",
-        "url": "https://guessingheadlights.com/fedex-delivery-driver-falling-into-a-front-yard-pool-outside-a-georgia-home-shows-what-seconds-of-screen-distraction-can-do/",
-        "description": "A viral video of a FedEx deliveryman falling into a front yard pool outside a Georgia home may have given him an unexpected way to cool off in the summer hea...",
-        "published": "12:00 PM UTC",
+        "title": "70+ PS5, PS4 Games to Buy in PS Store's Massive Summer Sale (North America/Europe) - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/features/70plus-ps5-ps4-games-to-buy-in-ps-stores-massive-summer-sale-north-americaeurope",
+        "description": "PS5 and PS4 games going cheap we recommend",
+        "published": "9:47 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Why Xbox pushed ahead with Game Pass even though studio heads \"detest\" it - Windows Central",
-        "source": "Windows Central",
-        "url": "https://www.windowscentral.com/gaming/xbox/some-xbox-studio-leads-reportedly-detest-game-pass-so-why-did-xbox-push-ahead-with-it-it-felt-like-a-race-to-zero",
-        "description": "Bloomberg's Jason Schreier shared thoughts from Xbox Game Studios leaders, who reportedly \"detest\" Game Pass and its impact on perception of value.",
-        "published": "11:23 AM UTC",
+        "title": "Ghost Recon: Wildlands Looks Set for PS5 Upgrade at 4K, 60FPS - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/07/ghost-recon-wildlands-looks-set-for-ps5-upgrade-at-4k-60fps",
+        "description": "Along with a new mission",
+        "published": "9:45 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Two U.S. troops killed, one missing in Iranian missile attack on Jordan - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/07/18/iran-jordan-us-deaths-military-two-dead",
-        "description": "They are the first combat deaths since fighting resumed in recent days.",
-        "published": "1:47 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Argentina vs. Spain odds, prediction, time: 2026 World Cup final picks from expert on 20-9 roll - CBS Sports",
-        "source": "CBS Sports",
-        "url": "https://www.cbssports.com/betting/news/argentina-spain-odds-prediction-start-time-2026-world-cup-final-picks-soccer-best-bets/",
-        "description": "SportsLine's Martin Green reveals his Spain vs. Argentina picks for Sunday's World Cup 2026 final",
-        "published": "1:36 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Andy Burnham prepares to lead Britain — and face Trump - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/07/19/andy-burnham-prepares-become-uk-prime-minister-deal-with-trump/",
-        "description": "The incoming prime minister takes office Monday with little foreign policy background and daunting global challenges to confront.",
-        "published": "1:32 PM UTC",
+        "title": "‘King of the North’ Andy Burnham becomes 7th British prime minister in a decade - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/united-kingdom/andy-burnham-british-prime-minister-keir-starmer-labour-king-charles-rcna588324",
+        "description": "The new Labour Party leader Andy Burnham is set to replace Keir Starmer as British prime minister, inheriting a country beset by low wages and internal strife.",
+        "published": "11:59 AM UTC",
         "category": "General"
       }
     ]
@@ -259,18 +243,19 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Chelsea Eye Bundesliga Midfielder as Enzo Fernández Cover Target",
-        "summary": "Chelsea's recruitment team is reportedly monitoring a high-energy Bundesliga central midfielder as contingency cover for Enzo Fernández, with the club seeking greater defensive output in the engine room ahead of the January window. Personal terms are said to be straightforward, with the stumbling block being the selling club's valuation.",
+        "headline": "Chelsea Reignite Interest in Serie A Midfielder Amid Midfield Depth Concerns",
+        "summary": "Chelsea are reportedly monitoring Fiorentina's Sandi Lovric as a potential January addition, with the club seeking a box-to-box option following injury disruptions to their central midfield options. Personal terms are said to be straightforward, with the fee negotiation between clubs the primary obstacle.",
         "clubs": [
           "Chelsea",
-          "Bayer Leverkusen"
+          "Fiorentina"
         ]
       },
       {
-        "headline": "Liverpool in Advanced Talks to Extend Salah Contract Beyond 2025",
-        "summary": "Liverpool and Mohamed Salah's representatives have entered what sources describe as a positive and advanced phase of contract extension negotiations, with the club keen to retain their all-time top scorer beyond his current deal that expires at the end of the season. A resolution is expected before the January transfer window opens to avoid a free-agency saga disrupting squad morale.",
+        "headline": "Newcastle Prepare Upgraded Bid for Bournemouth's Antoine Semenyo",
+        "summary": "Newcastle United are understood to be readying a second offer for Bournemouth winger Antoine Semenyo after an initial £30M bid was rejected, with the Magpies willing to include add-ons to bridge the gap. Semenyo has been in outstanding form this season and Bournemouth remain reluctant to sell mid-season.",
         "clubs": [
-          "Liverpool"
+          "Newcastle United",
+          "Bournemouth"
         ]
       }
     ],
@@ -278,7 +263,7 @@
       "home": "Arsenal",
       "away": "Manchester City",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits Arsenal's high-press, collective intensity against Manchester City's positional dominance in what is effectively a title-race six-pointer. Arsenal come in on the back of three consecutive clean sheets and will look to exploit City's recent defensive fragility from set pieces, while Pep Guardiola's side desperately need three points to close the gap on the top four. The tactical battle between Mikel Arteta — who knows City's system intimately — and Guardiola adds a compelling subplot to what is already the most anticipated domestic fixture of the autumn calendar.",
+      "preview": "The standout fixture of the Premier League weekend pits title rivals Arsenal and Manchester City in a match that could prove decisive in the championship race, with Arsenal looking to extend their lead at the top and City desperate to close the gap after a stuttering run of form. Arsenal have been defensively resolute at the Emirates this season, conceding fewer than any side in the top half, while City's attack has shown signs of returning to its fluid best with Haaland finding form at the right moment. The tactical battle between Arteta and Guardiola — two former collaborators — adds a rich subplot, with Arsenal's high defensive line likely to be tested by City's off-the-ball movement.",
       "key_players": [
         "Bukayo Saka",
         "Erling Haaland",
@@ -287,16 +272,16 @@
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
         "status": "Doubtful",
-        "return": "Being assessed day-to-day; fitness test expected Saturday morning"
+        "return": "Expected to be assessed on matchday; may miss Sunday's fixture"
       },
       {
-        "player": "Destiny Udogie",
-        "team": "Tottenham Hotspur",
-        "status": "Out",
-        "return": "Expected to return after the international break in approximately 3 weeks"
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Targeting return within 2-3 weeks; unlikely to feature this weekend"
       }
     ]
   },
@@ -304,62 +289,62 @@
     "cfa_frm": {
       "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A bank has a $10 million loan to a corporate borrower with a 1-year probability of default (PD) of 2%, a loss given default (LGD) of 60%, and an exposure at default (EAD) of $10 million. The bank also estimates the asset correlation (ρ) at 0.15 and uses the Basel II IRB formula. Which of the following best describes the purpose of asset correlation in the Basel IRB credit risk framework?",
+      "question": "A bank has a loan portfolio with a one-year probability of default (PD) of 2%, a loss given default (LGD) of 45%, and an exposure at default (EAD) of $500 million. The asset correlation under the Basel IRB framework is estimated at 15%. Which of the following best describes the difference between Expected Loss (EL) and Unexpected Loss (UL), and how they are treated under the Basel capital framework?",
       "options": {
-        "A": "It measures the correlation between the borrower's equity returns and the bank's portfolio returns, used to adjust the PD upward.",
-        "B": "It captures the degree to which a borrower's default risk is driven by systematic (economy-wide) factors versus idiosyncratic factors, affecting the capital multiplier.",
-        "C": "It represents the pairwise default correlation between two specific borrowers in the portfolio, used to compute portfolio VaR directly.",
-        "D": "It is used solely to scale the LGD estimate to reflect correlated recovery rates in economic downturns."
+        "A": "EL = $4.5M and is covered by regulatory capital; UL is covered by loan loss provisions.",
+        "B": "EL = $4.5M and is covered by loan loss provisions; UL, driven by portfolio correlation, is covered by regulatory capital.",
+        "C": "EL = $9.0M and is covered by regulatory capital; UL is the standard deviation of losses and requires no capital buffer.",
+        "D": "EL = $4.5M and both EL and UL must be covered entirely by Tier 1 capital under Basel III."
       },
       "correct": "B",
-      "explanation": "In the Basel II/III Internal Ratings-Based (IRB) approach, asset correlation (ρ) reflects the sensitivity of a borrower's asset value to a single systematic risk factor — essentially the state of the economy. A higher ρ means a borrower's default probability is more driven by macro conditions, leading to a higher capital requirement through the conditional PD formula. It is not a pairwise borrower correlation (C) nor does it directly scale LGD (D); rather, it feeds into the Vasicek-model-based capital formula to convert through-the-cycle PD into a stress-scenario conditional PD. The asset correlation is prescribed by Basel (not estimated freely by banks) and varies by asset class, such as 0.12–0.24 for corporate exposures."
+      "explanation": "Expected Loss = PD × LGD × EAD = 0.02 × 0.45 × $500M = $4.5M. Under the Basel IRB framework, EL is the statistically anticipated average loss and should be covered by loan loss provisions (pre-tax expense built into pricing), not regulatory capital. Unexpected Loss represents the volatility around that mean — driven by asset correlation (systematic risk) — and is the risk that requires economic and regulatory capital to absorb tail outcomes. Asset correlation captures how borrower defaults co-move with the economic cycle, amplifying UL in downturns."
     },
     "finance_topic": {
-      "title": "Basis Risk and Its Hidden Dangers",
-      "subtitle": "Why hedges that look perfect on paper can still leave you exposed to significant losses.",
+      "title": "Basis Risk: The Hidden Cost of Hedging",
+      "subtitle": "When a hedge doesn't perfectly offset your exposure, the gap between them can become a risk of its own.",
       "paragraphs": [
-        "Basis risk is the risk that the value of a hedge does not move in perfect opposition to the value of the position being hedged, resulting in residual — often unexpected — exposure. It arises whenever the instrument used to hedge differs from the underlying exposure in terms of maturity, quality, geography, or contractual specification. Mathematically, basis is defined as the spot price of the asset being hedged minus the futures price of the hedging contract. While a perfect hedge drives this difference to zero at expiration, in practice the basis fluctuates and can widen sharply under stress.",
-        "A textbook example occurred during the 2008 financial crisis, when airlines that had hedged jet fuel costs using crude oil futures were caught badly off-guard. Crude oil and jet fuel prices, which had historically moved in lockstep, temporarily diverged due to refinery capacity constraints and credit-driven commodity dislocation. Airlines faced margin calls on their futures positions while their physical fuel costs did not fall proportionately — effectively doubling their pain. Similarly, fixed income portfolio managers who hedge corporate bond duration with Treasury futures routinely face basis risk when credit spreads widen, as the Treasury hedge captures rate moves but not the spread component of total yield.",
-        "For risk managers and investors, the key implication is that basis risk cannot be diversified away — it must be actively monitored and sized. Hedge ratios should account for the historical correlation and volatility of the basis, not just the price-level relationship. Stress testing a hedge specifically for basis widening — particularly in scenarios of market illiquidity or segmented markets — is essential. Practitioners also use minimum-variance hedge ratios, derived from regressing spot price changes on futures price changes, rather than naively assuming a one-to-one hedge."
+        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position. The 'basis' is formally defined as the difference between the spot price of the asset being hedged and the futures (or proxy instrument) price used to hedge it. Even when a hedge is carefully constructed, this spread can widen or narrow unpredictably, leaving the hedger exposed to residual profit or loss that was never part of the original risk calculus. It is a pervasive feature of real-world hedging that no textbook perfect hedge can fully eliminate.",
+        "A classic example is an airline hedging jet fuel costs using crude oil futures. Jet fuel and crude oil are highly correlated, but refining spreads (crack spreads), regional supply disruptions, or logistics bottlenecks can cause jet fuel prices to diverge sharply from crude. During the 2021-2022 energy crisis, airlines that had hedged using WTI futures found that crack spreads blew out to historic wides, meaning their actual fuel costs rose far more than their crude hedges offset — a painful realization of basis risk. Similarly, a fixed-income portfolio manager hedging corporate bond exposure with Treasury futures faces basis risk from credit spread movements that Treasuries do not capture.",
+        "For risk managers and investors, basis risk demands attention at the hedge design stage, not just execution. Selecting the most correlated available instrument, monitoring the hedge ratio dynamically using regression-based betas, and stress-testing the basis under historical crisis scenarios are all essential practices. Regulators also scrutinize basis risk: under IFRS 9 hedge accounting rules, entities must demonstrate hedge effectiveness within an 80–125% corridor, and persistent basis drift can disqualify a hedge from favorable accounting treatment, introducing unwanted P&L volatility into financial statements."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Basis can widen dramatically under stress conditions, turning a well-intentioned hedge into a source of compounded losses.",
-        "Optimal hedge ratios should be computed using regression-based minimum-variance methods and stress-tested for adverse basis movements."
+        "Basis risk is the residual risk remaining after a hedge is applied — it can never be completely eliminated when using proxy instruments.",
+        "Basis can widen or narrow due to supply-demand imbalances, credit spread changes, or structural market dislocations, sometimes making a hedge counterproductive.",
+        "Dynamic hedge ratio monitoring, instrument selection rigor, and scenario stress-testing are the primary tools risk managers use to manage basis risk."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved up",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (ongoing action / habitual action)",
-      "grammar_explanation": "The pattern 〜ています (te-form of verb + います) expresses either an action currently in progress or a habitual/repeated action. In this sentence, 'chokin shite imasu' conveys that saving money is a regular, ongoing habit rather than a one-time event.",
-      "memory_tip": "Think of 'cho-kin' as 'cho' (super) + 'kin' (gold/money) — you're building a super pile of gold coins, one month at a time. A piggy bank filling up with golden coins!"
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened completely, often with a nuance of regret or that it was unintentional. It combines the te-form of a verb with しまう (shimau), and in polite past tense becomes してしまいました.",
+      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead' and 算 (san) as 'calculate' — a budget is when you plan ahead and calculate your money. Yo-san: your plan, your calculation."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Lending and Risk Teams",
-      "summary": "Major banks and fintechs are deploying large language models and gradient boosting ensembles to automate and enhance credit underwriting decisions, processing alternative data signals — including cash flow patterns, geolocation behavior, and supplier relationship graphs — that traditional FICO-based scorecards cannot capture. Firms like JPMorgan and Upstart have reported meaningful improvements in default prediction accuracy alongside reductions in manual underwriting headcount for standardized loan categories. Regulators are responding: the OCC and CFPB have issued guidance requiring explainability for AI-driven adverse action notices, pushing institutions toward interpretable model architectures. The competitive moat is increasingly determined not by model sophistication alone but by the quality and exclusivity of proprietary training data.",
+      "headline": "AI Copilots Are Reshaping How Analysts Build Financial Models",
+      "summary": "Large language models integrated directly into spreadsheet and terminal environments — such as Microsoft Copilot in Excel, Bloomberg's AI earnings summaries, and emerging tools from Palantir and Workiva — are beginning to automate first-draft financial modeling, covenant extraction from credit agreements, and variance analysis. These tools can reduce the time a junior analyst spends on data gathering and model scaffolding by an estimated 40–60%, according to early enterprise pilots. However, the productivity gain is not uniform: analysts who understand the underlying accounting and risk logic use AI outputs as a starting point, while those who do not are prone to accepting hallucinated figures or structurally flawed models. The real competitive advantage is shifting from 'can you build the model?' to 'can you interrogate and stress-test the AI's output?'",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning method that builds many sequential decision trees, each correcting the errors of the previous one, producing highly accurate predictions on structured tabular data like loan applications — the dominant model type in credit risk scoring competitions and production deployments."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model queries a specific document database (e.g., SEC filings, bond indentures, internal memos) before generating a response, dramatically improving factual accuracy for finance-specific tasks compared to relying on training data alone."
         },
         {
-          "term": "Adverse Action Explainability",
-          "definition": "The regulatory requirement (under ECOA/FCRA in the US) that when a credit application is denied, the lender must provide specific, human-understandable reasons — forcing AI teams to use techniques like SHAP values to extract which features most influenced a rejection decision."
+          "term": "Agentic AI Workflows",
+          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as pulling market data, running a DCF, and drafting an investment memo — without requiring human input at each intermediate step, acting more like a junior analyst than a chatbot."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as rent payment history, bank transaction patterns, e-commerce behavior, or social signals — used to assess creditworthiness of borrowers who are thin-file or unbanked, expanding the addressable credit market while introducing new model risk."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built AI model on domain-specific data (e.g., earnings call transcripts, credit analyst reports) so it learns specialized terminology, reasoning patterns, and output formats relevant to a particular financial use case."
         }
       ],
-      "career_insight": "Credit risk professionals who combine domain expertise in underwriting with fluency in Python, SHAP-based model interpretability, and model validation frameworks are becoming the most sought-after hires at banks, fintechs, and regulatory bodies. The role of the credit analyst is not disappearing — it is shifting toward model governance, challenge functions, and designing data strategies, skills that pure data scientists without financial training struggle to replicate."
+      "career_insight": "Finance professionals who will thrive in the next five years are those who develop 'AI fluency' — not coding per se, but the ability to prompt effectively, validate AI outputs critically, and redesign workflows around AI augmentation. Risk managers in particular should focus on understanding where AI models fail (distributional shift, data sparsity, overconfidence in tail scenarios), as model risk governance is becoming a core competency alongside traditional credit and market risk skills."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a delicate equilibrium as markets reprice the Federal Reserve's rate path following stickier-than-expected services inflation, with front-end rates drifting higher and the 2s10s curve flattening modestly on the week. Equities are displaying a bifurcated tone — mega-cap tech continues to benefit from AI capex enthusiasm while rate-sensitive small caps and regional bank equities remain under pressure amid renewed net interest margin concerns. Commodities are the morning's macro wildcard, with crude oil firming on Middle East supply risk premium and gold holding near multi-month highs as a tail-risk hedge, suggesting institutional positioning remains defensively tilted beneath the surface calm in VIX."
+    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as U.S. core PCE data continues to trend toward the Fed's 2% target, keeping alive expectations for one to two rate cuts before year-end — though the timeline remains data-dependent and Fed speakers have pushed back on aggressive easing bets. The dollar has softened modestly against G10 peers, providing a tailwind for emerging market assets, while Brent crude hovers near $83/bbl amid OPEC+ supply discipline and still-resilient demand from Asia. Equity volatility (VIX sub-15) suggests markets are pricing a soft-landing base case, but credit spreads have tightened to levels that leave limited margin of safety if earnings disappoint in the upcoming reporting cycle."
   }
 }
