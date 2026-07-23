@@ -1,25 +1,18 @@
 {
-  "generated_at": "1:17 PM UTC",
-  "date": "Wednesday, July 22, 2026",
+  "generated_at": "1:20 PM UTC",
+  "date": "Thursday, July 23, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 81,
-    "feels_like_f": 86,
-    "high_f": 83,
-    "low_f": 79,
+    "temp_f": 75,
+    "feels_like_f": 77,
+    "high_f": 78,
+    "low_f": 73,
     "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 76,
+    "humidity": 89,
     "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "🌧️",
-        "high": 74,
-        "low": 74,
-        "description": "Light Rain"
-      },
       {
         "day": "Fri",
         "icon": "🌧️",
@@ -29,10 +22,17 @@
       },
       {
         "day": "Sat",
-        "icon": "🌧️",
+        "icon": "☁️",
         "high": 71,
         "low": 71,
-        "description": "Light Rain"
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sun",
+        "icon": "☁️",
+        "high": 73,
+        "low": 73,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 748.28,
-        "change": 6.19,
-        "change_pct": 0.83,
-        "up": true,
+        "price": 747.41,
+        "change": -0.87,
+        "change_pct": -0.12,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 327.74,
-        "change": 1.15,
-        "change_pct": 0.35,
-        "up": true,
+        "price": 325.89,
+        "change": -1.85,
+        "change_pct": -0.56,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 207.29,
-        "change": 4.01,
-        "change_pct": 1.97,
+        "price": 212.06,
+        "change": 4.77,
+        "change_pct": 2.3,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 378.93,
-        "change": 9.36,
-        "change_pct": 2.53,
-        "up": true,
+        "price": 374.01,
+        "change": -4.92,
+        "change_pct": -1.3,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 65612,
-        "change": -986.97,
-        "change_pct": -1.48,
+        "price": 65025.87,
+        "change": -559.47,
+        "change_pct": -0.85,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1920.14,
-        "change": -19.87,
-        "change_pct": -1.02,
+        "price": 1898.83,
+        "change": -20.74,
+        "change_pct": -1.08,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
-        "description": "Novo asked the court to permanently stop Lilly from running the \"deceptive\" ads and require the drugmaker to issue corrective advertising.",
-        "published": "11:35 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "SpaceX Stock Is Finally Rising After Elon Musk Warns Short Sellers. - Barron's",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/spacex-stock-elon-musk-short-sellers-206a6c7e",
-        "description": "SpaceX will report second-quarter earnings on Aug. 4. That will unlock 20% of the stock held by early investors.",
-        "published": "11:31 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "How to tell if your lettuce is safe to eat during cyclospora outbreak - The Hill",
-        "source": "The Hill",
-        "url": "https://thehill.com/policy/healthcare/5978848-how-to-tell-if-your-lettuce-is-safe-to-eat-during-cyclospora-outbreak/",
-        "description": "These are the types of lettuce you should toss out immediately.",
-        "published": "11:15 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/07/the-witcher-3s-big-new-expansion-makes-its-debut-at-gamescom-opening-night-live",
-        "description": "Songs of the Past shows itself",
-        "published": "11:33 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "The New Maybach GLS Shows Its Face For The First Time - Motor1.com",
-        "source": "Motor1 ",
-        "url": "https://www.motor1.com/news/802226/mercedes-maybach-gls-front-fascia-teaser/",
-        "description": "Mercedes-Benz will unveil the updated Maybach GLS, which will feature a unique front face and lighting signature that the automaker just teased. Check it out.",
-        "published": "11:04 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Microsoft Releases New Windows 11 Security Update Fix For Dell Users - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/daveywinder/2026/07/21/microsoft-releases-new-windows-11-security-update-fix-for-dell-users/",
-        "description": "An emergency, out-of-band Windows 11 update for Dell users has been confirmed by Microsoft to fix issues caused by the July Patch Tuesday security rollout.",
-        "published": "10:46 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Tropical Storm Bertha churns off Florida coast, prompting storm alerts - ABC News - Breaking News, Latest News and Videos",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/tropical-storm-bertha-takes-shape-off-florida-coast/story?id\\\\u003d134917136",
+        "title": "Stock Market Today: Nasdaq Slips, Oil Price Touches $95 as War Squeezes Supply — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-22-2026",
         "description": "",
-        "published": "12:22 PM UTC",
+        "published": "2:28 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "AT&T Stock Rises After Earnings. So Much for SpaceX Fears. - Barron's",
+        "source": "Barron's",
+        "url": "https://www.barrons.com/articles/at-t-earnings-stock-price-c8cba37c",
+        "description": "Telecom stocks are struggling, but the wireless carrier’s second-quarter results are sending a better signal.",
+        "published": "1:51 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq diverge with Alphabet, Tesla earnings on deck - Yahoo! Finance Canada",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+        "description": "Stocks slid as markets braced for a round of Big Tech earnings, the next AI trade test.",
+        "published": "1:41 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Exodites in Warhammer 40,000 – See the full rules - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/articles/bauwdcyl/exodites-in-warhammer-40000-see-the-full-rules",
+        "description": "Dragon Knights get ready to skewer the competition.",
+        "published": "1:56 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Xbox Console Sales Jumped 86 Percent In June Despite High Prices - Kotaku",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/xbox-console-sales-up-june-price-increases-switch-2-2000718346",
+        "description": "Meccha Chameleon was the second-best-selling game in the U.S. last month, with an estimated 4 million copies sold",
+        "published": "1:24 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 - Samsung Global Newsroom",
+        "source": "Samsung.com",
+        "url": "https://news.samsung.com/global/galaxy-unpacked-july-2026-a-first-look-at-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8",
+        "description": "At Galaxy Unpacked July 2026 in London, Samsung Electronics unveiled the eighth-generation Galaxy Z series. Combining agentic AI that understands users with hardware tailored to different lifestyles, ",
+        "published": "1:18 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "No, You Shouldn’t Avoid Fruits and Vegetables Due to Cyclospora - Consumer Reports",
+        "source": "ConsumerReports.org",
+        "url": "https://www.consumerreports.org/health/food-safety/you-shouldnt-avoid-fruits-and-vegetables-due-to-cyclospora-a9570579349/",
+        "description": "A parasite called cyclospora has sickened thousands with explosive diarrhea. Here's what you must know and how to reduce your risk of infection.",
+        "published": "2:41 PM UTC",
         "category": "General"
       },
       {
-        "title": "The Pentagon, sinking billions into Iran war, is quickly running short on cash - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/07/21/pentagon-sinking-billions-into-iran-is-quickly-running-short-cash/",
-        "description": "With some funds set to dry up within weeks, Defense Secretary Pete Hegseth is set to press lawmakers Tuesday to address the increasingly urgent shortfall.",
-        "published": "11:32 AM UTC",
+        "title": "Preliminary independent autopsy results for Nolan Wells’ death are released - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/22/us/nolan-wells-preliminary-autopsy-results",
+        "description": "The cause of death for Nolan Wells, an 18-year-old whose body was found July 6 along the shoreline of Horn Island off the Mississippi coast, has not been determined, according to preliminary independe",
+        "published": "1:55 PM UTC",
         "category": "General"
       }
     ]
@@ -251,45 +251,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for RB Leipzig Midfielder amid Partey Exit Links",
-        "summary": "Arsenal are reportedly in advanced discussions to sign a dynamic box-to-box midfielder from RB Leipzig this summer window, with Thomas Partey's contract expiring and the club seeking a younger, high-energy replacement in the engine room. A fee in the region of £55-65 million is being discussed.",
+        "headline": "Manchester United Weighing Move for Bundesliga Midfielder Ahead of January Window",
+        "summary": "Manchester United's new sporting structure under INEOS is reportedly scouting a dynamic box-to-box midfielder from the Bundesliga as a priority January target, with the club keen to address a long-standing lack of energy and creativity in the center of the park. A fee in the region of £45-55 million is thought to be under discussion.",
         "clubs": [
-          "Arsenal",
-          "RB Leipzig"
+          "Manchester United",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester City Eye Sporting CP Striker as Haaland Insurance Policy",
-        "summary": "Manchester City's recruitment team has identified a prolific Sporting CP forward as a long-term option to complement or eventually succeed Erling Haaland, with City keen to avoid over-reliance on a single striker as European competition intensifies. Sporting are expected to demand a release-clause-level fee above €80 million.",
+        "headline": "Chelsea in Advanced Talks to Extend Academy Graduate's Contract",
+        "summary": "Chelsea are understood to be in advanced negotiations to tie down one of their breakout academy players to a new long-term deal, amid reported interest from several top European clubs. The club views keeping homegrown talent as central to satisfying Premier League squad registration rules.",
         "clubs": [
-          "Manchester City",
-          "Sporting CP"
+          "Chelsea",
+          "Barcelona"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Chelsea",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "Anfield hosts a top-four showdown as Liverpool look to consolidate their Champions League qualification berth against a Chelsea side that has strung together three consecutive Premier League wins under their manager and will arrive full of confidence. Liverpool's front three have been in scintillating form at home this season, but Chelsea's defensive reorganization and pressing intensity make this one of the trickiest assignments remaining on the fixture list. The subplot of former Liverpool players in the Chelsea squad adds emotional edge to what promises to be a ferocious midfield battle.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "This is the standout fixture of the Premier League weekend — a genuine title six-pointer between two sides separated by just two points at the top of the table. Arsenal come into the match in excellent home form, having won their last five at the Emirates, while City are seeking to reassert their title credentials after successive draws have allowed the Gunners to close the gap. Expect a tactically intense affair with Mikel Arteta's high press looking to exploit City's recent vulnerability in transition.",
       "key_players": [
-        "Mohamed Salah",
-        "Cole Palmer",
-        "Virgil van Dijk"
+        "Bukayo Saka",
+        "Erling Haaland",
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected return pre-season 2025-26; long-term ACL rehabilitation ongoing"
+        "status": "Out",
+        "return": "Long-term absence — not expected to return until late 2025 following ACL surgery"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
         "status": "Doubtful",
-        "return": "Week-to-week assessment; targeting return within 2-3 weeks pending scan results"
+        "return": "Being assessed ahead of the weekend; muscle strain sustained in training this week"
       }
     ]
   },
@@ -297,62 +297,62 @@
     "cfa_frm": {
       "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A bank has a loan portfolio with an expected default frequency (EDF) of 2%, a loss given default (LGD) of 55%, and a total exposure of $500 million. If the asset correlation between obligors is 0.15, which of the following best describes the relationship between expected loss (EL) and economic capital?",
+      "question": "A bank estimates that a corporate borrower has a 1-year probability of default (PD) of 3%, a loss given default (LGD) of 60%, and an exposure at default (EAD) of $50 million. If the asset correlation under the Basel IRB framework is 15%, which of the following best describes the role of asset correlation in calculating regulatory capital?",
       "options": {
-        "A": "Economic capital equals EL because diversification eliminates idiosyncratic risk entirely at this portfolio size.",
-        "B": "Economic capital is determined by unexpected loss (UL) and is always less than EL in well-diversified portfolios.",
-        "C": "Economic capital is driven by the tail of the loss distribution and exceeds EL; higher asset correlation increases the capital requirement.",
-        "D": "EL and economic capital converge when LGD is fixed, making asset correlation irrelevant to capital allocation."
+        "A": "Asset correlation directly scales the expected loss (EL) upward to account for systematic risk in the loan portfolio.",
+        "B": "Asset correlation captures the degree to which a borrower's default is driven by common macroeconomic factors, increasing the conditional PD used in the capital formula.",
+        "C": "Asset correlation adjusts the LGD estimate to reflect the tendency for collateral values to decline during systemic downturns.",
+        "D": "Asset correlation is used to diversify the idiosyncratic risk of the exposure, thereby reducing the unexpected loss capital requirement."
       },
-      "correct": "C",
-      "explanation": "Expected Loss (EL = EDF × LGD × EAD = $5.5M) represents the average loss provisioned through reserves, while economic capital covers unexpected losses at a given confidence level — the tail of the credit loss distribution. Higher asset correlation means obligor defaults become more systemic and clustered, fattening the tail and significantly increasing economic capital requirements. Options A and B are incorrect because diversification reduces but never eliminates systematic risk, and economic capital typically far exceeds EL in concentrated or correlated portfolios."
+      "correct": "B",
+      "explanation": "In the Basel II/III IRB framework, asset correlation (R) reflects the sensitivity of a borrower's asset value to a single systematic risk factor. A higher correlation means the borrower's fortunes are more tied to the macroeconomic cycle, which increases the conditional probability of default during a downturn scenario — the basis for the capital formula. This conditional PD, derived under a 99.9% confidence level stress scenario, drives the unexpected loss (UL) and therefore the regulatory capital requirement. Asset correlation does not directly scale EL or adjust LGD; it fundamentally transforms the unconditional PD into a stress-conditional PD."
     },
     "finance_topic": {
-      "title": "Basis Risk and Hedging Imperfections in Practice",
-      "subtitle": "Why perfect hedges rarely exist and how residual basis risk can erode or even amplify portfolio losses.",
+      "title": "Basis Risk in Fixed Income Hedging",
+      "subtitle": "Why imperfect hedges can leave risk managers exposed even when positions appear fully offset.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. Formally, it is the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when two instruments are highly correlated, small divergences in pricing, tenor, liquidity, or credit quality create a residual exposure that cannot be eliminated — this residual is the basis, and its unpredictability is basis risk.",
-        "A classic real-world example emerged during the 2022 UK gilt crisis, when liability-driven investment (LDI) funds used interest rate swaps and gilt repo to hedge pension liabilities. When gilt yields spiked violently, the basis between the funds' hedging instruments and their liability benchmarks widened unexpectedly, generating massive variation margin calls that forced asset sales — a feedback loop that amplified rather than contained risk. Similarly, airlines hedging jet fuel with crude oil futures face commodity basis risk because refined product and crude prices can diverge dramatically during supply disruptions.",
-        "For risk managers and portfolio hedgers, basis risk demands careful hedge ratio calibration — often using ordinary least squares regression of spot versus futures returns to derive the minimum-variance hedge ratio (h* = ρ × σS/σF). Managers must also monitor rolling risk, since futures contracts expire and must be rolled forward, potentially at unfavorable prices. In stressed markets, basis risk and liquidity risk tend to spike simultaneously, precisely when hedges are needed most. Stress testing hedge effectiveness across historical dislocation episodes is essential, not optional."
+        "Basis risk arises when the hedge instrument and the underlying exposure do not move in perfect lockstep, leaving a residual, unhedged position. In fixed income markets, basis is typically defined as the difference between the spot price (or yield) of the asset being hedged and the futures or swap price used as the hedge vehicle. Even when a trader constructs a duration-matched hedge, differences in credit quality, coupon structure, liquidity, or benchmark conventions can cause the hedge to underperform or overperform relative to expectations — a phenomenon that can turn a seemingly conservative position into an active risk.",
+        "A classic real-world example emerged during the March 2020 COVID-19 liquidity crisis, when Treasury futures and cash Treasuries — normally near-perfect substitutes — experienced severe basis dislocations. Hedge funds employing the 'cash-futures basis trade,' a strategy that exploits tiny price differences between the two, were caught on the wrong side as the basis widened dramatically rather than converging. Similarly, corporate bond portfolio managers hedging with CDX index products routinely face basis risk because the CDX references a standardized basket of names that rarely matches their actual holdings precisely.",
+        "For risk managers, basis risk is insidious because it is often invisible in standard Value-at-Risk models that assume stable correlations between hedging instruments and exposures. Stress testing and scenario analysis are essential supplements — specifically, scenarios that model historical episodes of basis blow-outs such as 1998 (LTCM), 2008 (cross-currency basis), and 2020. Investors should size hedges conservatively when basis risk is high, maintain margin buffers to avoid forced unwinds, and continuously monitor the hedge ratio as market dynamics shift."
       ],
       "key_takeaways": [
-        "Basis risk is the irreducible residual exposure when a hedge instrument imperfectly tracks the underlying — it is a cost of hedging, not evidence of a failed strategy.",
-        "Asset class mismatches, tenor differences, and credit spread divergence are the three most common structural sources of basis risk in derivatives hedging.",
-        "The minimum-variance hedge ratio quantifies the optimal hedge size, but its effectiveness must be continuously re-estimated as correlations shift in volatile markets."
+        "Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
+        "Even sovereign bond hedges can experience significant basis dislocations during liquidity crises, as demonstrated in March 2020 with the Treasury cash-futures basis.",
+        "Standard VaR models often understate basis risk; stress testing against historical basis blow-out events is critical for robust risk management."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikiite shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over budget this month.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened and it's done. It combines the te-form of a verb with しまいました (the polite past of しまう), signaling that the result is beyond recovery.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you planned to spend. Once you picture your personal sum, 予算 as 'budget' locks in easily."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that something was completed, often with a nuance of regret or that it happened unintentionally. It is the polite past form of 〜てしまう, frequently used when admitting a mistake or an undesirable outcome.",
+      "memory_tip": "Think of 予 (yo) as 'your' and 算 (san) as 'calculation' — 'your calculation' of spending is your budget. Imagine carefully calculating every yen you plan to spend."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Investment Banks Conduct Research",
-      "summary": "Major investment banks including JPMorgan, Goldman Sachs, and Morgan Stanley have deployed or are piloting autonomous AI agents capable of ingesting earnings transcripts, macro data feeds, and regulatory filings to generate first-draft research notes and risk summaries in minutes rather than days. Unlike earlier NLP tools that merely extracted information, these agentic systems can reason across multiple data sources, identify inconsistencies in management guidance, and flag credit covenant triggers — tasks that previously required a team of junior analysts. The shift is compressing the analyst-to-output ratio and raising the floor on what human analysts are expected to contribute in terms of judgment, client relationships, and original thesis generation. Regulators in the EU and UK are beginning to scrutinize model governance frameworks for AI-generated research to ensure accountability and prevent herding behavior.",
+      "headline": "AI Agents Are Quietly Reshaping How Investment Banks Conduct Due Diligence",
+      "summary": "Large investment banks and asset managers are deploying autonomous AI agents — systems capable of multi-step reasoning, web browsing, document retrieval, and code execution — to dramatically accelerate due diligence workflows. Tasks that previously required teams of junior analysts working overnight, such as extracting covenants from hundreds of pages of loan documentation, cross-referencing filings for related-party disclosures, and building preliminary financial models, are now being compressed from days into hours. Firms like JPMorgan, BlackRock, and several elite hedge funds have begun integrating these agents into their research stacks, creating a compounding productivity gap between early adopters and laggards. The competitive implications are significant: banks that harness agentic AI can underwrite more deals, cover more names, and respond to market events faster than those relying on purely human workflows.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, execute multi-step tasks, and use external tools (APIs, databases, code interpreters) to achieve a goal — unlike chatbots that simply respond to single prompts. In finance, agents can monitor watchlists, draft memos, and flag anomalies without human initiation of each step."
+          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as reading a prospectus, running calculations, and drafting a memo — without requiring a human prompt at every step, enabling end-to-end automation of complex finance workflows."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents from a private knowledge base (e.g., proprietary deal memos, regulatory filings) before generating a response, dramatically improving factual accuracy and reducing hallucinations in domain-specific financial contexts."
+          "definition": "A technique where an AI model dynamically pulls relevant information from a firm's proprietary document library (filings, research, term sheets) before generating a response, making outputs far more accurate and grounded in actual data rather than general training knowledge."
         },
         {
-          "term": "Model Governance",
-          "definition": "The framework of policies, validation processes, and audit trails ensuring AI models used in financial decision-making are accurate, explainable, and compliant with regulations — analogous to model risk management under SR 11-7 guidance but extended to cover large language models and agentic systems."
+          "term": "Structured Output Parsing",
+          "definition": "The ability of AI models to extract and organize specific data fields — such as EBITDA, leverage covenants, or maturity dates — from unstructured documents like credit agreements or earnings transcripts into clean, machine-readable formats usable in financial models."
         }
       ],
-      "career_insight": "Finance professionals who treat AI as a productivity multiplier — offloading information synthesis while sharpening their edge in judgment, client trust, and contrarian thinking — will see outsized career gains over the next five years. The most in-demand hybrid skillset is now combining quantitative or credit fundamentals with the ability to design, evaluate, and govern AI-assisted workflows, making model literacy a core competency alongside financial modeling and CFA-level analysis."
+      "career_insight": "Finance professionals who understand how to design, prompt, evaluate, and govern AI agent workflows will command a significant premium over those who merely use AI as a search tool. The highest-value skill set is emerging as a hybrid: deep domain knowledge in credit, risk, or markets combined with the ability to architect AI-assisted processes — essentially becoming the human-in-the-loop who sets guardrails, validates outputs, and spots model failures. Risk managers in particular should develop literacy in AI model governance, as regulators are increasingly scrutinizing algorithmic decision-making in lending, trading, and compliance."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a complex macro crosscurrent this week: Fed officials continue to push back on near-term rate cut expectations as services inflation proves stickier than anticipated, keeping the front end of the US Treasury curve under pressure and the dollar broadly supported. Equity markets are showing resilience in mega-cap tech on the back of strong AI-related capex guidance, but credit spreads in CCC-rated high yield have quietly widened 40-60bps over the past month, signaling selective stress in the most leveraged parts of the capital structure. Geopolitical risk premium remains embedded in energy markets, with Brent holding above key technical support — investors should watch Thursday's jobless claims print and Friday's PCE deflator as the next catalyst for near-term duration and risk positioning."
+    "market_sentiment": "Risk assets are navigating a complex cross-current of sticky services inflation, resilient U.S. labor data, and renewed uncertainty around the Fed's rate path, with markets increasingly pricing 'higher for longer' as the base case through mid-2025. The dollar has reasserted modest strength on the back of relative U.S. growth outperformance, applying pressure on EM currencies and commodity exporters, while front-end Treasuries remain volatile as traders recalibrate terminal rate expectations. Equity markets are displaying a bifurcated pattern — mega-cap tech continues to find support on AI earnings momentum, but breadth remains thin and credit spreads in leveraged loans bear watching as refinancing walls approach in 2025-2026."
   }
 }
