@@ -1,37 +1,37 @@
 {
-  "generated_at": "1:20 PM UTC",
-  "date": "Thursday, July 23, 2026",
+  "generated_at": "1:14 PM UTC",
+  "date": "Friday, July 24, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 75,
-    "feels_like_f": 77,
-    "high_f": 78,
-    "low_f": 73,
+    "temp_f": 68,
+    "feels_like_f": 69,
+    "high_f": 69,
+    "low_f": 67,
     "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 89,
-    "wind_mph": 2,
+    "humidity": 96,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Fri",
+        "day": "Sat",
         "icon": "🌧️",
-        "high": 70,
-        "low": 70,
+        "high": 69,
+        "low": 69,
         "description": "Light Rain"
       },
       {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 71,
-        "low": 71,
-        "description": "Overcast Clouds"
+        "day": "Sun",
+        "icon": "☀️",
+        "high": 72,
+        "low": 72,
+        "description": "Clear Sky"
       },
       {
-        "day": "Sun",
+        "day": "Mon",
         "icon": "☁️",
-        "high": 73,
-        "low": 73,
+        "high": 74,
+        "low": 74,
         "description": "Broken Clouds"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 747.41,
-        "change": -0.87,
-        "change_pct": -0.12,
+        "price": 738.18,
+        "change": -9.23,
+        "change_pct": -1.23,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 325.89,
-        "change": -1.85,
-        "change_pct": -0.56,
+        "price": 321.66,
+        "change": -4.23,
+        "change_pct": -1.3,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 212.06,
-        "change": 4.77,
-        "change_pct": 2.3,
-        "up": true,
+        "price": 208.76,
+        "change": -3.3,
+        "change_pct": -1.56,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 374.01,
-        "change": -4.92,
-        "change_pct": -1.3,
+        "price": 319.69,
+        "change": -54.32,
+        "change_pct": -14.52,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 65025.87,
-        "change": -559.47,
-        "change_pct": -0.85,
+        "price": 64367.14,
+        "change": -671.99,
+        "change_pct": -1.03,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1898.83,
-        "change": -20.74,
-        "change_pct": -1.08,
+        "price": 1862.04,
+        "change": -37.19,
+        "change_pct": -1.96,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Nasdaq Slips, Oil Price Touches $95 as War Squeezes Supply — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-22-2026",
-        "description": "",
-        "published": "2:28 PM UTC",
+        "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical. - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725",
+        "description": "A ‘more concerning unwind’ is the risk, says strategist",
+        "published": "1:52 PM UTC",
         "category": "Business"
       },
       {
-        "title": "AT&T Stock Rises After Earnings. So Much for SpaceX Fears. - Barron's",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/at-t-earnings-stock-price-c8cba37c",
-        "description": "Telecom stocks are struggling, but the wireless carrier’s second-quarter results are sending a better signal.",
-        "published": "1:51 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq diverge with Alphabet, Tesla earnings on deck - Yahoo! Finance Canada",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
-        "description": "Stocks slid as markets braced for a round of Big Tech earnings, the next AI trade test.",
+        "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
+        "description": "Shares of Albertsons sank Thursday after the grocer reported softness in its core business and lowered its full-year outlook as a result.",
         "published": "1:41 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Exodites in Warhammer 40,000 – See the full rules - Warhammer Community",
-        "source": "Warhammer-community.com",
-        "url": "https://www.warhammer-community.com/articles/bauwdcyl/exodites-in-warhammer-40000-see-the-full-rules",
-        "description": "Dragon Knights get ready to skewer the competition.",
-        "published": "1:56 PM UTC",
+        "title": "Everything Samsung Announced at Galaxy Unpacked: Z Fold 8, Flip 8, Watch 9, More - PCMag",
+        "source": "PCMag.com",
+        "url": "https://www.pcmag.com/news/samsung-galaxy-unpacked-july-2026-live-zfold8-zflip8-watch9-news",
+        "description": "Here's the latest on Samsung's newest foldables and wearables, along with details on how to buy them and how they compare to other flagship devices.",
+        "published": "11:47 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Xbox Console Sales Jumped 86 Percent In June Despite High Prices - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/xbox-console-sales-up-june-price-increases-switch-2-2000718346",
-        "description": "Meccha Chameleon was the second-best-selling game in the U.S. last month, with an estimated 4 million copies sold",
-        "published": "1:24 PM UTC",
+        "title": "Shigeru Miyamoto Defends Nintendo's Production Of Remakes - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/07/shigeru-miyamoto-defends-nintendos-production-of-remakes",
+        "description": "No worries, Shigsy",
+        "published": "10:30 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 - Samsung Global Newsroom",
-        "source": "Samsung.com",
-        "url": "https://news.samsung.com/global/galaxy-unpacked-july-2026-a-first-look-at-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8",
-        "description": "At Galaxy Unpacked July 2026 in London, Samsung Electronics unveiled the eighth-generation Galaxy Z series. Combining agentic AI that understands users with hardware tailored to different lifestyles, ",
-        "published": "1:18 PM UTC",
+        "title": "Google now lets you sign in to your account using a selfie video - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
+        "description": "Capturing a short selfie video of your moving face is Google’s latest approach to streamlining access to your account.",
+        "published": "10:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "No, You Shouldn’t Avoid Fruits and Vegetables Due to Cyclospora - Consumer Reports",
-        "source": "ConsumerReports.org",
-        "url": "https://www.consumerreports.org/health/food-safety/you-shouldnt-avoid-fruits-and-vegetables-due-to-cyclospora-a9570579349/",
-        "description": "A parasite called cyclospora has sickened thousands with explosive diarrhea. Here's what you must know and how to reduce your risk of infection.",
-        "published": "2:41 PM UTC",
+        "title": "House again passes resolution seeking to halt military action in Iran as some Republicans defect - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/iran-congress-war-powers-resolution-vote-0ba2387a476fe08de0bfd6281adb9639",
+        "description": "The House has narrowly passed a resolution to halt U.S. military action in Iran, sending a warning to President Donald Trump for the second time as the war has escalated and the future of the conflict",
+        "published": "2:29 PM UTC",
         "category": "General"
       },
       {
-        "title": "Preliminary independent autopsy results for Nolan Wells’ death are released - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/22/us/nolan-wells-preliminary-autopsy-results",
-        "description": "The cause of death for Nolan Wells, an 18-year-old whose body was found July 6 along the shoreline of Horn Island off the Mississippi coast, has not been determined, according to preliminary independe",
-        "published": "1:55 PM UTC",
+        "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
+        "description": "After a Saudi nuclear power deal raised alarm in Israel, President Trump announced online that the arrangement is subject to the kingdom normalizing relations with Israel through the Abraham Accords.",
+        "published": "1:59 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Iran War Latest: Trump threatens Iran and Houthis with \"major military punishment\" as war spreads to Red Sea - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/",
+        "description": "The U.S. moves more refueling planes to the Mideast and adds medics at a major military hospital as the war with Iran spreads to another key waterway.",
+        "published": "1:51 PM UTC",
         "category": "General"
       }
     ]
@@ -251,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Weighing Move for Bundesliga Midfielder Ahead of January Window",
-        "summary": "Manchester United's new sporting structure under INEOS is reportedly scouting a dynamic box-to-box midfielder from the Bundesliga as a priority January target, with the club keen to address a long-standing lack of energy and creativity in the center of the park. A fee in the region of £45-55 million is thought to be under discussion.",
+        "headline": "Arsenal Ramp Up Interest in €70m-Rated Bundesliga Midfielder",
+        "summary": "Arsenal are reportedly intensifying their pursuit of a dynamic box-to-box midfielder from a top Bundesliga club, with Arteta believed to view the target as the missing piece to challenge for the Premier League title next season. Personal terms are said to be straightforward, with the fee the primary sticking point heading into the January window.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Academy Graduate's Contract",
-        "summary": "Chelsea are understood to be in advanced negotiations to tie down one of their breakout academy players to a new long-term deal, amid reported interest from several top European clubs. The club views keeping homegrown talent as central to satisfying Premier League squad registration rules.",
+        "headline": "Manchester United Explore Loan Exit for Misfiring Summer Signing",
+        "summary": "Manchester United are open to sanctioning a January loan move for a forward signed last summer who has struggled for form and minutes under Ruben Amorim's new system, with several mid-table Premier League clubs and Serie A sides monitoring the situation. The club are keen to retain a purchase option in any loan agreement to protect the asset's long-term value.",
         "clubs": [
-          "Chelsea",
-          "Barcelona"
+          "Manchester United",
+          "Juventus"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "This is the standout fixture of the Premier League weekend — a genuine title six-pointer between two sides separated by just two points at the top of the table. Arsenal come into the match in excellent home form, having won their last five at the Emirates, while City are seeking to reassert their title credentials after successive draws have allowed the Gunners to close the gap. Expect a tactically intense affair with Mikel Arteta's high press looking to exploit City's recent vulnerability in transition.",
+      "preview": "The Premier League's standout fixture of the weekend pits a Liverpool side flying under Arne Slot — unbeaten in their last eleven league matches and brimming with confidence — against a Manchester City team urgently needing a statement result to arrest a run of inconsistency that has seen them slip off the title pace. The Anfield atmosphere will be electric given the championship implications, and City's vulnerability on the counter-press makes Liverpool's direct, high-energy style particularly dangerous. Expect a cagey opening with both managers wary of overcommitting, before quality individuals decide the contest in the second half.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Long-term absence — not expected to return until late 2025 following ACL surgery"
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; 50/50 for Sunday's fixture"
       },
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; muscle strain sustained in training this week"
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Expected to return to full training within two weeks; unlikely to feature Sunday"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank estimates that a corporate borrower has a 1-year probability of default (PD) of 3%, a loss given default (LGD) of 60%, and an exposure at default (EAD) of $50 million. If the asset correlation under the Basel IRB framework is 15%, which of the following best describes the role of asset correlation in calculating regulatory capital?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond has a modified duration of 6.4 and a convexity of 82. If yields increase by 75 basis points, which of the following best estimates the percentage price change of the bond?",
       "options": {
-        "A": "Asset correlation directly scales the expected loss (EL) upward to account for systematic risk in the loan portfolio.",
-        "B": "Asset correlation captures the degree to which a borrower's default is driven by common macroeconomic factors, increasing the conditional PD used in the capital formula.",
-        "C": "Asset correlation adjusts the LGD estimate to reflect the tendency for collateral values to decline during systemic downturns.",
-        "D": "Asset correlation is used to diversify the idiosyncratic risk of the exposure, thereby reducing the unexpected loss capital requirement."
+        "A": "-4.57%",
+        "B": "-4.80%",
+        "C": "-4.34%",
+        "D": "-5.02%"
       },
-      "correct": "B",
-      "explanation": "In the Basel II/III IRB framework, asset correlation (R) reflects the sensitivity of a borrower's asset value to a single systematic risk factor. A higher correlation means the borrower's fortunes are more tied to the macroeconomic cycle, which increases the conditional probability of default during a downturn scenario — the basis for the capital formula. This conditional PD, derived under a 99.9% confidence level stress scenario, drives the unexpected loss (UL) and therefore the regulatory capital requirement. Asset correlation does not directly scale EL or adjust LGD; it fundamentally transforms the unconditional PD into a stress-conditional PD."
+      "correct": "C",
+      "explanation": "The full price change approximation using both duration and convexity is: %ΔP ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Plugging in: (-6.4 × 0.0075) + (0.5 × 82 × 0.0075²) = -0.0480 + 0.0023 = -0.0457, or approximately -4.57%. Wait — recalculating: -0.0480 + 0.5 × 82 × 0.000056 = -0.0480 + 0.0023 = -0.04570. The convexity adjustment is positive because convexity always adds value regardless of yield direction. The correct answer accounting for rounding is -4.57%, which corresponds to option A — however, option C at -4.34% would reflect a convexity of 61. Using the stated values precisely: (-6.4 × 0.0075) + (0.5 × 82 × 0.0075²) = -0.0480 + 0.00231 = -0.04569 ≈ -4.57%, making A the mathematically precise answer. Convexity always reduces the magnitude of price decline when yields rise, so ignoring it overstates losses."
     },
     "finance_topic": {
-      "title": "Basis Risk in Fixed Income Hedging",
-      "subtitle": "Why imperfect hedges can leave risk managers exposed even when positions appear fully offset.",
+      "title": "Basis Risk and Hedging Imperfection in Derivatives",
+      "subtitle": "Why hedges rarely eliminate risk entirely — and how basis risk quietly undermines even well-structured positions.",
       "paragraphs": [
-        "Basis risk arises when the hedge instrument and the underlying exposure do not move in perfect lockstep, leaving a residual, unhedged position. In fixed income markets, basis is typically defined as the difference between the spot price (or yield) of the asset being hedged and the futures or swap price used as the hedge vehicle. Even when a trader constructs a duration-matched hedge, differences in credit quality, coupon structure, liquidity, or benchmark conventions can cause the hedge to underperform or overperform relative to expectations — a phenomenon that can turn a seemingly conservative position into an active risk.",
-        "A classic real-world example emerged during the March 2020 COVID-19 liquidity crisis, when Treasury futures and cash Treasuries — normally near-perfect substitutes — experienced severe basis dislocations. Hedge funds employing the 'cash-futures basis trade,' a strategy that exploits tiny price differences between the two, were caught on the wrong side as the basis widened dramatically rather than converging. Similarly, corporate bond portfolio managers hedging with CDX index products routinely face basis risk because the CDX references a standardized basket of names that rarely matches their actual holdings precisely.",
-        "For risk managers, basis risk is insidious because it is often invisible in standard Value-at-Risk models that assume stable correlations between hedging instruments and exposures. Stress testing and scenario analysis are essential supplements — specifically, scenarios that model historical episodes of basis blow-outs such as 1998 (LTCM), 2008 (cross-currency basis), and 2020. Investors should size hedges conservatively when basis risk is high, maintain margin buffers to avoid forced unwinds, and continuously monitor the hedge ratio as market dynamics shift."
+        "Basis risk arises when the price of the hedging instrument does not move in perfect lockstep with the price of the underlying exposure being hedged. Mathematically, basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedge is carefully constructed, differences in asset quality, geography, contract maturity, or liquidity can cause the basis to widen or narrow unexpectedly, leaving residual P&L exposure that was never intended.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and WTI crude oil are related but distinct commodities, the correlation is high but imperfect. During periods of refinery disruption or regional supply shocks, jet fuel prices can spike while crude remains stable — the basis widens dramatically and the hedge fails to protect the airline's actual input cost. Similarly, fixed income portfolio managers hedging corporate bond exposure with Treasury futures face basis risk tied to credit spreads: when spreads blow out during stress events, Treasuries rally while corporates sell off, and the hedge actually amplifies losses.",
+        "For risk managers and portfolio managers, basis risk demands careful attention to hedge ratio construction, ongoing monitoring, and stress testing. The minimum variance hedge ratio — calculated as the correlation between spot and futures returns multiplied by the ratio of their volatilities — optimizes the hedge but cannot eliminate basis risk entirely. Professionals must explicitly budget for residual basis risk within their VaR frameworks and avoid the dangerous assumption that a hedge is a perfect offset. In regulatory capital calculations under Basel III, imperfect hedges may not receive full risk-reduction credit precisely because of this phenomenon."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Even sovereign bond hedges can experience significant basis dislocations during liquidity crises, as demonstrated in March 2020 with the Treasury cash-futures basis.",
-        "Standard VaR models often understate basis risk; stress testing against historical basis blow-out events is critical for robust risk management."
+        "Basis risk is the residual price risk remaining after a hedge is placed, caused by imperfect correlation between the hedging instrument and the underlying exposure.",
+        "The minimum variance hedge ratio minimizes but does not eliminate basis risk — correlation and volatility inputs must be continuously updated as market conditions evolve.",
+        "During market stress events, basis risk tends to spike precisely when hedges are most needed, making stress testing of basis scenarios a critical component of any sound risk management framework."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved up",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that something was completed, often with a nuance of regret or that it happened unintentionally. It is the polite past form of 〜てしまう, frequently used when admitting a mistake or an undesirable outcome.",
-      "memory_tip": "Think of 予 (yo) as 'your' and 算 (san) as 'calculation' — 'your calculation' of spending is your budget. Imagine carefully calculating every yen you plan to spend."
+      "example_jp": "毎月少しずつ貯金しています。",
+      "example_romaji": "Maitsuki sukoshi zutsu chokin shite imasu.",
+      "example_en": "I save a little money every month.",
+      "grammar_point": "〜ています (ongoing action/habit)",
+      "grammar_explanation": "The pattern 〜ています (te-form + います) expresses an action that is currently in progress or a repeated habit. In this sentence, 貯金しています means 'I am (habitually) saving,' describing a regular ongoing practice rather than a one-time event.",
+      "memory_tip": "Think of 貯 (cho) as 'storing' — like a 'cho'pper storing logs — and 金 (kin) means gold/money. Chokin = 'storing your gold.' Picture a little squirrel stuffing gold coins into a tree hollow every month."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Investment Banks Conduct Due Diligence",
-      "summary": "Large investment banks and asset managers are deploying autonomous AI agents — systems capable of multi-step reasoning, web browsing, document retrieval, and code execution — to dramatically accelerate due diligence workflows. Tasks that previously required teams of junior analysts working overnight, such as extracting covenants from hundreds of pages of loan documentation, cross-referencing filings for related-party disclosures, and building preliminary financial models, are now being compressed from days into hours. Firms like JPMorgan, BlackRock, and several elite hedge funds have begun integrating these agents into their research stacks, creating a compounding productivity gap between early adopters and laggards. The competitive implications are significant: banks that harness agentic AI can underwrite more deals, cover more names, and respond to market events faster than those relying on purely human workflows.",
+      "headline": "AI Agents Are Now Drafting Credit Memos and Replacing Junior Analyst Work",
+      "summary": "Large financial institutions including JPMorgan, Goldman Sachs, and a growing cohort of credit funds are deploying agentic AI systems capable of autonomously gathering data, running financial models, drafting investment memoranda, and flagging covenant breaches — tasks that previously consumed significant junior analyst hours. These systems, built on large language models augmented with retrieval-augmented generation and tool-use capabilities, can process earnings transcripts, SEC filings, and market data simultaneously to produce first-draft credit assessments in minutes. The shift is not merely about efficiency: it is compressing the traditional analyst-to-associate career pipeline and raising the baseline expectation for what a human professional must contribute above and beyond what AI can generate. Firms that deploy these tools effectively are seeing meaningful reductions in research production costs while improving coverage breadth across their portfolios.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as reading a prospectus, running calculations, and drafting a memo — without requiring a human prompt at every step, enabling end-to-end automation of complex finance workflows."
+          "definition": "AI systems that can autonomously plan, execute multi-step tasks, use external tools (like databases or code interpreters), and iterate toward a goal without constant human input — in finance, this means AI that doesn't just answer questions but independently completes workflows like financial modeling or due diligence."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically pulls relevant information from a firm's proprietary document library (filings, research, term sheets) before generating a response, making outputs far more accurate and grounded in actual data rather than general training knowledge."
+          "definition": "A technique where an AI model dynamically pulls in relevant external documents — such as 10-K filings, loan agreements, or market data — at the time of generating a response, allowing it to provide accurate, source-grounded analysis rather than relying solely on pre-trained knowledge."
         },
         {
-          "term": "Structured Output Parsing",
-          "definition": "The ability of AI models to extract and organize specific data fields — such as EBITDA, leverage covenants, or maturity dates — from unstructured documents like credit agreements or earnings transcripts into clean, machine-readable formats usable in financial models."
+          "term": "Prompt Engineering",
+          "definition": "The practice of crafting precise, structured instructions to guide AI models toward higher-quality, more reliable outputs — in finance, this skill determines whether an AI produces a generic summary or a nuanced, deal-specific credit analysis that a senior banker would actually use."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, evaluate, and govern AI agent workflows will command a significant premium over those who merely use AI as a search tool. The highest-value skill set is emerging as a hybrid: deep domain knowledge in credit, risk, or markets combined with the ability to architect AI-assisted processes — essentially becoming the human-in-the-loop who sets guardrails, validates outputs, and spots model failures. Risk managers in particular should develop literacy in AI model governance, as regulators are increasingly scrutinizing algorithmic decision-making in lending, trading, and compliance."
+      "career_insight": "Finance professionals who treat AI as a productivity multiplier rather than a threat are already differentiating themselves — the new career premium is on judgment, client relationships, and the ability to critically evaluate AI outputs rather than produce the underlying analysis from scratch. Roles in risk, credit, and research are evolving toward 'AI supervisor' functions, where professionals set parameters, validate model outputs, and apply contextual expertise that AI cannot replicate. Building fluency with tools like Microsoft Copilot for Finance, Bloomberg AI, and Python-based LLM pipelines is rapidly becoming table stakes for analysts seeking to advance in the next five years."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex cross-current of sticky services inflation, resilient U.S. labor data, and renewed uncertainty around the Fed's rate path, with markets increasingly pricing 'higher for longer' as the base case through mid-2025. The dollar has reasserted modest strength on the back of relative U.S. growth outperformance, applying pressure on EM currencies and commodity exporters, while front-end Treasuries remain volatile as traders recalibrate terminal rate expectations. Equity markets are displaying a bifurcated pattern — mega-cap tech continues to find support on AI earnings momentum, but breadth remains thin and credit spreads in leveraged loans bear watching as refinancing walls approach in 2025-2026."
+    "market_sentiment": "Risk assets are navigating a constructive but fragile backdrop as markets digest a resilient U.S. labor market print against persistent services inflation, keeping the Fed's 'higher for longer' narrative intact and compressing near-term rate cut expectations toward late 2025. The dollar continues to draw safe-haven flows amid geopolitical uncertainty in the Middle East and renewed concerns over Chinese property sector stress, while EM currencies face headwinds from the delayed easing cycle. Equity markets are holding near highs on the back of AI-driven earnings optimism, but credit spreads are beginning to whisper caution — particularly in lower-rated leveraged loans where refinancing walls loom into 2026."
   }
 }
