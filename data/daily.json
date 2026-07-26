@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:56 PM UTC",
-  "date": "Saturday, July 25, 2026",
+  "generated_at": "12:54 PM UTC",
+  "date": "Sunday, July 26, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 71,
-    "feels_like_f": 72,
-    "high_f": 72,
-    "low_f": 69,
-    "description": "Light Rain",
-    "icon": "🌧️",
-    "humidity": 96,
-    "wind_mph": 4,
+    "temp_f": 73,
+    "feels_like_f": 75,
+    "high_f": 74,
+    "low_f": 72,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 95,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "🌧️",
-        "high": 69,
-        "low": 69,
-        "description": "Light Rain"
-      },
       {
         "day": "Mon",
         "icon": "☁️",
-        "high": 75,
-        "low": 75,
-        "description": "Overcast Clouds"
+        "high": 74,
+        "low": 74,
+        "description": "Broken Clouds"
       },
       {
         "day": "Tue",
-        "icon": "⛅",
+        "icon": "🌤️",
         "high": 77,
         "low": 77,
-        "description": "Scattered Clouds"
+        "description": "Few Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "☁️",
+        "high": 75,
+        "low": 75,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64108,
-        "change": -776.22,
-        "change_pct": -1.2,
-        "up": false,
+        "price": 64477.99,
+        "change": 373.02,
+        "change_pct": 0.58,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1859.39,
-        "change": -16.64,
-        "change_pct": -0.89,
-        "up": false,
+        "price": 1887.61,
+        "change": 28.63,
+        "change_pct": 1.54,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Shares skid in Asia in sell-off of AI-related shares as Brent oil trades near $100 per barrel - AP News",
+        "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years - AP News",
         "source": "Associated Press",
-        "url": "https://apnews.com/article/stocks-markets-tariffs-oil-trump-ai-0b9c3b2aa5ca83eb391c1388efe03c97",
-        "description": "World shares are mixed and markets in Asia have skidded, after Brent oil shot to its highest price since May as heavier fighting in the Middle East again threatened to slow the global flow of crude. S",
-        "published": "6:49 AM UTC",
+        "url": "https://apnews.com/article/grocery-shopping-prices-food-affordability-8468c1d6532ca762bbcfa17e3c7707d1",
+        "description": "Living through the biggest jump in grocery prices in a half-century has many Americans changing their eating and food shopping habits. The price of food purchased for home use has increased 33% since ",
+        "published": "9:15 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
-        "description": "A global selloff in technology stocks gained momentum as doubts over returns from billions of dollars spent on artificial intelligence were compounded by a surge in oil prices that rekindled inflation",
-        "published": "2:45 AM UTC",
+        "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+        "description": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
+        "published": "5:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Microsoft pressures LG into killing unwanted McAfee ads - The Verge",
+        "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn",
+        "description": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
+        "published": "1:21 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "OpenAI confirms ChatGPT is down worldwide - BleepingComputer",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+        "description": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide.",
+        "published": "9:31 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Forget expensive sleepbuds. Buy this pillow instead - The Verge",
         "source": "The Verge",
-        "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
-        "description": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups.",
-        "published": "9:20 AM UTC",
+        "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+        "description": "Don’t bother buying $200 sleepbuds when a $50 pillow designed to relieve pain from new ear piercings works with your existing earbuds for a quarter of the price.",
+        "published": "7:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "If PlayStation kills physical media, it should \"get rid of the hardware\" too, says the creator of popular RPG series Disgaea - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/playstation-physical-media-hardware-disgaea-creator",
-        "description": "Disgaea creator Sohei Niikawa has strong thoughts on Sony's planned move away from physical media.",
-        "published": "9:07 AM UTC",
+        "title": "Everything Announced at the God of War Laufey SDCC Panel | Comic Con 2026 - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/everything-announced-at-the-god-of-war-laufey-sdcc-panel-comic-con-2026",
+        "description": "IGN’s live reporting of San Diego Comic-Con 2026 continues, this time from the front row of the God of War Laufey panel.",
+        "published": "2:02 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "\"Storm Emeralda\" All 76 Main Set Cards Revealed! - PokeBeach",
-        "source": "Pokebeach.com",
-        "url": "https://www.pokebeach.com/2026/07/storm-emeralda-all-76-main-set-cards-revealed",
-        "description": "All 76 cards from Storm Emeralda have been officially revealed! The set stars Mega Rayquaza ex and will release in Japan on July 31st as their sixth",
-        "published": "8:10 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "One killed, four wounded, after Palestinian steals gun, shoots hikers - The Jerusalem Post",
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-news/article-903540",
-        "description": "The murdered Israeli was identified as 32-year-old Benayahu Melet, a member of Gilad Farm's emergency response squad, who was attempting to assist assailed hikers.",
-        "published": "9:56 AM UTC",
+        "title": "India’s education minister resigns after weeks of student-led protests - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/india-cockroach-education-minister-56d69c289589f057c0e72cde0c3d75d3",
+        "description": "India’s education minister Dharmendra Pradhan has resigned after weeks of protests over alleged exam leaks and irregularities in the education system. The move on Saturday marks the first major conces",
+        "published": "9:38 AM UTC",
         "category": "General"
       },
       {
-        "title": "US hits dozens of countries with new wave of tariffs - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgj61j6l08o",
-        "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-        "published": "8:59 AM UTC",
+        "title": "What we learned from Friday practice at the 2026 F1 Hungarian GP - Autosport",
+        "source": "autosport.com",
+        "url": "https://www.autosport.com/f1/news/what-we-learned-from-friday-practice-at-the-2026-f1-hungarian-gp/10841537/",
+        "description": "Dust, wind, and bumps: track conditions at the Hungaroring were tough for even the best F1 drivers to tame. That's not to say there aren't clues as to how each team will perform at the Hungarian GP - ",
+        "published": "9:00 AM UTC",
         "category": "General"
       }
     ]
@@ -243,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Target Matheus Cunha in £60m Summer Move",
-        "summary": "Manchester United are understood to be in advanced discussions with Wolverhampton Wanderers over a summer move for Brazilian forward Matheus Cunha, with a fee in the region of £60 million being negotiated. Cunha, who has registered 15 goal contributions this season, is seen as a priority attacking addition under the club's new footballing structure.",
+        "headline": "Chelsea in Advanced Talks for Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Chelsea are reported to be in serious discussions with Sporting CP over a potential summer move for Swedish striker Viktor Gyökeres, with a fee in the region of £80 million being negotiated. The Blues see the prolific forward as their primary attacking target to address chronic goal-scoring inconsistency next season.",
+        "clubs": [
+          "Chelsea",
+          "Sporting CP"
+        ]
+      },
+      {
+        "headline": "Manchester United Target Wolves Midfielder João Gomes as Casemiro Replacement",
+        "summary": "Manchester United are monitoring Wolves defensive midfielder João Gomes as a cost-effective alternative to the declining Casemiro, with reports suggesting an opening bid of around £40 million is being prepared. Wolves are reluctant to sell but may be forced into a decision if United meet their valuation before the window closes.",
         "clubs": [
           "Manchester United",
           "Wolverhampton Wanderers"
         ]
-      },
-      {
-        "headline": "Arsenal Revive Interest in RB Leipzig's Benjamin Sesko",
-        "summary": "Arsenal are reportedly renewing their pursuit of Slovenian striker Benjamin Sesko after failing to land him last summer, with Mikel Arteta keen to add a physical centre-forward option to complement Kai Havertz. Leipzig are expected to demand in excess of €65 million, though Sesko has a release clause that could complicate negotiations.",
-        "clubs": [
-          "Arsenal",
-          "RB Leipzig"
-        ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Tottenham Hotspur",
-      "date": "Saturday, 3:00 PM BST",
-      "preview": "Manchester City host Tottenham in a fixture that carries significant top-four implications for the visitors, with Spurs needing a result to maintain pressure on the Champions League places. City, despite an inconsistent run by their own historic standards, remain formidable at the Etihad and will look to Erling Haaland to expose a Tottenham backline that has been vulnerable on the counter. Ange Postecoglou will likely set up Spurs to press high and play on the front foot, making this a fascinating tactical contest between two attacking-minded sides.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The most anticipated fixture of the Premier League calendar arrives at the Emirates, with Arsenal looking to preserve a three-point lead at the top of the table while City seek to keep their title defense on track after back-to-back unconvincing performances. Arsenal's high press and Saka's directness down the right flank will be tested against City's suffocating positional control, and the first goal will be decisive in a match where both managers are likely to set up to deny space in behind. The atmosphere at the Emirates promises to be electric, with Arteta's side knowing a victory would send a statement to a City team that has dominated this fixture for three seasons.",
       "key_players": [
+        "Bukayo Saka",
         "Erling Haaland",
-        "Heung-min Son",
-        "Bernardo Silva"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend fixture; expected back within 1–2 weeks if he misses Saturday"
+        "status": "Recovering",
+        "return": "Expected return mid-October after knee surgery"
       },
       {
-        "player": "Micky van de Ven",
-        "team": "Tottenham Hotspur",
-        "status": "Recovering",
-        "return": "Targeting a return to full training next week; unlikely to feature this weekend"
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Rated 50/50 for the weekend; hamstring tightness picked up in training"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income — Term Structure & Interest Rate Dynamics",
-      "question": "An analyst is evaluating a callable bond using the binomial interest rate tree model. The bond has a par value of $1,000, a coupon rate of 6%, and is callable at par in Year 2. The risk-neutral probabilities are 50% for both up and down moves. Given that the Year 2 up-node rate is 7.5% and the Year 2 down-node rate is 4.5%, which of the following best describes the effect of the call option on the bond's OAS relative to its Z-spread?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank has a loan portfolio with a 1-year probability of default (PD) of 2%, a loss given default (LGD) of 45%, and an exposure at default (EAD) of $500 million. The asset correlation is 12%. Under the Basel II IRB approach, which of the following best describes the purpose of the asset correlation parameter in calculating regulatory capital?",
       "options": {
-        "A": "OAS will be greater than the Z-spread because the call option benefits the issuer, reducing the bond's value.",
-        "B": "OAS will be less than the Z-spread because the call option premium is subtracted from the spread to account for the embedded optionality.",
-        "C": "OAS will equal the Z-spread because the binomial model already prices optionality into the cash flows.",
-        "D": "OAS will be greater than the Z-spread because rising rates increase the probability that the bond will not be called, enhancing investor yield."
+        "A": "It measures the correlation between the borrower's asset value and the risk-free rate, adjusting expected loss downward in benign conditions.",
+        "B": "It captures the degree to which borrowers' asset values move together with the systematic risk factor, determining how much unexpected loss co-moves across the portfolio.",
+        "C": "It represents the historical default correlation between individual loan obligors, used to scale the LGD in stress scenarios.",
+        "D": "It adjusts the PD upward to reflect idiosyncratic risk concentration within a single industry sector."
       },
       "correct": "B",
-      "explanation": "For a callable bond, the Z-spread includes compensation for both credit/liquidity risk and the embedded call option risk borne by the investor. The OAS removes the value of the embedded option from the spread, so OAS = Z-spread minus the option cost. Because the call option benefits the issuer (and disadvantages the bondholder), the option has positive value to the issuer, meaning the OAS will be lower than the Z-spread. This makes OAS a cleaner measure of the bond's credit and liquidity spread, independent of the option's effect."
+      "explanation": "In the Basel II single-factor (ASRF) model, asset correlation (ρ) measures how much of a borrower's asset value variance is driven by the common systematic risk factor versus idiosyncratic risk. A higher correlation means that defaults across borrowers tend to cluster during downturns, increasing unexpected loss and therefore regulatory capital requirements. The capital formula derives a conditional PD at the 99.9th percentile stress scenario, and ρ is the key parameter that scales systemic sensitivity. Options A, C, and D mischaracterize the parameter's role — it does not directly adjust LGD, measure rate sensitivity, or address idiosyncratic concentration."
     },
     "finance_topic": {
-      "title": "The Term Premium Puzzle in Bond Markets",
-      "subtitle": "Why long-term bonds don't always reward investors as theory predicts — and what it means for portfolios today.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why perfect hedges rarely exist and how residual price divergence can erode risk management effectiveness.",
       "paragraphs": [
-        "The term premium is the extra compensation investors demand for holding longer-duration bonds rather than rolling over a series of short-term instruments. In theory, the yield on a 10-year Treasury should equal the expected average of future short-term rates plus this premium — a concept embedded in the expectations hypothesis and its extensions. However, for much of the post-GFC era through the early 2020s, term premia collapsed toward zero or even turned negative, a phenomenon that puzzled economists and distorted traditional fixed income valuation frameworks. The Federal Reserve's quantitative easing programs, global savings gluts, and insatiable demand for safe assets from foreign central banks all contributed to this structural compression.",
-        "In 2023–2025, term premia have staged a notable comeback. The New York Fed's ACM model estimated the 10-year term premium climbing back into positive territory — at times exceeding 50–80 basis points — reflecting investor demands for higher compensation amid fiscal uncertainty, elevated Treasury supply, and a volatile inflation outlook. This matters enormously for asset pricing: when term premia rise, bond prices fall even if the market's rate expectations remain unchanged, creating losses that can't be explained by Fed policy shifts alone. The 2023 bond market selloff, which pushed 10-year yields past 5% for the first time since 2007, was as much a term premium story as an expectations story.",
-        "For investors and risk managers, the term premium's resurgence demands a reassessment of duration risk. Portfolios benchmarked to broad aggregate indices carry significant exposure to term premium fluctuations, which are harder to hedge than parallel rate shifts. Liability-driven investors — such as pension funds and insurers — must weigh whether locking in current long yields compensates for the risk that fiscal dynamics push term premia even higher. Meanwhile, equity valuations, especially for long-duration growth stocks, remain acutely sensitive to term premium moves since they affect the discount rate applied to distant cash flows."
+        "Basis risk arises when the price of the instrument being hedged does not move in perfect lockstep with the price of the hedging instrument. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the contract used as the hedge. Because hedgers rarely find a futures contract that precisely matches their underlying exposure in commodity grade, delivery location, or maturity, some degree of basis risk is almost always present. Unlike the market risk it is designed to offset, basis risk cannot be eliminated — only managed.",
+        "A classic real-world example occurred in the airline industry, where carriers hedge jet fuel costs using crude oil or heating oil futures, since no liquid jet fuel futures market exists. During the 2021–2022 commodity supercycle, the crack spread between crude oil and refined jet fuel widened dramatically due to refinery capacity constraints and sanctions-related supply disruptions. Airlines that had hedged with WTI crude found their hedges underperforming because jet fuel prices rose far more than crude, leaving them exposed to a significant adverse basis move that added hundreds of millions in unanticipated fuel costs.",
+        "For risk managers and portfolio hedgers, basis risk demands careful attention to hedge ratio design, contract selection, and rolling strategy. The minimum-variance hedge ratio — calculated as the correlation between spot and futures price changes multiplied by the ratio of their standard deviations — offers a systematic way to minimize basis risk exposure. Practitioners should also monitor the term structure of futures (contango vs. backwardation) when rolling positions, as roll yield can either amplify or dampen effective hedge performance. Regular regression analysis between the hedged item and the hedging instrument is essential to detect regime shifts in the basis relationship."
       ],
       "key_takeaways": [
-        "Term premium is the compensation above expected short rates that investors demand for duration risk — it collapsed post-GFC but has meaningfully recovered since 2022.",
-        "Rising term premia can drive bond yields higher independently of central bank rate expectations, making them a critical and often underappreciated risk factor.",
-        "Equity markets, particularly growth stocks, are indirectly exposed to term premium shifts through their impact on long-term discount rates."
+        "Basis risk is the residual price risk remaining after a hedge is in place, driven by imperfect correlation between the hedged asset and the hedging instrument.",
+        "Cross-hedging — using a related but non-identical instrument — is the most common source of basis risk and requires ongoing monitoring of the basis relationship.",
+        "The minimum-variance hedge ratio optimizes hedge effectiveness statistically, but regime changes in correlations can rapidly invalidate historical estimates."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in a bank",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimated cost; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save part of my salary.",
-      "grammar_point": "〜ています (ongoing action/habit)",
-      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses a continuous or habitual action. Here, 貯金しています means 'I am (habitually) saving money' — it describes something the speaker does regularly, not just right now.",
-      "memory_tip": "Think of 貯 (cho) as 'storing' — like a 'cho'pping board where you set money aside — and 金 (kin) means 'gold/money.' So 貯金 is literally 'stored gold' — your savings stash!"
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It is formed by attaching しまいました to the te-form of a verb, and is very commonly used in everyday speech to convey 'ended up doing' or 'accidentally did' something.",
+      "memory_tip": "Think of 'yo-san' as 'yo, SAN (three) things I need: income, expenses, and a PLAN' — that plan is your 予算, your budget."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Risk Models",
-      "summary": "Major financial institutions and fintech lenders are deploying large language models and gradient-boosted machine learning systems to augment — and in some cases replace — traditional FICO-based credit underwriting. These models ingest alternative data sources including cash flow patterns, rental payment history, and even anonymized spending behavior to generate dynamic credit scores that update in near real-time. Early results from lenders using AI-driven underwriting show improved default prediction accuracy and expanded credit access for thin-file borrowers, but regulators at the CFPB and OCC are intensifying scrutiny around model explainability and fair lending compliance. For risk professionals, the challenge is no longer purely technical — it is governance: ensuring AI credit decisions can be audited, explained to regulators, and defended against disparate impact claims.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping How Banks Assess Default Risk",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several fintech lenders are deploying large language models and gradient boosting ensembles to augment traditional FICO-based credit underwriting. These models ingest alternative data sources — including cash flow patterns, utility payment history, and even supply chain signals — to generate richer probability-of-default estimates that outperform scorecards on thin-file borrowers by 15–25% in AUC metrics. Regulators in the EU and US are increasingly scrutinizing these systems for model explainability, fair lending compliance, and adverse action notice requirements, creating a new premium for risk professionals who can bridge ML engineering and regulatory frameworks. The firms that move fastest while building explainability infrastructure will gain a durable underwriting edge.",
       "concepts": [
         {
           "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning method that builds many sequential decision trees, each correcting the errors of the last. In credit risk, it consistently outperforms logistic regression on structured tabular data like loan applications and transaction histories."
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions of credit default, fraud, or market moves from structured tabular data."
         },
         {
-          "term": "SHAP Values (Explainability)",
-          "definition": "SHapley Additive exPlanations assign each input feature a contribution score for a model's prediction. In regulated finance, SHAP values help compliance teams explain why an AI system approved or denied a loan application — critical for fair lending audits."
+          "term": "SHAP Values (Shapley Additive Explanations)",
+          "definition": "A mathematical framework borrowed from game theory that assigns each input variable a contribution score to a model's output, allowing risk managers to explain to regulators and customers exactly why a credit decision was made."
         },
         {
           "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as utility payments, gig-economy income streams, or e-commerce purchase patterns — used to enrich credit models. Particularly valuable for assessing creditworthiness of individuals with limited traditional credit histories."
+          "definition": "Non-traditional information sources — such as rent payment history, e-commerce transaction flows, or satellite imagery of retail parking lots — used to enrich credit or investment models beyond conventional financial statements and credit bureau data."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge quantitative model development with regulatory knowledge — understanding both how a gradient boosting model works and how to document it for a fair lending exam — will command a significant premium in the job market. Firms are actively hiring 'model risk governance' professionals who can stress-test AI systems, not just build them. Investing in Python fluency, familiarity with model explainability frameworks, and a working knowledge of SR 11-7 model risk guidance will distinguish candidates in an increasingly AI-saturated hiring environment."
+      "career_insight": "Risk managers and credit analysts who can fluently translate between model outputs and regulatory requirements — particularly SR 11-7 model risk management guidelines and the EU AI Act's high-risk system provisions — are among the most sought-after professionals in financial services today. Building proficiency in Python-based ML tooling (scikit-learn, SHAP, Optuna) alongside deep knowledge of credit regulation positions you at the intersection of two converging forces, making your skill set highly defensible against automation rather than threatened by it."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite is cautiously constructive this morning as markets digest a softer-than-expected US core PCE print, reinforcing the narrative of a gradual disinflationary path that keeps a September Fed cut possibility alive. Treasury yields have edged lower across the curve, with the 10-year hovering near 4.35%, while the dollar softens modestly — providing a tailwind for EM equities and commodities, particularly gold which is retesting the $2,380 resistance level. Equity futures point to a marginally positive open in the US, though the mood remains fragile ahead of a heavy week of corporate earnings and renewed attention on Chinese stimulus signals after disappointing PMI data out of Beijing overnight."
+    "market_sentiment": "Global risk sentiment remains cautiously constructive heading into the session, with US equity futures trading modestly higher as markets digest a softer-than-expected core PPI print that reinforces the disinflation narrative and keeps a September Fed rate cut live in pricing. Treasury yields have pulled back 4–6 basis points across the belly of the curve, providing a tailwind for duration-sensitive assets, while the dollar softens modestly against G10 peers. Commodities are the key wildcard — Brent crude is holding above $84 on lingering Middle East supply risk premium, while copper is catching a bid on improved China PMI data, suggesting investors are selectively re-engaging emerging market and cyclical exposure after last week's defensive rotation."
   }
 }
