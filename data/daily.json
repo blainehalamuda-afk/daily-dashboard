@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:54 PM UTC",
-  "date": "Sunday, July 26, 2026",
+  "generated_at": "2:07 PM UTC",
+  "date": "Monday, July 27, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 73,
-    "feels_like_f": 75,
-    "high_f": 74,
-    "low_f": 72,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 95,
-    "wind_mph": 2,
+    "temp_f": 82,
+    "feels_like_f": 88,
+    "high_f": 84,
+    "low_f": 78,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 79,
+    "wind_mph": 1,
     "forecast": [
       {
-        "day": "Mon",
-        "icon": "☁️",
-        "high": 74,
-        "low": 74,
-        "description": "Broken Clouds"
-      },
-      {
         "day": "Tue",
-        "icon": "🌤️",
+        "icon": "⛅",
         "high": 77,
         "low": 77,
-        "description": "Few Clouds"
+        "description": "Scattered Clouds"
       },
       {
         "day": "Wed",
         "icon": "☁️",
-        "high": 75,
-        "low": 75,
+        "high": 76,
+        "low": 76,
         "description": "Broken Clouds"
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "high": 70,
+        "low": 70,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 738.93,
-        "change": 0.75,
-        "change_pct": 0.1,
+        "price": 741.53,
+        "change": 2.6,
+        "change_pct": 0.35,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 333.02,
-        "change": 11.36,
-        "change_pct": 3.53,
+        "price": 336.34,
+        "change": 3.32,
+        "change_pct": 1.0,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 206.84,
-        "change": -1.92,
-        "change_pct": -0.92,
+        "price": 202.36,
+        "change": -4.48,
+        "change_pct": -2.17,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 313.03,
-        "change": -6.66,
-        "change_pct": -2.08,
+        "price": 308.65,
+        "change": -4.38,
+        "change_pct": -1.4,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64477.99,
-        "change": 373.02,
-        "change_pct": 0.58,
+        "price": 65185.68,
+        "change": 547.68,
+        "change_pct": 0.85,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1887.61,
-        "change": 28.63,
-        "change_pct": 1.54,
+        "price": 1957.85,
+        "change": 64.79,
+        "change_pct": 3.42,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/grocery-shopping-prices-food-affordability-8468c1d6532ca762bbcfa17e3c7707d1",
-        "description": "Living through the biggest jump in grocery prices in a half-century has many Americans changing their eating and food shopping habits. The price of food purchased for home use has increased 33% since ",
-        "published": "9:15 AM UTC",
+        "title": "See what it’s like to use a North Korean smartphone under Kim Jong Un - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/07/26/see-what-its-like-use-north-korean-smartphone-under-kim-jong-un/",
+        "description": "North Koreans are banking, getting makeup tutorials and using period trackers on their phones. But under Kim, these digital comforts are also tools of control.",
+        "published": "12:43 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-        "description": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
-        "published": "5:00 AM UTC",
+        "title": "The new Fed chair won’t tell you what he thinks - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/07/26/new-fed-chair-wont-tell-you-what-he-thinks/",
+        "description": "Two months into his tenure as Fed chief, Kevin Warsh is saying as little as possible about interest rates, inflation and his own thinking.",
+        "published": "11:32 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn - Al Jazeera",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn",
-        "description": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
-        "published": "1:21 AM UTC",
+        "title": "I drove the Volkswagen Atlas and Kia Telluride for a week — here’s the mid-size 3-row SUV I recommend - Tom's Guide",
+        "source": "Tom's Guide",
+        "url": "https://www.tomsguide.com/vehicle-tech/i-drove-the-volkswagen-atlas-and-kia-telluride-for-a-week-heres-the-mid-size-3-row-suv-i-recommend",
+        "description": "They're family haulers that are easy to drive",
+        "published": "11:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "OpenAI confirms ChatGPT is down worldwide - BleepingComputer",
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-        "description": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide.",
-        "published": "9:31 AM UTC",
+        "title": "This Week in Pokémon GO: July 27 – August 2, 2026 - Pokémon GO Hub",
+        "source": "Pokemon GO Hub",
+        "url": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-july-27-august-2-2026/",
+        "description": "Pokémon GO’s July 27-August 2 week has us well into the season of Forever Forward!  We finish off the 10th Anniversary celebrations, and Gigiantamax Rillaboom makes their return, with a newly released",
+        "published": "11:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Forget expensive sleepbuds. Buy this pillow instead - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
-        "description": "Don’t bother buying $200 sleepbuds when a $50 pillow designed to relieve pain from new ear piercings works with your existing earbuds for a quarter of the price.",
-        "published": "7:00 AM UTC",
+        "title": "Retro Recap: All The Classic Gaming News From The Past Week (July 26th 2026) - Time Extension",
+        "source": "Timeextension.com",
+        "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-july-26th-2026",
+        "description": "Sega Rally! Atari movies! Anbernoic RG SP! Wizardry!",
+        "published": "11:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Everything Announced at the God of War Laufey SDCC Panel | Comic Con 2026 - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/everything-announced-at-the-god-of-war-laufey-sdcc-panel-comic-con-2026",
-        "description": "IGN’s live reporting of San Diego Comic-Con 2026 continues, this time from the front row of the God of War Laufey panel.",
-        "published": "2:02 AM UTC",
+        "title": "Growlithe and Groudon Illustration Rares from \"Storm Emeralda\"! - PokeBeach",
+        "source": "Pokebeach.com",
+        "url": "https://www.pokebeach.com/2026/07/growlithe-and-groudon-illustration-rares-from-storm-emeralda",
+        "description": "Illustration rare versions of Growlithe and Groudon have just been revealed from Storm Emeralda! The set will release in Japan on July 31st as their sixth",
+        "published": "10:08 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "India’s education minister resigns after weeks of student-led protests - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/india-cockroach-education-minister-56d69c289589f057c0e72cde0c3d75d3",
-        "description": "India’s education minister Dharmendra Pradhan has resigned after weeks of protests over alleged exam leaks and irregularities in the education system. The move on Saturday marks the first major conces",
-        "published": "9:38 AM UTC",
+        "title": "Emma Roberts marries actor Cody John in lavish Idaho wedding - Page Six",
+        "source": "Page Six",
+        "url": "https://pagesix.com/2026/07/26/celebrity-news/emma-roberts-marries-actor-cody-john-in-idaho-wedding/",
+        "description": "The “American Horror Story” actress and the actor announced their engagement in July 2024.",
+        "published": "2:00 PM UTC",
         "category": "General"
       },
       {
-        "title": "What we learned from Friday practice at the 2026 F1 Hungarian GP - Autosport",
-        "source": "autosport.com",
-        "url": "https://www.autosport.com/f1/news/what-we-learned-from-friday-practice-at-the-2026-f1-hungarian-gp/10841537/",
-        "description": "Dust, wind, and bumps: track conditions at the Hungaroring were tough for even the best F1 drivers to tame. That's not to say there aren't clues as to how each team will perform at the Hungarian GP - ",
-        "published": "9:00 AM UTC",
+        "title": "Ryan Gosling to join Marvel Cinematic Universe as Ghost Rider - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgq5v72jqglo",
+        "description": "During a surprise announcement at San Diego Comic-Con, the actor says the character is one he has \"wanted to play for a very long time\".",
+        "published": "1:30 PM UTC",
         "category": "General"
       }
     ]
@@ -251,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Chelsea in Advanced Talks for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Chelsea are reported to be in serious discussions with Sporting CP over a potential summer move for Swedish striker Viktor Gyökeres, with a fee in the region of £80 million being negotiated. The Blues see the prolific forward as their primary attacking target to address chronic goal-scoring inconsistency next season.",
+        "headline": "Arsenal Revive Interest in £70m-Rated Bundesliga Midfielder",
+        "summary": "Arsenal are understood to have reopened discussions for a dynamic box-to-box midfielder as Mikel Arteta looks to add greater physicality and goal threat from midfield ahead of the January window. The player has 18 months remaining on his current contract, giving the Gunners potential leverage in negotiations.",
         "clubs": [
-          "Chelsea",
-          "Sporting CP"
+          "Arsenal",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Target Wolves Midfielder João Gomes as Casemiro Replacement",
-        "summary": "Manchester United are monitoring Wolves defensive midfielder João Gomes as a cost-effective alternative to the declining Casemiro, with reports suggesting an opening bid of around £40 million is being prepared. Wolves are reluctant to sell but may be forced into a decision if United meet their valuation before the window closes.",
+        "headline": "Manchester United Close to Agreeing Personal Terms with Brazilian Winger",
+        "summary": "United's new football structure appears to be making progress on a long-pursued wide attacker, with reports suggesting personal terms are broadly agreed and a formal bid is being prepared. The move would represent the club's first significant outlay under their revised transfer framework this season.",
         "clubs": [
           "Manchester United",
-          "Wolverhampton Wanderers"
+          "Palmeiras"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The most anticipated fixture of the Premier League calendar arrives at the Emirates, with Arsenal looking to preserve a three-point lead at the top of the table while City seek to keep their title defense on track after back-to-back unconvincing performances. Arsenal's high press and Saka's directness down the right flank will be tested against City's suffocating positional control, and the first goal will be decisive in a match where both managers are likely to set up to deny space in behind. The atmosphere at the Emirates promises to be electric, with Arteta's side knowing a victory would send a statement to a City team that has dominated this fixture for three seasons.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's most anticipated fixture of the season arrives with Liverpool sitting top of the table and in imperious form under Arne Slot, while Manchester City are looking to arrest a run of inconsistent performances that has left them trailing the leaders by seven points. The tactical battle between Slot's high-press 4-3-3 and Guardiola's positional play promises to be absorbing, and with Champions League qualification implications already sharpening for City, this is effectively a must-not-lose fixture for the visitors. Anfield's atmosphere is expected to be electric, adding further pressure to an already high-stakes encounter.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected return mid-October after knee surgery"
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; fitness test expected Saturday morning"
       },
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Rated 50/50 for the weekend; hamstring tightness picked up in training"
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Out",
+        "return": "Long-term absence; not expected to return until late spring at the earliest"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
+      "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A bank has a loan portfolio with a 1-year probability of default (PD) of 2%, a loss given default (LGD) of 45%, and an exposure at default (EAD) of $500 million. The asset correlation is 12%. Under the Basel II IRB approach, which of the following best describes the purpose of the asset correlation parameter in calculating regulatory capital?",
+      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. The model assumes a single common factor drives asset correlations. Which of the following is the most significant limitation of this approach, as highlighted by the 2008 financial crisis?",
       "options": {
-        "A": "It measures the correlation between the borrower's asset value and the risk-free rate, adjusting expected loss downward in benign conditions.",
-        "B": "It captures the degree to which borrowers' asset values move together with the systematic risk factor, determining how much unexpected loss co-moves across the portfolio.",
-        "C": "It represents the historical default correlation between individual loan obligors, used to scale the LGD in stress scenarios.",
-        "D": "It adjusts the PD upward to reflect idiosyncratic risk concentration within a single industry sector."
+        "A": "The model overstates individual obligor default probabilities during stress periods.",
+        "B": "The model fails to capture tail dependence, underestimating the probability of simultaneous defaults in extreme scenarios.",
+        "C": "The model cannot be calibrated using market-implied credit spreads.",
+        "D": "The single-factor assumption causes the model to overestimate portfolio diversification benefits in normal market conditions."
       },
       "correct": "B",
-      "explanation": "In the Basel II single-factor (ASRF) model, asset correlation (ρ) measures how much of a borrower's asset value variance is driven by the common systematic risk factor versus idiosyncratic risk. A higher correlation means that defaults across borrowers tend to cluster during downturns, increasing unexpected loss and therefore regulatory capital requirements. The capital formula derives a conditional PD at the 99.9th percentile stress scenario, and ρ is the key parameter that scales systemic sensitivity. Options A, C, and D mischaracterize the parameter's role — it does not directly adjust LGD, measure rate sensitivity, or address idiosyncratic concentration."
+      "explanation": "The Gaussian copula model uses a normal distribution to model joint default probabilities, which has very thin tails and near-zero tail dependence. This means the model severely underestimates the likelihood that many obligors default simultaneously during a systemic crisis. The 2008 crisis exposed this flaw dramatically in CDO pricing, where correlations spiked well beyond historical norms. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence and co-movement in stress scenarios."
     },
     "finance_topic": {
       "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why perfect hedges rarely exist and how residual price divergence can erode risk management effectiveness.",
+      "subtitle": "Understanding why a seemingly perfect hedge can still leave significant residual risk on the table.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument being hedged does not move in perfect lockstep with the price of the hedging instrument. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the contract used as the hedge. Because hedgers rarely find a futures contract that precisely matches their underlying exposure in commodity grade, delivery location, or maturity, some degree of basis risk is almost always present. Unlike the market risk it is designed to offset, basis risk cannot be eliminated — only managed.",
-        "A classic real-world example occurred in the airline industry, where carriers hedge jet fuel costs using crude oil or heating oil futures, since no liquid jet fuel futures market exists. During the 2021–2022 commodity supercycle, the crack spread between crude oil and refined jet fuel widened dramatically due to refinery capacity constraints and sanctions-related supply disruptions. Airlines that had hedged with WTI crude found their hedges underperforming because jet fuel prices rose far more than crude, leaving them exposed to a significant adverse basis move that added hundreds of millions in unanticipated fuel costs.",
-        "For risk managers and portfolio hedgers, basis risk demands careful attention to hedge ratio design, contract selection, and rolling strategy. The minimum-variance hedge ratio — calculated as the correlation between spot and futures price changes multiplied by the ratio of their standard deviations — offers a systematic way to minimize basis risk exposure. Practitioners should also monitor the term structure of futures (contango vs. backwardation) when rolling positions, as roll yield can either amplify or dampen effective hedge performance. Regular regression analysis between the hedged item and the hedging instrument is essential to detect regime shifts in the basis relationship."
+        "Basis risk arises when the price of the instrument used to hedge does not move in perfect lockstep with the exposure being hedged. The 'basis' is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Even when a hedge appears theoretically sound, mismatches in contract specifications, delivery dates, asset quality, or geographic location can cause the hedge to perform imperfectly, leaving the hedger exposed to unexpected gains or losses.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Crude oil and jet fuel prices are highly correlated, but they are not identical — refining margins, regional supply-demand dynamics, and seasonal factors create divergence. During the 2022 energy crisis, the spread between crude and refined products widened dramatically, meaning airlines that hedged with crude futures still faced unexpectedly high effective fuel costs. Similarly, fixed income managers hedging corporate bond portfolios with Treasury futures face basis risk from fluctuating credit spreads.",
+        "For risk managers, the practical implication is that basis risk must be explicitly measured, monitored, and budgeted as part of a hedging program. The hedge ratio should be optimized using regression analysis of historical price relationships, and the residual basis volatility should be included in VaR and stress test calculations. Assuming a hedge eliminates risk entirely without accounting for basis is one of the most common errors in risk reporting, potentially leading to a false sense of security at the portfolio level."
       ],
       "key_takeaways": [
-        "Basis risk is the residual price risk remaining after a hedge is in place, driven by imperfect correlation between the hedged asset and the hedging instrument.",
-        "Cross-hedging — using a related but non-identical instrument — is the most common source of basis risk and requires ongoing monitoring of the basis relationship.",
-        "The minimum-variance hedge ratio optimizes hedge effectiveness statistically, but regime changes in correlations can rapidly invalidate historical estimates."
+        "Basis risk is the residual price risk remaining after a hedge is in place, driven by imperfect correlation between the hedged item and the hedging instrument.",
+        "Cross-commodity and cross-asset hedges (e.g., crude oil for jet fuel, Treasuries for corporate bonds) carry significant basis risk that can materialize sharply during market stress.",
+        "Optimal hedge ratios derived from regression analysis reduce but do not eliminate basis risk; it must be explicitly quantified in all risk reports."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimated cost; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をオーバーしてしまいました。",
       "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
       "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It is formed by attaching しまいました to the te-form of a verb, and is very commonly used in everyday speech to convey 'ended up doing' or 'accidentally did' something.",
-      "memory_tip": "Think of 'yo-san' as 'yo, SAN (three) things I need: income, expenses, and a PLAN' — that plan is your 予算, your budget."
+      "grammar_explanation": "The pattern 〜てしまいました is used to express that something was completed, often with a nuance of regret or that the result was unintended. It combines the て-form of a verb with しまう (to finish/end up doing) in the past polite form.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the sum of money you plan to spend. If you go over your yo-SAN, you sadly say 'shimaimashita' — it's done, it's gone!"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping How Banks Assess Default Risk",
-      "summary": "Major financial institutions including JPMorgan, HSBC, and several fintech lenders are deploying large language models and gradient boosting ensembles to augment traditional FICO-based credit underwriting. These models ingest alternative data sources — including cash flow patterns, utility payment history, and even supply chain signals — to generate richer probability-of-default estimates that outperform scorecards on thin-file borrowers by 15–25% in AUC metrics. Regulators in the EU and US are increasingly scrutinizing these systems for model explainability, fair lending compliance, and adverse action notice requirements, creating a new premium for risk professionals who can bridge ML engineering and regulatory frameworks. The firms that move fastest while building explainability infrastructure will gain a durable underwriting edge.",
+      "headline": "AI Agents Are Beginning to Automate Multi-Step Financial Analysis Workflows",
+      "summary": "Autonomous AI agents — systems that can plan, use tools, and execute multi-step tasks without human prompting at each stage — are moving from research labs into early deployment at financial institutions. Firms including JPMorgan and Bloomberg are piloting agent-based systems capable of pulling live data, running quantitative screens, drafting research summaries, and flagging compliance issues in a single workflow. Unlike a chatbot that answers one question at a time, these agents can chain dozens of actions together, approximating the work of a junior analyst. The implications for headcount, workflow design, and audit trails in finance are profound and are already influencing hiring strategies at major banks.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions of credit default, fraud, or market moves from structured tabular data."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously plan and execute a sequence of actions — such as querying databases, running calculations, and generating reports — to complete a goal, rather than simply responding to a single prompt."
         },
         {
-          "term": "SHAP Values (Shapley Additive Explanations)",
-          "definition": "A mathematical framework borrowed from game theory that assigns each input variable a contribution score to a model's output, allowing risk managers to explain to regulators and customers exactly why a credit decision was made."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model dynamically retrieves relevant up-to-date information from external databases or documents before generating its response, making outputs more factually grounded — critical for financial research and compliance applications."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional information sources — such as rent payment history, e-commerce transaction flows, or satellite imagery of retail parking lots — used to enrich credit or investment models beyond conventional financial statements and credit bureau data."
+          "term": "Tool Use / Function Calling",
+          "definition": "The ability of a large language model to invoke external tools — such as a Bloomberg API, a Python code interpreter, or a risk calculation engine — mid-conversation to fetch real data or run computations, bridging AI reasoning with live financial systems."
         }
       ],
-      "career_insight": "Risk managers and credit analysts who can fluently translate between model outputs and regulatory requirements — particularly SR 11-7 model risk management guidelines and the EU AI Act's high-risk system provisions — are among the most sought-after professionals in financial services today. Building proficiency in Python-based ML tooling (scikit-learn, SHAP, Optuna) alongside deep knowledge of credit regulation positions you at the intersection of two converging forces, making your skill set highly defensible against automation rather than threatened by it."
+      "career_insight": "Finance professionals who understand how to design, supervise, and audit AI agent workflows will command a significant premium over the next five years. The most at-risk roles are those involving structured, repeatable analysis — screening, summarization, and data formatting — while roles requiring judgment, client relationships, and model governance will grow in importance. Building fluency in prompt engineering, AI output validation, and workflow automation tools is now a practical career imperative for analysts and risk managers alike."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment remains cautiously constructive heading into the session, with US equity futures trading modestly higher as markets digest a softer-than-expected core PPI print that reinforces the disinflation narrative and keeps a September Fed rate cut live in pricing. Treasury yields have pulled back 4–6 basis points across the belly of the curve, providing a tailwind for duration-sensitive assets, while the dollar softens modestly against G10 peers. Commodities are the key wildcard — Brent crude is holding above $84 on lingering Middle East supply risk premium, while copper is catching a bid on improved China PMI data, suggesting investors are selectively re-engaging emerging market and cyclical exposure after last week's defensive rotation."
+    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as markets digest a softer-than-expected US core PCE print, reinforcing the narrative that the Fed's next move remains a cut, though the timing continues to be debated with fed funds futures pricing roughly 40 basis points of easing by year-end. The dollar has softened modestly against G10 peers, offering some relief to EM assets, while Treasury yields are anchored in a narrow range around the 4.30% level on the 10-year. Equity markets in Europe are outperforming on the back of improved PMI data out of Germany, though China's property sector remains a persistent overhang on global growth expectations and commodity demand."
   }
 }
