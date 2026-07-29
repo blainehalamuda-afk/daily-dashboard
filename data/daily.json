@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:26 PM UTC",
-  "date": "Tuesday, July 28, 2026",
+  "generated_at": "1:41 PM UTC",
+  "date": "Wednesday, July 29, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 77,
-    "feels_like_f": 78,
-    "high_f": 79,
-    "low_f": 76,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 86,
+    "temp_f": 81,
+    "feels_like_f": 85,
+    "high_f": 83,
+    "low_f": 78,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 71,
     "wind_mph": 1,
     "forecast": [
       {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 73,
-        "low": 73,
-        "description": "Clear Sky"
-      },
-      {
         "day": "Thu",
         "icon": "☀️",
-        "high": 72,
-        "low": 72,
+        "high": 70,
+        "low": 70,
         "description": "Clear Sky"
       },
       {
         "day": "Fri",
-        "icon": "☀️",
-        "high": 72,
-        "low": 72,
-        "description": "Clear Sky"
+        "icon": "🌤️",
+        "high": 71,
+        "low": 71,
+        "description": "Few Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "🌧️",
+        "high": 75,
+        "low": 75,
+        "description": "Light Rain"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 739.09,
-        "change": 0.16,
-        "change_pct": 0.02,
-        "up": true,
+        "price": 740.08,
+        "change": -0.78,
+        "change_pct": -0.11,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 336.91,
-        "change": 3.89,
-        "change_pct": 1.17,
+        "price": 341.78,
+        "change": 1.7,
+        "change_pct": 0.5,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 196.51,
-        "change": -10.33,
-        "change_pct": -4.99,
+        "price": 196.03,
+        "change": -0.98,
+        "change_pct": -0.5,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 309.22,
-        "change": -3.81,
-        "change_pct": -1.22,
+        "price": 306.12,
+        "change": -1.32,
+        "change_pct": -0.43,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63363.99,
-        "change": -1576.56,
-        "change_pct": -2.43,
-        "up": false,
+        "price": 64296,
+        "change": 1248.83,
+        "change_pct": 1.98,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1887,
-        "change": -66.07,
-        "change_pct": -3.38,
-        "up": false,
+        "price": 1905.1,
+        "change": 36.41,
+        "change_pct": 1.95,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,75 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Cracker Barrel CEO Julie Masino to step down - Fox Business",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/business-leaders/cracker-barrel-ceo-julie-masino-step-down",
-        "description": "Cracker Barrel CEO Julie Masino will step down and be replaced by David Deno. She will stay with the company in an advisory capacity until Oct. 9.",
-        "published": "2:20 PM UTC",
+        "title": "Boeing posts bigger loss than expected as Air Force One costs weigh on results - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+        "description": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
+        "published": "11:33 AM UTC",
         "category": "Business"
       },
       {
-        "title": "SpaceX Stock Falls After ‘Near Perfect’ 13th Starship Test. Flight 14 Will Be Wild. - Barron's",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/spacex-stock-starship-test-flight-8d7765c4",
-        "description": "SpaceX stock was rising after its huge, fully reusable Starship launched on Friday evening.",
-        "published": "1:51 PM UTC",
+        "title": "AI tokens could become the kilowatt-hour of the AI age : Planet Money - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
+        "description": "AI companies use tokens to track usage and bill customers. Now economists are using them to track the spread of AI through the economy.",
+        "published": "10:30 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Ahead of hearing, FDA questions the efficacy of Capricor’s Duchenne drug - STAT",
-        "source": "STAT",
-        "url": "https://www.statnews.com/2026/07/27/fda-efficacy-doubts-capricor-therapeutics-duchenne-muscular-dystrophy/",
-        "description": "Ahead of a hearing, the FDA raised questions about the benefits of a Duchenne treatment from Capricor Therapeutics, another twist for the rare disease drug.",
-        "published": "1:08 PM UTC",
+        "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+        "description": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
+        "published": "10:25 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Cleanse the Mortal Realms with the new Warhammer Heroes - Warhammer Community",
-        "source": "Warhammer-community.com",
-        "url": "https://www.warhammer-community.com/articles/jgxqfhcz/cleanse-the-mortal-realms-with-the-new-warhammer-heroes",
-        "description": "The new season of Warhammer Heroes miniatures is revealed.",
-        "published": "1:58 PM UTC",
+        "title": "PlayStation Veteran Explains Why Sony Closed Japan Studio - Kotaku",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/playstation-veteran-says-japan-studio-was-closed-because-it-couldnt-make-games-that-drive-hardware-sales-like-god-of-war-or-uncharted-2000719737",
+        "description": "Even SIE's former president, Shuhei Yoshida, thinks its 'unbelievable' that the company chose to shut down Japan Studio",
+        "published": "11:32 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Xbox service is down, with outages meaning players can't play any digital or physical games, after similar PlayStation Network issues last week - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/xbox-outage-july-2026",
-        "description": "Shortly after PlayStation Network's outage last week, Xbox's online services are facing trouble too, with the support team saying work is underway.",
-        "published": "1:26 PM UTC",
+        "title": "What your internet provider, websites and advertisers see - Fox News",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/tech/what-your-internet-provider-websites-advertisers-see",
+        "description": "Your internet provider, websites and advertisers can track your browsing activity even without you posting online. Here's how to limit what they see.",
+        "published": "11:08 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Big STALKER 2 Overhaul Coming 20th August in 2.0 Patch and First DLC - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/07/big-stalker-2-overhaul-coming-20th-august-in-2-0-patch-and-first-dlc",
-        "description": "Hardcore shooter expanded and improved",
-        "published": "1:00 PM UTC",
+        "title": "Polar bear pulls seal pup onto ice then backs away. The reason why is extraordinary - BBC Wildlife Magazine",
+        "source": "Discoverwildlife.com",
+        "url": "https://www.discoverwildlife.com/animal-facts/polar-bear-seal-pup-svalbard",
+        "description": "Mother seals usually stay close to their pups and this polar bear tried to use that fact to its advantage.",
+        "published": "8:53 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Bills release new alternate \"Nickel City\" uniform - NBC Sports",
-        "source": "NBCSports.com",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-release-new-alternate-nickel-city-uniform",
-        "description": "The Nikefication of the NFL has continued with a new alternate Bills uniform.",
-        "published": "2:01 PM UTC",
+        "title": "A magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/japan-earthquake-tsunami-09e6f40acbcc96053946c9c104e7a242",
+        "description": "An earthquake with a magnitude of 7.1 has shaken Kumamoto on Japan’s Kyushu island. The Japan Meteorological Agency issued a tsunami advisory for the Ariake and Yatsushiro Seas but it was lifted withi",
+        "published": "11:54 AM UTC",
         "category": "General"
       },
       {
-        "title": "Sean 'Diddy' Combs: Life Inside Solitary Confinement After Prison Fight - TMZ",
-        "source": "TMZ",
-        "url": "https://www.tmz.com/2026/07/27/sean-diddy-combs-life-inside-solitary-confinement/",
-        "description": "Sean \"Diddy\" Combs is doing time in solitary confinement after getting into a violent prison brawl ... and his new surroundings come with new rules and restrictions.",
-        "published": "1:56 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Trump tells Thune to keep Senate in session to pass SAVE America Act - Politico",
-        "source": "Politico",
-        "url": "https://www.politico.com/live-updates/2026/07/27/congress/trump-thune-senate-recess-01012561",
-        "description": "The president also again urged the Senate GOP leader to nix the filibuster.",
-        "published": "1:49 PM UTC",
+        "title": "Seattle pays tribute to festival shooting victims - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgv7m5z4n0o",
+        "description": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+        "published": "11:50 AM UTC",
         "category": "General"
       }
     ]
@@ -259,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Enter Race for Bundesliga Midfielder as Rebuild Accelerates",
-        "summary": "Manchester United are reported to be weighing a summer bid for a dynamic box-to-box midfielder currently starring in the Bundesliga, as INEOS-backed sporting director Dan Ashworth prioritizes engine-room reinforcement ahead of the 2025-26 campaign. The player's club are said to value him at around £65 million.",
+        "headline": "Arsenal Revive Interest in Bundesliga Midfielder Ahead of January Window",
+        "summary": "Arsenal are reported to be monitoring a dynamic box-to-box midfielder as Mikel Arteta seeks added depth and creativity in the engine room following a congested fixture schedule that has exposed squad limitations. The north London club are believed to have had scouts at multiple Bundesliga fixtures over the past month.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Close to Agreeing Fee for Serie A Striker as Striker Search Intensifies",
-        "summary": "Chelsea's recruitment team are reportedly in advanced discussions to sign a prolific Serie A striker who finished last season with 22 goals, as the club look to add a clinical centre-forward to complement their high-energy attacking system under Enzo Maresca. Personal terms are said to be the remaining obstacle.",
+        "headline": "Manchester United Weighing Move for Experienced Centre-Back in January",
+        "summary": "With injury disruptions continuing to plague United's defensive unit, the club's football operations team is assessing whether to bring in a senior centre-back in January to provide cover and competition. Several Serie A and Ligue 1 options are understood to be under consideration as INEOS looks to stabilize the backline.",
         "clubs": [
-          "Chelsea",
+          "Manchester United",
           "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "This heavyweight Premier League clash pits Mikel Arteta's Arsenal — buoyant after a run of five consecutive wins and sitting second in the table — against a Manchester City side that has shown renewed defensive solidity following a difficult mid-season stretch. The tactical battle between Arteta's high press and City's positional play through Rodri's replacement makes this a must-watch fixture, with title implications very much alive for both sides. Arsenal will look to exploit City's transitional moments, while Guardiola's men will seek to frustrate the Gunners with sustained possession and late runs from deep.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The standout fixture of the Premier League weekend pits a high-flying Liverpool side, who have been arguably the most consistent team in England this season, against a Manchester City outfit still searching for their best form under Pep Guardiola after an uncharacteristically difficult run of results. Liverpool will look to press aggressively from the front and exploit City's recent defensive vulnerabilities from set pieces, while City's superior squad depth and tactical adaptability make them dangerous even when not at their fluid best. The result could have significant title-race implications, with a Liverpool win opening a potentially decisive gap at the top of the table.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; 50/50 for the City fixture"
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Out",
+        "return": "Long-term — not expected before late spring at earliest"
       },
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Targeting return after international break; unlikely to feature this weekend"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed day-to-day; possible return within 1-2 weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. An analyst wants to estimate the bond's price if its yield-to-maturity increases by 50 basis points. Which of the following best describes the relationship between price change and yield change for this bond?",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating a credit default swap (CDS) where the reference entity has a flat credit curve with a CDS spread of 180 bps and an assumed recovery rate of 40%. Using the simplified survival probability approach, what is the approximate 1-year risk-neutral probability of default?",
       "options": {
-        "A": "The price decrease from a 50 bps yield increase will be smaller in magnitude than the price increase from a 50 bps yield decrease, due to positive convexity.",
-        "B": "The price decrease from a 50 bps yield increase will be larger in magnitude than the price increase from a 50 bps yield decrease, due to negative convexity.",
-        "C": "The price change will be symmetric and equal in magnitude for both a 50 bps increase and decrease in yield, due to duration.",
-        "D": "Convexity has no effect on price changes for plain-vanilla bonds; only modified duration is relevant."
+        "A": "1.80%",
+        "B": "3.00%",
+        "C": "2.88%",
+        "D": "1.08%"
       },
-      "correct": "A",
-      "explanation": "Plain-vanilla (option-free) bonds exhibit positive convexity, meaning the price-yield relationship is curved, not linear. When yields rise, prices fall by less than duration alone predicts; when yields fall, prices rise by more than duration predicts. This asymmetry — where gains exceed losses for equal yield movements — is the defining feature of positive convexity and is beneficial to bondholders. Negative convexity is associated with callable bonds, not standard fixed-rate instruments."
+      "correct": "B",
+      "explanation": "The risk-neutral probability of default is approximated as the CDS spread divided by (1 minus the recovery rate): PD = 180 bps / (1 − 0.40) = 0.0180 / 0.60 = 3.00%. This formula derives from the no-arbitrage condition where the expected loss embedded in the CDS spread must equal the product of the default probability and loss given default (LGD). The recovery rate reduces the effective loss per unit of notional, so a higher recovery rate implies a higher implied default probability for a given spread. This approximation is widely used in practice for quick calibration of hazard rate models."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Balance Sheet Risk",
-      "subtitle": "How mismatches between asset and liability durations expose banks to interest rate risk and why it matters now.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding the gap between a hedge instrument and the exposure it is meant to protect.",
       "paragraphs": [
-        "The duration gap is the difference between the weighted-average duration of a bank's assets and its liabilities, adjusted for the leverage ratio. When assets have a longer duration than liabilities, the bank is said to have a positive duration gap, meaning its economic equity value is sensitive to rising interest rates. A rising rate environment reduces the present value of long-dated assets faster than short-duration liabilities, compressing the net worth of the institution. This concept sits at the heart of asset-liability management (ALM) and is central to how regulators assess interest rate risk in the banking book (IRRBB).",
-        "The collapse of Silicon Valley Bank in March 2023 became a textbook illustration of duration gap risk. SVB had accumulated a large portfolio of long-duration U.S. Treasuries and agency mortgage-backed securities funded by short-term, rate-sensitive deposits. When the Federal Reserve raised rates at the fastest pace in four decades, the market value of SVB's asset portfolio fell sharply while deposit outflows accelerated, forcing the bank to realize massive losses. The bank's positive duration gap — estimated at over four years — meant each 100 bps rise in rates eroded billions in economic equity, a risk that was inadequately hedged.",
-        "For investors and risk managers, monitoring the duration gap is essential during rate transition periods. A bank with a large positive duration gap is essentially running a leveraged long-bond position, which benefits in falling-rate environments but is acutely vulnerable to rate hikes. Analysts should scrutinize bank disclosures on accumulated other comprehensive income (AOCI), unrealized securities losses, and hedge ratios. Regulators globally, including the Basel Committee, have tightened IRRBB standards post-SVB, requiring more granular stress testing of parallel and non-parallel yield curve shifts."
+        "Basis risk arises when the price movements of a hedging instrument do not perfectly correlate with the price movements of the underlying exposure being hedged. Formally, the basis is defined as the spot price of the asset being hedged minus the futures (or derivative) price used as the hedge. Because no hedge is perfect — due to differences in asset specifications, maturity, liquidity, or geography — residual basis risk is an inherent feature of almost every real-world hedging program. Even a well-constructed hedge can leave the hedger exposed to unexpected gains or losses simply from changes in this spread.",
+        "A classic example occurred in the energy sector during the shale boom, when regional natural gas producers hedged production using NYMEX Henry Hub futures. Locational differentials — the spread between Henry Hub and regional delivery points like Waha in West Texas — widened dramatically due to pipeline bottlenecks, causing producers' realized revenues to fall far below their hedge-protected levels. The futures position gained as expected, but the local spot price collapsed independently, generating severe basis losses. This dynamic similarly affects cross-currency hedges, credit index hedges (CDX vs. single-name CDS), and equity portfolio hedges using broad index futures against concentrated sector exposures.",
+        "For risk managers and portfolio hedgers, the practical implication is that minimizing basis risk requires careful selection of the hedge instrument — prioritizing one whose underlying closely matches the exposure in terms of asset type, geography, tenor, and credit quality. The minimum-variance hedge ratio, calculated as the correlation between spot and futures price changes multiplied by the ratio of their standard deviations, optimizes the hedge size to minimize residual variance rather than simply matching notional. Stress-testing the hedge for basis widening scenarios — particularly in illiquid or dislocated markets — is essential, as basis risk tends to spike precisely when hedges are needed most."
       ],
       "key_takeaways": [
-        "Duration gap measures the sensitivity of a bank's net economic value to interest rate changes; a positive gap means rising rates hurt equity value.",
-        "The SVB failure demonstrated how an unhedged duration mismatch can become existential when combined with a concentrated, rate-sensitive depositor base.",
-        "Investors should evaluate banks' AOCI, unrealized losses, and disclosed IRRBB metrics — not just reported book capital — when assessing rate risk."
+        "Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
+        "The minimum-variance hedge ratio (ρ × σ_S / σ_F) optimizes position sizing to reduce — but never fully eliminate — basis risk.",
+        "Basis risk tends to widen during market dislocations, making stress-testing hedge effectiveness under adverse scenarios a critical risk management discipline."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved up",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that something was completed, often with a nuance of regret or that it happened unintentionally. It is the polite past form of 〜てしまう.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you've set aside. When you blow past your 'yo-san,' you definitely feel the regret of 〜てしまいました!"
+      "example_jp": "毎月、給料の一部を貯金しています。",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_en": "Every month, I save a portion of my salary.",
+      "grammar_point": "〜ています (ongoing action / habitual state)",
+      "grammar_explanation": "The 〜ています form is attached to the te-form of a verb to express either an action currently in progress or a habitual action that one does regularly. Here, 貯金しています means 'I am in the habit of saving,' conveying a routine behavior rather than a one-time event.",
+      "memory_tip": "Think of 貯 (cho) as 'storing' — imagine a little piggy bank (cho-chan) collecting coins, and 金 (kin) means 'gold/money.' So 貯金 = storing gold = your savings jar!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Executing Multi-Step Financial Analysis Autonomously",
-      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and self-correction over multiple steps — is moving from research labs into finance workflows. Firms including JPMorgan, Bloomberg, and a cohort of hedge funds are piloting autonomous agents that can pull live market data, run quantitative screens, draft investment memos, and flag compliance issues without continuous human prompting. Unlike single-turn LLM queries, these agents maintain context across tasks, call external APIs, and iterate on their own outputs. The shift represents a qualitative leap from AI as a writing assistant to AI as a junior analyst capable of completing structured financial workflows end-to-end.",
+      "headline": "AI Agents Are Quietly Reshaping How Investment Research Gets Done",
+      "summary": "Large financial institutions including JPMorgan, Goldman Sachs, and BlackRock have begun deploying autonomous AI agents — systems that can independently browse data sources, write code, run queries, and synthesize multi-step analysis with minimal human intervention. Unlike earlier chatbot tools that required constant prompting, these agents can be assigned an open-ended task such as 'build a sector rotation report using macro indicators and earnings revisions' and execute it end-to-end. The practical effect is a compression of the analyst workflow: tasks that previously took a junior analyst two days can now be scaffolded in hours, raising urgent questions about team sizing and skill requirements. For finance professionals, fluency in prompt engineering, agent orchestration frameworks, and output validation is rapidly becoming a differentiating competency.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan and execute a sequence of tasks — such as retrieving data, running calculations, and generating a report — using tools and self-feedback loops, rather than responding to a single prompt."
+          "definition": "AI systems that autonomously plan and execute multi-step tasks — such as pulling financial data, running models, and drafting reports — without needing a human prompt at each step, similar to delegating a workflow to a highly capable junior analyst."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries an external knowledge base (e.g., SEC filings, earnings transcripts, market data) in real time before generating a response, dramatically improving factual accuracy for finance use cases."
+          "definition": "A technique that grounds an AI's responses in a specific, up-to-date document corpus — for example, a firm's internal research library or SEC filings — reducing hallucinations and making outputs far more reliable for compliance-sensitive financial work."
         },
         {
-          "term": "Tool Use / Function Calling",
-          "definition": "The ability of an AI model to invoke external APIs, run Python code, or query databases mid-conversation, enabling it to perform live calculations, pull current prices, or execute quantitative models as part of its reasoning."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built AI model on domain-specific data (e.g., credit agreements, earnings call transcripts, or risk reports) so it learns specialized vocabulary, reasoning patterns, and output formats relevant to a particular financial function."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, audit, and govern AI agent workflows will command a structural career advantage over the next five years. The most in-demand hybrid skill set is combining domain expertise — credit analysis, risk modeling, portfolio construction — with the ability to prompt-engineer, evaluate output quality, and build guardrails for autonomous systems. Roles like 'AI Risk Officer,' 'LLM Integration Analyst,' and 'Quantitative AI Strategist' are already appearing in front-office job descriptions at bulge-bracket banks."
+      "career_insight": "Finance and risk professionals who can act as 'AI orchestrators' — defining tasks, validating outputs, and integrating AI agents into existing workflows — will command a significant premium over those who simply use AI as a search tool. The highest-value skill is not knowing how to build models from scratch, but knowing enough about quantitative methods and domain finance to critically evaluate whether an AI-generated analysis is directionally sound and free of subtle errors. Firms are already restructuring analyst pipelines, meaning professionals who upskill now will define the new baseline rather than being measured against it."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite is cautiously constructive this morning as markets digest a slightly softer-than-expected U.S. core PCE print, keeping alive hopes that the Fed's next move is a cut rather than another hike — Fed funds futures are pricing roughly 58% probability of at least one 25 bps reduction by September. The dollar is marginally weaker on the data, providing a modest tailwind to EM currencies and commodities, with Brent crude holding near $84/bbl amid ongoing OPEC+ supply discipline. Equity futures point to a flattish open in the S&P 500 as investors balance macro relief against persistent earnings quality concerns in rate-sensitive sectors; credit spreads remain tight by historical standards but the IG-HY gap has widened slightly — a signal worth watching as the credit cycle matures."
+    "market_sentiment": "Risk assets are navigating a delicate macro crossroads this week as investors weigh resilient U.S. labor data against softening PMI readings in the eurozone and renewed concerns about the pace of Fed easing — rate-sensitive sectors saw modest profit-taking while the dollar index held near recent highs, capping commodity upside. Credit spreads remain historically tight, suggesting markets are still pricing a soft-landing base case, though the term premium on the long end of the Treasury curve has been creeping higher, hinting at growing discomfort with the fiscal trajectory. Equity positioning data shows elevated long exposure in large-cap tech, leaving the tape vulnerable to any disappointment in upcoming megacap earnings, while EM currencies face headwinds from a strong dollar and idiosyncratic political risk in key emerging markets."
   }
 }
