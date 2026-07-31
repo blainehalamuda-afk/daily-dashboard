@@ -1,37 +1,37 @@
 {
-  "generated_at": "1:22 PM UTC",
-  "date": "Thursday, July 30, 2026",
+  "generated_at": "1:27 PM UTC",
+  "date": "Friday, July 31, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 74,
-    "feels_like_f": 74,
-    "high_f": 76,
-    "low_f": 71,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 69,
-    "wind_mph": 6,
+    "feels_like_f": 75,
+    "high_f": 77,
+    "low_f": 72,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 68,
+    "wind_mph": 4,
     "forecast": [
-      {
-        "day": "Fri",
-        "icon": "☁️",
-        "high": 69,
-        "low": 69,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Sat",
         "icon": "☁️",
-        "high": 75,
-        "low": 75,
+        "high": 72,
+        "low": 72,
         "description": "Overcast Clouds"
       },
       {
         "day": "Sun",
         "icon": "🌧️",
-        "high": 71,
-        "low": 71,
+        "high": 72,
+        "low": 72,
+        "description": "Moderate Rain"
+      },
+      {
+        "day": "Mon",
+        "icon": "🌧️",
+        "high": 72,
+        "low": 72,
         "description": "Light Rain"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 729.46,
-        "change": -11.4,
-        "change_pct": -1.54,
-        "up": false,
+        "price": 741.69,
+        "change": 12.23,
+        "change_pct": 1.68,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 338.19,
-        "change": -1.89,
-        "change_pct": -0.56,
+        "price": 333.43,
+        "change": -4.76,
+        "change_pct": -1.41,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 190.01,
-        "change": -7.0,
-        "change_pct": -3.55,
-        "up": false,
+        "price": 195.04,
+        "change": 5.03,
+        "change_pct": 2.65,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 298.32,
-        "change": -9.12,
-        "change_pct": -2.97,
-        "up": false,
+        "price": 308.85,
+        "change": 10.53,
+        "change_pct": 3.53,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64835.99,
-        "change": 603.99,
-        "change_pct": 0.94,
-        "up": true,
+        "price": 63811.88,
+        "change": -1040.13,
+        "change_pct": -1.6,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1924.5,
-        "change": 20.77,
-        "change_pct": 1.09,
-        "up": true,
+        "price": 1888.66,
+        "change": -37.67,
+        "change_pct": -1.96,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,51 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Korean Stocks Plunge 16% in Two-Day Burst of Retail Selling - Bloomberg",
+        "title": "How a rogue AI system’s stealthy cyberattack played out day by day - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/",
+        "description": "A timeline of the unprecedented cyberattack by OpenAI “agent” that escaped containment shows its sophistication.",
+        "published": "12:02 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "The FCC bans all robot vacuums made outside the U.S. - Mashable",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/us-robot-vacuum-ban-fcc-foreign",
+        "description": "That's pretty much all of them.",
+        "published": "11:48 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "NYSE Parent ICE Agrees to Buy MarketAxess for About $6 Billion - Bloomberg",
         "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-29/korean-stocks-tumble-a-second-day-as-sk-hynix-results-disappoint",
-        "description": "Despair and frustration spread across the South Korean retail-investing community as stocks cratered again Wednesday, extending the decline in the nation’s key equity index this month to a record 33%.",
-        "published": "1:40 PM UTC",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-30/nyse-parent-ice-agrees-to-buy-marketaxess-for-about-6-billion",
+        "description": "Intercontinental Exchange Inc., the parent of the New York Stock Exchange, agreed to buy MarketAxess Holdings Inc. for about $6 billion in cash, adding one of the world’s biggest fixed-income exchange",
+        "published": "11:41 AM UTC",
         "category": "Business"
       },
       {
-        "title": "S&P 500 futures are flat as oil prices jump, traders brace for Fed decision: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
-        "description": "The Dow is coming off its third straight winning day.",
-        "published": "1:17 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Tentpole Xbox release Halo: Campaign Evolved performs better on the PlayStation 5, with the PS5 Pro providing the best experience - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/halo-campaign-evolved-performs-better-ps5",
-        "description": "According to a new Digital Foundry article, the PS5 version of the game meets Xbox Series X quality, without cutscene stuttering.",
-        "published": "1:37 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Samsung’s Galaxy Z Fold 8 feels like the future - The Verge",
+        "title": "SwitchBot makes a better fan - The Verge",
         "source": "The Verge",
-        "url": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
-        "description": "The Z Fold 8 looks unusual at first, with its squat outer screen, but you get used to it fast — and the wide inner display makes it all worthwhile.",
-        "published": "12:22 PM UTC",
+        "url": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
+        "description": "SwitchBot’s Battery Circulator Fan 2 Pro is the company’s most powerful fan yet and adds Matter over WiFi for easy smart home integration.",
+        "published": "10:30 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "FIFA's Infantino sets deadline for $20M offer to members in Kushner-backed World Cup investor plan - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/world-cup-fifa-investors-kushner-infantino-uefa-e66dc5d5f9907f9ea5323716b7e49ca2",
-        "description": "FIFA President Gianni Infantino has set a Sept. 19 deadline for the 211 member federations to accept a $20 million offer to each in his controversial plan to sell stakes in a subsidiary running the Wo",
-        "published": "2:24 PM UTC",
+        "title": "Official GTA 6 Updates Have Fans Thinking Trailer 3 Is Close - TheGamer",
+        "source": "TheGamer",
+        "url": "https://www.thegamer.com/rockstar-just-updated-the-gta-6-website-and-fans-are-losing-it/",
+        "description": "Rockstar promised marketing this summer, and we're well into it, so a new trailer must be close.",
+        "published": "7:20 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Xenoblade Chronicles 2: Torna - The Golden Country Updated To Version 2.0.0 - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/07/xenoblade-chronicles-2-torna-the-golden-country-updated-to-version-2-0-0",
+        "description": "Timed in with XC2's Switch 2 Edition",
+        "published": "6:07 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "'The Walking Dead' Renewed By Netflix In 5-Year, $500M Co-Exclusive Deal With AMC Global Media - Deadline",
+        "source": "Deadline",
+        "url": "http://deadline.com/2026/07/the-walking-dead-renewed-netflix-amc-global-media-1237013114/",
+        "description": "Netflix has renewed The Walking Dead, paying $500 million to AMC Global Media for five years of rights to the zombie franchise and all of its spinoffs.",
+        "published": "11:03 AM UTC",
         "category": "General"
       },
       {
-        "title": "Anthony Fauci invokes 5th Amendment right not to testify at Covid hearing, calls Sen. Rand Paul ‘unhinged’ - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/congress/anthony-fauci-5th-amendment-testify-covid-hearing-rand-paul-rcna589793",
-        "description": "Dr. Anthony Fauci declined to answer senators’ questions at a hearing Wednesday on the origins of Covid and the government’s handling of the pandemic, saying he would invoke his Fifth Amendment right ",
-        "published": "1:54 PM UTC",
+        "title": "2026 MLB trade deadline preview: Passan's intel on every team - ESPN",
+        "source": "ESPN",
+        "url": "https://www.espn.com/mlb/story/_/id/49480118/2026-mlb-trade-deadline-preview-passan-rumors-intel-yankees-dodgers-red-sox-tigers-skubal",
+        "description": "From the contenders eyeing Tarik Skubal to the rebuilders, here's what every front office is thinking ahead of the Aug. 3 deadline.",
+        "published": "11:00 AM UTC",
         "category": "General"
       }
     ]
@@ -235,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Move for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal's recruitment team is understood to have scouted Granit Xhaka's former position extensively, with a deep-lying Bundesliga midfielder identified as a priority target for the January window as Thomas Partey's injury concerns persist into the second half of the season.",
+        "headline": "Liverpool in Advanced Talks for Bundesliga Midfielder as Gravenberch Cover Sought",
+        "summary": "Liverpool's sporting directors are reportedly in advanced discussions with a top Bundesliga club over a central midfielder to provide competition and cover following concerns over squad depth in the engine room. A deal in the region of £45–55 million is said to be under consideration ahead of the summer window officially opening.",
         "clubs": [
-          "Arsenal",
+          "Liverpool",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Open Talks for Brighton's Left-Back as Injury Crisis Deepens",
-        "summary": "Chelsea are reportedly in preliminary discussions with Brighton over a potential January loan-to-buy arrangement for their first-choice left-back, with Enzo Maresca seeking defensive reinforcements after a string of injuries disrupted his side's tactical setup.",
+        "headline": "Chelsea Revive Interest in Napoli Striker as Attack Rotation Concern Grows",
+        "summary": "Chelsea are understood to have reopened dialogue with Napoli over a forward option, with Enzo Maresca keen to add a more clinical No.9 profile to complement his current attacking options. Napoli's asking price remains a stumbling block, with the clubs approximately £20 million apart in their valuations.",
         "clubs": [
           "Chelsea",
-          "Brighton & Hove Albion"
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits Pep Guardiola's City — still rebuilding consistency following a turbulent run of results — against Arne Slot's Liverpool, who arrive at the Etihad buoyed by momentum at the top of the table. City will be desperate to close the gap on the league leaders, making this a must-win at home, while Liverpool will fancy their chances on the counter given City's recent defensive vulnerabilities. The tactical battle between Slot's high press and Guardiola's positional structure promises to be compelling, with the result potentially decisive for title trajectory.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The most anticipated fixture of the Premier League weekend pits an Arsenal side desperate to claw back ground in the title race against a Manchester City team that has rediscovered their rhythm after a patchy mid-season. Arsenal's formidable home form at the Emirates makes them slight favorites, but City's relentless pressing and Haaland's predatory instincts give the visitors a genuine path to three points. The tactical battle between Arteta's high defensive line and City's runners in behind will be the defining subplot of what promises to be a genuinely pivotal afternoon.",
       "key_players": [
-        "Mohamed Salah",
+        "Bukayo Saka",
         "Erling Haaland",
-        "Alexis Mac Allister"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; fitness test scheduled for Friday"
+        "status": "Recovering",
+        "return": "Expected back for final weeks of season; fitness being managed carefully"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Expected to return to first-team training within two weeks; targeting late January return"
+        "player": "Ben White",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Assessed day-to-day; possible return within 7–10 days if scan results are positive"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model to estimate portfolio credit VaR. Which of the following is the most significant limitation of using a Gaussian copula for this purpose?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, 10 years to maturity, and a face value of $1,000 is priced at $926.40. An investor purchases this bond and holds it to maturity, reinvesting all coupons at 5% annually. Which of the following best describes the investor's realized yield relative to the bond's yield to maturity (YTM)?",
       "options": {
-        "A": "It cannot model pairwise default correlations between obligors in the portfolio.",
-        "B": "It underestimates tail dependence, leading to underestimation of joint defaults during stress periods.",
-        "C": "It requires simulation of individual obligor credit spreads, making it computationally intractable for large portfolios.",
-        "D": "It assumes constant recovery rates, which overstates portfolio losses in benign credit environments."
+        "A": "The realized yield will equal the YTM because the bond is held to maturity.",
+        "B": "The realized yield will exceed the YTM because coupons are reinvested at a rate above the coupon rate.",
+        "C": "The realized yield will be less than the YTM because coupons are reinvested at a rate below the YTM.",
+        "D": "The realized yield will equal the coupon rate because the bond is held to maturity."
       },
-      "correct": "B",
-      "explanation": "The Gaussian copula was widely used in CDO pricing and credit portfolio modeling, but its critical flaw is that it exhibits zero tail dependence — meaning it significantly underestimates the probability of multiple simultaneous defaults during market stress. This was a key contributor to the mispricing of structured credit products before the 2008 financial crisis. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence. Options A and C are incorrect because the Gaussian copula does model pairwise correlations and is actually tractable for large portfolios via simulation."
+      "correct": "C",
+      "explanation": "YTM implicitly assumes that all coupon payments are reinvested at the YTM itself. When coupons are reinvested at a rate below the YTM, the total future value of reinvested coupons falls short of the YTM assumption, causing the realized (horizon) yield to be less than the YTM. In this case the YTM is approximately 7%, but reinvestment occurs at only 5%, creating reinvestment risk that reduces the realized return. This is a core concept in fixed income: reinvestment risk means that falling rates hurt bond investors through lower coupon reinvestment income, even when they hold to maturity."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why imperfect hedges can leave portfolios exposed to unexpected losses even when directional views are correct.",
+      "title": "Duration Gap and Bank Interest Rate Risk",
+      "subtitle": "How mismatches between asset and liability durations expose financial institutions to interest rate swings.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, creating a residual exposure even after the hedge is in place. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. While a perfect hedge would eliminate all price risk, in practice basis fluctuates due to differences in liquidity, credit quality, geographic location, or contract specifications, meaning some risk always remains.",
-        "A classic real-world example occurred during periods of energy market stress, when oil producers hedged WTI crude exposure using Brent futures. The WTI-Brent spread, typically stable, widened dramatically during supply disruptions, causing hedges to perform poorly despite the underlying directional call being correct. Similarly, fixed income portfolio managers hedging corporate bond exposure with Treasury futures face basis risk because credit spreads can widen independently of rate moves, leaving credit duration unhedged and eroding hedge effectiveness precisely when it is needed most.",
-        "For risk managers and investors, basis risk demands ongoing monitoring rather than a set-and-forget approach to hedging. Hedge ratios should be regularly recalibrated using regression analysis of historical price relationships, and scenario analysis should stress-test basis widening under adverse conditions. In periods of market dislocation — such as the March 2020 COVID shock — basis risk can spike violently as correlations break down, turning what appeared to be a well-hedged book into a source of significant P&L volatility."
+        "The duration gap is a measure used by banks and financial institutions to quantify their net exposure to interest rate movements. It is calculated as the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for the leverage ratio. A positive duration gap means assets reprice more slowly than liabilities, making the institution vulnerable when rates rise — the market value of assets falls more than the market value of liabilities, eroding equity. A negative duration gap implies the reverse: falling rates reduce net worth.",
+        "The collapse of Silicon Valley Bank in March 2023 is a textbook illustration of duration gap risk. SVB had loaded its balance sheet with long-duration U.S. Treasuries and mortgage-backed securities during the low-rate era, funded primarily by short-term, rate-sensitive deposits from venture capital clients. As the Federal Reserve hiked rates aggressively, the market value of SVB's long-duration assets plummeted while its deposit liabilities repriced almost immediately. The resulting duration gap — estimated at over 5 years — meant a relatively modest rate increase produced catastrophic losses on a mark-to-market basis, triggering a bank run and ultimate failure.",
+        "For risk managers and investors, duration gap analysis is a critical input in asset-liability management (ALM). Institutions typically target a near-zero duration gap or hedge residual exposure using interest rate swaps, where paying fixed and receiving floating effectively shortens asset duration. Investors analyzing bank stocks should scrutinize disclosed duration gaps and unrealized losses in held-to-maturity (HTM) portfolios, as accounting treatment can obscure true economic exposure until a liquidity event forces realization of losses."
       ],
       "key_takeaways": [
-        "Basis risk is the residual price risk remaining after a hedge is applied, arising from imperfect correlation between the hedged asset and the hedging instrument.",
-        "Basis can widen sharply during market stress, meaning hedges often fail most severely precisely when protection is most needed.",
-        "Effective hedge management requires dynamic rebalancing, regression-based hedge ratio estimation, and explicit scenario testing of basis widening."
+        "A positive duration gap exposes a bank to rising rates, as asset values fall faster than liability values, reducing equity.",
+        "The SVB collapse demonstrated how accounting choices (HTM classification) can mask duration gap risk until a liquidity crisis surfaces it.",
+        "Interest rate swaps and careful ALM are the primary tools institutions use to manage and hedge duration gap exposure."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をもう使い切ってしまいました。",
       "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or that something happened unintentionally. It combines the te-form of a verb with しまいました to signal a finished — sometimes unfortunate — outcome.",
-      "memory_tip": "Imagine a YO-YO going up (yo) and a SUN setting (san) — your budget went up and down and now the sun has set on your spending for the month. 予 (yo) means 'in advance' and 算 (san) means 'calculate' — so you calculate in advance: a budget!"
+      "grammar_explanation": "〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened that cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-san' as 'yo, son — here's your spending plan.' The 予 character means 'in advance' and 算 means 'calculate,' so a budget is literally something calculated in advance."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
-      "summary": "Major financial institutions including JPMorgan, HSBC, and several large European banks are deploying large language models and gradient-boosted machine learning systems to automate portions of credit underwriting, covenant analysis, and counterparty risk assessment. These systems can process unstructured data — including earnings call transcripts, news sentiment, and supply chain signals — alongside traditional financial ratios to produce richer, faster credit decisions. While still operating under human oversight frameworks required by regulators, the velocity and depth of AI-assisted credit analysis is compressing turnaround times from days to hours. Risk professionals who understand both the capabilities and failure modes of these models are becoming disproportionately valuable in hiring markets.",
+      "headline": "AI Agents Are Quietly Transforming How Investment Firms Process Earnings Data",
+      "summary": "A new generation of autonomous AI agents — systems capable of planning multi-step tasks without human prompting — are being deployed by asset managers to ingest, parse, and synthesize earnings call transcripts, SEC filings, and macroeconomic data releases in real time. Firms like BlackRock, Point72, and a growing cohort of quant hedge funds are moving beyond simple NLP sentiment tools toward agentic systems that can cross-reference a CEO's forward guidance against historical accuracy, flag accounting anomalies, and generate preliminary analyst memos in minutes. The competitive advantage is no longer just speed but depth: these systems contextualize information across thousands of documents simultaneously, something no human analyst team can replicate. The implication is a structural shift in how fundamental research is produced and priced into markets.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions on structured financial data like loan default probability or credit scoring."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously break down complex goals into sub-tasks, execute them sequentially, and adapt based on intermediate results — moving beyond single-prompt responses to multi-step reasoning pipelines relevant for financial research workflows."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as satellite imagery of factory activity, web traffic, social media sentiment, or card transaction flows — used by AI models to generate investment signals or assess creditworthiness beyond standard financial statements."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model queries a proprietary database of documents (e.g., filings, research reports) before generating a response, grounding its output in specific, verifiable source material rather than relying solely on training data — critical for compliance-sensitive financial applications."
         },
         {
-          "term": "Explainability (XAI)",
-          "definition": "Techniques such as SHAP values and LIME that help humans understand why a machine learning model made a specific prediction — critical in regulated finance where credit decisions must be auditable and fair."
+          "term": "Alternative Data Integration",
+          "definition": "The process of feeding non-traditional data sources — satellite imagery, credit card transactions, web traffic, job postings — into AI models to generate investment signals that are not yet reflected in consensus estimates or public financial statements."
         }
       ],
-      "career_insight": "Finance and risk professionals who can bridge quantitative modeling and AI literacy — understanding when to trust a model, how to challenge its outputs, and how to communicate model risk to regulators — are emerging as the most sought-after talent in banks and asset managers. Technical fluency in Python, familiarity with ML validation frameworks, and the ability to translate model behavior into business language are rapidly becoming baseline expectations rather than differentiators at the analyst and associate levels."
+      "career_insight": "Finance professionals who understand how to design, evaluate, and govern AI-driven research pipelines will command significant premiums over those who merely consume their outputs. The highest-value skill set is emerging at the intersection of domain expertise (credit analysis, risk modeling) and AI literacy — professionals who can identify where model outputs are unreliable, structure prompts effectively, and translate AI-generated insights into actionable investment decisions will be the ones leading teams within five years."
     },
     "error": false,
-    "market_sentiment": "Risk appetite is cautiously constructive this morning as markets digest a resilient U.S. labor market print against a backdrop of cooling core services inflation, keeping the Fed's higher-for-longer narrative intact but reducing tail risk of near-term hikes. The dollar is holding modest gains while front-end Treasuries see light selling, with the 2Y yield hovering near cycle pivot levels that have historically attracted duration buyers. Equity futures point to a flat open with energy and financials outperforming on the margin, while credit spreads remain range-bound — the market is in a consolidation mode, waiting for the next meaningful macro catalyst."
+    "market_sentiment": "Equity markets are navigating a delicate balancing act as investors reprice the pace of Fed easing in response to stickier-than-expected core services inflation, with the rates market now pricing fewer than two cuts through year-end. The dollar has firmed on the repricing, pressuring EM currencies and commodities, while credit spreads in high yield have widened modestly — a sign that liquidity is being tested at the margins though not yet stressed. Risk appetite remains conditionally positive: mega-cap tech continues to provide index support on AI capex narratives, but breadth has narrowed, and any upside surprise in this week's PCE print could catalyze a sharper duration sell-off that tests equity multiples at current levels."
   }
 }
