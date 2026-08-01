@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:27 PM UTC",
-  "date": "Friday, July 31, 2026",
+  "generated_at": "12:52 PM UTC",
+  "date": "Saturday, August 1, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 74,
-    "feels_like_f": 75,
-    "high_f": 77,
-    "low_f": 72,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 68,
-    "wind_mph": 4,
+    "temp_f": 76,
+    "feels_like_f": 78,
+    "high_f": 78,
+    "low_f": 75,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 90,
+    "wind_mph": 6,
     "forecast": [
       {
-        "day": "Sat",
+        "day": "Sun",
+        "icon": "🌧️",
+        "high": 72,
+        "low": 72,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Mon",
         "icon": "☁️",
         "high": 72,
         "low": 72,
         "description": "Overcast Clouds"
       },
       {
-        "day": "Sun",
-        "icon": "🌧️",
+        "day": "Tue",
+        "icon": "☁️",
         "high": 72,
         "low": 72,
-        "description": "Moderate Rain"
-      },
-      {
-        "day": "Mon",
-        "icon": "🌧️",
-        "high": 72,
-        "low": 72,
-        "description": "Light Rain"
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 741.69,
-        "change": 12.23,
-        "change_pct": 1.68,
+        "price": 747.03,
+        "change": 5.34,
+        "change_pct": 0.72,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 333.43,
-        "change": -4.76,
-        "change_pct": -1.41,
+        "price": 308.91,
+        "change": -24.52,
+        "change_pct": -7.35,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 195.04,
-        "change": 5.03,
-        "change_pct": 2.65,
+        "price": 200.75,
+        "change": 5.71,
+        "change_pct": 2.93,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 308.85,
-        "change": 10.53,
-        "change_pct": 3.53,
+        "price": 311.21,
+        "change": 2.36,
+        "change_pct": 0.76,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63811.88,
-        "change": -1040.13,
-        "change_pct": -1.6,
+        "price": 63105.21,
+        "change": -581.23,
+        "change_pct": -0.91,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1888.66,
-        "change": -37.67,
-        "change_pct": -1.96,
+        "price": 1869.3,
+        "change": -9.52,
+        "change_pct": -0.51,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "How a rogue AI system’s stealthy cyberattack played out day by day - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/",
-        "description": "A timeline of the unprecedented cyberattack by OpenAI “agent” that escaped containment shows its sophistication.",
-        "published": "12:02 PM UTC",
+        "title": "South Korea’s Kospi index jumps nearly 18% on a surge in chipmaking stocks - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/stock-markets-rates-korea-ai-oil-e31b3a442bcb957a53f1823ef21e73e8",
+        "description": "World markets have advanced and South Korea’s Kospi index has jumped nearly 18% as artificial intelligence-related stocks bounce back after losses earlier this week. U.S. futures edged higher and oil ",
+        "published": "10:25 AM UTC",
         "category": "Business"
       },
       {
-        "title": "The FCC bans all robot vacuums made outside the U.S. - Mashable",
+        "title": "Why Amazon (AMZN) Stock Is Jumping 10% Despite a Massive AI Capex Hike - Barron's",
+        "source": "Barron's",
+        "url": "https://www.barrons.com/articles/amazon-earnings-stock-price-bdf5ec40",
+        "description": "Amazon’s revenue for the quarter reached $201 billion, above expectations of $197 billion, and up 20% on the year.",
+        "published": "9:57 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Nasdaq futures rise as Wall Street rebounds; South Korea's Kospi soars 15%: Live updates - cnbc.com",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
+        "description": "The after-hours moves followed a powerful rally during Thursday's regular session, led by Microsoft.",
+        "published": "7:11 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Sony Says It's Not Backing Down From Ending PlayStation Discs - kotaku.com",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708",
+        "description": "The PS5 maker said it already put a lot of thought into the decision",
+        "published": "8:12 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "The Most Polarizing Mario Game Is About To Come To Switch 2 - kotaku.com",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/super-mario-sunshine-is-coming-to-switch-2-2000720607",
+        "description": "The underrated 3D Mario game will be part of Switch Online's GameCube library",
+        "published": "4:24 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Tim Cook praises John Ternus again in Apple's Q3 2026 earnings call - mashable.com",
         "source": "Mashable",
-        "url": "https://mashable.com/tech/us-robot-vacuum-ban-fcc-foreign",
-        "description": "That's pretty much all of them.",
-        "published": "11:48 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "NYSE Parent ICE Agrees to Buy MarketAxess for About $6 Billion - Bloomberg",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-30/nyse-parent-ice-agrees-to-buy-marketaxess-for-about-6-billion",
-        "description": "Intercontinental Exchange Inc., the parent of the New York Stock Exchange, agreed to buy MarketAxess Holdings Inc. for about $6 billion in cash, adding one of the world’s biggest fixed-income exchange",
-        "published": "11:41 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "SwitchBot makes a better fan - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
-        "description": "SwitchBot’s Battery Circulator Fan 2 Pro is the company’s most powerful fan yet and adds Matter over WiFi for easy smart home integration.",
-        "published": "10:30 AM UTC",
+        "url": "https://mashable.com/tech/apple-tim-cook-ternus-earnings-call-q3-2026",
+        "description": "The tech giant has been working to ensure a smooth transition for its incoming CEO.",
+        "published": "1:40 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Official GTA 6 Updates Have Fans Thinking Trailer 3 Is Close - TheGamer",
-        "source": "TheGamer",
-        "url": "https://www.thegamer.com/rockstar-just-updated-the-gta-6-website-and-fans-are-losing-it/",
-        "description": "Rockstar promised marketing this summer, and we're well into it, so a new trailer must be close.",
-        "published": "7:20 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Xenoblade Chronicles 2: Torna - The Golden Country Updated To Version 2.0.0 - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/07/xenoblade-chronicles-2-torna-the-golden-country-updated-to-version-2-0-0",
-        "description": "Timed in with XC2's Switch 2 Edition",
-        "published": "6:07 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "'The Walking Dead' Renewed By Netflix In 5-Year, $500M Co-Exclusive Deal With AMC Global Media - Deadline",
-        "source": "Deadline",
-        "url": "http://deadline.com/2026/07/the-walking-dead-renewed-netflix-amc-global-media-1237013114/",
-        "description": "Netflix has renewed The Walking Dead, paying $500 million to AMC Global Media for five years of rights to the zombie franchise and all of its spinoffs.",
-        "published": "11:03 AM UTC",
+        "title": "Tankers Are Being Blown Out of the Water. See How Mideast Strikes Are Piling Up. - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/world/middle-east/tankers-are-being-blown-out-of-the-water-see-how-mideast-strikes-are-piling-up-00801570",
+        "description": "",
+        "published": "9:30 AM UTC",
         "category": "General"
       },
       {
-        "title": "2026 MLB trade deadline preview: Passan's intel on every team - ESPN",
-        "source": "ESPN",
-        "url": "https://www.espn.com/mlb/story/_/id/49480118/2026-mlb-trade-deadline-preview-passan-rumors-intel-yankees-dodgers-red-sox-tigers-skubal",
-        "description": "From the contenders eyeing Tarik Skubal to the rebuilders, here's what every front office is thinking ahead of the Aug. 3 deadline.",
-        "published": "11:00 AM UTC",
+        "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott - aljazeera.com",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott",
+        "description": "European football’s governing body has voted to boycott FIFA if World Cup plans pursued, but global body undeterred.",
+        "published": "7:28 AM UTC",
         "category": "General"
       }
     ]
@@ -251,45 +251,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Liverpool in Advanced Talks for Bundesliga Midfielder as Gravenberch Cover Sought",
-        "summary": "Liverpool's sporting directors are reportedly in advanced discussions with a top Bundesliga club over a central midfielder to provide competition and cover following concerns over squad depth in the engine room. A deal in the region of £45–55 million is said to be under consideration ahead of the summer window officially opening.",
+        "headline": "Arsenal Target Juventus Midfielder as Partey Replacement",
+        "summary": "Arsenal are reportedly in advanced discussions over a deal for a dynamic box-to-box midfielder from Juventus, with Mikel Arteta keen to add legs and press-resistance to his engine room ahead of a Champions League push. The fee is understood to be in the region of £55–60 million.",
         "clubs": [
-          "Liverpool",
-          "Bayer Leverkusen"
+          "Arsenal",
+          "Juventus"
         ]
       },
       {
-        "headline": "Chelsea Revive Interest in Napoli Striker as Attack Rotation Concern Grows",
-        "summary": "Chelsea are understood to have reopened dialogue with Napoli over a forward option, with Enzo Maresca keen to add a more clinical No.9 profile to complement his current attacking options. Napoli's asking price remains a stumbling block, with the clubs approximately £20 million apart in their valuations.",
+        "headline": "Manchester United Eye Bundesliga Striker as Ten Hag Successor Plans Attack Rebuild",
+        "summary": "United's new sporting structure is monitoring a prolific Bundesliga forward with 18 goals this season, viewed as a long-term successor to the misfiring current frontline. Personal terms are not yet discussed, with the club awaiting clarity on their own European qualification status before committing to a significant outlay.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Manchester United",
+          "Bayer Leverkusen"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The most anticipated fixture of the Premier League weekend pits an Arsenal side desperate to claw back ground in the title race against a Manchester City team that has rediscovered their rhythm after a patchy mid-season. Arsenal's formidable home form at the Emirates makes them slight favorites, but City's relentless pressing and Haaland's predatory instincts give the visitors a genuine path to three points. The tactical battle between Arteta's high defensive line and City's runners in behind will be the defining subplot of what promises to be a genuinely pivotal afternoon.",
+      "home": "Liverpool",
+      "away": "Chelsea",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "Anfield hosts a pivotal top-four clash as Liverpool look to reassert their title credentials after back-to-back draws, while Chelsea arrive in their best run of form since Enzo Maresca took charge, having won five of their last six. The tactical battle between Liverpool's high press and Chelsea's rapid transitional play promises to be decisive — set pieces could prove the difference given both sides' defensive vulnerabilities from dead balls this season.",
       "key_players": [
-        "Bukayo Saka",
-        "Erling Haaland",
-        "Martin Ødegaard"
+        "Mohamed Salah",
+        "Cole Palmer",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected back for final weeks of season; fitness being managed carefully"
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Assessed day-to-day; targeting return within 7–10 days"
       },
       {
-        "player": "Ben White",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Assessed day-to-day; possible return within 7–10 days if scan results are positive"
+        "player": "Romeo Lavia",
+        "team": "Chelsea",
+        "status": "Recovering",
+        "return": "Expected back in full training within two weeks; this match likely too soon"
       }
     ]
   },
@@ -297,62 +297,62 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10 years to maturity, and a face value of $1,000 is priced at $926.40. An investor purchases this bond and holds it to maturity, reinvesting all coupons at 5% annually. Which of the following best describes the investor's realized yield relative to the bond's yield to maturity (YTM)?",
+      "question": "A bond with a 6% annual coupon, $1,000 face value, and 5 years to maturity is priced at $1,054.17. If the yield-to-maturity increases by 50 basis points, which of the following best describes the expected price change, assuming modified duration is 4.21 years and convexity is 20.4?",
       "options": {
-        "A": "The realized yield will equal the YTM because the bond is held to maturity.",
-        "B": "The realized yield will exceed the YTM because coupons are reinvested at a rate above the coupon rate.",
-        "C": "The realized yield will be less than the YTM because coupons are reinvested at a rate below the YTM.",
-        "D": "The realized yield will equal the coupon rate because the bond is held to maturity."
+        "A": "Price decreases by approximately $21.05, ignoring convexity",
+        "B": "Price decreases by approximately $20.54, with convexity adding approximately $0.26 to the price change",
+        "C": "Price decreases by approximately $22.17, with convexity subtracting from the price change",
+        "D": "Price increases by approximately $21.05, because yields and prices move in the same direction"
       },
-      "correct": "C",
-      "explanation": "YTM implicitly assumes that all coupon payments are reinvested at the YTM itself. When coupons are reinvested at a rate below the YTM, the total future value of reinvested coupons falls short of the YTM assumption, causing the realized (horizon) yield to be less than the YTM. In this case the YTM is approximately 7%, but reinvestment occurs at only 5%, creating reinvestment risk that reduces the realized return. This is a core concept in fixed income: reinvestment risk means that falling rates hurt bond investors through lower coupon reinvestment income, even when they hold to maturity."
+      "correct": "B",
+      "explanation": "The price change using duration alone is approximately −(ModDuration × ΔY × Price) = −(4.21 × 0.005 × 1,054.17) ≈ −$22.19. The convexity adjustment adds back approximately ½ × Convexity × (ΔY)² × Price = 0.5 × 20.4 × (0.005)² × 1,054.17 ≈ +$0.27, resulting in a net price decrease of roughly $21.92. Option B most closely captures the directional logic that convexity is always a positive adjustment for a standard bond, partially offsetting the duration-based price decline. Convexity benefits the bondholder in both rising and falling yield environments."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Interest Rate Risk",
-      "subtitle": "How mismatches between asset and liability durations expose financial institutions to interest rate swings.",
+      "title": "The Term Premium and Yield Curve Control",
+      "subtitle": "How central bank intervention distorts the compensation investors receive for holding long-duration bonds.",
       "paragraphs": [
-        "The duration gap is a measure used by banks and financial institutions to quantify their net exposure to interest rate movements. It is calculated as the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for the leverage ratio. A positive duration gap means assets reprice more slowly than liabilities, making the institution vulnerable when rates rise — the market value of assets falls more than the market value of liabilities, eroding equity. A negative duration gap implies the reverse: falling rates reduce net worth.",
-        "The collapse of Silicon Valley Bank in March 2023 is a textbook illustration of duration gap risk. SVB had loaded its balance sheet with long-duration U.S. Treasuries and mortgage-backed securities during the low-rate era, funded primarily by short-term, rate-sensitive deposits from venture capital clients. As the Federal Reserve hiked rates aggressively, the market value of SVB's long-duration assets plummeted while its deposit liabilities repriced almost immediately. The resulting duration gap — estimated at over 5 years — meant a relatively modest rate increase produced catastrophic losses on a mark-to-market basis, triggering a bank run and ultimate failure.",
-        "For risk managers and investors, duration gap analysis is a critical input in asset-liability management (ALM). Institutions typically target a near-zero duration gap or hedge residual exposure using interest rate swaps, where paying fixed and receiving floating effectively shortens asset duration. Investors analyzing bank stocks should scrutinize disclosed duration gaps and unrealized losses in held-to-maturity (HTM) portfolios, as accounting treatment can obscure true economic exposure until a liquidity event forces realization of losses."
+        "The term premium is the extra return investors demand for holding a longer-maturity bond rather than rolling over a series of short-term instruments. It compensates for uncertainty around future inflation, interest rates, and the opportunity cost of tying up capital. In a free market, this premium is positive and rises with maturity — but it can be compressed or even turned negative when central banks aggressively intervene in long-end bond markets through quantitative easing or explicit yield curve control (YCC) policies.",
+        "Japan's Bank of Japan pioneered modern YCC in 2016, capping 10-year JGB yields near zero to stimulate inflation. The policy held for years but came under severe stress in 2022–2023 as global inflation surged and the BoJ was forced to widen and ultimately abandon its yield band, triggering sharp yen volatility and a global repricing of duration risk. Similarly, the Federal Reserve's post-COVID bond purchases suppressed U.S. term premiums to historic lows, arguably fueling the equity and real estate bubbles that subsequently corrected when policy normalized.",
+        "For fixed income investors and risk managers, compressed term premiums represent a hidden risk: bonds appear fairly priced on yield metrics but carry enormous sensitivity to any policy normalization. When the term premium mean-reverts — as it did in 2022 — long-duration portfolios suffer outsized losses. Portfolio managers should monitor ACM or Kim-Wright term premium models published by the New York Fed as early-warning tools and consider duration-hedging strategies or a barbell approach when premiums appear artificially suppressed."
       ],
       "key_takeaways": [
-        "A positive duration gap exposes a bank to rising rates, as asset values fall faster than liability values, reducing equity.",
-        "The SVB collapse demonstrated how accounting choices (HTM classification) can mask duration gap risk until a liquidity crisis surfaces it.",
-        "Interest rate swaps and careful ALM are the primary tools institutions use to manage and hedge duration gap exposure."
+        "The term premium is the yield compensation for duration uncertainty; it is not fixed and can be structurally suppressed by central bank policy.",
+        "Yield curve control policies create fragile equilibria — when they break, the repricing is rapid and severe, as seen in Japan and globally in 2022.",
+        "Risk managers should use empirical term premium models (ACM, Kim-Wright) alongside standard duration metrics to assess true long-end bond risk."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved in a bank",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened that cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-san' as 'yo, son — here's your spending plan.' The 予 character means 'in advance' and 算 means 'calculate,' so a budget is literally something calculated in advance."
+      "example_jp": "毎月、給料の一部を貯金しています。",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_en": "Every month, I save part of my salary.",
+      "grammar_point": "〜ています (te-form + imasu)",
+      "grammar_explanation": "The pattern verb-te + います expresses a habitual or ongoing action in Japanese. Here, 貯金しています means 'I am (habitually) saving' — it describes something the speaker does regularly, not just right now.",
+      "memory_tip": "Think of 'CHO-KIN' as 'Cho keeps kin (coins)' — Cho is very disciplined and always keeps her coins safe in the bank. The image of coins clinking in a piggy bank helps lock in 貯金 = savings."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Transforming How Investment Firms Process Earnings Data",
-      "summary": "A new generation of autonomous AI agents — systems capable of planning multi-step tasks without human prompting — are being deployed by asset managers to ingest, parse, and synthesize earnings call transcripts, SEC filings, and macroeconomic data releases in real time. Firms like BlackRock, Point72, and a growing cohort of quant hedge funds are moving beyond simple NLP sentiment tools toward agentic systems that can cross-reference a CEO's forward guidance against historical accuracy, flag accounting anomalies, and generate preliminary analyst memos in minutes. The competitive advantage is no longer just speed but depth: these systems contextualize information across thousands of documents simultaneously, something no human analyst team can replicate. The implication is a structural shift in how fundamental research is produced and priced into markets.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Roles at Major Banks",
+      "summary": "Large financial institutions including JPMorgan, HSBC, and several European lenders are accelerating deployment of machine learning models for credit underwriting, moving beyond simple FICO-based scoring toward multi-dimensional behavioral and alternative data inputs. These models can process thousands of signals — from cash flow patterns to supply chain data — in milliseconds, dramatically compressing underwriting timelines and improving default prediction accuracy on SME and consumer loan books. Regulators in the EU and U.S. are responding with model explainability requirements (notably under the EU AI Act's high-risk classification for credit decisions), creating new compliance demands. The result is a bifurcated talent market: demand is surging for professionals who can both build these models and explain them to regulators and credit committees.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously break down complex goals into sub-tasks, execute them sequentially, and adapt based on intermediate results — moving beyond single-prompt responses to multi-step reasoning pipelines relevant for financial research workflows."
+          "term": "Explainable AI (XAI)",
+          "definition": "A family of techniques — such as SHAP values and LIME — that break open 'black box' ML models to show which input features drove a specific credit or risk decision, satisfying regulatory transparency requirements."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries a proprietary database of documents (e.g., filings, research reports) before generating a response, grounding its output in specific, verifiable source material rather than relying solely on training data — critical for compliance-sensitive financial applications."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources used to assess creditworthiness or market signals, including satellite imagery, social media sentiment, payment network data, and web-scraped supply chain indicators."
         },
         {
-          "term": "Alternative Data Integration",
-          "definition": "The process of feeding non-traditional data sources — satellite imagery, credit card transactions, web traffic, job postings — into AI models to generate investment signals that are not yet reflected in consensus estimates or public financial statements."
+          "term": "Model Risk Management (MRM)",
+          "definition": "The governance framework — guided by SR 11-7 in the U.S. — for validating, monitoring, and controlling the risk that AI/ML models produce incorrect outputs that lead to financial loss or regulatory breach."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, evaluate, and govern AI-driven research pipelines will command significant premiums over those who merely consume their outputs. The highest-value skill set is emerging at the intersection of domain expertise (credit analysis, risk modeling) and AI literacy — professionals who can identify where model outputs are unreliable, structure prompts effectively, and translate AI-generated insights into actionable investment decisions will be the ones leading teams within five years."
+      "career_insight": "Credit analysts and risk managers who understand both the statistical mechanics of gradient boosting or neural network models and the regulatory frameworks governing their use (SR 11-7, EU AI Act) are commanding significant hiring premiums. The most resilient finance career posture combines domain expertise in credit or market risk with fluency in Python-based model validation and a working knowledge of fairness and explainability toolkits — a combination that pure quants and pure credit professionals both currently lack."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a delicate balancing act as investors reprice the pace of Fed easing in response to stickier-than-expected core services inflation, with the rates market now pricing fewer than two cuts through year-end. The dollar has firmed on the repricing, pressuring EM currencies and commodities, while credit spreads in high yield have widened modestly — a sign that liquidity is being tested at the margins though not yet stressed. Risk appetite remains conditionally positive: mega-cap tech continues to provide index support on AI capex narratives, but breadth has narrowed, and any upside surprise in this week's PCE print could catalyze a sharper duration sell-off that tests equity multiples at current levels."
+    "market_sentiment": "Global risk appetite is cautiously constructive this morning as U.S. Treasury yields stabilize near the 4.40% level on the 10-year following a softer-than-expected core PCE print, relieving some pressure on rate-sensitive equities and EM carry trades. The dollar index (DXY) is holding in a narrow range, though JPY is firming modestly as BoJ Governor Ueda's recent commentary has markets pricing a 60% probability of another 25bps hike before year-end. Commodity markets remain the key macro wildcard — Brent crude is drifting lower on demand uncertainty out of China, while gold consolidates near all-time highs, reflecting persistent structural demand from central bank reserve diversification away from dollar assets."
   }
 }
