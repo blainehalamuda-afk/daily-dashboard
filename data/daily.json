@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:52 PM UTC",
-  "date": "Saturday, August 1, 2026",
+  "generated_at": "12:53 PM UTC",
+  "date": "Sunday, August 2, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 76,
-    "feels_like_f": 78,
-    "high_f": 78,
-    "low_f": 75,
+    "temp_f": 73,
+    "feels_like_f": 75,
+    "high_f": 75,
+    "low_f": 73,
     "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 90,
-    "wind_mph": 6,
+    "humidity": 96,
+    "wind_mph": 1,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "🌧️",
-        "high": 72,
-        "low": 72,
-        "description": "Light Rain"
-      },
       {
         "day": "Mon",
         "icon": "☁️",
-        "high": 72,
-        "low": 72,
+        "high": 73,
+        "low": 73,
         "description": "Overcast Clouds"
       },
       {
         "day": "Tue",
         "icon": "☁️",
+        "high": 74,
+        "low": 74,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "🌧️",
         "high": 72,
         "low": 72,
-        "description": "Overcast Clouds"
+        "description": "Light Rain"
       }
     ]
   },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63105.21,
-        "change": -581.23,
-        "change_pct": -0.91,
-        "up": false,
+        "price": 63120,
+        "change": 13.15,
+        "change_pct": 0.02,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1869.3,
-        "change": -9.52,
-        "change_pct": -0.51,
+        "price": 1856.85,
+        "change": -12.43,
+        "change_pct": -0.66,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "South Korea’s Kospi index jumps nearly 18% on a surge in chipmaking stocks - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/stock-markets-rates-korea-ai-oil-e31b3a442bcb957a53f1823ef21e73e8",
-        "description": "World markets have advanced and South Korea’s Kospi index has jumped nearly 18% as artificial intelligence-related stocks bounce back after losses earlier this week. U.S. futures edged higher and oil ",
-        "published": "10:25 AM UTC",
+        "title": "Bessent and the Fed Help Japan Reverse Months of Yen Losses - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-01/bessent-and-the-fed-help-japan-reverse-months-of-yen-losses",
+        "description": "The US joined Japan in engineering one of the most notable rebounds in the yen since the currency began its years-long slide, a decline that’s stoked inflation in the Asian nation and rippled through ",
+        "published": "10:12 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Why Amazon (AMZN) Stock Is Jumping 10% Despite a Massive AI Capex Hike - Barron's",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/amazon-earnings-stock-price-bdf5ec40",
-        "description": "Amazon’s revenue for the quarter reached $201 billion, above expectations of $197 billion, and up 20% on the year.",
-        "published": "9:57 AM UTC",
+        "title": "For sale: early access to Trump's Truth Social posts - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+        "description": "The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.",
+        "published": "9:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Nasdaq futures rise as Wall Street rebounds; South Korea's Kospi soars 15%: Live updates - cnbc.com",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
-        "description": "The after-hours moves followed a powerful rally during Thursday's regular session, led by Microsoft.",
-        "published": "7:11 AM UTC",
+        "title": "Nearly 12 million bottles of Rohto eye drops over sterility concerns, FDA announces - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/lifestyle/nearly-12-million-bottles-rohto-eye-drops-over-sterility-concerns-fda-announces",
+        "description": "Nearly 12 million bottles of Rohto Cooling Eye Drops face a Class II recall over lack of assurance of sterility, affecting eight product lines.",
+        "published": "8:21 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Sony Says It's Not Backing Down From Ending PlayStation Discs - kotaku.com",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708",
-        "description": "The PS5 maker said it already put a lot of thought into the decision",
-        "published": "8:12 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "The Most Polarizing Mario Game Is About To Come To Switch 2 - kotaku.com",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/super-mario-sunshine-is-coming-to-switch-2-2000720607",
-        "description": "The underrated 3D Mario game will be part of Switch Online's GameCube library",
-        "published": "4:24 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Tim Cook praises John Ternus again in Apple's Q3 2026 earnings call - mashable.com",
+        "title": "Google Pixel 11: Every rumor, leak, and confirmed fact - Mashable",
         "source": "Mashable",
-        "url": "https://mashable.com/tech/apple-tim-cook-ternus-earnings-call-q3-2026",
-        "description": "The tech giant has been working to ensure a smooth transition for its incoming CEO.",
-        "published": "1:40 AM UTC",
+        "url": "https://mashable.com/tech/google-pixel-11-everything-we-know",
+        "description": "What's up with Google's next batch of flagships?",
+        "published": "9:46 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Tankers Are Being Blown Out of the Water. See How Mideast Strikes Are Piling Up. - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/world/middle-east/tankers-are-being-blown-out-of-the-water-see-how-mideast-strikes-are-piling-up-00801570",
-        "description": "",
-        "published": "9:30 AM UTC",
+        "title": "Samsung Galaxy S27 Ultra leak reveals massive camera and battery overhaul - Android Central",
+        "source": "Android Central",
+        "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-massive-camera-and-battery-overhaul",
+        "description": "A new leak points to a silicon-carbon battery and a redesigned camera island for Samsung's next Ultra model.",
+        "published": "3:21 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/us-israel-iran-war-energy-related-targets-trump/",
+        "description": "The U.S. and Israel plan to hit Iran's energy infrastructure as soon as this weekend, although no final decision has been made, sources familiar with the matter told CBS News.",
+        "published": "12:36 PM UTC",
         "category": "General"
       },
       {
-        "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott - aljazeera.com",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott",
-        "description": "European football’s governing body has voted to boycott FIFA if World Cup plans pursued, but global body undeterred.",
-        "published": "7:28 AM UTC",
+        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyljq79kdko",
+        "description": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+        "published": "12:03 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "No one knew why she fainted so often. A clinical trial gave her hope. - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/health/2026/08/01/no-one-knew-why-she-fainted-so-often-clinical-trial-gave-her-hope/",
+        "description": "Her symptoms looked like panic attacks, and epilepsy medication made her sick. Finding an answer took years.",
+        "published": "11:35 AM UTC",
         "category": "General"
       }
     ]
@@ -251,30 +251,30 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Target Juventus Midfielder as Partey Replacement",
-        "summary": "Arsenal are reportedly in advanced discussions over a deal for a dynamic box-to-box midfielder from Juventus, with Mikel Arteta keen to add legs and press-resistance to his engine room ahead of a Champions League push. The fee is understood to be in the region of £55–60 million.",
+        "headline": "Arsenal Eyeing Move for Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Arsenal are reportedly weighing a summer approach for Swedish striker Viktor Gyökeres, whose prolific form in the Champions League has attracted interest from across Europe's top clubs. The Gunners see him as a long-term solution to their centre-forward role as Gabriel Jesus continues to struggle with injury consistency.",
         "clubs": [
           "Arsenal",
-          "Juventus"
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester United Eye Bundesliga Striker as Ten Hag Successor Plans Attack Rebuild",
-        "summary": "United's new sporting structure is monitoring a prolific Bundesliga forward with 18 goals this season, viewed as a long-term successor to the misfiring current frontline. Personal terms are not yet discussed, with the club awaiting clarity on their own European qualification status before committing to a significant outlay.",
+        "headline": "Manchester United in Talks Over Loan Exit for Jadon Sancho",
+        "summary": "Manchester United are said to be exploring a permanent or extended loan exit for Jadon Sancho following his return from Juventus, with Borussia Dortmund reportedly monitoring the situation ahead of a potential reunion. United are eager to clear wages as they restructure the squad under INEOS's new ownership direction.",
         "clubs": [
           "Manchester United",
-          "Bayer Leverkusen"
+          "Borussia Dortmund"
         ]
       }
     ],
     "match_preview": {
       "home": "Liverpool",
-      "away": "Chelsea",
+      "away": "Manchester City",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "Anfield hosts a pivotal top-four clash as Liverpool look to reassert their title credentials after back-to-back draws, while Chelsea arrive in their best run of form since Enzo Maresca took charge, having won five of their last six. The tactical battle between Liverpool's high press and Chelsea's rapid transitional play promises to be decisive — set pieces could prove the difference given both sides' defensive vulnerabilities from dead balls this season.",
+      "preview": "The Premier League's marquee fixture pits title-chasing Liverpool against a Manchester City side desperate to close the gap at the top of the table following a run of inconsistent results. Liverpool come into this one in electric form — unbeaten in their last nine and riding high on the energy of a packed Anfield — while City will look to Erling Haaland to provide the individual brilliance capable of unlocking a resolute Reds defensive unit. The tactical battle between Slot's high-press system and Guardiola's positional play makes this a genuine chess match that could have significant title implications.",
       "key_players": [
         "Mohamed Salah",
-        "Cole Palmer",
+        "Erling Haaland",
         "Virgil van Dijk"
       ]
     },
@@ -283,76 +283,76 @@
         "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Assessed day-to-day; targeting return within 7–10 days"
+        "return": "Expected to be assessed on matchday; potential 1-week absence if not passed fit"
       },
       {
-        "player": "Romeo Lavia",
-        "team": "Chelsea",
+        "player": "Rodri",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected back in full training within two weeks; this match likely too soon"
+        "return": "Long-term — not expected to feature until late spring at earliest following ACL rehabilitation"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 face value, and 5 years to maturity is priced at $1,054.17. If the yield-to-maturity increases by 50 basis points, which of the following best describes the expected price change, assuming modified duration is 4.21 years and convexity is 20.4?",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the most significant limitation of this approach, as highlighted during the 2008 financial crisis?",
       "options": {
-        "A": "Price decreases by approximately $21.05, ignoring convexity",
-        "B": "Price decreases by approximately $20.54, with convexity adding approximately $0.26 to the price change",
-        "C": "Price decreases by approximately $22.17, with convexity subtracting from the price change",
-        "D": "Price increases by approximately $21.05, because yields and prices move in the same direction"
+        "A": "The model overestimates individual default probabilities for investment-grade obligors.",
+        "B": "The model assumes static, linear correlations that fail to capture tail dependence between defaults.",
+        "C": "The model cannot be calibrated to market-observed CDS spreads.",
+        "D": "The model requires the use of historical loss given default (LGD) data, which is unavailable for structured products."
       },
       "correct": "B",
-      "explanation": "The price change using duration alone is approximately −(ModDuration × ΔY × Price) = −(4.21 × 0.005 × 1,054.17) ≈ −$22.19. The convexity adjustment adds back approximately ½ × Convexity × (ΔY)² × Price = 0.5 × 20.4 × (0.005)² × 1,054.17 ≈ +$0.27, resulting in a net price decrease of roughly $21.92. Option B most closely captures the directional logic that convexity is always a positive adjustment for a standard bond, partially offsetting the duration-based price decline. Convexity benefits the bondholder in both rising and falling yield environments."
+      "explanation": "The Gaussian copula model assumes a fixed linear correlation structure between default events, which severely underestimates the joint probability of simultaneous defaults during market stress — a phenomenon known as tail dependence. In 2008, correlations among mortgage-backed securities spiked dramatically, rendering the model's static assumptions catastrophically inaccurate. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence but were not widely adopted in practice. This model risk contributed directly to mispricing of CDO tranches."
     },
     "finance_topic": {
-      "title": "The Term Premium and Yield Curve Control",
-      "subtitle": "How central bank intervention distorts the compensation investors receive for holding long-duration bonds.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Why perfect hedges are rare and how residual risk can quietly undermine a portfolio's protection.",
       "paragraphs": [
-        "The term premium is the extra return investors demand for holding a longer-maturity bond rather than rolling over a series of short-term instruments. It compensates for uncertainty around future inflation, interest rates, and the opportunity cost of tying up capital. In a free market, this premium is positive and rises with maturity — but it can be compressed or even turned negative when central banks aggressively intervene in long-end bond markets through quantitative easing or explicit yield curve control (YCC) policies.",
-        "Japan's Bank of Japan pioneered modern YCC in 2016, capping 10-year JGB yields near zero to stimulate inflation. The policy held for years but came under severe stress in 2022–2023 as global inflation surged and the BoJ was forced to widen and ultimately abandon its yield band, triggering sharp yen volatility and a global repricing of duration risk. Similarly, the Federal Reserve's post-COVID bond purchases suppressed U.S. term premiums to historic lows, arguably fueling the equity and real estate bubbles that subsequently corrected when policy normalized.",
-        "For fixed income investors and risk managers, compressed term premiums represent a hidden risk: bonds appear fairly priced on yield metrics but carry enormous sensitivity to any policy normalization. When the term premium mean-reverts — as it did in 2022 — long-duration portfolios suffer outsized losses. Portfolio managers should monitor ACM or Kim-Wright term premium models published by the New York Fed as early-warning tools and consider duration-hedging strategies or a barbell approach when premiums appear artificially suppressed."
+        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, creating a residual, unhedged exposure. The 'basis' is formally defined as the difference between the spot price of the asset and the futures or derivative price used to hedge it. Even when an instrument is closely related — such as using WTI crude futures to hedge a Brent crude position — differences in delivery terms, liquidity, credit quality, or geography can cause the basis to widen unexpectedly, leaving the hedger exposed to losses.",
+        "A classic real-world example occurred during the March 2020 oil market dislocation, where refiners hedging jet fuel exposure with crude oil futures saw the crack spread — and thus the basis — move violently as demand for refined products collapsed far faster than crude benchmarks reflected. Similarly, fixed-income portfolio managers using Treasury futures to hedge corporate bond holdings routinely face basis risk because credit spreads can widen sharply even as Treasury yields fall, effectively working against both legs of the hedge simultaneously.",
+        "For risk managers, basis risk is particularly insidious because it is often invisible in normal market conditions but materializes precisely when protection is most needed — during stress events. Proper hedge effectiveness testing under IFRS 9 and ASC 815 accounting standards requires firms to quantify and document basis risk on an ongoing basis. Managers should stress-test hedges under historical and hypothetical scenarios, consider rolling hedges to minimize convergence risk near expiry, and evaluate whether cross-hedges truly offset the underlying economic exposure rather than merely correlated price movements."
       ],
       "key_takeaways": [
-        "The term premium is the yield compensation for duration uncertainty; it is not fixed and can be structurally suppressed by central bank policy.",
-        "Yield curve control policies create fragile equilibria — when they break, the repricing is rapid and severe, as seen in Japan and globally in 2022.",
-        "Risk managers should use empirical term premium models (ACM, Kim-Wright) alongside standard duration metrics to assess true long-end bond risk."
+        "Basis risk is the imperfection in any hedge, arising from divergence between the hedged item and the hedging instrument.",
+        "Stress periods amplify basis risk — correlations assumed in normal markets can break down exactly when a hedge is most needed.",
+        "Effective hedge accounting and risk management require continuous monitoring, scenario testing, and documentation of basis behavior."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in a bank",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; financial estimate",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save part of my salary.",
-      "grammar_point": "〜ています (te-form + imasu)",
-      "grammar_explanation": "The pattern verb-te + います expresses a habitual or ongoing action in Japanese. Here, 貯金しています means 'I am (habitually) saving' — it describes something the speaker does regularly, not just right now.",
-      "memory_tip": "Think of 'CHO-KIN' as 'Cho keeps kin (coins)' — Cho is very disciplined and always keeps her coins safe in the bank. The image of coins clinking in a piggy bank helps lock in 貯金 = savings."
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikiite shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something has been done and cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you have set aside for yourself. When your 'yo-san' is gone, it's gone for good — hence the regretful てしまいました ending."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Roles at Major Banks",
-      "summary": "Large financial institutions including JPMorgan, HSBC, and several European lenders are accelerating deployment of machine learning models for credit underwriting, moving beyond simple FICO-based scoring toward multi-dimensional behavioral and alternative data inputs. These models can process thousands of signals — from cash flow patterns to supply chain data — in milliseconds, dramatically compressing underwriting timelines and improving default prediction accuracy on SME and consumer loan books. Regulators in the EU and U.S. are responding with model explainability requirements (notably under the EU AI Act's high-risk classification for credit decisions), creating new compliance demands. The result is a bifurcated talent market: demand is surging for professionals who can both build these models and explain them to regulators and credit committees.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Decisioning at Scale",
+      "summary": "Large financial institutions are deploying large language models and gradient-boosted machine learning ensembles to automate and augment credit underwriting decisions, reducing decisioning time from days to seconds on SME and consumer loan applications. Unlike earlier rule-based scoring systems, these models ingest alternative data — including cash flow patterns, supplier payment histories, and even satellite imagery for agricultural lending — allowing for more granular, dynamic risk assessment. Regulators in the US and EU are increasingly scrutinizing these systems for model explainability and fair lending compliance, pushing institutions toward 'explainable AI' frameworks. The firms that can marry predictive accuracy with regulatory-grade interpretability are gaining significant competitive advantage in loan origination efficiency.",
       "concepts": [
         {
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds a sequence of decision trees, each correcting the errors of the previous one, widely used in credit scoring for its high predictive accuracy on structured tabular data."
+        },
+        {
           "term": "Explainable AI (XAI)",
-          "definition": "A family of techniques — such as SHAP values and LIME — that break open 'black box' ML models to show which input features drove a specific credit or risk decision, satisfying regulatory transparency requirements."
+          "definition": "A set of methods — such as SHAP values and LIME — that make machine learning model predictions interpretable to humans, critical in regulated finance where institutions must justify credit decisions to regulators and customers."
         },
         {
           "term": "Alternative Data",
-          "definition": "Non-traditional data sources used to assess creditworthiness or market signals, including satellite imagery, social media sentiment, payment network data, and web-scraped supply chain indicators."
-        },
-        {
-          "term": "Model Risk Management (MRM)",
-          "definition": "The governance framework — guided by SR 11-7 in the U.S. — for validating, monitoring, and controlling the risk that AI/ML models produce incorrect outputs that lead to financial loss or regulatory breach."
+          "definition": "Non-traditional data sources such as bank transaction flows, utility payments, e-commerce behavior, or geospatial data used to assess creditworthiness for borrowers with limited conventional credit histories."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who understand both the statistical mechanics of gradient boosting or neural network models and the regulatory frameworks governing their use (SR 11-7, EU AI Act) are commanding significant hiring premiums. The most resilient finance career posture combines domain expertise in credit or market risk with fluency in Python-based model validation and a working knowledge of fairness and explainability toolkits — a combination that pure quants and pure credit professionals both currently lack."
+      "career_insight": "Risk managers and credit analysts who understand the mechanics of ML-based underwriting models — not just how to use them but how to validate, stress-test, and explain them — are commanding premium roles at banks, fintechs, and regulators alike. Building proficiency in Python-based model validation, SHAP-based explainability, and SR 11-7 model risk management principles will position finance professionals at the center of the AI-driven transformation of credit markets."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite is cautiously constructive this morning as U.S. Treasury yields stabilize near the 4.40% level on the 10-year following a softer-than-expected core PCE print, relieving some pressure on rate-sensitive equities and EM carry trades. The dollar index (DXY) is holding in a narrow range, though JPY is firming modestly as BoJ Governor Ueda's recent commentary has markets pricing a 60% probability of another 25bps hike before year-end. Commodity markets remain the key macro wildcard — Brent crude is drifting lower on demand uncertainty out of China, while gold consolidates near all-time highs, reflecting persistent structural demand from central bank reserve diversification away from dollar assets."
+    "market_sentiment": "Global risk appetite is cautiously constructive this morning as markets digest a mixed macro backdrop: cooling US core PCE data has reinforced the Fed's patient stance, while the BoJ's incremental yield curve adjustments continue to generate carry-trade unwinds in JPY crosses that ripple through EM assets. Equity markets are range-bound as investors weigh resilient corporate earnings against elevated term premiums in the long end of the Treasury curve, with the 10Y-2Y spread flattening once again overnight. Commodities remain on watch — Brent crude is firm above $82 on OPEC+ supply discipline, but copper softness signals lingering uncertainty about Chinese industrial demand, keeping macro discretionary traders net-short cyclicals into month-end rebalancing flows."
   }
 }
