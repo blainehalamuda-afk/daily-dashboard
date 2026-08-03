@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:53 PM UTC",
-  "date": "Sunday, August 2, 2026",
+  "generated_at": "2:11 PM UTC",
+  "date": "Monday, August 3, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 73,
-    "feels_like_f": 75,
-    "high_f": 75,
-    "low_f": 73,
-    "description": "Overcast Clouds",
+    "temp_f": 76,
+    "feels_like_f": 77,
+    "high_f": 77,
+    "low_f": 74,
+    "description": "Broken Clouds",
     "icon": "☁️",
-    "humidity": 96,
+    "humidity": 93,
     "wind_mph": 1,
     "forecast": [
       {
-        "day": "Mon",
-        "icon": "☁️",
-        "high": 73,
-        "low": 73,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Tue",
-        "icon": "☁️",
-        "high": 74,
-        "low": 74,
-        "description": "Overcast Clouds"
+        "icon": "🌧️",
+        "high": 75,
+        "low": 75,
+        "description": "Light Rain"
       },
       {
         "day": "Wed",
-        "icon": "🌧️",
+        "icon": "☀️",
         "high": 72,
         "low": 72,
-        "description": "Light Rain"
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "high": 73,
+        "low": 73,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 747.03,
-        "change": 5.34,
-        "change_pct": 0.72,
+        "price": 753.9,
+        "change": 6.87,
+        "change_pct": 0.92,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 308.91,
-        "change": -24.52,
-        "change_pct": -7.35,
+        "price": 305.59,
+        "change": -3.32,
+        "change_pct": -1.07,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 200.75,
-        "change": 5.71,
-        "change_pct": 2.93,
+        "price": 204.61,
+        "change": 3.86,
+        "change_pct": 1.92,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 311.21,
-        "change": 2.36,
-        "change_pct": 0.76,
+        "price": 317.38,
+        "change": 6.17,
+        "change_pct": 1.98,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63120,
-        "change": 13.15,
-        "change_pct": 0.02,
+        "price": 63380.01,
+        "change": 296.81,
+        "change_pct": 0.47,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1856.85,
-        "change": -12.43,
-        "change_pct": -0.66,
-        "up": false,
+        "price": 1858.76,
+        "change": 4.21,
+        "change_pct": 0.23,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Bessent and the Fed Help Japan Reverse Months of Yen Losses - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-01/bessent-and-the-fed-help-japan-reverse-months-of-yen-losses",
-        "description": "The US joined Japan in engineering one of the most notable rebounds in the yen since the currency began its years-long slide, a decline that’s stoked inflation in the Asian nation and rippled through ",
-        "published": "10:12 AM UTC",
+        "title": "Fidelity breaks down IRA rules that catch heirs off guard - thestreet.com",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/retirement/fidelity-inherited-ira-10-year-rule-penalty",
+        "description": "",
+        "published": "12:17 PM UTC",
         "category": "Business"
       },
       {
-        "title": "For sale: early access to Trump's Truth Social posts - NPR",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-        "description": "The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.",
-        "published": "9:00 AM UTC",
+        "title": "Raising Cane's to open 7 new restaurants. See locations - usatoday.com",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/money/food/2026/08/02/raising-canes-opening-new-restaurants-august-2026/91080094007/",
+        "description": "The company plans to open seven restaurants including two in new markets.",
+        "published": "12:11 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Nearly 12 million bottles of Rohto eye drops over sterility concerns, FDA announces - Fox Business",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/lifestyle/nearly-12-million-bottles-rohto-eye-drops-over-sterility-concerns-fda-announces",
-        "description": "Nearly 12 million bottles of Rohto Cooling Eye Drops face a Class II recall over lack of assurance of sterility, affecting eight product lines.",
-        "published": "8:21 AM UTC",
+        "title": "Gen-Alpha’s Warren Buffett, Leopold Aschenbrenner, just learned Wall Street’s oldest lesson: Chart of the Day - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/article/leopold-aschenbrenner-just-learned-wall-streets-oldest-lesson-chart-of-the-day-120146045.html",
+        "description": "The chip wipeout reached a climax this week. One of the AI boom's most prescient young investors was caught at the center of it.",
+        "published": "12:01 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Google Pixel 11: Every rumor, leak, and confirmed fact - Mashable",
-        "source": "Mashable",
-        "url": "https://mashable.com/tech/google-pixel-11-everything-we-know",
-        "description": "What's up with Google's next batch of flagships?",
-        "published": "9:46 AM UTC",
+        "title": "I tracked sleep with Galaxy Watch Ultra 2, Fitbit Air, and Oura Ring 5. This is the one I'd buy - Android Police",
+        "source": "Android Police",
+        "url": "https://www.androidpolice.com/i-tracked-sleep-with-the-galaxy-watch-ultra-2-fitbit-air-and-oura-ring-5/",
+        "description": "Which one should you share your bed with?",
+        "published": "12:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Samsung Galaxy S27 Ultra leak reveals massive camera and battery overhaul - Android Central",
-        "source": "Android Central",
-        "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-massive-camera-and-battery-overhaul",
-        "description": "A new leak points to a silicon-carbon battery and a redesigned camera island for Samsung's next Ultra model.",
-        "published": "3:21 AM UTC",
+        "title": "Hotel Wi-Fi phishing attack targets Microsoft logins - Fox News",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/tech/hotel-wi-fi-phishing-attack-targets-microsoft-logins",
+        "description": "Hackers are compromising hotel Wi-Fi gateways to redirect business travelers to fake Microsoft 365 login pages that can bypass multifactor authentication.",
+        "published": "11:41 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/us-israel-iran-war-energy-related-targets-trump/",
-        "description": "The U.S. and Israel plan to hit Iran's energy infrastructure as soon as this weekend, although no final decision has been made, sources familiar with the matter told CBS News.",
-        "published": "12:36 PM UTC",
+        "title": "5 Of The Best Anker Accessories For Samsung Users - bgr.com",
+        "source": "BGR",
+        "url": "https://www.bgr.com/2224136/best-anker-accessories-samsung-users/",
+        "description": "Anker's accessory portfolio for Samsung phones includes wireless charging stands, fast-charging bricks, and even USB-C dongles to connect external devices.",
+        "published": "9:47 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Live updates: US-Iran war news; Trump calls off strikes subject to deal being ‘rapidly’ reached - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/02/world/live-news/iran-war-trump",
+        "description": "Iran has not publicly changed its stance on the Strait of Hormuz or acknowledged talks, even as President Donald Trump calls off US strikes for now. Follow for live updates.",
+        "published": "1:56 PM UTC",
         "category": "General"
       },
       {
-        "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clyljq79kdko",
-        "description": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-        "published": "12:03 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "No one knew why she fainted so often. A clinical trial gave her hope. - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/health/2026/08/01/no-one-knew-why-she-fainted-so-often-clinical-trial-gave-her-hope/",
-        "description": "Her symptoms looked like panic attacks, and epilepsy medication made her sick. Finding an answer took years.",
-        "published": "11:35 AM UTC",
+        "title": "Coco Jones Marries NBA Star Donovan Mitchell in Stunning Wedding Ceremony - TMZ",
+        "source": "TMZ",
+        "url": "https://www.tmz.com/2026/08/02/coco-jones-marries-donovan-mitchell/",
+        "description": "Wedding bells are ringing for Donovan Mitchell and Coco Jones ... the Cleveland Cavaliers superstar and Grammy-winning R&B singer are officially husband and wife!!!",
+        "published": "12:57 PM UTC",
         "category": "General"
       }
     ]
@@ -251,27 +251,27 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Eyeing Move for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Arsenal are reportedly weighing a summer approach for Swedish striker Viktor Gyökeres, whose prolific form in the Champions League has attracted interest from across Europe's top clubs. The Gunners see him as a long-term solution to their centre-forward role as Gabriel Jesus continues to struggle with injury consistency.",
+        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are understood to have opened dialogue with representatives of a top Bundesliga midfielder as Mikel Arteta looks to add dynamic ball-winning quality to the engine room ahead of a potential Thomas Partey departure in the summer window. The Gunners face competition from Atletico Madrid for the player's signature.",
         "clubs": [
           "Arsenal",
-          "Sporting CP"
+          "Atletico Madrid"
         ]
       },
       {
-        "headline": "Manchester United in Talks Over Loan Exit for Jadon Sancho",
-        "summary": "Manchester United are said to be exploring a permanent or extended loan exit for Jadon Sancho following his return from Juventus, with Borussia Dortmund reportedly monitoring the situation ahead of a potential reunion. United are eager to clear wages as they restructure the squad under INEOS's new ownership direction.",
+        "headline": "Chelsea Close to Agreement for Prolific Serie A Striker — Fee Around £60m",
+        "summary": "Chelsea are reportedly in advanced talks to sign a proven Serie A forward as Enzo Maresca seeks a reliable No.9 to complement Nicolas Jackson, with personal terms understood to be largely agreed and only club-to-club fee structure remaining as a sticking point. A deal could be concluded before the end of the January window.",
         "clubs": [
-          "Manchester United",
-          "Borussia Dortmund"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Manchester City",
+      "home": "Manchester City",
+      "away": "Liverpool",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's marquee fixture pits title-chasing Liverpool against a Manchester City side desperate to close the gap at the top of the table following a run of inconsistent results. Liverpool come into this one in electric form — unbeaten in their last nine and riding high on the energy of a packed Anfield — while City will look to Erling Haaland to provide the individual brilliance capable of unlocking a resolute Reds defensive unit. The tactical battle between Slot's high-press system and Guardiola's positional play makes this a genuine chess match that could have significant title implications.",
+      "preview": "The standout fixture of the Premier League weekend pits a resurgent Manchester City side, who have quietly climbed back into top-four contention after a difficult autumn, against a Liverpool team that leads the table and will be looking to assert their title credentials at the Etihad. City manager Pep Guardiola faces a selection dilemma with two key midfielders carrying knocks, while Arne Slot's Liverpool arrive brimming with confidence on the back of five consecutive league wins. The tactical battle between City's high press and Liverpool's vertical transition play makes this one of the most anticipated clashes of the season.",
       "key_players": [
         "Mohamed Salah",
         "Erling Haaland",
@@ -280,79 +280,79 @@
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; potential 1-week absence if not passed fit"
-      },
-      {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Long-term — not expected to feature until late spring at earliest following ACL rehabilitation"
+        "return": "Long-term — not expected before late February at earliest"
+      },
+      {
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed day-to-day; could return within 7-10 days"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the most significant limitation of this approach, as highlighted during the 2008 financial crisis?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure Models",
+      "question": "An analyst is evaluating two bonds using the Cox-Ingersoll-Ross (CIR) model versus the Vasicek model for interest rate dynamics. Which of the following statements BEST distinguishes the CIR model from the Vasicek model?",
       "options": {
-        "A": "The model overestimates individual default probabilities for investment-grade obligors.",
-        "B": "The model assumes static, linear correlations that fail to capture tail dependence between defaults.",
-        "C": "The model cannot be calibrated to market-observed CDS spreads.",
-        "D": "The model requires the use of historical loss given default (LGD) data, which is unavailable for structured products."
+        "A": "The Vasicek model prevents negative interest rates by making volatility proportional to the square root of the current rate, while the CIR model does not.",
+        "B": "The CIR model prevents negative interest rates by making volatility proportional to the square root of the current rate, while the Vasicek model allows negative rates.",
+        "C": "Both models allow negative interest rates but the CIR model incorporates mean reversion while the Vasicek model does not.",
+        "D": "The CIR model uses a constant volatility term, making it more suitable for low-rate environments than the Vasicek model."
       },
       "correct": "B",
-      "explanation": "The Gaussian copula model assumes a fixed linear correlation structure between default events, which severely underestimates the joint probability of simultaneous defaults during market stress — a phenomenon known as tail dependence. In 2008, correlations among mortgage-backed securities spiked dramatically, rendering the model's static assumptions catastrophically inaccurate. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence but were not widely adopted in practice. This model risk contributed directly to mispricing of CDO tranches."
+      "explanation": "In the Vasicek model, interest rate volatility is constant, which means rates can theoretically become negative — a mathematical possibility that became practically relevant in post-2008 negative-rate environments. The CIR model addresses this by scaling volatility by the square root of the current rate level, so as rates approach zero, volatility also approaches zero, preventing negative rates. Both models incorporate mean reversion toward a long-run equilibrium rate. The CIR model is therefore generally considered more realistic for standard interest rate environments."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why perfect hedges are rare and how residual risk can quietly undermine a portfolio's protection.",
+      "title": "Basis Risk and Its Hidden Portfolio Dangers",
+      "subtitle": "Why hedging with correlated instruments can leave investors exposed to unexpected losses when correlations break down.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, creating a residual, unhedged exposure. The 'basis' is formally defined as the difference between the spot price of the asset and the futures or derivative price used to hedge it. Even when an instrument is closely related — such as using WTI crude futures to hedge a Brent crude position — differences in delivery terms, liquidity, credit quality, or geography can cause the basis to widen unexpectedly, leaving the hedger exposed to losses.",
-        "A classic real-world example occurred during the March 2020 oil market dislocation, where refiners hedging jet fuel exposure with crude oil futures saw the crack spread — and thus the basis — move violently as demand for refined products collapsed far faster than crude benchmarks reflected. Similarly, fixed-income portfolio managers using Treasury futures to hedge corporate bond holdings routinely face basis risk because credit spreads can widen sharply even as Treasury yields fall, effectively working against both legs of the hedge simultaneously.",
-        "For risk managers, basis risk is particularly insidious because it is often invisible in normal market conditions but materializes precisely when protection is most needed — during stress events. Proper hedge effectiveness testing under IFRS 9 and ASC 815 accounting standards requires firms to quantify and document basis risk on an ongoing basis. Managers should stress-test hedges under historical and hypothetical scenarios, consider rolling hedges to minimize convergence risk near expiry, and evaluate whether cross-hedges truly offset the underlying economic exposure rather than merely correlated price movements."
+        "Basis risk arises when the instrument used to hedge a position does not move in perfect lockstep with the underlying exposure. It is defined as the difference — the 'basis' — between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when a hedge appears well-constructed, residual basis risk means that gains on the hedge may not perfectly offset losses on the underlying, leaving the portfolio exposed to a net profit or loss at the time the hedge is lifted.",
+        "A textbook example occurred during the 2008 financial crisis, when mortgage-backed security (MBS) desks at major banks used liquid credit default swap indices (CDX) to hedge their illiquid MBS exposure. When the subprime market dislocated, MBS spreads blew out dramatically while CDX indices, responding to broad credit market dynamics, widened at a different pace and magnitude. The basis — which had historically been stable and small — exploded, turning what appeared to be hedged books into massive sources of unhedged loss. Airlines hedging jet fuel with crude oil futures face a similar structural basis risk when refining margin spreads shift unexpectedly.",
+        "For risk managers and portfolio managers, basis risk demands explicit measurement and stress testing rather than assuming a hedge is 'on.' Regulatory frameworks like IFRS 9 and hedge accounting standards under ASC 815 require firms to assess and document hedge effectiveness precisely because basis risk can disqualify a position from favorable accounting treatment. Investors should quantify historical basis volatility, scenario-test correlation breakdowns during crisis periods, and size hedges with a basis-adjusted hedge ratio rather than a naive 1:1 notional match."
       ],
       "key_takeaways": [
-        "Basis risk is the imperfection in any hedge, arising from divergence between the hedged item and the hedging instrument.",
-        "Stress periods amplify basis risk — correlations assumed in normal markets can break down exactly when a hedge is most needed.",
-        "Effective hedge accounting and risk management require continuous monitoring, scenario testing, and documentation of basis behavior."
+        "Basis risk is the residual risk remaining after a hedge is placed, driven by imperfect correlation between the hedged asset and the hedging instrument.",
+        "Basis tends to widen sharply during market stress, precisely when hedges are most needed — making stress-testing basis assumptions critical.",
+        "Hedge ratios should be adjusted for expected basis behavior, and positions must be monitored continuously as the basis evolves over the hedge horizon."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial estimate",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikiite shimaimashita.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something has been done and cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you have set aside for yourself. When your 'yo-san' is gone, it's gone for good — hence the regretful てしまいました ending."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened fully and perhaps unintentionally. In this sentence, it conveys the speaker's slight dismay at having spent all the money.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you are allowed to spend. Visualize a wallet with 'YO, that's your SAN (sum)!' written on it to lock in the meaning."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Decisioning at Scale",
-      "summary": "Large financial institutions are deploying large language models and gradient-boosted machine learning ensembles to automate and augment credit underwriting decisions, reducing decisioning time from days to seconds on SME and consumer loan applications. Unlike earlier rule-based scoring systems, these models ingest alternative data — including cash flow patterns, supplier payment histories, and even satellite imagery for agricultural lending — allowing for more granular, dynamic risk assessment. Regulators in the US and EU are increasingly scrutinizing these systems for model explainability and fair lending compliance, pushing institutions toward 'explainable AI' frameworks. The firms that can marry predictive accuracy with regulatory-grade interpretability are gaining significant competitive advantage in loan origination efficiency.",
+      "headline": "AI Agents Are Quietly Reshaping How Banks Conduct Financial Analysis",
+      "summary": "Large financial institutions including JPMorgan, Goldman Sachs, and Bloomberg are deploying autonomous AI agents — systems capable of multi-step reasoning, data retrieval, and report drafting without constant human prompting — across research, compliance, and risk functions. Unlike earlier generation chatbots, these agents can chain together tasks such as pulling earnings data, running scenario models, and generating client-ready commentary in minutes. The shift is compressing the time from raw data to actionable insight from hours to seconds, fundamentally changing the value proposition of junior analyst roles. Finance professionals who understand how to architect, prompt, and supervise these agent workflows are rapidly becoming the most sought-after talent in the industry.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds a sequence of decision trees, each correcting the errors of the previous one, widely used in credit scoring for its high predictive accuracy on structured tabular data."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as retrieving live market data, running calculations, and writing a summary report — with minimal human intervention between steps, moving beyond simple question-and-answer interactions."
         },
         {
-          "term": "Explainable AI (XAI)",
-          "definition": "A set of methods — such as SHAP values and LIME — that make machine learning model predictions interpretable to humans, critical in regulated finance where institutions must justify credit decisions to regulators and customers."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model dynamically fetches relevant documents, filings, or data from an external database before generating a response, enabling it to answer questions grounded in up-to-date or proprietary financial information rather than relying solely on training data."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources such as bank transaction flows, utility payments, e-commerce behavior, or geospatial data used to assess creditworthiness for borrowers with limited conventional credit histories."
+          "term": "Prompt Engineering",
+          "definition": "The discipline of crafting precise instructions and context to guide AI language models toward producing accurate, consistent, and useful outputs — a skill analogous to knowing how to query a Bloomberg terminal effectively, but applied to AI systems."
         }
       ],
-      "career_insight": "Risk managers and credit analysts who understand the mechanics of ML-based underwriting models — not just how to use them but how to validate, stress-test, and explain them — are commanding premium roles at banks, fintechs, and regulators alike. Building proficiency in Python-based model validation, SHAP-based explainability, and SR 11-7 model risk management principles will position finance professionals at the center of the AI-driven transformation of credit markets."
+      "career_insight": "The finance roles most at risk are not those requiring judgment, client relationships, or regulatory accountability — but those centered on templated data gathering and report formatting, tasks AI agents now perform faster and cheaper. The professionals who will thrive are those who develop 'AI supervision' skills: understanding model limitations, catching hallucinations in financial outputs, and redesigning workflows around human-AI collaboration. Adding even a foundational understanding of Python, API integration, or LLM prompt design to a CFA or FRM credential is becoming a meaningful competitive differentiator in hiring."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite is cautiously constructive this morning as markets digest a mixed macro backdrop: cooling US core PCE data has reinforced the Fed's patient stance, while the BoJ's incremental yield curve adjustments continue to generate carry-trade unwinds in JPY crosses that ripple through EM assets. Equity markets are range-bound as investors weigh resilient corporate earnings against elevated term premiums in the long end of the Treasury curve, with the 10Y-2Y spread flattening once again overnight. Commodities remain on watch — Brent crude is firm above $82 on OPEC+ supply discipline, but copper softness signals lingering uncertainty about Chinese industrial demand, keeping macro discretionary traders net-short cyclicals into month-end rebalancing flows."
+    "market_sentiment": "Risk assets are navigating a delicate macro crossroads as markets reprice the Federal Reserve's rate path following a string of hotter-than-expected services inflation prints, pushing back consensus rate cut expectations into late 2025 and steepening the front end of the Treasury curve. Equity markets are exhibiting a bifurcated tone — mega-cap technology names supported by strong AI-driven earnings revisions are holding index levels steady, while rate-sensitive sectors including REITs and regional banks face renewed multiple compression. Commodity markets add a further complicating layer, with crude oil firming on Middle East supply risk premium and a softer dollar providing modest tailwind to EM assets, though China's uneven domestic demand recovery continues to cap enthusiasm for industrial metals."
   }
 }
