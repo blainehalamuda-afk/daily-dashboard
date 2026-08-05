@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:42 PM UTC",
-  "date": "Tuesday, August 4, 2026",
+  "generated_at": "1:38 PM UTC",
+  "date": "Wednesday, August 5, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 77,
-    "feels_like_f": 78,
-    "high_f": 78,
-    "low_f": 75,
-    "description": "Light Rain",
-    "icon": "🌧️",
-    "humidity": 89,
-    "wind_mph": 1,
+    "temp_f": 74,
+    "feels_like_f": 75,
+    "high_f": 75,
+    "low_f": 73,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 94,
+    "wind_mph": 3,
     "forecast": [
       {
-        "day": "Wed",
-        "icon": "☁️",
-        "high": 74,
-        "low": 74,
-        "description": "Broken Clouds"
-      },
-      {
         "day": "Thu",
-        "icon": "☀️",
-        "high": 73,
-        "low": 73,
-        "description": "Clear Sky"
-      },
-      {
-        "day": "Fri",
         "icon": "⛅",
         "high": 74,
         "low": 74,
         "description": "Scattered Clouds"
+      },
+      {
+        "day": "Fri",
+        "icon": "☁️",
+        "high": 74,
+        "low": 74,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "☁️",
+        "high": 74,
+        "low": 74,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 761.91,
-        "change": 4.24,
+        "price": 775.63,
+        "change": 4.3,
         "change_pct": 0.56,
         "up": true,
         "is_crypto": false,
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 303.43,
-        "change": 0.01,
-        "change_pct": 0.0,
-        "up": true,
+        "price": 305.85,
+        "change": -3.53,
+        "change_pct": -1.14,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 211.05,
-        "change": 4.41,
-        "change_pct": 2.13,
+        "price": 219.9,
+        "change": 7.96,
+        "change_pct": 3.76,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 321.8,
-        "change": -0.28,
-        "change_pct": -0.09,
+        "price": 322.52,
+        "change": -4.83,
+        "change_pct": -1.48,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64070.01,
-        "change": 1154.0,
-        "change_pct": 1.83,
+        "price": 64048,
+        "change": 76.3,
+        "change_pct": 0.12,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1875.22,
-        "change": 25.28,
-        "change_pct": 1.37,
-        "up": true,
+        "price": 1861.99,
+        "change": -11.05,
+        "change_pct": -0.59,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "SpaceX is testing market gravity - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/08/03/spacex-stock-lockup-earnings",
-        "description": "Ahead of earnings and the expiration of lockups, Elon Musk's power to drive investor excitement is already fading.",
-        "published": "11:41 AM UTC",
+        "title": "This CD is offering 9%, and another 7.5% — plus 8 more of the best CD APYs of August 2026 - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/picks/this-cd-is-offering-9-and-another-7-5-plus-8-more-of-the-best-cd-apys-of-august-2026-7f7f1a2e",
+        "description": "Average CD rates may sit under 2%, but select banks and credit unions are offering high yields. Here’s what to look for before locking in your cash",
+        "published": "2:27 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Wolverine’s Going To Get His Butt Out In Insomniac’s New Game - Kotaku",
+        "title": "Spotify Climbs to 300 Million Premium Subscribers - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/business/earnings/spotify-spot-q2-earnings-report-2026-stock-a9fdd162",
+        "description": "",
+        "published": "1:16 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Dow futures leap 600 points, S&P 500 poised for record after Bessent says Hormuz deal is close: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
+        "description": "The major stock averages surged Monday, with the Dow closing at a record high, as Amazon eclipsed $3 trillion in market cap for the first time.",
+        "published": "12:43 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Leak confirms Pixel 11 ‘Glow’ is called ‘HiLight’ and what it can do - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/08/04/google-pixel-11-hilight-glow-leak/",
+        "description": "As we reported on last week, the “Pixel Glow” feature coming to the Pixel 11 series is likely going to...",
+        "published": "1:45 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Shift Up CEO Tries To Defend Stellar Blade: Blood Rain Slop Video From Fan Backlash And Continues To Get Roasted: 'Insane Cope' - Kotaku",
         "source": "Kotaku",
-        "url": "https://kotaku.com/wolverine-butt-insomniac-marvel-bottom-bum-rear-ass-cheeks-2000721164",
-        "description": "ESRB's game description reveals all",
-        "published": "11:31 AM UTC",
+        "url": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
+        "description": "Kim Hyung Tae is at odds with some of the sequel's biggest boosters",
+        "published": "1:27 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Exclusive | Believe it, you can buy a NYC apartment for $130K — but there’s 1 tiny catch - New York Post",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/03/real-estate/believe-it-you-can-buy-a-nyc-apartment-for-130k/",
-        "description": "In a borough where the median price of an apartment hovers over $1 million, landing a Manhattan pad for just 10% of that sounds like a fever dream.",
-        "published": "11:30 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Man compares Waze and Google Maps and ends up realizing it's not even a debate as one is too far ahead - supercarblondie.com",
-        "source": "Supercarblondie.com",
-        "url": "https://supercarblondie.com/google-maps-waze-comparison-debate/",
-        "description": "This software writer compared Waze and Google Maps, and his view there's a clear winner between these two hugely popular navigation apps",
-        "published": "10:03 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Washington state wildfires force 60,000 people to evacuate homes - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c3046g80yj7o",
-        "description": "Videos from Spokane - the second most populus city in Washington - show huge plumes of smoke and roaring fires close to nearby houses.",
-        "published": "11:11 AM UTC",
+        "title": "Ariana Grande Says Her Upcoming Break Is Not ‘Impulsive’ Or Due To ‘Negativity’ - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/conormurray/2026/08/04/ariana-grande-says-her-upcoming-break-is-not-impulsive-or-due-to-negativity/",
+        "description": "Ariana Grande told fans at her Monday night Chicago concert she had been planning an upcoming break for a long time, denying it was an “impulsive” decision in response to “negativity.”",
+        "published": "2:10 PM UTC",
         "category": "General"
       },
       {
-        "title": "Clowney chose to return to Houston over chasing money: 'It was a really easy decision' - NFL.com",
-        "source": "NFL News",
-        "url": "https://league-frontend.pocket.nfl.com/news/jadeveon-clowney-chose-to-return-to-houston-over-chasing-money-it-was-a-really-easy-decision",
-        "description": "Pass rusher Jadeveon Clowney decided to return to the Houston Texans, the club that picked him No. 1 overall in 2014.",
-        "published": "10:31 AM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Ariana Grande withdraws from a London musical and will take a break from the public eye - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/ariana-grande-quit-sunday-park-george-london-c155c3d6b912dab58d0a9780964100b2",
-        "description": "Ariana Grande has pulled out of an upcoming stage musical in London. Producers announced she plans to take a break from the public eye after her current tour finishes. Grande was set to star alongside",
-        "published": "10:17 AM UTC",
+        "title": "Column | Here's what happens to your brain when you stop drinking alcohol - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/wellness/2026/08/04/heres-what-happens-your-brain-when-you-stop-drinking-alcohol/",
+        "description": "Though even relatively low levels of drinking can cause harm, the brain can recover to an extent if you stop or cut back, evidence shows.",
+        "published": "12:27 PM UTC",
         "category": "General"
       }
     ]
@@ -243,108 +243,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Eyeing Bundesliga Striker as Rasmus Højlund Cover",
-        "summary": "Manchester United's recruitment team has reportedly identified a dynamic Bundesliga forward as a potential backup and long-term option to ease pressure on Rasmus Højlund, with preliminary conversations understood to be underway. The club is keen to add a proven goal-scorer who can operate across the front line ahead of their summer rebuild.",
+        "headline": "Arsenal Revive Interest in Athletic Club Midfielder Nico Williams",
+        "summary": "Arsenal are reportedly monitoring Nico Williams as a potential summer target to add creativity and width to Mikel Arteta's attack, with his release clause understood to be in the region of £50 million. The Spanish international has been in scintillating form domestically and is attracting interest from several top European clubs.",
         "clubs": [
-          "Manchester United",
-          "Bayer Leverkusen"
+          "Arsenal",
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Arsenal in Advanced Talks for Defensive Midfielder as Partey Replacement",
-        "summary": "Arsenal are understood to be in advanced discussions to sign a combative central midfielder this summer, as the club looks to secure long-term cover and eventually a successor to the injury-prone Thomas Partey. Sporting director Edu is said to have held direct talks with the player's representatives, with a fee in the region of £45 million being negotiated.",
+        "headline": "Manchester United Consider Move for Everton's Jarrad Branthwaite as Centre-Back Search Continues",
+        "summary": "Manchester United's recruitment team are understood to have maintained their long-standing admiration for Everton defender Jarrad Branthwaite, with a potential summer offer being discussed internally as Ruben Amorim looks to rebuild his defensive unit. Everton's precarious financial situation could make negotiations more straightforward than last summer's failed pursuit.",
         "clubs": [
-          "Arsenal",
-          "Atletico Madrid"
+          "Manchester United",
+          "Everton"
         ]
       }
     ],
     "match_preview": {
       "home": "Liverpool",
-      "away": "Chelsea",
-      "date": "Sunday, 3:00 PM BST",
-      "preview": "Anfield hosts a high-stakes top-four battle as Liverpool look to consolidate their Champions League qualification position against a Chelsea side that has shown sharp improvement under their current setup but remains inconsistent on the road. Liverpool come in off a dominant midweek performance and will be buoyed by the return of key attacking talent, while Chelsea must find a way to neutralize Anfield's intensity in a fixture that has historically produced drama. The tactical duel in midfield is likely to define the outcome, with both sides possessing technically gifted ball-carriers who can unlock a compact defensive shape.",
+      "away": "Manchester City",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "This heavyweight clash at Anfield pits a Liverpool side firing on all cylinders under Arne Slot — currently among the Premier League's form teams — against a Manchester City squad still searching for the defensive consistency that defined their Guardiola dynasty. The fixture carries title-race implications, with Liverpool looking to extend their lead at the top while City desperately need points to stay within touching distance of the European spots. All eyes will be on whether City's revamped backline can cope with Liverpool's relentless high press in what promises to be one of the defining matches of the season.",
       "key_players": [
         "Mohamed Salah",
-        "Cole Palmer",
+        "Erling Haaland",
         "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Alisson Becker",
+        "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; possible return within 1 week"
+        "return": "Being assessed ahead of the weekend; targeting return within 7-10 days"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
+        "player": "Rodri",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return in approximately 2-3 weeks following hamstring complaint"
+        "return": "Long-term ACL recovery; targeting return for pre-season 2025-26"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using the KMV-Merton structural credit model. The firm's asset value is $150 million, asset volatility is 25%, the default point is $100 million, and the time horizon is one year. The risk-free rate is 4%. Which of the following best describes the 'distance to default' (DD) and its primary limitation when applied to private firms?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
+      "question": "An analyst is evaluating a bond using the Cox-Ingersoll-Ross (CIR) model. Compared to the Vasicek model, which of the following statements best describes a key structural difference of the CIR model?",
       "options": {
-        "A": "DD equals (Asset Value − Default Point) / (Asset Value × Asset Volatility); its limitation for private firms is that equity prices are unobservable, making asset value and volatility difficult to estimate.",
-        "B": "DD equals ln(Asset Value / Default Point) / Asset Volatility; its limitation for private firms is that bond spreads are too wide to calibrate the model accurately.",
-        "C": "DD equals (Asset Value − Default Point) / Asset Volatility; its limitation is that the model assumes constant interest rates, which distorts results for investment-grade firms.",
-        "D": "DD equals (Asset Value × Risk-Free Rate) / (Default Point × Asset Volatility); its limitation is that private firms have no audited financial statements available."
+        "A": "The CIR model allows for negative interest rates, making it more realistic during low-rate environments.",
+        "B": "The CIR model's volatility term is proportional to the square root of the current interest rate, preventing negative rates.",
+        "C": "The CIR model assumes constant volatility, while the Vasicek model uses stochastic volatility.",
+        "D": "The CIR model does not incorporate mean reversion, distinguishing it from the Vasicek model."
       },
-      "correct": "A",
-      "explanation": "Distance to default in the KMV-Merton framework is computed as (V − K) / (V × σ_V), representing how many standard deviations of asset value separate the firm from its default point. For public firms, equity market prices allow iterative estimation of asset value and volatility via option-pricing relationships. For private firms, the absence of observable equity prices means these inputs must be proxied using comparables or accounting data, introducing significant estimation error and reducing model reliability."
+      "correct": "B",
+      "explanation": "In the CIR model, the diffusion (volatility) term is scaled by the square root of the current rate (√r), which means volatility approaches zero as rates approach zero, effectively preventing negative interest rates. The Vasicek model uses a constant volatility term, allowing theoretically negative rates. Both models incorporate mean reversion; the key structural difference is solely in the volatility specification. This makes CIR more theoretically appealing in standard positive-rate environments."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Understanding why a theoretically perfect hedge can still leave residual risk that surprises even experienced risk managers.",
+      "title": "Basis Risk and Its Hidden Portfolio Dangers",
+      "subtitle": "Basis risk arises when the hedge instrument and the hedged exposure do not move in perfect lockstep, leaving residual risk that can erode or even reverse the benefit of a hedge.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when a hedge is carefully constructed, changes in this spread — due to differences in maturity, credit quality, geography, or liquidity — can result in gains or losses that are entirely unrelated to the original risk being managed.",
-        "A classic real-world example is an airline hedging jet fuel exposure using WTI crude oil futures. While jet fuel and crude oil prices are highly correlated, the spread between them can widen dramatically during refinery disruptions, seasonal demand shifts, or geopolitical events affecting specific grades of petroleum. During the 2022 energy crisis, airlines that had hedged with crude futures found that jet fuel crack spreads blew out to multi-year highs, meaning their hedge covered only a fraction of their actual fuel cost increase — a painful basis risk outcome despite a nominally sound hedging strategy.",
-        "For risk managers and portfolio hedgers, basis risk demands that hedge effectiveness be continuously monitored using regression-based hedge ratios and tracked against P&L attribution reports. Regulatory frameworks such as IFRS 9 and ASC 815 require entities to prospectively and retrospectively assess hedge effectiveness, meaning basis risk can also have direct accounting consequences. Practitioners often weigh the cost of a more precise but less liquid hedge against the residual basis risk of a liquid but imperfect proxy instrument, making this a core trade-off in treasury and risk management."
+        "Basis risk is defined as the risk that the price difference — the 'basis' — between a hedging instrument and the underlying exposure changes unexpectedly. In theory, a perfect hedge eliminates all price risk by holding an offsetting position; in practice, differences in contract specifications, delivery locations, credit quality, or tenor mean the hedge and the exposure rarely move with a correlation of exactly –1. The basis itself therefore becomes a source of P&L volatility even after hedging.",
+        "A classic real-world example emerged during the 2008 financial crisis, when many corporate treasurers hedged floating-rate liabilities using LIBOR-based interest rate swaps while their underlying funding was priced off commercial paper or other short-term rates. As credit spreads on commercial paper exploded while LIBOR moved differently, the basis between the two rates widened dramatically. Firms that believed they were fully hedged found themselves with significant unhedged interest rate and credit spread exposure — a painful lesson in assuming the basis is stable.",
+        "For investors and risk managers, basis risk demands that hedges be stress-tested under scenarios where historical correlations break down — precisely when they are needed most. Monitoring the 'hedge effectiveness ratio' under IFRS 9 or ASC 815 accounting standards requires demonstrating that changes in fair value of the hedge offset 80–125% of changes in the hedged item. A deteriorating basis can push a hedge outside this range, triggering dedesignation and immediate P&L recognition of mark-to-market moves that were expected to be deferred."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedging instrument and the underlying exposure.",
-        "Even highly correlated assets like crude oil and jet fuel can experience significant spread volatility, eroding hedge effectiveness at critical moments.",
-        "Risk managers must continuously measure and report hedge effectiveness to satisfy both internal risk governance and external accounting standards."
+        "Basis risk is the residual, often underestimated risk that persists even after a hedge is in place, stemming from imperfect correlation between the hedge and the exposure.",
+        "Basis can widen sharply during stress events — correlation breakdowns in crises are a primary reason hedges fail when they matter most.",
+        "Accounting standards require ongoing hedge effectiveness testing; a widening basis can trigger dedesignation and unexpected P&L volatility."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; commitment",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — as if something happened that cannot be undone. It combines the te-form of a verb with しまう (shimau) in its polite past form.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you planned to spend. Picture counting out your last coins and saying 'yo, that's my SAN (sum)!'"
+      "example_jp": "彼は必ず約束を守る人です。",
+      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
+      "example_en": "He is a person who always keeps his promises.",
+      "grammar_point": "〜を守る (wo mamoru)",
+      "grammar_explanation": "The pattern 〜を守る means 'to keep/observe [something]', where を marks the direct object. It is commonly paired with words like 約束 (promise), ルール (rules), or 時間 (time) to express upholding a commitment or following a rule.",
+      "memory_tip": "Imagine a 'yakuza' (ヤクザ) who shakes on a 'soku' (足 = foot) deal — even a gangster keeps his promise; that unbreakable handshake is your 約束."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Investment Banks Process Risk Data",
-      "summary": "A new generation of agentic AI systems — capable of autonomously executing multi-step workflows — is being piloted inside major investment banks for tasks ranging from credit memo drafting to real-time regulatory capital calculations. Unlike earlier RPA tools that followed rigid scripts, these agents can interpret unstructured data, query internal databases, and escalate anomalies to human reviewers, compressing work that once took analysts hours into minutes. Firms including JPMorgan, Goldman Sachs, and HSBC have publicly referenced internal LLM deployments targeting middle- and back-office efficiency. The strategic implication is not mass job displacement but significant role compression: fewer junior analysts will be needed for data aggregation, but demand for professionals who can design, audit, and govern these systems is rising sharply.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams and Analyst Roles",
+      "summary": "Major banks and fintechs are deploying large language models and gradient-boosting machine learning systems to automate initial credit underwriting, covenant monitoring, and early-warning surveillance across loan portfolios. Institutions like JPMorgan and HSBC have publicly discussed AI tools that can parse thousands of credit documents, financial statements, and news feeds in seconds to flag deteriorating credits before traditional analyst reviews would catch them. This compresses the time-to-decision dramatically and shifts the human analyst's role from data gathering toward model validation, judgment calls on edge cases, and client relationship management. The competitive advantage increasingly lies in the quality of proprietary training data and the robustness of model governance frameworks.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute sequences of tasks — such as pulling market data, running a model, and formatting a report — without step-by-step human instruction, making them powerful for repetitive analytical workflows in finance."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds decision trees sequentially, each correcting the errors of the prior one — widely used in credit scoring because it handles mixed data types, missing values, and nonlinear relationships between financial ratios and default probability without requiring feature engineering."
+        },
+        {
+          "term": "Model Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) assigns each input variable a contribution score to a model's output for a specific prediction — critical in finance and lending where regulators require institutions to explain why a credit decision was made and to demonstrate the model is not discriminating unlawfully."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where a language model is connected to a live or curated knowledge base — such as a firm's internal research library or regulatory rulebook — so it generates answers grounded in up-to-date, firm-specific information rather than relying solely on training data."
-        },
-        {
-          "term": "Model Risk Governance",
-          "definition": "The framework of policies and controls — including validation, documentation, and ongoing monitoring — that financial institutions apply to AI and quantitative models to ensure their outputs are reliable, explainable, and compliant with regulatory expectations such as SR 11-7."
+          "definition": "A technique that connects a large language model to an external, up-to-date knowledge base — in finance, this allows an AI tool to answer questions about a specific borrower by retrieving live financial filings, news, and covenant documents rather than relying solely on static training data, improving accuracy and reducing hallucination risk."
         }
       ],
-      "career_insight": "Finance professionals who understand both the quantitative foundations of risk models and the mechanics of how AI systems are built and validated are becoming exceptionally valuable. Firms are actively hiring 'model risk validators' with Python fluency and 'AI governance leads' who can translate regulatory requirements into technical guardrails. Building skills at the intersection of financial domain expertise and AI literacy — not just one or the other — is the highest-leverage career investment available today."
+      "career_insight": "Credit analysts and risk managers who can serve as 'AI translators' — professionals who understand both the financial substance of underwriting decisions and the mechanics of the models making them — are commanding a significant premium in hiring. Building skills in Python-based model validation, familiarity with SHAP or LIME explainability tools, and understanding of model risk management frameworks (SR 11-7) will differentiate candidates in an increasingly automated credit function."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment has turned cautiously constructive heading into the session, with US equity futures nudging higher as markets digest a slightly softer-than-expected core PCE print that has reinvigorated rate-cut speculation for late 2025. The USD is marginally weaker on a trade-weighted basis, providing a tailwind for EM assets and commodities, with gold testing resistance near recent highs as real yields drift lower. Credit spreads remain tight in investment-grade but HY is showing early signs of differentiation, particularly in consumer discretionary names where earnings revisions have begun to turn negative — a dynamic worth watching as the Q2 reporting season approaches."
+    "market_sentiment": "Global risk assets are navigating a cautious consolidation phase as markets reprice the 'higher-for-longer' rate narrative following resilient US labor data and stickier-than-expected services inflation, pushing back aggressive Fed cut expectations toward late 2025. The USD has firmed modestly on the rate differential story, adding pressure to EM currencies and commodity prices, while credit spreads in high-yield have widened slightly — a signal that the soft-landing consensus is being tested rather than abandoned. Equities are holding near highs on strong mega-cap earnings, but breadth is narrowing, and the dispersion between rate-sensitive sectors (utilities, real estate) and AI-driven tech names suggests a market increasingly dependent on a narrow growth narrative rather than broad macro recovery."
   }
 }
