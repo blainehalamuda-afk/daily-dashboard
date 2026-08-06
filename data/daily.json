@@ -1,38 +1,38 @@
 {
-  "generated_at": "1:38 PM UTC",
-  "date": "Wednesday, August 5, 2026",
+  "generated_at": "1:30 PM UTC",
+  "date": "Thursday, August 6, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 74,
-    "feels_like_f": 75,
-    "high_f": 75,
-    "low_f": 73,
+    "feels_like_f": 76,
+    "high_f": 77,
+    "low_f": 72,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 94,
-    "wind_mph": 3,
+    "humidity": 95,
+    "wind_mph": 4,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "⛅",
-        "high": 74,
-        "low": 74,
-        "description": "Scattered Clouds"
-      },
       {
         "day": "Fri",
         "icon": "☁️",
         "high": 74,
         "low": 74,
-        "description": "Overcast Clouds"
+        "description": "Broken Clouds"
       },
       {
         "day": "Sat",
         "icon": "☁️",
+        "high": 75,
+        "low": 75,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Sun",
+        "icon": "☁️",
         "high": 74,
         "low": 74,
-        "description": "Broken Clouds"
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 775.63,
-        "change": 4.3,
-        "change_pct": 0.56,
-        "up": true,
+        "price": 769.83,
+        "change": -1.5,
+        "change_pct": -0.19,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 305.85,
-        "change": -3.53,
-        "change_pct": -1.14,
-        "up": false,
+        "price": 311.04,
+        "change": 1.66,
+        "change_pct": 0.54,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 219.9,
-        "change": 7.96,
-        "change_pct": 3.76,
+        "price": 219.26,
+        "change": 7.32,
+        "change_pct": 3.45,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 322.52,
-        "change": -4.83,
-        "change_pct": -1.48,
+        "price": 321.59,
+        "change": -5.76,
+        "change_pct": -1.76,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64048,
-        "change": 76.3,
-        "change_pct": 0.12,
+        "price": 64243.79,
+        "change": 99.2,
+        "change_pct": 0.15,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1861.99,
-        "change": -11.05,
-        "change_pct": -0.59,
-        "up": false,
+        "price": 1897.71,
+        "change": 28.08,
+        "change_pct": 1.5,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "This CD is offering 9%, and another 7.5% — plus 8 more of the best CD APYs of August 2026 - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/picks/this-cd-is-offering-9-and-another-7-5-plus-8-more-of-the-best-cd-apys-of-august-2026-7f7f1a2e",
-        "description": "Average CD rates may sit under 2%, but select banks and credit unions are offering high yields. Here’s what to look for before locking in your cash",
-        "published": "2:27 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Spotify Climbs to 300 Million Premium Subscribers - WSJ",
+        "title": "SpaceX Needs to Make Its Bigger Rockets Work - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/earnings/spotify-spot-q2-earnings-report-2026-stock-a9fdd162",
+        "url": "https://www.wsj.com/finance/spacex-needs-to-make-its-bigger-rockets-work-c800f9c2",
         "description": "",
-        "published": "1:16 PM UTC",
+        "published": "2:06 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Dow futures leap 600 points, S&P 500 poised for record after Bessent says Hormuz deal is close: Live updates - CNBC",
+        "title": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/article/this-was-not-an-exceptional-result-why-amd-stock-tanked-5-after-earnings-112124288.html",
+        "description": "AMD stock fell on Wednesday as analysts said the stock had been priced for exceptional results.",
+        "published": "1:58 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "S&P 500 rises to new record at open, riding 5-day rally on strong earnings, Iran optimism: Live updates - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
-        "description": "The major stock averages surged Monday, with the Dow closing at a record high, as Amazon eclipsed $3 trillion in market cap for the first time.",
-        "published": "12:43 PM UTC",
+        "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html",
+        "description": "Stocks rallied on Tuesday as the S&P 500 and the Dow Industrials closed at new records.",
+        "published": "1:34 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Leak confirms Pixel 11 ‘Glow’ is called ‘HiLight’ and what it can do - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/08/04/google-pixel-11-hilight-glow-leak/",
-        "description": "As we reported on last week, the “Pixel Glow” feature coming to the Pixel 11 series is likely going to...",
-        "published": "1:45 PM UTC",
+        "title": "Tactical RPG Beaten Path launches in 2027 for PS5, Xbox Series, Switch, and PC - Gematsu",
+        "source": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/tactical-rpg-beaten-path-launches-in-2027-for-ps5-xbox-series-switch-and-pc",
+        "description": "Kickstarter-funded turn-based strategy RPG Beaten Path will launch for PlayStation 5, Xbox Series, Switch, and PC via Steam and Epic Games Store in 2027, publisher Wales Interactive and developer P…",
+        "published": "1:09 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Shift Up CEO Tries To Defend Stellar Blade: Blood Rain Slop Video From Fan Backlash And Continues To Get Roasted: 'Insane Cope' - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
-        "description": "Kim Hyung Tae is at odds with some of the sequel's biggest boosters",
-        "published": "1:27 PM UTC",
+        "title": "Marvel Rivals’ next update drastically reduces the game’s install size on PC and console - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/marvel-rivals-file-size-reduction-pc-xbox-playstation",
+        "description": "As of Season 9.5, Marvel Rivals is going to take up a lot less space on your platform of choice.",
+        "published": "11:28 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Ariana Grande Says Her Upcoming Break Is Not ‘Impulsive’ Or Due To ‘Negativity’ - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/conormurray/2026/08/04/ariana-grande-says-her-upcoming-break-is-not-impulsive-or-due-to-negativity/",
-        "description": "Ariana Grande told fans at her Monday night Chicago concert she had been planning an upcoming break for a long time, denying it was an “impulsive” decision in response to “negativity.”",
-        "published": "2:10 PM UTC",
+        "title": "Not Google Nest, Not Netgear: This Is Amazon's Best-Selling Mesh Wi-Fi System - bgr.com",
+        "source": "BGR",
+        "url": "https://www.bgr.com/2227217/mesh-wi-fi-amazon-not-google-nest-not-netgear/",
+        "description": "TP-Link's Deco X55 AX3000 Wi-Fi 6 Mesh System is the best selling mesh system on Amazon, with over 6,000 purchases happening in July 2026 alone.",
+        "published": "11:17 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "'It’s all burnt': Spokane wildfire survivors tell their stories - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/news/nation/2026/08/04/spokane-wildfires-washington/91166002007/",
+        "description": "The wildfires burning across the Spokane, Washington, area have destroyed hundreds of structures, including homes, and forced thousands to flee.",
+        "published": "2:18 PM UTC",
         "category": "General"
       },
       {
-        "title": "Column | Here's what happens to your brain when you stop drinking alcohol - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/wellness/2026/08/04/heres-what-happens-your-brain-when-you-stop-drinking-alcohol/",
-        "description": "Though even relatively low levels of drinking can cause harm, the brain can recover to an extent if you stop or cut back, evidence shows.",
-        "published": "12:27 PM UTC",
+        "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation over harassment claims - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/politics-news/rep-chuck-edwards-drops-re-election-bid-censure-sexual-harassment-rcna590919",
+        "description": "Rep. Chuck Edwards is withdrawing from his re-election campaign in Western North Carolina.",
+        "published": "1:41 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "‘Spider-Man: Brand New Day’ Triumph “Bodes Well” For ‘Avengers: Doomsday’, Disney CEO Josh D’Amaro Says - Deadline",
+        "source": "Deadline",
+        "url": "http://deadline.com/2026/08/spider-man-brand-new-day-avengers-doomsday-disney-1237018377/",
+        "description": "Disney CEO Josh D'Amaro said Sony's record-setting opening of 'Spider-Man: Brand New Day' \"bodes well\" for Disney's forthcoming 'Avengers' installment.",
+        "published": "1:03 PM UTC",
         "category": "General"
       }
     ]
@@ -243,108 +259,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Revive Interest in Athletic Club Midfielder Nico Williams",
-        "summary": "Arsenal are reportedly monitoring Nico Williams as a potential summer target to add creativity and width to Mikel Arteta's attack, with his release clause understood to be in the region of £50 million. The Spanish international has been in scintillating form domestically and is attracting interest from several top European clubs.",
+        "headline": "Chelsea Reignite Interest in Sporting CP Midfielder Viktor Gyokeres",
+        "summary": "Chelsea's recruitment team is understood to have held preliminary talks with Sporting CP over a potential summer move for the prolific Swedish striker Viktor Gyokeres, whose 30-plus goal season has attracted interest from across Europe. The Blues view him as a solution to their chronic center-forward vacancy, though Sporting's reported £85 million valuation remains a sticking point.",
         "clubs": [
-          "Arsenal",
-          "Athletic Club"
+          "Chelsea",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester United Consider Move for Everton's Jarrad Branthwaite as Centre-Back Search Continues",
-        "summary": "Manchester United's recruitment team are understood to have maintained their long-standing admiration for Everton defender Jarrad Branthwaite, with a potential summer offer being discussed internally as Ruben Amorim looks to rebuild his defensive unit. Everton's precarious financial situation could make negotiations more straightforward than last summer's failed pursuit.",
+        "headline": "Liverpool Monitoring Bayer Leverkusen's Florian Wirtz Ahead of Summer Window",
+        "summary": "Liverpool are reported to be among a select group of elite clubs tracking Bayer Leverkusen playmaker Florian Wirtz, with internal scouts having compiled extensive dossiers on the German international ahead of a potential record-breaking transfer. Leverkusen have publicly maintained they want to keep Wirtz for at least one more season, but Liverpool's new sporting structure under Richard Hughes is said to be planning an audacious approach.",
         "clubs": [
-          "Manchester United",
-          "Everton"
+          "Liverpool",
+          "Bayer Leverkusen"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
+      "home": "Arsenal",
       "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "This heavyweight clash at Anfield pits a Liverpool side firing on all cylinders under Arne Slot — currently among the Premier League's form teams — against a Manchester City squad still searching for the defensive consistency that defined their Guardiola dynasty. The fixture carries title-race implications, with Liverpool looking to extend their lead at the top while City desperately need points to stay within touching distance of the European spots. All eyes will be on whether City's revamped backline can cope with Liverpool's relentless high press in what promises to be one of the defining matches of the season.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The most consequential fixture of the Premier League weekend pits a title-chasing Arsenal side, unbeaten in their last nine league matches, against a Manchester City outfit that has shown signs of rediscovering their early-season fluency under Pep Guardiola. Arsenal will be buoyed by a partisan Emirates crowd and the momentum of Bukayo Saka's return to full fitness, while City will look to exploit any gaps left by Arsenal's high defensive line on the counter-attack. The result could have significant implications for the title race, with just three points separating the sides heading into the weekend.",
       "key_players": [
-        "Mohamed Salah",
+        "Bukayo Saka",
         "Erling Haaland",
-        "Virgil van Dijk"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; targeting return within 7-10 days"
-      },
-      {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Long-term ACL recovery; targeting return for pre-season 2025-26"
+        "return": "Expected return late February or early March; long-term knee injury continues to be managed cautiously"
+      },
+      {
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Missed last two training sessions with a hamstring complaint; fitness test scheduled Saturday morning ahead of City clash"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
-      "question": "An analyst is evaluating a bond using the Cox-Ingersoll-Ross (CIR) model. Compared to the Vasicek model, which of the following statements best describes a key structural difference of the CIR model?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If the yield-to-maturity increases by 50 basis points, which of the following best describes the expected price change, assuming modified duration of 4.21 years and convexity of 20.5?",
       "options": {
-        "A": "The CIR model allows for negative interest rates, making it more realistic during low-rate environments.",
-        "B": "The CIR model's volatility term is proportional to the square root of the current interest rate, preventing negative rates.",
-        "C": "The CIR model assumes constant volatility, while the Vasicek model uses stochastic volatility.",
-        "D": "The CIR model does not incorporate mean reversion, distinguishing it from the Vasicek model."
+        "A": "Price decreases by approximately $21.05, with convexity adding a small positive adjustment of roughly $0.26",
+        "B": "Price increases by approximately $21.05, with convexity subtracting a small negative adjustment",
+        "C": "Price decreases by approximately $22.31 with no convexity adjustment needed for small yield changes",
+        "D": "Price decreases by approximately $20.79 with convexity providing no material adjustment for a 50 bps move"
       },
-      "correct": "B",
-      "explanation": "In the CIR model, the diffusion (volatility) term is scaled by the square root of the current rate (√r), which means volatility approaches zero as rates approach zero, effectively preventing negative interest rates. The Vasicek model uses a constant volatility term, allowing theoretically negative rates. Both models incorporate mean reversion; the key structural difference is solely in the volatility specification. This makes CIR more theoretically appealing in standard positive-rate environments."
+      "correct": "A",
+      "explanation": "The first-order price change using modified duration is: –(4.21 × 0.005 × $1,054.17) ≈ –$22.19. The convexity adjustment adds back: 0.5 × 20.5 × (0.005)² × $1,054.17 ≈ +$0.27, yielding a net decline of roughly $21.92. Option A is directionally and conceptually correct: duration drives the linear price decline while convexity, which is always positive for a standard bond, partially offsets the price drop when yields rise. Convexity is beneficial to bondholders in both rising and falling yield environments."
     },
     "finance_topic": {
-      "title": "Basis Risk and Its Hidden Portfolio Dangers",
-      "subtitle": "Basis risk arises when the hedge instrument and the hedged exposure do not move in perfect lockstep, leaving residual risk that can erode or even reverse the benefit of a hedge.",
+      "title": "The Term Premium and Yield Curve Control",
+      "subtitle": "Understanding how central banks suppress long-end yields and the distortions this creates across global asset markets.",
       "paragraphs": [
-        "Basis risk is defined as the risk that the price difference — the 'basis' — between a hedging instrument and the underlying exposure changes unexpectedly. In theory, a perfect hedge eliminates all price risk by holding an offsetting position; in practice, differences in contract specifications, delivery locations, credit quality, or tenor mean the hedge and the exposure rarely move with a correlation of exactly –1. The basis itself therefore becomes a source of P&L volatility even after hedging.",
-        "A classic real-world example emerged during the 2008 financial crisis, when many corporate treasurers hedged floating-rate liabilities using LIBOR-based interest rate swaps while their underlying funding was priced off commercial paper or other short-term rates. As credit spreads on commercial paper exploded while LIBOR moved differently, the basis between the two rates widened dramatically. Firms that believed they were fully hedged found themselves with significant unhedged interest rate and credit spread exposure — a painful lesson in assuming the basis is stable.",
-        "For investors and risk managers, basis risk demands that hedges be stress-tested under scenarios where historical correlations break down — precisely when they are needed most. Monitoring the 'hedge effectiveness ratio' under IFRS 9 or ASC 815 accounting standards requires demonstrating that changes in fair value of the hedge offset 80–125% of changes in the hedged item. A deteriorating basis can push a hedge outside this range, triggering dedesignation and immediate P&L recognition of mark-to-market moves that were expected to be deferred."
+        "The term premium is the additional compensation investors demand for holding longer-duration bonds rather than rolling over a series of short-term instruments. It reflects uncertainty about future inflation, growth, and monetary policy. When the term premium is positive and rising, long-end yields climb independent of rate expectations — signaling that investors require more reward for duration risk. Conversely, central bank asset purchase programs can compress or even turn the term premium negative, flattening or inverting the yield curve artificially.",
+        "Japan's yield curve control (YCC) policy, first introduced by the Bank of Japan in 2016, is the most prominent modern example. The BoJ explicitly capped 10-year Japanese Government Bond (JGB) yields near zero, forcing it to purchase unlimited quantities of bonds to defend the ceiling. When it began allowing the cap to drift higher in 2022–2024, global bond markets reacted sharply — illustrating how suppressed term premia in one major economy ripple outward through carry trades, currency dynamics, and cross-border capital flows. The unwinding of these positions contributed to significant yen volatility and dislocations in U.S. Treasury and European bond markets.",
+        "For investors and risk managers, artificially low term premia create a dangerous illusion of stability. Portfolio duration risk is systematically underpriced when central banks distort the long end, leading to crowded positioning and violent unwinds when policy normalizes. Fixed income allocators must stress-test portfolios under scenarios where the term premium reverts toward historical averages of 100–200 basis points, which would imply substantially higher long-end yields even without any change in short-rate expectations."
       ],
       "key_takeaways": [
-        "Basis risk is the residual, often underestimated risk that persists even after a hedge is in place, stemming from imperfect correlation between the hedge and the exposure.",
-        "Basis can widen sharply during stress events — correlation breakdowns in crises are a primary reason hedges fail when they matter most.",
-        "Accounting standards require ongoing hedge effectiveness testing; a widening basis can trigger dedesignation and unexpected P&L volatility."
+        "The term premium is the extra yield investors demand for duration uncertainty — it is not the same as rate expectations and can be independently compressed by central bank policy.",
+        "Yield curve control policies create systemic cross-market distortions; when they unwind, volatility transmits globally through carry trades and capital flow reversals.",
+        "Risk managers should stress-test long-duration bond portfolios against term premium normalization scenarios, independent of forward rate assumptions."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; commitment",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "彼は必ず約束を守る人です。",
-      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
-      "example_en": "He is a person who always keeps his promises.",
-      "grammar_point": "〜を守る (wo mamoru)",
-      "grammar_explanation": "The pattern 〜を守る means 'to keep/observe [something]', where を marks the direct object. It is commonly paired with words like 約束 (promise), ルール (rules), or 時間 (time) to express upholding a commitment or following a rule.",
-      "memory_tip": "Imagine a 'yakuza' (ヤクザ) who shakes on a 'soku' (足 = foot) deal — even a gangster keeps his promise; that unbreakable handshake is your 約束."
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikiite shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまう (shimau), indicating the action is done and cannot be undone.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money allocated to you. If you picture a piggy bank labeled 'YO-SAN' with a fixed amount inside, you will always remember it means budget."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams and Analyst Roles",
-      "summary": "Major banks and fintechs are deploying large language models and gradient-boosting machine learning systems to automate initial credit underwriting, covenant monitoring, and early-warning surveillance across loan portfolios. Institutions like JPMorgan and HSBC have publicly discussed AI tools that can parse thousands of credit documents, financial statements, and news feeds in seconds to flag deteriorating credits before traditional analyst reviews would catch them. This compresses the time-to-decision dramatically and shifts the human analyst's role from data gathering toward model validation, judgment calls on edge cases, and client relationship management. The competitive advantage increasingly lies in the quality of proprietary training data and the robustness of model governance frameworks.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Lending Risk Models Globally",
+      "summary": "Major banks and fintechs are deploying large language models and gradient-boosted machine learning ensembles to evaluate creditworthiness far beyond traditional FICO-based scoring. These systems ingest alternative data — including cash flow patterns, transaction metadata, and even supply chain signals — to generate dynamic credit scores that update in near real-time rather than monthly. Regulators in the U.S. and EU are scrambling to build explainability requirements (XAI standards) into supervisory frameworks, recognizing that black-box credit decisions create fair lending and systemic risk concerns. For risk professionals, the frontier challenge is not building the model but auditing it: ensuring outputs are unbiased, robust to distribution shift, and defensible to examiners.",
       "concepts": [
         {
           "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds decision trees sequentially, each correcting the errors of the prior one — widely used in credit scoring because it handles mixed data types, missing values, and nonlinear relationships between financial ratios and default probability without requiring feature engineering."
+          "definition": "An ensemble ML technique that builds sequential decision trees, each correcting the errors of the last. In credit risk, it consistently outperforms logistic regression on structured tabular data by capturing non-linear relationships between borrower attributes and default probability."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) assigns each input variable a contribution score to a model's output for a specific prediction — critical in finance and lending where regulators require institutions to explain why a credit decision was made and to demonstrate the model is not discriminating unlawfully."
+          "term": "Explainable AI (XAI)",
+          "definition": "A set of techniques — such as SHAP values and LIME — that decompose a complex model's output into feature-level contributions. In regulated finance, XAI is essential for satisfying adverse action notice requirements and demonstrating fair lending compliance to supervisors."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique that connects a large language model to an external, up-to-date knowledge base — in finance, this allows an AI tool to answer questions about a specific borrower by retrieving live financial filings, news, and covenant documents rather than relying solely on static training data, improving accuracy and reducing hallucination risk."
+          "term": "Distribution Shift",
+          "definition": "The phenomenon where the statistical relationship between input features and outcomes changes over time, causing a model trained on historical data to degrade in live deployment. Credit models trained pre-COVID, for example, dramatically misfired during the pandemic due to distribution shift in income and spending patterns."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can serve as 'AI translators' — professionals who understand both the financial substance of underwriting decisions and the mechanics of the models making them — are commanding a significant premium in hiring. Building skills in Python-based model validation, familiarity with SHAP or LIME explainability tools, and understanding of model risk management frameworks (SR 11-7) will differentiate candidates in an increasingly automated credit function."
+      "career_insight": "Credit analysts who can bridge quantitative modeling and regulatory interpretation are becoming the most sought-after professionals in risk management. Firms are not replacing underwriters with AI — they are embedding AI into underwriting workflows and need human experts who can challenge model assumptions, validate outputs, and communicate risk to senior leadership and regulators. Building fluency in Python-based ML libraries alongside traditional credit fundamentals is now a baseline expectation at top-tier banks and alternative lenders."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a cautious consolidation phase as markets reprice the 'higher-for-longer' rate narrative following resilient US labor data and stickier-than-expected services inflation, pushing back aggressive Fed cut expectations toward late 2025. The USD has firmed modestly on the rate differential story, adding pressure to EM currencies and commodity prices, while credit spreads in high-yield have widened slightly — a signal that the soft-landing consensus is being tested rather than abandoned. Equities are holding near highs on strong mega-cap earnings, but breadth is narrowing, and the dispersion between rate-sensitive sectors (utilities, real estate) and AI-driven tech names suggests a market increasingly dependent on a narrow growth narrative rather than broad macro recovery."
+    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as U.S. Treasury yields stabilize following last week's repricing in the belly of the curve, with the 10-year holding near key technical support at 4.35%. The macro narrative remains bifurcated: resilient U.S. labor data continues to push back Fed cut expectations into late 2025, while softening PMI prints from the Eurozone keep the ECB on a clearer easing path — a divergence that has been a persistent tailwind for USD strength. Equity markets are watching corporate earnings revisions closely, with margin pressure in rate-sensitive sectors offset by AI-related capex enthusiasm among mega-cap tech; credit spreads remain historically tight, suggesting the market is pricing a soft-landing base case with high conviction despite elevated geopolitical tail risks."
   }
 }
