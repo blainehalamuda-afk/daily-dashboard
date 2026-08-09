@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:22 PM UTC",
-  "date": "Saturday, August 8, 2026",
+  "generated_at": "12:24 PM UTC",
+  "date": "Sunday, August 9, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 75,
-    "feels_like_f": 77,
-    "high_f": 77,
-    "low_f": 73,
-    "description": "Scattered Clouds",
-    "icon": "⛅",
+    "temp_f": 74,
+    "feels_like_f": 75,
+    "high_f": 75,
+    "low_f": 72,
+    "description": "Clear Sky",
+    "icon": "☀️",
     "humidity": 93,
-    "wind_mph": 6,
+    "wind_mph": 4,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "🌤️",
-        "high": 73,
-        "low": 73,
-        "description": "Few Clouds"
-      },
       {
         "day": "Mon",
         "icon": "☁️",
-        "high": 73,
-        "low": 73,
+        "high": 75,
+        "low": 75,
         "description": "Broken Clouds"
       },
       {
         "day": "Tue",
-        "icon": "🌤️",
-        "high": 73,
-        "low": 73,
-        "description": "Few Clouds"
+        "icon": "⛅",
+        "high": 79,
+        "low": 79,
+        "description": "Scattered Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "high": 77,
+        "low": 77,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64987.28,
-        "change": -157.49,
-        "change_pct": -0.24,
+        "price": 64941.99,
+        "change": -45.29,
+        "change_pct": -0.07,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1920.72,
-        "change": -9.06,
-        "change_pct": -0.47,
+        "price": 1917.89,
+        "change": -2.54,
+        "change_pct": -0.13,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "US to pay $1.2bn to energy firm RWE to halt offshore wind projects - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-        "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-        "published": "9:50 AM UTC",
+        "title": "The mall rink where they fell in love and skated for nearly 60 years is closing - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/nation/2026/08/08/mall-rink-where-they-fell-love-skated-nearly-60-years-is-closing/",
+        "description": "Jerry and Tally Leonard have thrilled shoppers and open-skate crowds for decades at the Lloyd Center in Portland, Oregon. Now, they’re not sure how they will fill the void.",
+        "published": "12:21 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Yen rally fades a week after U.S.-Japan intervention as focus shifts to policy - cnbc.com",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/07/us-japan-intervention-yen-unwinds-gains.html",
-        "description": "The coordinated involvement from the Treasury and BoJ had initially lifted the yen as low as 155 to the dollar, down from just above 163 beforehand.",
-        "published": "9:18 AM UTC",
+        "title": "Publix struggles to reverse concerning customer behavior - thestreet.com",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/retail/publix-sales-decline-as-customer-behavior-shifts",
+        "description": "",
+        "published": "12:15 PM UTC",
         "category": "Business"
       },
       {
-        "title": "New Gemini overlay for Wear OS rolling out to Pixel Watch - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/08/06/gemini-overlay-wear-os/",
-        "description": "Gemini on Wear OS is getting a new overlay design that takes after Neural Expressive on Android phones to boost cross-device consistency.",
-        "published": "3:10 AM UTC",
+        "title": "The Memo: Weak jobs report clouds economy as Trump barrels toward midterms - The Hill",
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/6017947-trump-economy-jobs-report-inflation/",
+        "description": "New clouds darkened the economic landscape on Friday, as the latest employment report showed the nation shedding 23,000 jobs in July. The number came as an unpleasant surprise to most economists. The ",
+        "published": "10:00 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Exclusive | Nip-buck! Celebrity plastic surgeon reveals shocking difference between $30K and $300K facelift - New York Post",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/08/lifestyle/surgeons-reveals-difference-between-30k-and-300k-facelift/",
+        "description": "Most would assume that when it comes to work done on one’s money-maker, the more expensive, the better the results, right?",
+        "published": "12:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/08/06/openai-chatgpt-upgrades-luna-free-paid",
-        "description": "The upgrades will help both paid and free users.",
-        "published": "1:38 AM UTC",
+        "title": "We were finally empty nesters. Then we got custody of our granddaughter and had to go back to work to raise her. - businessinsider.com",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/grandparents-raising-grandchildren-retirement-return-to-work-social-security-2026-8#article",
+        "description": "Michael and Connie Frost are raising their granddaughter Kinsley in Georgia, balancing their retirement and her education needs.",
+        "published": "9:48 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Splatoon Raiders 1.1.1 update out now, patch notes - Nintendo Everything",
-        "source": "Nintendoeverything.com",
-        "url": "https://nintendoeverything.com/splatoon-raiders-1-1-1-update-out-now-patch-notes/",
-        "description": "Splatoon Raiders gets its first post-launch update with version 1.1.1, and here are the patch notes from Nintendo.",
-        "published": "12:41 AM UTC",
+        "title": "Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/davidphelan/2026/08/08/heres-when-apple-will-reveal-its-iphone-18-pro-special-event-date/",
+        "description": "Apple’s next iPhones will go on sale in just over a month. But when should you start looking out for the confirmation of the special event? Here’s all you need to know.",
+        "published": "8:11 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Live updates: Several killed in Thailand school shooting rampage - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/07/world/live-news/thailand-school-shooting-intl-hnk",
-        "description": "A teenage gunman stormed his high school in Thailand after allegedly killing his grandparents at home. Follow for the latest updates.",
-        "published": "9:41 AM UTC",
+        "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok",
+        "description": "Thailand has one of the highest rates of gun ownership in Asia.",
+        "published": "11:35 AM UTC",
         "category": "General"
       },
       {
-        "title": "Jeanine Pirro berated Doug Burgum. But Interior staffers have been angry at him for months. - Politico",
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/08/07/doug-burgum-interior-department-pirro-01028360",
-        "description": "The broadsides from D.C.'s top prosecutor against the Interior secretary echoed what agency staffers have said privately.",
-        "published": "8:45 AM UTC",
+        "title": "The sneaky kind of cholesterol that may be threatening your heart health - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/wellness/2026/08/08/what-lipoproteina-test-can-tell-you-about-your-heart-health/",
+        "description": "Lipoprotein(a) isn’t part of a standard lipid panel and is largely driven by genetics. Here’s why it’s important to get your level checked.",
+        "published": "11:32 AM UTC",
         "category": "General"
       }
     ]
@@ -243,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Revive Interest in Bundesliga Midfielder Ahead of January Window",
-        "summary": "Arsenal are reportedly monitoring a dynamic box-to-box midfielder from Bayer Leverkusen as Mikel Arteta seeks to add depth following a congested fixture list. Talks are said to be at an exploratory stage with a potential fee in the region of £55 million.",
+        "headline": "Manchester City Eye Bundesliga Midfielder as De Bruyne Long-Term Successor",
+        "summary": "Manchester City's recruitment team has reportedly shortlisted a high-profile Bundesliga central midfielder as a potential long-term replacement for Kevin De Bruyne, with scouts attending multiple matches this month. Negotiations are said to be in early stages, with a potential summer move contingent on Champions League progression.",
         "clubs": [
-          "Arsenal",
+          "Manchester City",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Target Brazilian Winger as Ten Hag Eyes January Reinforcement",
-        "summary": "Manchester United's recruitment team have been scouting a highly-rated Brazilian winger from Palmeiras, with the 22-year-old seen as a long-term replacement for the aging wide options currently in the squad. A January loan with an obligation to buy is the preferred structure.",
+        "headline": "Chelsea Hold Talks Over January Loan Move for Prolific Serie A Striker",
+        "summary": "Chelsea are understood to be in advanced discussions for a January loan deal for a proven Serie A forward as Enzo Maresca looks to address a shortage of clinical finishing in his squad. The player's parent club is open to a temporary exit given the attacker's limited first-team opportunities this season.",
         "clubs": [
-          "Manchester United",
-          "Palmeiras"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits league leaders Liverpool against a Manchester City side desperate to close the gap at the top after a stuttering run of form. Liverpool arrive on the back of five consecutive wins and will look to exploit City's uncharacteristic defensive vulnerabilities, particularly from set-pieces. Pep Guardiola faces a tactical puzzle in neutralizing Liverpool's high press while his own midfield continues to find its identity following a summer of transition.",
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The top-of-the-table clash at the Emirates promises to be the defining fixture of the Premier League season so far, with Arsenal and Liverpool separated by just two points heading into the weekend. Arsenal will be buoyed by a six-match unbeaten home run and the attacking form of Bukayo Saka, while Liverpool's relentless pressing under Slot has seen them outscore every team in the division. The tactical battle between Arsenal's structured defensive block and Liverpool's high-intensity transition play should be captivating, with both sides knowing that dropped points here could prove decisive come May.",
       "key_players": [
+        "Bukayo Saka",
         "Mohamed Salah",
-        "Erling Haaland",
-        "Virgil van Dijk"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected return late February at earliest following ACL rehabilitation"
+        "status": "Out",
+        "return": "Not expected to return this season — long-term ACL recovery ongoing"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
+        "player": "Dominic Calvert-Lewin",
+        "team": "Nottingham Forest",
         "status": "Doubtful",
-        "return": "Hamstring tightness; fitness test scheduled Saturday morning ahead of Sunday's fixture"
+        "return": "Targeting return within 2-3 weeks after hamstring strain sustained in training"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the most significant limitation of this model that was exposed during the 2007–2008 financial crisis?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, 10 years to maturity, and a par value of $1,000 is currently priced at $950. If the bond's yield to maturity increases by 50 basis points, which of the following best describes the price change, and why?",
       "options": {
-        "A": "It overestimates individual obligor default probabilities during periods of market stress.",
-        "B": "It assumes static, linear correlations between asset returns and fails to capture tail dependence.",
-        "C": "It cannot be calibrated to market-observed CDS spreads, making it impractical for structured products.",
-        "D": "It systematically underestimates recovery rates across all seniority tranches of a CDO."
+        "A": "The price will increase by more than it would decrease if yields fell by 50 bps, due to positive convexity.",
+        "B": "The price will decrease by more than it would increase if yields fell by 50 bps, due to negative convexity.",
+        "C": "The price will decrease by less than it would increase if yields fell by 50 bps, due to positive convexity.",
+        "D": "The price change will be symmetric around the current price regardless of convexity."
       },
-      "correct": "B",
-      "explanation": "The Gaussian copula model assumes that asset return correlations are constant and normally distributed, which implies near-zero tail dependence — meaning joint extreme losses are treated as nearly impossible. During the 2008 crisis, default correlations spiked dramatically during market stress, causing simultaneous losses across CDO tranches that the model assigned negligible probability. This underestimation of tail dependence led to severe mispricing of structured credit products like CDO tranches. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence but were not widely adopted prior to the crisis."
+      "correct": "C",
+      "explanation": "For a standard option-free bond, convexity is positive, meaning the price-yield relationship is curved (convex) rather than linear. As a result, for equal changes in yield, price increases (when yields fall) are larger than price decreases (when yields rise). Therefore, a 50 bps rise in yield produces a smaller price decline than the price gain from a 50 bps yield drop. Option D is incorrect because duration alone would imply symmetry, but convexity creates asymmetry that benefits the bondholder."
     },
     "finance_topic": {
-      "title": "Basis Risk in Interest Rate Hedging",
-      "subtitle": "Understanding why hedges rarely achieve perfect offset and how basis risk can turn a protection strategy into a source of loss.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why hedges rarely achieve perfect offset — and what it costs when they don't.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. In interest rate markets, basis risk is ubiquitous: a bank hedging a floating-rate loan portfolio with SOFR-linked interest rate swaps may still face residual exposure if its loan book reprices off a different benchmark, a different tenor, or includes credit spread components that the swap does not cover. The 'basis' is formally defined as the difference between the spot price of the hedged asset and the futures or derivative price used to hedge it, and this difference can widen or narrow unpredictably.",
-        "A practical illustration emerged in 2022–2023 when regional U.S. banks that had purchased long-duration Treasury securities and hedged them with short Treasury futures discovered that their hedge ratios were based on historical correlations that broke down during the Fed's rapid rate hiking cycle. The parallel shift assumption embedded in duration-matched hedges failed as the yield curve inverted sharply, with short-end rates rising far more than long-end rates. Banks holding mortgage-backed securities faced compounding basis risk as prepayment speeds slowed, extending duration precisely when rates were rising — a phenomenon known as negative convexity amplifying basis losses.",
-        "For risk managers, basis risk demands continuous monitoring of hedge effectiveness under IFRS 9 and ASC 815 accounting standards, both of which require periodic prospective and retrospective effectiveness testing. A hedge that fails effectiveness thresholds must be de-designated, triggering mark-to-market volatility through the income statement. Sophisticated institutions use regression-based hedge ratios updated dynamically and stress-test basis under multiple yield curve scenarios — parallel shifts, twists, and butterfly movements — to ensure residual risk remains within appetite."
+        "Basis risk refers to the risk that the value of a hedging instrument does not move in perfect lockstep with the value of the underlying exposure being hedged. The 'basis' is formally defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price of the instrument used to hedge it. Even when a hedge is carefully constructed, differences in contract specifications, maturities, underlying asset characteristics, or liquidity can cause the hedge to be imperfect, leaving residual exposure that can generate unexpected gains or losses.",
+        "A classic real-world example occurred during the 2008 financial crisis when many firms used credit default swap indices (such as CDX) to hedge bespoke corporate credit exposure. Because the index contained a basket of names that did not perfectly match the firms' actual portfolios, basis widened dramatically — hedges that looked effective on paper generated substantial losses as the correlation between index and portfolio broke down under stress. Similarly, airlines hedging jet fuel with crude oil futures face basis risk because jet fuel and crude prices, while correlated, diverge significantly during supply disruptions or refinery bottlenecks.",
+        "For risk managers and investors, basis risk means that no hedge is truly 'free' of risk — it merely transforms one type of risk into another, often smaller one. Quantifying basis risk requires analyzing the historical correlation and tracking error between the hedging instrument and the underlying exposure, and stress-testing how that relationship behaves in tail scenarios. Practitioners often accept some basis risk in exchange for liquidity and lower transaction costs, but must size their hedges accordingly and monitor basis continuously, particularly when macro regimes shift."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedging instrument and the underlying exposure.",
-        "Yield curve shape changes, benchmark mismatches, and convexity differences are the primary drivers of basis risk in fixed income portfolios.",
-        "Accounting standards (IFRS 9, ASC 815) require documented hedge effectiveness testing, and failed hedges create unexpected P&L volatility."
+        "Basis risk is the residual risk that remains when a hedge instrument does not perfectly offset the underlying exposure due to price divergence.",
+        "Basis can widen sharply in stress environments, turning a seemingly effective hedge into a source of unexpected loss.",
+        "Effective hedging requires continuous monitoring of the basis relationship and stress-testing hedge effectiveness under adverse scenarios."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; commitment",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "明日の三時に会う約束をしました。",
-      "example_romaji": "Ashita no sanji ni au yakusoku wo shimashita.",
-      "example_en": "I made a promise to meet at three o'clock tomorrow.",
-      "grammar_point": "〜をしました (o shimashita)",
-      "grammar_explanation": "The pattern 'noun + をしました' expresses that an action was completed in the past. Here, 'yakusoku wo shimashita' literally means 'did a promise,' which naturally translates to 'made a promise' in English.",
-      "memory_tip": "Think of 'yaku' sounding like 'lock' — a promise is like a lock (yaku) on a commitment (soku = bundle), locking two people into an agreement."
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that something happened completely, often with a nuance of regret or that the action was unintended. It is the polite past form of 〜てしまう, frequently used when something went wrong or was done accidentally.",
+      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you have planned for yourself. If you blow past your 'yo-san,' you'll say it with regret using 〜てしまいました!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Investment Research Gets Done",
-      "summary": "Major asset managers and investment banks are deploying autonomous AI agents — systems capable of planning multi-step tasks, querying databases, and synthesizing outputs without constant human prompting — into research workflows. Unlike simple chatbots, these agents can pull earnings transcripts, run financial models, screen news sentiment, and draft investment memos in a single orchestrated pipeline. Firms like BlackRock, JPMorgan, and Citadel have filed patents and disclosed internal tools that reduce the time to produce first-draft equity research from days to hours. The implication is not just efficiency: it fundamentally shifts the analyst's role from data gathering and formatting toward critical judgment, narrative construction, and client communication.",
+      "headline": "AI-Powered Risk Models Are Replacing Traditional Factor Frameworks on Trading Desks",
+      "summary": "Leading investment banks and asset managers are increasingly deploying large-scale machine learning models — particularly gradient boosting ensembles and transformer-based architectures — to augment or replace classical multi-factor risk models in portfolio construction and real-time risk monitoring. These models can ingest alternative data sources such as satellite imagery, earnings call transcripts, and order flow microstructure data simultaneously, identifying non-linear factor interactions that linear models systematically miss. Regulatory bodies including the SEC and Basel Committee are beginning to issue guidance on model risk management (MRM) frameworks specifically tailored to AI-driven financial models, raising the bar for explainability and auditability. Firms that can demonstrate both predictive performance and interpretability will hold a significant competitive and regulatory advantage.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously plan, execute, and iterate through multi-step tasks — such as pulling financial data, running a discounted cash flow model, and summarizing findings — without requiring a human prompt at each step."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble ML technique that builds many simple decision trees sequentially, each correcting the errors of the last. In finance, it is widely used for credit scoring, default prediction, and factor signal generation because it handles non-linear relationships and missing data well."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically retrieves relevant documents (earnings calls, SEC filings, market data) before generating a response, dramatically improving factual accuracy for finance-specific queries."
+          "term": "Model Risk Management (MRM)",
+          "definition": "The governance framework — mandated by regulators such as SR 11-7 in the US — for validating, monitoring, and controlling risks that arise from using quantitative models in decision-making. AI models introduce new MRM challenges around explainability and distributional shift."
         },
         {
-          "term": "Fine-Tuning",
-          "definition": "The process of further training a pre-built large language model on domain-specific financial data — such as credit agreements or risk reports — so it responds with the vocabulary, logic, and conventions of finance professionals."
+          "term": "Distributional Shift",
+          "definition": "When the statistical properties of data a model encounters in deployment differ from the data it was trained on, causing performance to degrade. In finance, regime changes (e.g., rate hiking cycles, credit crises) are prime sources of distributional shift that can make AI risk models unreliable precisely when they are needed most."
         }
       ],
-      "career_insight": "Finance professionals who will thrive over the next decade are those who treat AI agents as junior analysts — knowing how to task them effectively, audit their outputs critically, and add interpretive judgment that models cannot replicate. Skills in prompt engineering, data literacy, and an understanding of model limitations are becoming as important as traditional financial modeling in roles spanning investment banking, risk management, and portfolio strategy."
+      "career_insight": "Finance professionals who combine domain expertise — credit analysis, derivatives pricing, portfolio construction — with working knowledge of ML workflows and model validation are the most sought-after profiles at both buy-side firms and regulators. Investing in skills around Python-based ML libraries, explainable AI (SHAP values, LIME), and quantitative model validation will distinguish candidates in an increasingly automated industry landscape."
     },
     "error": false,
-    "market_sentiment": "Equity markets enter the session with a cautiously constructive tone as investors digest a resilient U.S. labor market print against a backdrop of cooling services inflation, rekindling debate over whether the Fed has truly finished its hiking cycle or is merely pausing. Credit spreads in investment-grade have tightened modestly on the week, reflecting continued demand for carry in a higher-for-longer rate environment, while EM currencies face renewed pressure as the dollar index holds near recent highs. The macro narrative remains one of 'soft landing optimism versus liquidity reality' — risk assets are priced for a benign outcome, leaving little margin for upside surprises in energy prices or geopolitical risk premia."
+    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets reprice the 'higher for longer' rate narrative following resilient US labor data and stickier-than-expected core services inflation. The front end of the Treasury curve remains under pressure, with 2-year yields holding near cycle highs, while credit spreads have widened modestly in investment-grade and more meaningfully in CCC-rated paper — a sign that liquidity is becoming more discriminating. Equity positioning is cautiously defensive, with rotation away from rate-sensitive growth names toward energy and financials, as the market awaits clarity from central bank communications and Q3 earnings guidance for evidence of margin compression feeding through to corporate fundamentals."
   }
 }
