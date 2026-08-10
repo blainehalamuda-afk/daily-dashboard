@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:24 PM UTC",
-  "date": "Sunday, August 9, 2026",
+  "generated_at": "12:40 PM UTC",
+  "date": "Monday, August 10, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 74,
-    "feels_like_f": 75,
-    "high_f": 75,
-    "low_f": 72,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 93,
-    "wind_mph": 4,
+    "temp_f": 75,
+    "feels_like_f": 76,
+    "high_f": 77,
+    "low_f": 73,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 92,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Mon",
-        "icon": "☁️",
-        "high": 75,
-        "low": 75,
-        "description": "Broken Clouds"
-      },
-      {
         "day": "Tue",
-        "icon": "⛅",
-        "high": 79,
-        "low": 79,
-        "description": "Scattered Clouds"
+        "icon": "☀️",
+        "high": 76,
+        "low": 76,
+        "description": "Clear Sky"
       },
       {
         "day": "Wed",
-        "icon": "☀️",
+        "icon": "⛅",
         "high": 77,
         "low": 77,
-        "description": "Clear Sky"
+        "description": "Scattered Clouds"
+      },
+      {
+        "day": "Thu",
+        "icon": "☁️",
+        "high": 76,
+        "low": 76,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64941.99,
-        "change": -45.29,
-        "change_pct": -0.07,
+        "price": 64919.22,
+        "change": -19.3,
+        "change_pct": -0.03,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1917.89,
-        "change": -2.54,
-        "change_pct": -0.13,
+        "price": 1913.57,
+        "change": -4.16,
+        "change_pct": -0.22,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "The mall rink where they fell in love and skated for nearly 60 years is closing - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/nation/2026/08/08/mall-rink-where-they-fell-love-skated-nearly-60-years-is-closing/",
-        "description": "Jerry and Tally Leonard have thrilled shoppers and open-skate crowds for decades at the Lloyd Center in Portland, Oregon. Now, they’re not sure how they will fill the void.",
-        "published": "12:21 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Publix struggles to reverse concerning customer behavior - thestreet.com",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/retail/publix-sales-decline-as-customer-behavior-shifts",
-        "description": "",
-        "published": "12:15 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "The Memo: Weak jobs report clouds economy as Trump barrels toward midterms - The Hill",
-        "source": "The Hill",
-        "url": "https://thehill.com/homenews/administration/6017947-trump-economy-jobs-report-inflation/",
-        "description": "New clouds darkened the economic landscape on Friday, as the latest employment report showed the nation shedding 23,000 jobs in July. The number came as an unpleasant surprise to most economists. The ",
-        "published": "10:00 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Exclusive | Nip-buck! Celebrity plastic surgeon reveals shocking difference between $30K and $300K facelift - New York Post",
+        "title": "Historic Maine house selling for $1 — but under one condition or it’ll face demolition - New York Post",
         "source": "New York Post",
-        "url": "https://nypost.com/2026/08/08/lifestyle/surgeons-reveals-difference-between-30k-and-300k-facelift/",
-        "description": "Most would assume that when it comes to work done on one’s money-maker, the more expensive, the better the results, right?",
-        "published": "12:00 PM UTC",
+        "url": "https://nypost.com/2026/08/09/real-estate/historic-maine-deering-house-selling-for-1-but-under-one-condition-or-itll-face-demolition/",
+        "description": "The house is currently being used as office space, with tenants under lease through November 2027.",
+        "published": "5:50 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Kellogg removing artificial colors from Froot Loops, Apple Jacks a year ahead of schedule - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/lifestyle/kellogg-removing-artificial-colors-from-froot-loops-apple-jacks-year-ahead-schedule",
+        "description": "Kellogg's Froot Loops and Apple Jacks cereals are ditching artificial colors, but the company says the iconic rainbow cereal will keep its familiar look.",
+        "published": "3:48 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Some meat products containing jalapeños may be linked to salmonella outbreak, USDA says - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/salmonella-outbreak-jalapenos-usda-health-alert-meat-products/",
+        "description": "Federal officials issued a public health alert for meat products containing jalapeños that may be linked to a salmonella outbreak that has sickened hundreds of people across at least 27 states.",
+        "published": "3:35 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Minecraft's Latest Update Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/minecrafts-latest-update-is-now-live-here-are-the-full-patch-notes",
+        "description": "Gameplay improvements, Switch fixes and more",
+        "published": "5:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "We were finally empty nesters. Then we got custody of our granddaughter and had to go back to work to raise her. - businessinsider.com",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/grandparents-raising-grandchildren-retirement-return-to-work-social-security-2026-8#article",
-        "description": "Michael and Connie Frost are raising their granddaughter Kinsley in Georgia, balancing their retirement and her education needs.",
-        "published": "9:48 AM UTC",
+        "title": "Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection - Daring Fireball",
+        "source": "Daringfireball.net",
+        "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+        "description": "My disdain for astrology is so utter, and my esteem for Godier’s previous work so high, that it simply never occurred to me that he might have actually made and submitted to the App Store an astrology",
+        "published": "3:20 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Here’s When Apple Will Reveal Its iPhone 18 Pro Special Event - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/davidphelan/2026/08/08/heres-when-apple-will-reveal-its-iphone-18-pro-special-event-date/",
-        "description": "Apple’s next iPhones will go on sale in just over a month. But when should you start looking out for the confirmation of the special event? Here’s all you need to know.",
-        "published": "8:11 AM UTC",
+        "title": "First Nintendo Switch 2 gameplay revealed for The Elder Scrolls 4: Oblivion Remastered - Nintendo Everything",
+        "source": "Nintendoeverything.com",
+        "url": "https://nintendoeverything.com/first-nintendo-switch-2-gameplay-revealed-for-the-elder-scrolls-4-oblivion-remastered/",
+        "description": "The Elder Scrolls 4: Oblivion Remastered just received its first gameplay on Nintendo Switch - check it out here.",
+        "published": "1:25 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok - Al Jazeera",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok",
-        "description": "Thailand has one of the highest rates of gun ownership in Asia.",
-        "published": "11:35 AM UTC",
+        "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/yemen-houthis-iran-hormuz-mideast-roundup-aug-9-2026-6c5aa0c5debcca3fa36316a8b0b67400",
+        "description": "Yemen’s Houthis have attacked an oil facility in southwestern Saudi Arabia. They also targeted a crucial port on the Red Sea. The attacks are part of ongoing tensions involving strategic waterways. On",
+        "published": "10:14 AM UTC",
         "category": "General"
       },
       {
-        "title": "The sneaky kind of cholesterol that may be threatening your heart health - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/wellness/2026/08/08/what-lipoproteina-test-can-tell-you-about-your-heart-health/",
-        "description": "Lipoprotein(a) isn’t part of a standard lipid panel and is largely driven by genetics. Here’s why it’s important to get your level checked.",
-        "published": "11:32 AM UTC",
+        "title": "Total solar eclipse Aug. 12, 2026 live updates — 3 days to totality - Space",
+        "source": "Space.com",
+        "url": "https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-three-days-to-totality",
+        "description": "Follow our live coverage of the total solar eclipse 2026 as we count down to eclipse day with the latest news, expert insight and updates before bringing you live reports from Greenland and Spain.",
+        "published": "9:33 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "The Joyless Return of ‘Ted Lasso’ - The Free Press",
+        "source": "Thefp.com",
+        "url": "https://www.thefp.com/p/the-joyless-return-of-ted-lasso",
+        "description": "The show’s newest season replaces real character complexity, depth, and heart with big, sweeping political statements that stir progressive pundits and academics and precisely no one else, writes Liel",
+        "published": "9:09 AM UTC",
         "category": "General"
       }
     ]
@@ -251,30 +259,30 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester City Eye Bundesliga Midfielder as De Bruyne Long-Term Successor",
-        "summary": "Manchester City's recruitment team has reportedly shortlisted a high-profile Bundesliga central midfielder as a potential long-term replacement for Kevin De Bruyne, with scouts attending multiple matches this month. Negotiations are said to be in early stages, with a potential summer move contingent on Champions League progression.",
+        "headline": "Manchester United Weigh Move for RB Leipzig Striker Benjamin Sesko",
+        "summary": "Manchester United's recruitment team has identified Sesko as a primary striker target for the summer window, with the club seeking a long-term replacement for aging frontline options. Leipzig are expected to demand in excess of £70 million, and Arsenal are also understood to be monitoring the Slovenian international closely.",
         "clubs": [
-          "Manchester City",
-          "Bayer Leverkusen"
+          "Manchester United",
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Chelsea Hold Talks Over January Loan Move for Prolific Serie A Striker",
-        "summary": "Chelsea are understood to be in advanced discussions for a January loan deal for a proven Serie A forward as Enzo Maresca looks to address a shortage of clinical finishing in his squad. The player's parent club is open to a temporary exit given the attacker's limited first-team opportunities this season.",
+        "headline": "Chelsea in Advanced Talks to Sign Sporting CP Midfielder Morten Hjulmand",
+        "summary": "Chelsea have accelerated discussions with Sporting CP over a deal for Danish midfielder Hjulmand, viewed as a defensive midfield solution to shore up Enzo Maresca's system. The transfer fee is reported to be in the region of £50–55 million, with personal terms not expected to be a significant obstacle.",
         "clubs": [
           "Chelsea",
-          "Napoli"
+          "Sporting CP"
         ]
       }
     ],
     "match_preview": {
       "home": "Arsenal",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The top-of-the-table clash at the Emirates promises to be the defining fixture of the Premier League season so far, with Arsenal and Liverpool separated by just two points heading into the weekend. Arsenal will be buoyed by a six-match unbeaten home run and the attacking form of Bukayo Saka, while Liverpool's relentless pressing under Slot has seen them outscore every team in the division. The tactical battle between Arsenal's structured defensive block and Liverpool's high-intensity transition play should be captivating, with both sides knowing that dropped points here could prove decisive come May.",
+      "away": "Manchester City",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "This top-of-the-table clash at the Emirates carries enormous title implications, with Arsenal sitting two points ahead of City entering the weekend. Arsenal have been imperious at home this season, conceding only six goals in front of their own fans, while City have shown renewed attacking cohesion since shifting to a more compact 4-2-3-1 shape under Pep Guardiola. The tactical subplot of Declan Rice's engine-room influence against City's possession machinery promises to define the midfield battle.",
       "key_players": [
         "Bukayo Saka",
-        "Mohamed Salah",
+        "Erling Haaland",
         "Martin Ødegaard"
       ]
     },
@@ -282,14 +290,14 @@
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Out",
-        "return": "Not expected to return this season — long-term ACL recovery ongoing"
+        "status": "Recovering",
+        "return": "Expected back for final weeks of season; may feature from the bench this match"
       },
       {
-        "player": "Dominic Calvert-Lewin",
-        "team": "Nottingham Forest",
+        "player": "Gabriel Magalhães",
+        "team": "Arsenal",
         "status": "Doubtful",
-        "return": "Targeting return within 2-3 weeks after hamstring strain sustained in training"
+        "return": "Fitness test scheduled Saturday; hamstring tightness picked up in training this week"
       }
     ]
   },
@@ -297,62 +305,62 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10 years to maturity, and a par value of $1,000 is currently priced at $950. If the bond's yield to maturity increases by 50 basis points, which of the following best describes the price change, and why?",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is priced at $950. If the bond's yield to maturity increases by 50 basis points, which of the following best describes the expected price change, assuming modified duration of 7.5?",
       "options": {
-        "A": "The price will increase by more than it would decrease if yields fell by 50 bps, due to positive convexity.",
-        "B": "The price will decrease by more than it would increase if yields fell by 50 bps, due to negative convexity.",
-        "C": "The price will decrease by less than it would increase if yields fell by 50 bps, due to positive convexity.",
-        "D": "The price change will be symmetric around the current price regardless of convexity."
+        "A": "The bond price will increase by approximately $35.63",
+        "B": "The bond price will decrease by approximately $35.63",
+        "C": "The bond price will decrease by approximately $35.63, but the actual price drop will be slightly less due to convexity",
+        "D": "The bond price will decrease by approximately $35.63, but the actual price drop will be slightly more due to convexity"
       },
       "correct": "C",
-      "explanation": "For a standard option-free bond, convexity is positive, meaning the price-yield relationship is curved (convex) rather than linear. As a result, for equal changes in yield, price increases (when yields fall) are larger than price decreases (when yields rise). Therefore, a 50 bps rise in yield produces a smaller price decline than the price gain from a 50 bps yield drop. Option D is incorrect because duration alone would imply symmetry, but convexity creates asymmetry that benefits the bondholder."
+      "explanation": "Modified duration estimates price change as: ΔP ≈ -ModDuration × ΔYield × P = -7.5 × 0.005 × $950 = -$35.63. However, duration is a linear approximation; convexity captures the curvature of the price-yield relationship. Because price-yield curves are convex (bowed toward the origin), actual price declines for yield increases are always slightly less than the duration estimate predicts — meaning duration overstates the price decline. Positive convexity always benefits the bondholder whether yields rise or fall."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why hedges rarely achieve perfect offset — and what it costs when they don't.",
+      "title": "Private Credit's Rise as a Mainstream Asset Class",
+      "subtitle": "How direct lending and private debt have moved from niche alternative to core institutional allocation.",
       "paragraphs": [
-        "Basis risk refers to the risk that the value of a hedging instrument does not move in perfect lockstep with the value of the underlying exposure being hedged. The 'basis' is formally defined as the difference between the spot price of the asset being hedged and the futures (or derivative) price of the instrument used to hedge it. Even when a hedge is carefully constructed, differences in contract specifications, maturities, underlying asset characteristics, or liquidity can cause the hedge to be imperfect, leaving residual exposure that can generate unexpected gains or losses.",
-        "A classic real-world example occurred during the 2008 financial crisis when many firms used credit default swap indices (such as CDX) to hedge bespoke corporate credit exposure. Because the index contained a basket of names that did not perfectly match the firms' actual portfolios, basis widened dramatically — hedges that looked effective on paper generated substantial losses as the correlation between index and portfolio broke down under stress. Similarly, airlines hedging jet fuel with crude oil futures face basis risk because jet fuel and crude prices, while correlated, diverge significantly during supply disruptions or refinery bottlenecks.",
-        "For risk managers and investors, basis risk means that no hedge is truly 'free' of risk — it merely transforms one type of risk into another, often smaller one. Quantifying basis risk requires analyzing the historical correlation and tracking error between the hedging instrument and the underlying exposure, and stress-testing how that relationship behaves in tail scenarios. Practitioners often accept some basis risk in exchange for liquidity and lower transaction costs, but must size their hedges accordingly and monitor basis continuously, particularly when macro regimes shift."
+        "Private credit refers to non-bank lending arranged directly between institutional investors — such as insurance companies, pension funds, and credit-focused asset managers — and corporate borrowers, bypassing traditional syndicated loan or public bond markets. It encompasses direct lending, mezzanine financing, distressed debt, and specialty finance. Instruments are typically floating-rate, senior-secured, and held to maturity, offering illiquidity premiums over publicly traded equivalents. The asset class has grown to exceed $1.7 trillion globally, driven by post-GFC regulatory constraints that pushed banks out of middle-market lending.",
+        "The 2022–2024 high-rate environment turbocharged private credit returns. With benchmark rates elevated, floating-rate direct loans delivered all-in yields of 10–13% to senior lenders — returns historically associated with equity risk but with contractual debt seniority. Marquee deals illustrate the scale: Blackstone, Apollo, and Blue Owl have each originated multi-billion-dollar unitranche facilities for leveraged buyouts that would once have been syndicated across dozens of banks. Even investment-grade private placements have surged, as insurers seeking asset-liability matching turned to privately negotiated corporate debt.",
+        "For investors and risk managers, private credit introduces distinct risk considerations absent from liquid fixed income. Valuation opacity — marks are model-based and infrequent — can mask deterioration in credit quality until realized losses crystallize. Covenant-lite structures, once a public market phenomenon, have migrated into private deals, reducing lender protections. Liquidity mismatch is a systemic concern as retail vehicles (BDCs, interval funds) offer periodic redemptions against illiquid loan books. Prudent allocation requires robust due diligence on originator underwriting discipline, portfolio diversification, and stress-scenario loss modeling."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk that remains when a hedge instrument does not perfectly offset the underlying exposure due to price divergence.",
-        "Basis can widen sharply in stress environments, turning a seemingly effective hedge into a source of unexpected loss.",
-        "Effective hedging requires continuous monitoring of the basis relationship and stress-testing hedge effectiveness under adverse scenarios."
+        "Private credit has grown into a $1.7T+ asset class offering illiquidity premiums and floating-rate income, increasingly attractive in high-rate environments.",
+        "The retreat of regulated banks from middle-market lending created structural demand for non-bank lenders, making private credit a durable rather than cyclical opportunity.",
+        "Investors must carefully assess valuation opacity, covenant quality, and liquidity mismatch risks — especially in retail-accessible vehicles — before sizing allocations."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that something happened completely, often with a nuance of regret or that the action was unintended. It is the polite past form of 〜てしまう, frequently used when something went wrong or was done accidentally.",
-      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you have planned for yourself. If you blow past your 'yo-san,' you'll say it with regret using 〜てしまいました!"
+      "example_jp": "来月の予算をもう決めましたか？",
+      "example_romaji": "Raigetsu no yosan wo mou kimemashita ka?",
+      "example_en": "Have you already decided on next month's budget?",
+      "grammar_point": "〜をもう〜ましたか (Have you already done ~?)",
+      "grammar_explanation": "The pattern 'もう + verb in past polite form + か' is used to ask whether someone has already completed an action. It is a natural, common question structure in everyday and business Japanese.",
+      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum you plan your spending around. Picture counting coins and saying 'yo, that's my sum!'"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Risk Models Are Replacing Traditional Factor Frameworks on Trading Desks",
-      "summary": "Leading investment banks and asset managers are increasingly deploying large-scale machine learning models — particularly gradient boosting ensembles and transformer-based architectures — to augment or replace classical multi-factor risk models in portfolio construction and real-time risk monitoring. These models can ingest alternative data sources such as satellite imagery, earnings call transcripts, and order flow microstructure data simultaneously, identifying non-linear factor interactions that linear models systematically miss. Regulatory bodies including the SEC and Basel Committee are beginning to issue guidance on model risk management (MRM) frameworks specifically tailored to AI-driven financial models, raising the bar for explainability and auditability. Firms that can demonstrate both predictive performance and interpretability will hold a significant competitive and regulatory advantage.",
+      "headline": "AI Agents Are Now Autonomously Executing Trades and Financial Workflows",
+      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous action — is moving from research labs into live financial workflows. Firms including JPMorgan, Goldman Sachs, and a wave of fintech startups are deploying agents that can parse earnings releases, update financial models, draft credit memos, and in controlled environments, execute pre-approved trading strategies without human intervention at each step. Unlike earlier narrow AI tools, these agents chain together language understanding, quantitative computation, and API execution in pursuit of a defined goal. The risk and compliance implications are significant, as accountability frameworks for autonomous AI decisions in regulated financial contexts remain nascent.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble ML technique that builds many simple decision trees sequentially, each correcting the errors of the last. In finance, it is widely used for credit scoring, default prediction, and factor signal generation because it handles non-linear relationships and missing data well."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously plan and execute sequences of actions — such as retrieving data, running calculations, and sending outputs — to complete a complex goal, rather than simply answering a single query."
         },
         {
-          "term": "Model Risk Management (MRM)",
-          "definition": "The governance framework — mandated by regulators such as SR 11-7 in the US — for validating, monitoring, and controlling risks that arise from using quantitative models in decision-making. AI models introduce new MRM challenges around explainability and distributional shift."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model fetches relevant documents or data (e.g., earnings filings, regulatory text, market data) in real time before generating a response, dramatically improving factual accuracy in financial analysis tasks."
         },
         {
-          "term": "Distributional Shift",
-          "definition": "When the statistical properties of data a model encounters in deployment differ from the data it was trained on, causing performance to degrade. In finance, regime changes (e.g., rate hiking cycles, credit crises) are prime sources of distributional shift that can make AI risk models unreliable precisely when they are needed most."
+          "term": "Model Governance",
+          "definition": "The policies, validation processes, and audit trails that financial institutions use to ensure AI and quantitative models perform as intended, remain unbiased, and meet regulatory standards — increasingly critical as AI makes autonomous decisions."
         }
       ],
-      "career_insight": "Finance professionals who combine domain expertise — credit analysis, derivatives pricing, portfolio construction — with working knowledge of ML workflows and model validation are the most sought-after profiles at both buy-side firms and regulators. Investing in skills around Python-based ML libraries, explainable AI (SHAP values, LIME), and quantitative model validation will distinguish candidates in an increasingly automated industry landscape."
+      "career_insight": "Finance professionals who can sit at the intersection of domain expertise and AI fluency — understanding both what an AI agent is doing and whether its financial output is economically sound — will command significant premiums. Risk managers in particular must develop literacy in model validation, prompt engineering, and AI audit frameworks, as regulators including the SEC and FCA are actively drafting guidance on AI accountability in investment decisions."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets reprice the 'higher for longer' rate narrative following resilient US labor data and stickier-than-expected core services inflation. The front end of the Treasury curve remains under pressure, with 2-year yields holding near cycle highs, while credit spreads have widened modestly in investment-grade and more meaningfully in CCC-rated paper — a sign that liquidity is becoming more discriminating. Equity positioning is cautiously defensive, with rotation away from rate-sensitive growth names toward energy and financials, as the market awaits clarity from central bank communications and Q3 earnings guidance for evidence of margin compression feeding through to corporate fundamentals."
+    "market_sentiment": "Global risk appetite is cautiously constructive this week as disinflation narratives regain traction in the US, with core PCE trending toward the Fed's 2% target and rate cut expectations being repriced modestly earlier into the curve. Equities are grinding near all-time highs on narrow breadth, with mega-cap tech continuing to carry index performance while rate-sensitive sectors — utilities and small-caps — show early signs of rotation as the long end of the Treasury curve stabilizes. In macro FX, the dollar is softer on the margin, providing a modest tailwind for EM assets and commodities; however, geopolitical risk premiums in energy markets and uncertainty around China's credit stimulus efficacy remain key overhangs that could shift sentiment quickly."
   }
 }
