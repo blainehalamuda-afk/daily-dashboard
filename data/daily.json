@@ -1,37 +1,37 @@
 {
-  "generated_at": "12:40 PM UTC",
-  "date": "Monday, August 10, 2026",
+  "generated_at": "12:37 PM UTC",
+  "date": "Tuesday, August 11, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 75,
-    "feels_like_f": 76,
-    "high_f": 77,
-    "low_f": 73,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 92,
-    "wind_mph": 5,
+    "temp_f": 78,
+    "feels_like_f": 79,
+    "high_f": 80,
+    "low_f": 75,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 80,
+    "wind_mph": 3,
     "forecast": [
       {
-        "day": "Tue",
-        "icon": "☀️",
-        "high": 76,
-        "low": 76,
-        "description": "Clear Sky"
-      },
-      {
         "day": "Wed",
-        "icon": "⛅",
-        "high": 77,
-        "low": 77,
-        "description": "Scattered Clouds"
+        "icon": "☁️",
+        "high": 72,
+        "low": 72,
+        "description": "Overcast Clouds"
       },
       {
         "day": "Thu",
         "icon": "☁️",
-        "high": 76,
-        "low": 76,
+        "high": 74,
+        "low": 74,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Fri",
+        "icon": "☁️",
+        "high": 80,
+        "low": 80,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 773.26,
-        "change": 4.7,
-        "change_pct": 0.61,
-        "up": true,
+        "price": 773.03,
+        "change": -0.23,
+        "change_pct": -0.03,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 313.33,
-        "change": 0.92,
-        "change_pct": 0.29,
-        "up": true,
+        "price": 308.26,
+        "change": -5.07,
+        "change_pct": -1.62,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 223.96,
-        "change": 4.97,
-        "change_pct": 2.27,
-        "up": true,
+        "price": 217.55,
+        "change": -6.41,
+        "change_pct": -2.86,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 328.58,
-        "change": 9.05,
-        "change_pct": 2.83,
+        "price": 330.88,
+        "change": 2.3,
+        "change_pct": 0.7,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64919.22,
-        "change": -19.3,
-        "change_pct": -0.03,
+        "price": 64351.99,
+        "change": -608.77,
+        "change_pct": -0.94,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1913.57,
-        "change": -4.16,
-        "change_pct": -0.22,
+        "price": 1891.27,
+        "change": -23.73,
+        "change_pct": -1.24,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Historic Maine house selling for $1 — but under one condition or it’ll face demolition - New York Post",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/09/real-estate/historic-maine-deering-house-selling-for-1-but-under-one-condition-or-itll-face-demolition/",
-        "description": "The house is currently being used as office space, with tenants under lease through November 2027.",
-        "published": "5:50 AM UTC",
+        "title": "Stock Market Today: Dow Futures Dip; Oil Prices Edge Higher — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026",
+        "description": "",
+        "published": "12:02 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Kellogg removing artificial colors from Froot Loops, Apple Jacks a year ahead of schedule - Fox Business",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/lifestyle/kellogg-removing-artificial-colors-from-froot-loops-apple-jacks-year-ahead-schedule",
-        "description": "Kellogg's Froot Loops and Apple Jacks cereals are ditching artificial colors, but the company says the iconic rainbow cereal will keep its familiar look.",
-        "published": "3:48 AM UTC",
+        "title": "Yen gives up nearly half of gains from joint US-Japan market intervention - Financial Times",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6\\\\u003d1",
+        "description": "Currency gives up nearly half of gains from joint action with investors citing lack of ‘unified voice’ among central banks",
+        "published": "12:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Some meat products containing jalapeños may be linked to salmonella outbreak, USDA says - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/salmonella-outbreak-jalapenos-usda-health-alert-meat-products/",
-        "description": "Federal officials issued a public health alert for meat products containing jalapeños that may be linked to a salmonella outbreak that has sickened hundreds of people across at least 27 states.",
-        "published": "3:35 AM UTC",
+        "title": "Boeing to Fold Its Flying-Taxi Venture Into Rival Archer Aviation - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/business/airlines/boeing-to-fold-its-flying-taxi-venture-into-rival-archer-aviation-b43245d6",
+        "description": "",
+        "published": "12:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Minecraft's Latest Update Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/minecrafts-latest-update-is-now-live-here-are-the-full-patch-notes",
-        "description": "Gameplay improvements, Switch fixes and more",
-        "published": "5:00 AM UTC",
+        "title": "Burnout Revenge Is Actually the Best One - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/burnout-revenge-is-actually-the-best-one",
+        "description": "Burnout Revenge is actually the best one.",
+        "published": "11:19 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection - Daring Fireball",
-        "source": "Daringfireball.net",
-        "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-        "description": "My disdain for astrology is so utter, and my esteem for Godier’s previous work so high, that it simply never occurred to me that he might have actually made and submitted to the App Store an astrology",
-        "published": "3:20 AM UTC",
+        "title": "PSA: Steam Machine and Steam Controller Customers in Europe Hit by Cyber Attack - Digital Foundry",
+        "source": "Digitalfoundry.net",
+        "url": "https://www.digitalfoundry.net/news/2026/08/psa-steam-machine-and-steam-controller-customers-in-europe-hit-by-cyber-attack",
+        "description": "\"Expect fake messages that mention your hardware order and appear to come from Valve.\"",
+        "published": "11:15 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "First Nintendo Switch 2 gameplay revealed for The Elder Scrolls 4: Oblivion Remastered - Nintendo Everything",
-        "source": "Nintendoeverything.com",
-        "url": "https://nintendoeverything.com/first-nintendo-switch-2-gameplay-revealed-for-the-elder-scrolls-4-oblivion-remastered/",
-        "description": "The Elder Scrolls 4: Oblivion Remastered just received its first gameplay on Nintendo Switch - check it out here.",
-        "published": "1:25 AM UTC",
+        "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
+        "description": "In an unprecedented move for video games, Rockstar is debuting a new GTA 6 trailer exclusively on subscription service Netflix. Will you watch it there?",
+        "published": "10:22 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/yemen-houthis-iran-hormuz-mideast-roundup-aug-9-2026-6c5aa0c5debcca3fa36316a8b0b67400",
-        "description": "Yemen’s Houthis have attacked an oil facility in southwestern Saudi Arabia. They also targeted a crucial port on the Red Sea. The attacks are part of ongoing tensions involving strategic waterways. On",
-        "published": "10:14 AM UTC",
+        "title": "A twist in the race for Lindsey Graham’s seat: No clear Trump-aligned candidate - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/08/10/unusual-twist-race-lindsey-grahams-seat-no-clear-trump-candidate/",
+        "description": "The president backs Graham’s sister, but each contender in South Carolina’s Senate primary has found themselves out of step with him in some way, and a runoff is likely.",
+        "published": "12:29 PM UTC",
         "category": "General"
       },
       {
-        "title": "Total solar eclipse Aug. 12, 2026 live updates — 3 days to totality - Space",
-        "source": "Space.com",
-        "url": "https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-three-days-to-totality",
-        "description": "Follow our live coverage of the total solar eclipse 2026 as we count down to eclipse day with the latest news, expert insight and updates before bringing you live reports from Greenland and Spain.",
-        "published": "9:33 AM UTC",
-        "category": "General"
-      },
-      {
-        "title": "The Joyless Return of ‘Ted Lasso’ - The Free Press",
-        "source": "Thefp.com",
-        "url": "https://www.thefp.com/p/the-joyless-return-of-ted-lasso",
-        "description": "The show’s newest season replaces real character complexity, depth, and heart with big, sweeping political statements that stir progressive pundits and academics and precisely no one else, writes Liel",
-        "published": "9:09 AM UTC",
+        "title": "Intel Selling $15 Billion in Common Stock as AI Demand Booms - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
+        "description": "Intel Corp. said it will be offering $15 billion in common stock, taking advantage of renewed interest in its business prospects during the artificial intelligence data center boom.",
+        "published": "11:55 AM UTC",
         "category": "General"
       }
     ]
@@ -259,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Weigh Move for RB Leipzig Striker Benjamin Sesko",
-        "summary": "Manchester United's recruitment team has identified Sesko as a primary striker target for the summer window, with the club seeking a long-term replacement for aging frontline options. Leipzig are expected to demand in excess of £70 million, and Arsenal are also understood to be monitoring the Slovenian international closely.",
+        "headline": "Arsenal Weighing Summer Move for Bundesliga Midfielder",
+        "summary": "Arsenal's recruitment team has been heavily scouting a creative central midfielder from a top Bundesliga club, with sources suggesting an opening bid could be lodged in June. The Gunners are keen to add depth and creativity behind their front three as they push for a sustained Premier League title challenge.",
         "clubs": [
-          "Manchester United",
-          "RB Leipzig"
+          "Arsenal",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Sign Sporting CP Midfielder Morten Hjulmand",
-        "summary": "Chelsea have accelerated discussions with Sporting CP over a deal for Danish midfielder Hjulmand, viewed as a defensive midfield solution to shore up Enzo Maresca's system. The transfer fee is reported to be in the region of £50–55 million, with personal terms not expected to be a significant obstacle.",
+        "headline": "Chelsea in Advanced Talks to Secure Striker on Permanent Basis",
+        "summary": "Chelsea are reportedly closing in on making a loan striker's move permanent after an impressive second half of the season in which he contributed eight goals and four assists. The deal is believed to be worth in excess of £45 million with significant add-ons tied to Champions League qualification.",
         "clubs": [
           "Chelsea",
-          "Sporting CP"
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "This top-of-the-table clash at the Emirates carries enormous title implications, with Arsenal sitting two points ahead of City entering the weekend. Arsenal have been imperious at home this season, conceding only six goals in front of their own fans, while City have shown renewed attacking cohesion since shifting to a more compact 4-2-3-1 shape under Pep Guardiola. The tactical subplot of Declan Rice's engine-room influence against City's possession machinery promises to define the midfield battle.",
+      "home": "Manchester City",
+      "away": "Arsenal",
+      "date": "Sunday, 3:00 PM BST",
+      "preview": "This top-of-the-table clash has genuine title-race implications, with Arsenal needing a result at the Etihad to keep their slim hopes alive going into the final weeks of the season. City will be buoyed by a midweek Champions League win and the return of key personnel from injury, while Arsenal arrive in strong form having won five of their last six league matches. The tactical battle between Guardiola's high press and Arteta's structured build-out play — a subplot of deep professional rivalry — promises to be the defining chess match of the Premier League season.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Bukayo Saka",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected back for final weeks of season; may feature from the bench this match"
+        "status": "Doubtful",
+        "return": "Being assessed ahead of Sunday; targeting return within 7-10 days"
       },
       {
         "player": "Gabriel Magalhães",
         "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Fitness test scheduled Saturday; hamstring tightness picked up in training this week"
+        "status": "Recovering",
+        "return": "Expected to be available for selection after international break"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is priced at $950. If the bond's yield to maturity increases by 50 basis points, which of the following best describes the expected price change, assuming modified duration of 7.5?",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. The model assumes a single common factor drives asset correlations. Which of the following is the most significant limitation of this approach, as highlighted by the 2008 financial crisis?",
       "options": {
-        "A": "The bond price will increase by approximately $35.63",
-        "B": "The bond price will decrease by approximately $35.63",
-        "C": "The bond price will decrease by approximately $35.63, but the actual price drop will be slightly less due to convexity",
-        "D": "The bond price will decrease by approximately $35.63, but the actual price drop will be slightly more due to convexity"
+        "A": "The model overestimates the probability of individual obligor default under normal market conditions.",
+        "B": "The model fails to capture tail dependence, underestimating the likelihood that multiple obligors default simultaneously during stress periods.",
+        "C": "The model is computationally too intensive for large portfolios, making real-time risk management impractical.",
+        "D": "The model requires stochastic recovery rates, which are difficult to estimate from historical data."
       },
-      "correct": "C",
-      "explanation": "Modified duration estimates price change as: ΔP ≈ -ModDuration × ΔYield × P = -7.5 × 0.005 × $950 = -$35.63. However, duration is a linear approximation; convexity captures the curvature of the price-yield relationship. Because price-yield curves are convex (bowed toward the origin), actual price declines for yield increases are always slightly less than the duration estimate predicts — meaning duration overstates the price decline. Positive convexity always benefits the bondholder whether yields rise or fall."
+      "correct": "B",
+      "explanation": "The Gaussian copula model assumes joint normality, which implies near-zero tail dependence — meaning it significantly underestimates the probability of simultaneous defaults during market stress. During the 2008 crisis, correlations between mortgage defaults spiked dramatically, a phenomenon the model structurally could not capture. Alternative copulas such as the Student-t copula exhibit stronger tail dependence and are better suited for stress scenarios. This limitation led to catastrophic mispricing of CDO tranches that relied heavily on Gaussian copula assumptions."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as a Mainstream Asset Class",
-      "subtitle": "How direct lending and private debt have moved from niche alternative to core institutional allocation.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why hedges rarely perform perfectly — and how basis risk can turn a hedge into a source of unexpected loss.",
       "paragraphs": [
-        "Private credit refers to non-bank lending arranged directly between institutional investors — such as insurance companies, pension funds, and credit-focused asset managers — and corporate borrowers, bypassing traditional syndicated loan or public bond markets. It encompasses direct lending, mezzanine financing, distressed debt, and specialty finance. Instruments are typically floating-rate, senior-secured, and held to maturity, offering illiquidity premiums over publicly traded equivalents. The asset class has grown to exceed $1.7 trillion globally, driven by post-GFC regulatory constraints that pushed banks out of middle-market lending.",
-        "The 2022–2024 high-rate environment turbocharged private credit returns. With benchmark rates elevated, floating-rate direct loans delivered all-in yields of 10–13% to senior lenders — returns historically associated with equity risk but with contractual debt seniority. Marquee deals illustrate the scale: Blackstone, Apollo, and Blue Owl have each originated multi-billion-dollar unitranche facilities for leveraged buyouts that would once have been syndicated across dozens of banks. Even investment-grade private placements have surged, as insurers seeking asset-liability matching turned to privately negotiated corporate debt.",
-        "For investors and risk managers, private credit introduces distinct risk considerations absent from liquid fixed income. Valuation opacity — marks are model-based and infrequent — can mask deterioration in credit quality until realized losses crystallize. Covenant-lite structures, once a public market phenomenon, have migrated into private deals, reducing lender protections. Liquidity mismatch is a systemic concern as retail vehicles (BDCs, interval funds) offer periodic redemptions against illiquid loan books. Prudent allocation requires robust due diligence on originator underwriting discipline, portfolio diversification, and stress-scenario loss modeling."
+        "Basis risk arises when the price of the instrument being hedged and the price of the hedging instrument do not move in perfect lockstep. In practice, a hedge is constructed using a proxy — often a futures contract or a correlated asset — rather than a perfectly matched instrument. The 'basis' is simply the difference between the spot price of the hedged asset and the futures price of the hedging instrument. When this spread widens or narrows unexpectedly, even a well-intentioned hedge can produce material gains or losses that deviate from the manager's original expectations.",
+        "A classic real-world example occurred in the energy sector: an airline attempting to hedge jet fuel costs by shorting crude oil futures faces significant basis risk because jet fuel and WTI crude, while correlated, have historically diverged sharply during refinery capacity crunches or geopolitical disruptions affecting specific distillate markets. Similarly, fixed-income portfolio managers hedging corporate bond exposure with Treasury futures face basis risk tied to the credit spread component, which Treasuries do not hedge at all. The spread between corporate yields and risk-free rates can blow out during credit events, leaving the hedge structurally incomplete.",
+        "For risk managers and investors, quantifying basis risk is as important as measuring the directional risk being hedged. A hedge with high correlation (say 0.95) can still leave meaningful residual variance in a large portfolio. Professionals typically decompose total hedge risk into systematic and basis components and may employ hedge effectiveness testing under ASC 815 or IFRS 9 to ensure accounting treatment reflects economic reality. Stress-testing the basis relationship across historical regimes — including 2008, 2020, and 2022 — is now considered best practice in treasury and risk functions."
       ],
       "key_takeaways": [
-        "Private credit has grown into a $1.7T+ asset class offering illiquidity premiums and floating-rate income, increasingly attractive in high-rate environments.",
-        "The retreat of regulated banks from middle-market lending created structural demand for non-bank lenders, making private credit a durable rather than cyclical opportunity.",
-        "Investors must carefully assess valuation opacity, covenant quality, and liquidity mismatch risks — especially in retail-accessible vehicles — before sizing allocations."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedged item and the hedging instrument.",
+        "Basis can widen dramatically during market stress, turning a protective hedge into an additional source of loss at exactly the wrong time.",
+        "Effective hedging requires monitoring the basis relationship continuously, not just at inception, and stress-testing across historical regimes."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "来月の予算をもう決めましたか？",
-      "example_romaji": "Raigetsu no yosan wo mou kimemashita ka?",
-      "example_en": "Have you already decided on next month's budget?",
-      "grammar_point": "〜をもう〜ましたか (Have you already done ~?)",
-      "grammar_explanation": "The pattern 'もう + verb in past polite form + か' is used to ask whether someone has already completed an action. It is a natural, common question structure in everyday and business Japanese.",
-      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum you plan your spending around. Picture counting coins and saying 'yo, that's my sum!'"
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality — like saying 'I went and did it' in English. It combines the te-form of a verb with しまう to signal that something is entirely done, sometimes unintentionally.",
+      "memory_tip": "Think of 'yo-san' as 'your SAN-ity check on spending' — 予算 is the budget that keeps your finances sane. Picture a samurai guarding a coin purse labeled 'YO-SAN.'"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Autonomously Executing Trades and Financial Workflows",
-      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous action — is moving from research labs into live financial workflows. Firms including JPMorgan, Goldman Sachs, and a wave of fintech startups are deploying agents that can parse earnings releases, update financial models, draft credit memos, and in controlled environments, execute pre-approved trading strategies without human intervention at each step. Unlike earlier narrow AI tools, these agents chain together language understanding, quantitative computation, and API execution in pursuit of a defined goal. The risk and compliance implications are significant, as accountability frameworks for autonomous AI decisions in regulated financial contexts remain nascent.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping How Banks Price Risk",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several large fintech lenders are deploying gradient boosting and neural network models to replace or augment traditional FICO-based underwriting. These models incorporate thousands of alternative data signals — from cash flow volatility patterns to behavioral transaction data — enabling far more granular segmentation of creditworthiness than linear scorecard models allow. Regulators, however, are increasingly scrutinizing these systems for explainability and disparate impact, pushing firms toward hybrid architectures that pair predictive power with interpretable outputs. The firms that successfully balance model performance with regulatory compliance will gain durable competitive advantages in consumer and SME lending.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously plan and execute sequences of actions — such as retrieving data, running calculations, and sending outputs — to complete a complex goal, rather than simply answering a single query."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many simple decision trees sequentially, each correcting the errors of the previous — widely used in credit scoring because it handles non-linear relationships and missing data well without requiring extensive feature engineering."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model fetches relevant documents or data (e.g., earnings filings, regulatory text, market data) in real time before generating a response, dramatically improving factual accuracy in financial analysis tasks."
+          "term": "Explainable AI (XAI) / SHAP Values",
+          "definition": "Methods that decompose a model's prediction into the contribution of each input feature, allowing risk managers and regulators to understand *why* a model assigned a given credit score — critical for adverse action notices and fair lending compliance."
         },
         {
-          "term": "Model Governance",
-          "definition": "The policies, validation processes, and audit trails that financial institutions use to ensure AI and quantitative models perform as intended, remain unbiased, and meet regulatory standards — increasingly critical as AI makes autonomous decisions."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources such as rental payment history, utility bills, payroll records, and spending patterns used to assess creditworthiness for borrowers who lack conventional credit histories, expanding financial inclusion while introducing new model risk."
         }
       ],
-      "career_insight": "Finance professionals who can sit at the intersection of domain expertise and AI fluency — understanding both what an AI agent is doing and whether its financial output is economically sound — will command significant premiums. Risk managers in particular must develop literacy in model validation, prompt engineering, and AI audit frameworks, as regulators including the SEC and FCA are actively drafting guidance on AI accountability in investment decisions."
+      "career_insight": "Credit risk professionals who can bridge quantitative model development and regulatory compliance — understanding both SHAP explainability frameworks and SR 11-7 model risk guidance — are among the most sought-after roles in banking today. Building fluency in Python-based ML pipelines alongside traditional credit analysis skills is increasingly a baseline expectation rather than a differentiator at leading institutions."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite is cautiously constructive this week as disinflation narratives regain traction in the US, with core PCE trending toward the Fed's 2% target and rate cut expectations being repriced modestly earlier into the curve. Equities are grinding near all-time highs on narrow breadth, with mega-cap tech continuing to carry index performance while rate-sensitive sectors — utilities and small-caps — show early signs of rotation as the long end of the Treasury curve stabilizes. In macro FX, the dollar is softer on the margin, providing a modest tailwind for EM assets and commodities; however, geopolitical risk premiums in energy markets and uncertainty around China's credit stimulus efficacy remain key overhangs that could shift sentiment quickly."
+    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets reprice the Federal Reserve's rate path following hotter-than-expected services inflation data, pushing the first cut expectation firmly into the second half of the year. The dollar has firmed modestly, pressuring EM currencies and commodity prices, while the front end of the Treasury curve remains inverted — a configuration that continues to signal recession probability elevated relative to consensus GDP forecasts. Equity markets are holding near recent highs on the back of strong mega-cap earnings, but breadth remains narrow and credit spreads have tightened to levels that appear to leave little margin of safety should growth disappoint in Q2."
   }
 }
