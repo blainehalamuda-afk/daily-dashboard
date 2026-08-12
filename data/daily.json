@@ -1,37 +1,37 @@
 {
-  "generated_at": "12:37 PM UTC",
-  "date": "Tuesday, August 11, 2026",
+  "generated_at": "12:40 PM UTC",
+  "date": "Wednesday, August 12, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 78,
-    "feels_like_f": 79,
-    "high_f": 80,
-    "low_f": 75,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 80,
-    "wind_mph": 3,
+    "temp_f": 72,
+    "feels_like_f": 73,
+    "high_f": 74,
+    "low_f": 71,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 94,
+    "wind_mph": 6,
     "forecast": [
       {
-        "day": "Wed",
-        "icon": "☁️",
-        "high": 72,
-        "low": 72,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Thu",
-        "icon": "☁️",
-        "high": 74,
-        "low": 74,
-        "description": "Overcast Clouds"
+        "icon": "⛅",
+        "high": 75,
+        "low": 75,
+        "description": "Scattered Clouds"
       },
       {
         "day": "Fri",
         "icon": "☁️",
         "high": 80,
         "low": 80,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "☁️",
+        "high": 78,
+        "low": 78,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 773.03,
-        "change": -0.23,
-        "change_pct": -0.03,
+        "price": 770.56,
+        "change": -2.47,
+        "change_pct": -0.32,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 308.26,
-        "change": -5.07,
-        "change_pct": -1.62,
+        "price": 304.91,
+        "change": -3.35,
+        "change_pct": -1.09,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 217.55,
-        "change": -6.41,
-        "change_pct": -2.86,
+        "price": 217.5,
+        "change": -0.05,
+        "change_pct": -0.02,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 330.88,
-        "change": 2.3,
-        "change_pct": 0.7,
+        "price": 332.81,
+        "change": 1.93,
+        "change_pct": 0.58,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64351.99,
-        "change": -608.77,
-        "change_pct": -0.94,
+        "price": 64107.35,
+        "change": -258.22,
+        "change_pct": -0.4,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1891.27,
-        "change": -23.73,
-        "change_pct": -1.24,
-        "up": false,
+        "price": 1910.94,
+        "change": 18.94,
+        "change_pct": 1.0,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow Futures Dip; Oil Prices Edge Higher — Live Updates - WSJ",
+        "title": "Powerball jackpot nears $1 billion after no one won $905 million grand prize - Yahoo",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/powerball-jackpot-drawing-monday-aug-10-2026/",
+        "description": "No winning tickets were sold for Monday night's $905 million Powerball jackpot, so the estimated grand prize for Wednesday night's drawing will be at least $975 million, Powerball says.",
+        "published": "10:21 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Nvidia gets $500bn from Wall Street giants to develop AI projects - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78gr0jv0mdo",
+        "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+        "published": "8:44 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Gold Set to Rebound Further Toward $4,500 an Ounce, Daily Chart Shows - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026",
+        "url": "https://www.wsj.com/articles/gold-price-could-test-and-move-beyond-recent-highs-19f5e5e9",
         "description": "",
-        "published": "12:02 PM UTC",
+        "published": "7:08 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Yen gives up nearly half of gains from joint US-Japan market intervention - Financial Times",
-        "source": "Financial Times",
-        "url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6\\\\u003d1",
-        "description": "Currency gives up nearly half of gains from joint action with investors citing lack of ‘unified voice’ among central banks",
-        "published": "12:00 PM UTC",
-        "category": "Business"
+        "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+        "description": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image was captured with an iPhone. References...",
+        "published": "12:08 AM UTC",
+        "category": "Technology"
       },
       {
-        "title": "Boeing to Fold Its Flying-Taxi Venture Into Rival Archer Aviation - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/airlines/boeing-to-fold-its-flying-taxi-venture-into-rival-archer-aviation-b43245d6",
+        "title": "13 Fields of Mistria Tips For First-Time Farmers - Kotaku",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128",
+        "description": "Starting your first farm in Mistria 1.0? Here are a few things that will make your journey easier",
+        "published": "10:45 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Leaked Galaxy S26 FE specs confirm another battery disappointment from Samsung - PhoneArena",
+        "source": "PhoneArena",
+        "url": "https://www.phonearena.com/news/leaked-galaxy-s26-fe-specs-confirm-another-battery-disappointment-from-samsung_id182497",
         "description": "",
-        "published": "12:00 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Burnout Revenge Is Actually the Best One - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/burnout-revenge-is-actually-the-best-one",
-        "description": "Burnout Revenge is actually the best one.",
-        "published": "11:19 AM UTC",
+        "published": "10:26 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "PSA: Steam Machine and Steam Controller Customers in Europe Hit by Cyber Attack - Digital Foundry",
-        "source": "Digitalfoundry.net",
-        "url": "https://www.digitalfoundry.net/news/2026/08/psa-steam-machine-and-steam-controller-customers-in-europe-hit-by-cyber-attack",
-        "description": "\"Expect fake messages that mention your hardware order and appear to come from Valve.\"",
-        "published": "11:15 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
-        "description": "In an unprecedented move for video games, Rockstar is debuting a new GTA 6 trailer exclusively on subscription service Netflix. Will you watch it there?",
-        "published": "10:22 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "A twist in the race for Lindsey Graham’s seat: No clear Trump-aligned candidate - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/unusual-twist-race-lindsey-grahams-seat-no-clear-trump-candidate/",
-        "description": "The president backs Graham’s sister, but each contender in South Carolina’s Senate primary has found themselves out of step with him in some way, and a runoff is likely.",
-        "published": "12:29 PM UTC",
+        "title": "First ever Pixel 11 Pro XL hands-on leak shows one of the phone's standout features, and I can't wait to see it live - PhoneArena",
+        "source": "PhoneArena",
+        "url": "https://www.phonearena.com/news/first-ever-pixel-11-pro-xl-hands-on-leak-shows-hilight-notification-led_id182494",
+        "description": "",
+        "published": "9:45 AM UTC",
         "category": "General"
       },
       {
-        "title": "Intel Selling $15 Billion in Common Stock as AI Demand Booms - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
-        "description": "Intel Corp. said it will be offering $15 billion in common stock, taking advantage of renewed interest in its business prospects during the artificial intelligence data center boom.",
-        "published": "11:55 AM UTC",
+        "title": "Progressives could score a huge Wisconsin win Tuesday. Some national figures don’t want to touch it. - Politico",
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/08/11/francesca-hong-wisconsin-aoc-bernie-progressive-01031466",
+        "description": "Francesca Hong hasn’t drawn big name backers like Bernie Sanders and Alexandria Ocasio-Cortez to her gubernatorial campaign, unlike other candidates this cycle.",
+        "published": "8:45 AM UTC",
         "category": "General"
       }
     ]
@@ -251,74 +251,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Summer Move for Bundesliga Midfielder",
-        "summary": "Arsenal's recruitment team has been heavily scouting a creative central midfielder from a top Bundesliga club, with sources suggesting an opening bid could be lodged in June. The Gunners are keen to add depth and creativity behind their front three as they push for a sustained Premier League title challenge.",
+        "headline": "Arsenal In Advanced Talks for Bundesliga Midfielder",
+        "summary": "Arsenal are reported to be in advanced negotiations for a dynamic box-to-box midfielder from a top Bundesliga club, with the fee expected to exceed £60 million. The Gunners are looking to add depth and creativity in central midfield ahead of a pivotal Champions League campaign.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Secure Striker on Permanent Basis",
-        "summary": "Chelsea are reportedly closing in on making a loan striker's move permanent after an impressive second half of the season in which he contributed eight goals and four assists. The deal is believed to be worth in excess of £45 million with significant add-ons tied to Champions League qualification.",
+        "headline": "Manchester United Eye Napoli Centre-Back as Defensive Rebuild Continues",
+        "summary": "Manchester United's new football leadership is reportedly identifying a commanding Napoli centre-back as a priority signing to shore up a defence that has struggled for consistency this season. Personal terms are said to be straightforward, with the clubs now negotiating a transfer structure.",
         "clubs": [
-          "Chelsea",
+          "Manchester United",
           "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Arsenal",
-      "date": "Sunday, 3:00 PM BST",
-      "preview": "This top-of-the-table clash has genuine title-race implications, with Arsenal needing a result at the Etihad to keep their slim hopes alive going into the final weeks of the season. City will be buoyed by a midweek Champions League win and the return of key personnel from injury, while Arsenal arrive in strong form having won five of their last six league matches. The tactical battle between Guardiola's high press and Arteta's structured build-out play — a subplot of deep professional rivalry — promises to be the defining chess match of the Premier League season.",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's most anticipated fixture of the season arrives with Liverpool sitting top of the table and City desperate to close the gap after a run of inconsistent results. Liverpool's front three have been in devastating form at Anfield, while City will look to Erling Haaland to be the difference-maker against a high defensive line. The tactical battle between the managers promises to be absorbing, with both sides knowing this result could effectively define the title race trajectory.",
       "key_players": [
+        "Mohamed Salah",
         "Erling Haaland",
-        "Bukayo Saka",
-        "Rodri"
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Being assessed ahead of Sunday; targeting return within 7-10 days"
+        "return": "Being assessed ahead of the weekend; could return within 7-10 days if scan results are positive"
       },
       {
-        "player": "Gabriel Magalhães",
-        "team": "Arsenal",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected to be available for selection after international break"
+        "return": "Targeting return after the international break; not expected to feature this weekend"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
+      "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. The model assumes a single common factor drives asset correlations. Which of the following is the most significant limitation of this approach, as highlighted by the 2008 financial crisis?",
+      "question": "A bank enters into a 5-year interest rate swap with a corporate counterparty where the bank pays fixed and receives floating. Which of the following best describes the bank's credit exposure profile over the life of the swap?",
       "options": {
-        "A": "The model overestimates the probability of individual obligor default under normal market conditions.",
-        "B": "The model fails to capture tail dependence, underestimating the likelihood that multiple obligors default simultaneously during stress periods.",
-        "C": "The model is computationally too intensive for large portfolios, making real-time risk management impractical.",
-        "D": "The model requires stochastic recovery rates, which are difficult to estimate from historical data."
+        "A": "Credit exposure is highest at inception and declines linearly to zero at maturity",
+        "B": "Credit exposure is zero at inception, rises to a peak in the middle years, then declines toward zero at maturity",
+        "C": "Credit exposure remains constant throughout the life of the swap equal to the notional principal",
+        "D": "Credit exposure is highest at maturity because all cash flows are settled at the end of the contract"
       },
       "correct": "B",
-      "explanation": "The Gaussian copula model assumes joint normality, which implies near-zero tail dependence — meaning it significantly underestimates the probability of simultaneous defaults during market stress. During the 2008 crisis, correlations between mortgage defaults spiked dramatically, a phenomenon the model structurally could not capture. Alternative copulas such as the Student-t copula exhibit stronger tail dependence and are better suited for stress scenarios. This limitation led to catastrophic mispricing of CDO tranches that relied heavily on Gaussian copula assumptions."
+      "explanation": "For interest rate swaps, credit exposure (measured as potential future exposure) follows a hump-shaped profile. At inception, the swap has zero market value to both parties; as time passes, interest rates can drift causing the swap to gain value to one party, but as maturity approaches, fewer cash flows remain and exposure declines back toward zero. This hump-shaped profile distinguishes swaps from loans, where exposure declines monotonically. The notional principal is never exchanged in an interest rate swap, so option C is incorrect."
     },
     "finance_topic": {
       "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why hedges rarely perform perfectly — and how basis risk can turn a hedge into a source of unexpected loss.",
+      "subtitle": "Why imperfect hedges can leave portfolios more exposed than managers expect.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument being hedged and the price of the hedging instrument do not move in perfect lockstep. In practice, a hedge is constructed using a proxy — often a futures contract or a correlated asset — rather than a perfectly matched instrument. The 'basis' is simply the difference between the spot price of the hedged asset and the futures price of the hedging instrument. When this spread widens or narrows unexpectedly, even a well-intentioned hedge can produce material gains or losses that deviate from the manager's original expectations.",
-        "A classic real-world example occurred in the energy sector: an airline attempting to hedge jet fuel costs by shorting crude oil futures faces significant basis risk because jet fuel and WTI crude, while correlated, have historically diverged sharply during refinery capacity crunches or geopolitical disruptions affecting specific distillate markets. Similarly, fixed-income portfolio managers hedging corporate bond exposure with Treasury futures face basis risk tied to the credit spread component, which Treasuries do not hedge at all. The spread between corporate yields and risk-free rates can blow out during credit events, leaving the hedge structurally incomplete.",
-        "For risk managers and investors, quantifying basis risk is as important as measuring the directional risk being hedged. A hedge with high correlation (say 0.95) can still leave meaningful residual variance in a large portfolio. Professionals typically decompose total hedge risk into systematic and basis components and may employ hedge effectiveness testing under ASC 815 or IFRS 9 to ensure accounting treatment reflects economic reality. Stress-testing the basis relationship across historical regimes — including 2008, 2020, and 2022 — is now considered best practice in treasury and risk functions."
+        "Basis risk is the residual risk that remains when a hedge does not perfectly offset the price movements of the underlying exposure. It arises from the difference — the 'basis' — between the spot price of an asset being hedged and the futures or derivative price used to hedge it. Even a well-constructed hedge can leave a portfolio vulnerable if the two instruments do not move in perfect lockstep, which in practice they almost never do. Basis risk is a fundamental concept in derivatives and risk management, reminding practitioners that hedging eliminates one type of risk while potentially introducing another.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices are highly correlated but not identical, fluctuations in the crack spread — the difference between crude oil and refined product prices — create basis risk. During periods of refinery disruption or sudden demand shocks for refined products, the basis can widen dramatically, meaning the hedge performs far worse than modeled. Similarly, a fixed-income portfolio manager hedging a corporate bond portfolio with Treasury futures faces basis risk driven by changes in credit spreads — if spreads widen while Treasury yields fall, the hedge may actually amplify losses.",
+        "For risk managers and investors, understanding basis risk is critical when selecting hedging instruments and evaluating hedge effectiveness under accounting standards such as IFRS 9 or ASC 815. A hedge with high basis risk may fail effectiveness tests, forcing mark-to-market volatility through the income statement. Managers should stress-test the basis under historical extreme scenarios, monitor basis drift continuously, and consider whether a more targeted — though possibly more expensive — hedging instrument can reduce residual exposure. Basis risk also widens during market dislocations, precisely when hedges are needed most."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedged item and the hedging instrument.",
-        "Basis can widen dramatically during market stress, turning a protective hedge into an additional source of loss at exactly the wrong time.",
-        "Effective hedging requires monitoring the basis relationship continuously, not just at inception, and stress-testing across historical regimes."
+        "Basis risk is the imperfect correlation between a hedging instrument and the underlying exposure, leaving residual unhedged risk.",
+        "It can cause hedges to underperform or even amplify losses during market stress when correlations break down.",
+        "Risk managers must stress-test the basis, monitor it dynamically, and weigh it in hedge effectiveness assessments under accounting standards."
       ]
     },
     "japanese": {
@@ -326,33 +326,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality — like saying 'I went and did it' in English. It combines the te-form of a verb with しまう to signal that something is entirely done, sometimes unintentionally.",
-      "memory_tip": "Think of 'yo-san' as 'your SAN-ity check on spending' — 予算 is the budget that keeps your finances sane. Picture a samurai guarding a coin purse labeled 'YO-SAN.'"
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened completely or regrettably, often implying the speaker didn't intend for it or feels bad about it. It combines the te-form of a verb with しまいました (the polite past of しまう).",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum you planned to spend is your yosan, your budget."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping How Banks Price Risk",
-      "summary": "Major financial institutions including JPMorgan, HSBC, and several large fintech lenders are deploying gradient boosting and neural network models to replace or augment traditional FICO-based underwriting. These models incorporate thousands of alternative data signals — from cash flow volatility patterns to behavioral transaction data — enabling far more granular segmentation of creditworthiness than linear scorecard models allow. Regulators, however, are increasingly scrutinizing these systems for explainability and disparate impact, pushing firms toward hybrid architectures that pair predictive power with interpretable outputs. The firms that successfully balance model performance with regulatory compliance will gain durable competitive advantages in consumer and SME lending.",
+      "headline": "AI Agent Frameworks Are Reshaping How Risk Teams Operate Daily",
+      "summary": "Agentic AI systems — where multiple AI models collaborate autonomously to complete multi-step tasks — are moving from research labs into production environments at major financial institutions. Banks are piloting agent frameworks for tasks like regulatory report drafting, covenant breach monitoring, and real-time credit memo generation, with human reviewers acting as final checkpoints rather than primary processors. Unlike single-prompt AI tools, these agents can call external data APIs, reason across documents, and iterate — dramatically compressing analyst workflow cycles from hours to minutes. The key challenge remains auditability: regulators expect institutions to explain AI-driven decisions, making transparent reasoning chains a non-negotiable design requirement.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many simple decision trees sequentially, each correcting the errors of the previous — widely used in credit scoring because it handles non-linear relationships and missing data well without requiring extensive feature engineering."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously plan and execute multi-step tasks — like pulling data, drafting analysis, and flagging anomalies — without needing a human prompt at each step, acting more like a junior analyst than a search engine."
         },
         {
-          "term": "Explainable AI (XAI) / SHAP Values",
-          "definition": "Methods that decompose a model's prediction into the contribution of each input feature, allowing risk managers and regulators to understand *why* a model assigned a given credit score — critical for adverse action notices and fair lending compliance."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model pulls relevant documents or data from an external knowledge base before generating a response, allowing finance tools to ground answers in current filings, term sheets, or market data rather than relying solely on training data."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources such as rental payment history, utility bills, payroll records, and spending patterns used to assess creditworthiness for borrowers who lack conventional credit histories, expanding financial inclusion while introducing new model risk."
+          "term": "Human-in-the-Loop (HITL)",
+          "definition": "A workflow design where AI handles the bulk of processing but a human expert reviews and approves outputs at defined checkpoints — the dominant compliance-friendly deployment model in regulated financial services."
         }
       ],
-      "career_insight": "Credit risk professionals who can bridge quantitative model development and regulatory compliance — understanding both SHAP explainability frameworks and SR 11-7 model risk guidance — are among the most sought-after roles in banking today. Building fluency in Python-based ML pipelines alongside traditional credit analysis skills is increasingly a baseline expectation rather than a differentiator at leading institutions."
+      "career_insight": "Finance professionals who thrive in the next five years will be those who can critically evaluate AI outputs, design effective human-AI workflows, and translate model limitations into risk disclosures — not just those who can prompt an LLM. Roles in model validation, AI governance, and quantitative strategy are seeing surging demand, while purely data-gathering analyst functions face meaningful automation pressure. Building fluency in how these systems work — even without coding expertise — is rapidly becoming a core competency for senior roles in risk, compliance, and asset management."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex macro backdrop as markets reprice the Federal Reserve's rate path following hotter-than-expected services inflation data, pushing the first cut expectation firmly into the second half of the year. The dollar has firmed modestly, pressuring EM currencies and commodity prices, while the front end of the Treasury curve remains inverted — a configuration that continues to signal recession probability elevated relative to consensus GDP forecasts. Equity markets are holding near recent highs on the back of strong mega-cap earnings, but breadth remains narrow and credit spreads have tightened to levels that appear to leave little margin of safety should growth disappoint in Q2."
+    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as investors balance resilient US labor market data against persistent uncertainty around the Federal Reserve's rate path, with fed funds futures still pricing fewer than two cuts for the remainder of the year. Bund yields are ticking higher after hotter-than-expected German factory orders, complicating the ECB's messaging ahead of next week's policy meeting, while EM FX remains under modest pressure as the dollar index consolidates near the top of its recent range. Commodities are the session's bright spot — Brent crude is firming on renewed Middle East supply concerns and stronger Chinese import data, lending support to energy equities and providing a modest inflation wildcard that bond markets are starting to reprice."
   }
 }
