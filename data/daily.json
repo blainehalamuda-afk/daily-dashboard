@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:37 PM UTC",
-  "date": "Friday, August 14, 2026",
+  "generated_at": "12:14 PM UTC",
+  "date": "Saturday, August 15, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 78,
+    "temp_f": 77,
     "feels_like_f": 79,
     "high_f": 80,
-    "low_f": 75,
-    "description": "Scattered Clouds",
-    "icon": "⛅",
-    "humidity": 91,
-    "wind_mph": 0,
+    "low_f": 76,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 94,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 79,
-        "low": 79,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Sun",
-        "icon": "☁️",
-        "high": 79,
-        "low": 79,
-        "description": "Broken Clouds"
+        "icon": "⛅",
+        "high": 73,
+        "low": 73,
+        "description": "Scattered Clouds"
       },
       {
         "day": "Mon",
-        "icon": "☀️",
+        "icon": "🌤️",
         "high": 80,
         "low": 80,
-        "description": "Clear Sky"
+        "description": "Few Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "☁️",
+        "high": 75,
+        "low": 75,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 777.88,
-        "change": 5.39,
-        "change_pct": 0.7,
-        "up": true,
+        "price": 776.34,
+        "change": -1.54,
+        "change_pct": -0.2,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 305.26,
-        "change": 3.01,
-        "change_pct": 1.0,
+        "price": 305.93,
+        "change": 0.67,
+        "change_pct": 0.22,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 225.3,
-        "change": 1.21,
-        "change_pct": 0.54,
-        "up": true,
+        "price": 225.16,
+        "change": -0.14,
+        "change_pct": -0.06,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 339.96,
-        "change": 12.45,
-        "change_pct": 3.8,
+        "price": 342.27,
+        "change": 2.31,
+        "change_pct": 0.68,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 62852.3,
-        "change": -767.93,
-        "change_pct": -1.21,
-        "up": false,
+        "price": 62989.86,
+        "change": 195.85,
+        "change_pct": 0.31,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1877.54,
-        "change": -10.13,
-        "change_pct": -0.54,
-        "up": false,
+        "price": 1878.94,
+        "change": 4.1,
+        "change_pct": 0.22,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Cisco Networking Sales Surge on AI Demand. Why the Stock Is Down After Earnings. - Barron's",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/cisco-systems-earnings-stock-price-ec1ea4f5",
-        "description": "",
-        "published": "10:05 AM UTC",
+        "title": "Stock futures choppy after S&P 500 sets record above 7,800, heads for winning week: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+        "description": "Thursday's gain put the S&P 500 and Nasdaq Composite on pace for their third straight weekly advances.",
+        "published": "8:40 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Cerebras Stock Plunges After Strong Earnings Report - Barron's",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486",
-        "description": "Cerebras Systems stock has had a wild ride in a crowded field. Its stock was down despite a strong earnings report.",
-        "published": "8:49 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "KOSPI exits bear market as tech rally returns; Nikkei gains, China slips - Investing.com",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/kospi-enters-bull-market-as-ai-rally-returns-japan-gains-china-tech-mixed-4856577",
-        "description": "KOSPI exits bear market as tech rally returns; Nikkei gains, China slips",
-        "published": "7:41 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "We're Live at Made By Google Sharing Every Pixel 11, Pro Fold, and Watch 5 Announcement - PCMag",
-        "source": "PCMag.com",
-        "url": "https://www.pcmag.com/news/made-by-google-live-2026-pixel-11-pro-fold-watch5-tag-tracker-announcement",
-        "description": "The Made by Google event kicks off at 6 p.m. ET, but tune in for our preshow at 5:30 p.m. ET for analysis of the company's new Pixel phones, smartwatch, and tracker.",
-        "published": "7:39 AM UTC",
+        "title": "One UI 9.5 will finally bring app lock feature to your Galaxy phone or tablet - SamMobile",
+        "source": "SamMobile",
+        "url": "https://www.sammobile.com/news/one-ui-9-5-app-lock-feature-leak/",
+        "description": "A new leak has revealed that Samsung is finally bringing the app lock feature to eligible Galaxy smartphones and tablets.",
+        "published": "3:25 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "iPhone 18 Pro Event Tipped As Apple Shifts Key Release Schedule Date - forbes.com",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/davidphelan/2026/08/13/iphone-18-pro-event-tipped-as-apple-shifts-key-release-schedule-date/",
-        "description": "Exactly when the next Apple special event will take place to reveal the iPhone 18 Pro has just become clearer — and there’s a change to a key date.",
-        "published": "7:36 AM UTC",
+        "title": "Apple sends fresh wave of mercenary spyware warnings worldwide - 9to5Mac",
+        "source": "9to5Mac",
+        "url": "https://9to5mac.com/2026/08/13/apple-sends-fresh-wave-of-mercenary-spyware-warnings-worldwide/",
+        "description": "Apple has notified users in 110 countries who it suspects may have been targeted by spyware attacks. Here are the details.",
+        "published": "12:54 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Twitch faces backlash over Amazon training AI on its users' livestreams - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cp30pz8d09jo",
-        "description": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training.",
-        "published": "2:46 AM UTC",
+        "title": "Pokemon Pokopia sales top five million - Gematsu",
+        "source": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/pokemon-pokopia-sales-top-five-million",
+        "description": "Total sales for Pokemon Pokopia have surpassed five million units, The Pokemon Company announced.",
+        "published": "12:05 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Ex-Porn Star Jenna Jameson Gets Married to Milagros Ocampo - TMZ",
-        "source": "TMZ",
-        "url": "https://www.tmz.com/2026/08/13/jenna-jameson-gets-married-to-milagros-ocampo/",
-        "description": "Jenna Jameson is taking another stab at marriage ... because the ex-porn star has tied the knot with her partner Milagros Ocampo, TMZ has learned.",
-        "published": "7:44 AM UTC",
+        "title": "Who are the biggest social media stars in Congress? - Politico",
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/08/14/congress-social-media-stars-01036467",
+        "description": "Some familiar names top the list, but a slate of up and coming members have amassed significant followings this term.",
+        "published": "8:45 AM UTC",
         "category": "General"
       },
       {
-        "title": "California couple’s surrogate gives birth in Texas after judge orders life-saving care - cnn.com",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/13/us/surrogate-texas-birth-surgery-hnk",
-        "description": "A California couple’s surrogate who went to Texas in an escalating dispute over treating a congenital heart condition gave birth Wednesday, a day after a judge in Dallas ordered life-sustaining care f",
-        "published": "7:38 AM UTC",
+        "title": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-to-roll-out-economic-isolation-plan-for-iran-next-week",
+        "description": "The US will soon announce unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said, intensifying the Trump administration’s effort to force Tehran’s capitulation after almos",
+        "published": "6:57 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+        "description": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincol",
+        "published": "6:31 AM UTC",
         "category": "General"
       }
     ]
@@ -182,68 +174,68 @@
     "standings": [
       {
         "position": 1,
-        "team": "Arsenal",
-        "played": 38,
-        "won": 26,
-        "drawn": 7,
-        "lost": 5,
-        "gd": 44,
-        "points": 85,
-        "highlighted": false
-      },
-      {
-        "position": 2,
-        "team": "Man City",
-        "played": 38,
-        "won": 23,
-        "drawn": 9,
-        "lost": 6,
-        "gd": 42,
-        "points": 78,
-        "highlighted": false
-      },
-      {
-        "position": 3,
-        "team": "Man United",
-        "played": 38,
-        "won": 20,
-        "drawn": 11,
-        "lost": 7,
-        "gd": 19,
-        "points": 71,
-        "highlighted": false
-      },
-      {
-        "position": 4,
-        "team": "Aston Villa",
-        "played": 38,
-        "won": 19,
-        "drawn": 8,
-        "lost": 11,
-        "gd": 7,
-        "points": 65,
-        "highlighted": false
-      },
-      {
-        "position": 5,
-        "team": "Liverpool",
-        "played": 38,
-        "won": 17,
-        "drawn": 9,
-        "lost": 12,
-        "gd": 10,
-        "points": 60,
-        "highlighted": false
-      },
-      {
-        "position": 6,
         "team": "Bournemouth",
-        "played": 38,
-        "won": 13,
-        "drawn": 18,
-        "lost": 7,
-        "gd": 4,
-        "points": 57,
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Arsenal",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Aston Villa",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Brentford",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Brighton Hove",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
+        "highlighted": false
+      },
+      {
+        "position": 1,
+        "team": "Chelsea",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 0,
+        "points": 0,
         "highlighted": false
       }
     ]
@@ -251,74 +243,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Revive Interest in Bundesliga Midfielder Ahead of January Window",
-        "summary": "Arsenal are reportedly monitoring Bayer Leverkusen's Granit Xhaka successor profile as Mikel Arteta seeks additional midfield depth following a congested fixture schedule. Discussions are said to be at an early stage with no formal bid submitted.",
+        "headline": "Manchester United Weighing Move for Bundesliga Midfielder Ahead of January Window",
+        "summary": "Manchester United's recruitment team has reportedly identified a dynamic box-to-box midfielder from a top Bundesliga club as a priority target, with preliminary contacts said to have been made. The club is seeking to add physicality and creativity in the center of the park following a string of underwhelming performances.",
         "clubs": [
-          "Arsenal",
+          "Manchester United",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Linked with January Move for Napoli Striker",
-        "summary": "Manchester United's interim management are considering a loan-to-buy structure for a proven Serie A forward as the club's injury crisis in attack deepens. Napoli are reluctant to sell in January but may consider a temporary arrangement.",
+        "headline": "Chelsea in Advanced Talks to Extend Key Defender's Contract Amid Interest from Spain",
+        "summary": "Chelsea are reportedly close to securing a contract extension for one of their first-choice center-backs, who had attracted interest from Atletico Madrid and Barcelona. The club is keen to protect the asset's value and maintain defensive stability following a turbulent start to the season.",
         "clubs": [
-          "Manchester United",
-          "Napoli"
+          "Chelsea",
+          "Atletico Madrid"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
+      "home": "Arsenal",
       "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's most compelling fixture pits a free-scoring Liverpool side — unbeaten in their last nine and riding the crest of a high-press wave under Arne Slot — against a Manchester City squad still searching for consistency following an unprecedented run of injuries to key personnel. The stakes are enormous at the top of the table, with Liverpool looking to extend their lead while City desperately need three points to stay in the title conversation. Sub-plots abound: Slot faces his first Anfield showdown with Pep Guardiola, and both managers will be tactically tested in what promises to be a high-intensity, pressing battle in the final third.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Emirates hosts what promises to be the defining fixture of the Premier League's early season as Arsenal and Manchester City renew one of English football's most compelling modern rivalries. Arsenal enter the match in fine form domestically, with Mikel Arteta's side pressing with relentless intensity and Saka pulling the strings in the final third. City, fresh from a midweek Champions League victory, will look to Haaland's clinical finishing to exploit any defensive lapses — making this a fascinating tactical contest between Arteta's high press and Guardiola's positional play.",
       "key_players": [
-        "Mohamed Salah",
+        "Bukayo Saka",
         "Erling Haaland",
-        "Alexis Mac Allister"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
         "status": "Doubtful",
-        "return": "Expected to be assessed on the morning of the match; targeting a return within 7–10 days if ruled out"
+        "return": "Expected back within 10-14 days pending late fitness test"
       },
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return after the international break; expected to miss 2–3 more club fixtures"
+        "return": "Targeting return after international break; unlikely to feature this weekend"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,043.29. If the yield to maturity increases by 50 basis points, the bond's price will most likely:",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Valuation and Spread Analysis",
+      "question": "A portfolio manager is analyzing a corporate bond using the option-adjusted spread (OAS) framework. The bond has an embedded call option. Compared to the bond's Z-spread, the OAS will most likely be:",
       "options": {
-        "A": "Decrease by exactly 2.50%, reflecting the coupon rate adjustment",
-        "B": "Decrease by less than it would increase if yields fell by the same amount",
-        "C": "Decrease by more than it would increase if yields fell by the same amount",
-        "D": "Change proportionally to the modified duration times the yield change"
+        "A": "Higher than the Z-spread, because the call option benefits the issuer and must be stripped out",
+        "B": "Lower than the Z-spread, because the option cost is subtracted from the Z-spread",
+        "C": "Equal to the Z-spread, because OAS and Z-spread both measure spread over the benchmark curve",
+        "D": "Higher than the Z-spread, because OAS incorporates interest rate volatility while Z-spread does not"
       },
       "correct": "B",
-      "explanation": "This question tests the concept of convexity. Due to positive convexity, the price increase from a yield decrease is larger than the price decrease from an equal yield increase. Modified duration provides a linear approximation of price change, but convexity captures the curvature of the price-yield relationship. For option bonds and standard coupon bonds, positive convexity means investors benefit asymmetrically from yield movements. Option D is partially correct in concept but incomplete — duration alone understates price increases and overstates price decreases."
+      "explanation": "For a callable bond, the issuer holds the call option, which is a cost to the bondholder. The Z-spread includes compensation for this embedded option, while the OAS strips out the option cost to isolate the credit and liquidity spread. Therefore, OAS = Z-spread minus the option cost, making OAS lower than the Z-spread for callable bonds. Conversely, for putable bonds (where the investor holds the option), OAS would be higher than the Z-spread."
     },
     "finance_topic": {
-      "title": "Duration Gap and Interest Rate Risk in Banks",
-      "subtitle": "How mismatches between asset and liability duration expose financial institutions to devastating rate shocks.",
+      "title": "Basis Risk and Imperfect Hedging in Practice",
+      "subtitle": "Why hedges rarely eliminate risk entirely, and how skilled risk managers account for the gap.",
       "paragraphs": [
-        "The duration gap is the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for leverage. When assets have a longer duration than liabilities, the institution is said to have a positive duration gap — meaning its net worth is inversely sensitive to interest rate movements. A rising rate environment compresses the market value of long-duration assets faster than it reduces the present value of shorter-term liabilities, shrinking the equity cushion. This is not merely a theoretical concern; it is the central mechanism behind several high-profile bank failures.",
-        "The collapse of Silicon Valley Bank in March 2023 is the defining modern case study. SVB had accumulated a massive portfolio of long-duration U.S. Treasury bonds and agency mortgage-backed securities funded by short-term, rate-sensitive deposits from venture-backed startups. As the Federal Reserve raised rates by over 500 basis points in roughly 18 months, the mark-to-market losses on SVB's held-to-maturity and available-for-sale portfolios ballooned. When depositors — concentrated in a single, digitally-connected industry — began withdrawing funds simultaneously, SVB was forced to crystallize losses that had previously been unrealized, triggering a classic bank run accelerated by social media.",
-        "For risk managers and investors, the duration gap framework is essential for stress-testing bank balance sheets. Institutions should monitor their Economic Value of Equity (EVE) sensitivity — a metric that measures how net worth changes under parallel rate shocks — alongside Net Interest Margin (NIM) projections. Banks with positive duration gaps are implicitly short on interest rates, and equity investors should demand higher risk premiums when rates are rising. Regulators now emphasize Interest Rate Risk in the Banking Book (IRRBB) standards under Basel frameworks, requiring banks to report EVE and NIM sensitivity across multiple rate scenarios."
+        "Basis risk arises when the price of the instrument being hedged does not move in perfect lockstep with the price of the hedging instrument. In an ideal world, a hedger would find a derivative or offsetting position whose value changes by exactly the same magnitude and direction as the exposure being hedged. In reality, differences in contract specifications, maturities, credit quality, and underlying asset composition mean that a residual, unhedged risk — the 'basis' — almost always remains. Basis is formally defined as the spot price of the asset being hedged minus the futures price of the hedging contract.",
+        "A classic real-world example occurred during the 2008 financial crisis, when banks using credit default swaps (CDS) on broad indices to hedge bespoke loan book exposures discovered that the index basis widened dramatically. The hedges, which looked clean on paper, failed to track the specific credit deterioration in their portfolios. Similarly, an airline hedging jet fuel exposure using crude oil futures faces basis risk because jet fuel and crude oil spreads can diverge sharply during supply disruptions, as seen during periods of refinery stress. Even a 'textbook' equity hedge using index futures leaves residual idiosyncratic risk if the portfolio deviates from the index composition.",
+        "For investors and risk managers, understanding basis risk is critical to accurately measuring hedge effectiveness and calculating the true economic exposure after hedging. Under IFRS 9 and ASC 815 hedge accounting rules, entities must demonstrate that a hedge is 'highly effective' — typically an 80–125% offset ratio — or risk losing favorable accounting treatment. Risk managers should stress-test hedges under scenarios where the basis widens, not just scenarios where the underlying moves. Strategies such as rolling dynamic hedges, using cross-hedges only when correlation is demonstrably stable, and maintaining a basis reserve all help manage this often-underappreciated source of loss."
       ],
       "key_takeaways": [
-        "A positive duration gap means a bank's assets reprice slower than liabilities, making net worth vulnerable to rising rates.",
-        "SVB's 2023 collapse illustrates how duration mismatches combined with concentrated, flighty deposits can become catastrophic under rapid rate hikes.",
-        "Investors and analysts should scrutinize EVE sensitivity disclosures and IRRBB metrics when evaluating bank financial stability."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedged item and the hedging instrument.",
+        "Real-world events like the 2008 crisis revealed that index-based hedges can diverge sharply from bespoke exposures, turning 'hedged' books into loss centers.",
+        "Effective risk management requires stress-testing the basis itself, not just the underlying exposure, and maintaining accounting compliance through documented hedge effectiveness testing."
       ]
     },
     "japanese": {
@@ -326,33 +318,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました is used to express that something was completed, often with a nuance of regret or that it happened unintentionally. It combines the te-form of a verb with しまいました (the polite past of しまう).",
-      "memory_tip": "Think of 予 (yo) as 'pre-' and 算 (san) as 'calculate' — a budget is what you PRE-CALCULATE before spending. Imagine a samurai (san) carefully counting coins before battle."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality — like saying something 'ended up happening' or was done 'completely.' It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — your budget is the sum of money you have. Picture yourself counting coins and saying 'yo, this is my sum!'"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Autonomously Executing Multi-Step Financial Research Tasks",
-      "summary": "A new generation of agentic AI systems — capable of planning, using tools, and iterating without human input at each step — is beginning to reshape how investment research and financial analysis are conducted. Firms including Bloomberg, Goldman Sachs, and several quantitative hedge funds are deploying LLM-powered agents that can retrieve live data, write code to run models, interpret results, and synthesize findings into draft memos with minimal analyst intervention. Unlike simple chatbots, these agents maintain context across long workflows, call external APIs, and self-correct when outputs appear inconsistent. The shift from AI as a query-response tool to AI as an autonomous workflow executor represents a qualitative leap in productivity leverage for finance teams.",
+      "headline": "AI Agents Are Quietly Automating Core Functions Inside Investment Banks",
+      "summary": "Major investment banks including JPMorgan, Goldman Sachs, and Morgan Stanley have moved beyond experimental AI chatbots and are now deploying autonomous AI agents capable of executing multi-step financial workflows — from covenant monitoring and earnings summarization to trade documentation review and client onboarding compliance checks. These agents, built on large language model foundations with tool-use capabilities, can iterate through tasks, call external APIs, and make conditional decisions without human intervention at each step. The productivity implications are significant: early deployments are reportedly compressing analyst-level research tasks from hours to minutes. The key differentiator for these institutions is proprietary financial data layered on top of foundation models, creating defensible, firm-specific AI capabilities.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as pulling market data, running a valuation model, and drafting a report — without needing a human prompt at every stage."
+          "definition": "AI systems that can autonomously plan and execute sequences of actions — such as retrieving data, running calculations, and drafting outputs — to complete complex financial tasks with minimal human prompting at each step."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model pulls relevant, up-to-date information from external databases or documents before generating a response, reducing hallucinations and grounding outputs in current financial data."
+          "definition": "A technique where an AI model pulls relevant information from a firm's proprietary document library (e.g., credit agreements, research reports) before generating a response, dramatically improving accuracy and grounding outputs in real data rather than general training knowledge."
         },
         {
-          "term": "Tool Use / Function Calling",
-          "definition": "The ability of an LLM to invoke external tools — such as a Bloomberg API, Python interpreter, or SQL database — mid-conversation to retrieve or compute information it cannot derive from training data alone."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built AI model on domain-specific financial data — such as analyst reports, regulatory filings, or trade records — so that the model develops specialized knowledge and language patterns relevant to finance."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, and evaluate agentic AI workflows — rather than just use AI as a search engine — will command a significant productivity and career premium over the next three to five years. The most valued hybrid skill is combining domain expertise in credit, rates, or equity analysis with the ability to architect AI-assisted research pipelines. Familiarity with prompt engineering, basic Python, and LLM evaluation frameworks is rapidly becoming table stakes for senior analyst roles at top-tier institutions."
+      "career_insight": "Finance professionals who understand how to design workflows for AI agents — identifying which tasks to automate, how to validate outputs, and where human judgment remains essential — will command a significant premium over those who only consume AI tools passively. The emerging role of 'AI workflow architect' within front-office and risk teams is already appearing in job postings at bulge-bracket firms. Building fluency in prompt engineering, output validation frameworks, and AI governance will be as important in the next decade as Excel proficiency was in the last."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment remains cautiously constructive as markets digest a resilient U.S. labor market print against a backdrop of moderating core PCE inflation, keeping the Fed on hold but pushing back aggressive rate-cut expectations into late 2025. Treasury yields have stabilized in the 4.40–4.60% range on the 10-year, supporting a mild steepening of the curve as growth optimism tempers recession fears. Equity markets are grinding higher on AI-driven earnings beats in mega-cap tech, though credit spreads in high yield have widened slightly, signaling that the credit cycle may be turning — a divergence worth watching as Q3 earnings season accelerates."
+    "market_sentiment": "Equity markets are navigating a complex macro backdrop as investors weigh resilient U.S. labor data against mounting signals that the Fed's higher-for-longer posture is beginning to bite — particularly in commercial real estate and small-cap credit. The dollar has firmed modestly on yield differentials, pressuring EM currencies, while Brent crude is holding in a tight range as OPEC+ supply discipline offsets softer Chinese demand prints. Risk appetite is cautious but not risk-off: credit spreads are range-bound, the VIX remains below 18, and the dominant theme heading into the week is positioning ahead of key central bank communications from the Fed, ECB, and Bank of Japan."
   }
 }
