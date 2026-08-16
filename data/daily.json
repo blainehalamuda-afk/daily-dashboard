@@ -1,37 +1,37 @@
 {
-  "generated_at": "12:14 PM UTC",
-  "date": "Saturday, August 15, 2026",
+  "generated_at": "12:15 PM UTC",
+  "date": "Sunday, August 16, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 77,
-    "feels_like_f": 79,
-    "high_f": 80,
-    "low_f": 76,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 94,
+    "temp_f": 75,
+    "feels_like_f": 77,
+    "high_f": 77,
+    "low_f": 74,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 93,
     "wind_mph": 5,
     "forecast": [
       {
-        "day": "Sun",
-        "icon": "⛅",
-        "high": 73,
-        "low": 73,
-        "description": "Scattered Clouds"
-      },
-      {
         "day": "Mon",
         "icon": "🌤️",
-        "high": 80,
-        "low": 80,
+        "high": 78,
+        "low": 78,
         "description": "Few Clouds"
       },
       {
         "day": "Tue",
         "icon": "☁️",
-        "high": 75,
-        "low": 75,
+        "high": 79,
+        "low": 79,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "☁️",
+        "high": 76,
+        "low": 76,
         "description": "Broken Clouds"
       }
     ]
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 62989.86,
-        "change": 195.85,
-        "change_pct": 0.31,
+        "price": 63025.39,
+        "change": 39.02,
+        "change_pct": 0.06,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1878.94,
-        "change": 4.1,
-        "change_pct": 0.22,
+        "price": 1880.04,
+        "change": 1.44,
+        "change_pct": 0.08,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock futures choppy after S&P 500 sets record above 7,800, heads for winning week: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
-        "description": "Thursday's gain put the S&P 500 and Nasdaq Composite on pace for their third straight weekly advances.",
-        "published": "8:40 AM UTC",
+        "title": "Georgia financial CEO Todd Burkhalter sentenced for running historic $380M Ponzi scheme to fund lavish lifestyle - New York Post",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/15/us-news/georgia-financial-ceo-todd-burkhalter-sentenced-for-running-historic-380m-ponzi-scheme-to-fund-lavish-lifestyle/",
+        "description": "A financial advising CEO was sentenced Friday to 20 years behind bars for masterminding a $380 million Ponzi scheme to fund his lavish lifestyle that featured yachts, private jets and luxury shoppi…",
+        "published": "5:20 AM UTC",
         "category": "Business"
       },
       {
-        "title": "One UI 9.5 will finally bring app lock feature to your Galaxy phone or tablet - SamMobile",
-        "source": "SamMobile",
-        "url": "https://www.sammobile.com/news/one-ui-9-5-app-lock-feature-leak/",
-        "description": "A new leak has revealed that Samsung is finally bringing the app lock feature to eligible Galaxy smartphones and tablets.",
-        "published": "3:25 AM UTC",
+        "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6\\\\u003d1",
+        "description": "Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing",
+        "published": "4:02 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "FDA upgrades egg recall to highest risk level as salmonella sickens dozens across several states - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/lifestyle/fda-upgrades-egg-recall-highest-risk-level-salmonella-sickens-dozens-across-several-states",
+        "description": "Nearly 1.6 million cartons of white shell eggs and brown cage-free eggs from two Texas farms now carry the FDA's most serious recall classification.",
+        "published": "2:10 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Large-Scale Pokémon Eviction Looms With Pokémon Bank Server Shutdown - hackaday.com",
+        "source": "Hackaday",
+        "url": "https://hackaday.com/2026/08/14/large-scale-pokemon-eviction-looms-with-pokemon-bank-server-shutdown/",
+        "description": "After the Nintendo 3DS handheld console saw most its online services including the online store (eShop) taken offline not too long ago, it was only a matter of time before the demise of even the re…",
+        "published": "2:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Apple sends fresh wave of mercenary spyware warnings worldwide - 9to5Mac",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/08/13/apple-sends-fresh-wave-of-mercenary-spyware-warnings-worldwide/",
-        "description": "Apple has notified users in 110 countries who it suspects may have been targeted by spyware attacks. Here are the details.",
-        "published": "12:54 AM UTC",
+        "title": "Switch Online's DK Challenge Now Offering Physical 39-Card Set Reward - nintendolife.com",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/switch-onlines-dk-challenge-now-offering-physical-39-card-set-reward",
+        "description": "A \"limited-time offer\" until 1st September",
+        "published": "12:55 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Pokemon Pokopia sales top five million - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/pokemon-pokopia-sales-top-five-million",
-        "description": "Total sales for Pokemon Pokopia have surpassed five million units, The Pokemon Company announced.",
-        "published": "12:05 AM UTC",
+        "title": "Android 17 QPR2 brings system blur to the Pixel lockscreen - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/08/14/android-17-qpr2-pixel-lockscreen-blur/",
+        "description": "The interface changes in Android 17 QPR2 Beta 3 continue with more blur for the Pixel lockscreen. Notifications...",
+        "published": "10:55 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Who are the biggest social media stars in Congress? - Politico",
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/08/14/congress-social-media-stars-01036467",
-        "description": "Some familiar names top the list, but a slate of up and coming members have amassed significant followings this term.",
-        "published": "8:45 AM UTC",
+        "title": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616",
+        "description": "Former Cambridge professor Jason Arday was found dead at his London home on Friday, one week after he resigned from his position after accusations of plagiarism.",
+        "published": "9:12 AM UTC",
         "category": "General"
       },
       {
-        "title": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-to-roll-out-economic-isolation-plan-for-iran-next-week",
-        "description": "The US will soon announce unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said, intensifying the Trump administration’s effort to force Tehran’s capitulation after almos",
-        "published": "6:57 AM UTC",
-        "category": "General"
-      },
-      {
-        "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - NPR",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-        "description": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincol",
-        "published": "6:31 AM UTC",
+        "title": "Da'Vine Joy Randolph Sues Landlord Over Alleged $17K a Month Rental From Hell - TMZ",
+        "source": "TMZ",
+        "url": "https://www.tmz.com/2026/08/15/davine-joy-randolph-sues-landlord-over-rental-home/",
+        "description": "Da’Vine Joy Randolph is dragging her landlord to court … claiming she rented a luxury home for $17K a month … only to have to deal with pests and plumbing issues ... TMZ has learned.",
+        "published": "8:00 AM UTC",
         "category": "General"
       }
     ]
@@ -243,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Weighing Move for Bundesliga Midfielder Ahead of January Window",
-        "summary": "Manchester United's recruitment team has reportedly identified a dynamic box-to-box midfielder from a top Bundesliga club as a priority target, with preliminary contacts said to have been made. The club is seeking to add physicality and creativity in the center of the park following a string of underwhelming performances.",
+        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder Ahead of January Window",
+        "summary": "Arsenal's recruitment team have stepped up scouting of a creative central midfielder from a top Bundesliga club, with the Gunners looking to add depth and dynamism to their engine room as they push for a Premier League title challenge. Personal terms are understood to be the key remaining hurdle, with the player's camp reportedly open to a move.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Key Defender's Contract Amid Interest from Spain",
-        "summary": "Chelsea are reportedly close to securing a contract extension for one of their first-choice center-backs, who had attracted interest from Atletico Madrid and Barcelona. The club is keen to protect the asset's value and maintain defensive stability following a turbulent start to the season.",
+        "headline": "Chelsea and Newcastle United Both Tracking Same Ligue 1 Striker",
+        "summary": "Two ambitious Premier League clubs are competing for the signature of a prolific Ligue 1 forward who has 14 goals in all competitions this season, with Chelsea viewing the player as a long-term successor to their current strikers and Newcastle keen to bolster attacking options ahead of a European campaign. A January bid in the region of £55 million is anticipated from at least one club.",
         "clubs": [
           "Chelsea",
-          "Atletico Madrid"
+          "Newcastle United"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Emirates hosts what promises to be the defining fixture of the Premier League's early season as Arsenal and Manchester City renew one of English football's most compelling modern rivalries. Arsenal enter the match in fine form domestically, with Mikel Arteta's side pressing with relentless intensity and Saka pulling the strings in the final third. City, fresh from a midweek Champions League victory, will look to Haaland's clinical finishing to exploit any defensive lapses — making this a fascinating tactical contest between Arteta's high press and Guardiola's positional play.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The standout fixture of the Premier League weekend pits the two most decorated clubs of the modern era against each other at the Etihad, with both sides separated by just two points at the top of the table — making this a genuine title six-pointer. City will look to exploit home advantage and their superior depth, while Liverpool's high press and the electric form of their front three pose the most dangerous attacking test in English football. Expect a tactically intense opening with the game likely decided by fine margins in transition.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Expected back within 10-14 days pending late fitness test"
-      },
-      {
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
+        "status": "Doubtful",
+        "return": "Assessed day-to-day; targeting return within 1–2 weeks"
+      },
+      {
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Recovering",
-        "return": "Targeting return after international break; unlikely to feature this weekend"
+        "return": "Expected back in 2–3 weeks following minor muscle complaint"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Valuation and Spread Analysis",
-      "question": "A portfolio manager is analyzing a corporate bond using the option-adjusted spread (OAS) framework. The bond has an embedded call option. Compared to the bond's Z-spread, the OAS will most likely be:",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank has a loan portfolio with an expected loss (EL) of $12 million, an unexpected loss (UL) of $45 million, and economic capital allocated at the 99.9% confidence level of $80 million. Which of the following statements best describes the relationship between these measures and how regulatory capital fits into this framework?",
       "options": {
-        "A": "Higher than the Z-spread, because the call option benefits the issuer and must be stripped out",
-        "B": "Lower than the Z-spread, because the option cost is subtracted from the Z-spread",
-        "C": "Equal to the Z-spread, because OAS and Z-spread both measure spread over the benchmark curve",
-        "D": "Higher than the Z-spread, because OAS incorporates interest rate volatility while Z-spread does not"
+        "A": "Economic capital covers both EL and UL; regulatory capital is always higher than economic capital to ensure system-wide stability.",
+        "B": "EL is covered by loan loss provisions and pricing; economic capital is held to absorb UL up to a defined confidence level, and regulatory capital sets a minimum floor that may differ from economic capital.",
+        "C": "UL is covered by loan loss provisions; economic capital absorbs EL above the provisioned amount at the chosen confidence level.",
+        "D": "Regulatory capital and economic capital are always equal because Basel III aligns bank internal models with supervisory standards."
       },
       "correct": "B",
-      "explanation": "For a callable bond, the issuer holds the call option, which is a cost to the bondholder. The Z-spread includes compensation for this embedded option, while the OAS strips out the option cost to isolate the credit and liquidity spread. Therefore, OAS = Z-spread minus the option cost, making OAS lower than the Z-spread for callable bonds. Conversely, for putable bonds (where the investor holds the option), OAS would be higher than the Z-spread."
+      "explanation": "Expected loss represents the average anticipated credit loss and should be covered through loan loss provisions and factored into loan pricing — it is not the primary purpose of capital. Unexpected loss is the volatility around that expected loss, and economic capital is held to absorb UL up to a chosen confidence level (here 99.9%). Regulatory capital, as defined under Basel III, sets a minimum floor based on standardized or internal-ratings-based approaches, which may be higher or lower than a bank's own economic capital estimate depending on portfolio composition and model conservatism. The two measures serve related but distinct purposes: one is supervisory, the other is internal risk management."
     },
     "finance_topic": {
-      "title": "Basis Risk and Imperfect Hedging in Practice",
-      "subtitle": "Why hedges rarely eliminate risk entirely, and how skilled risk managers account for the gap.",
+      "title": "Basis Risk and Hedging Imperfections in Practice",
+      "subtitle": "Why a hedge is almost never a perfect offset — and how traders manage the residual.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument being hedged does not move in perfect lockstep with the price of the hedging instrument. In an ideal world, a hedger would find a derivative or offsetting position whose value changes by exactly the same magnitude and direction as the exposure being hedged. In reality, differences in contract specifications, maturities, credit quality, and underlying asset composition mean that a residual, unhedged risk — the 'basis' — almost always remains. Basis is formally defined as the spot price of the asset being hedged minus the futures price of the hedging contract.",
-        "A classic real-world example occurred during the 2008 financial crisis, when banks using credit default swaps (CDS) on broad indices to hedge bespoke loan book exposures discovered that the index basis widened dramatically. The hedges, which looked clean on paper, failed to track the specific credit deterioration in their portfolios. Similarly, an airline hedging jet fuel exposure using crude oil futures faces basis risk because jet fuel and crude oil spreads can diverge sharply during supply disruptions, as seen during periods of refinery stress. Even a 'textbook' equity hedge using index futures leaves residual idiosyncratic risk if the portfolio deviates from the index composition.",
-        "For investors and risk managers, understanding basis risk is critical to accurately measuring hedge effectiveness and calculating the true economic exposure after hedging. Under IFRS 9 and ASC 815 hedge accounting rules, entities must demonstrate that a hedge is 'highly effective' — typically an 80–125% offset ratio — or risk losing favorable accounting treatment. Risk managers should stress-test hedges under scenarios where the basis widens, not just scenarios where the underlying moves. Strategies such as rolling dynamic hedges, using cross-hedges only when correlation is demonstrably stable, and maintaining a basis reserve all help manage this often-underappreciated source of loss."
+        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying asset being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures (or other derivative) price used as the hedge. Even when a trader selects the most correlated available instrument, differences in maturity, credit quality, liquidity, or geographic market mean that the hedge will rarely be a one-for-one offset. The result is that a supposedly protected position retains residual profit-and-loss sensitivity — known as basis risk.",
+        "A classic real-world example is a jet fuel hedging program run by an airline. Because exchange-listed jet fuel futures are illiquid, airlines often hedge using crude oil or heating oil futures, which are highly correlated but not identical. During the COVID-19 demand shock of 2020, the crack spread between crude and jet fuel widened dramatically as refinery margins collapsed, meaning airlines that held crude hedges found their hedges far less effective than historical correlations implied. Similarly, fixed-income portfolio managers who hedge corporate bond duration using Treasury futures face basis risk from credit spread movements — the Treasury future may gain value while the corporate bond falls due to spread widening, partially defeating the hedge.",
+        "For risk managers and investors, the key implication is that basis risk must be explicitly measured and reported rather than assumed away. Tools like hedge effectiveness testing under IFRS 9 and ASC 815 require firms to demonstrate that a hedging relationship remains 'highly effective' (typically 80–125% offset) or face mark-to-market volatility flowing through earnings. Practitioners manage basis risk by selecting the most correlated available instrument, rolling hedges systematically to minimize term mismatch, and stress-testing hedge portfolios under scenarios where historical correlations break down — precisely the moments when protection is most needed."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedged item and the hedging instrument.",
-        "Real-world events like the 2008 crisis revealed that index-based hedges can diverge sharply from bespoke exposures, turning 'hedged' books into loss centers.",
-        "Effective risk management requires stress-testing the basis itself, not just the underlying exposure, and maintaining accounting compliance through documented hedge effectiveness testing."
+        "Basis risk is the residual risk remaining after a hedge is applied, caused by imperfect correlation between the hedging instrument and the underlying exposure.",
+        "Real-world hedges frequently use proxy instruments (e.g., crude oil for jet fuel, Treasuries for corporates), introducing spread risk that can widen sharply in stressed markets.",
+        "Accounting standards require formal hedge effectiveness testing, making basis risk a compliance and earnings-volatility issue, not just a trading concern."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
       "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
+      "example_romaji": "Kongetsu no yosan wa mō tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality — like saying something 'ended up happening' or was done 'completely.' It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — your budget is the sum of money you have. Picture yourself counting coins and saying 'yo, this is my sum!'"
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) is attached to the te-form of a verb to express that an action was completed — often with a nuance of regret or finality, like 'I went and did it (unfortunately).' It is the polite past form of 〜てしまう.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — your budget is literally your sum of money for the month. Picture counting out coins and saying 'yo, that's my SAN (three) coins left!'"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Automating Core Functions Inside Investment Banks",
-      "summary": "Major investment banks including JPMorgan, Goldman Sachs, and Morgan Stanley have moved beyond experimental AI chatbots and are now deploying autonomous AI agents capable of executing multi-step financial workflows — from covenant monitoring and earnings summarization to trade documentation review and client onboarding compliance checks. These agents, built on large language model foundations with tool-use capabilities, can iterate through tasks, call external APIs, and make conditional decisions without human intervention at each step. The productivity implications are significant: early deployments are reportedly compressing analyst-level research tasks from hours to minutes. The key differentiator for these institutions is proprietary financial data layered on top of foundation models, creating defensible, firm-specific AI capabilities.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Multi-Step Financial Workflows",
+      "summary": "A new generation of agentic AI systems — exemplified by frameworks like OpenAI's Operator, Anthropic's Claude with tool use, and emerging fintech integrations — can now chain together sequences of actions such as retrieving market data, running scenario analyses, drafting client memos, and flagging compliance concerns without human intervention at each step. Major investment banks including Goldman Sachs and JPMorgan have begun piloting these systems in research, credit underwriting, and regulatory reporting workflows, reporting meaningful reductions in analyst hours for structured, repeatable tasks. Unlike traditional RPA (robotic process automation), these agents handle ambiguous inputs and adapt to novel document formats, making them genuinely useful across the messy real-world data environments that finance professionals encounter daily. The shift raises important questions about oversight, auditability, and where human judgment remains irreplaceable.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute sequences of actions — such as retrieving data, running calculations, and drafting outputs — to complete complex financial tasks with minimal human prompting at each step."
+          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as querying databases, calling APIs, and generating reports — to accomplish a goal, rather than simply responding to a single prompt."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model pulls relevant information from a firm's proprietary document library (e.g., credit agreements, research reports) before generating a response, dramatically improving accuracy and grounding outputs in real data rather than general training knowledge."
+          "definition": "A technique where an AI model is connected to an external knowledge base or live data source (e.g., SEC filings, Bloomberg feeds) so it can ground its responses in current, factual information rather than relying solely on its training data."
         },
         {
-          "term": "Fine-Tuning",
-          "definition": "The process of further training a pre-built AI model on domain-specific financial data — such as analyst reports, regulatory filings, or trade records — so that the model develops specialized knowledge and language patterns relevant to finance."
+          "term": "Human-in-the-Loop (HITL)",
+          "definition": "A design principle for AI workflows that requires a qualified human to review and approve outputs at critical decision points — essential in regulated finance contexts such as credit decisioning, trade execution, and compliance sign-off."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design workflows for AI agents — identifying which tasks to automate, how to validate outputs, and where human judgment remains essential — will command a significant premium over those who only consume AI tools passively. The emerging role of 'AI workflow architect' within front-office and risk teams is already appearing in job postings at bulge-bracket firms. Building fluency in prompt engineering, output validation frameworks, and AI governance will be as important in the next decade as Excel proficiency was in the last."
+      "career_insight": "Finance professionals who thrive in the next five years will be those who can act as effective 'AI orchestrators' — designing workflows, evaluating model outputs critically, and knowing when to override automated recommendations. Deep domain expertise in credit, risk modeling, or capital markets becomes more valuable, not less, because it is the human judgment layer that validates what AI agents produce. Invest now in understanding prompt engineering, RAG architecture basics, and the governance frameworks (model risk management under SR 11-7) that regulators expect firms to apply to AI-driven decisioning."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a complex macro backdrop as investors weigh resilient U.S. labor data against mounting signals that the Fed's higher-for-longer posture is beginning to bite — particularly in commercial real estate and small-cap credit. The dollar has firmed modestly on yield differentials, pressuring EM currencies, while Brent crude is holding in a tight range as OPEC+ supply discipline offsets softer Chinese demand prints. Risk appetite is cautious but not risk-off: credit spreads are range-bound, the VIX remains below 18, and the dominant theme heading into the week is positioning ahead of key central bank communications from the Fed, ECB, and Bank of Japan."
+    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as markets digest a resilient U.S. labor market print alongside signs of plateauing core services inflation, keeping the Fed's higher-for-longer narrative intact but pushing back the tail risk of an emergency rate cut. The dollar is holding near recent highs, keeping pressure on EM FX and commodity prices, while the front end of the Treasury curve remains anchored with 2-year yields sticky around 4.8% as investors price out aggressive easing. Equity markets are likely to remain rangebound near term, with upside capped by valuation multiples that leave little room for disappointment, and credit spreads — particularly in high yield — worth watching as a leading indicator of any shift in risk appetite."
   }
 }
