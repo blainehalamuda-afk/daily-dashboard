@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:15 PM UTC",
-  "date": "Sunday, August 16, 2026",
+  "generated_at": "12:18 PM UTC",
+  "date": "Monday, August 17, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 75,
-    "feels_like_f": 77,
-    "high_f": 77,
-    "low_f": 74,
-    "description": "Scattered Clouds",
-    "icon": "⛅",
-    "humidity": 93,
+    "temp_f": 77,
+    "feels_like_f": 79,
+    "high_f": 79,
+    "low_f": 75,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 95,
     "wind_mph": 5,
     "forecast": [
       {
-        "day": "Mon",
-        "icon": "🌤️",
-        "high": 78,
-        "low": 78,
-        "description": "Few Clouds"
-      },
-      {
         "day": "Tue",
-        "icon": "☁️",
-        "high": 79,
-        "low": 79,
-        "description": "Broken Clouds"
+        "icon": "☀️",
+        "high": 77,
+        "low": 77,
+        "description": "Clear Sky"
       },
       {
         "day": "Wed",
-        "icon": "☁️",
-        "high": 76,
-        "low": 76,
-        "description": "Broken Clouds"
+        "icon": "☀️",
+        "high": 77,
+        "low": 77,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "high": 80,
+        "low": 80,
+        "description": "Few Clouds"
       }
     ]
   },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63025.39,
-        "change": 39.02,
-        "change_pct": 0.06,
+        "price": 63603.1,
+        "change": 577.71,
+        "change_pct": 0.92,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1880.04,
-        "change": 1.44,
-        "change_pct": 0.08,
+        "price": 1902.05,
+        "change": 22.0,
+        "change_pct": 1.17,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Georgia financial CEO Todd Burkhalter sentenced for running historic $380M Ponzi scheme to fund lavish lifestyle - New York Post",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/15/us-news/georgia-financial-ceo-todd-burkhalter-sentenced-for-running-historic-380m-ponzi-scheme-to-fund-lavish-lifestyle/",
-        "description": "A financial advising CEO was sentenced Friday to 20 years behind bars for masterminding a $380 million Ponzi scheme to fund his lavish lifestyle that featured yachts, private jets and luxury shoppi…",
-        "published": "5:20 AM UTC",
+        "title": "World’s biggest wealth fund buys $1.2 billion of SpaceX stock - thestreet.com",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/investing/stocks/norway-wealth-fund-spacex-stake-valuation-spcx",
+        "description": "",
+        "published": "10:03 AM UTC",
         "category": "Business"
       },
       {
-        "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
-        "source": "Financial Times",
-        "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6\\\\u003d1",
-        "description": "Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing",
-        "published": "4:02 AM UTC",
+        "title": "Instagram vowed to crack down on Meta glasses creeps. A month later, it was easy to find dozens of the videos still up. - Business Insider",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/instagram-crackdown-meta-ai-glasses-pickup-rizz-videos-moderation-challenges-2026-8#article",
+        "description": "Instagram said it would remove harassing videos filmed with Meta AI glasses. Weeks later, dozens remain.",
+        "published": "9:33 AM UTC",
         "category": "Business"
       },
       {
-        "title": "FDA upgrades egg recall to highest risk level as salmonella sickens dozens across several states - Fox Business",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/lifestyle/fda-upgrades-egg-recall-highest-risk-level-salmonella-sickens-dozens-across-several-states",
-        "description": "Nearly 1.6 million cartons of white shell eggs and brown cage-free eggs from two Texas farms now carry the FDA's most serious recall classification.",
-        "published": "2:10 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Large-Scale Pokémon Eviction Looms With Pokémon Bank Server Shutdown - hackaday.com",
-        "source": "Hackaday",
-        "url": "https://hackaday.com/2026/08/14/large-scale-pokemon-eviction-looms-with-pokemon-bank-server-shutdown/",
-        "description": "After the Nintendo 3DS handheld console saw most its online services including the online store (eShop) taken offline not too long ago, it was only a matter of time before the demise of even the re…",
-        "published": "2:00 AM UTC",
+        "title": "Xbox gets 26 new games next week, including The Sinking City 2 - TrueAchievements",
+        "source": "TrueAchievements",
+        "url": "https://www.trueachievements.com/news/new-xbox-games-august-17",
+        "description": "Next week's new Xbox games lineup features 26 releases across consoles and PC, including the sequel to The Sinking City and a new WW1 first-person shooter.",
+        "published": "12:19 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Switch Online's DK Challenge Now Offering Physical 39-Card Set Reward - nintendolife.com",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/switch-onlines-dk-challenge-now-offering-physical-39-card-set-reward",
-        "description": "A \"limited-time offer\" until 1st September",
-        "published": "12:55 AM UTC",
+        "title": "McLaren McL 6GT Concept (2026) - NetCarShow.com",
+        "source": "Netcarshow.com",
+        "url": "https://www.netcarshow.com/mclaren/2026-mcl_6gt_concept/",
+        "description": "McL 6GT name is inspired by McLaren's presence on track, as well as the foundations of McLaren's automotive journey. McL 6GT creates a direct link between these two realms...",
+        "published": "10:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Android 17 QPR2 brings system blur to the Pixel lockscreen - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/08/14/android-17-qpr2-pixel-lockscreen-blur/",
-        "description": "The interface changes in Android 17 QPR2 Beta 3 continue with more blur for the Pixel lockscreen. Notifications...",
-        "published": "10:55 PM UTC",
+        "title": "“Predicting” Zelda: Ocarina of Time’s release date using amiibo - Nintendo Everything",
+        "source": "Nintendoeverything.com",
+        "url": "https://nintendoeverything.com/predicting-zelda-ocarina-of-times-release-date-using-amiibo/",
+        "description": "Nintendo tends to release a new game alongside amiibo. That may mean Ocarina of Time's remake releases on November 12.",
+        "published": "4:53 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616",
-        "description": "Former Cambridge professor Jason Arday was found dead at his London home on Friday, one week after he resigned from his position after accusations of plagiarism.",
-        "published": "9:12 AM UTC",
+        "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he? - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he",
+        "description": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
+        "published": "11:20 AM UTC",
         "category": "General"
       },
       {
-        "title": "Da'Vine Joy Randolph Sues Landlord Over Alleged $17K a Month Rental From Hell - TMZ",
-        "source": "TMZ",
-        "url": "https://www.tmz.com/2026/08/15/davine-joy-randolph-sues-landlord-over-rental-home/",
-        "description": "Da’Vine Joy Randolph is dragging her landlord to court … claiming she rented a luxury home for $17K a month … only to have to deal with pests and plumbing issues ... TMZ has learned.",
-        "published": "8:00 AM UTC",
+        "title": "Trump’s legal team shrinks - Politico",
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/08/16/donald-trump-lawyers-sullivan-and-cromwell-01038466",
+        "description": "The departures have thinned the president’s legal team as Sullivan & Cromwell appeals his criminal and civil cases.",
+        "published": "11:00 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Ukraine presses drone attacks on Moscow and Russian logistics - Financial Times",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6\\\\u003d1",
+        "description": "Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer",
+        "published": "10:52 AM UTC",
         "category": "General"
       }
     ]
@@ -251,45 +251,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder Ahead of January Window",
-        "summary": "Arsenal's recruitment team have stepped up scouting of a creative central midfielder from a top Bundesliga club, with the Gunners looking to add depth and dynamism to their engine room as they push for a Premier League title challenge. Personal terms are understood to be the key remaining hurdle, with the player's camp reportedly open to a move.",
+        "headline": "Arsenal Eyeing €70m Move for Bundesliga Midfielder Ahead of Summer Window",
+        "summary": "Arsenal are reportedly tracking Bayer Leverkusen's Granit Xhaka successor profile, with scouts attending multiple Bundesliga fixtures this month. Mikel Arteta is understood to prioritize a box-to-box midfielder capable of operating in high-press systems as the Gunners target their first league title since 2004.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea and Newcastle United Both Tracking Same Ligue 1 Striker",
-        "summary": "Two ambitious Premier League clubs are competing for the signature of a prolific Ligue 1 forward who has 14 goals in all competitions this season, with Chelsea viewing the player as a long-term successor to their current strikers and Newcastle keen to bolster attacking options ahead of a European campaign. A January bid in the region of £55 million is anticipated from at least one club.",
+        "headline": "Manchester United Face Competition from PSG for Prolific Serie A Striker",
+        "summary": "Manchester United's search for a striker to reduce reliance on Rasmus Hojlund has intensified, with reports linking them to a top Serie A scorer entering the final 18 months of his contract. PSG are also monitoring the situation ahead of Kylian Mbappé's expected departure, turning the pursuit into a high-profile summer battle.",
         "clubs": [
-          "Chelsea",
-          "Newcastle United"
+          "Manchester United",
+          "PSG"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits the two most decorated clubs of the modern era against each other at the Etihad, with both sides separated by just two points at the top of the table — making this a genuine title six-pointer. City will look to exploit home advantage and their superior depth, while Liverpool's high press and the electric form of their front three pose the most dangerous attacking test in English football. Expect a tactically intense opening with the game likely decided by fine margins in transition.",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's defining fixture of the season arrives at Anfield as table-topping Liverpool host defending champions Manchester City in a match that could effectively decide the title race. Liverpool enter on a 9-game unbeaten run with Mohamed Salah in the form of his career, while City have shown signs of fatigue in recent weeks but retain the squad depth and Pep Guardiola's tactical genius to threaten any opponent. The pressing intensity of Slot's Liverpool versus City's positional play control sets up a compelling tactical chess match with enormous title implications.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Erling Haaland",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Assessed day-to-day; targeting return within 1–2 weeks"
+        "status": "Recovering",
+        "return": "Long-term absence — potential return late April if rehabilitation continues on schedule"
       },
       {
-        "player": "Trent Alexander-Arnold",
+        "player": "Diogo Jota",
         "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Expected back in 2–3 weeks following minor muscle complaint"
+        "status": "Doubtful",
+        "return": "Week-to-week; fitness test scheduled Saturday ahead of Sunday's fixture"
       }
     ]
   },
@@ -297,28 +297,28 @@
     "cfa_frm": {
       "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A bank has a loan portfolio with an expected loss (EL) of $12 million, an unexpected loss (UL) of $45 million, and economic capital allocated at the 99.9% confidence level of $80 million. Which of the following statements best describes the relationship between these measures and how regulatory capital fits into this framework?",
+      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. The bank also estimates an asset correlation of 12% under the Basel IRB framework. Which of the following statements is MOST accurate regarding unexpected loss (UL)?",
       "options": {
-        "A": "Economic capital covers both EL and UL; regulatory capital is always higher than economic capital to ensure system-wide stability.",
-        "B": "EL is covered by loan loss provisions and pricing; economic capital is held to absorb UL up to a defined confidence level, and regulatory capital sets a minimum floor that may differ from economic capital.",
-        "C": "UL is covered by loan loss provisions; economic capital absorbs EL above the provisioned amount at the chosen confidence level.",
-        "D": "Regulatory capital and economic capital are always equal because Basel III aligns bank internal models with supervisory standards."
+        "A": "Unexpected loss equals expected loss multiplied by the confidence interval factor.",
+        "B": "Unexpected loss is the standard deviation of loss around the expected loss and is the primary driver of economic capital requirements.",
+        "C": "Unexpected loss is fully captured by the expected loss calculation and requires no separate capital allocation.",
+        "D": "Unexpected loss decreases as asset correlation increases, because diversification benefits reduce portfolio volatility."
       },
       "correct": "B",
-      "explanation": "Expected loss represents the average anticipated credit loss and should be covered through loan loss provisions and factored into loan pricing — it is not the primary purpose of capital. Unexpected loss is the volatility around that expected loss, and economic capital is held to absorb UL up to a chosen confidence level (here 99.9%). Regulatory capital, as defined under Basel III, sets a minimum floor based on standardized or internal-ratings-based approaches, which may be higher or lower than a bank's own economic capital estimate depending on portfolio composition and model conservatism. The two measures serve related but distinct purposes: one is supervisory, the other is internal risk management."
+      "explanation": "Unexpected Loss (UL) represents the volatility of credit losses around the Expected Loss (EL) and is defined as the standard deviation of the loss distribution. Regulatory and economic capital is held precisely to absorb unexpected losses, not expected ones — EL is covered by loan pricing and provisions. Option C is incorrect because EL and UL are distinct concepts requiring separate treatment. Option D is incorrect because higher asset correlation actually increases unexpected loss by reducing diversification benefits across obligors, leading to fatter tails in the loss distribution."
     },
     "finance_topic": {
-      "title": "Basis Risk and Hedging Imperfections in Practice",
-      "subtitle": "Why a hedge is almost never a perfect offset — and how traders manage the residual.",
+      "title": "Basis Risk and Its Hidden Portfolio Dangers",
+      "subtitle": "Understanding why hedges fail to perform as expected when underlying and hedging instrument prices diverge.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying asset being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures (or other derivative) price used as the hedge. Even when a trader selects the most correlated available instrument, differences in maturity, credit quality, liquidity, or geographic market mean that the hedge will rarely be a one-for-one offset. The result is that a supposedly protected position retains residual profit-and-loss sensitivity — known as basis risk.",
-        "A classic real-world example is a jet fuel hedging program run by an airline. Because exchange-listed jet fuel futures are illiquid, airlines often hedge using crude oil or heating oil futures, which are highly correlated but not identical. During the COVID-19 demand shock of 2020, the crack spread between crude and jet fuel widened dramatically as refinery margins collapsed, meaning airlines that held crude hedges found their hedges far less effective than historical correlations implied. Similarly, fixed-income portfolio managers who hedge corporate bond duration using Treasury futures face basis risk from credit spread movements — the Treasury future may gain value while the corporate bond falls due to spread widening, partially defeating the hedge.",
-        "For risk managers and investors, the key implication is that basis risk must be explicitly measured and reported rather than assumed away. Tools like hedge effectiveness testing under IFRS 9 and ASC 815 require firms to demonstrate that a hedging relationship remains 'highly effective' (typically 80–125% offset) or face mark-to-market volatility flowing through earnings. Practitioners manage basis risk by selecting the most correlated available instrument, rolling hedges systematically to minimize term mismatch, and stress-testing hedge portfolios under scenarios where historical correlations break down — precisely the moments when protection is most needed."
+        "Basis risk arises when the price of the instrument used to hedge does not move in perfect lockstep with the price of the underlying exposure being hedged. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the hedging contract. While a hedge is designed to offset losses in one position with gains in another, imperfect correlation between the two legs means residual risk always remains. This residual exposure — basis risk — can at times be as consequential as the original unhedged position.",
+        "A classic real-world example occurred during the 2008 financial crisis, when banks hedging mortgage-backed securities exposure using credit default swap indices (such as CDX) discovered that the index composition diverged sharply from their bespoke portfolios. The hedges provided far less protection than modeled. Similarly, airlines hedging jet fuel costs using crude oil futures routinely face basis risk because jet fuel crack spreads can widen dramatically during refinery disruptions, leaving the hedge structurally incomplete even when oil prices move favorably.",
+        "For risk managers, basis risk demands careful attention to hedge ratio calibration, rolling costs, and the correlation stability assumptions embedded in VAR models. A hedge that appears 95% effective in normal markets may degrade to 60% effectiveness during stress periods — precisely when protection is needed most. Investors should demand transparency on hedge effectiveness metrics (per ASC 815 or IFRS 9 standards) and stress-test hedging programs under correlation breakdown scenarios."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is applied, caused by imperfect correlation between the hedging instrument and the underlying exposure.",
-        "Real-world hedges frequently use proxy instruments (e.g., crude oil for jet fuel, Treasuries for corporates), introducing spread risk that can widen sharply in stressed markets.",
-        "Accounting standards require formal hedge effectiveness testing, making basis risk a compliance and earnings-volatility issue, not just a trading concern."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedged asset and the hedging instrument.",
+        "Basis risk often worsens during market stress precisely because correlations are least stable when volatility is highest.",
+        "Effective hedging programs must regularly measure hedge effectiveness ratios and stress-test under correlation breakdown assumptions."
       ]
     },
     "japanese": {
@@ -326,33 +326,33 @@
       "reading": "yosan",
       "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mō tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) is attached to the te-form of a verb to express that an action was completed — often with a nuance of regret or finality, like 'I went and did it (unfortunately).' It is the polite past form of 〜てしまう.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — your budget is literally your sum of money for the month. Picture counting out coins and saying 'yo, that's my SAN (three) coins left!'"
+      "example_jp": "来月の予算をもう一度確認してください。",
+      "example_romaji": "Raigetsu no yosan wo mou ichido kakunin shite kudasai.",
+      "example_en": "Please check next month's budget one more time.",
+      "grammar_point": "〜をもう一度〜してください",
+      "grammar_explanation": "This pattern combines the object marker を with もう一度 (one more time) and the polite request form 〜してください (please do). It is used to make a courteous request to repeat or revisit an action, very common in professional and everyday settings.",
+      "memory_tip": "Think of 予算 as 'yo-SAN' — you SANction money for spending. The 予 character means 'in advance' and 算 means 'calculate,' so you are calculating in advance — a budget!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Autonomously Execute Multi-Step Financial Workflows",
-      "summary": "A new generation of agentic AI systems — exemplified by frameworks like OpenAI's Operator, Anthropic's Claude with tool use, and emerging fintech integrations — can now chain together sequences of actions such as retrieving market data, running scenario analyses, drafting client memos, and flagging compliance concerns without human intervention at each step. Major investment banks including Goldman Sachs and JPMorgan have begun piloting these systems in research, credit underwriting, and regulatory reporting workflows, reporting meaningful reductions in analyst hours for structured, repeatable tasks. Unlike traditional RPA (robotic process automation), these agents handle ambiguous inputs and adapt to novel document formats, making them genuinely useful across the messy real-world data environments that finance professionals encounter daily. The shift raises important questions about oversight, auditability, and where human judgment remains irreplaceable.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams and Analyst Roles",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and a growing cohort of fintech lenders are deploying large language model-assisted underwriting systems capable of synthesizing unstructured data — earnings call transcripts, supply chain disclosures, legal filings — to augment traditional credit scoring models. These systems do not replace credit analysts but fundamentally shift their work toward model governance, edge-case adjudication, and qualitative overlay. The speed advantage is material: AI-assisted credit memos can be drafted in minutes rather than days, compressing underwriting cycles and enabling lenders to process higher application volumes without proportional headcount growth. Regulators in the EU and US are now scrutinizing model explainability requirements, making interpretable AI a compliance imperative alongside a productivity one.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as querying databases, calling APIs, and generating reports — to accomplish a goal, rather than simply responding to a single prompt."
-        },
-        {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to an external knowledge base or live data source (e.g., SEC filings, Bloomberg feeds) so it can ground its responses in current, factual information rather than relying solely on its training data."
+          "definition": "A technique where an AI model queries a private database of documents (e.g., loan files, SEC filings, internal research) before generating a response, ensuring outputs are grounded in verified firm-specific data rather than generic training knowledge — critical for compliance-sensitive financial applications."
         },
         {
-          "term": "Human-in-the-Loop (HITL)",
-          "definition": "A design principle for AI workflows that requires a qualified human to review and approve outputs at critical decision points — essential in regulated finance contexts such as credit decisioning, trade execution, and compliance sign-off."
+          "term": "Model Explainability (XAI)",
+          "definition": "Methods that allow humans to understand why an AI model made a specific decision, such as why a loan was declined. Regulators increasingly require explainability for credit decisions under fair lending laws, making XAI a risk management and legal necessity, not just a technical nicety."
+        },
+        {
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — satellite imagery of retailer parking lots, shipping container tracking, app download trends, or social sentiment — ingested by ML models to generate investment signals or assess creditworthiness beyond what traditional financial statements reveal."
         }
       ],
-      "career_insight": "Finance professionals who thrive in the next five years will be those who can act as effective 'AI orchestrators' — designing workflows, evaluating model outputs critically, and knowing when to override automated recommendations. Deep domain expertise in credit, risk modeling, or capital markets becomes more valuable, not less, because it is the human judgment layer that validates what AI agents produce. Invest now in understanding prompt engineering, RAG architecture basics, and the governance frameworks (model risk management under SR 11-7) that regulators expect firms to apply to AI-driven decisioning."
+      "career_insight": "Finance professionals who combine domain expertise in credit, risk, or investment analysis with working knowledge of AI model governance, prompt engineering, and data literacy will command significant premiums over the next five years. The risk is not being replaced by AI — it is being outcompeted by a peer who uses AI more effectively. Prioritize learning how to evaluate model outputs critically, structure AI workflows, and communicate model limitations to senior stakeholders and regulators."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as markets digest a resilient U.S. labor market print alongside signs of plateauing core services inflation, keeping the Fed's higher-for-longer narrative intact but pushing back the tail risk of an emergency rate cut. The dollar is holding near recent highs, keeping pressure on EM FX and commodity prices, while the front end of the Treasury curve remains anchored with 2-year yields sticky around 4.8% as investors price out aggressive easing. Equity markets are likely to remain rangebound near term, with upside capped by valuation multiples that leave little room for disappointment, and credit spreads — particularly in high yield — worth watching as a leading indicator of any shift in risk appetite."
+    "market_sentiment": "Global risk appetite remains cautious this week as markets digest a persistently resilient US labor market alongside renewed concerns that the Federal Reserve will hold rates higher for longer than the December dot plot implied. Treasury yields have edged back toward the 4.5% range on the 10-year, pressuring rate-sensitive equities and EM currency carry trades simultaneously. In Europe, PMI data continues to signal manufacturing contraction while services hold marginally above expansion territory, keeping the ECB in a data-dependent holding pattern; meanwhile, Brent crude has firmed above $85 on OPEC+ supply discipline, adding a fresh inflationary wrinkle to an already complex central bank calculus heading into Q2."
   }
 }
