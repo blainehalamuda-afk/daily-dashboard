@@ -1,38 +1,38 @@
 {
   "generated_at": "12:20 PM UTC",
-  "date": "Tuesday, August 18, 2026",
+  "date": "Wednesday, August 19, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 74,
-    "feels_like_f": 76,
+    "feels_like_f": 75,
     "high_f": 76,
-    "low_f": 72,
-    "description": "Broken Clouds",
-    "icon": "☁️",
-    "humidity": 90,
-    "wind_mph": 0,
+    "low_f": 73,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 89,
+    "wind_mph": 7,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "⛅",
-        "high": 75,
-        "low": 75,
-        "description": "Scattered Clouds"
-      },
       {
         "day": "Thu",
         "icon": "☁️",
-        "high": 79,
-        "low": 79,
+        "high": 77,
+        "low": 77,
         "description": "Broken Clouds"
       },
       {
         "day": "Fri",
         "icon": "☁️",
-        "high": 72,
-        "low": 72,
-        "description": "Broken Clouds"
+        "high": 75,
+        "low": 75,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "⛅",
+        "high": 70,
+        "low": 70,
+        "description": "Scattered Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 772.67,
-        "change": -3.67,
-        "change_pct": -0.47,
+        "price": 767.45,
+        "change": -5.22,
+        "change_pct": -0.68,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 305.59,
-        "change": -0.34,
-        "change_pct": -0.11,
-        "up": false,
+        "price": 310.03,
+        "change": 4.44,
+        "change_pct": 1.45,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 225.01,
-        "change": -0.15,
-        "change_pct": -0.07,
+        "price": 219.74,
+        "change": -5.27,
+        "change_pct": -2.34,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 339.3,
-        "change": -2.97,
-        "change_pct": -0.87,
+        "price": 336.87,
+        "change": -2.43,
+        "change_pct": -0.72,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64309,
-        "change": 700.09,
-        "change_pct": 1.1,
+        "price": 64501.26,
+        "change": 205.25,
+        "change_pct": 0.32,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1901.51,
-        "change": -1.08,
-        "change_pct": -0.06,
-        "up": false,
+        "price": 1923.63,
+        "change": 22.91,
+        "change_pct": 1.21,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,51 @@
     "error": false,
     "articles": [
       {
-        "title": "They were told to park outside. Then their cars burst into flames. - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/business/2026/08/17/they-were-told-park-outside-then-their-cars-burst-into-flames/",
-        "description": "Modern vehicles don’t need to be moving — or even turned on — to catch fire. That’s fueling lots of safety recalls and tough choices.",
-        "published": "12:26 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
-        "description": "A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn.",
-        "published": "12:19 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-        "description": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
-        "published": "12:00 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "10 Years Later, This is Still the Hardest Platinum Trophy I’ve Ever Earned - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/10-years-later-this-is-still-the-hardest-platinum-trophy-ive-ever-earned",
-        "description": "10 years later, this is still the hardest platinum trophy I’ve ever earned.",
-        "published": "11:30 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Intel tests 24-core and 28-core Nova Lake-S desktop CPUs with AVX-512 enabled - VideoCardz.com",
-        "source": "Videocardz.com",
-        "url": "https://videocardz.com/newz/intel-tests-24-core-and-28-core-nova-lake-s-desktop-cpus-with-avx-512-enabled",
-        "description": "Two Intel Nova Lake-S test platforms have appeared with 24C/24T and 28C/28T processors. The logs also expose AVX-512 and APX register states.",
-        "published": "11:00 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "What will TV look like in three years? Media insiders share their predictions - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
-        "description": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.",
-        "published": "11:00 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver ahead of retail earnings - Yahoo Finance",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions - Yahoo Finance",
         "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
-        "description": "Stocks were little changed ahead of a relatively quiet week, with retail earnings on the docket.",
-        "published": "11:41 AM UTC",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
+        "description": "US stock futures fell on Tuesday as rising tensions between the US and Iran revived inflation concerns, with elevated oil prices adding pressure.",
+        "published": "9:32 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Asian stocks retreat as oil, bond yields revive inflation concerns - Investing.com",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/asian-stocks-retreat-as-oil-bond-yields-revive-inflation-concerns-4864253",
+        "description": "Asian stocks retreat as oil, yields rise; Nikkei, KOSPI lead losses",
+        "published": "4:22 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Apple’s camera-equipped AirPods appear in leaked video - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+        "description": "We may have our first glimpse of Apple’s rumored camera-equipped AirPods, thanks to a demo video pulled from the macOS Tahoe 26.7 Release Candidate.",
+        "published": "9:00 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Rumoured Phantom Blade Zero PS5 Demo Nowhere to Be Seen After State of Play Deep Dive - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/08/rumoured-phantom-blade-zero-ps5-demo-nowhere-to-be-seen-after-state-of-play-deep-dive",
+        "description": "Zero'd",
+        "published": "2:57 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "5 Anker Gadgets Under $25 Worth Adding To Your Kit - bgr.com",
+        "source": "BGR",
+        "url": "https://www.bgr.com/2237515/anker-accessories-under-50-dollars-worth-buying/",
+        "description": "Anker USB-C to Ethernet Adapter, USB-A to USB-C Adapter, 5-in-1 USB-C Hub, USB-C Charging Cable, and 10-in-1 Power Strip with 300J Surge Protector.",
+        "published": "1:19 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "A rare baby sighting could reveal where life begins for world's largest sharks - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/future/article/20260817-the-giant-shark-that-seems-to-appear-from-nowhere",
+        "description": "No one knows where whale sharks give birth. But a rare encounter with a baby whale shark could help solve one of the oceans' biggest mysteries.",
+        "published": "9:45 AM UTC",
         "category": "General"
       }
     ]
@@ -243,74 +235,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are reportedly closing in on a deal for a combative central midfielder from the Bundesliga, with Thomas Partey's long-term fitness concerns prompting Mikel Arteta to prioritize the position before the window closes. A fee in the region of £45–55 million is understood to be under discussion.",
+        "headline": "Manchester United Eye Sporting CP Midfielder Viktor Gyokeres in Bold Summer Pivot",
+        "summary": "Manchester United are reportedly weighing a move for Viktor Gyokeres as new sporting leadership looks to overhaul the squad's attacking options following a turbulent domestic campaign. Gyokeres' prolific form in the Champions League has attracted interest from several top European clubs, making any deal likely to exceed £80 million.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Manchester United",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Weighing Move for Napoli Striker as Jackson Struggles for Consistency",
-        "summary": "Chelsea's recruitment team has identified a prolific Serie A striker as a potential alternative to Nicolas Jackson, with the club's ownership keen to add a proven goal-scorer to bolster their top-four push. Napoli are reluctant to sell mid-season but financial pressure may force their hand.",
+        "headline": "Chelsea in Advanced Talks to Sign Juventus Defender Federico Gatti",
+        "summary": "Chelsea are understood to be in serious discussions with Juventus over a summer move for center-back Federico Gatti as Enzo Maresca looks to solidify a defensive unit that has conceded too freely this season. Juventus are reportedly willing to negotiate a fee in the region of £35–40 million.",
         "clubs": [
           "Chelsea",
-          "Napoli"
+          "Juventus"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's defining rivalry resumes at the Etihad in what could prove a title-defining encounter, with both sides separated by just two points at the top of the table. City will be buoyed by a dominant Champions League midweek performance but must manage squad rotation carefully, while Liverpool arrive having won six straight in all competitions under Arne Slot's high-pressing system. The tactical battle between Slot's aggressive pressing triggers and Guardiola's positional play through the lines promises to be one of the most compelling managerial chess matches of the season.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "Arsenal host Manchester City at the Emirates in what is shaping up to be a pivotal top-four clash, with both sides needing points to keep their respective ambitions alive heading into the final weeks of the season. Arsenal have been in electric home form, with Saka and Martinelli causing havoc on the flanks, while City arrive knowing that dropping points here could extinguish any remaining league hopes and dent Champions League confidence. The tactical duel between Arteta and Guardiola always delivers — expect a high-press battle in the opening exchanges and a premium on set-piece execution.",
       "key_players": [
-        "Mohamed Salah",
-        "Erling Haaland",
-        "Alexis Mac Allister"
+        "Bukayo Saka",
+        "Kevin De Bruyne",
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Could return within 7–10 days pending late fitness test"
+        "status": "Recovering",
+        "return": "Expected to feature from the bench; full fitness targeted for late May"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Out",
-        "return": "Expected back in approximately 3–4 weeks following hamstring strain"
+        "player": "Gabriel Magalhães",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Late fitness test Saturday; hamstring tightness sustained in midweek Europa fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,043.76. If the yield to maturity increases by 50 basis points, which of the following best describes the expected price change, and what concept explains the asymmetry in price sensitivity?",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating a credit portfolio and observes that the asset correlation between two obligors increases from 10% to 25%. Holding all else equal, which of the following best describes the impact on the portfolio's loss distribution?",
       "options": {
-        "A": "The bond price will fall by approximately the same amount it would rise if yields decreased by 50 bps; this symmetry is explained by duration.",
-        "B": "The bond price will fall by less than it would rise if yields decreased by 50 bps; this asymmetry is explained by positive convexity.",
-        "C": "The bond price will fall by more than it would rise if yields decreased by 50 bps; this asymmetry is explained by negative convexity.",
-        "D": "The bond price will fall by approximately the modified duration times the price times 0.005, with no adjustment needed for convexity."
+        "A": "Expected loss increases and the loss distribution becomes more platykurtic.",
+        "B": "Expected loss is unchanged, but the loss distribution exhibits fatter tails and higher unexpected loss.",
+        "C": "Both expected loss and unexpected loss increase proportionally with the rise in asset correlation.",
+        "D": "The loss distribution becomes more symmetric and the Value-at-Risk decreases at high confidence levels."
       },
       "correct": "B",
-      "explanation": "For a standard fixed-rate bond, the price-yield relationship is convex (curved), not linear. Positive convexity means that for equal changes in yield, the price increase from a yield decline exceeds the price decrease from an equivalent yield rise. Duration alone gives a linear approximation; convexity captures the curvature, and for option-free bonds this convexity is always positive, benefiting the bondholder in both rising and falling yield environments."
+      "explanation": "Asset correlation in credit portfolios does not affect the expected loss of individual obligors, since EL depends on PD, LGD, and EAD. However, higher correlation causes obligors to default together more frequently, fattening the tail of the loss distribution and increasing unexpected loss (UL) and tail risk measures like Credit VaR. This is a core insight from the Gaussian copula and Vasicek single-factor models used in credit portfolio management. The distribution becomes more skewed and leptokurtic — not symmetric or platykurtic — at higher correlation levels."
     },
     "finance_topic": {
-      "title": "The Term Premium and Yield Curve Dynamics",
-      "subtitle": "Understanding why long-term bond yields exceed expected short-term rates — and what it signals about risk appetite.",
+      "title": "Basis Risk in Hedged Fixed Income Portfolios",
+      "subtitle": "When your hedge doesn't move the way your position does, the gap between them can quietly erode returns.",
       "paragraphs": [
-        "The term premium is the extra compensation investors demand for holding long-duration bonds rather than rolling over a series of short-term instruments. In theory, if markets were risk-neutral, a 10-year bond yield would simply equal the average expected short-term rate over the next decade. In practice, investors face uncertainty about future inflation, monetary policy, and economic conditions, and they require additional yield to bear that uncertainty over a long horizon. This wedge between the observed long yield and the pure expectations component is the term premium.",
-        "Following the post-2022 tightening cycle, term premiums turned sharply positive after years of suppression during quantitative easing. The ACM (Adrian, Crump, Moench) model — a popular Fed-published measure — showed the 10-year U.S. term premium rising from deeply negative territory in 2021 to above 100 basis points by late 2023. This shift reflected both fiscal uncertainty (large Treasury issuance) and reduced Fed balance sheet support, forcing the market to absorb more duration risk without a central bank backstop. The steepening of the yield curve during this period was thus driven more by rising term premiums than by revised expectations for the policy rate path.",
-        "For fixed income investors and risk managers, distinguishing between term premium and rate expectations matters profoundly for portfolio construction. A yield curve that steepens due to rising term premiums suggests improving compensation for duration risk, potentially attracting buyers. Conversely, steepening driven purely by expectations of sustained higher policy rates implies ongoing credit stress and economic uncertainty. Risk managers modeling interest rate exposure through duration and convexity must also account for term premium volatility, which can shift independently of the monetary policy outlook and drive unexpected mark-to-market losses in long-duration portfolios."
+        "Basis risk arises when the instrument used to hedge a position does not move in perfect lockstep with the underlying exposure. In fixed income, this commonly occurs when a portfolio manager hedges a corporate bond position using Treasury futures or interest rate swaps. The spread between the corporate bond yield and the risk-free benchmark — the credit spread — can widen or tighten independently of the rate used for hedging, leaving residual P&L exposure even in a supposedly 'hedged' book.",
+        "A practical example emerged during the March 2020 liquidity crisis, when investment-grade corporate bond prices fell sharply while Treasury yields also declined. Managers who had hedged duration with Treasury futures saw their futures gains partially offset by spread widening on the corporate side — a classic basis blow-up. Similarly, during the 2022 rate hiking cycle, managers using SOFR swaps to hedge mortgage-backed securities faced significant basis risk as MBS spreads widened dramatically beyond what any rate hedge could capture.",
+        "For risk managers and portfolio managers alike, basis risk demands explicit measurement and monitoring alongside standard duration and DV01 metrics. Decomposing total P&L into rate P&L and spread P&L helps isolate basis exposure. Stress testing should include scenarios where the hedge basis widens adversely — such as a flight-to-quality event — rather than assuming correlation between the hedged instrument and the hedge vehicle remains stable under stress."
       ],
       "key_takeaways": [
-        "The term premium is the compensation above expected short rates that investors require to hold long-duration bonds, reflecting uncertainty about future inflation and policy.",
-        "Term premiums can be negative (as seen during QE) or strongly positive (as in 2023), and their level has major implications for the attractiveness of long-duration assets.",
-        "Risk managers and portfolio managers should decompose yield curve moves into expectations vs. term premium components to correctly interpret the macro signal and manage duration risk."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge and the underlying exposure.",
+        "In fixed income, credit spread moves are the most common source of basis risk when using rate instruments to hedge corporate or structured credit positions.",
+        "Effective risk management requires separately measuring rate risk and spread risk, and stress testing hedge relationships under adverse correlation regimes."
       ]
     },
     "japanese": {
@@ -320,31 +312,31 @@
       "part_of_speech": "noun",
       "example_jp": "今月の予算をオーバーしてしまいました。",
       "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
+      "example_en": "I ended up going over budget this month.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) is used to express that something happened to completion, often with a sense of regret or that it was unintentional. It combines the te-form of a verb with しまう (shimau), which adds nuance of 'ended up doing' or 'unfortunately did.'",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you planned for yourself. If you blow past your 'yo-san,' you'll be saying shimaimashita (oops, it's done!)."
+      "grammar_explanation": "〜てしまいました is used to express that something happened completely, often with a sense of regret or that the action was unintended. Attach てしまう to the te-form of a verb, and use the past polite form しまいました for completed actions.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money you have allocated. If you blow 'your sum,' you feel regret — just like てしまいました suggests!"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams and Analyst Roles",
-      "summary": "Large financial institutions including JPMorgan, HSBC, and a growing number of mid-market lenders are deploying machine learning models for real-time credit underwriting, replacing or augmenting traditional scorecard-based systems. These models ingest alternative data — including cash flow patterns, transaction histories, and even supply chain signals — to generate credit decisions in seconds rather than days. The shift is compressing analyst headcount in vanilla credit assessment roles while simultaneously increasing demand for professionals who can govern, audit, and challenge model outputs. Finance professionals who understand how gradient boosting models or neural networks generate credit scores are becoming significantly more valuable than those who can only apply traditional ratio analysis.",
+      "headline": "AI Agents Are Now Executing Multi-Step Financial Research Autonomously",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and iterative reasoning — is beginning to automate workflows that previously required junior analysts, from earnings call synthesis and covenant monitoring to peer-group benchmarking. Firms like Bloomberg, Palantir, and a cohort of fintech startups are deploying LLM-based agents that can query databases, write code, and produce structured outputs with minimal human prompting. Unlike earlier AI tools that answered single questions, these agents string together multi-step tasks: pulling filings, running calculations, drafting commentary, and flagging anomalies in a single workflow. The implication is not mass analyst replacement but a significant compression of the time between data availability and actionable insight.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many small decision trees sequentially, each correcting errors of the last. In credit risk, it often outperforms traditional logistic regression scorecards by capturing non-linear relationships between borrower characteristics and default probability."
+          "term": "Agentic AI",
+          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as searching databases, writing and running code, and synthesizing outputs — to complete a complex goal with minimal step-by-step human instruction."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as bank transaction flows, payroll records, satellite imagery of retail car parks, or social media signals — used by AI models to assess creditworthiness or investment risk beyond conventional financial statements."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model queries an external knowledge base or document store at inference time, allowing it to ground its responses in current, firm-specific, or proprietary data rather than relying solely on its training data — critical for financial applications requiring up-to-date information."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "A technique (SHapley Additive exPlanations) that quantifies how much each input variable contributed to a specific model prediction. In regulated finance, SHAP is critical for justifying AI-driven credit decisions to auditors, regulators, and rejected applicants."
+          "term": "Structured Output Generation",
+          "definition": "The ability of a language model to produce outputs in a defined format — such as JSON, tables, or standardized risk reports — enabling downstream automated systems to consume AI-generated analysis without human reformatting."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge the gap between traditional financial analysis and machine learning governance are among the most sought-after professionals in banking and fintech right now. Skills in Python, model validation methodology, and regulatory frameworks like SR 11-7 (Fed guidance on model risk management) are becoming baseline expectations, not differentiators. The highest-value professionals will be those who can critically interrogate an AI model's outputs, identify when it fails, and communicate those failures clearly to senior leadership and regulators."
+      "career_insight": "Finance professionals who can design, evaluate, and oversee agentic AI workflows — rather than just use AI as a chat tool — will command a significant premium in the next hiring cycle. The most durable skill combination is domain depth (credit analysis, risk modeling, valuation) paired with the ability to prompt-engineer, validate outputs, and identify where AI reasoning breaks down. Risk and compliance functions in particular are investing heavily in AI fluency as a core competency, not an optional add-on."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a delicate macro crossroads as the market weighs resilient U.S. labor data against softening ISM manufacturing prints, keeping the Fed's 'higher for longer' narrative intact while dampening hopes for aggressive rate cuts in the near term. The dollar remains bid on relative growth outperformance, pressuring EM currencies and commodities, while front-end Treasury yields are anchored above 5% as the market prices fewer than two full cuts through year-end. Equity markets are showing rotational character — mega-cap tech faces valuation scrutiny amid rising real yields, while financials and energy are attracting renewed interest as reflation and credit spread tightening support their earnings profiles."
+    "market_sentiment": "Equity markets are navigating a cautiously constructive backdrop as resilient labor data and cooling core services inflation give the Fed room to hold rates steady through Q3, but the 'higher for longer' narrative continues to weigh on rate-sensitive sectors. Treasury yields have stabilized in the 4.30–4.55% range on the 10-year, with the curve showing tentative steepening as markets price a modest probability of a late-2025 cut — credit spreads remain tight in IG but select HY names are widening on refinancing concerns. The macro tone is one of late-cycle vigilance: equity vol is subdued, but positioning data suggests institutional investors are quietly adding tail hedges ahead of a busy earnings season and geopolitical uncertainty in the Middle East and Eastern Europe."
   }
 }
