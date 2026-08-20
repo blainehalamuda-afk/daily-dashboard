@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:20 PM UTC",
-  "date": "Wednesday, August 19, 2026",
+  "generated_at": "12:22 PM UTC",
+  "date": "Thursday, August 20, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 74,
-    "feels_like_f": 75,
-    "high_f": 76,
+    "temp_f": 75,
+    "feels_like_f": 77,
+    "high_f": 78,
     "low_f": 73,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 89,
-    "wind_mph": 7,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 90,
+    "wind_mph": 0,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "☁️",
-        "high": 77,
-        "low": 77,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Fri",
         "icon": "☁️",
         "high": 75,
         "low": 75,
-        "description": "Overcast Clouds"
+        "description": "Broken Clouds"
       },
       {
         "day": "Sat",
-        "icon": "⛅",
-        "high": 70,
-        "low": 70,
-        "description": "Scattered Clouds"
+        "icon": "🌧️",
+        "high": 72,
+        "low": 72,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "high": 71,
+        "low": 71,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 767.45,
-        "change": -5.22,
-        "change_pct": -0.68,
-        "up": false,
+        "price": 769.06,
+        "change": 1.61,
+        "change_pct": 0.21,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 310.03,
-        "change": 4.44,
-        "change_pct": 1.45,
+        "price": 316.83,
+        "change": 6.8,
+        "change_pct": 2.19,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 219.74,
-        "change": -5.27,
-        "change_pct": -2.34,
+        "price": 217.56,
+        "change": -2.18,
+        "change_pct": -0.99,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 336.87,
-        "change": -2.43,
-        "change_pct": -0.72,
-        "up": false,
+        "price": 351.12,
+        "change": 14.25,
+        "change_pct": 4.23,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64501.26,
-        "change": 205.25,
-        "change_pct": 0.32,
+        "price": 71804.02,
+        "change": 7307.12,
+        "change_pct": 11.33,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1923.63,
-        "change": 22.91,
-        "change_pct": 1.21,
+        "price": 2276.65,
+        "change": 352.75,
+        "change_pct": 18.34,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,58 +111,77 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
-        "description": "US stock futures fell on Tuesday as rising tensions between the US and Iran revived inflation concerns, with elevated oil prices adding pressure.",
-        "published": "9:32 AM UTC",
+        "title": "The bond market is sounding an alarm. Here’s what it means. - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/08/19/bond-market-quake-is-bad-news-governments-businesses-consumers/",
+        "description": "Long-term Treasury yields rose to their highest point since 2007, creating another headwind for the economy and lifting borrowing costs for consumers and businesses.",
+        "published": "12:35 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Asian stocks retreat as oil, bond yields revive inflation concerns - Investing.com",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/asian-stocks-retreat-as-oil-bond-yields-revive-inflation-concerns-4864253",
-        "description": "Asian stocks retreat as oil, yields rise; Nikkei, KOSPI lead losses",
-        "published": "4:22 AM UTC",
+        "title": "Stock Market Today: Global Bonds Stabilize After Selloff, Dow Futures Muted — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026",
+        "description": "",
+        "published": "11:37 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Apple’s camera-equipped AirPods appear in leaked video - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-        "description": "We may have our first glimpse of Apple’s rumored camera-equipped AirPods, thanks to a demo video pulled from the macOS Tahoe 26.7 Release Candidate.",
+        "title": "Feeling restless? Level up your life by starting a side quest - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
+        "description": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest.",
+        "published": "9:02 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "With the Pixel 11, Google has abandoned the main reason I used to recommend Pixels - Android Authority",
+        "source": "Android Authority",
+        "url": "https://www.androidauthority.com/pixel-11-price-increase-abandons-google-advantage-3698897/",
+        "description": "Pixels used to be one of the best deals in flagship Android phones. But with the Pixel 11 series, that chapter has officially closed.",
         "published": "9:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Rumoured Phantom Blade Zero PS5 Demo Nowhere to Be Seen After State of Play Deep Dive - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/08/rumoured-phantom-blade-zero-ps5-demo-nowhere-to-be-seen-after-state-of-play-deep-dive",
-        "description": "Zero'd",
-        "published": "2:57 AM UTC",
+        "title": "Gboard Rambler has a usage limit, and here's what happens when you reach it (Update) - Android Authority",
+        "source": "Android Authority",
+        "url": "https://www.androidauthority.com/gboard-rambler-usage-limit-3699660/",
+        "description": "Gboard's upcoming Rambler feature has a usage limit, but what happens when you reach it? Google has revealed the answer.",
+        "published": "4:05 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "5 Anker Gadgets Under $25 Worth Adding To Your Kit - bgr.com",
-        "source": "BGR",
-        "url": "https://www.bgr.com/2237515/anker-accessories-under-50-dollars-worth-buying/",
-        "description": "Anker USB-C to Ethernet Adapter, USB-A to USB-C Adapter, 5-in-1 USB-C Hub, USB-C Charging Cable, and 10-in-1 Power Strip with 300J Surge Protector.",
-        "published": "1:19 AM UTC",
-        "category": "Technology"
+        "title": "Man who dated Hayden Panettiere called 911 from apartment, police report says - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/entertainment/2026/08/19/man-who-dated-hayden-panettiere-called-911-apartment-police-report-says/",
+        "description": "Brian Hickerson became \"very emotional” after the actor was declared dead, according to an incident report.",
+        "published": "12:43 PM UTC",
+        "category": "General"
       },
       {
-        "title": "A rare baby sighting could reveal where life begins for world's largest sharks - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/future/article/20260817-the-giant-shark-that-seems-to-appear-from-nowhere",
-        "description": "No one knows where whale sharks give birth. But a rare encounter with a baby whale shark could help solve one of the oceans' biggest mysteries.",
-        "published": "9:45 AM UTC",
+        "title": "Popular daily drinking habit could nearly triple risk of deadly cancer, major study finds - Fox News",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/health/popular-daily-drinking-habit-nearly-triple-risk-deadly-cancer-major-study-finds",
+        "description": "Mass General Brigham research links one daily sugary drink to nearly three times higher stomach cancer risk, with fructose identified as a key factor.",
+        "published": "11:00 AM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [],
+    "matches": [
+      {
+        "home": "Arsenal",
+        "away": "Coventry City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "Aug 21",
+        "highlighted": false
+      }
+    ],
     "standings": [
       {
         "position": 1,
@@ -235,45 +254,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Eye Sporting CP Midfielder Viktor Gyokeres in Bold Summer Pivot",
-        "summary": "Manchester United are reportedly weighing a move for Viktor Gyokeres as new sporting leadership looks to overhaul the squad's attacking options following a turbulent domestic campaign. Gyokeres' prolific form in the Champions League has attracted interest from several top European clubs, making any deal likely to exceed £80 million.",
+        "headline": "Arsenal Intensify Interest in RB Leipzig Midfielder as Partey Replacement",
+        "summary": "Arsenal are reportedly stepping up their pursuit of a dynamic box-to-box midfielder from the Bundesliga as they look to address long-term concerns over Thomas Partey's injury record and contract situation. The Gunners face competition from two other top-six Premier League clubs.",
         "clubs": [
-          "Manchester United",
-          "Sporting CP"
+          "Arsenal",
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Sign Juventus Defender Federico Gatti",
-        "summary": "Chelsea are understood to be in serious discussions with Juventus over a summer move for center-back Federico Gatti as Enzo Maresca looks to solidify a defensive unit that has conceded too freely this season. Juventus are reportedly willing to negotiate a fee in the region of £35–40 million.",
+        "headline": "Manchester United Consider Loan Move for Everton's Jarrad Branthwaite",
+        "summary": "Manchester United are understood to be exploring a January loan arrangement for Everton centre-back Jarrad Branthwaite as Ruben Amorim seeks to add defensive cover following a string of injuries at the back. Everton's financial constraints may make a temporary exit unlikely without significant loan fee compensation.",
         "clubs": [
-          "Chelsea",
-          "Juventus"
+          "Manchester United",
+          "Everton"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "Arsenal host Manchester City at the Emirates in what is shaping up to be a pivotal top-four clash, with both sides needing points to keep their respective ambitions alive heading into the final weeks of the season. Arsenal have been in electric home form, with Saka and Martinelli causing havoc on the flanks, while City arrive knowing that dropping points here could extinguish any remaining league hopes and dent Champions League confidence. The tactical duel between Arteta and Guardiola always delivers — expect a high-press battle in the opening exchanges and a premium on set-piece execution.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's marquee fixture pits a free-flowing Liverpool side, buoyed by their early-season form under a settled system, against a Manchester City squad still searching for consistency following an injury-disrupted start. The title implications are significant — a Liverpool victory would open a potentially decisive gap at the top, while City desperately need three points to remain within striking distance of the pace-setters. All eyes will be on the midfield battle, with Liverpool's energy and pressing intensity expected to test City's ability to control tempo without several key personnel.",
       "key_players": [
-        "Bukayo Saka",
-        "Kevin De Bruyne",
-        "Martin Ødegaard"
+        "Mohamed Salah",
+        "Erling Haaland",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected to feature from the bench; full fitness targeted for late May"
+        "status": "Doubtful",
+        "return": "Expected to be assessed on the morning of the match; initially targeting return within 1-2 weeks"
       },
       {
-        "player": "Gabriel Magalhães",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Late fitness test Saturday; hamstring tightness sustained in midweek Europa fixture"
+        "player": "Dominik Szoboszlai",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Returned to partial training; expected to be available from the bench within 7-10 days"
       }
     ]
   },
@@ -281,62 +300,62 @@
     "cfa_frm": {
       "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio and observes that the asset correlation between two obligors increases from 10% to 25%. Holding all else equal, which of the following best describes the impact on the portfolio's loss distribution?",
+      "question": "A risk manager is evaluating a credit default swap (CDS) and observes that the CDS spread for a corporate reference entity has widened significantly while the recovery rate assumption has remained constant. Which of the following best explains the relationship between the CDS spread, probability of default (PD), and recovery rate (RR)?",
       "options": {
-        "A": "Expected loss increases and the loss distribution becomes more platykurtic.",
-        "B": "Expected loss is unchanged, but the loss distribution exhibits fatter tails and higher unexpected loss.",
-        "C": "Both expected loss and unexpected loss increase proportionally with the rise in asset correlation.",
-        "D": "The loss distribution becomes more symmetric and the Value-at-Risk decreases at high confidence levels."
+        "A": "CDS spread ≈ PD × (1 - RR); a wider spread with constant RR implies a higher implied PD",
+        "B": "CDS spread ≈ PD × RR; a wider spread with constant RR implies a lower implied PD",
+        "C": "CDS spread ≈ PD / (1 - RR); a wider spread with constant RR implies a lower implied PD",
+        "D": "CDS spread ≈ (1 - PD) × (1 - RR); a wider spread with constant RR implies a higher implied PD"
       },
-      "correct": "B",
-      "explanation": "Asset correlation in credit portfolios does not affect the expected loss of individual obligors, since EL depends on PD, LGD, and EAD. However, higher correlation causes obligors to default together more frequently, fattening the tail of the loss distribution and increasing unexpected loss (UL) and tail risk measures like Credit VaR. This is a core insight from the Gaussian copula and Vasicek single-factor models used in credit portfolio management. The distribution becomes more skewed and leptokurtic — not symmetric or platykurtic — at higher correlation levels."
+      "correct": "A",
+      "explanation": "The fundamental no-arbitrage approximation for a CDS spread is: Spread ≈ PD × LGD, where LGD (Loss Given Default) = 1 − RR. Holding the recovery rate constant, a wider CDS spread directly implies the market is pricing in a higher probability of default for the reference entity. This relationship is foundational to extracting risk-neutral default probabilities from observable market CDS spreads, a technique widely used in credit portfolio management and counterparty risk assessment."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedged Fixed Income Portfolios",
-      "subtitle": "When your hedge doesn't move the way your position does, the gap between them can quietly erode returns.",
+      "title": "Basis Risk in Credit Default Swaps",
+      "subtitle": "Understanding why CDS spreads and bond spreads diverge — and what it means for hedgers.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge a position does not move in perfect lockstep with the underlying exposure. In fixed income, this commonly occurs when a portfolio manager hedges a corporate bond position using Treasury futures or interest rate swaps. The spread between the corporate bond yield and the risk-free benchmark — the credit spread — can widen or tighten independently of the rate used for hedging, leaving residual P&L exposure even in a supposedly 'hedged' book.",
-        "A practical example emerged during the March 2020 liquidity crisis, when investment-grade corporate bond prices fell sharply while Treasury yields also declined. Managers who had hedged duration with Treasury futures saw their futures gains partially offset by spread widening on the corporate side — a classic basis blow-up. Similarly, during the 2022 rate hiking cycle, managers using SOFR swaps to hedge mortgage-backed securities faced significant basis risk as MBS spreads widened dramatically beyond what any rate hedge could capture.",
-        "For risk managers and portfolio managers alike, basis risk demands explicit measurement and monitoring alongside standard duration and DV01 metrics. Decomposing total P&L into rate P&L and spread P&L helps isolate basis exposure. Stress testing should include scenarios where the hedge basis widens adversely — such as a flight-to-quality event — rather than assuming correlation between the hedged instrument and the hedge vehicle remains stable under stress."
+        "Basis risk in credit markets refers to the difference between the CDS spread of a reference entity and the asset swap spread (ASW) of a corresponding cash bond — formally defined as Basis = CDS Spread − Bond Spread. In a theoretically perfect market, these two measures of credit risk should converge, since both instruments transfer exposure to the same underlying credit event. In practice, however, structural, technical, and liquidity factors cause persistent and sometimes dramatic divergences between the two.",
+        "During the 2008 Global Financial Crisis, CDS-bond basis turned sharply negative for many investment-grade names, meaning bond spreads exceeded CDS spreads by hundreds of basis points. This was driven by forced deleveraging — institutions sold bonds at distressed prices while CDS markets remained relatively liquid. Conversely, in calmer markets or when 'cheapest-to-deliver' optionality embedded in CDS contracts is valuable, the basis can turn positive. More recently, basis dislocations have been observed in European sovereign credits and high-yield corporates during periods of quantitative tightening.",
+        "For risk managers and portfolio managers, basis risk is critical because a hedge constructed using CDS may not perfectly offset losses on a cash bond position. A manager long a corporate bond and short protection via CDS is exposed to basis widening — the bond spread could widen more than the CDS spread, leaving a residual P&L loss. Understanding and monitoring basis levels, funding costs, counterparty risk differentials, and delivery optionality is essential for anyone managing credit hedges in institutional portfolios."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge and the underlying exposure.",
-        "In fixed income, credit spread moves are the most common source of basis risk when using rate instruments to hedge corporate or structured credit positions.",
-        "Effective risk management requires separately measuring rate risk and spread risk, and stress testing hedge relationships under adverse correlation regimes."
+        "CDS-bond basis = CDS spread minus bond asset swap spread; it should theoretically be zero but rarely is in practice.",
+        "Negative basis (bond spreads > CDS spreads) typically emerges during market stress and forced deleveraging, creating potential arbitrage for well-capitalized investors.",
+        "Risk managers must account for basis risk when using CDS as a hedge — an imperfect hedge can leave significant residual exposures, especially in volatile credit environments."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "〜てしまいました is used to express that something happened completely, often with a sense of regret or that the action was unintended. Attach てしまう to the te-form of a verb, and use the past polite form しまいました for completed actions.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money you have allocated. If you blow 'your sum,' you feel regret — just like てしまいました suggests!"
+      "example_jp": "明日の会議に必ず出席するという約束を守ります。",
+      "example_romaji": "Ashita no kaigi ni kanarazu shusseki suru to iu yakusoku wo mamorimasu.",
+      "example_en": "I will keep my promise to attend tomorrow's meeting without fail.",
+      "grammar_point": "〜という約束を守る",
+      "grammar_explanation": "The pattern 〜という connects a quoted action or statement to the noun that follows it — here, 約束 (promise). 守る (mamoru) means 'to keep/protect,' so 約束を守る literally means 'to protect a promise,' which is the natural Japanese way to say 'keep a promise.'",
+      "memory_tip": "Think of 'yak-o-soku' — a yak (the animal) is so reliable and sure-footed in the mountains, it never breaks a promise. A yak always SHOWS UP."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Executing Multi-Step Financial Research Autonomously",
-      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and iterative reasoning — is beginning to automate workflows that previously required junior analysts, from earnings call synthesis and covenant monitoring to peer-group benchmarking. Firms like Bloomberg, Palantir, and a cohort of fintech startups are deploying LLM-based agents that can query databases, write code, and produce structured outputs with minimal human prompting. Unlike earlier AI tools that answered single questions, these agents string together multi-step tasks: pulling filings, running calculations, drafting commentary, and flagging anomalies in a single workflow. The implication is not mass analyst replacement but a significant compression of the time between data availability and actionable insight.",
+      "headline": "AI Agents Are Now Writing and Executing Quantitative Trading Strategies Autonomously",
+      "summary": "A new generation of agentic AI systems — capable of planning multi-step tasks, writing code, back-testing, and executing iteratively — is beginning to enter quantitative finance workflows at leading hedge funds and proprietary trading firms. Unlike copilot-style tools that assist human analysts, these agents operate with greater autonomy: given a research objective, they can retrieve data, construct factor models, run simulations, and refine strategies with minimal human intervention. Firms including Citadel, Two Sigma, and several quantitative boutiques are reported to be exploring or deploying early versions of these systems. The critical risk management challenge is ensuring human oversight remains embedded in the loop, particularly around position sizing, drawdown limits, and regime-change detection.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as searching databases, writing and running code, and synthesizing outputs — to complete a complex goal with minimal step-by-step human instruction."
+          "definition": "AI systems that can autonomously plan, execute, and iterate through multi-step tasks — in finance, this means systems that don't just answer questions but can independently run analyses, write code, and act on results within defined guardrails."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries an external knowledge base or document store at inference time, allowing it to ground its responses in current, firm-specific, or proprietary data rather than relying solely on its training data — critical for financial applications requiring up-to-date information."
+          "definition": "A technique where an AI model supplements its built-in knowledge by retrieving relevant documents or data in real time — allowing financial AI tools to ground answers in live earnings transcripts, regulatory filings, or market data rather than relying solely on training data."
         },
         {
-          "term": "Structured Output Generation",
-          "definition": "The ability of a language model to produce outputs in a defined format — such as JSON, tables, or standardized risk reports — enabling downstream automated systems to consume AI-generated analysis without human reformatting."
+          "term": "Reinforcement Learning from Human Feedback (RLHF)",
+          "definition": "A training method where AI models are fine-tuned based on human ratings of their outputs — used in finance to align AI tools with domain-specific standards, such as ensuring credit memos or risk reports meet institutional quality and compliance requirements."
         }
       ],
-      "career_insight": "Finance professionals who can design, evaluate, and oversee agentic AI workflows — rather than just use AI as a chat tool — will command a significant premium in the next hiring cycle. The most durable skill combination is domain depth (credit analysis, risk modeling, valuation) paired with the ability to prompt-engineer, validate outputs, and identify where AI reasoning breaks down. Risk and compliance functions in particular are investing heavily in AI fluency as a core competency, not an optional add-on."
+      "career_insight": "Finance professionals who understand how to design, oversee, and critically evaluate AI-generated outputs — rather than simply consume them — will command a significant premium in coming years. The most valuable skill set is emerging as a hybrid: deep domain expertise in credit, risk, or quantitative finance combined with the ability to prompt, audit, and govern AI systems. Roles in 'AI governance for financial models' and 'quantitative AI strategy' are being created at major institutions faster than qualified candidates can fill them."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a cautiously constructive backdrop as resilient labor data and cooling core services inflation give the Fed room to hold rates steady through Q3, but the 'higher for longer' narrative continues to weigh on rate-sensitive sectors. Treasury yields have stabilized in the 4.30–4.55% range on the 10-year, with the curve showing tentative steepening as markets price a modest probability of a late-2025 cut — credit spreads remain tight in IG but select HY names are widening on refinancing concerns. The macro tone is one of late-cycle vigilance: equity vol is subdued, but positioning data suggests institutional investors are quietly adding tail hedges ahead of a busy earnings season and geopolitical uncertainty in the Middle East and Eastern Europe."
+    "market_sentiment": "Global risk assets are navigating a delicate equilibrium as markets price a 'higher for longer' rate environment against resilient but decelerating corporate earnings. The USD has firmed modestly on relative growth outperformance versus the Eurozone, where PMI data continues to signal contraction in manufacturing, while ECB officials have struck a more cautious tone on the pace of further cuts. Credit spreads remain range-bound but technicals are tightening in high-yield as new issuance is met with robust demand — a dynamic that warrants monitoring given the divergence from softening macro fundamentals. Equity implied volatility remains subdued, suggesting complacency that could unwind sharply on any upside inflation surprise in next week's CPI print."
   }
 }
