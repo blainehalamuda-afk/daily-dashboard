@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:21 PM UTC",
-  "date": "Friday, August 21, 2026",
+  "generated_at": "12:15 PM UTC",
+  "date": "Saturday, August 22, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 74,
-    "feels_like_f": 75,
-    "high_f": 75,
-    "low_f": 72,
+    "temp_f": 71,
+    "feels_like_f": 72,
+    "high_f": 72,
+    "low_f": 70,
     "description": "Broken Clouds",
     "icon": "☁️",
-    "humidity": 94,
-    "wind_mph": 5,
+    "humidity": 96,
+    "wind_mph": 3,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 70,
-        "low": 70,
-        "description": "Overcast Clouds"
-      },
       {
         "day": "Sun",
         "icon": "☀️",
-        "high": 73,
-        "low": 73,
+        "high": 72,
+        "low": 72,
         "description": "Clear Sky"
       },
       {
         "day": "Mon",
+        "icon": "⛅",
+        "high": 69,
+        "low": 69,
+        "description": "Scattered Clouds"
+      },
+      {
+        "day": "Tue",
         "icon": "☁️",
-        "high": 71,
-        "low": 71,
-        "description": "Broken Clouds"
+        "high": 69,
+        "low": 69,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 762.6,
-        "change": -6.46,
-        "change_pct": -0.84,
-        "up": false,
+        "price": 765.72,
+        "change": 3.12,
+        "change_pct": 0.41,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 311.3,
-        "change": -5.53,
-        "change_pct": -1.75,
+        "price": 309.35,
+        "change": -1.95,
+        "change_pct": -0.63,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 216.85,
-        "change": -0.71,
-        "change_pct": -0.33,
+        "price": 214.72,
+        "change": -2.13,
+        "change_pct": -0.98,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 345.13,
-        "change": -5.99,
-        "change_pct": -1.71,
-        "up": false,
+        "price": 362.86,
+        "change": 17.73,
+        "change_pct": 5.14,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 76789.83,
-        "change": 4986.45,
-        "change_pct": 6.94,
+        "price": 77244.19,
+        "change": 357.53,
+        "change_pct": 0.47,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2374.8,
-        "change": 98.38,
-        "change_pct": 4.32,
+        "price": 2432.89,
+        "change": 55.06,
+        "change_pct": 2.32,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,51 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Where commercial real estate demand is the highest, according to new data - CNBC",
+        "title": "Live Bitcoin price news: Bitcoin tops $77,000 - CoinDesk",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
+        "description": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
+        "published": "10:17 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "CNBC Daily Open: The 'Bessent Bid' wears off - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
-        "description": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
-        "published": "12:15 PM UTC",
+        "url": "https://www.cnbc.com/2026/08/21/cnbc-daily-open-the-bessent-bid-wares-off.html",
+        "description": "In a CNBC exclusive, U.S. Treasury Secretary Scott Bessent says he could expand a bond buyback plan, but yields march higher despite the extraordinary action.",
+        "published": "5:54 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Walmart raises guidance, but the stock drops on slower sales growth - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/article/walmart-raises-guidance-but-the-stock-drops-on-slower-sales-growth-182327744.html",
-        "description": "Walmart raised its outlook, but traffic and US sales came in below Wall Street's expectations.",
-        "published": "11:08 AM UTC",
+        "title": "Trump Wants to Revive Keystone XL. The Industry Has a Different Plan. - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/business/energy-oil/trump-wants-to-revive-keystone-xl-the-industry-has-a-different-plan-5f7e775b",
+        "description": "",
+        "published": "2:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "GTA 6 leaker claims to have \"full access\" to the game, as Rockstar struggles to contain even more gameplay videos - Eurogamer",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/rockstar-gta-6-leaker-full-access-gameplay-leaks-continue",
-        "description": "Rockstar's efforts to stop the GTA 6 gameplay video leaker are proving futile so far. More footage emerges showing possible playable access to the game.",
-        "published": "11:27 AM UTC",
+        "title": "AEW lost an insane amount of money on the Fight Forever video game - Cageside Seats",
+        "source": "Cageside Seats",
+        "url": "https://www.cagesideseats.com/aew/470109/aew-fight-forever-video-game-massive-loss-30-million-dollars-future-sequel-licensing-rumor",
+        "description": "Fight Forever was a “massive loss” for AEW, which explains why Tony Khan isn’t in a rush to make another video game.",
+        "published": "3:52 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Nintendo Details Switch 2 Price Increase For The UK - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/08/nintendo-details-switch-2-price-increase-for-the-uk",
-        "description": "Brace yourselves",
-        "published": "11:15 AM UTC",
+        "title": "Google posts Pixel Watch 5 factory images with one unified build - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/08/20/pixel-watch-5-images/",
+        "description": "Following the Pixel 11 series earlier today, Google has released factory and OTA images for the Pixel Watch 5.",
+        "published": "2:48 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Gran Turismo 7 Update 1.71 Arrives With Major Physics Changes & Fanatec FullForce Support - GTPlanet",
-        "source": "GTPlanet",
-        "url": "https://www.gtplanet.net/gran-turismo-7-update-1-71-arrives-with-major-physics-changes-fanatec-fullforce-support-20260820/",
-        "description": "Almost two weeks after first being teased, the fifth update this calendar year for Gran Turismo 7 is now upon us and it brings some significant under-the-hood changes as we’d been somewhat expecting..",
-        "published": "11:12 AM UTC",
-        "category": "Technology"
+        "title": "What to know about this weekend's IndyCar race on the National Mall - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+        "description": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend.",
+        "published": "9:01 AM UTC",
+        "category": "General"
       },
       {
-        "title": "What we know about deadly plane crash involving Pennsylvania State Police helicopter at Carlisle Regional Airport - 6abc Philadelphia",
-        "source": "WPVI-TV",
-        "url": "https://6abc.com/post/what-know-deadly-plane-crash-involving-pennsylvania-state-police-helicopter-carlisle-regional-airport/19707319/",
-        "description": "Witness recalls hearing 'huge crash' while mowing lawn",
-        "published": "11:28 AM UTC",
+        "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+        "description": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technolo",
+        "published": "9:00 AM UTC",
         "category": "General"
       }
     ]
@@ -166,9 +174,9 @@
       {
         "home": "Arsenal",
         "away": "Coventry City",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 3,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "7:00 PM UTC",
         "date": "Aug 21",
         "highlighted": false
@@ -176,9 +184,9 @@
       {
         "home": "Hull City",
         "away": "Man United",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "11:30 AM UTC",
         "date": "Aug 22",
         "highlighted": false
@@ -222,11 +230,63 @@
         "time": "4:30 PM UTC",
         "date": "Aug 22",
         "highlighted": false
+      },
+      {
+        "home": "Man City",
+        "away": "Bournemouth",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Aug 23",
+        "highlighted": false
+      },
+      {
+        "home": "Brighton Hove",
+        "away": "Aston Villa",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Aug 23",
+        "highlighted": false
+      },
+      {
+        "home": "Newcastle",
+        "away": "Liverpool",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:30 PM UTC",
+        "date": "Aug 23",
+        "highlighted": false
       }
     ],
     "standings": [
       {
         "position": 1,
+        "team": "Arsenal",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 3,
+        "points": 3,
+        "highlighted": false
+      },
+      {
+        "position": 2,
+        "team": "Hull City",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 2,
+        "points": 3,
+        "highlighted": false
+      },
+      {
+        "position": 3,
         "team": "Bournemouth",
         "played": 0,
         "won": 0,
@@ -237,18 +297,7 @@
         "highlighted": false
       },
       {
-        "position": 1,
-        "team": "Arsenal",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 0,
-        "points": 0,
-        "highlighted": false
-      },
-      {
-        "position": 1,
+        "position": 3,
         "team": "Aston Villa",
         "played": 0,
         "won": 0,
@@ -259,7 +308,7 @@
         "highlighted": false
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Brentford",
         "played": 0,
         "won": 0,
@@ -270,19 +319,8 @@
         "highlighted": false
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Brighton Hove",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 0,
-        "points": 0,
-        "highlighted": false
-      },
-      {
-        "position": 1,
-        "team": "Chelsea",
         "played": 0,
         "won": 0,
         "drawn": 0,
@@ -296,19 +334,19 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are reportedly closing in on a deal for a box-to-box midfielder from the Bundesliga, with the Gunners keen to add dynamism and pressing intensity to their engine room ahead of a Champions League push next season. Thomas Partey's persistent injury record has accelerated the club's search for a long-term solution in the middle of the park.",
+        "headline": "Arsenal Revive Interest in RB Leipzig Midfielder Xavi Simons",
+        "summary": "Arsenal are reported to be monitoring Xavi Simons ahead of the January window, with Mikel Arteta keen to add creativity in central midfield following an injury to Thomas Partey. Leipzig are reluctant to sell in January but a summer move is considered increasingly likely.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Manchester United Monitoring Napoli Striker as Ten Hag Seeks Attacking Reinforcement",
-        "summary": "Manchester United's recruitment team have been scouting a prolific Serie A striker as the club looks to address chronic issues in front of goal, with Rasmus Højlund struggling for consistency this season. Napoli are understood to value their asset at over £60 million, which could complicate negotiations given United's financial constraints under INEOS.",
+        "headline": "Manchester United Weighing Move for Fulham's Joachim Andersen",
+        "summary": "Manchester United's recruitment team has reportedly identified Fulham centre-back Joachim Andersen as a priority defensive target as Ruben Amorim looks to shore up a backline that has conceded at an alarming rate this season. Fulham value the Danish international at around £40 million.",
         "clubs": [
           "Manchester United",
-          "Napoli"
+          "Fulham"
         ]
       }
     ],
@@ -316,88 +354,88 @@
       "home": "Liverpool",
       "away": "Manchester City",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The most anticipated fixture of the Premier League calendar arrives at Anfield with Liverpool looking to extend their lead at the top of the table against a Manchester City side desperately seeking a result to keep their title hopes mathematically alive. Arne Slot's side have been imperious at home this season, combining pressing intensity with clinical finishing, while Pep Guardiola faces the unusual position of playing catch-up football with fewer points in the bank than this stage last season. The tactical battle between Liverpool's high defensive line and City's positional rotations through Bernardo Silva and Kevin De Bruyne promises to be a defining spectacle of the English season.",
+      "preview": "Anfield hosts one of English football's most anticipated fixtures as league-leading Liverpool welcome a Manchester City side still searching for the consistency that defined their recent dynasty under Pep Guardiola. Liverpool's high press and relentless transition play will be tested against City's restructured midfield, and with the title race tightening, dropped points for either side could prove decisive by May. The storyline of Guardiola's evolution of City without a natural striker against Slot's fluid 4-3-3 makes this a fascinating tactical chess match.",
       "key_players": [
         "Mohamed Salah",
-        "Kevin De Bruyne",
-        "Virgil van Dijk"
+        "Erling Haaland",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Remainder of season — ACL recovery"
-      },
-      {
         "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Late fitness test ahead of weekend fixture"
+        "return": "Assessed day-to-day; could return after international break"
+      },
+      {
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Out",
+        "return": "Long-term — not expected before late spring"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using the Merton model. Which of the following statements best describes the relationship between asset volatility and the probability of default (PD) in this framework?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced to yield 7%. If the yield immediately falls to 5%, which of the following best describes the price change, and what concept explains the asymmetry between price increases and decreases for equal yield changes?",
       "options": {
-        "A": "Higher asset volatility decreases PD because it increases the market value of assets, reducing the likelihood of breaching the default barrier.",
-        "B": "Higher asset volatility increases PD because greater dispersion in asset values raises the probability that assets fall below the debt face value at maturity.",
-        "C": "Asset volatility has no direct effect on PD; only the leverage ratio and risk-free rate determine the default probability.",
-        "D": "Higher asset volatility decreases PD because equity holders benefit from limited liability, which offsets the increased risk to debt holders."
+        "A": "The price increase from a 1% yield drop is smaller than the price decrease from a 1% yield rise; this is explained by negative convexity.",
+        "B": "The price increase from a 1% yield drop is larger than the price decrease from a 1% yield rise; this is explained by positive convexity.",
+        "C": "The price increase from a 1% yield drop equals the price decrease from a 1% yield rise; duration captures this relationship perfectly.",
+        "D": "The price increase from a 1% yield drop is larger than the price decrease from a 1% yield rise; this is explained by negative convexity."
       },
       "correct": "B",
-      "explanation": "In the Merton structural model, a firm defaults when its asset value falls below the face value of debt at maturity. Higher asset volatility increases the dispersion of future asset values, raising the probability that assets land below the default boundary — thus increasing PD. This is analogous to a put option becoming more valuable with higher underlying volatility. While equity holders do benefit from upside via limited liability, this does not reduce PD; it merely shifts value between equity and debt claimants."
+      "explanation": "For a standard option-free bond, price-yield relationship is convex, meaning the price rise when yields fall exceeds the price decline when yields rise by an equal amount. This asymmetry is called positive convexity. Duration provides a linear approximation of price sensitivity, but convexity captures the curvature, always benefiting the bondholder in an option-free bond regardless of the direction of yield change. Negative convexity, by contrast, is characteristic of callable bonds where the issuer can redeem the bond when rates fall, limiting price appreciation."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Why imperfect hedges leave residual risk even when the hedge is well-intentioned.",
+      "title": "Duration Gap and Bank Balance Sheet Risk",
+      "subtitle": "How mismatches between asset and liability durations expose banks to interest rate risk and what happened when this was ignored.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging contract. When a firm hedges a commodity exposure, currency position, or interest rate risk, it hopes the hedge instrument mirrors changes in the underlying. If it does not — due to differences in maturity, geography, credit quality, or liquidity — the residual mismatch is called basis risk.",
-        "A classic example arose during the 2008 financial crisis when many institutions used ABX index credit default swaps to hedge subprime mortgage exposure. The ABX tracked a basket of mortgage-backed securities, but individual bank portfolios contained specific tranches that diverged sharply from the index during the crisis. The hedge appeared protective on paper but generated substantial basis losses when correlations broke down under stress. Similarly, airlines hedging jet fuel with crude oil futures face basis risk because the crack spread — the price difference between crude and refined products — can widen unpredictably.",
-        "For risk managers and portfolio hedgers, basis risk is not a failure of strategy but an inherent feature of any hedge that uses a proxy instrument. It must be explicitly modeled, stress-tested under historical and hypothetical scenarios, and disclosed in risk reports. The hedge ratio should be optimized using the minimum variance approach — regressing changes in the spot price against changes in the futures price — to minimize, though never eliminate, basis risk. Treating a hedge as a perfect offset is one of the most dangerous assumptions in risk management."
+        "Duration gap measures the difference between the weighted average duration of a bank's assets and the duration of its liabilities, adjusted for leverage. When a bank holds long-duration assets — such as fixed-rate mortgages or long-dated government bonds — funded by short-duration liabilities like deposits, a positive duration gap exists. This means that when interest rates rise, the market value of assets falls faster than liabilities, eroding the institution's equity value and economic net worth.",
+        "The collapse of Silicon Valley Bank in March 2023 became a textbook case of duration gap mismanagement. SVB had accumulated a massive portfolio of long-dated U.S. Treasuries and agency mortgage-backed securities during the low-rate era of 2020–2021. When the Federal Reserve raised rates by over 500 basis points between 2022 and 2023, the market value of those assets plummeted. Because SVB had not adequately hedged its interest rate exposure and was funding these assets largely with uninsured, rate-sensitive deposits, the resulting mismatch triggered a confidence crisis and a classic bank run.",
+        "For risk managers and investors, duration gap analysis is a foundational tool in Asset-Liability Management (ALM). Banks are required to stress-test their balance sheets against parallel rate shifts and non-parallel twists in the yield curve. Investors evaluating bank equities should scrutinize regulatory disclosures such as the sensitivity of Net Interest Income (NII) and Economic Value of Equity (EVE) to rate shocks — metrics that directly reflect duration gap exposure. A large positive duration gap in a rising rate environment is a red flag for capital erosion even before credit losses materialize."
       ],
       "key_takeaways": [
-        "Basis risk is the residual price risk remaining after a hedge is placed, driven by imperfect correlation between the hedged item and the hedging instrument.",
-        "Basis risk is especially dangerous in stress scenarios when historical correlations break down, as seen in 2008 with credit index hedges.",
-        "The minimum variance hedge ratio, derived from regression analysis, is the standard tool for reducing — but never eliminating — basis risk."
+        "Duration gap = asset duration minus liability duration (leverage-adjusted); a positive gap means rising rates hurt equity value.",
+        "SVB's 2023 failure was a real-world demonstration of unhedged duration gap risk at institutional scale.",
+        "Investors should analyze EVE and NII sensitivity disclosures in bank filings to assess hidden interest rate exposure."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial estimate",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or finality — something happened that cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 予算 (yosan) as 'yo, son — that's your budget!' — a friendly but firm reminder that the money is set and limited, just like a budget should be."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened completely or regrettably, often used when the speaker feels the outcome was unintended or unfortunate. It combines the te-form of a verb with しまいました (the polite past of しまう).",
+      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead' and 算 (san) as 'calculate' — a budget is when you 'yo, calculate' your money in advance. Picture yourself saying 'Yo, SAN dollars left — I need a budget!'"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Major Banks",
-      "summary": "Leading global banks including JPMorgan, HSBC, and Citigroup are deploying large language models and gradient boosting ensembles to automate credit memo generation, covenant monitoring, and early-warning scoring for corporate lending portfolios. These systems ingest structured financial data alongside unstructured sources such as earnings call transcripts, news sentiment, and regulatory filings to produce real-time creditworthiness assessments. The shift is compressing analyst review cycles from days to hours and enabling relationship managers to cover significantly larger client books. Regulators in the US and EU are responding with model risk management guidance specifically targeting AI-driven credit decisioning, raising the compliance burden alongside the efficiency gains.",
+      "headline": "AI Agents Are Now Autonomously Executing Trades and Portfolio Rebalancing Tasks",
+      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous decision execution — is being piloted at hedge funds and asset managers for tasks ranging from earnings call summarization to automated portfolio rebalancing triggers. Unlike earlier chatbot-style AI, these agents can chain actions together: pulling live market data, running a risk model, drafting a trade rationale, and submitting an order for human approval, all within a single workflow. Firms like Citadel, Two Sigma, and several large asset managers have publicly acknowledged building internal LLM-powered research and execution copilots. The regulatory landscape around AI-driven investment decisions remains unsettled, creating both opportunity and compliance risk for early adopters.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds sequential decision trees, each correcting the errors of the last, widely used in credit scoring because it handles tabular financial data, missing values, and non-linear relationships between variables exceptionally well."
+          "term": "Agentic AI",
+          "definition": "An AI system that can autonomously plan, take sequential actions, use external tools (like APIs or databases), and adapt based on intermediate results — moving beyond simple question-answering toward goal-directed task completion in financial workflows."
         },
         {
-          "term": "Explainability / SHAP Values",
-          "definition": "SHAP (SHapley Additive exPlanations) values quantify the contribution of each input variable to a model's prediction, allowing risk managers and regulators to understand why an AI system assigned a particular credit score — critical for fair lending compliance and model validation."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model retrieves relevant documents or data — such as SEC filings, earnings transcripts, or internal research — before generating a response, dramatically improving factual accuracy for finance-specific queries."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — including satellite imagery, web traffic, social sentiment, and supply chain signals — increasingly used to augment traditional financial metrics in credit risk and equity research models, providing leading indicators not captured in quarterly filings."
+          "term": "Model Risk Management (MRM) for AI",
+          "definition": "The extension of traditional model validation frameworks to cover large language models and ML systems, ensuring that AI-generated outputs in trading, credit, or risk contexts are explainable, auditable, and within regulatory tolerance."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge quantitative AI literacy with domain expertise in credit fundamentals will command a significant premium over the next five years. The ability to validate, challenge, and interpret AI model outputs — rather than simply consume them — is becoming a core competency expected by Chief Risk Officers. Certifications in model risk management (e.g., SR 11-7 frameworks) combined with Python or R proficiency are increasingly listed as requirements in senior credit and risk roles at Tier 1 institutions."
+      "career_insight": "Finance professionals who understand how to design, prompt, audit, and govern AI agent workflows will command significant premium over those who only consume AI outputs passively. The most valuable emerging skill set combines domain expertise — credit analysis, risk modeling, portfolio construction — with the ability to evaluate AI reasoning chains for hallucinations, bias, and model risk, effectively acting as a human-in-the-loop validator for autonomous systems."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautious this week as markets digest a resilient US labor market print against a backdrop of still-elevated core services inflation, keeping the Fed higher-for-longer narrative firmly in play with rate cut expectations pushed further toward Q3. Credit spreads have widened modestly at the index level, particularly in CCC-rated issuers where refinancing walls are drawing increased scrutiny, while the front end of the Treasury curve remains volatile around each Fed communication. Equity markets are showing a defensive rotation into utilities and healthcare as growth-sensitive sectors give back recent gains, and the dollar index has firmed, adding pressure to EM local currency assets — watch for contagion signals from higher-beta sovereigns over the coming sessions."
+    "market_sentiment": "Risk appetite remains cautious heading into the week as markets digest a resilient U.S. labor market print against a backdrop of Fed officials reiterating a higher-for-longer posture on rates, keeping the 10-year Treasury yield anchored above 4.4%. Equity markets are caught in a tug-of-war between strong mega-cap earnings revisions and widening credit spreads in the leveraged loan market, where covenant-lite structures are drawing increasing scrutiny. In FX, the dollar maintains a modest bid as carry trades funded in yen face renewed pressure following hawkish signals from the Bank of Japan, while commodity-linked currencies track a softer crude tape on demand uncertainty out of China."
   }
 }
