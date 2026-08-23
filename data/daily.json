@@ -1,30 +1,23 @@
 {
   "generated_at": "12:15 PM UTC",
-  "date": "Saturday, August 22, 2026",
+  "date": "Sunday, August 23, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 71,
     "feels_like_f": 72,
     "high_f": 72,
-    "low_f": 70,
-    "description": "Broken Clouds",
-    "icon": "☁️",
-    "humidity": 96,
-    "wind_mph": 3,
+    "low_f": 69,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 95,
+    "wind_mph": 0,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "☀️",
-        "high": 72,
-        "low": 72,
-        "description": "Clear Sky"
-      },
       {
         "day": "Mon",
         "icon": "⛅",
-        "high": 69,
-        "low": 69,
+        "high": 70,
+        "low": 70,
         "description": "Scattered Clouds"
       },
       {
@@ -32,7 +25,14 @@
         "icon": "☁️",
         "high": 69,
         "low": 69,
-        "description": "Overcast Clouds"
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "⛅",
+        "high": 71,
+        "low": 71,
+        "description": "Scattered Clouds"
       }
     ]
   },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77244.19,
-        "change": 357.53,
-        "change_pct": 0.47,
-        "up": true,
+        "price": 77059.07,
+        "change": -193.24,
+        "change_pct": -0.25,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2432.89,
-        "change": 55.06,
-        "change_pct": 2.32,
-        "up": true,
+        "price": 2421.25,
+        "change": -11.0,
+        "change_pct": -0.45,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Live Bitcoin price news: Bitcoin tops $77,000 - CoinDesk",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-        "description": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
-        "published": "10:17 AM UTC",
+        "title": "As debt surpasses $40 trillion, the bill for Washington spending comes due - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/08/22/debt-surpasses-40-trillion-bill-washington-spending-comes-due/",
+        "description": "Decades of free spending have run up a $40 trillion national debt. But this week's bond market sell-off suggests Washington may soon be compelled to make some long-deferred, and politically unpalatabl",
+        "published": "11:32 AM UTC",
         "category": "Business"
       },
       {
-        "title": "CNBC Daily Open: The 'Bessent Bid' wears off - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/21/cnbc-daily-open-the-bessent-bid-wares-off.html",
-        "description": "In a CNBC exclusive, U.S. Treasury Secretary Scott Bessent says he could expand a bond buyback plan, but yields march higher despite the extraordinary action.",
-        "published": "5:54 AM UTC",
+        "title": "The simple fixes conservatives say could make life cheaper for Americans - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/politics/simple-fixes-conservatives-say-could-make-life-cheaper-americans",
+        "description": "Advancing American Freedom says government zoning rules and energy regulations are why Americans can't afford homes, and offers 10 policy fixes.",
+        "published": "10:18 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Trump Wants to Revive Keystone XL. The Industry Has a Different Plan. - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/energy-oil/trump-wants-to-revive-keystone-xl-the-industry-has-a-different-plan-5f7e775b",
-        "description": "",
+        "title": "⁠Their finances were tough. Then came 'insane' back-to-school costs - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/22/school-supply-costs-surge/91367012007/",
+        "description": "Rising back-to-school prices are forcing families nationwide to hunt for deals or buy cheap alternatives as they prepare the new school year.",
+        "published": "10:02 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "New Orks Codex exclusive on Warhammer TV - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/articles/n3hnhwmv/new-orks-codex-exclusive-on-warhammer-tv",
+        "description": "The Battle Report team takes the brand new Orks rules out for a spin.",
+        "published": "9:53 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Nintendo Wipes Out Hundreds Of Switch Emulator Repositories - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/nintendo-wipes-out-hundreds-of-switch-emulator-repositories",
+        "description": "In a new wave of GitHub takedowns",
         "published": "2:00 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "AEW lost an insane amount of money on the Fight Forever video game - Cageside Seats",
-        "source": "Cageside Seats",
-        "url": "https://www.cagesideseats.com/aew/470109/aew-fight-forever-video-game-massive-loss-30-million-dollars-future-sequel-licensing-rumor",
-        "description": "Fight Forever was a “massive loss” for AEW, which explains why Tony Khan isn’t in a rush to make another video game.",
-        "published": "3:52 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Google posts Pixel Watch 5 factory images with one unified build - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/08/20/pixel-watch-5-images/",
-        "description": "Following the Pixel 11 series earlier today, Google has released factory and OTA images for the Pixel Watch 5.",
-        "published": "2:48 AM UTC",
+        "title": "Psychonauts Developer Double Fine Gets Rights To Games Back, But Union Future Uncertain - Aftermath",
+        "source": "Aftermath.site",
+        "url": "https://aftermath.site/double-fine-independent-game-jam-union/",
+        "description": "Good news and bad news",
+        "published": "12:07 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "What to know about this weekend's IndyCar race on the National Mall - NPR",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-        "description": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend.",
-        "published": "9:01 AM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras - NPR",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
-        "description": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technolo",
-        "published": "9:00 AM UTC",
+        "title": "'The Five Heartbeats' Star Michael Wright Dead at 70 - TMZ",
+        "source": "TMZ",
+        "url": "https://www.tmz.com/2026/08/22/michael-wright-dead/",
+        "description": "Actor Michael Wright, best known for his roles in \"Sugar Hill\" and \"The Five Heartbeats,\" has died in California, according to his family.",
+        "published": "11:52 AM UTC",
         "category": "General"
       }
     ]
@@ -172,21 +172,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Arsenal",
-        "away": "Coventry City",
-        "home_score": 3,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "7:00 PM UTC",
-        "date": "Aug 21",
-        "highlighted": false
-      },
-      {
         "home": "Hull City",
         "away": "Man United",
         "home_score": 2,
         "away_score": 0,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "11:30 AM UTC",
         "date": "Aug 22",
         "highlighted": false
@@ -194,9 +184,9 @@
       {
         "home": "Ipswich Town",
         "away": "Sunderland",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Aug 22",
         "highlighted": false
@@ -204,9 +194,9 @@
       {
         "home": "Nottingham",
         "away": "Leeds United",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Aug 22",
         "highlighted": false
@@ -214,9 +204,9 @@
       {
         "home": "Everton",
         "away": "Crystal Palace",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Aug 22",
         "highlighted": false
@@ -224,9 +214,9 @@
       {
         "home": "Brentford",
         "away": "Tottenham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 3,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "4:30 PM UTC",
         "date": "Aug 22",
         "highlighted": false
@@ -260,6 +250,16 @@
         "time": "3:30 PM UTC",
         "date": "Aug 23",
         "highlighted": false
+      },
+      {
+        "home": "Fulham",
+        "away": "Chelsea",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "Aug 24",
+        "highlighted": false
       }
     ],
     "standings": [
@@ -275,8 +275,19 @@
         "highlighted": false
       },
       {
-        "position": 2,
-        "team": "Hull City",
+        "position": 1,
+        "team": "Brentford",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 3,
+        "points": 3,
+        "highlighted": false
+      },
+      {
+        "position": 3,
+        "team": "Everton",
         "played": 1,
         "won": 1,
         "drawn": 0,
@@ -287,46 +298,35 @@
       },
       {
         "position": 3,
-        "team": "Bournemouth",
-        "played": 0,
-        "won": 0,
+        "team": "Hull City",
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "gd": 0,
-        "points": 0,
+        "gd": 2,
+        "points": 3,
         "highlighted": false
       },
       {
-        "position": 3,
-        "team": "Aston Villa",
-        "played": 0,
-        "won": 0,
+        "position": 5,
+        "team": "Ipswich Town",
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "gd": 0,
-        "points": 0,
+        "gd": 1,
+        "points": 3,
         "highlighted": false
       },
       {
-        "position": 3,
-        "team": "Brentford",
-        "played": 0,
-        "won": 0,
+        "position": 6,
+        "team": "Leeds United",
+        "played": 1,
+        "won": 1,
         "drawn": 0,
         "lost": 0,
-        "gd": 0,
-        "points": 0,
-        "highlighted": false
-      },
-      {
-        "position": 3,
-        "team": "Brighton Hove",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 0,
-        "points": 0,
+        "gd": 1,
+        "points": 3,
         "highlighted": false
       }
     ]
@@ -334,108 +334,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Revive Interest in RB Leipzig Midfielder Xavi Simons",
-        "summary": "Arsenal are reported to be monitoring Xavi Simons ahead of the January window, with Mikel Arteta keen to add creativity in central midfield following an injury to Thomas Partey. Leipzig are reluctant to sell in January but a summer move is considered increasingly likely.",
+        "headline": "Manchester City Eye Bundesliga Midfielder as De Bruyne Replacement",
+        "summary": "With Kevin De Bruyne's future at the Etihad increasingly uncertain heading into the final year of his contract, City's recruitment team has identified Florian Wirtz of Bayer Leverkusen as a long-term successor. Leverkusen are reported to value the German international at over £120 million, which would shatter the club's transfer record.",
         "clubs": [
-          "Arsenal",
-          "RB Leipzig"
+          "Manchester City",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Weighing Move for Fulham's Joachim Andersen",
-        "summary": "Manchester United's recruitment team has reportedly identified Fulham centre-back Joachim Andersen as a priority defensive target as Ruben Amorim looks to shore up a backline that has conceded at an alarming rate this season. Fulham value the Danish international at around £40 million.",
+        "headline": "Arsenal Close to Agreement for Sporting CP Striker Viktor Gyokeres",
+        "summary": "Arsenal are reported to be in advanced talks with Sporting CP over a deal for Swedish striker Viktor Gyokeres, who scored 43 goals across all competitions last season. The Gunners are believed to have agreed personal terms with the player, with a fee of around £80 million under discussion as they seek to add a clinical centre-forward.",
         "clubs": [
-          "Manchester United",
-          "Fulham"
+          "Arsenal",
+          "Sporting CP"
         ]
       }
     ],
     "match_preview": {
       "home": "Liverpool",
-      "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "Anfield hosts one of English football's most anticipated fixtures as league-leading Liverpool welcome a Manchester City side still searching for the consistency that defined their recent dynasty under Pep Guardiola. Liverpool's high press and relentless transition play will be tested against City's restructured midfield, and with the title race tightening, dropped points for either side could prove decisive by May. The storyline of Guardiola's evolution of City without a natural striker against Slot's fluid 4-3-3 makes this a fascinating tactical chess match.",
+      "away": "Chelsea",
+      "date": "Sunday, 3:00 PM BST",
+      "preview": "Anfield hosts one of the Premier League's most compelling fixtures as Liverpool welcome Chelsea in a match that carries significant top-four implications for both sides. Liverpool, under Arne Slot, have been in superb domestic form and will look to exploit Chelsea's recent defensive vulnerabilities on the counter, while Enzo Maresca's Chelsea side arrive buoyed by three consecutive wins and will target set pieces as a route into the game. The tactical battle between Liverpool's high press and Chelsea's possession-based buildup promises to be the defining subplot of what should be an absorbing 90 minutes.",
       "key_players": [
         "Mohamed Salah",
-        "Erling Haaland",
-        "Alexis Mac Allister"
+        "Cole Palmer",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Assessed day-to-day; could return after international break"
-      },
-      {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Out",
-        "return": "Long-term — not expected before late spring"
+        "status": "Recovering",
+        "return": "Expected return mid-to-late pre-season; full fitness uncertain for opening Premier League fixtures"
+      },
+      {
+        "player": "Reece James",
+        "team": "Chelsea",
+        "status": "Doubtful",
+        "return": "Week-to-week assessment; targeting return within 2–3 weeks pending training response"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced to yield 7%. If the yield immediately falls to 5%, which of the following best describes the price change, and what concept explains the asymmetry between price increases and decreases for equal yield changes?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
+      "question": "An analyst is evaluating two bonds using the Cox-Ingersoll-Ross (CIR) model versus the Vasicek model to estimate term structure. Which of the following statements best distinguishes the CIR model from the Vasicek model?",
       "options": {
-        "A": "The price increase from a 1% yield drop is smaller than the price decrease from a 1% yield rise; this is explained by negative convexity.",
-        "B": "The price increase from a 1% yield drop is larger than the price decrease from a 1% yield rise; this is explained by positive convexity.",
-        "C": "The price increase from a 1% yield drop equals the price decrease from a 1% yield rise; duration captures this relationship perfectly.",
-        "D": "The price increase from a 1% yield drop is larger than the price decrease from a 1% yield rise; this is explained by negative convexity."
+        "A": "The Vasicek model incorporates mean reversion while the CIR model does not.",
+        "B": "The CIR model ensures non-negative interest rates by making volatility proportional to the square root of the current rate, while the Vasicek model allows negative rates.",
+        "C": "The CIR model assumes constant volatility, whereas the Vasicek model uses stochastic volatility.",
+        "D": "Both models produce identical term structures but differ only in their drift specifications."
       },
       "correct": "B",
-      "explanation": "For a standard option-free bond, price-yield relationship is convex, meaning the price rise when yields fall exceeds the price decline when yields rise by an equal amount. This asymmetry is called positive convexity. Duration provides a linear approximation of price sensitivity, but convexity captures the curvature, always benefiting the bondholder in an option-free bond regardless of the direction of yield change. Negative convexity, by contrast, is characteristic of callable bonds where the issuer can redeem the bond when rates fall, limiting price appreciation."
+      "explanation": "The CIR model scales volatility by the square root of the current short rate (σ√r), which causes volatility to approach zero as rates approach zero, thereby preventing negative interest rates. The Vasicek model uses constant volatility (σ), which is mathematically simpler but allows rates to become negative — a theoretically problematic outcome. Both models incorporate mean reversion, making option A incorrect. Option C reverses the volatility assumptions, and option D is factually wrong."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Balance Sheet Risk",
-      "subtitle": "How mismatches between asset and liability durations expose banks to interest rate risk and what happened when this was ignored.",
+      "title": "Duration Extension Risk in Mortgage-Backed Securities",
+      "subtitle": "How rising interest rates cause MBS durations to lengthen at exactly the worst moment for bond investors.",
       "paragraphs": [
-        "Duration gap measures the difference between the weighted average duration of a bank's assets and the duration of its liabilities, adjusted for leverage. When a bank holds long-duration assets — such as fixed-rate mortgages or long-dated government bonds — funded by short-duration liabilities like deposits, a positive duration gap exists. This means that when interest rates rise, the market value of assets falls faster than liabilities, eroding the institution's equity value and economic net worth.",
-        "The collapse of Silicon Valley Bank in March 2023 became a textbook case of duration gap mismanagement. SVB had accumulated a massive portfolio of long-dated U.S. Treasuries and agency mortgage-backed securities during the low-rate era of 2020–2021. When the Federal Reserve raised rates by over 500 basis points between 2022 and 2023, the market value of those assets plummeted. Because SVB had not adequately hedged its interest rate exposure and was funding these assets largely with uninsured, rate-sensitive deposits, the resulting mismatch triggered a confidence crisis and a classic bank run.",
-        "For risk managers and investors, duration gap analysis is a foundational tool in Asset-Liability Management (ALM). Banks are required to stress-test their balance sheets against parallel rate shifts and non-parallel twists in the yield curve. Investors evaluating bank equities should scrutinize regulatory disclosures such as the sensitivity of Net Interest Income (NII) and Economic Value of Equity (EVE) to rate shocks — metrics that directly reflect duration gap exposure. A large positive duration gap in a rising rate environment is a red flag for capital erosion even before credit losses materialize."
+        "Mortgage-backed securities (MBS) exhibit a phenomenon known as negative convexity, which manifests most painfully through duration extension risk. Unlike standard bonds where duration is relatively stable, MBS duration fluctuates based on prepayment behavior. When interest rates fall, homeowners refinance their mortgages, returning principal early and shortening the bond's effective duration. Conversely, when rates rise, homeowners hold their low-rate mortgages longer than expected, causing the MBS to extend in duration precisely when investors would prefer it not to.",
+        "The 2022–2023 rate hiking cycle offered a vivid real-world demonstration of this dynamic. As the Federal Reserve raised the federal funds rate from near zero to over 5%, prepayment speeds on agency MBS collapsed. Pools that investors had modeled with a 5–6 year effective duration suddenly behaved like 8–10 year instruments. The Bloomberg MBS Index lost over 12% in 2022, underperforming even long-duration Treasuries on a risk-adjusted basis because the extension effect amplified losses. Portfolios benchmarked to the Aggregate Index — which has significant MBS exposure — were blindsided by this convexity drag.",
+        "For fixed income portfolio managers and risk officers, duration extension risk demands dynamic hedging strategies rather than static duration matching. Common approaches include using interest rate swaps to receive fixed and pay floating, buying payer swaptions as rate-rise hedges, or explicitly underweighting MBS in rising-rate environments. Prepayment models (such as the PSA benchmark or more sophisticated OAS-based models) must be stress-tested under multiple rate scenarios, not just the base case. Failing to account for negative convexity in risk models can cause a portfolio's actual interest rate sensitivity to deviate significantly from reported duration metrics."
       ],
       "key_takeaways": [
-        "Duration gap = asset duration minus liability duration (leverage-adjusted); a positive gap means rising rates hurt equity value.",
-        "SVB's 2023 failure was a real-world demonstration of unhedged duration gap risk at institutional scale.",
-        "Investors should analyze EVE and NII sensitivity disclosures in bank filings to assess hidden interest rate exposure."
+        "MBS negative convexity means duration extends when rates rise and shortens when rates fall — the opposite of what investors want.",
+        "The 2022 rate cycle exposed significant model risk in prepayment assumptions, causing widespread MBS underperformance.",
+        "Dynamic hedging using swaptions or interest rate swaps is essential for managing extension risk in MBS-heavy portfolios."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened completely or regrettably, often used when the speaker feels the outcome was unintended or unfortunate. It combines the te-form of a verb with しまいました (the polite past of しまう).",
-      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead' and 算 (san) as 'calculate' — a budget is when you 'yo, calculate' your money in advance. Picture yourself saying 'Yo, SAN dollars left — I need a budget!'"
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまいました to convey 'ended up doing' or 'completely did' something.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you are allowed to spend. Picture yourself counting your yen coins into a little box labeled 予算."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Autonomously Executing Trades and Portfolio Rebalancing Tasks",
-      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous decision execution — is being piloted at hedge funds and asset managers for tasks ranging from earnings call summarization to automated portfolio rebalancing triggers. Unlike earlier chatbot-style AI, these agents can chain actions together: pulling live market data, running a risk model, drafting a trade rationale, and submitting an order for human approval, all within a single workflow. Firms like Citadel, Two Sigma, and several large asset managers have publicly acknowledged building internal LLM-powered research and execution copilots. The regulatory landscape around AI-driven investment decisions remains unsettled, creating both opportunity and compliance risk for early adopters.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Major Banks",
+      "summary": "Large financial institutions including JPMorgan, HSBC, and several Nordic banks have accelerated deployment of machine learning models for real-time credit underwriting, moving beyond FICO-style scorecards to gradient-boosted ensemble models trained on thousands of behavioral and transactional features. These systems can assess creditworthiness in milliseconds and dynamically reprice risk as new data arrives, dramatically outperforming static scorecards in default prediction accuracy during stress periods. Regulators in the EU and US are now scrambling to develop explainability standards — particularly under ECOA and the EU AI Act — that can keep pace with model complexity. For risk professionals, the implication is clear: the ability to audit, explain, and govern ML-driven credit decisions is now as critical as building them.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan, take sequential actions, use external tools (like APIs or databases), and adapt based on intermediate results — moving beyond simple question-answering toward goal-directed task completion in financial workflows."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble ML technique that builds many sequential decision trees, each correcting the errors of the last. In credit risk, it consistently outperforms logistic regression on default prediction by capturing non-linear relationships between variables like payment history, spending velocity, and income volatility."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents or data — such as SEC filings, earnings transcripts, or internal research — before generating a response, dramatically improving factual accuracy for finance-specific queries."
+          "term": "SHAP Values (Explainability)",
+          "definition": "SHapley Additive exPlanations assign each input feature a contribution score to a model's output. In regulated lending, SHAP values allow risk teams to explain why a model declined a loan application — a legal requirement under fair lending laws and the EU AI Act."
         },
         {
-          "term": "Model Risk Management (MRM) for AI",
-          "definition": "The extension of traditional model validation frameworks to cover large language models and ML systems, ensuring that AI-generated outputs in trading, credit, or risk contexts are explainable, auditable, and within regulatory tolerance."
+          "term": "Model Drift Monitoring",
+          "definition": "The ongoing process of detecting when a deployed ML model's predictions degrade because real-world data patterns have shifted away from training data. In credit risk, macroeconomic shocks (like COVID-19 or rate hikes) can render previously accurate models dangerously miscalibrated within weeks."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, audit, and govern AI agent workflows will command significant premium over those who only consume AI outputs passively. The most valuable emerging skill set combines domain expertise — credit analysis, risk modeling, portfolio construction — with the ability to evaluate AI reasoning chains for hallucinations, bias, and model risk, effectively acting as a human-in-the-loop validator for autonomous systems."
+      "career_insight": "Credit risk analysts who can bridge quantitative ML skills with regulatory fluency — understanding both how a gradient boosting model works and how to document it for a Basel III or SR 11-7 audit — are commanding significant salary premiums. The most sought-after profiles in 2025 are 'model risk managers' who can validate AI systems, write model risk policy, and communicate uncertainty to senior stakeholders. Pure coding skills alone are no longer sufficient; institutional finance demands interpretable, auditable, and fair AI."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautious heading into the week as markets digest a resilient U.S. labor market print against a backdrop of Fed officials reiterating a higher-for-longer posture on rates, keeping the 10-year Treasury yield anchored above 4.4%. Equity markets are caught in a tug-of-war between strong mega-cap earnings revisions and widening credit spreads in the leveraged loan market, where covenant-lite structures are drawing increasing scrutiny. In FX, the dollar maintains a modest bid as carry trades funded in yen face renewed pressure following hawkish signals from the Bank of Japan, while commodity-linked currencies track a softer crude tape on demand uncertainty out of China."
+    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as US equity futures tick modestly higher, with markets digesting a softer-than-expected core PCE print that has reinforced bets on a September Fed rate cut — the 2-year Treasury yield is hovering near 4.65% as traders price in roughly 50bps of easing through year-end. The dollar is softer on a trade-weighted basis, providing a tailwind for EM assets and commodities, with Brent crude holding above $84/bbl on OPEC+ supply discipline and resilient Chinese import demand. Credit spreads remain tight — IG at approximately 95bps and HY at 325bps — suggesting the market is still pricing a soft landing, though elevated geopolitical risk in the Middle East and ongoing commercial real estate stress remain the key tail risks that could unwind the current complacency."
   }
 }
