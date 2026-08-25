@@ -1,37 +1,37 @@
 {
-  "generated_at": "12:22 PM UTC",
-  "date": "Monday, August 24, 2026",
+  "generated_at": "12:23 PM UTC",
+  "date": "Tuesday, August 25, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 68,
-    "feels_like_f": 69,
-    "high_f": 71,
-    "low_f": 66,
-    "description": "Scattered Clouds",
-    "icon": "⛅",
-    "humidity": 86,
-    "wind_mph": 5,
+    "temp_f": 64,
+    "feels_like_f": 64,
+    "high_f": 66,
+    "low_f": 61,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 83,
+    "wind_mph": 6,
     "forecast": [
       {
-        "day": "Tue",
-        "icon": "☁️",
-        "high": 68,
-        "low": 68,
-        "description": "Broken Clouds"
+        "day": "Wed",
+        "icon": "☀️",
+        "high": 69,
+        "low": 69,
+        "description": "Clear Sky"
       },
       {
-        "day": "Wed",
+        "day": "Thu",
         "icon": "🌧️",
         "high": 71,
         "low": 71,
         "description": "Light Rain"
       },
       {
-        "day": "Thu",
+        "day": "Fri",
         "icon": "🌧️",
-        "high": 70,
-        "low": 70,
+        "high": 71,
+        "low": 71,
         "description": "Light Rain"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 765.72,
-        "change": 3.12,
-        "change_pct": 0.41,
-        "up": true,
+        "price": 763.47,
+        "change": -2.25,
+        "change_pct": -0.29,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 309.35,
-        "change": -1.95,
-        "change_pct": -0.63,
-        "up": false,
+        "price": 310.34,
+        "change": 0.99,
+        "change_pct": 0.32,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 214.72,
-        "change": -2.13,
-        "change_pct": -0.98,
+        "price": 208.48,
+        "change": -6.24,
+        "change_pct": -2.91,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 362.86,
-        "change": 17.73,
-        "change_pct": 5.14,
-        "up": true,
+        "price": 348.95,
+        "change": -13.91,
+        "change_pct": -3.83,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 78349.86,
-        "change": 1228.39,
-        "change_pct": 1.59,
+        "price": 78759.6,
+        "change": 395.59,
+        "change_pct": 0.5,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2491.1,
-        "change": 66.4,
-        "change_pct": 2.74,
-        "up": true,
+        "price": 2464.39,
+        "change": -26.28,
+        "change_pct": -1.06,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Prenups cover more than just marriage and divorce these days - USA Today",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/23/prenups-death-incapacity-divorce-coverage/91404977007/",
-        "description": "Prenups are becoming mainstream, but experts say they should also address estate planning for death and illness.",
-        "published": "11:55 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
-        "description": "Bitcoin had its best week in more than three years — Scott Bessent helped light the match.",
-        "published": "11:08 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Hormuz crisis hides a deeper oil threat that could outlast the war - Fox News",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
-        "description": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
+        "title": "OpenAI wants California to strengthen its newly passed AI safety law - Mashable",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/openai-urges-stregthening-of-california-ai-safety-bill",
+        "description": "OpenAI is calling on California lawmakers to expand the state's landmark frontier AI safety law, months after the company backed its passage..",
         "published": "10:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "iPhone 18 Pro Latest Release Schedule: What To Expect When - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/davidphelan/2026/08/23/iphone-18-pro-latest-release-schedule-what-to-expect-when/",
-        "description": "As August ticks away into September, the next iPhone launch inches nearer. Here’s the latest on what to expect when.",
-        "published": "10:00 AM UTC",
+        "title": "Stock futures slip as tech shares fall to start the week: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
+        "description": "The Dow last week fell 0.8%, marking its second consecutive weekly pullback.",
+        "published": "9:50 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Stock Market Today: Oil Drops Ahead of Bessent Iran Presser, Tech Stocks Under Pressure — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026",
+        "description": "",
+        "published": "9:32 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Stellar Blade: Complete Edition reveals new Nintendo Switch 2 trailer - Nintendo Everything",
+        "source": "Nintendoeverything.com",
+        "url": "https://nintendoeverything.com/stellar-blade-complete-edition-reveals-new-nintendo-switch-2-trailer/",
+        "description": "Just moments ago, Shift Up issued a brand new trailer for Stellar Blade: Complete Edition on Nintendo Switch 2. The video gives us a new look at how the port is shaping up. Stellar Blade: Complete Edi",
+        "published": "7:02 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Scientists in Iceland drilled straight into 900°C magma by accident — so energy-dense was the well that resulted, it could produce nearly ten times the power of a conventional geothermal well - Space Daily",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/d-scientists-in-iceland-drilled-straight-into-900c-magma-by-accident-so-energy-dense-was-the-well-that-resulted-it-could-produce-nearly-ten-times-the-power-of-a-conventional-geothermal/",
-        "description": "An accidental breakthrough in Iceland reveals how to tap into magma itself, potentially unlocking geothermal energy at scales previously thought impossible.",
-        "published": "9:30 AM UTC",
+        "title": "PSA: Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/08/psa-modern-warfare-4s-switch-2-retail-version-is-apparently-a-code-in-a-box",
+        "description": "It's just a box with a download code, according to VGP",
+        "published": "3:30 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "83% of phone storage issues is down to two culprits — here’s how to fix it - Tom's Guide",
-        "source": "Tom's Guide",
-        "url": "https://www.tomsguide.com/phones/iphones/83-of-phone-storage-issues-come-down-to-just-two-culprits-heres-how-to-fix-both",
-        "description": "Based on recent reader poll, this step-by-step guide shows you how to tweak simple settings on iOS and Android to clear our your bloated storage.",
-        "published": "8:30 AM UTC",
+        "title": "Another major Android phone maker caves to soaring RAM costs with price hikes - Android Authority",
+        "source": "Android Authority",
+        "url": "https://www.androidauthority.com/xiaomi-smartphones-price-hike-3701917/",
+        "description": "Xiaomi has announced that it will start hiking smartphone prices across various models and configurations starting September.",
+        "published": "3:24 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "See the moment when Republican politicians turned against data centers - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/08/23/most-gop-politicians-now-talk-negatively-about-data-centers-data-shows/",
-        "description": "In the past six months, Republicans' public statements about data centers have turned sharply negative, according to a Washington Post analysis.",
-        "published": "12:02 PM UTC",
+        "title": "Live Updates: U.S. Treasury to unveil new Iran sanctions after Trump warned of \"economic D-Day\" for Tehran - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-sanctions-strait-of-hormuz/",
+        "description": "Treasury Secretary Scott Bessent said new sanctions being imposed on Iran would amount to the \"greatest financial offensive\" ever.",
+        "published": "9:51 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Guinea rubbish landfill collapse kills 31 in Conakry - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g3g36z7p6o",
+        "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+        "published": "9:03 AM UTC",
         "category": "General"
       }
     ]
@@ -172,41 +180,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Man City",
-        "away": "Bournemouth",
-        "home_score": 2,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "1:00 PM UTC",
-        "date": "Aug 23",
-        "highlighted": false
-      },
-      {
-        "home": "Brighton Hove",
-        "away": "Aston Villa",
-        "home_score": 4,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "1:00 PM UTC",
-        "date": "Aug 23",
-        "highlighted": false
-      },
-      {
-        "home": "Newcastle",
-        "away": "Liverpool",
-        "home_score": 2,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "3:30 PM UTC",
-        "date": "Aug 23",
-        "highlighted": false
-      },
-      {
         "home": "Fulham",
         "away": "Chelsea",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 3,
+        "status": "FINISHED",
         "time": "7:00 PM UTC",
         "date": "Aug 24",
         "highlighted": false
@@ -270,7 +248,7 @@
       },
       {
         "position": 6,
-        "team": "Ipswich Town",
+        "team": "Chelsea",
         "played": 1,
         "won": 1,
         "drawn": 0,
@@ -284,108 +262,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Ramp Up Interest in £70m-Rated Bundesliga Midfielder",
-        "summary": "Arsenal's recruitment team has been heavily scouting Florian Wirtz alternatives as Arteta looks to add a creative eight ahead of next season, with a Bundesliga star emerging as a primary target and initial contact reportedly made with his representatives.",
+        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder Ahead of January Window",
+        "summary": "Arsenal are reportedly accelerating talks to bring in an additional central midfield option in January, with Mikel Arteta keen to add depth and ball-progression quality following a congested fixture schedule. The north London club are believed to have had initial contact with the player's representatives as they look to maintain their title challenge.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Close to Agreement for Brazilian Right-Back as Reece James Cover",
-        "summary": "With Reece James continuing to struggle with recurring injury, Chelsea are understood to be finalising a deal for an attacking full-back option, with personal terms largely agreed and a medical pencilled in for later this week.",
+        "headline": "Manchester United Linked with Surprise Move for Veteran Striker on Free",
+        "summary": "Manchester United's recruitment team are understood to be monitoring out-of-contract striker options as the club looks for a low-cost solution to cover their injury-hit frontline. A January free-agent acquisition remains on the table as INEOS looks to balance squad investment with financial sustainability targets.",
         "clubs": [
-          "Chelsea",
-          "Palmeiras"
+          "Manchester United",
+          "Borussia Dortmund"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's most consequential fixture of the season arrives at the Etihad as both sides enter separated by just two points at the top of the table, making this a genuine title six-pointer. City have been imperious at home under Guardiola, losing just once at the Etihad all season, but Liverpool's high press and Slot's refined transitional structure present the most credible test of City's build-up in months. The storyline of Salah's potential final El Clasico of the North adds enormous emotional weight, with contract talks still publicly unresolved.",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's most anticipated fixture of the season arrives as league-leading Liverpool host a Manchester City side desperately seeking a result to revive their title ambitions after a difficult run of form. Liverpool's high press and relentless verticality under Arne Slot will be tested against City's positional structure and the individual brilliance of Erling Haaland, who remains the most dangerous striker in the division. With Anfield at full voice and both clubs knowing that a result here could define the championship narrative, this match promises to be a genuine tactical chess match between two elite coaching philosophies.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Erling Haaland",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
-        "player": "Reece James",
-        "team": "Chelsea",
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "2–3 weeks, pending specialist assessment"
+        "return": "Being assessed day-to-day; fitness test expected Saturday morning"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Expected back in first-team training within 10 days"
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Out",
+        "return": "Long-term absence continues; not expected to return until late February at earliest"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Yield Curve Analysis",
-      "question": "A portfolio manager observes that the 2-year Treasury yield has risen by 80 bps while the 10-year Treasury yield has risen by only 20 bps over the past quarter. Which of the following best describes the yield curve shift, and what is the most likely implication for a barbell portfolio versus a bullet portfolio of equal duration?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. Additionally, the asset correlation parameter (ρ) under the Basel IRB framework is 0.15, and the confidence level used is 99.9%. Which of the following best describes the difference between Expected Loss (EL) and Unexpected Loss (UL), and what capital is designed to cover?",
       "options": {
-        "A": "A parallel shift; the barbell and bullet portfolios will experience identical price changes.",
-        "B": "A bear flattening; the bullet portfolio will outperform the barbell portfolio.",
-        "C": "A bear flattening; the barbell portfolio will outperform the bullet portfolio.",
-        "D": "A bull flattening; the barbell portfolio will underperform the bullet portfolio."
+        "A": "EL is covered by economic capital; UL is covered by loan loss provisions and pricing.",
+        "B": "EL is covered by loan loss provisions and loan pricing; UL is covered by regulatory and economic capital.",
+        "C": "Both EL and UL are covered by loan loss provisions, with excess covered by equity.",
+        "D": "UL equals EL multiplied by the confidence interval factor; both are absorbed by tier 1 capital."
       },
       "correct": "B",
-      "explanation": "When short-term rates rise more than long-term rates, the yield curve flattens in a bear (rising rate) environment — a bear flattening. A bullet portfolio concentrates holdings around the middle of the curve, while a barbell holds short and long maturities. In a bear flattening, the short end suffers the most, hurting the barbell's short-maturity holdings more than the bullet's intermediate holdings. The bullet therefore outperforms the barbell on a total return basis, even at equal duration, because convexity and the curvature change favor the bullet when the short end rises disproportionately."
+      "explanation": "Expected Loss (EL = PD × LGD × EAD) represents the average loss a bank anticipates over a given period and is typically absorbed through loan loss provisions (reserves) and factored into loan pricing (spreads). Unexpected Loss (UL) represents the volatility or tail loss beyond EL — it is the loss that occurs in adverse but plausible scenarios — and this is what regulatory capital (Basel framework) and economic capital are designed to absorb. The Basel IRB formula specifically targets the 99.9th percentile loss, with capital equal to the difference between that conditional loss and EL. Confusing EL with UL is a classic exam trap; provisions manage average losses while capital buffers protect against surprises."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as a Systemic Force",
-      "subtitle": "How the $1.7 trillion private credit market is reshaping corporate lending, bank competition, and financial stability risk.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why hedges rarely provide perfect protection — and how the gap between spot and futures prices creates residual risk.",
       "paragraphs": [
-        "Private credit refers to non-bank lending to companies — typically mid-market or leveraged borrowers — arranged by asset managers such as Ares, Apollo, and Blackstone rather than syndicated through public bond markets or traditional banks. The market has grown from under $500 billion a decade ago to roughly $1.7 trillion in assets under management today, driven by post-GFC bank regulation, yield-hungry institutional investors, and borrowers seeking speed and certainty of execution. Unlike broadly syndicated loans, private credit deals are typically bilateral or club arrangements with floating rates, covenant-heavy structures, and longer lock-up periods for investors.",
-        "The growth of private credit accelerated sharply after the 2022 rate hiking cycle, as rising base rates made direct lending yields of 10–13% highly attractive to pension funds, insurance companies, and sovereign wealth funds seeking income. High-profile examples include direct lending facilities arranged by Apollo for companies like Intel's semiconductor manufacturing unit and Air France-KLM, deals that would historically have been the domain of investment banks. This disintermediation trend has forced major banks — including Goldman Sachs and JPMorgan — to either partner with private credit managers or aggressively build out their own direct lending platforms.",
-        "For risk managers and investors, private credit introduces both opportunity and hidden fragility. The illiquidity premium is real, but mark-to-model pricing obscures true volatility, raising concerns about underreported drawdowns during stress events. Leverage employed within Business Development Companies (BDCs) and fund-level credit facilities adds another layer of systemic risk that regulators at the FSB and IMF have flagged as an emerging vulnerability. Concentration in sponsor-backed leveraged buyouts means correlated credit deterioration in a recession could trigger simultaneous covenant breaches across portfolios, with limited secondary market liquidity to absorb forced selling."
+        "Basis risk arises when the asset being hedged does not perfectly match the hedging instrument, creating an imperfect correlation between the two. The 'basis' is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedge is carefully constructed, changes in the basis over time mean that a hedger cannot eliminate all price risk — only exchange it for the typically smaller and more manageable basis risk. This phenomenon is ubiquitous across commodity, fixed income, currency, and equity hedging programs.",
+        "A practical example emerges in corporate treasury hedging. Suppose a U.S. airline hedges jet fuel exposure using crude oil futures (WTI), since no liquid jet fuel futures market exists with sufficient depth. If crude oil prices rise but jet fuel refining margins compress simultaneously — a common scenario — the hedge underperforms. The airline remains exposed to the crack spread between crude and jet fuel. Similarly, a bond portfolio manager hedging duration with Treasury futures faces basis risk if the portfolio contains corporate or mortgage-backed securities whose spreads widen independently of the Treasury move, particularly during risk-off episodes.",
+        "For risk managers, basis risk demands careful attention to hedge ratio construction and ongoing monitoring. The minimum-variance hedge ratio — calculated as the correlation between spot and futures price changes multiplied by the ratio of their standard deviations — attempts to minimize residual exposure, but requires frequent recalibration as correlations shift across market regimes. During periods of market stress, correlations often break down precisely when hedges are most critical, amplifying basis risk. Risk managers must quantify residual basis exposure in VaR models and avoid the dangerous assumption that a hedge in place eliminates underlying price risk entirely."
       ],
       "key_takeaways": [
-        "Private credit has become a $1.7T asset class displacing banks in corporate lending, offering floating-rate yields of 10–13% but with significant illiquidity and opacity.",
-        "Mark-to-model valuations systematically understate volatility, making private credit appear safer than public equivalents — a critical due diligence red flag.",
-        "Systemic risk is building as leverage, sponsor concentration, and lack of secondary market liquidity converge; regulators are increasing scrutiny of non-bank financial intermediaries."
+        "Basis risk is the residual price risk remaining after a hedge is implemented, arising from imperfect correlation between the hedged asset and the hedging instrument.",
+        "The minimum-variance hedge ratio optimizes hedge effectiveness but must be recalibrated regularly as price relationships evolve across market cycles.",
+        "During market stress events, correlations often deteriorate exactly when hedges matter most, making basis risk a critical tail-risk consideration for any hedging program."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; commitment",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "明日の三時に会う約束をしました。",
-      "example_romaji": "Ashita no sanji ni au yakusoku wo shimashita.",
-      "example_en": "I made a promise to meet at three o'clock tomorrow.",
-      "grammar_point": "〜をしました (o shimashita)",
-      "grammar_explanation": "This pattern uses the object particle を (wo) with the verb しました (shimashita), the polite past tense of する (to do), to express completing an action. It is commonly used with nouns that describe arrangements or decisions, such as 約束をする (to make a promise) or 予約をする (to make a reservation).",
-      "memory_tip": "Think of 'yaku' sounding like 'yak' — imagine a yak solemnly crossing its heart making a PROMISE it will deliver your 'soku' (socks) on time. A yak's promise is unbreakable!"
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It combines the te-form of a verb with しまう (shimau), which conveys finality or an undesired outcome.",
+      "memory_tip": "Think of 予算 (yosan) as 'your-san' — your money that needs to be respected and addressed formally, like adding '-san' to show it matters. Spend too much and you must apologize to 'yosan-san'!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Automating Investment Bank Analyst Workflows",
-      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous decision-making across extended tasks — is being piloted inside major investment banks and asset managers to automate work previously done by junior analysts. Firms including Morgan Stanley, JPMorgan, and Bloomberg are deploying agents that can synthesize earnings transcripts, build preliminary financial models, draft credit memos, and monitor covenant compliance with minimal human input. Unlike earlier AI tools that responded to single prompts, these agents maintain context across sessions, call external APIs, execute code, and escalate edge cases to human reviewers — fundamentally changing the analyst-to-associate workflow. The productivity implications are significant: tasks that once took an analyst two days are being completed in under an hour, compressing deal timelines and raising questions about headcount at the junior level.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Risk Models",
+      "summary": "Major banks and fintech lenders are deploying large language models and gradient-boosting machine learning systems to augment — and in some cases replace — traditional credit scoring models like FICO. These systems ingest alternative data including cash flow patterns, transaction velocity, rent payment history, and even supply chain signals to assess creditworthiness with greater granularity than legacy scorecards. Regulators at the OCC, CFPB, and Basel Committee are actively reviewing model risk governance frameworks to ensure AI underwriting models meet explainability and fair lending standards. The strategic implication is clear: institutions that master explainable AI (XAI) in credit risk will gain a material underwriting edge while managing regulatory exposure.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as pulling financial data, running calculations, and drafting outputs — without requiring a human prompt at each step, effectively acting like a tireless junior analyst."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds sequential decision trees, each correcting errors of the prior one. Widely used in credit risk because it handles mixed data types, missing values, and non-linear relationships far better than logistic regression, making it powerful for predicting default probabilities."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically pulls relevant documents — earnings reports, regulatory filings, market data — from a database before generating a response, dramatically improving factual accuracy and reducing the hallucination risk that makes generic AI unreliable in finance."
+          "term": "Explainable AI (XAI) / SHAP Values",
+          "definition": "SHAP (SHapley Additive exPlanations) values decompose a model's prediction into the contribution of each input feature, showing exactly why a model scored a borrower a particular way. This is critical in regulated finance where lenders must provide adverse action notices — clear explanations for why credit was denied."
         },
         {
-          "term": "Fine-Tuning",
-          "definition": "The process of further training a general-purpose AI model on domain-specific data — such as credit agreements, analyst reports, or trading communications — so it understands finance-specific language, conventions, and risk frameworks better than an out-of-the-box model."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources used to assess creditworthiness, including bank transaction data, utility payments, payroll records, e-commerce behavior, and satellite imagery for commercial lending. Enables lenders to evaluate 'thin file' borrowers with limited credit history who would be invisible to traditional FICO-based models."
         }
       ],
-      "career_insight": "Finance professionals who treat AI as a tool to amplify their judgment — rather than a threat to resist or a novelty to ignore — will disproportionately capture value in the next decade. The skills that matter most are prompt engineering for financial tasks, the ability to critically evaluate AI outputs for errors and bias, and workflow design that integrates AI agents into existing compliance and risk frameworks. Junior roles will evolve toward AI oversight and exception management rather than raw data processing, making critical thinking and domain expertise more valuable, not less."
+      "career_insight": "Credit risk professionals who combine domain expertise in underwriting with working knowledge of machine learning model validation — including bias testing, champion-challenger frameworks, and SR 11-7 model risk guidelines — are commanding significant premium in the job market. Firms are not replacing credit analysts with AI; they are replacing credit analysts who cannot interpret, challenge, and govern AI models with those who can. Building fluency in Python for model validation, SHAP-based interpretability, and fair lending stress testing is the highest-ROI skill investment for a credit risk or lending career in the next five years."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a delicate equilibrium this morning as markets digest a resilient U.S. labor market print alongside renewed concern that the Fed's 'higher for longer' posture may extend well into 2025, with fed funds futures now pricing fewer than two cuts for the calendar year. Credit spreads remain surprisingly contained — IG at ~95 bps and HY at ~330 bps over Treasuries — suggesting the market is betting on a soft landing even as the yield curve bear-flattens on the front end. Geopolitical risk premium is quietly rebuilding in energy markets, with Brent holding above $87/bbl on Middle East supply uncertainty, while the dollar's persistent strength continues to weigh on EM sovereign debt and commodities priced in USD."
+    "market_sentiment": "Risk sentiment is treading cautiously this morning as markets digest a persistently resilient U.S. labor market against a backdrop of renewed term premium expansion, with 10-year Treasury yields testing multi-month highs and the yield curve bear-steepening — a dynamic historically unkind to rate-sensitive equities and long-duration credit. Dollar strength is reasserting itself, pressuring EM currencies and commodity prices, while crude oil remains caught between OPEC+ supply discipline and demand uncertainty signals out of China, where the property sector overhang continues to weigh on industrial activity data. Equity markets are showing selective rotation toward defensive sectors and value factors, with the options market pricing modestly elevated near-term implied volatility — suggesting institutional hedgers are active ahead of a heavy week of Fedspeak and key inflation data prints."
   }
 }
