@@ -1,38 +1,38 @@
 {
-  "generated_at": "12:25 PM UTC",
-  "date": "Wednesday, August 26, 2026",
+  "generated_at": "9:23 PM UTC",
+  "date": "Thursday, August 27, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 69,
-    "feels_like_f": 69,
-    "high_f": 71,
-    "low_f": 67,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 90,
-    "wind_mph": 4,
+    "temp_f": 86,
+    "feels_like_f": 93,
+    "high_f": 89,
+    "low_f": 85,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 65,
+    "wind_mph": 6,
     "forecast": [
       {
-        "day": "Thu",
+        "day": "Fri",
+        "icon": "🌧️",
+        "high": 73,
+        "low": 73,
+        "description": "Light Rain"
+      },
+      {
+        "day": "Sat",
         "icon": "🌧️",
         "high": 70,
         "low": 70,
         "description": "Light Rain"
       },
       {
-        "day": "Fri",
+        "day": "Sun",
         "icon": "☁️",
         "high": 73,
         "low": 73,
         "description": "Overcast Clouds"
-      },
-      {
-        "day": "Sat",
-        "icon": "🌧️",
-        "high": 71,
-        "low": 71,
-        "description": "Moderate Rain"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 765.91,
-        "change": 2.44,
-        "change_pct": 0.32,
+        "price": 771.1,
+        "change": 5.02,
+        "change_pct": 0.66,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 309.9,
-        "change": -0.44,
-        "change_pct": -0.14,
-        "up": false,
+        "price": 314.58,
+        "change": 1.13,
+        "change_pct": 0.36,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 213.05,
-        "change": 4.57,
-        "change_pct": 2.19,
+        "price": 227.98,
+        "change": 18.32,
+        "change_pct": 8.74,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 350.25,
-        "change": 1.3,
-        "change_pct": 0.37,
+        "price": 354.81,
+        "change": 8.99,
+        "change_pct": 2.6,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 78552.75,
-        "change": -323.38,
-        "change_pct": -0.41,
-        "up": false,
+        "price": 80119.99,
+        "change": 1353.36,
+        "change_pct": 1.72,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2468.02,
-        "change": -1.95,
-        "change_pct": -0.08,
-        "up": false,
+        "price": 2505.21,
+        "change": 13.1,
+        "change_pct": 0.53,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,66 +111,77 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000 - WSJ",
+        "title": "Nvidia Earnings Live: Investors Brace for AI Chip Giant's Q2 Results - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026",
-        "description": "",
-        "published": "12:14 PM UTC",
+        "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026",
+        "description": "Follow along live as WSJ reporters dive into Nvidia's latest earnings report, due out after markets close. Will the AI boom continue? Get news, analysis and the latest updates here.",
+        "published": "8:13 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions' - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
-        "description": "The second quarter earnings season is nearly complete, with Nvidia’s (NVDA) Q2 results on Wednesday serving as a keystone to a remarkably strong stretch of c...",
-        "published": "11:53 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today - CNBC",
+        "title": "Salesforce stock jumps 14% on AI growth and Anthropic investment gain - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-        "description": "United is betting big on premium, international travel with a host of new routes.",
-        "published": "11:00 AM UTC",
+        "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+        "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
+        "published": "8:07 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Don't miss out on the limited-time Xbox 25th Anniversary badge - TrueAchievements",
-        "source": "TrueAchievements",
-        "url": "https://www.trueachievements.com/news/xbox-25th-anniversary-badge",
-        "description": "You can join in on the celebrations for Xbox's 25th Anniversary by claiming a special badge for your Xbox account, but it's only available for a limited time.",
-        "published": "10:09 AM UTC",
+        "title": "How do we explain OpenAI’s executive exodus? - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+        "description": "Was Greg Brockman the right executive all along?",
+        "published": "7:34 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text - Ars Technica",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+        "description": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+        "published": "7:19 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "'It's very counterintuitive': The quantum batteries that upend the rules of charging - BBC",
+        "title": "Review: Resonance: A Plague Tale Legacy Is a Visual Feast to Cherish on Every Console - Digital Foundry",
+        "source": "Digitalfoundry.net",
+        "url": "https://www.digitalfoundry.net/reviews/resonance-a-plague-tale-legacy-is-a-visual-feast-to-cherish-on-every-console",
+        "description": "Though PS5 Pro is a class apart.",
+        "published": "6:40 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Elden Ring On Switch 2 – The Worst Way To Play The Best Game - Game Informer",
+        "source": "Gameinformer.com",
+        "url": "https://gameinformer.com/2026/08/26/elden-ring-on-switch-2-the-worst-way-to-play-the-best-game-new-gameplay-today",
+        "description": "Elden Ring on Switch 2 gets the job done admirably, but it is the inferior version of a fantastic game. - Game Informer",
+        "published": "6:36 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Flash flood on Nepal-Tibet border kills more than 150, with hundreds of tourists missing - BBC",
         "source": "BBC News",
-        "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-        "description": "The world's first quantum battery prototype is here and it has some bizarre properties. Could these devices one day power quantum computing – or even your phone?",
-        "published": "10:00 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Xbox Game Pass adds one new game today and a title for Premium - TrueAchievements",
-        "source": "TrueAchievements",
-        "url": "https://www.trueachievements.com/news/aerial-knights-dropshot-blood-dungeon-xbox-game-pass",
-        "description": "Xbox Game Pass adds 2D platforming autoshooter Blood Dungeon as a day-one title today, as well as a new game for Premium subscribers.",
-        "published": "9:49 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "What to watch in today’s primaries and Scott Bessent threatens new sanctions on Iran: Morning Rundown - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/south-carolina-primaries-scott-bessent-sanctions-iran-morning-rundown-rcna594253",
-        "description": "South Carolina voters will choose the Republican candidate in the race to replace the late Sen.",
-        "published": "11:00 AM UTC",
+        "url": "https://www.bbc.com/news/live/c6y8mjmnpxv0t",
+        "description": "Nepal's tourist board says the missing tourists include 133 from India, 54 from the US, and 33 from the UK, as well as more than 100 from Nepal itself.",
+        "published": "8:29 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [],
+    "matches": [
+      {
+        "home": "Crystal Palace",
+        "away": "Man City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "Aug 28",
+        "highlighted": false
+      }
+    ],
     "standings": [
       {
         "position": 1,
@@ -243,31 +254,31 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Reignite Interest in Bundesliga Striker Ahead of Summer Window",
-        "summary": "Manchester United's new sporting structure under INEOS is understood to have made a centre-forward their top summer priority, with a 25-year-old Bundesliga goal scorer emerging as a primary target as the club looks to address chronic striking depth issues.",
+        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are reportedly closing in on a deal for a dynamic box-to-box midfielder after Thomas Partey's injury struggles have left Mikel Arteta short of reliable options in the engine room. Personal terms are said to be in an advanced stage with a move potentially completing before the window closes.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Midfielder's Contract Amid Serie A Interest",
-        "summary": "Chelsea are pushing to secure a long-term extension for one of their key midfielders, with the player's representatives confirming that talks are at an advanced stage, though a leading Serie A club has lodged a formal inquiry should negotiations stall.",
+        "headline": "Manchester United Weighing Move for Experienced Centre-Back Amid Defensive Injury Crisis",
+        "summary": "With Jonny Evans and Harry Maguire both managing fitness concerns, Manchester United's recruitment team is assessing a loan-to-buy option for a proven Premier League centre-back to stabilise the back line through the second half of the season.",
         "clubs": [
-          "Chelsea",
-          "Juventus"
+          "Manchester United",
+          "Everton"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The Premier League title race reaches a pivotal moment as Arsenal host Manchester City in what could be a season-defining six-pointer at the Emirates. Arsenal come into this fixture on the back of four consecutive league wins and will draw confidence from their defensive solidity, while City arrive having dropped points in consecutive away fixtures and with questions mounting about their midfield control without a fit Rodri. The storylines are rich — a potential top-of-the-table shift, managerial chess between Arteta and Guardiola, and a crowd that will be among the most electric of the season.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The standout fixture of the Premier League weekend pits title-chasing Liverpool against a Manchester City side desperately seeking a response after consecutive dropped points have opened a gap at the top. Liverpool arrive at Anfield in supreme form, with Mohamed Salah central to everything in the final third, while City will look to Erling Haaland to provide the clinical edge that has occasionally deserted them in recent away fixtures. With title implications crystal clear, expect an intense, tactically nuanced contest in which set-piece quality and midfield control could prove decisive.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
@@ -275,76 +286,76 @@
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "No confirmed return date; monitoring week-to-week"
+        "return": "Long-term absence — return expected late in the season at the earliest"
       },
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
+        "player": "Alisson Becker",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed Friday ahead of weekend fixture"
+        "return": "Being assessed ahead of the weekend; could miss 1-2 weeks if scan confirms muscle tightness"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10 years to maturity, and a par value of $1,000 is priced at $926.40. If market interest rates immediately rise by 50 basis points, which of the following best describes the bond's price sensitivity?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank holds a portfolio of corporate loans. Under the Basel III Internal Ratings-Based (IRB) approach, which of the following best describes the relationship between asset correlation and unexpected loss (UL) in the Basel credit risk capital formula?",
       "options": {
-        "A": "The bond's price will increase because higher rates make the coupon more attractive relative to new issues",
-        "B": "The bond's price will fall by more than it would rise if rates fell by an equal amount, due to negative convexity",
-        "C": "The bond's price will fall, and the percentage price decline will be approximately equal to the bond's modified duration multiplied by the change in yield",
-        "D": "The bond's price will remain near $926.40 because it is already trading at a discount"
+        "A": "Higher asset correlation reduces unexpected loss because diversification benefits increase across borrowers.",
+        "B": "Higher asset correlation increases unexpected loss because borrowers are more likely to default simultaneously during systemic downturns.",
+        "C": "Asset correlation has no effect on unexpected loss; only PD and LGD determine UL.",
+        "D": "Higher asset correlation reduces UL only when PD is below 1%, making the portfolio more resilient to idiosyncratic shocks."
       },
-      "correct": "C",
-      "explanation": "Modified duration measures the approximate percentage price change of a bond for a 1% change in yield. For a small parallel shift in rates, the price change is approximated as: ΔP/P ≈ -ModDuration × Δy. A standard option-free bond exhibits positive convexity, meaning price declines are slightly less than predicted by duration alone for large moves, but for small shifts the duration approximation is reliable. Options A and D are conceptually incorrect, and B describes negative convexity which applies to callable bonds or mortgage-backed securities, not plain vanilla bonds."
+      "correct": "B",
+      "explanation": "In the Basel IRB framework, asset correlation (R) captures the degree to which a borrower's asset value moves with the systematic risk factor. Higher correlation means individual borrowers are more exposed to the same macro shock, increasing the probability that many default together — this raises portfolio-level unexpected loss. The Basel formula explicitly shows that capital requirements increase with R because the 99.9th percentile loss rises as defaults cluster. Options A and D reverse the relationship, and C incorrectly ignores correlation's central role in determining the loss distribution's tail."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Balance Sheet Risk",
-      "subtitle": "How mismatches between asset and liability durations expose financial institutions to interest rate risk.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why a seemingly perfect hedge can still leave residual exposure that surprises risk managers.",
       "paragraphs": [
-        "Duration gap is the difference between the weighted average duration of a financial institution's assets and the weighted average duration of its liabilities, adjusted for leverage. When assets have longer duration than liabilities, the institution's net worth is positively exposed to interest rates — meaning rising rates erode economic value. This concept sits at the heart of Asset-Liability Management (ALM) and is a core supervisory concern for banks, insurers, and pension funds globally.",
-        "The collapse of Silicon Valley Bank in March 2023 became a textbook illustration of duration gap risk in practice. SVB had accumulated a large portfolio of long-duration U.S. Treasuries and agency mortgage-backed securities funded by short-term, rate-sensitive deposits. As the Federal Reserve hiked rates aggressively, the market value of SVB's assets collapsed while its deposit base repriced upward rapidly, creating a fatal mismatch. The unrealized losses on its held-to-maturity portfolio exceeded its equity buffer, triggering a classic bank run once disclosed.",
-        "For risk managers and investors, duration gap analysis is not merely academic — it is a live stress-testing tool. Institutions with a positive duration gap must hedge using interest rate swaps (receive fixed, pay floating), futures, or by restructuring the asset portfolio toward shorter maturities. Regulators under Basel III require banks to report and limit their Interest Rate Risk in the Banking Book (IRRBB). Equity investors in bank stocks should monitor disclosed IRRBB metrics as a leading indicator of book value vulnerability in rising-rate environments."
+        "Basis risk arises when the price of the instrument used to hedge does not move in perfect lockstep with the price of the underlying exposure being hedged. The 'basis' is simply the difference between the spot price of the asset being hedged and the futures (or proxy instrument) price used in the hedge. Even when a hedger selects the closest available contract, geographic differences, quality variations, or maturity mismatches can cause the basis to fluctuate unpredictably, leaving a residual P&L that the hedger did not intend to bear.",
+        "A classic real-world example is a U.S. airline hedging jet fuel costs using crude oil futures. Jet fuel and crude oil are closely related, but refining margins, regional supply-demand imbalances, and seasonal demand for heating oil can cause jet fuel crack spreads to widen unexpectedly. In 2022, several airlines found their crude hedges significantly underperformed as jet fuel prices surged far more than crude benchmarks, exposing them to substantial unhedged losses despite what appeared to be a disciplined hedging programme. Similarly, fixed income managers hedging corporate bond portfolios with Treasury futures face basis risk when credit spreads move independently of risk-free rates.",
+        "For risk managers, basis risk must be explicitly modelled and stress-tested — it cannot simply be assumed away. The hedge ratio should be optimised using the minimum-variance approach, regressing changes in the spot price on changes in the futures price to estimate the optimal number of contracts. Crucially, basis risk should be disclosed in risk reporting and VaR models should incorporate spread volatility alongside outright price volatility. In periods of market stress, basis frequently widens dramatically, meaning hedges that look adequate under normal conditions may prove insufficient precisely when protection is needed most."
       ],
       "key_takeaways": [
-        "A positive duration gap means rising interest rates will reduce the economic value of equity — the core risk that felled SVB.",
-        "Banks hedge duration gap using interest rate swaps, where paying floating and receiving fixed offsets long-asset exposure.",
-        "Basel III's IRRBB framework requires banks to disclose sensitivity of net interest income and economic value of equity to rate shocks."
+        "Basis risk is the residual risk remaining after a hedge is applied, caused by imperfect correlation between the hedged item and the hedging instrument.",
+        "The minimum-variance hedge ratio (h* = ρ × σS/σF) adjusts the hedge size to account for the actual correlation and relative volatility between spot and futures prices.",
+        "Basis risk tends to spike during market dislocations, making robust stress-testing of hedge effectiveness essential for sound risk management."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget / estimate",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved up",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまう, indicating something happened completely or unintentionally.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you have set aside for yourself. When you picture counting out YOUR SUM of coins, you remember 予算 means budget."
+      "example_jp": "毎月、給料の一部を貯金しています。",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_en": "Every month, I save a portion of my salary.",
+      "grammar_point": "〜ています (ongoing action/habitual state)",
+      "grammar_explanation": "The pattern 〜ています (te-form + います) is used to express an action that is currently in progress or a habit that continues over time. Here, 貯金しています means 'I am (habitually) saving,' emphasising that saving is a regular, ongoing practice rather than a one-time event.",
+      "memory_tip": "Picture a 'cho-kin' (chosen kin) — you carefully choose which coins to keep safe in your piggy bank. 貯 means 'store/accumulate' and 金 means 'money/gold,' so together they literally mean 'accumulated money.'"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Autonomously Execute Multi-Step Financial Analysis Workflows",
-      "summary": "A new generation of agentic AI systems — capable of breaking down complex tasks, calling external tools, and iterating without human input at each step — is moving from research labs into early deployment at asset managers and investment banks. Unlike chatbots that respond to single prompts, these agents can autonomously pull market data, run quantitative screens, draft investment memos, and flag compliance issues in sequence. Firms including BlackRock, JPMorgan, and several quantitative hedge funds are piloting these systems for research acceleration and portfolio monitoring. The implications for analyst workflows are significant: routine synthesis tasks that once took hours may compress to minutes, shifting human value toward judgment, client relationships, and model governance.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
+      "summary": "Major banks including JPMorgan, HSBC, and several Nordic lenders have moved machine learning models into production for SME and consumer credit underwriting, replacing or augmenting traditional scorecard approaches. These models ingest thousands of alternative data signals — including cash flow patterns, supplier payment behaviour, and even satellite imagery of retail foot traffic — to generate credit decisions in seconds with demonstrably lower default rates in back-tests. Regulators in the EU and UK are now requiring explainability documentation for any AI-driven credit decision that affects a customer, pushing banks to adopt interpretable ML techniques alongside raw predictive power. For risk professionals, the shift means that model risk management (MRM) frameworks must evolve to handle the validation of non-linear, high-dimensional models rather than just traditional logistic regression scorecards.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "An AI system that autonomously plans and executes multi-step tasks — such as retrieving data, running calculations, and generating reports — without requiring human instruction at each intermediate step."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble ML technique that builds many sequential decision trees, each correcting errors of the last, producing highly accurate credit risk predictions from structured financial data — now widely used in credit scoring and PD estimation."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique that connects a large language model to live or proprietary databases, allowing it to ground its answers in current documents like earnings transcripts, filings, or market data rather than relying solely on training knowledge."
+          "term": "SHAP Values (Shapley Additive Explanations)",
+          "definition": "A mathematical framework borrowed from game theory that decomposes an AI model's output into the contribution of each input variable for a specific prediction — critical for satisfying regulatory explainability requirements in credit decisions."
         },
         {
-          "term": "Model Governance",
-          "definition": "The frameworks, audit trails, and human oversight processes that financial institutions use to validate, monitor, and control AI model outputs — critical for regulatory compliance under SR 11-7 and equivalent global standards."
+          "term": "Model Risk Management (MRM) for ML",
+          "definition": "The governance discipline of validating, monitoring, and controlling machine learning models used in financial decision-making, ensuring they remain accurate, fair, and compliant as market conditions shift — a rapidly growing specialisation within bank risk functions."
         }
       ],
-      "career_insight": "As agentic AI handles more of the mechanical layers of financial analysis — data gathering, summarization, initial screening — the most durable skills for finance professionals will be critical thinking, nuanced judgment on model assumptions, and the ability to communicate insight to clients and stakeholders. Understanding how these systems work at a conceptual level, and where they fail, is rapidly becoming a baseline expectation for senior analysts and risk managers rather than a specialist niche."
+      "career_insight": "Risk professionals who can bridge quantitative ML skills with regulatory fluency — particularly around SR 11-7 model risk guidance and EU AI Act requirements — are commanding significant hiring premiums at banks and asset managers. The highest-value profiles combine Python/ML competence with the ability to write model validation reports and communicate uncertainty to senior stakeholders and regulators. Investing in interpretable ML and model governance knowledge now positions you at the intersection of the two fastest-growing demand areas in finance risk careers."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment remains cautiously constructive as markets digest a resilient U.S. labor market print against a backdrop of softening core CPI, keeping alive hopes of a Federal Reserve rate cut in the second half of the year without triggering fears of a re-acceleration in inflation. Treasury yields are holding in a narrow range with the 10-year anchored near 4.35%, while the dollar trades modestly softer, providing a mild tailwind for EM assets and commodities. Equity markets are grinding higher on thin breadth, with mega-cap tech continuing to carry the index as investors await the next catalyst — most likely the upcoming earnings season and any Fed communication around the pace of balance sheet normalization."
+    "market_sentiment": "Risk assets are navigating a complex crosscurrent as markets price a 'higher for longer' Federal Reserve trajectory against growing evidence of softening U.S. labour market conditions, with the 2s10s Treasury curve steepening modestly as long-end yields climb on fiscal supply concerns. Equity markets are exhibiting a narrow, mega-cap driven resilience while credit spreads in the HY space have begun to tick wider, suggesting beneath-the-surface caution is building among credit investors. In FX, the dollar remains bid against EM currencies amid geopolitical risk premia, while commodity markets watch China's uneven demand recovery closely — Brent holding near the $82-85 range as OPEC+ supply discipline continues to provide a floor."
   }
 }
