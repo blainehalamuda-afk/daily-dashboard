@@ -1,38 +1,38 @@
 {
-  "generated_at": "9:34 PM UTC",
-  "date": "Friday, August 28, 2026",
+  "generated_at": "3:52 PM UTC",
+  "date": "Saturday, August 29, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 85,
-    "feels_like_f": 89,
-    "high_f": 91,
-    "low_f": 83,
-    "description": "Extreme Rain",
-    "icon": "🌧️",
-    "humidity": 58,
-    "wind_mph": 6,
+    "temp_f": 80,
+    "feels_like_f": 80,
+    "high_f": 83,
+    "low_f": 77,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 78,
+    "wind_mph": 0,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "🌧️",
-        "high": 71,
-        "low": 71,
-        "description": "Light Rain"
-      },
       {
         "day": "Sun",
         "icon": "☁️",
-        "high": 72,
-        "low": 72,
+        "high": 71,
+        "low": 71,
         "description": "Overcast Clouds"
       },
       {
         "day": "Mon",
-        "icon": "🌤️",
-        "high": 74,
-        "low": 74,
-        "description": "Few Clouds"
+        "icon": "☁️",
+        "high": 75,
+        "low": 75,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "⛅",
+        "high": 77,
+        "low": 77,
+        "description": "Scattered Clouds"
       }
     ]
   },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77500,
-        "change": -2617.96,
-        "change_pct": -3.27,
+        "price": 77886,
+        "change": -683.01,
+        "change_pct": -0.87,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2432.14,
-        "change": -72.71,
-        "change_pct": -2.9,
+        "price": 2445.32,
+        "change": -34.8,
+        "change_pct": -1.4,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Gap shares jump 9% after company names new Old Navy CEO to revive struggling brand - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
-        "description": "Gap announced a new CEO for Old Navy on Thursday as the brand reported a decline in comparable sales for the most recent quarter.",
-        "published": "8:15 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Exclusive | Trump Family’s New Crypto Bank Is Backed by Abu Dhabi Sheikh - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/finance/currencies/trump-familys-new-crypto-bank-is-backed-by-abu-dhabi-sheikh-38579473",
-        "description": "",
-        "published": "7:15 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
-        "description": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
-        "published": "7:00 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "GTA 6 is revamping the Wanted system and giving you a Criminal Profile - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles",
-        "description": "",
-        "published": "7:16 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "‘GTA 6’ Drops 27 Minutes of New In-Game Footage on Netflix Amid Ongoing Rockstar Games Leaks - Variety",
-        "source": "Variety",
-        "url": "https://variety.com/2026/tv/news/gta-6-netflix-trailer-extended-look-release-1236845475/",
-        "description": "Netflix dropped 27 minutes of new \"GTA 6\" content Thursday in a collaboration with Rockstar Games ahead of November release.",
-        "published": "7:14 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "‘Is It Four Characters Now?’ — Rockstar Briefly Thought About Doubling the Number of GTA 6 Protagonists - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/gta-6-four-protagonists-considered-by-rockstar",
-        "description": "Following GTA 5’s three playable characters, Rockstar considered putting four protagonists in GTA 6 before settling on its criminal couple.",
-        "published": "7:00 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Secret Service spokesperson is put on leave amid investigation - The Washington Post",
+        "title": "Cyclospora lettuce outbreak now tied to 20 states - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/08/27/secret-service-spokesperson-is-put-leave-amid-investigation/",
-        "description": "The agency said two other non-law enforcement employees were also suspended in an unspecified misconduct investigation.",
-        "published": "8:29 PM UTC",
+        "url": "https://www.washingtonpost.com/health/2026/08/28/cyclospora-lettuce-outbreak-now-tied-20-states/",
+        "description": "The best-by dates for these recalled products have passed, and the lettuce should no longer be available in stores or restaurants, or available for purchase.",
+        "published": "2:17 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Fed Chairman Warsh expresses concern about inflation advocates for 'quieter' central bank: Watch live - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+        "description": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
+        "published": "2:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Japan Spent Record $98.7 Billion to Prop Up Yen in Past Month - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/finance/currencies/japan-spent-record-98-7-billion-to-prop-up-yen-in-past-month-ddb03c64",
+        "description": "",
+        "published": "1:50 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
+        "description": "The GTA 6 extended look trailer was apparently captured on PS5. Maybe that's why people noticed some frame-rate choppiness. But what FPS will it run at?",
+        "published": "1:20 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "STRANGER THAN HEAVEN Gamescom 2026 demo playthrough - Gematsu",
+        "source": "Gematsu",
+        "url": "https://www.gematsu.com/2026/08/stranger-than-heaven-gamescom-2026-demo-playthrough",
+        "description": "Publisher SEGA and developer RGG Studio have released a 12-minute playthrough of the Gamescom 2026 demo for 50-year action adventure saga STRANGER THAN HEAVEN.",
+        "published": "1:10 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Apple Isn’t Following Its Typical Playbook for the September iPhone Event - CNET",
+        "source": "CNET",
+        "url": "https://www.cnet.com/tech/computing/apple-isnt-following-its-typical-playbook-for-the-september-iphone-event/",
+        "description": "Tim Cook is having a wild last week on the job.",
+        "published": "12:09 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "USPS’s New Mail-in Ballot Rule Gets Blocked Again—What To Know Before The Midterms - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/alisondurkee/2026/08/28/will-new-usps-rule-impact-your-ballot-in-november-what-to-know-as-rule-blocked-again/",
+        "description": "The ruling blocking the policy is only in effect for now, while the court considers extending it.",
+        "published": "1:50 PM UTC",
         "category": "General"
       }
     ]
@@ -184,9 +184,9 @@
       {
         "home": "Liverpool",
         "away": "Nottingham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "11:30 AM UTC",
         "date": "Aug 29",
         "highlighted": false
@@ -194,9 +194,9 @@
       {
         "home": "Bournemouth",
         "away": "Everton",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Aug 29",
         "highlighted": false
@@ -204,9 +204,9 @@
       {
         "home": "Coventry City",
         "away": "Hull City",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Aug 29",
         "highlighted": false
@@ -219,6 +219,46 @@
         "status": "TIMED",
         "time": "4:30 PM UTC",
         "date": "Aug 29",
+        "highlighted": false
+      },
+      {
+        "home": "Sunderland",
+        "away": "Fulham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Aug 30",
+        "highlighted": false
+      },
+      {
+        "home": "Chelsea",
+        "away": "Brighton Hove",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Aug 30",
+        "highlighted": false
+      },
+      {
+        "home": "Leeds United",
+        "away": "Brentford",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Aug 30",
+        "highlighted": false
+      },
+      {
+        "home": "Man United",
+        "away": "Ipswich Town",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:30 PM UTC",
+        "date": "Aug 30",
         "highlighted": false
       }
     ],
@@ -236,6 +276,28 @@
       },
       {
         "position": 2,
+        "team": "Everton",
+        "played": 2,
+        "won": 1,
+        "drawn": 1,
+        "lost": 0,
+        "gd": 2,
+        "points": 4,
+        "highlighted": false
+      },
+      {
+        "position": 2,
+        "team": "Hull City",
+        "played": 2,
+        "won": 1,
+        "drawn": 1,
+        "lost": 0,
+        "gd": 2,
+        "points": 4,
+        "highlighted": false
+      },
+      {
+        "position": 4,
         "team": "Brighton Hove",
         "played": 1,
         "won": 1,
@@ -246,7 +308,7 @@
         "highlighted": false
       },
       {
-        "position": 3,
+        "position": 5,
         "team": "Arsenal",
         "played": 1,
         "won": 1,
@@ -257,7 +319,7 @@
         "highlighted": false
       },
       {
-        "position": 3,
+        "position": 5,
         "team": "Brentford",
         "played": 1,
         "won": 1,
@@ -266,136 +328,114 @@
         "gd": 3,
         "points": 3,
         "highlighted": false
-      },
-      {
-        "position": 5,
-        "team": "Everton",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 2,
-        "points": 3,
-        "highlighted": false
-      },
-      {
-        "position": 5,
-        "team": "Hull City",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 2,
-        "points": 3,
-        "highlighted": false
       }
     ]
   },
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Target Prolific Bundesliga Striker as Firmino Replacement Search Intensifies",
-        "summary": "Arsenal are reportedly weighing a move for a dynamic center-forward with strong hold-up play and Premier League adaptability, as Mikel Arteta seeks to add a clinical striker option to compete for a title push. Negotiations are said to be at an exploratory stage with a potential January window move under consideration.",
+        "headline": "Arsenal in Advanced Talks for £65m Bundesliga Midfielder",
+        "summary": "Arsenal are reportedly closing in on a deal for a dynamic box-to-box midfielder from a top Bundesliga club, with personal terms largely agreed and a medical potentially scheduled for next week. The signing would address a long-standing need for midfield depth and creativity ahead of a Champions League campaign.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester City Eye Midfield Reinforcement Amid Rodri's Extended Absence",
-        "summary": "With Rodri sidelined for the remainder of the season following a serious knee injury, Manchester City are monitoring several central midfield targets to shore up a position that has visibly weakened their defensive structure. A January loan with an option to buy is reportedly the preferred deal structure given squad registration constraints.",
+        "headline": "Manchester United Set to Lose Key Striker as Saudi Interest Intensifies",
+        "summary": "A leading Saudi Pro League club has submitted a substantial offer for Manchester United's first-choice striker, with the player's representatives confirmed to be in active discussions. United are reluctant to sell but may be forced to act given the player's desire for a new challenge and the club's financial restructuring needs.",
         "clubs": [
-          "Manchester City",
-          "Atletico Madrid"
+          "Manchester United",
+          "Al-Hilal"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Chelsea",
+      "home": "Manchester City",
+      "away": "Liverpool",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "Anfield hosts one of the Premier League's most storied fixtures as table-topping Liverpool welcome a Chelsea side that has shown remarkable improvement under their current setup, with both clubs desperate for three points in a tightly contested top-four race. Liverpool's relentless pressing and home record make them firm favorites, but Chelsea's attacking depth and set-piece threat give them a realistic route to a result. The tactical battle between Liverpool's high defensive line and Chelsea's pacey forwards on the counter will be the key subplot to watch.",
+      "preview": "The Premier League's defining rivalry resumes at the Etihad in what could prove a pivotal six-pointer in the title race, with both sides separated by just two points in the table. City come in on a four-match winning run and will look to exploit their home fortress advantage, while Liverpool's high press and devastating transition play make them the only side consistently capable of unsettling Guardiola's system. All eyes will be on whether Liverpool's injury-depleted midfield can contain City's relentless positional dominance across 90 minutes.",
       "key_players": [
+        "Erling Haaland",
         "Mohamed Salah",
-        "Cole Palmer",
-        "Virgil van Dijk"
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Season over — expected return pre-season 2025"
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; 50/50 for Sunday's fixture"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
-        "status": "Doubtful",
-        "return": "Week-to-week; targeting return within 2-3 weeks"
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Expected to return to full training within 10 days; targeting the following midweek fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A credit risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model. The model assumes a uniform asset correlation of 0.25 across all pairs. During a period of market stress, the manager observes that default clustering far exceeds model predictions. Which of the following best explains this discrepancy?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If the yield to maturity (YTM) increases by 50 basis points, which of the following best describes the expected price change, and why does convexity matter in this context?",
       "options": {
-        "A": "The Gaussian copula underestimates tail dependence because the normal distribution has thin tails, causing it to understate the probability of simultaneous defaults during extreme market conditions.",
-        "B": "The Gaussian copula overestimates pairwise correlations in normal market conditions, leading to an overstatement of diversification benefits.",
-        "C": "The uniform correlation assumption causes the model to ignore idiosyncratic risk, resulting in an underestimate of single-name default probabilities.",
-        "D": "The Gaussian copula fails to incorporate recovery rate uncertainty, which is the primary driver of default clustering during stress periods."
+        "A": "The price will fall by exactly the amount predicted by duration alone, because convexity is only relevant for large yield changes.",
+        "B": "The price will fall by less than predicted by duration alone, because positive convexity means the price-yield relationship is curved, cushioning price declines.",
+        "C": "The price will fall by more than predicted by duration alone, because convexity amplifies losses when yields rise.",
+        "D": "The price change cannot be estimated without knowing the bond's modified duration explicitly."
       },
-      "correct": "A",
-      "explanation": "The Gaussian copula model, famously used in CDO pricing, relies on the multivariate normal distribution which exhibits near-zero tail dependence — meaning joint extreme events are assigned very low probability. In reality, during systemic stress, defaults cluster far more than the model predicts because asset returns become highly correlated in the tails. This limitation was central to the 2007-2009 financial crisis, where structured credit products suffered losses far beyond Gaussian-based model estimates. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence and are preferred in stress-scenario credit modeling."
+      "correct": "B",
+      "explanation": "For a standard option-free bond, convexity is always positive, meaning the price-yield curve is convex to the origin. When yields rise, duration alone overestimates the price decline; the convexity adjustment partially offsets this, so the actual price drop is smaller than the duration-only estimate. The full price change approximation is: ΔP ≈ −(ModDuration × Δy) + (½ × Convexity × Δy²). Convexity is most impactful for larger yield moves, but even a 50bps shift produces a measurable positive convexity benefit for investors."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why imperfect hedges can leave risk managers exposed even when they think they are protected.",
+      "title": "Duration Gap and Bank Interest Rate Risk",
+      "subtitle": "How mismatches between asset and liability durations expose financial institutions to interest rate volatility.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument being hedged and the price of the hedging instrument do not move in perfect lockstep. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even a well-constructed hedge using futures, swaps, or ETFs retains residual exposure if the hedge instrument does not precisely track the underlying asset. This can occur due to differences in maturity, credit quality, geography, or liquidity between the two instruments.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices are highly correlated but not identical — they diverge based on refinery margins, seasonal demand, and regional supply dynamics — the hedge is imperfect. In 2022, several energy-intensive companies found that their WTI futures hedges failed to fully offset sharp moves in European natural gas prices, illustrating how basis risk can widen dramatically during geopolitical dislocations. Similarly, fixed income managers using Treasury futures to hedge corporate bond portfolios face basis risk from the credit spread component, which futures cannot capture.",
-        "For risk managers and portfolio managers, basis risk demands that hedging effectiveness be quantified, not assumed. The hedge ratio should be estimated using regression analysis of historical price changes between the spot and futures, and portfolios should be stress-tested for scenarios where the basis widens sharply — precisely when hedges are needed most. Accounting standards such as IFRS 9 and ASC 815 require hedge effectiveness testing, incentivizing rigorous basis risk monitoring. Understanding basis risk is essential for anyone managing commodity, interest rate, or currency exposures in dynamic markets."
+        "The duration gap is a measure of a financial institution's net exposure to interest rate risk, calculated as the difference between the duration of its assets and the duration of its liabilities, adjusted for leverage. A positive duration gap means assets reprice more slowly than liabilities, leaving the institution vulnerable when interest rates rise. Banks, insurance companies, and pension funds all monitor this metric closely as part of their asset-liability management (ALM) frameworks.",
+        "The 2023 collapse of Silicon Valley Bank (SVB) is a textbook illustration of duration gap risk. SVB had loaded its balance sheet with long-duration fixed-rate mortgage-backed securities and Treasuries while funding itself with short-term deposits — creating a large positive duration gap. When the Federal Reserve raised rates aggressively, the market value of SVB's assets collapsed while its funding costs surged, triggering unrealized losses that ultimately led to a bank run and failure. The episode reminded markets that interest rate risk, often overshadowed by credit risk, can be existential.",
+        "For risk managers and investors, monitoring duration gap is essential in any rising or volatile rate environment. Institutions can hedge duration mismatches using interest rate swaps (receiving fixed, paying floating to shorten asset duration), futures, or by actively restructuring the portfolio. Equity investors in bank stocks should scrutinize disclosed AOCI (Accumulated Other Comprehensive Income) figures and held-to-maturity portfolio sizes as proxies for hidden duration risk, especially when rate cycles turn."
       ],
       "key_takeaways": [
-        "Basis risk is the residual price risk remaining after a hedge is placed, driven by imperfect correlation between the hedged item and the hedging instrument.",
-        "Basis can widen dramatically during stress periods — the exact times when hedge protection is most critical — making stress testing essential.",
-        "Hedge ratios should be estimated empirically using regression analysis rather than assumed to be 1:1, and should be reviewed periodically as correlations shift."
+        "Duration gap = Asset Duration − (Liabilities/Assets) × Liability Duration; a large positive gap signals rising-rate vulnerability.",
+        "The SVB failure in 2023 demonstrated how unhedged duration gaps can become solvency events when rates move sharply.",
+        "Interest rate swaps and active ALM are the primary tools institutions use to close dangerous duration mismatches."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い果たしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaihatashite shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) is used to express that an action has been completed, often with a nuance of regret or that it happened unintentionally. It combines the te-form of a verb with しまう (shimau), which conveys finality or a sense that the result is unfortunate.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you're allowed to spend. Picture yourself counting your yen coins and realizing your 'yo-san' (your sum) has run out!"
+      "example_jp": "友達と明日の午後三時に会う約束をしました。",
+      "example_romaji": "Tomodachi to ashita no gogo sanji ni au yakusoku wo shimashita.",
+      "example_en": "I made a promise to meet my friend tomorrow at 3 PM.",
+      "grammar_point": "〜をしました (noun + を + する, past tense)",
+      "grammar_explanation": "In Japanese, many actions are expressed by taking a noun and adding 'する' (to do). '約束をする' literally means 'to do a promise,' which is the natural way to say 'to make a promise.' The past polite form is '〜をしました.'",
+      "memory_tip": "Think of 'yaku' as 'a contract' (like yakuza have strict codes) and 'soku' as 'speed' — a promise is a fast contract sealed between people. Once you make a yakusoku, you're bound like a legal agreement!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Investment Banks Conduct Due Diligence",
-      "summary": "Major investment banks and asset managers are deploying autonomous AI agents capable of ingesting thousands of pages of financial filings, earnings call transcripts, and covenant documentation to generate structured credit and equity due diligence reports in minutes rather than weeks. Firms including Goldman Sachs, JPMorgan, and BlackRock have signaled significant internal deployments of large language model (LLM)-powered tools that augment analyst workflows across research, compliance, and risk functions. The competitive implication is stark: teams that integrate these tools effectively can cover dramatically more names with the same headcount, compressing the informational edge that used to accrue from sheer analytical hours. The strategic question for finance professionals is no longer whether AI will change their workflow, but how quickly they can become the person who directs AI rather than the person AI replaces.",
+      "headline": "AI Agents Are Quietly Automating Financial Research and Due Diligence Workflows",
+      "summary": "A new generation of autonomous AI agents — built on large language models augmented with tool use, memory, and multi-step reasoning — is beginning to replace or dramatically accelerate tasks that previously required junior analysts: earnings transcript summarization, covenant review, peer benchmarking, and regulatory filing analysis. Firms including Goldman Sachs, JPMorgan, and a wave of fintech startups are deploying these systems not just as copilots but as near-autonomous workers that can complete multi-hour research tasks in minutes. The competitive implications are significant: firms that deploy these agents effectively will compress research timelines and reallocate human capital toward higher-judgment activities like client relationships and thesis generation. The productivity gap between AI-native and laggard institutions is expected to widen materially over the next 24 months.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, execute multi-step tasks, and use external tools — such as running a financial model, querying a database, and drafting a memo — with minimal human intervention between steps. In finance, this means an agent could pull 10-K data, compute ratios, and flag covenant breaches automatically."
+          "definition": "AI systems that can autonomously plan, take sequential actions, use external tools (like web search or databases), and complete multi-step tasks with minimal human intervention — going beyond simple question-answering to actually executing financial workflows."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents or data from a proprietary knowledge base before generating its response, ensuring outputs are grounded in specific, up-to-date information. Banks use RAG to let LLMs answer questions using internal deal databases, legal agreements, or research libraries rather than relying solely on training data."
+          "definition": "A technique where an AI model retrieves relevant documents (e.g., 10-Ks, research reports, loan agreements) from a database before generating its response, dramatically improving accuracy and grounding outputs in actual financial data rather than relying solely on training knowledge."
         },
         {
-          "term": "Hallucination Risk",
-          "definition": "The tendency of large language models to generate plausible-sounding but factually incorrect information. In finance, this is a critical failure mode — an AI citing a wrong covenant threshold or incorrect financial figure in a credit memo could lead to material misjudgments, making human review and validation workflows essential."
+          "term": "Structured Output Extraction",
+          "definition": "The ability of AI models to parse unstructured text — such as earnings call transcripts or credit agreements — and return clean, structured data (tables, JSON, key metrics) that can feed directly into financial models or risk systems."
         }
       ],
-      "career_insight": "Finance professionals who thrive in the next five years will be those who develop 'AI fluency' — the ability to critically evaluate AI outputs, design effective prompts for financial analysis tasks, and identify where model limitations create risk. Technical coding skills remain valuable, but the highest-leverage skill is learning to be an intelligent supervisor of AI agents: knowing when to trust the output, when to push back, and how to structure workflows so that AI accelerates rather than undermines analytical rigor."
+      "career_insight": "Finance professionals who can design, evaluate, and oversee AI agent workflows will command significant premiums over those who only consume AI outputs passively. The most valuable skill set in the next five years will be 'AI workflow architecture' — knowing which tasks to delegate to agents, how to validate their outputs, and where human judgment remains irreplaceable. Analysts and risk managers should invest time learning prompt engineering, RAG system design, and AI output auditing rather than treating these as purely IT concerns."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautiously constructive as markets digest the Fed's higher-for-longer pivot, with the 10-year Treasury yield hovering near multi-year highs and continuing to pressure rate-sensitive equity sectors including utilities and REITs. Credit spreads have been resilient despite tighter financial conditions, though leveraged loan markets show early signs of stress in lower-rated tranches as refinancing walls approach in 2025-2026. Commodity markets are the key wildcard this week, with oil prices sensitive to OPEC+ production signals and geopolitical risk premia elevated — energy equities and inflation breakevens bear close watching as the macro narrative around the last mile of disinflation plays out."
+    "market_sentiment": "Global risk appetite is cautiously constructive this morning as markets digest a resilient U.S. labor market print alongside cooling core PCE data, keeping the Fed in a prolonged hold posture and pushing the first rate cut expectation toward late Q3. Equity markets are grinding higher on the back of AI-driven capex optimism and better-than-feared earnings revisions, though credit spreads are beginning to widen slightly at the margin — a signal worth monitoring for signs of late-cycle credit stress. In FX, the dollar is softening modestly against the yen as BOJ rate-hike speculation reintensifies, while EM currencies with commodity exposure are catching a bid on firmer oil and copper prices."
   }
 }
