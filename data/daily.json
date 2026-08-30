@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:52 PM UTC",
-  "date": "Saturday, August 29, 2026",
+  "generated_at": "3:38 PM UTC",
+  "date": "Sunday, August 30, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 80,
-    "feels_like_f": 80,
-    "high_f": 83,
+    "temp_f": 77,
+    "feels_like_f": 78,
+    "high_f": 78,
     "low_f": 77,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
+    "description": "Clear Sky",
+    "icon": "☀️",
     "humidity": 78,
-    "wind_mph": 0,
+    "wind_mph": 3,
     "forecast": [
       {
-        "day": "Sun",
-        "icon": "☁️",
-        "high": 71,
-        "low": 71,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Mon",
-        "icon": "☁️",
+        "icon": "☀️",
         "high": 75,
         "low": 75,
-        "description": "Overcast Clouds"
+        "description": "Clear Sky"
       },
       {
         "day": "Tue",
-        "icon": "⛅",
+        "icon": "☀️",
         "high": 77,
         "low": 77,
-        "description": "Scattered Clouds"
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Wed",
+        "icon": "🌤️",
+        "high": 78,
+        "low": 78,
+        "description": "Few Clouds"
       }
     ]
   },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77886,
-        "change": -683.01,
-        "change_pct": -0.87,
-        "up": false,
+        "price": 78796,
+        "change": 924.36,
+        "change_pct": 1.19,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2445.32,
-        "change": -34.8,
-        "change_pct": -1.4,
-        "up": false,
+        "price": 2476.87,
+        "change": 32.88,
+        "change_pct": 1.35,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Cyclospora lettuce outbreak now tied to 20 states - The Washington Post",
+        "title": "The Fed confronts a powerful new economic force - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/health/2026/08/28/cyclospora-lettuce-outbreak-now-tied-20-states/",
-        "description": "The best-by dates for these recalled products have passed, and the lettuce should no longer be available in stores or restaurants, or available for purchase.",
-        "published": "2:17 PM UTC",
+        "url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
+        "description": "In meetings on how to steer the nation’s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found.",
+        "published": "12:32 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Fed Chairman Warsh expresses concern about inflation advocates for 'quieter' central bank: Watch live - CNBC",
+        "title": "Goodyear burning rubber and cash as turnaround plan continues - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
-        "description": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
-        "published": "2:00 PM UTC",
+        "url": "https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html",
+        "description": "The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.",
+        "published": "12:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Japan Spent Record $98.7 Billion to Prop Up Yen in Past Month - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/finance/currencies/japan-spent-record-98-7-billion-to-prop-up-yen-in-past-month-ddb03c64",
-        "description": "",
-        "published": "1:50 PM UTC",
+        "title": "What's the real retirement age in America? Here are 4 guesses - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/29/retirement-age-in-america-social-security-medicare/91406670007/",
+        "description": "Americans used to think of 65 as the expected retirement age. But those days are gone, and today's retirement math is increasingly fuzzy.",
+        "published": "9:10 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
-        "description": "The GTA 6 extended look trailer was apparently captured on PS5. Maybe that's why people noticed some frame-rate choppiness. But what FPS will it run at?",
-        "published": "1:20 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "STRANGER THAN HEAVEN Gamescom 2026 demo playthrough - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/08/stranger-than-heaven-gamescom-2026-demo-playthrough",
-        "description": "Publisher SEGA and developer RGG Studio have released a 12-minute playthrough of the Gamescom 2026 demo for 50-year action adventure saga STRANGER THAN HEAVEN.",
-        "published": "1:10 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Apple Isn’t Following Its Typical Playbook for the September iPhone Event - CNET",
-        "source": "CNET",
-        "url": "https://www.cnet.com/tech/computing/apple-isnt-following-its-typical-playbook-for-the-september-iphone-event/",
-        "description": "Tim Cook is having a wild last week on the job.",
-        "published": "12:09 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "USPS’s New Mail-in Ballot Rule Gets Blocked Again—What To Know Before The Midterms - Forbes",
+        "title": "‘Force Restart’—Microsoft Changes Windows Update Next Month - Forbes",
         "source": "Forbes",
-        "url": "https://www.forbes.com/sites/alisondurkee/2026/08/28/will-new-usps-rule-impact-your-ballot-in-november-what-to-know-as-rule-blocked-again/",
-        "description": "The ruling blocking the policy is only in effect for now, while the court considers extending it.",
-        "published": "1:50 PM UTC",
+        "url": "https://www.forbes.com/sites/zakdoffman/2026/08/29/force-restart-microsoft-changes-windows-update-next-month/",
+        "description": "Your Windows PC will force restart in September — here's why.",
+        "published": "6:59 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "PlayStation Plus Monthly Games Locked In For September 2026 - The Otaku's Study",
+        "source": "Otakustudy.com",
+        "url": "https://www.otakustudy.com/video-game/2026/08/playstation-plus-monthly-games-locked-in-for-september-2026/",
+        "description": "",
+        "published": "6:17 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Fantasy football rankings 2026: Top sleepers, breakouts, busts by model that hit Daniel Jones' surprise year - CBS Sports",
+        "source": "CBS Sports",
+        "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-top-sleepers-breakouts-busts-by-model-that-hit-daniel-jones-surprise-year/",
+        "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
+        "published": "2:35 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Song Yadong KOs Umar Nurmagomedov in massive UFC upset in Shanghai - ESPN",
+        "source": "ESPN",
+        "url": "https://www.espn.com/mma/story/_/id/49762250/song-yadong-kos-umar-nurmagomedov-massive-ufc-upset-shanghai",
+        "description": "Song Yadong pulled off a massive upset Saturday, knocking out heavily favored Umar Nurmagomedov in the men's bantamweight main event of UFC Fight Night in Shanghai.",
+        "published": "2:10 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Live updates: China-Nepal flood death toll passes 600 - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/29/world/live-news/nepal-china-flood",
+        "description": "Rescue efforts are in their fourth day but Nepali authorities are warning they are struggling to cope with the number of decomposing bodies recovered. Follow for news updates.",
+        "published": "1:54 PM UTC",
         "category": "General"
       }
     ]
@@ -172,21 +180,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Crystal Palace",
-        "away": "Man City",
-        "home_score": 1,
-        "away_score": 4,
-        "status": "FINISHED",
-        "time": "7:00 PM UTC",
-        "date": "Aug 28",
-        "highlighted": false
-      },
-      {
         "home": "Liverpool",
         "away": "Nottingham",
-        "home_score": 2,
-        "away_score": 2,
-        "status": "FINISHED",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
         "time": "11:30 AM UTC",
         "date": "Aug 29",
         "highlighted": false
@@ -194,9 +192,9 @@
       {
         "home": "Bournemouth",
         "away": "Everton",
-        "home_score": 1,
-        "away_score": 0,
-        "status": "IN_PLAY",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
         "time": "2:00 PM UTC",
         "date": "Aug 29",
         "highlighted": false
@@ -204,9 +202,9 @@
       {
         "home": "Coventry City",
         "away": "Hull City",
-        "home_score": 0,
-        "away_score": 1,
-        "status": "IN_PLAY",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
         "time": "2:00 PM UTC",
         "date": "Aug 29",
         "highlighted": false
@@ -224,9 +222,9 @@
       {
         "home": "Sunderland",
         "away": "Fulham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "1:00 PM UTC",
         "date": "Aug 30",
         "highlighted": false
@@ -234,9 +232,9 @@
       {
         "home": "Chelsea",
         "away": "Brighton Hove",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 4,
+        "away_score": 3,
+        "status": "FINISHED",
         "time": "1:00 PM UTC",
         "date": "Aug 30",
         "highlighted": false
@@ -244,9 +242,9 @@
       {
         "home": "Leeds United",
         "away": "Brentford",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "1:00 PM UTC",
         "date": "Aug 30",
         "highlighted": false
@@ -254,11 +252,21 @@
       {
         "home": "Man United",
         "away": "Ipswich Town",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "IN_PLAY",
+        "time": "3:30 PM UTC",
+        "date": "Aug 30",
+        "highlighted": false
+      },
+      {
+        "home": "Aston Villa",
+        "away": "Arsenal",
         "home_score": null,
         "away_score": null,
         "status": "TIMED",
-        "time": "3:30 PM UTC",
-        "date": "Aug 30",
+        "time": "7:00 PM UTC",
+        "date": "Aug 31",
         "highlighted": false
       }
     ],
@@ -276,6 +284,50 @@
       },
       {
         "position": 2,
+        "team": "Hull City",
+        "played": 2,
+        "won": 2,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 3,
+        "points": 6,
+        "highlighted": false
+      },
+      {
+        "position": 3,
+        "team": "Chelsea",
+        "played": 2,
+        "won": 2,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 2,
+        "points": 6,
+        "highlighted": false
+      },
+      {
+        "position": 4,
+        "team": "Brentford",
+        "played": 2,
+        "won": 1,
+        "drawn": 1,
+        "lost": 0,
+        "gd": 3,
+        "points": 4,
+        "highlighted": false
+      },
+      {
+        "position": 5,
+        "team": "Newcastle",
+        "played": 2,
+        "won": 1,
+        "drawn": 1,
+        "lost": 0,
+        "gd": 2,
+        "points": 4,
+        "highlighted": false
+      },
+      {
+        "position": 6,
         "team": "Everton",
         "played": 2,
         "won": 1,
@@ -284,158 +336,115 @@
         "gd": 2,
         "points": 4,
         "highlighted": false
-      },
-      {
-        "position": 2,
-        "team": "Hull City",
-        "played": 2,
-        "won": 1,
-        "drawn": 1,
-        "lost": 0,
-        "gd": 2,
-        "points": 4,
-        "highlighted": false
-      },
-      {
-        "position": 4,
-        "team": "Brighton Hove",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 4,
-        "points": 3,
-        "highlighted": false
-      },
-      {
-        "position": 5,
-        "team": "Arsenal",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 3,
-        "points": 3,
-        "highlighted": false
-      },
-      {
-        "position": 5,
-        "team": "Brentford",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 3,
-        "points": 3,
-        "highlighted": false
       }
     ]
   },
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for £65m Bundesliga Midfielder",
-        "summary": "Arsenal are reportedly closing in on a deal for a dynamic box-to-box midfielder from a top Bundesliga club, with personal terms largely agreed and a medical potentially scheduled for next week. The signing would address a long-standing need for midfield depth and creativity ahead of a Champions League campaign.",
+        "headline": "Liverpool Eye RB Leipzig Midfielder Xavi Simons in Ambitious Winter Move",
+        "summary": "Liverpool's sporting directors are reportedly assessing the feasibility of a January approach for Dutch international Xavi Simons, currently on loan at RB Leipzig from PSG, as the club seeks creative midfield depth following injuries to key personnel. PSG's asking price remains a significant obstacle, with valuations north of €80m cited by French media.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Liverpool",
+          "RB Leipzig",
+          "Paris Saint-Germain"
         ]
       },
       {
-        "headline": "Manchester United Set to Lose Key Striker as Saudi Interest Intensifies",
-        "summary": "A leading Saudi Pro League club has submitted a substantial offer for Manchester United's first-choice striker, with the player's representatives confirmed to be in active discussions. United are reluctant to sell but may be forced to act given the player's desire for a new challenge and the club's financial restructuring needs.",
+        "headline": "Aston Villa Close to Securing Atletico Madrid Winger on Loan",
+        "summary": "Aston Villa are in advanced discussions to bring in a wide attacker from Atletico Madrid on a loan-to-buy arrangement as Unai Emery looks to bolster his attacking options for the second half of the season amid a congested Champions League and Premier League schedule. A medical is expected to be scheduled should the remaining fee structure details be agreed.",
         "clubs": [
-          "Manchester United",
-          "Al-Hilal"
+          "Aston Villa",
+          "Atletico Madrid"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
+      "home": "Arsenal",
+      "away": "Manchester City",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's defining rivalry resumes at the Etihad in what could prove a pivotal six-pointer in the title race, with both sides separated by just two points in the table. City come in on a four-match winning run and will look to exploit their home fortress advantage, while Liverpool's high press and devastating transition play make them the only side consistently capable of unsettling Guardiola's system. All eyes will be on whether Liverpool's injury-depleted midfield can contain City's relentless positional dominance across 90 minutes.",
+      "preview": "This heavyweight clash at the Emirates carries enormous title implications, with Arsenal looking to reassert their credentials at the top of the table against a City side that has shown renewed consistency under Pep Guardiola following a turbulent autumn. Arsenal's high press and the electric home atmosphere could unsettle City's build-up play, but Guardiola's ability to exploit space on the counter through Haaland makes defensive discipline the defining factor. Both managers have scored tactical points in recent meetings, and expect a tightly contested, intensely physical 90 minutes with set pieces potentially proving decisive.",
       "key_players": [
         "Erling Haaland",
-        "Mohamed Salah",
+        "Bukayo Saka",
         "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; 50/50 for Sunday's fixture"
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Out",
+        "return": "Expected back in 6-8 weeks following knee procedure"
       },
       {
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected to return to full training within 10 days; targeting the following midweek fixture"
+        "status": "Doubtful",
+        "return": "Being assessed day-to-day; hamstring tightness reported ahead of Sunday's fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If the yield to maturity (YTM) increases by 50 basis points, which of the following best describes the expected price change, and why does convexity matter in this context?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. The bank also estimates an asset correlation of 12% under the Basel IRB framework. Which of the following best describes the relationship between unexpected loss (UL) and economic capital?",
       "options": {
-        "A": "The price will fall by exactly the amount predicted by duration alone, because convexity is only relevant for large yield changes.",
-        "B": "The price will fall by less than predicted by duration alone, because positive convexity means the price-yield relationship is curved, cushioning price declines.",
-        "C": "The price will fall by more than predicted by duration alone, because convexity amplifies losses when yields rise.",
-        "D": "The price change cannot be estimated without knowing the bond's modified duration explicitly."
+        "A": "Economic capital equals expected loss, since banks provision for expected losses through loan loss reserves.",
+        "B": "Economic capital is set to cover unexpected losses at a target confidence level, representing the difference between Value-at-Risk and expected loss.",
+        "C": "Unexpected loss is always zero for investment-grade borrowers, so economic capital requirements are minimal.",
+        "D": "Economic capital equals the product of PD, LGD, and EAD regardless of the confidence level chosen."
       },
       "correct": "B",
-      "explanation": "For a standard option-free bond, convexity is always positive, meaning the price-yield curve is convex to the origin. When yields rise, duration alone overestimates the price decline; the convexity adjustment partially offsets this, so the actual price drop is smaller than the duration-only estimate. The full price change approximation is: ΔP ≈ −(ModDuration × Δy) + (½ × Convexity × Δy²). Convexity is most impactful for larger yield moves, but even a 50bps shift produces a measurable positive convexity benefit for investors."
+      "explanation": "Economic capital is designed to absorb unexpected losses — the volatility around the mean (expected) loss — at a specified confidence level, typically 99.9% under Basel II IRB approaches. Expected loss (EL = PD × LGD × EAD = $90,000 here) is covered by loan loss provisions and pricing, not capital. The unexpected loss is the difference between the credit VaR at the chosen confidence level and the expected loss, and economic capital is sized to cover this gap, protecting the bank from insolvency under adverse but plausible scenarios."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Interest Rate Risk",
-      "subtitle": "How mismatches between asset and liability durations expose financial institutions to interest rate volatility.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding the gap between a hedge instrument and the underlying exposure, and why perfect hedges rarely exist in practice.",
       "paragraphs": [
-        "The duration gap is a measure of a financial institution's net exposure to interest rate risk, calculated as the difference between the duration of its assets and the duration of its liabilities, adjusted for leverage. A positive duration gap means assets reprice more slowly than liabilities, leaving the institution vulnerable when interest rates rise. Banks, insurance companies, and pension funds all monitor this metric closely as part of their asset-liability management (ALM) frameworks.",
-        "The 2023 collapse of Silicon Valley Bank (SVB) is a textbook illustration of duration gap risk. SVB had loaded its balance sheet with long-duration fixed-rate mortgage-backed securities and Treasuries while funding itself with short-term deposits — creating a large positive duration gap. When the Federal Reserve raised rates aggressively, the market value of SVB's assets collapsed while its funding costs surged, triggering unrealized losses that ultimately led to a bank run and failure. The episode reminded markets that interest rate risk, often overshadowed by credit risk, can be existential.",
-        "For risk managers and investors, monitoring duration gap is essential in any rising or volatile rate environment. Institutions can hedge duration mismatches using interest rate swaps (receiving fixed, paying floating to shorten asset duration), futures, or by actively restructuring the portfolio. Equity investors in bank stocks should scrutinize disclosed AOCI (Accumulated Other Comprehensive Income) figures and held-to-maturity portfolio sizes as proxies for hidden duration risk, especially when rate cycles turn."
+        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the price of the underlying exposure being hedged. The 'basis' is formally defined as the spot price of the asset minus the futures price (or the yield of the hedged instrument minus the yield of the hedging instrument). Even when a hedge is carefully constructed, differences in delivery location, asset quality, maturity, or liquidity between the hedged item and the hedge instrument introduce residual risk that cannot be eliminated — only managed.",
+        "A classic real-world example is a jet fuel hedging program run by an airline. Airlines frequently hedge using crude oil or heating oil futures because liquid jet fuel futures markets are thin or unavailable at desirable tenors. If crude oil prices rise but refining margins compress simultaneously, jet fuel costs could still surge even as the crude hedge gains value — the basis has moved adversely. Similarly, a corporate treasurer hedging a floating-rate loan tied to SOFR using CME Eurodollar futures faces basis risk as those contracts reference different tenors and fixing conventions. The 2021-2023 LIBOR-to-SOFR transition introduced significant basis risk for firms that had mismatched legacy positions.",
+        "For risk managers and portfolio hedgers, basis risk is not a failure of hedging — it is an inherent cost and must be explicitly quantified, monitored, and disclosed. Hedge effectiveness testing under IFRS 9 and ASC 815 requires firms to demonstrate that the hedge offsets between 80% and 125% of the exposure's fair value changes; basis risk that widens beyond this band can cause hedge accounting to fail, triggering P&L volatility. Sophisticated risk managers use regression-based hedge ratios and scenario analysis to stress-test basis movements, particularly during market dislocations when correlations break down most violently."
       ],
       "key_takeaways": [
-        "Duration gap = Asset Duration − (Liabilities/Assets) × Liability Duration; a large positive gap signals rising-rate vulnerability.",
-        "The SVB failure in 2023 demonstrated how unhedged duration gaps can become solvency events when rates move sharply.",
-        "Interest rate swaps and active ALM are the primary tools institutions use to close dangerous duration mismatches."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
+        "Cross-commodity hedges (e.g., crude for jet fuel) and cross-rate hedges introduce more basis risk than direct hedges, requiring careful hedge ratio calibration.",
+        "Under IFRS 9 and ASC 815, excessive basis risk can disqualify a hedge for accounting treatment, forcing gains and losses through the income statement immediately."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; agreement",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "友達と明日の午後三時に会う約束をしました。",
-      "example_romaji": "Tomodachi to ashita no gogo sanji ni au yakusoku wo shimashita.",
-      "example_en": "I made a promise to meet my friend tomorrow at 3 PM.",
-      "grammar_point": "〜をしました (noun + を + する, past tense)",
-      "grammar_explanation": "In Japanese, many actions are expressed by taking a noun and adding 'する' (to do). '約束をする' literally means 'to do a promise,' which is the natural way to say 'to make a promise.' The past polite form is '〜をしました.'",
-      "memory_tip": "Think of 'yaku' as 'a contract' (like yakuza have strict codes) and 'soku' as 'speed' — a promise is a fast contract sealed between people. Once you make a yakusoku, you're bound like a legal agreement!"
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over budget this month.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something was completed, often with a nuance of regret or that the action happened unintentionally. It is the polite past form of 〜てしまう, very common in everyday conversation when describing mistakes or unexpected outcomes.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum you allocate for yourself. If you blow past your 'yo-san,' you use 〜てしまいました to apologetically confess it."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Automating Financial Research and Due Diligence Workflows",
-      "summary": "A new generation of autonomous AI agents — built on large language models augmented with tool use, memory, and multi-step reasoning — is beginning to replace or dramatically accelerate tasks that previously required junior analysts: earnings transcript summarization, covenant review, peer benchmarking, and regulatory filing analysis. Firms including Goldman Sachs, JPMorgan, and a wave of fintech startups are deploying these systems not just as copilots but as near-autonomous workers that can complete multi-hour research tasks in minutes. The competitive implications are significant: firms that deploy these agents effectively will compress research timelines and reallocate human capital toward higher-judgment activities like client relationships and thesis generation. The productivity gap between AI-native and laggard institutions is expected to widen materially over the next 24 months.",
+      "headline": "AI Agents Are Beginning to Execute Real Financial Transactions Autonomously",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step execution — is moving from research labs into live financial workflows. Early deployments include AI agents that can autonomously pull market data, run quantitative screens, draft trade tickets for human approval, and reconcile post-trade breaks. Firms like JPMorgan, BlackRock, and a cohort of fintech startups are piloting these systems with human-in-the-loop guardrails, but the direction is clearly toward greater autonomy. Regulators in the UK and EU are already drafting guidance on accountability frameworks when an AI agent — rather than a human — initiates a financial action.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, take sequential actions, use external tools (like web search or databases), and complete multi-step tasks with minimal human intervention — going beyond simple question-answering to actually executing financial workflows."
+          "definition": "AI systems that can autonomously break down a complex goal into sub-tasks, use external tools (APIs, databases, code execution), and iterate toward a solution with minimal human prompting — going far beyond simple question-answering to actually 'doing' multi-step work."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents (e.g., 10-Ks, research reports, loan agreements) from a database before generating its response, dramatically improving accuracy and grounding outputs in actual financial data rather than relying solely on training knowledge."
+          "definition": "A technique where an AI model queries a live or proprietary knowledge base (e.g., filings, research reports, risk databases) before generating a response, dramatically reducing hallucination and keeping outputs grounded in current, firm-specific data."
         },
         {
-          "term": "Structured Output Extraction",
-          "definition": "The ability of AI models to parse unstructured text — such as earnings call transcripts or credit agreements — and return clean, structured data (tables, JSON, key metrics) that can feed directly into financial models or risk systems."
+          "term": "Human-in-the-Loop (HITL)",
+          "definition": "A design principle where AI systems flag decisions above a certain risk or novelty threshold for human review before execution — critical in finance to maintain accountability, regulatory compliance, and override capability when models behave unexpectedly."
         }
       ],
-      "career_insight": "Finance professionals who can design, evaluate, and oversee AI agent workflows will command significant premiums over those who only consume AI outputs passively. The most valuable skill set in the next five years will be 'AI workflow architecture' — knowing which tasks to delegate to agents, how to validate their outputs, and where human judgment remains irreplaceable. Analysts and risk managers should invest time learning prompt engineering, RAG system design, and AI output auditing rather than treating these as purely IT concerns."
+      "career_insight": "Finance professionals who will thrive in the next five years are those who can act as 'AI orchestrators' — people who know enough about model behavior, data quality, and process design to deploy and supervise agentic systems responsibly. Deep domain expertise in credit, derivatives, or macro becomes more valuable, not less, because someone must define the objectives, validate the outputs, and own the outcomes when an AI agent executes. Invest now in understanding prompt engineering, RAG architecture basics, and AI governance frameworks — these are becoming baseline expectations in buy-side and risk management hiring."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite is cautiously constructive this morning as markets digest a resilient U.S. labor market print alongside cooling core PCE data, keeping the Fed in a prolonged hold posture and pushing the first rate cut expectation toward late Q3. Equity markets are grinding higher on the back of AI-driven capex optimism and better-than-feared earnings revisions, though credit spreads are beginning to widen slightly at the margin — a signal worth monitoring for signs of late-cycle credit stress. In FX, the dollar is softening modestly against the yen as BOJ rate-hike speculation reintensifies, while EM currencies with commodity exposure are catching a bid on firmer oil and copper prices."
+    "market_sentiment": "Global risk assets are navigating a complex macro backdrop as sticky services inflation in the US pushes back meaningful Fed rate-cut expectations into late 2025, keeping the front end of the Treasury curve elevated and the dollar broadly bid. Equity markets are showing a bifurcated response: mega-cap AI-linked tech continues to attract flows on structural earnings optimism, while rate-sensitive small caps and REITs remain under pressure. Credit spreads are tight relative to historical norms but could cheapen quickly if the labor market softens faster than expected — watch Friday's NFP print and any Fed speaker commentary for near-term catalysts."
   }
 }
