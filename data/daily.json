@@ -1,25 +1,18 @@
 {
-  "generated_at": "3:38 PM UTC",
-  "date": "Sunday, August 30, 2026",
+  "generated_at": "6:20 PM UTC",
+  "date": "Monday, August 31, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 77,
-    "feels_like_f": 78,
-    "high_f": 78,
-    "low_f": 77,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 78,
-    "wind_mph": 3,
+    "temp_f": 91,
+    "feels_like_f": 99,
+    "high_f": 93,
+    "low_f": 89,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 54,
+    "wind_mph": 1,
     "forecast": [
-      {
-        "day": "Mon",
-        "icon": "☀️",
-        "high": 75,
-        "low": 75,
-        "description": "Clear Sky"
-      },
       {
         "day": "Tue",
         "icon": "☀️",
@@ -29,10 +22,17 @@
       },
       {
         "day": "Wed",
-        "icon": "🌤️",
+        "icon": "☀️",
         "high": 78,
         "low": 78,
-        "description": "Few Clouds"
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Thu",
+        "icon": "☁️",
+        "high": 77,
+        "low": 77,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -41,45 +41,27 @@
     "tickers": [
       {
         "symbol": "SPY",
-        "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 769.35,
-        "change": -1.75,
-        "change_pct": -0.23,
-        "up": false,
-        "is_crypto": false,
-        "error": false
+        "error": true
       },
       {
         "symbol": "AAPL",
-        "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 319.7,
-        "change": 5.12,
-        "change_pct": 1.63,
-        "up": true,
-        "is_crypto": false,
-        "error": false
+        "error": true
       },
       {
         "symbol": "NVDA",
-        "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 217.55,
-        "change": -10.43,
-        "change_pct": -4.57,
-        "up": false,
-        "is_crypto": false,
-        "error": false
+        "error": true
       },
       {
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 348.75,
-        "change": -6.06,
-        "change_pct": -1.71,
-        "up": false,
+        "price": 367.75,
+        "change": 19.0,
+        "change_pct": 5.45,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +69,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 78796,
-        "change": 924.36,
-        "change_pct": 1.19,
+        "price": 79016.01,
+        "change": 131.3,
+        "change_pct": 0.17,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,10 +80,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2476.87,
-        "change": 32.88,
-        "change_pct": 1.35,
-        "up": true,
+        "price": 2477.6,
+        "change": -24.94,
+        "change_pct": -1.0,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +93,75 @@
     "error": false,
     "articles": [
       {
-        "title": "The Fed confronts a powerful new economic force - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
-        "description": "In meetings on how to steer the nation’s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found.",
-        "published": "12:32 PM UTC",
+        "title": "The World's Best-Selling Bourbon Brand Has Stayed On Top For Years - Mashed",
+        "source": "Mashed.com",
+        "url": "https://www.mashed.com/2245077/worlds-best-selling-bourbon-brand-jim-beam/",
+        "description": "Jim Beam is the world's best-selling bourbon. The brand has stayed on top for years, outselling its whiskey competitors by millions of cases per year.",
+        "published": "4:03 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Goodyear burning rubber and cash as turnaround plan continues - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html",
-        "description": "The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.",
-        "published": "12:00 PM UTC",
+        "title": "Most Neoclouds Suck At Security - SemiAnalysis",
+        "source": "Semianalysis.com",
+        "url": "https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security",
+        "description": "OpenAI vs HuggingFace, Container Escapes, Kernel Bypass, Network Policies, Security Keys, Multi-tenant Grafana, and a ClusterMAX 3.0 Preview",
+        "published": "3:46 PM UTC",
         "category": "Business"
       },
       {
-        "title": "What's the real retirement age in America? Here are 4 guesses - USA Today",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/29/retirement-age-in-america-social-security-medicare/91406670007/",
-        "description": "Americans used to think of 65 as the expected retirement age. But those days are gone, and today's retirement math is increasingly fuzzy.",
-        "published": "9:10 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "‘Force Restart’—Microsoft Changes Windows Update Next Month - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/zakdoffman/2026/08/29/force-restart-microsoft-changes-windows-update-next-month/",
-        "description": "Your Windows PC will force restart in September — here's why.",
-        "published": "6:59 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "PlayStation Plus Monthly Games Locked In For September 2026 - The Otaku's Study",
-        "source": "Otakustudy.com",
-        "url": "https://www.otakustudy.com/video-game/2026/08/playstation-plus-monthly-games-locked-in-for-september-2026/",
+        "title": "Exclusive | Aon Nears Roughly $17 Billion Deal for Insurance Brokerage USI - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/finance/aon-nears-roughly-17-billion-deal-for-insurance-brokerage-usi-fcc9fba9",
         "description": "",
-        "published": "6:17 AM UTC",
+        "published": "3:40 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Fans Are Marvelling At How Much Better GTA 6 Looks Compared To GTA 5 - Kotaku",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/fans-are-marvelling-at-how-much-better-gta-6-looks-compared-to-gta-5-2000729596",
+        "description": "Is Rockstar Games' much-anticipated GTA 6 the best thing since sliced bread, or just GTA 5 with a new coat of paint?",
+        "published": "5:11 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Fantasy football rankings 2026: Top sleepers, breakouts, busts by model that hit Daniel Jones' surprise year - CBS Sports",
-        "source": "CBS Sports",
-        "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-top-sleepers-breakouts-busts-by-model-that-hit-daniel-jones-surprise-year/",
-        "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
-        "published": "2:35 PM UTC",
-        "category": "General"
+        "title": "Fable Gets Forgiving PC Minimum Hardware Requirements and Potential 60 FPS Cap - TechPowerUp",
+        "source": "Techpowerup.com",
+        "url": "https://www.techpowerup.com/352143/fable-gets-forgiving-pc-minimum-hardware-requirements-and-potential-60-fps-cap",
+        "description": "Following the official announcement that Fable would be released on February 23, 2027, Playground Games and Xbox Game Studios have finally released the full PC minimum and recommended hardware require",
+        "published": "4:10 PM UTC",
+        "category": "Technology"
       },
       {
-        "title": "Song Yadong KOs Umar Nurmagomedov in massive UFC upset in Shanghai - ESPN",
-        "source": "ESPN",
-        "url": "https://www.espn.com/mma/story/_/id/49762250/song-yadong-kos-umar-nurmagomedov-massive-ufc-upset-shanghai",
-        "description": "Song Yadong pulled off a massive upset Saturday, knocking out heavily favored Umar Nurmagomedov in the men's bantamweight main event of UFC Fight Night in Shanghai.",
-        "published": "2:10 PM UTC",
-        "category": "General"
+        "title": "GeForce RTX 3080 Drops From 138 FPS to 4 FPS When DLSS 5 Neural Rendering is Enabled; Reports Confirm Similar Performance Drop With RTX 30 Series - Wccftech",
+        "source": "Wccftech",
+        "url": "https://wccftech.com/dlss-5-enabled-on-rtx-3080-in-deep-rock-galactic/",
+        "description": "DLSS 5 Neural Rendering runs on RTX 30 series but suffers a 97% FPS drop, making it unplayable, while RTX 50 series officially supports it",
+        "published": "3:19 PM UTC",
+        "category": "Technology"
       },
       {
-        "title": "Live updates: China-Nepal flood death toll passes 600 - CNN",
+        "title": "Live updates: Rescuers search for missing workers as death toll rises from devastating China-Nepal floods - CNN",
         "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/29/world/live-news/nepal-china-flood",
-        "description": "Rescue efforts are in their fourth day but Nepali authorities are warning they are struggling to cope with the number of decomposing bodies recovered. Follow for news updates.",
-        "published": "1:54 PM UTC",
+        "url": "https://www.cnn.com/2026/08/30/world/live-news/nepal-china-flood",
+        "description": "Survivors have returned to find little left of their communities as the death toll rises from last week’s catastrophic flooding at the China-Nepal border. Follow live updates.",
+        "published": "6:17 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Colts WR Keenan Allen arrested on drunken driving charges - NFL.com",
+        "source": "NFL News",
+        "url": "https://www.nfl.com/news/colts-wr-keenan-allen-arrested-drunken-driving-charges",
+        "description": "Keenan Allen, 34, was being held at the Marion County Arrestee Processing Center after his Sunday arrest.",
+        "published": "5:25 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "‘Coyote vs. Acme’ Snags No. 2 With $15.4M as ‘Spider-Man’ Nears ‘Avatar 2’; ‘Dog Stars’ Put to Sleep - The Hollywood Reporter",
+        "source": "Hollywood Reporter",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/coyote-vs-acme-box-office-spider-man-titanic-dog-stars-1236685104/",
+        "description": "Jacob Elordi's thriller from Ridley Scott settled for box office scraps, while Tom Holland's 'Brand New Day' topped 'Titanic' and 'Ne Zha 2' to hit No. 4 on the all-time global chart.",
+        "published": "5:15 PM UTC",
         "category": "General"
       }
     ]
@@ -179,46 +169,6 @@
   "sports": {
     "error": false,
     "matches": [
-      {
-        "home": "Liverpool",
-        "away": "Nottingham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
-        "time": "11:30 AM UTC",
-        "date": "Aug 29",
-        "highlighted": false
-      },
-      {
-        "home": "Bournemouth",
-        "away": "Everton",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
-        "time": "2:00 PM UTC",
-        "date": "Aug 29",
-        "highlighted": false
-      },
-      {
-        "home": "Coventry City",
-        "away": "Hull City",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
-        "time": "2:00 PM UTC",
-        "date": "Aug 29",
-        "highlighted": false
-      },
-      {
-        "home": "Tottenham",
-        "away": "Newcastle",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
-        "time": "4:30 PM UTC",
-        "date": "Aug 29",
-        "highlighted": false
-      },
       {
         "home": "Sunderland",
         "away": "Fulham",
@@ -252,9 +202,9 @@
       {
         "home": "Man United",
         "away": "Ipswich Town",
-        "home_score": 0,
-        "away_score": 0,
-        "status": "IN_PLAY",
+        "home_score": 5,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "3:30 PM UTC",
         "date": "Aug 30",
         "highlighted": false
@@ -342,75 +292,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Liverpool Eye RB Leipzig Midfielder Xavi Simons in Ambitious Winter Move",
-        "summary": "Liverpool's sporting directors are reportedly assessing the feasibility of a January approach for Dutch international Xavi Simons, currently on loan at RB Leipzig from PSG, as the club seeks creative midfield depth following injuries to key personnel. PSG's asking price remains a significant obstacle, with valuations north of €80m cited by French media.",
+        "headline": "Arsenal Ramp Up Interest in RB Leipzig Midfielder as Midfield Cover Priority",
+        "summary": "Arsenal's recruitment team has made initial contact with RB Leipzig over their combative central midfielder, with the Gunners looking to add depth and physicality to a midfield that has been tested by injuries during the current campaign. A January move is considered unlikely, with a summer approach seen as more realistic.",
         "clubs": [
-          "Liverpool",
-          "RB Leipzig",
-          "Paris Saint-Germain"
+          "Arsenal",
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Aston Villa Close to Securing Atletico Madrid Winger on Loan",
-        "summary": "Aston Villa are in advanced discussions to bring in a wide attacker from Atletico Madrid on a loan-to-buy arrangement as Unai Emery looks to bolster his attacking options for the second half of the season amid a congested Champions League and Premier League schedule. A medical is expected to be scheduled should the remaining fee structure details be agreed.",
+        "headline": "Wolves Striker Linked with Surprise Move to Aston Villa in January Window",
+        "summary": "Aston Villa are reportedly monitoring Wolverhampton Wanderers' front man as Unai Emery seeks a reliable backup option to cover their attacking options through a congested second half of the season. Wolves are reluctant to sell mid-season but financial pressures could force discussions.",
         "clubs": [
           "Aston Villa",
-          "Atletico Madrid"
+          "Wolverhampton Wanderers"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "This heavyweight clash at the Emirates carries enormous title implications, with Arsenal looking to reassert their credentials at the top of the table against a City side that has shown renewed consistency under Pep Guardiola following a turbulent autumn. Arsenal's high press and the electric home atmosphere could unsettle City's build-up play, but Guardiola's ability to exploit space on the counter through Haaland makes defensive discipline the defining factor. Both managers have scored tactical points in recent meetings, and expect a tightly contested, intensely physical 90 minutes with set pieces potentially proving decisive.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's most enduring modern rivalry resumes at the Etihad in what is effectively a six-point swing match with both clubs separated by just two points near the summit. City have looked imperious at home this season, with Erling Haaland returning to form after a minor knock, while Liverpool arrive riding a five-game unbeaten run under Slot's increasingly confident system. The tactical battle between City's positional play and Liverpool's high-energy press promises to be one of the defining contests of the season.",
       "key_players": [
         "Erling Haaland",
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Out",
-        "return": "Expected back in 6-8 weeks following knee procedure"
-      },
-      {
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Being assessed day-to-day; hamstring tightness reported ahead of Sunday's fixture"
+        "return": "Expected to be assessed on the morning of the match; full return anticipated within 1-2 weeks"
+      },
+      {
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Targeting return after the international break, approximately 2-3 weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank estimates the following for a corporate loan: Probability of Default (PD) = 2%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. The bank also estimates an asset correlation of 12% under the Basel IRB framework. Which of the following best describes the relationship between unexpected loss (UL) and economic capital?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income",
+      "question": "A portfolio manager uses a binomial interest rate tree to value a callable bond. The bond has a par value of $1,000, a 6% annual coupon, 3 years to maturity, and is callable at par after year 1. The option-adjusted spread (OAS) is best described as:",
       "options": {
-        "A": "Economic capital equals expected loss, since banks provision for expected losses through loan loss reserves.",
-        "B": "Economic capital is set to cover unexpected losses at a target confidence level, representing the difference between Value-at-Risk and expected loss.",
-        "C": "Unexpected loss is always zero for investment-grade borrowers, so economic capital requirements are minimal.",
-        "D": "Economic capital equals the product of PD, LGD, and EAD regardless of the confidence level chosen."
+        "A": "The spread added to each node of the benchmark spot rate curve so that the present value of the bond's cash flows equals its market price, ignoring the embedded option.",
+        "B": "The constant spread added to each node of the benchmark interest rate tree so that the model value of the bond equals its market price, after accounting for the embedded option.",
+        "C": "The difference between the bond's yield to maturity and the benchmark on-the-run Treasury yield of the same maturity.",
+        "D": "The spread that compensates investors solely for the credit risk of the issuer, stripped of any liquidity or optionality premium."
       },
       "correct": "B",
-      "explanation": "Economic capital is designed to absorb unexpected losses — the volatility around the mean (expected) loss — at a specified confidence level, typically 99.9% under Basel II IRB approaches. Expected loss (EL = PD × LGD × EAD = $90,000 here) is covered by loan loss provisions and pricing, not capital. The unexpected loss is the difference between the credit VaR at the chosen confidence level and the expected loss, and economic capital is sized to cover this gap, protecting the bank from insolvency under adverse but plausible scenarios."
+      "explanation": "The OAS is defined as the constant spread added to every node in the interest rate tree such that the model's present value of the bond's cash flows — with the embedded option properly modeled at each node — equals the bond's observed market price. Unlike the Z-spread, the OAS removes the distortion caused by the embedded option, isolating compensation for credit and liquidity risk. Option A describes the Z-spread methodology, which ignores embedded options. Option C is simply the nominal spread, which is the crudest measure and does not use a rate tree."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding the gap between a hedge instrument and the underlying exposure, and why perfect hedges rarely exist in practice.",
+      "title": "Basis Risk in Interest Rate Hedges",
+      "subtitle": "Why hedging with futures or swaps rarely eliminates all interest rate exposure, and how residual basis risk can erode a portfolio's protection.",
       "paragraphs": [
-        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the price of the underlying exposure being hedged. The 'basis' is formally defined as the spot price of the asset minus the futures price (or the yield of the hedged instrument minus the yield of the hedging instrument). Even when a hedge is carefully constructed, differences in delivery location, asset quality, maturity, or liquidity between the hedged item and the hedge instrument introduce residual risk that cannot be eliminated — only managed.",
-        "A classic real-world example is a jet fuel hedging program run by an airline. Airlines frequently hedge using crude oil or heating oil futures because liquid jet fuel futures markets are thin or unavailable at desirable tenors. If crude oil prices rise but refining margins compress simultaneously, jet fuel costs could still surge even as the crude hedge gains value — the basis has moved adversely. Similarly, a corporate treasurer hedging a floating-rate loan tied to SOFR using CME Eurodollar futures faces basis risk as those contracts reference different tenors and fixing conventions. The 2021-2023 LIBOR-to-SOFR transition introduced significant basis risk for firms that had mismatched legacy positions.",
-        "For risk managers and portfolio hedgers, basis risk is not a failure of hedging — it is an inherent cost and must be explicitly quantified, monitored, and disclosed. Hedge effectiveness testing under IFRS 9 and ASC 815 requires firms to demonstrate that the hedge offsets between 80% and 125% of the exposure's fair value changes; basis risk that widens beyond this band can cause hedge accounting to fail, triggering P&L volatility. Sophisticated risk managers use regression-based hedge ratios and scenario analysis to stress-test basis movements, particularly during market dislocations when correlations break down most violently."
+        "Basis risk arises whenever the instrument used to hedge an exposure does not move in perfect lockstep with the underlying risk being hedged. In interest rate markets, basis risk is the difference between the spot rate (or the rate on the asset being hedged) and the rate implied by the hedging instrument — typically a futures contract or an interest rate swap. Because no two instruments are perfectly correlated across all maturities and market conditions, a hedge that looks clean on paper can leave a portfolio exposed to the spread between the two rates moving adversely. This spread, known simply as 'the basis,' can widen or narrow unexpectedly, producing gains or losses that offset the hedge's intended protection.",
+        "A practical example is a corporate treasurer who holds a floating-rate loan indexed to SOFR and attempts to hedge rising rates by entering a pay-fixed interest rate swap indexed to a slightly different tenor or reset convention. If the loan resets monthly at one-month SOFR but the swap references three-month SOFR, any divergence between these two rates — which occurred dramatically during the 2023 regional banking stress — creates a residual P&L that the hedger cannot neutralize without adding a basis swap. Similarly, a bond portfolio manager hedging duration with Treasury futures faces basis risk if the cheapest-to-deliver bond changes, altering the futures price relative to the portfolio's cash bonds.",
+        "For risk managers, basis risk demands that hedge effectiveness be tested under stressed correlation scenarios, not just normal-market assumptions. Accounting standards such as IFRS 9 and ASC 815 require hedge effectiveness testing, but these tests can mask basis risk that materializes only in tail events. Portfolio managers should explicitly quantify the 'basis DV01' — the dollar sensitivity to a one-basis-point change in the basis — and stress-test it alongside their primary rate exposure. Ignoring basis risk is one of the most common reasons that interest rate hedges perform poorly precisely when protection is most needed."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Cross-commodity hedges (e.g., crude for jet fuel) and cross-rate hedges introduce more basis risk than direct hedges, requiring careful hedge ratio calibration.",
-        "Under IFRS 9 and ASC 815, excessive basis risk can disqualify a hedge for accounting treatment, forcing gains and losses through the income statement immediately."
+        "Basis risk is the residual exposure that remains after hedging, arising from imperfect correlation between the hedging instrument and the underlying exposure.",
+        "Changes in the cheapest-to-deliver bond, reference rate tenor mismatches, and liquidity differences are common sources of basis risk in rate hedges.",
+        "Risk managers should measure basis DV01 separately and stress-test it under historical dislocation scenarios to avoid being surprised when a hedge underperforms."
       ]
     },
     "japanese": {
@@ -418,33 +367,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something was completed, often with a nuance of regret or that the action happened unintentionally. It is the polite past form of 〜てしまう, very common in everyday conversation when describing mistakes or unexpected outcomes.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum you allocate for yourself. If you blow past your 'yo-san,' you use 〜てしまいました to apologetically confess it."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened and it cannot be undone. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-san' as 'Yo, SAN (three) people planned this budget together' — planning money in advance is exactly what a budget does. The kanji 予 means 'beforehand' and 算 means 'calculate,' so you are literally calculating in advance."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Execute Real Financial Transactions Autonomously",
-      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step execution — is moving from research labs into live financial workflows. Early deployments include AI agents that can autonomously pull market data, run quantitative screens, draft trade tickets for human approval, and reconcile post-trade breaks. Firms like JPMorgan, BlackRock, and a cohort of fintech startups are piloting these systems with human-in-the-loop guardrails, but the direction is clearly toward greater autonomy. Regulators in the UK and EU are already drafting guidance on accountability frameworks when an AI agent — rather than a human — initiates a financial action.",
+      "headline": "AI Agents Are Now Drafting Credit Memos and Equity Research Reports",
+      "summary": "Several tier-one investment banks and credit rating agencies are piloting autonomous AI agents capable of ingesting earnings transcripts, 10-K filings, and market data to produce first-draft credit memos and equity research summaries with minimal human input. These systems go beyond simple summarization — they apply configurable analytical frameworks, flag covenant breaches, and benchmark issuer metrics against peer universes. Early results suggest a 60-70% reduction in the time junior analysts spend on data gathering and initial drafting, compressing the research production cycle from days to hours. The implication is not mass layoffs but a sharp shift in what constitutes value-added work at every level of the investment process.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously break down a complex goal into sub-tasks, use external tools (APIs, databases, code execution), and iterate toward a solution with minimal human prompting — going far beyond simple question-answering to actually 'doing' multi-step work."
+          "definition": "An AI system that can autonomously plan and execute multi-step tasks — such as retrieving filings, running calculations, and drafting documents — without requiring human prompting at each step, unlike a simple chatbot."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries a live or proprietary knowledge base (e.g., filings, research reports, risk databases) before generating a response, dramatically reducing hallucination and keeping outputs grounded in current, firm-specific data."
+          "definition": "A technique where an AI model queries a live or proprietary database (e.g., Bloomberg, SEC EDGAR) at inference time to ground its outputs in current, factual data, reducing the hallucination risk that plagues static language models in financial contexts."
         },
         {
           "term": "Human-in-the-Loop (HITL)",
-          "definition": "A design principle where AI systems flag decisions above a certain risk or novelty threshold for human review before execution — critical in finance to maintain accountability, regulatory compliance, and override capability when models behave unexpectedly."
+          "definition": "A workflow design where AI handles high-volume routine tasks but a human expert reviews, edits, and approves final outputs — currently the dominant deployment model in regulated financial institutions to satisfy compliance and liability requirements."
         }
       ],
-      "career_insight": "Finance professionals who will thrive in the next five years are those who can act as 'AI orchestrators' — people who know enough about model behavior, data quality, and process design to deploy and supervise agentic systems responsibly. Deep domain expertise in credit, derivatives, or macro becomes more valuable, not less, because someone must define the objectives, validate the outputs, and own the outcomes when an AI agent executes. Invest now in understanding prompt engineering, RAG architecture basics, and AI governance frameworks — these are becoming baseline expectations in buy-side and risk management hiring."
+      "career_insight": "Finance professionals who will thrive are those who can act as effective 'AI supervisors' — understanding enough about model behavior to catch errors, reframe prompts, and interpret outputs critically rather than passively accepting them. Skills in structured data interpretation, financial statement analysis, and regulatory judgment are becoming more valuable, not less, because they are precisely what is needed to audit AI-generated work product. Analysts who invest now in understanding how RAG pipelines and agentic workflows function will be positioned to design, oversee, and improve these systems rather than be replaced by them."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a complex macro backdrop as sticky services inflation in the US pushes back meaningful Fed rate-cut expectations into late 2025, keeping the front end of the Treasury curve elevated and the dollar broadly bid. Equity markets are showing a bifurcated response: mega-cap AI-linked tech continues to attract flows on structural earnings optimism, while rate-sensitive small caps and REITs remain under pressure. Credit spreads are tight relative to historical norms but could cheapen quickly if the labor market softens faster than expected — watch Friday's NFP print and any Fed speaker commentary for near-term catalysts."
+    "market_sentiment": "Global equities enter the session with a cautiously constructive tone as Fed officials continue to signal patience on rate cuts, keeping the two-year Treasury yield anchored near 4.75% and steepening the curve modestly. Risk appetite is supported by resilient U.S. labor market data and a softer dollar, though elevated crude oil prices — Brent hovering above $88 — are rekindling stagflation concerns that could complicate the disinflation narrative heading into next month's CPI print. Credit spreads remain tight in investment grade, but high yield is showing early signs of dispersion, with energy and consumer discretionary names widening, suggesting the market is beginning to price idiosyncratic risk more carefully beneath the calm surface."
   }
 }
