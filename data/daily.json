@@ -1,30 +1,23 @@
 {
-  "generated_at": "3:29 PM UTC",
-  "date": "Wednesday, September 2, 2026",
+  "generated_at": "3:23 PM UTC",
+  "date": "Thursday, September 3, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 91,
-    "feels_like_f": 100,
-    "high_f": 93,
-    "low_f": 88,
+    "feels_like_f": 104,
+    "high_f": 94,
+    "low_f": 89,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 59,
+    "humidity": 63,
     "wind_mph": 5,
     "forecast": [
       {
-        "day": "Thu",
+        "day": "Fri",
         "icon": "☀️",
         "high": 75,
         "low": 75,
-        "description": "Clear Sky"
-      },
-      {
-        "day": "Fri",
-        "icon": "☀️",
-        "high": 77,
-        "low": 77,
         "description": "Clear Sky"
       },
       {
@@ -33,6 +26,13 @@
         "high": 78,
         "low": 78,
         "description": "Clear Sky"
+      },
+      {
+        "day": "Sun",
+        "icon": "☁️",
+        "high": 71,
+        "low": 71,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 766.28,
-        "change": 4.5,
-        "change_pct": 0.59,
+        "price": 771.93,
+        "change": 6.77,
+        "change_pct": 0.88,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 325.84,
-        "change": 0.71,
-        "change_pct": 0.22,
+        "price": 329.98,
+        "change": 5.02,
+        "change_pct": 1.54,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 226.62,
-        "change": 9.18,
-        "change_pct": 4.22,
+        "price": 227,
+        "change": 2.59,
+        "change_pct": 1.15,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 354.48,
-        "change": -1.61,
-        "change_pct": -0.45,
-        "up": false,
+        "price": 379.82,
+        "change": 22.81,
+        "change_pct": 6.39,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77015.99,
-        "change": -858.25,
-        "change_pct": -1.1,
-        "up": false,
+        "price": 80718.06,
+        "change": 3664.13,
+        "change_pct": 4.76,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2387.14,
-        "change": -56.01,
-        "change_pct": -2.29,
-        "up": false,
+        "price": 2488.24,
+        "change": 98.38,
+        "change_pct": 4.12,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,66 +111,85 @@
     "error": false,
     "articles": [
       {
-        "title": "US Job Openings Edge Higher in Sign of Stable Labor Demand - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-01/us-job-openings-edge-higher-in-sign-of-stable-labor-demand",
-        "description": "US job openings edged higher in July and layoffs fell, suggesting demand for workers remains stable at a subdued level.",
-        "published": "2:38 PM UTC",
+        "title": "Dell, Credo, Palo Alto, MongoDB, Uber, GitLab, and More Stocks That Explain Today’s Market - Barron's",
+        "source": "Barron's",
+        "url": "https://www.barrons.com/articles/stock-movers-4fed2750",
+        "description": "Dell’s second-quarter earnings top expectations thanks to the AI boom, but Palo Alto Networks tumbles as investors take profits.",
+        "published": "2:28 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up - CNBC",
+        "title": "How Amazon’s ‘Secret’ Ad Pricing System Worked, According to the FTC - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/business/media/how-amazons-secret-ad-pricing-system-worked-according-to-the-ftc-24c0d78a",
+        "description": "",
+        "published": "2:26 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "G20 live updates: Nvidia's Huang pushes for AI infrastructure in every country - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
-        "description": "Waymo is bringing driverless rides to three more cities, and Amazon plans to start testing in two additional U.S. markets.",
-        "published": "2:00 PM UTC",
+        "url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+        "description": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.",
+        "published": "2:01 PM UTC",
         "category": "Business"
       },
       {
-        "title": "2027 Lexus NX Debuts With A New Look And More Hybrid Power - Motor1.com",
-        "source": "Motor1 ",
-        "url": "https://www.motor1.com/news/806656/lexus-nx-redesign-powertrains-specs/",
-        "description": "Lexus has updated the NX, giving the crossover the brand’s latest hybrid technology wrapped in a tweaked exterior and redesigned cabin. Here are the details.",
-        "published": "1:58 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "I left corporate America for a gap year in my 40s. The experience changed my spending and priorities. - Business Insider",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/midlife-gap-year-career-break-corporate-america-2026-9#article",
-        "description": "After 20 years in corporate America, I took a midlife gap year. It changed my priorities and helped me find a more flexible career.",
-        "published": "3:33 PM UTC",
+        "title": "Tomb Raider: Legacy of Atlantis isn't even out yet, but already it feels like an old relic - in all the wrong ways - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gamescom-preview",
+        "description": "Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tom…",
+        "published": "1:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "iPhone 18 Pro Colors Apparently Include Black, But Skip Silver - MacRumors",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/09/01/iphone-18-pro-colors-include-black-but-skip-silver/",
-        "description": "iPhone 18 Pro colors could include Dark Cherry, Sky Blue, and Black, with a Silver option unlikely to make the final lineup, according to the leaker...",
-        "published": "3:22 PM UTC",
+        "title": "Samsung Updates Free Upgrade List With Millions More Galaxy Phones - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/jaymcgregor/2026/09/02/samsung-confirms-one-one-ui-9-update-for-galaxy-s26-ultra-galaxy-s25/",
+        "description": "",
+        "published": "12:47 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "No Rest for the Wicked delayed to March 2027 - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/no-rest-for-the-wicked-delayed-to-march-2027",
-        "description": "Moon Studios has delayed the version 1.0 release of action RPG No Rest for the Wicked from its previously planned October 2026 release window to March 2027. It will be available for PlayStation 5 a…",
-        "published": "3:10 PM UTC",
+        "title": "SteamDB acquired by Nexus Mods after 13 years as an independent Steam database - VideoCardz.com",
+        "source": "Videocardz.com",
+        "url": "https://videocardz.com/newz/steamdb-acquired-by-nexus-mods-after-13-years-as-an-independent-steam-database",
+        "description": "SteamDB has been acquired by the company behind Nexus Mods after its founder said maintaining the service had become a full-time workload. The site will remain free and separate.",
+        "published": "12:46 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Lindsay Clancy jurors are deadlocked, judge sends them back for more deliberations - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/jury-lindsay-clancy-trial-deadlocked-judge-sends-back-deliberation-rcna595511",
-        "description": "The jury in Lindsay Clancy’s murder trial told the judge Tuesday morning that it was unable to come to a unanimous decision at the start of a fourth day of deliberations.",
-        "published": "4:25 PM UTC",
+        "title": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/vaccine-fall-flu-covid19-rsv-sick-season-7b08ff2a2438e5e99db6ecca742bff55",
+        "description": "Leading U.S. medical groups are urging people to get updated flu and COVID-19 vaccinations this fall. They banded together to offer recommendations Wednesday, saying they hope to lessen confusion afte",
+        "published": "2:19 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/tiger-woods-dui-crash-plea-change-04efe75a28deb0c3ffdf70a35f88d640",
+        "description": "Tiger Woods has pleaded no contest to a reckless driving charge in Florida. Woods was arrested in March following a rollover crash near his home on Jupiter Island and was initially charged with drivin",
+        "published": "1:27 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [],
+    "matches": [
+      {
+        "home": "Ipswich Town",
+        "away": "Liverpool",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "Sep 4",
+        "highlighted": false
+      }
+    ],
     "standings": [
       {
         "position": 1,
@@ -243,107 +262,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Summer Move for RB Leipzig Midfielder Xavi Simons",
-        "summary": "Arsenal's technical directors are reportedly monitoring Xavi Simons as a priority creative midfield target for the summer window, with Leipzig's asking price understood to be in the region of £70 million. PSG retain a buyback clause that could complicate any deal.",
+        "headline": "Arsenal Accelerate Pursuit of Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are reportedly in advanced discussions with a top Bundesliga club over a defensive midfielder valued at around £55 million, with Mikel Arteta keen to add physical presence and pressing intensity to a midfield that has been stretched by Thomas Partey's persistent injury issues this season.",
         "clubs": [
           "Arsenal",
-          "RB Leipzig"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Nicolas Jackson Contract Amid Striker Links",
-        "summary": "Chelsea are pushing to tie Nicolas Jackson down to an improved long-term deal as the club simultaneously scout alternative striking options, signaling a belt-and-suspenders approach to their forward planning for next season.",
+        "headline": "Manchester City Eye Napoli Striker as Haaland Cover This Summer",
+        "summary": "Manchester City's recruitment team has identified a prolific Serie A striker as a potential backup and long-term heir to Erling Haaland, with initial contact made ahead of what could be a £60–70 million summer move if City secure Champions League football.",
         "clubs": [
-          "Chelsea"
+          "Manchester City",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
+      "home": "Liverpool",
+      "away": "Chelsea",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The defining fixture of the Premier League season arrives at the Etihad as Manchester City host Liverpool in a match that could reshape the title race with just nine games remaining. City have rediscovered their form under Guardiola after a turbulent winter, winning six of their last eight, while Liverpool arrive as league leaders buoyed by a devastating attacking unit and Mohamed Salah's relentless goal contributions. The tactical battle between Guardiola's high press suppression and Slot's vertical transitions promises to be one of the season's most compelling 90 minutes.",
+      "preview": "Anfield hosts a high-voltage top-four clash as Liverpool, pushing hard for the title, welcome a Chelsea side that has found remarkable consistency under their manager and sit just three points behind in the table. Liverpool will look to exploit Chelsea's high defensive line with the pace of their forwards, while Chelsea's pressing system has caused problems for even the most organized defenses this season. The outcome could have significant implications for the title race and Champions League qualification picture simultaneously.",
       "key_players": [
         "Mohamed Salah",
-        "Erling Haaland",
-        "Alexis Mac Allister"
+        "Cole Palmer",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Late fitness test expected Saturday; targeting return within 1 week"
-      },
-      {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Still targeting end-of-season return; unlikely before April"
+        "return": "No return expected this season — long-term ACL rehabilitation ongoing"
+      },
+      {
+        "player": "Reece James",
+        "team": "Chelsea",
+        "status": "Doubtful",
+        "return": "Hamstring strain; fitness assessment scheduled ahead of the weekend fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds and wants to estimate the Expected Shortfall (ES) at the 97.5% confidence level using a Gaussian copula model. Which of the following is the most significant limitation of using a Gaussian copula to model credit portfolio losses?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If the yield to maturity increases by 50 basis points, which of the following best describes the expected price change, and why does convexity matter in this context?",
       "options": {
-        "A": "It cannot incorporate correlation between default events across different obligors.",
-        "B": "It systematically underestimates tail dependence, leading to underestimation of joint default probabilities in stress scenarios.",
-        "C": "It overstates diversification benefits only when the portfolio consists of investment-grade bonds.",
-        "D": "It assumes that marginal default probabilities follow a lognormal distribution, which inflates credit spreads."
+        "A": "The price will fall by exactly the amount predicted by duration alone, because convexity is only relevant for large yield changes.",
+        "B": "The price will fall by slightly less than predicted by duration alone, because positive convexity causes the price-yield relationship to be curved, benefiting bondholders when yields rise.",
+        "C": "The price will fall by slightly more than predicted by duration alone, because convexity amplifies losses when yields increase.",
+        "D": "The price change will be identical regardless of convexity, since convexity adjustments only apply to zero-coupon bonds."
       },
       "correct": "B",
-      "explanation": "The Gaussian copula captures linear correlation between obligors but has near-zero tail dependence, meaning it severely underestimates the probability that many obligors default simultaneously during market stress. This was a central flaw exposed during the 2007–2008 financial crisis, where CDO tranches modeled with Gaussian copulas experienced far greater correlated defaults than the model predicted. Copulas with heavier tails, such as the Student-t copula, better capture this joint tail behavior. Options A and D are factually incorrect, and C is an overly narrow and incorrect characterization."
+      "explanation": "For a standard option-free bond, convexity is positive, meaning the actual price-yield curve is convex (bowed toward the origin) relative to the tangent line represented by duration. When yields rise, duration alone overpredicts the price decline; the convexity adjustment partially offsets that loss, so the actual price fall is slightly less than the duration estimate. This is expressed as: ΔP/P ≈ -D* × Δy + ½ × Convexity × (Δy)². Positive convexity is always beneficial to the bondholder — it cushions losses when yields rise and amplifies gains when yields fall."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why imperfect hedges can leave risk managers exposed even when the trade looks right on paper.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why perfect hedges rarely exist in practice, and how residual basis risk can undermine even well-structured risk management strategies.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep. The 'basis' is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a hedge is well-constructed, changes in this spread — driven by liquidity differences, delivery location, contract maturity, or credit quality mismatches — can result in residual, unhedged exposure that erodes the effectiveness of the position.",
-        "A classic real-world example involves an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil are related but distinct commodities, their price relationship can shift dramatically during supply shocks or refinery disruptions. In 2022, several European utilities faced severe basis risk when natural gas spot prices in their domestic markets diverged sharply from the TTF benchmark used in their hedge contracts, resulting in massive margin calls and unexpected P&L losses despite being 'hedged.'",
-        "For risk managers and portfolio managers, basis risk must be quantified and stress-tested — not assumed away. Hedge ratios should be dynamically adjusted using regression analysis on historical spot-futures relationships, and scenario analysis should model periods where the basis widens unexpectedly. Regulatory frameworks such as IFRS 9 hedge accounting also require firms to demonstrate hedge effectiveness within defined bands, making basis risk a compliance issue as much as a financial one."
+        "Basis risk arises when the hedging instrument and the underlying exposure do not move in perfect lockstep. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the contract used. Even when a hedge appears tightly constructed — matching maturity, notional, and asset class — differences in liquidity, credit quality, geography, or contract specifications can cause the two legs to diverge. This divergence is basis risk, and it means that a hedger substitutes basis risk for outright price risk, accepting a known but uncertain residual exposure in place of an unbounded one.",
+        "A classic real-world example emerged during the 2022 energy crisis in Europe. Many utility companies had hedged their natural gas exposure using TTF (Title Transfer Facility) futures, but their physical supply came from pipeline sources priced against different regional benchmarks. When the spread between TTF and those benchmarks widened dramatically following the disruption of Russian supply routes, hedges that had looked robust on paper produced significant mark-to-market losses even as physical costs rose. Airlines face a structurally similar problem: they hedge jet fuel using crude oil or heating oil futures, and the crack spread — the refining margin between crude and jet fuel — can move independently, leaving them exposed even in a 'fully hedged' book.",
+        "For investors and risk managers, basis risk demands that hedge effectiveness be tested rigorously using regression analysis and rolling correlation studies, not assumed. Under IFRS 9 and ASC 815, hedge accounting qualification requires demonstrated effectiveness, and high basis risk can disqualify a hedge from favorable accounting treatment — forcing mark-to-market volatility through the income statement. Risk managers should stress-test basis under historical crisis scenarios, size hedges using the minimum-variance hedge ratio (ρ × σ_S/σ_F), and consider whether a cross-hedge introduces more complexity than it resolves."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedged item and the hedging instrument.",
-        "Real-world events like commodity supply shocks or credit spread divergence can cause the basis to widen dramatically, turning a 'hedged' position into a loss-maker.",
-        "Effective hedge management requires ongoing monitoring, dynamic hedge ratio recalibration, and explicit stress testing of basis widening scenarios."
+        "Basis risk is the irreducible residual exposure that remains after hedging — it replaces price risk but does not eliminate risk entirely.",
+        "Cross-hedges (hedging with a correlated but non-identical instrument) are especially vulnerable to basis widening during market stress, exactly when protection is most needed.",
+        "The minimum-variance hedge ratio accounts for correlation and relative volatility, and should be dynamically recalculated as market conditions evolve."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved up",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wa mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまいました to mean something was done completely or unfortunately.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you are allowed to spend. Once your 'yo-san' is gone, it's gone!"
+      "example_jp": "毎月、給料の一部を貯金しています。",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_en": "Every month, I save a portion of my salary.",
+      "grammar_point": "〜ています (ongoing action/habit)",
+      "grammar_explanation": "The pattern 〜ています (te-form + います) expresses either an action currently in progress or a habitual/repeated action. Here, 貯金しています means 'I am in the habit of saving' — it describes a regular routine rather than something happening right now at this exact moment.",
+      "memory_tip": "Think of 貯 (cho) as 'storing' — like a 'cho-pper' storing things in a box — and 金 (kin) means 'gold/money.' So 貯金 is literally 'storing gold': your piggy bank of savings."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending and Risk Desks",
-      "summary": "Major banks and fintech lenders are deploying large language models and gradient boosting ensembles to augment — and in some cases replace — traditional scorecard-based credit underwriting. These systems ingest alternative data sources including transaction histories, behavioral signals, and even unstructured text from financial statements to generate dynamic credit assessments that update in near real-time. Regulators in the EU and US are now demanding explainability frameworks, pushing firms toward interpretable ML methods like SHAP values alongside their predictive models. The implication is a fundamental restructuring of credit risk teams, with demand surging for professionals who sit at the intersection of quantitative risk modeling and AI governance.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Lending Risk Models Fundamentally",
+      "summary": "Major financial institutions are deploying large language models and gradient-boosted machine learning systems to augment — and in some cases replace — traditional scorecard-based credit underwriting. Unlike FICO-dependent models, these systems ingest thousands of alternative data signals: cash flow patterns, transaction velocity, payroll timing, and even supply chain metadata. Early results from lenders using these models show materially lower default rates at equivalent approval volumes, though regulators in the US and EU are scrutinizing explainability obligations under fair lending laws and the EU AI Act. The central tension for risk professionals is that model accuracy and model interpretability remain in fundamental conflict, demanding new governance frameworks that can satisfy both performance and compliance objectives simultaneously.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions for structured financial data like credit scoring and fraud detection."
-        },
-        {
-          "term": "SHAP Values (SHapley Additive exPlanations)",
-          "definition": "A method borrowed from game theory that assigns each input variable a contribution score to a model's prediction, allowing risk managers and regulators to understand why an AI model made a specific credit or trading decision."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds decision trees sequentially, each correcting the errors of the last. In credit risk, it outperforms logistic regression on complex, non-linear datasets but requires careful feature engineering and SHAP-value analysis to meet explainability requirements."
         },
         {
           "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as utility payments, e-commerce activity, geolocation, or satellite imagery — used by AI models to assess creditworthiness or investment signals, especially for thin-file borrowers or emerging markets."
+          "definition": "Non-traditional data sources — such as bank transaction histories, rental payment records, mobile usage patterns, or e-commerce behavior — used to assess creditworthiness for borrowers who are thin-file or invisible to conventional bureau models."
+        },
+        {
+          "term": "Model Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) values decompose a model's output into the contribution of each input feature for a given prediction. In regulated finance, this technique allows risk teams to tell a regulator or rejected applicant precisely why a model made its decision."
         }
       ],
-      "career_insight": "Risk managers and credit analysts who can validate, govern, and challenge AI-generated outputs are becoming among the most sought-after professionals in financial services. Technical fluency in Python, an understanding of model risk management (SR 11-7 guidelines), and the ability to translate model behavior into regulatory language are now core career differentiators — not optional add-ons."
+      "career_insight": "Credit analysts and risk managers who can bridge quantitative modeling and regulatory compliance are commanding a significant premium in the labor market. The most valuable skill combination in 2025 is not Python alone — it is Python plus deep knowledge of model risk management frameworks (SR 11-7), fair lending regulation, and the ability to translate model outputs into board-level risk narratives. Professionals who invest now in understanding ML interpretability tools will be positioned at the intersection of innovation and governance, the most defensible career position in finance AI."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the session, with equity futures pointing modestly higher as markets digest a softer-than-expected US core PCE print that has reinforced the Fed's patient pivot narrative. The dollar is trading heavy against G10 peers, supporting EM assets and gold, while front-end Treasury yields drift lower as the rates market prices roughly 40bps of cuts by year-end. Credit spreads in IG are grinding tighter, though HY remains choppy on lingering concerns around refinancing walls in leveraged loans; all eyes turn to this week's NFP print and Fed speaker commentary for the next directional catalyst."
+    "market_sentiment": "Equity markets are navigating a delicate macro crossroads as sticky services inflation and resilient US labor data push back expectations for Fed rate cuts into late Q3 at the earliest, keeping front-end rates elevated and pressuring rate-sensitive sectors. Risk sentiment has been supported by robust S&P 500 earnings beats — particularly in technology and industrials — but breadth remains narrow, with mega-cap concentration masking underlying weakness in small-caps and regional banks. EM currencies face renewed pressure from a firmer dollar and rising US real yields, while credit spreads have widened modestly in leveraged loans, signaling that higher-for-longer is beginning to bite at the margin of corporate balance sheets."
   }
 }
