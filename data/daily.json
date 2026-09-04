@@ -1,34 +1,34 @@
 {
-  "generated_at": "3:23 PM UTC",
-  "date": "Thursday, September 3, 2026",
+  "generated_at": "3:19 PM UTC",
+  "date": "Friday, September 4, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 91,
-    "feels_like_f": 104,
-    "high_f": 94,
-    "low_f": 89,
+    "temp_f": 88,
+    "feels_like_f": 100,
+    "high_f": 90,
+    "low_f": 86,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 63,
-    "wind_mph": 5,
+    "humidity": 69,
+    "wind_mph": 6,
     "forecast": [
       {
-        "day": "Fri",
-        "icon": "☀️",
+        "day": "Sat",
+        "icon": "🌤️",
         "high": 75,
         "low": 75,
-        "description": "Clear Sky"
-      },
-      {
-        "day": "Sat",
-        "icon": "☀️",
-        "high": 78,
-        "low": 78,
-        "description": "Clear Sky"
+        "description": "Few Clouds"
       },
       {
         "day": "Sun",
+        "icon": "☁️",
+        "high": 74,
+        "low": 74,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Mon",
         "icon": "☁️",
         "high": 71,
         "low": 71,
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 771.93,
-        "change": 6.77,
-        "change_pct": 0.88,
-        "up": true,
+        "price": 769.39,
+        "change": -3.78,
+        "change_pct": -0.49,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 329.98,
-        "change": 5.02,
-        "change_pct": 1.54,
-        "up": true,
+        "price": 318.91,
+        "change": -9.3,
+        "change_pct": -2.83,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 227,
-        "change": 2.59,
-        "change_pct": 1.15,
+        "price": 232.21,
+        "change": 3.76,
+        "change_pct": 1.65,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 379.82,
-        "change": 22.81,
-        "change_pct": 6.39,
-        "up": true,
+        "price": 352.12,
+        "change": -24.25,
+        "change_pct": -6.44,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 80718.06,
-        "change": 3664.13,
-        "change_pct": 4.76,
-        "up": true,
+        "price": 79277.04,
+        "change": -1308.18,
+        "change_pct": -1.62,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2488.24,
-        "change": 98.38,
-        "change_pct": 4.12,
-        "up": true,
+        "price": 2451.11,
+        "change": -34.99,
+        "change_pct": -1.41,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Dell, Credo, Palo Alto, MongoDB, Uber, GitLab, and More Stocks That Explain Today’s Market - Barron's",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/stock-movers-4fed2750",
-        "description": "Dell’s second-quarter earnings top expectations thanks to the AI boom, but Palo Alto Networks tumbles as investors take profits.",
-        "published": "2:28 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "How Amazon’s ‘Secret’ Ad Pricing System Worked, According to the FTC - WSJ",
+        "title": "Trump Wants Big Oil to Build More Refineries. That’s a Tough Sell. - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/media/how-amazons-secret-ad-pricing-system-worked-according-to-the-ftc-24c0d78a",
+        "url": "https://www.wsj.com/business/energy-oil/trump-wants-big-oil-to-build-more-refineries-thats-a-tough-sell-54666292",
         "description": "",
-        "published": "2:26 PM UTC",
+        "published": "2:17 PM UTC",
         "category": "Business"
       },
       {
-        "title": "G20 live updates: Nvidia's Huang pushes for AI infrastructure in every country - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-        "description": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.",
-        "published": "2:01 PM UTC",
+        "title": "Snowflake Jumps on Revenue Outlook, Uptake of AI Assistant - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/snowflake-jumps-on-revenue-outlook-uptake-of-ai-assistant",
+        "description": "Snowflake Inc. shares jumped by the most in three months after the company raised its outlook for annual sales, topping analysts’ estimates, and touted rapid adoption of its AI-assisted coding tool.",
+        "published": "1:35 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Tomb Raider: Legacy of Atlantis isn't even out yet, but already it feels like an old relic - in all the wrong ways - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gamescom-preview",
-        "description": "Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tom…",
-        "published": "1:00 PM UTC",
+        "title": "One-star reviews of airports: ‘Feels like psychological torture’ - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/travel/2026/09/03/one-star-reviews-airports-feels-like-psychological-torture/",
+        "description": "Travelers vent about confusing layouts, surly staff, paltry dining choices and rodents.",
+        "published": "1:32 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Final Fantasy VII Revelation Release Date For Switch 2 Revealed - nintendolife.com",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-release-date-for-switch-2-revealed",
+        "description": "The end is nigh",
+        "published": "1:47 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Samsung Updates Free Upgrade List With Millions More Galaxy Phones - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/jaymcgregor/2026/09/02/samsung-confirms-one-one-ui-9-update-for-galaxy-s26-ultra-galaxy-s25/",
-        "description": "",
-        "published": "12:47 PM UTC",
+        "title": "Crimson Desert's First Expansion Is Releasing Next Month - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/crimson-deserts-first-expansion-is-releasing-next-month",
+        "description": "Crimson Desert's first expansion releases in October, and it's going to have a ton of game-changing content, including underwater gameplay.",
+        "published": "1:45 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "SteamDB acquired by Nexus Mods after 13 years as an independent Steam database - VideoCardz.com",
-        "source": "Videocardz.com",
-        "url": "https://videocardz.com/newz/steamdb-acquired-by-nexus-mods-after-13-years-as-an-independent-steam-database",
-        "description": "SteamDB has been acquired by the company behind Nexus Mods after its founder said maintaining the service had become a full-time workload. The site will remain free and separate.",
+        "title": "GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/gta-6-limited-edition-ps5-controllers-revealed-out-19th-november",
+        "description": "One black, one white",
+        "published": "1:40 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Diddy's Release Date Pushed Up Again After Prison Brawl - TMZ",
+        "source": "TMZ",
+        "url": "https://www.tmz.com/2026/09/03/diddy-prison-release-date-moved-up-again/",
+        "description": "Sean \"Diddy\" Combs is getting even closer to being a free man ... his prison release date was moved up again!",
         "published": "12:46 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/vaccine-fall-flu-covid19-rsv-sick-season-7b08ff2a2438e5e99db6ecca742bff55",
-        "description": "Leading U.S. medical groups are urging people to get updated flu and COVID-19 vaccinations this fall. They banded together to offer recommendations Wednesday, saying they hope to lessen confusion afte",
-        "published": "2:19 PM UTC",
         "category": "General"
       },
       {
-        "title": "Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/tiger-woods-dui-crash-plea-change-04efe75a28deb0c3ffdf70a35f88d640",
-        "description": "Tiger Woods has pleaded no contest to a reckless driving charge in Florida. Woods was arrested in March following a rollover crash near his home on Jupiter Island and was initially charged with drivin",
-        "published": "1:27 PM UTC",
+        "title": "EXCLUSIVE: Dolly Parton’s Cousin Shares New Details on Her Health Battle Before Her Death - today.com",
+        "source": "TODAY",
+        "url": "https://www.today.com/health/dolly-parton-cousin-richie-owens-burial-health-details-rcna595758",
+        "description": "Dolly Parton’s first cousin Richie Owens has shared that the country music icon kept her health struggles private from even some family members.",
+        "published": "12:30 PM UTC",
         "category": "General"
       }
     ]
@@ -184,9 +184,79 @@
         "away": "Liverpool",
         "home_score": null,
         "away_score": null,
-        "status": "TIMED",
+        "status": "2026-09-04 18:00:00Z",
         "time": "7:00 PM UTC",
         "date": "Sep 4",
+        "highlighted": false
+      },
+      {
+        "home": "Newcastle",
+        "away": "Bournemouth",
+        "home_score": null,
+        "away_score": null,
+        "status": "2026-09-05 10:30:00Z",
+        "time": "11:30 AM UTC",
+        "date": "Sep 5",
+        "highlighted": false
+      },
+      {
+        "home": "Nottingham",
+        "away": "Tottenham",
+        "home_score": null,
+        "away_score": null,
+        "status": "2026-09-05 13:00:00Z",
+        "time": "2:00 PM UTC",
+        "date": "Sep 5",
+        "highlighted": false
+      },
+      {
+        "home": "Man City",
+        "away": "Coventry City",
+        "home_score": null,
+        "away_score": null,
+        "status": "2026-09-05 13:00:00Z",
+        "time": "2:00 PM UTC",
+        "date": "Sep 5",
+        "highlighted": false
+      },
+      {
+        "home": "Brighton Hove",
+        "away": "Leeds United",
+        "home_score": null,
+        "away_score": null,
+        "status": "2026-09-05 13:00:00Z",
+        "time": "2:00 PM UTC",
+        "date": "Sep 5",
+        "highlighted": false
+      },
+      {
+        "home": "Brentford",
+        "away": "Sunderland",
+        "home_score": null,
+        "away_score": null,
+        "status": "2026-09-05 13:00:00Z",
+        "time": "2:00 PM UTC",
+        "date": "Sep 5",
+        "highlighted": false
+      },
+      {
+        "home": "Fulham",
+        "away": "Crystal Palace",
+        "home_score": null,
+        "away_score": null,
+        "status": "2026-09-05 13:00:00Z",
+        "time": "2:00 PM UTC",
+        "date": "Sep 5",
+        "highlighted": false
+      },
+      {
+        "home": "Hull City",
+        "away": "Aston Villa",
+        "home_score": null,
+        "away_score": null,
+        "status": "2026-09-05 15:30:00Z",
+        "time": "4:30 PM UTC",
+        "date": "Sep 5",
         "highlighted": false
       }
     ],
@@ -262,45 +332,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Accelerate Pursuit of Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are reportedly in advanced discussions with a top Bundesliga club over a defensive midfielder valued at around £55 million, with Mikel Arteta keen to add physical presence and pressing intensity to a midfield that has been stretched by Thomas Partey's persistent injury issues this season.",
+        "headline": "Manchester United Weighing Move for Bundesliga Midfielder Ahead of January Window",
+        "summary": "Manchester United's football operations team is reportedly assessing a potential bid for a dynamic box-to-box midfielder currently impressing in the Bundesliga, as the club looks to address a lack of physicality and press-resistance in the center of the park. Personal terms are said to be straightforward, with the sticking point being the selling club's valuation.",
         "clubs": [
-          "Arsenal",
+          "Manchester United",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester City Eye Napoli Striker as Haaland Cover This Summer",
-        "summary": "Manchester City's recruitment team has identified a prolific Serie A striker as a potential backup and long-term heir to Erling Haaland, with initial contact made ahead of what could be a £60–70 million summer move if City secure Champions League football.",
+        "headline": "Chelsea In Advanced Talks to Extend Key Defender's Contract Amid European Interest",
+        "summary": "Chelsea are pushing to tie down one of their most consistent defensive performers to a long-term extension, with the player's current deal entering its final 18 months. Clubs from Spain and Germany are monitoring the situation closely, making resolution a priority for Chelsea's sporting directors before the January window opens.",
         "clubs": [
-          "Manchester City",
-          "Napoli"
+          "Chelsea",
+          "Atletico Madrid"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Chelsea",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "Anfield hosts a high-voltage top-four clash as Liverpool, pushing hard for the title, welcome a Chelsea side that has found remarkable consistency under their manager and sit just three points behind in the table. Liverpool will look to exploit Chelsea's high defensive line with the pace of their forwards, while Chelsea's pressing system has caused problems for even the most organized defenses this season. The outcome could have significant implications for the title race and Champions League qualification picture simultaneously.",
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's standout fixture of the weekend pits two genuine title contenders against each other at the Emirates, with both sides coming into the match on strong unbeaten runs and separated by just two points in the table. Arsenal will look to leverage their home atmosphere and the relentless pressing system Mikel Arteta has built, while Liverpool's front three pose the most dangerous counter-attacking threat in the division and will target the spaces Arsenal's aggressive full-backs can leave exposed. The tactical battle between midfields could prove decisive — Arsenal's control versus Liverpool's verticality — making this one of the most anticipated top-six clashes of the season.",
       "key_players": [
+        "Bukayo Saka",
         "Mohamed Salah",
-        "Cole Palmer",
-        "Virgil van Dijk"
+        "Martin Odegaard"
       ]
     },
     "injury_news": [
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "No return expected this season — long-term ACL rehabilitation ongoing"
+        "status": "Out",
+        "return": "Long-term — not expected before April 2025"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
+        "player": "Diogo Jota",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Hamstring strain; fitness assessment scheduled ahead of the weekend fixture"
+        "return": "Expected to be assessed closer to the weekend; possible return within 1-2 weeks"
       }
     ]
   },
@@ -308,62 +378,62 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If the yield to maturity increases by 50 basis points, which of the following best describes the expected price change, and why does convexity matter in this context?",
+      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. An analyst wants to estimate the bond's price sensitivity to a 50 basis point increase in yield using duration alone. If the bond's modified duration is 4.21 years, what is the approximate new price of the bond?",
       "options": {
-        "A": "The price will fall by exactly the amount predicted by duration alone, because convexity is only relevant for large yield changes.",
-        "B": "The price will fall by slightly less than predicted by duration alone, because positive convexity causes the price-yield relationship to be curved, benefiting bondholders when yields rise.",
-        "C": "The price will fall by slightly more than predicted by duration alone, because convexity amplifies losses when yields increase.",
-        "D": "The price change will be identical regardless of convexity, since convexity adjustments only apply to zero-coupon bonds."
+        "A": "$1,031.96",
+        "B": "$1,032.00",
+        "C": "$1,076.38",
+        "D": "$1,028.43"
       },
-      "correct": "B",
-      "explanation": "For a standard option-free bond, convexity is positive, meaning the actual price-yield curve is convex (bowed toward the origin) relative to the tangent line represented by duration. When yields rise, duration alone overpredicts the price decline; the convexity adjustment partially offsets that loss, so the actual price fall is slightly less than the duration estimate. This is expressed as: ΔP/P ≈ -D* × Δy + ½ × Convexity × (Δy)². Positive convexity is always beneficial to the bondholder — it cushions losses when yields rise and amplifies gains when yields fall."
+      "correct": "A",
+      "explanation": "The approximate percentage price change using modified duration is: –Modified Duration × ΔYTM = –4.21 × 0.0050 = –2.105%. Applying this to the current price: $1,054.17 × (1 – 0.02105) = $1,054.17 × 0.97895 ≈ $1,031.96. Modified duration measures the linear sensitivity of a bond's price to yield changes, and always produces a negative relationship between yield increases and price. Note that convexity would make the actual price slightly higher than this estimate, as duration alone understates prices when yields rise significantly."
     },
     "finance_topic": {
-      "title": "Basis Risk and the Limits of Hedging",
-      "subtitle": "Why perfect hedges rarely exist in practice, and how residual basis risk can undermine even well-structured risk management strategies.",
+      "title": "Basis Risk and Its Hidden Portfolio Dangers",
+      "subtitle": "Why hedges that look perfect on paper can still leave investors exposed to unexpected losses.",
       "paragraphs": [
-        "Basis risk arises when the hedging instrument and the underlying exposure do not move in perfect lockstep. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the contract used. Even when a hedge appears tightly constructed — matching maturity, notional, and asset class — differences in liquidity, credit quality, geography, or contract specifications can cause the two legs to diverge. This divergence is basis risk, and it means that a hedger substitutes basis risk for outright price risk, accepting a known but uncertain residual exposure in place of an unbounded one.",
-        "A classic real-world example emerged during the 2022 energy crisis in Europe. Many utility companies had hedged their natural gas exposure using TTF (Title Transfer Facility) futures, but their physical supply came from pipeline sources priced against different regional benchmarks. When the spread between TTF and those benchmarks widened dramatically following the disruption of Russian supply routes, hedges that had looked robust on paper produced significant mark-to-market losses even as physical costs rose. Airlines face a structurally similar problem: they hedge jet fuel using crude oil or heating oil futures, and the crack spread — the refining margin between crude and jet fuel — can move independently, leaving them exposed even in a 'fully hedged' book.",
-        "For investors and risk managers, basis risk demands that hedge effectiveness be tested rigorously using regression analysis and rolling correlation studies, not assumed. Under IFRS 9 and ASC 815, hedge accounting qualification requires demonstrated effectiveness, and high basis risk can disqualify a hedge from favorable accounting treatment — forcing mark-to-market volatility through the income statement. Risk managers should stress-test basis under historical crisis scenarios, size hedges using the minimum-variance hedge ratio (ρ × σ_S/σ_F), and consider whether a cross-hedge introduces more complexity than it resolves."
+        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. In theory, a well-constructed hedge should offset gains and losses in the underlying asset. In practice, the 'basis' — defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge — fluctuates over time, creating residual risk that cannot be eliminated through standard hedging techniques. This is distinct from market risk, as it persists even when a position appears fully hedged on a notional basis.",
+        "A classic real-world example emerged during the 2008 financial crisis, when banks used credit default swaps on broad indices (such as CDX) to hedge exposure to bespoke corporate loan portfolios. When credit spreads blew out, the indices did not move in the same proportion as individual credits, and correlation assumptions broke down entirely. Traders who believed they were hedged suffered billions in mark-to-market losses. Similarly, airline companies hedging jet fuel costs with crude oil futures regularly encounter basis risk because jet fuel and WTI crude, while correlated, diverge based on refinery margins and regional supply dynamics.",
+        "For risk managers and portfolio managers, basis risk demands careful ongoing monitoring rather than a set-and-forget approach to hedging. Hedge effectiveness should be tested statistically using regression-based approaches — a hedge ratio derived from historical correlation may degrade rapidly in stressed markets when correlations shift. Investors should incorporate basis risk explicitly into their Value-at-Risk models and stress tests, and maintain liquidity buffers to absorb potential losses from imperfect hedges. Recognizing that no hedge is costless or perfect is fundamental to sound risk governance."
       ],
       "key_takeaways": [
-        "Basis risk is the irreducible residual exposure that remains after hedging — it replaces price risk but does not eliminate risk entirely.",
-        "Cross-hedges (hedging with a correlated but non-identical instrument) are especially vulnerable to basis widening during market stress, exactly when protection is most needed.",
-        "The minimum-variance hedge ratio accounts for correlation and relative volatility, and should be dynamically recalculated as market conditions evolve."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
+        "Basis risk is especially dangerous in stressed markets, when historical correlations between the hedge and the underlying tend to break down most severely.",
+        "Effective risk management requires actively monitoring hedge effectiveness ratios, updating hedge ratios dynamically, and stress-testing hedges under adverse correlation scenarios."
       ]
     },
     "japanese": {
       "word": "貯金",
       "reading": "chokin",
-      "meaning": "savings; money saved up",
+      "meaning": "savings; money saved in a bank",
       "part_of_speech": "noun",
       "example_jp": "毎月、給料の一部を貯金しています。",
       "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
       "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (ongoing action/habit)",
-      "grammar_explanation": "The pattern 〜ています (te-form + います) expresses either an action currently in progress or a habitual/repeated action. Here, 貯金しています means 'I am in the habit of saving' — it describes a regular routine rather than something happening right now at this exact moment.",
-      "memory_tip": "Think of 貯 (cho) as 'storing' — like a 'cho-pper' storing things in a box — and 金 (kin) means 'gold/money.' So 貯金 is literally 'storing gold': your piggy bank of savings."
+      "grammar_point": "〜ています (ongoing action/habitual state)",
+      "grammar_explanation": "The pattern 〜ています (te-form of verb + います) is used to describe an action that is currently in progress, or a habit that the speaker regularly performs. In this sentence, 貯金しています indicates that saving money every month is an ongoing, repeated activity.",
+      "memory_tip": "Think of 'chokin' as 'choking' your money into a piggy bank — you're squeezing every yen into savings each month. The 貯 character itself contains the idea of storing and accumulating."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Lending Risk Models Fundamentally",
-      "summary": "Major financial institutions are deploying large language models and gradient-boosted machine learning systems to augment — and in some cases replace — traditional scorecard-based credit underwriting. Unlike FICO-dependent models, these systems ingest thousands of alternative data signals: cash flow patterns, transaction velocity, payroll timing, and even supply chain metadata. Early results from lenders using these models show materially lower default rates at equivalent approval volumes, though regulators in the US and EU are scrutinizing explainability obligations under fair lending laws and the EU AI Act. The central tension for risk professionals is that model accuracy and model interpretability remain in fundamental conflict, demanding new governance frameworks that can satisfy both performance and compliance objectives simultaneously.",
+      "headline": "AI Agents Are Now Autonomously Executing Multi-Step Financial Research Tasks",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step reasoning without human intervention at each step — is moving from research labs into financial services workflows. Firms including Bloomberg, Morgan Stanley, and several hedge funds are piloting agents that can autonomously pull earnings data, synthesize analyst reports, cross-reference macro indicators, and generate draft investment memos. Unlike earlier co-pilot tools that required constant human prompting, these agents operate on defined objectives and course-correct when intermediate results are unsatisfactory. The shift from AI-as-assistant to AI-as-autonomous-analyst is raising urgent questions about oversight, auditability, and liability in regulated financial environments.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds decision trees sequentially, each correcting the errors of the last. In credit risk, it outperforms logistic regression on complex, non-linear datasets but requires careful feature engineering and SHAP-value analysis to meet explainability requirements."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously plan and execute sequences of tasks to achieve a defined goal, using tools like web search, code execution, and databases — without requiring a human prompt at every step. In finance, this means an AI that can independently research a company, model scenarios, and produce a report."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as bank transaction histories, rental payment records, mobile usage patterns, or e-commerce behavior — used to assess creditworthiness for borrowers who are thin-file or invisible to conventional bureau models."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique that enhances large language models by connecting them to external, up-to-date data sources — such as SEC filings, Bloomberg terminals, or internal research databases — so the model generates responses grounded in current, factual financial information rather than relying solely on training data."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) values decompose a model's output into the contribution of each input feature for a given prediction. In regulated finance, this technique allows risk teams to tell a regulator or rejected applicant precisely why a model made its decision."
+          "term": "Human-in-the-Loop (HITL)",
+          "definition": "A system design principle where AI outputs are reviewed or approved by a human before consequential actions are taken. In regulated finance, HITL checkpoints are essential for compliance, ensuring that autonomous AI recommendations do not result in unauthorized trades or advice."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge quantitative modeling and regulatory compliance are commanding a significant premium in the labor market. The most valuable skill combination in 2025 is not Python alone — it is Python plus deep knowledge of model risk management frameworks (SR 11-7), fair lending regulation, and the ability to translate model outputs into board-level risk narratives. Professionals who invest now in understanding ML interpretability tools will be positioned at the intersection of innovation and governance, the most defensible career position in finance AI."
+      "career_insight": "Finance professionals who can critically evaluate, audit, and direct AI agent outputs — rather than simply consume them — will be the most valuable hires over the next five years. Deep domain expertise in credit analysis, risk management, or portfolio construction becomes a multiplier on top of AI tools, not a skill made redundant by them. Building fluency in prompt engineering, understanding model limitations and hallucination risks, and knowing when AI output requires human override are rapidly becoming core competencies alongside traditional CFA-level financial knowledge."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a delicate macro crossroads as sticky services inflation and resilient US labor data push back expectations for Fed rate cuts into late Q3 at the earliest, keeping front-end rates elevated and pressuring rate-sensitive sectors. Risk sentiment has been supported by robust S&P 500 earnings beats — particularly in technology and industrials — but breadth remains narrow, with mega-cap concentration masking underlying weakness in small-caps and regional banks. EM currencies face renewed pressure from a firmer dollar and rising US real yields, while credit spreads have widened modestly in leveraged loans, signaling that higher-for-longer is beginning to bite at the margin of corporate balance sheets."
+    "market_sentiment": "Global equity markets are navigating a cautious tone this week as investors weigh resilient US labor market data against softening PMI readings in Europe and China, keeping the 'higher for longer' rate narrative firmly in play despite growing speculation around Fed pivot timing. Treasury yields remain elevated at the long end of the curve, with the 10Y hovering near multi-month highs, compressing risk premia and pressuring growth-sensitive sectors including tech and small caps. Commodities are providing a counterpoint, with crude oil firming on OPEC+ supply discipline and gold holding support as a geopolitical risk hedge — suggesting markets are pricing in a more complex macro environment than a simple soft-landing narrative implies."
   }
 }
