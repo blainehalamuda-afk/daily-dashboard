@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:19 PM UTC",
-  "date": "Friday, September 4, 2026",
+  "generated_at": "2:07 PM UTC",
+  "date": "Saturday, September 5, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 88,
-    "feels_like_f": 100,
-    "high_f": 90,
-    "low_f": 86,
+    "temp_f": 83,
+    "feels_like_f": 92,
+    "high_f": 87,
+    "low_f": 80,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 69,
-    "wind_mph": 6,
+    "humidity": 78,
+    "wind_mph": 7,
     "forecast": [
       {
-        "day": "Sat",
-        "icon": "🌤️",
-        "high": 75,
-        "low": 75,
-        "description": "Few Clouds"
-      },
-      {
         "day": "Sun",
-        "icon": "☁️",
-        "high": 74,
-        "low": 74,
-        "description": "Broken Clouds"
+        "icon": "⛅",
+        "high": 72,
+        "low": 72,
+        "description": "Scattered Clouds"
       },
       {
         "day": "Mon",
-        "icon": "☁️",
+        "icon": "⛅",
         "high": 71,
         "low": 71,
-        "description": "Broken Clouds"
+        "description": "Scattered Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "🌤️",
+        "high": 67,
+        "low": 67,
+        "description": "Few Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 769.39,
-        "change": -3.78,
-        "change_pct": -0.49,
+        "price": 770.19,
+        "change": -2.98,
+        "change_pct": -0.39,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 318.91,
-        "change": -9.3,
-        "change_pct": -2.83,
+        "price": 319.97,
+        "change": -8.24,
+        "change_pct": -2.51,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 232.21,
-        "change": 3.76,
-        "change_pct": 1.65,
+        "price": 230.36,
+        "change": 1.91,
+        "change_pct": 0.84,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 352.12,
-        "change": -24.25,
-        "change_pct": -6.44,
+        "price": 354.08,
+        "change": -22.29,
+        "change_pct": -5.92,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 79277.04,
-        "change": -1308.18,
-        "change_pct": -1.62,
-        "up": false,
+        "price": 79656,
+        "change": 192,
+        "change_pct": 0.24,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2451.11,
-        "change": -34.99,
-        "change_pct": -1.41,
-        "up": false,
+        "price": 2455.44,
+        "change": 0.82,
+        "change_pct": 0.03,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,68 +111,44 @@
     "error": false,
     "articles": [
       {
-        "title": "Trump Wants Big Oil to Build More Refineries. That’s a Tough Sell. - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/energy-oil/trump-wants-big-oil-to-build-more-refineries-thats-a-tough-sell-54666292",
-        "description": "",
-        "published": "2:17 PM UTC",
+        "title": "Jobs report live updates: August jobs data expected to show labor market 'cooling, not cracking' - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/live/august-jobs-report-live-updates-labor-market-155619193.html",
+        "description": "The Labor Department will release the August jobs report on Friday, providing clues about the health of the labor market as hiring and firing remain broadly...",
+        "published": "12:31 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Snowflake Jumps on Revenue Outlook, Uptake of AI Assistant - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-02/snowflake-jumps-on-revenue-outlook-uptake-of-ai-assistant",
-        "description": "Snowflake Inc. shares jumped by the most in three months after the company raised its outlook for annual sales, topping analysts’ estimates, and touted rapid adoption of its AI-assisted coding tool.",
-        "published": "1:35 PM UTC",
+        "title": "US diesel prices hit a record high of $5.85 on average as the Iran war disrupts the flow of fuel - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87",
+        "description": "Diesel has hit a new record price in the U.S., soaring to an average of $5.85 a gallon for the first time ever. The record comes as the six-month war with Iran disrupts the world’s flow of fuel. Becau",
+        "published": "12:22 PM UTC",
         "category": "Business"
       },
       {
-        "title": "One-star reviews of airports: ‘Feels like psychological torture’ - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/travel/2026/09/03/one-star-reviews-airports-feels-like-psychological-torture/",
-        "description": "Travelers vent about confusing layouts, surly staff, paltry dining choices and rodents.",
-        "published": "1:32 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Final Fantasy VII Revelation Release Date For Switch 2 Revealed - nintendolife.com",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-release-date-for-switch-2-revealed",
-        "description": "The end is nigh",
-        "published": "1:47 PM UTC",
+        "title": "All the Weirdest, Wildest Tech We Found at IFA 2026 - CNET",
+        "source": "CNET",
+        "url": "https://www.cnet.com/tech/the-weirdest-and-wackiest-tech-we-found-at-ifa-2026/",
+        "description": "From intimate AI companions to feline food processors, here’s what made us do a double take at the tech expo in Berlin.",
+        "published": "12:18 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Crimson Desert's First Expansion Is Releasing Next Month - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/crimson-deserts-first-expansion-is-releasing-next-month",
-        "description": "Crimson Desert's first expansion releases in October, and it's going to have a ton of game-changing content, including underwater gameplay.",
-        "published": "1:45 PM UTC",
+        "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+. - Ars Technica",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+        "description": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
+        "published": "11:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/gta-6-limited-edition-ps5-controllers-revealed-out-19th-november",
-        "description": "One black, one white",
-        "published": "1:40 PM UTC",
+        "title": "The 300-year-old tool helping stranded astronauts get home - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/future/article/20260903-the-300-year-old-instrument-that-could-save-stranded-astronauts",
+        "description": "An old seafaring instrument could help astronauts on ever more far-flung and perilous missions.",
+        "published": "9:47 AM UTC",
         "category": "Technology"
-      },
-      {
-        "title": "Diddy's Release Date Pushed Up Again After Prison Brawl - TMZ",
-        "source": "TMZ",
-        "url": "https://www.tmz.com/2026/09/03/diddy-prison-release-date-moved-up-again/",
-        "description": "Sean \"Diddy\" Combs is getting even closer to being a free man ... his prison release date was moved up again!",
-        "published": "12:46 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "EXCLUSIVE: Dolly Parton’s Cousin Shares New Details on Her Health Battle Before Her Death - today.com",
-        "source": "TODAY",
-        "url": "https://www.today.com/health/dolly-parton-cousin-richie-owens-burial-health-details-rcna595758",
-        "description": "Dolly Parton’s first cousin Richie Owens has shared that the country music icon kept her health struggles private from even some family members.",
-        "published": "12:30 PM UTC",
-        "category": "General"
       }
     ]
   },
@@ -182,9 +158,9 @@
       {
         "home": "Ipswich Town",
         "away": "Liverpool",
-        "home_score": null,
-        "away_score": null,
-        "status": "2026-09-04 18:00:00Z",
+        "home_score": 0,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "7:00 PM UTC",
         "date": "Sep 4",
         "highlighted": false
@@ -194,7 +170,7 @@
         "away": "Bournemouth",
         "home_score": null,
         "away_score": null,
-        "status": "2026-09-05 10:30:00Z",
+        "status": "TIMED",
         "time": "11:30 AM UTC",
         "date": "Sep 5",
         "highlighted": false
@@ -204,7 +180,7 @@
         "away": "Tottenham",
         "home_score": null,
         "away_score": null,
-        "status": "2026-09-05 13:00:00Z",
+        "status": "TIMED",
         "time": "2:00 PM UTC",
         "date": "Sep 5",
         "highlighted": false
@@ -214,7 +190,7 @@
         "away": "Coventry City",
         "home_score": null,
         "away_score": null,
-        "status": "2026-09-05 13:00:00Z",
+        "status": "TIMED",
         "time": "2:00 PM UTC",
         "date": "Sep 5",
         "highlighted": false
@@ -224,7 +200,7 @@
         "away": "Leeds United",
         "home_score": null,
         "away_score": null,
-        "status": "2026-09-05 13:00:00Z",
+        "status": "TIMED",
         "time": "2:00 PM UTC",
         "date": "Sep 5",
         "highlighted": false
@@ -234,7 +210,7 @@
         "away": "Sunderland",
         "home_score": null,
         "away_score": null,
-        "status": "2026-09-05 13:00:00Z",
+        "status": "TIMED",
         "time": "2:00 PM UTC",
         "date": "Sep 5",
         "highlighted": false
@@ -244,7 +220,7 @@
         "away": "Crystal Palace",
         "home_score": null,
         "away_score": null,
-        "status": "2026-09-05 13:00:00Z",
+        "status": "TIMED",
         "time": "2:00 PM UTC",
         "date": "Sep 5",
         "highlighted": false
@@ -254,9 +230,29 @@
         "away": "Aston Villa",
         "home_score": null,
         "away_score": null,
-        "status": "2026-09-05 15:30:00Z",
+        "status": "TIMED",
         "time": "4:30 PM UTC",
         "date": "Sep 5",
+        "highlighted": false
+      },
+      {
+        "home": "Everton",
+        "away": "Man United",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Sep 6",
+        "highlighted": false
+      },
+      {
+        "home": "Arsenal",
+        "away": "Chelsea",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:30 PM UTC",
+        "date": "Sep 6",
         "highlighted": false
       }
     ],
@@ -264,12 +260,12 @@
       {
         "position": 1,
         "team": "Man City",
-        "played": 2,
+        "played": 3,
         "won": 2,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "gd": 4,
-        "points": 6,
+        "points": 7,
         "highlighted": false
       },
       {
@@ -308,23 +304,23 @@
       {
         "position": 5,
         "team": "Brentford",
-        "played": 2,
+        "played": 3,
         "won": 1,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "gd": 3,
-        "points": 4,
+        "points": 5,
         "highlighted": false
       },
       {
         "position": 6,
-        "team": "Newcastle",
-        "played": 2,
+        "team": "Liverpool",
+        "played": 3,
         "won": 1,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "gd": 2,
-        "points": 4,
+        "points": 5,
         "highlighted": false
       }
     ]
@@ -332,108 +328,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Weighing Move for Bundesliga Midfielder Ahead of January Window",
-        "summary": "Manchester United's football operations team is reportedly assessing a potential bid for a dynamic box-to-box midfielder currently impressing in the Bundesliga, as the club looks to address a lack of physicality and press-resistance in the center of the park. Personal terms are said to be straightforward, with the sticking point being the selling club's valuation.",
+        "headline": "Arsenal Weighing Move for Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal's recruitment team has been linked with a move for a dynamic box-to-box midfielder from the Bundesliga, as the club seeks a long-term successor to Thomas Partey whose contract expires at season's end. Personal terms are reported to be straightforward, with negotiations between clubs expected to intensify in the coming weeks.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea In Advanced Talks to Extend Key Defender's Contract Amid European Interest",
-        "summary": "Chelsea are pushing to tie down one of their most consistent defensive performers to a long-term extension, with the player's current deal entering its final 18 months. Clubs from Spain and Germany are monitoring the situation closely, making resolution a priority for Chelsea's sporting directors before the January window opens.",
+        "headline": "Chelsea in Advanced Talks to Sign Napoli Striker This Summer",
+        "summary": "Chelsea are reported to be in advanced discussions over a summer deal for a prolific Serie A striker, as the club looks to address a persistent lack of goals from their forwards following another inconsistent domestic campaign. A fee in the region of £60 million is understood to be under negotiation.",
         "clubs": [
           "Chelsea",
-          "Atletico Madrid"
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Manchester City",
       "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's standout fixture of the weekend pits two genuine title contenders against each other at the Emirates, with both sides coming into the match on strong unbeaten runs and separated by just two points in the table. Arsenal will look to leverage their home atmosphere and the relentless pressing system Mikel Arteta has built, while Liverpool's front three pose the most dangerous counter-attacking threat in the division and will target the spaces Arsenal's aggressive full-backs can leave exposed. The tactical battle between midfields could prove decisive — Arsenal's control versus Liverpool's verticality — making this one of the most anticipated top-six clashes of the season.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "One of English football's defining rivalries resumes at the Etihad as Manchester City host Liverpool in a match that carries significant top-four implications for both sides. City will be eager to reassert domestic authority after a turbulent run of form, while Liverpool arrive in strong shape under their manager with momentum and a high press that has dismantled defences all season. The tactical battle between City's positional structure and Liverpool's relentless transition play promises to be the defining subplot of what is set to be a pulsating afternoon.",
       "key_players": [
-        "Bukayo Saka",
+        "Erling Haaland",
         "Mohamed Salah",
-        "Martin Odegaard"
+        "Kevin De Bruyne"
       ]
     },
     "injury_news": [
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Out",
-        "return": "Long-term — not expected before April 2025"
+        "status": "Recovering",
+        "return": "Long-term absentee — unlikely before end of season"
       },
       {
         "player": "Diogo Jota",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed closer to the weekend; possible return within 1-2 weeks"
+        "return": "Being assessed ahead of the weekend fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. An analyst wants to estimate the bond's price sensitivity to a 50 basis point increase in yield using duration alone. If the bond's modified duration is 4.21 years, what is the approximate new price of the bond?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Valuation and Credit Spreads",
+      "question": "An analyst is valuing a callable corporate bond using an option-adjusted spread (OAS). The bond has an OAS of 145 bps and a Z-spread of 180 bps. Which of the following statements is most accurate?",
       "options": {
-        "A": "$1,031.96",
-        "B": "$1,032.00",
-        "C": "$1,076.38",
-        "D": "$1,028.43"
+        "A": "The option cost is 35 bps, and the embedded call option benefits the issuer by reducing the bond's yield spread.",
+        "B": "The option cost is 35 bps, and the embedded call option benefits the bondholder by providing downside protection.",
+        "C": "The OAS exceeds the Z-spread, indicating the bond is undervalued relative to the benchmark curve.",
+        "D": "The Z-spread understates the true credit risk because it does not account for interest rate volatility."
       },
       "correct": "A",
-      "explanation": "The approximate percentage price change using modified duration is: –Modified Duration × ΔYTM = –4.21 × 0.0050 = –2.105%. Applying this to the current price: $1,054.17 × (1 – 0.02105) = $1,054.17 × 0.97895 ≈ $1,031.96. Modified duration measures the linear sensitivity of a bond's price to yield changes, and always produces a negative relationship between yield increases and price. Note that convexity would make the actual price slightly higher than this estimate, as duration alone understates prices when yields rise significantly."
+      "explanation": "For a callable bond, Z-spread = OAS + Option Cost, so the option cost = 180 – 145 = 35 bps. The embedded call option benefits the issuer (not the bondholder), who can redeem the bond when rates fall, limiting bondholder upside. The OAS strips out the option value, leaving a purer measure of credit and liquidity risk. Option B is incorrect because the call option favors the issuer, not the investor."
     },
     "finance_topic": {
-      "title": "Basis Risk and Its Hidden Portfolio Dangers",
-      "subtitle": "Why hedges that look perfect on paper can still leave investors exposed to unexpected losses.",
+      "title": "Private Credit's Rise as Bank Lending Retreats",
+      "subtitle": "How direct lending funds are filling the gap left by tightening bank balance sheets and reshaping the credit landscape.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. In theory, a well-constructed hedge should offset gains and losses in the underlying asset. In practice, the 'basis' — defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge — fluctuates over time, creating residual risk that cannot be eliminated through standard hedging techniques. This is distinct from market risk, as it persists even when a position appears fully hedged on a notional basis.",
-        "A classic real-world example emerged during the 2008 financial crisis, when banks used credit default swaps on broad indices (such as CDX) to hedge exposure to bespoke corporate loan portfolios. When credit spreads blew out, the indices did not move in the same proportion as individual credits, and correlation assumptions broke down entirely. Traders who believed they were hedged suffered billions in mark-to-market losses. Similarly, airline companies hedging jet fuel costs with crude oil futures regularly encounter basis risk because jet fuel and WTI crude, while correlated, diverge based on refinery margins and regional supply dynamics.",
-        "For risk managers and portfolio managers, basis risk demands careful ongoing monitoring rather than a set-and-forget approach to hedging. Hedge effectiveness should be tested statistically using regression-based approaches — a hedge ratio derived from historical correlation may degrade rapidly in stressed markets when correlations shift. Investors should incorporate basis risk explicitly into their Value-at-Risk models and stress tests, and maintain liquidity buffers to absorb potential losses from imperfect hedges. Recognizing that no hedge is costless or perfect is fundamental to sound risk governance."
+        "Private credit refers to non-bank lending — typically by asset managers, insurance companies, or dedicated direct lending funds — to corporations, often mid-market borrowers that lack access to public bond markets. These loans are usually floating-rate, senior-secured instruments negotiated bilaterally, offering lenders strong covenant protections and yields that historically exceeded those of broadly syndicated loans by 100–200 bps.",
+        "Since the 2022–2023 rate hiking cycle and the subsequent tightening of bank lending standards accelerated by regional banking stress, private credit has surged. Assets under management in global private credit exceeded $1.7 trillion by late 2024, with major managers like Ares, Blue Owl, and Apollo aggressively deploying capital into leveraged buyout financing, infrastructure debt, and asset-backed lending. Borrowers are increasingly accepting private credit's higher cost in exchange for execution certainty and flexible deal structures.",
+        "For institutional investors, private credit offers attractive risk-adjusted yields and low mark-to-market volatility due to infrequent pricing — though this also masks true liquidity risk. Risk managers must carefully model default correlation, covenant erosion in competitive vintages, and the impact of a prolonged high-rate environment on borrower interest coverage ratios. A turn in the credit cycle could expose vintage 2021–2023 vintages to elevated loss rates, particularly in sponsor-backed transactions with aggressive entry multiples."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Basis risk is especially dangerous in stressed markets, when historical correlations between the hedge and the underlying tend to break down most severely.",
-        "Effective risk management requires actively monitoring hedge effectiveness ratios, updating hedge ratios dynamically, and stress-testing hedges under adverse correlation scenarios."
+        "Private credit fills a structural void left by bank retrenchment, offering floating-rate, senior-secured exposure with higher yields than public markets.",
+        "The asset class has grown to nearly $2 trillion AUM, attracting institutional allocators seeking income and portfolio diversification.",
+        "Investors must weigh illiquidity risk, covenant quality, and borrower leverage carefully — especially as higher rates compress interest coverage ratios across portfolios."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in a bank",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; financial estimate",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (ongoing action/habitual state)",
-      "grammar_explanation": "The pattern 〜ています (te-form of verb + います) is used to describe an action that is currently in progress, or a habit that the speaker regularly performs. In this sentence, 貯金しています indicates that saving money every month is an ongoing, repeated activity.",
-      "memory_tip": "Think of 'chokin' as 'choking' your money into a piggy bank — you're squeezing every yen into savings each month. The 貯 character itself contains the idea of storing and accumulating."
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead' and 算 (san) as 'calculate' — a budget is your plan calculated in advance. Like a financial analyst who always has a forecast ready!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Autonomously Executing Multi-Step Financial Research Tasks",
-      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step reasoning without human intervention at each step — is moving from research labs into financial services workflows. Firms including Bloomberg, Morgan Stanley, and several hedge funds are piloting agents that can autonomously pull earnings data, synthesize analyst reports, cross-reference macro indicators, and generate draft investment memos. Unlike earlier co-pilot tools that required constant human prompting, these agents operate on defined objectives and course-correct when intermediate results are unsatisfactory. The shift from AI-as-assistant to AI-as-autonomous-analyst is raising urgent questions about oversight, auditability, and liability in regulated financial environments.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Financial Research Workflows",
+      "summary": "A new generation of agentic AI systems — capable of planning multi-step tasks, browsing data sources, writing code, and iterating on outputs without continuous human prompting — is beginning to penetrate financial research workflows. Firms including Morgan Stanley, JPMorgan, and a wave of fintech startups are deploying AI agents that can ingest earnings transcripts, pull macroeconomic data, run scenario analyses, and draft investment memos in hours rather than days. Unlike earlier copilot tools that assisted analysts, these agents operate with greater autonomy, raising questions about oversight, auditability, and the changing role of junior analysts. The shift is not about replacing judgment but compressing the time from data to insight, with human review remaining critical for high-stakes decisions.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that autonomously plan and execute sequences of tasks to achieve a defined goal, using tools like web search, code execution, and databases — without requiring a human prompt at every step. In finance, this means an AI that can independently research a company, model scenarios, and produce a report."
+          "definition": "AI systems that can autonomously decompose a complex goal into sub-tasks, use tools (web search, code execution, APIs), and iterate toward a result — analogous to a junior analyst given a brief and left to produce a first draft independently."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique that enhances large language models by connecting them to external, up-to-date data sources — such as SEC filings, Bloomberg terminals, or internal research databases — so the model generates responses grounded in current, factual financial information rather than relying solely on training data."
+          "definition": "A technique where an AI model retrieves relevant documents or data from a private knowledge base before generating a response, allowing it to answer questions grounded in proprietary research, filings, or internal models rather than only its training data."
         },
         {
-          "term": "Human-in-the-Loop (HITL)",
-          "definition": "A system design principle where AI outputs are reviewed or approved by a human before consequential actions are taken. In regulated finance, HITL checkpoints are essential for compliance, ensuring that autonomous AI recommendations do not result in unauthorized trades or advice."
+          "term": "Hallucination Risk",
+          "definition": "The tendency of large language models to generate plausible-sounding but factually incorrect outputs — a critical compliance and operational risk when AI is used to draft client-facing research, regulatory filings, or valuation memos."
         }
       ],
-      "career_insight": "Finance professionals who can critically evaluate, audit, and direct AI agent outputs — rather than simply consume them — will be the most valuable hires over the next five years. Deep domain expertise in credit analysis, risk management, or portfolio construction becomes a multiplier on top of AI tools, not a skill made redundant by them. Building fluency in prompt engineering, understanding model limitations and hallucination risks, and knowing when AI output requires human override are rapidly becoming core competencies alongside traditional CFA-level financial knowledge."
+      "career_insight": "Finance professionals who can effectively design, prompt, audit, and quality-control AI agent workflows will command a structural premium over peers who remain purely consumers of AI outputs. The highest-value skill set is emerging as a hybrid: deep domain expertise in credit, macro, or risk combined with the ability to architect AI-assisted workflows — not coding per se, but the judgment to know when an AI output is wrong and how to correct the system producing it."
     },
     "error": false,
-    "market_sentiment": "Global equity markets are navigating a cautious tone this week as investors weigh resilient US labor market data against softening PMI readings in Europe and China, keeping the 'higher for longer' rate narrative firmly in play despite growing speculation around Fed pivot timing. Treasury yields remain elevated at the long end of the curve, with the 10Y hovering near multi-month highs, compressing risk premia and pressuring growth-sensitive sectors including tech and small caps. Commodities are providing a counterpoint, with crude oil firming on OPEC+ supply discipline and gold holding support as a geopolitical risk hedge — suggesting markets are pricing in a more complex macro environment than a simple soft-landing narrative implies."
+    "market_sentiment": "Global risk assets are navigating a cautious start to the week as investors parse sticky services inflation data from the US and a softer-than-expected PMI print from the eurozone, keeping the 'higher for longer' narrative firmly in play for the Fed and dampening rate-cut expectations into Q3. Treasury yields have edged higher across the belly of the curve, compressing equity risk premiums and weighing on rate-sensitive sectors including REITs and utilities, while the dollar index holds near recent highs, pressuring EM local currency debt. Credit spreads remain historically tight — HY at roughly 310 bps over Treasuries — suggesting markets are pricing near-perfection on the soft-landing thesis, a backdrop that warrants tactical caution even as carry strategies continue to perform."
   }
 }
