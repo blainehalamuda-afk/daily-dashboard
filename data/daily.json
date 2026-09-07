@@ -1,38 +1,38 @@
 {
-  "generated_at": "2:31 PM UTC",
-  "date": "Sunday, September 6, 2026",
+  "generated_at": "4:46 PM UTC",
+  "date": "Monday, September 7, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 81,
-    "feels_like_f": 86,
-    "high_f": 83,
+    "temp_f": 82,
+    "feels_like_f": 84,
+    "high_f": 84,
     "low_f": 80,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 74,
-    "wind_mph": 9,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 55,
+    "wind_mph": 11,
     "forecast": [
-      {
-        "day": "Mon",
-        "icon": "🌧️",
-        "high": 69,
-        "low": 69,
-        "description": "Light Rain"
-      },
       {
         "day": "Tue",
         "icon": "☀️",
-        "high": 68,
-        "low": 68,
+        "high": 66,
+        "low": 66,
         "description": "Clear Sky"
       },
       {
         "day": "Wed",
         "icon": "☁️",
-        "high": 71,
-        "low": 71,
+        "high": 69,
+        "low": 69,
         "description": "Broken Clouds"
+      },
+      {
+        "day": "Thu",
+        "icon": "☀️",
+        "high": 69,
+        "low": 69,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 770.19,
-        "change": -2.98,
-        "change_pct": -0.39,
+        "price": 770.23,
+        "change": -2.94,
+        "change_pct": -0.38,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 319.97,
-        "change": -8.24,
-        "change_pct": -2.51,
+        "price": 320.01,
+        "change": -8.2,
+        "change_pct": -2.5,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 230.36,
-        "change": 1.91,
-        "change_pct": 0.84,
+        "price": 230.4,
+        "change": 1.95,
+        "change_pct": 0.85,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 354.08,
-        "change": -22.29,
-        "change_pct": -5.92,
+        "price": 354.12,
+        "change": -22.25,
+        "change_pct": -5.91,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 79542.67,
-        "change": -196.83,
-        "change_pct": -0.25,
+        "price": 79008,
+        "change": -691.35,
+        "change_pct": -0.87,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2478.32,
-        "change": 20.61,
-        "change_pct": 0.84,
-        "up": true,
+        "price": 2481,
+        "change": -2.03,
+        "change_pct": -0.08,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Still sending checks in the mail? It's time to stop. - USA Today",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/05/is-it-safe-to-mail-checks/91591254007/",
-        "description": "Check fraud is rising even as the number of checks in circulation is declining. If you're still sending them in the mail, it may be time to stop.",
-        "published": "9:05 AM UTC",
+        "title": "Labor Day sales 2026: The best expert-approved deals from Amazon, Apple, Hoka, Patagonia and more up to 75% off - Yahoo",
+        "source": "Yahoo Entertainment",
+        "url": "https://shopping.yahoo.com/deals/breaking-news/article/labor-day-sales-2026-the-best-expert-approved-deals-from-amazon-apple-hoka-patagonia-and-more-up-to-75-off-204203986.html",
+        "description": "We found the best bargains to scoop up this holiday weekend, from fall wardrobe essentials to back-to-school tech.",
+        "published": "4:36 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Trump Threatens to Halt Trade Following News That US Trade Deficit Grew in July - wwd.com",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/trade/trump-us-trade-deficit-july-federal-reserve-tariffs-1239199217/",
-        "description": "America’s trade deficit with the rest of the world grew in July to the highest level seen in more than a year, prompting an outraged response from the Commander in Chief.",
-        "published": "6:19 AM UTC",
+        "title": "In Trump’s Second Term, the MAGA Merchandise Boom Is Going Bust - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/politics/in-trumps-second-term-the-maga-merchandise-boom-is-going-bust-725bc43a",
+        "description": "",
+        "published": "3:17 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Disruptive passenger duct-taped to first-class seat as plane makes emergency landing - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/09/04/us/disruptive-passenger-duct-tape",
-        "description": "A disruptive passenger was restrained with flexible handcuffs and duct-taped to a seat as his flight was diverted to make an emergency landing in Baltimore Thursday night, photos and video from other ",
-        "published": "3:10 AM UTC",
+        "title": "Frontier Airlines to exit entire market by October - thestreet.com",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/travel/frontier-airlines-to-exit-entire-market-by-october",
+        "description": "",
+        "published": "2:53 PM UTC",
         "category": "Business"
       },
       {
-        "title": "The best time to buy an iPhone may be right this minute - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/09/05/apple-is-expected-raise-iphone-prices-due-ai-inflation/",
-        "description": "Whatever your favorite smartphone, it’s going to cost more. Blame inflation driven by the AI boom.",
-        "published": "12:40 PM UTC",
+        "title": "Halloween: The Game Devs Seemingly Patch Out Sex Mini-Game In Emergency Pre-Release Fix - kotaku.com",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/halloween-the-game-devs-quickly-patch-out-sex-mini-game-that-let-adult-character-sleep-with-underage-teens-2000731655",
+        "description": "Halloween: The Game's sex minigame has been swiftly removed in under 24 hours, after players realised that a character with the likeness of deceased actor Donald Pleasence could sleep with 17-year-old",
+        "published": "3:35 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Samsung Galaxy S27 Pro, S27 Ultra certification reveals 60W charging speed - Gizmochina",
-        "source": "gizmochina",
-        "url": "https://www.gizmochina.com/2026/09/05/samsung-galaxy-s27-pro-s27-ultra-3c-certified/",
-        "description": "Samsung Galaxy S27 Pro and S27 Ultra have reportedly received 3C certification with 60W charging, while the Galaxy S27 and S27 Plus offer slower speeds.",
-        "published": "5:24 AM UTC",
+        "title": "Apple iPhone 18 Pro Release Date Schedule: Your Complete September Countdown - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/davidphelan/2026/09/06/apple-iphone-18-pro-release-date-schedule-your-complete-september-countdown/",
+        "description": "",
+        "published": "2:40 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Maushold, Morpeko, Moltres, Salamence ex Illustration Rares Revealed from \"30th Celebration!\" - pokebeach.com",
-        "source": "Pokebeach.com",
-        "url": "https://www.pokebeach.com/2026/09/maushold-illustration-rare-revealed-from-30th-celebration",
-        "description": "Illustration Rares of Morpeko and Maushold have just been revealed from 30th Celebration! The set's products will begin to release worldwide on September",
-        "published": "4:39 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Robert Pattinson Wants Chris Hansen to Like ‘Primetime’ Despite His Criticisms: ‘I Hope the Inspiration His Character Has Given Is Some Kind of Compliment’ - variety.com",
-        "source": "Variety",
-        "url": "https://variety.com/2026/film/festivals/robert-pattinson-primetime-chris-hansen-criticism-1236852400/",
-        "description": "Robert Pattinson talks about his role as 'To Catch a Predator' host Chris Hansen in the A24 crime thriller 'Primetime,' which premieres at Venice.",
-        "published": "11:28 AM UTC",
+        "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
+        "source": "Pittsburgh Post-Gazette",
+        "url": "https://www.post-gazette.com/news/health/2026/09/06/measles-outbreak-pennsylvania-lancaster-county-mennonite-amish/stories/202609040042",
+        "description": "False",
+        "published": "4:17 PM UTC",
         "category": "General"
       },
       {
-        "title": "Her back hurt, then she couldn’t button her pants. The cause was alarming. - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/health/2026/09/05/her-back-hurt-then-she-couldnt-button-her-pants-cause-was-alarming/",
-        "description": "At first, doctors told her she didn’t have anything to worry about. But after treatment, her pain continued.",
-        "published": "10:32 AM UTC",
+        "title": "German far-right set for big win eastern state - exit polls - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy4zejgz3z9o",
+        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
+        "published": "4:10 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Lowell now a powerful Category 3 hurricane; some fluctuations in intensity possible through early Sunday - Big Island Now",
+        "source": "Big Island Now",
+        "url": "https://bigislandnow.com",
+        "description": "",
+        "published": "3:57 PM UTC",
         "category": "General"
       }
     ]
@@ -180,81 +180,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Newcastle",
-        "away": "Bournemouth",
+        "home": "Everton",
+        "away": "Man United",
         "home_score": 2,
         "away_score": 2,
         "status": "FINISHED",
-        "time": "11:30 AM UTC",
-        "date": "Sep 5",
-        "highlighted": false
-      },
-      {
-        "home": "Nottingham",
-        "away": "Tottenham",
-        "home_score": 0,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Sep 5",
-        "highlighted": false
-      },
-      {
-        "home": "Man City",
-        "away": "Coventry City",
-        "home_score": 1,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Sep 5",
-        "highlighted": false
-      },
-      {
-        "home": "Brighton Hove",
-        "away": "Leeds United",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Sep 5",
-        "highlighted": false
-      },
-      {
-        "home": "Brentford",
-        "away": "Sunderland",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Sep 5",
-        "highlighted": false
-      },
-      {
-        "home": "Fulham",
-        "away": "Crystal Palace",
-        "home_score": 2,
-        "away_score": 3,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Sep 5",
-        "highlighted": false
-      },
-      {
-        "home": "Hull City",
-        "away": "Aston Villa",
-        "home_score": 0,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "4:30 PM UTC",
-        "date": "Sep 5",
-        "highlighted": false
-      },
-      {
-        "home": "Everton",
-        "away": "Man United",
-        "home_score": 0,
-        "away_score": 1,
-        "status": "IN_PLAY",
         "time": "1:00 PM UTC",
         "date": "Sep 6",
         "highlighted": false
@@ -262,9 +192,9 @@
       {
         "home": "Arsenal",
         "away": "Chelsea",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "3:30 PM UTC",
         "date": "Sep 6",
         "highlighted": false
@@ -284,6 +214,17 @@
       },
       {
         "position": 2,
+        "team": "Arsenal",
+        "played": 3,
+        "won": 3,
+        "drawn": 0,
+        "lost": 0,
+        "gd": 5,
+        "points": 9,
+        "highlighted": false
+      },
+      {
+        "position": 3,
         "team": "Hull City",
         "played": 3,
         "won": 2,
@@ -294,40 +235,18 @@
         "highlighted": false
       },
       {
-        "position": 3,
-        "team": "Arsenal",
-        "played": 2,
-        "won": 2,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 4,
-        "points": 6,
-        "highlighted": false
-      },
-      {
         "position": 4,
         "team": "Chelsea",
-        "played": 2,
+        "played": 3,
         "won": 2,
         "drawn": 0,
-        "lost": 0,
-        "gd": 2,
+        "lost": 1,
+        "gd": 1,
         "points": 6,
         "highlighted": false
       },
       {
         "position": 5,
-        "team": "Man United",
-        "played": 3,
-        "won": 2,
-        "drawn": 0,
-        "lost": 1,
-        "gd": 2,
-        "points": 6,
-        "highlighted": false
-      },
-      {
-        "position": 6,
         "team": "Brentford",
         "played": 3,
         "won": 1,
@@ -336,114 +255,125 @@
         "gd": 3,
         "points": 5,
         "highlighted": false
+      },
+      {
+        "position": 6,
+        "team": "Liverpool",
+        "played": 3,
+        "won": 1,
+        "drawn": 2,
+        "lost": 0,
+        "gd": 2,
+        "points": 5,
+        "highlighted": false
       }
     ]
   },
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Eye Bundesliga Midfielder as Midfield Rebuild Accelerates",
-        "summary": "Manchester United's recruitment team has reportedly shortlisted Florian Wirtz as a marquee summer target, though Bayer Leverkusen are expected to demand a fee exceeding £120 million. The club's new ownership structure under INEOS is pushing for a transformational signing to anchor the midfield for the next decade.",
+        "headline": "Arsenal Eyeing €70m Move for Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are reported to be tracking a highly-rated Bundesliga central midfielder as a long-term replacement for Thomas Partey, whose contract expires at the end of the season. The Gunners face competition from two other top-six Premier League clubs for the player's signature.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks for Victor Osimhen Loan-to-Buy Deal",
-        "summary": "Chelsea are reported to be in serious discussions with Napoli over a structured deal for striker Victor Osimhen, with a loan arrangement for the remainder of the season and an obligation to buy clause of around £75 million if performance targets are met. The move would address Chelsea's chronic lack of a clinical No. 9.",
+        "headline": "Chelsea in Advanced Talks to Extend Reece James Contract Amid Interest from Real Madrid",
+        "summary": "Chelsea are pushing to tie down captain Reece James to a new long-term deal as Real Madrid are reported to be monitoring his situation closely, with his current deal having less than 18 months to run. Blues ownership views retaining James as a top priority in the January window negotiations.",
         "clubs": [
           "Chelsea",
-          "Napoli"
+          "Real Madrid"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
+      "home": "Manchester City",
+      "away": "Liverpool",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Emirates hosts the Premier League's defining fixture of the season as Arsenal welcome Manchester City in a title six-pointer that could reshape the top of the table. Arsenal enter in imperious home form with seven consecutive wins at the Emirates, while City have shown signs of defensive fragility in recent weeks and will be without key creative personnel through injury. The tactical battle between Mikel Arteta and Pep Guardiola — mentor versus former student — adds a compelling psychological subplot to what promises to be one of the most-watched matches of the English football calendar.",
+      "preview": "The most anticipated fixture of the Premier League calendar arrives at the Etihad this Sunday with both sides separated by just two points at the top of the table, making this a genuine title six-pointer. City have rediscovered form under Guardiola after a mid-season wobble, winning five straight, while Liverpool's high-press under Slot has been the division's most consistent system all campaign. The tactical battle between City's positional play and Liverpool's verticality promises to be a defining contest, with both managers expected to name full-strength sides.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed 48 hours before kickoff; hamstring tightness sustained in training"
+        "return": "Being assessed ahead of Sunday; 50/50 for the City match"
       },
       {
-        "player": "Ben White",
-        "team": "Arsenal",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return within two weeks following a minor knee procedure; not expected to feature Sunday"
+        "return": "Expected to return to full training mid-next week; unlikely for Sunday"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Interest Rate Risk & Convexity",
-      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates decline by 150 basis points, which of the following best estimates the bond's percentage price change?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond has a modified duration of 6.4 and a convexity of 82. If interest rates rise by 150 basis points, which of the following best approximates the percentage change in the bond's price?",
       "options": {
-        "A": "10.80%, using duration only",
-        "B": "11.76%, incorporating both duration and convexity adjustment",
-        "C": "10.16%, incorporating both duration and convexity adjustment",
-        "D": "12.54%, using convexity only"
+        "A": "-9.60%",
+        "B": "-8.68%",
+        "C": "-9.60% + 0.92% = -8.68%",
+        "D": "-9.60% + 1.85% = -7.75%"
       },
-      "correct": "B",
-      "explanation": "The full price change estimate uses the formula: %ΔP ≈ (−ModDur × ΔY) + (0.5 × Convexity × ΔY²). With ΔY = −0.015: duration effect = −7.2 × (−0.015) = +10.80%; convexity adjustment = 0.5 × 85 × (0.015)² = 0.5 × 85 × 0.000225 = +0.9563%. Total ≈ 10.80% + 0.96% = 11.76%. Convexity always adds positively to price change for both rising and falling rates, making it a desirable property for bondholders."
+      "correct": "C",
+      "explanation": "The full price change approximation using duration and convexity is: %ΔP ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Here: (-6.4 × 0.015) + (0.5 × 82 × 0.015²) = -0.0960 + 0.5 × 82 × 0.000225 = -0.0960 + 0.00923 ≈ -8.68%. Duration alone understates price for a rate rise because convexity is always a positive adjustment. Options A and D either omit convexity or double it incorrectly."
     },
     "finance_topic": {
-      "title": "Basis Risk and the Limits of Hedging",
-      "subtitle": "Why perfect hedges exist only in textbooks, and how basis risk can turn a hedge into a source of loss.",
+      "title": "Basis Risk and Imperfect Hedging in Practice",
+      "subtitle": "Why hedges rarely work perfectly and how basis risk quietly erodes protection for investors and risk managers.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying asset being hedged. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging instrument. Even when a hedge is carefully constructed — say, using crude oil futures to offset jet fuel price exposure — differences in grade, location, contract maturity, and supply-demand dynamics mean the two prices diverge unpredictably over time.",
-        "The concept gained painful real-world visibility during the 2008 financial crisis, when institutions hedging mortgage-backed securities with index-based credit default swaps discovered that the specific tranches they held moved very differently from the broad indices they were short. Hedges that appeared to provide near-complete protection on paper produced massive net losses as basis widened catastrophically. Airlines routinely face analogous basis risk when hedging jet fuel with Brent or WTI crude contracts, as the refining crack spread introduces a second layer of price variability.",
-        "For risk managers and portfolio managers, managing basis risk requires ongoing monitoring of the correlation between the hedge instrument and the underlying, stress-testing hedge ratios under adverse scenarios, and sometimes accepting residual exposure rather than over-hedging at high cost. Regulators and internal risk frameworks increasingly require firms to report not just notional hedge coverage but also an estimate of hedge effectiveness — often quantified as the R-squared of the hedge relationship — to surface latent basis risk before it crystallizes."
+        "Basis risk arises when the price of the instrument being hedged does not move in perfect lockstep with the price of the hedging instrument. Formally, basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedge is carefully constructed, differences in underlying assets, contract specifications, delivery dates, or credit quality mean that basis fluctuates — sometimes significantly — over the life of the hedge.",
+        "A classic real-world example is an airline hedging jet fuel exposure using crude oil futures. While jet fuel and crude oil prices are highly correlated, they are not identical. In 2022, crack spreads — the refining margin between crude and refined products — widened sharply due to refinery capacity constraints following the COVID reopening surge. Airlines that had hedged with WTI crude futures found their hedge underperforming as jet fuel prices diverged substantially from crude, exposing them to millions in unexpected fuel costs despite holding hedges.",
+        "For risk managers and portfolio managers, basis risk means that no hedge is a perfect substitute for eliminating exposure — it simply transforms price risk into basis risk. The practical implication is that hedge ratios must be dynamically adjusted, the correlation between the hedging instrument and the exposure must be continuously monitored, and residual basis risk should be explicitly reported in VaR models rather than assumed away. Ignoring basis risk can create a false sense of security in risk reporting."
       ],
       "key_takeaways": [
-        "Basis risk is the irreducible mismatch between a hedging instrument and the underlying exposure, and it can transform a hedge into an additional source of volatility.",
-        "Hedge effectiveness should be measured statistically (e.g., via regression R²) and stress-tested under tail scenarios, not assumed from conceptual similarity alone.",
-        "Accepting a smaller, well-understood residual exposure is often preferable to constructing a complex hedge that introduces multiple new risk dimensions."
+        "Basis risk is the residual risk that remains after hedging, arising from imperfect correlation between the hedged asset and the hedging instrument.",
+        "Hedges transform price risk into basis risk — they do not eliminate risk entirely, only change its character.",
+        "Dynamic hedge ratios, continuous correlation monitoring, and explicit inclusion of basis risk in VaR models are essential best practices."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をもう使い切ってしまいました。",
       "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I've already used up this month's budget.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a sense of regret or finality. Here it emphasizes that the money is completely gone — an unfortunate outcome.",
-      "memory_tip": "Think of 'yosan' as 'your sand' — you only have so much sand in the hourglass before the budget runs out."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality. It combines the て-form of a verb with しまう to convey 'ended up doing' or 'have completely done' something.",
+      "memory_tip": "Think of 'yo-san' as 'yo, that's the SUM' — your budget is the total sum you planned for. Picture someone counting coins saying 'Yo, that's the sum!' to lock in the meaning."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Execute Live Trades Without Human Approval",
-      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step decision-making — is moving from research labs into live financial workflows. Firms including JPMorgan, Citadel, and several quantitative hedge funds are piloting systems where AI agents autonomously retrieve market data, generate trade rationale, and submit orders within pre-approved risk parameters. Unlike earlier algorithmic trading, these agents can adapt to unstructured inputs like earnings call transcripts or geopolitical news, blurring the line between quantitative and discretionary management. The critical governance question emerging is not whether AI can trade, but how humans maintain meaningful oversight when decisions occur in milliseconds across thousands of concurrent positions.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Major Banks",
+      "summary": "Leading financial institutions including JPMorgan, HSBC, and several fintech lenders are deploying large language models and gradient boosting ensembles to automate and augment credit underwriting workflows. These systems analyze thousands of structured and unstructured data points — from cash flow patterns to supply chain signals — in seconds, reducing loan decision times from days to minutes. Regulators are responding with new model risk management guidance requiring explainability standards for AI-driven credit decisions, making model governance a critical new function. The shift is not replacing credit analysts but fundamentally changing the nature of their work toward model oversight, exception handling, and stress-scenario design.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan a sequence of actions, use external tools (APIs, databases, trading systems), and pursue a goal over multiple steps without constant human input — moving beyond simple question-answering toward goal-directed execution."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning method that builds many sequential decision trees, each correcting the errors of the previous one. In credit risk, it outperforms traditional scorecards by capturing non-linear relationships between borrower characteristics and default probability."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to a live external knowledge base — such as SEC filings, Bloomberg data, or internal research — so its responses are grounded in current, firm-specific information rather than static training data alone."
+          "term": "Explainability (XAI) / SHAP Values",
+          "definition": "SHAP (SHapley Additive exPlanations) is a technique that decomposes any AI model's prediction to show exactly how much each input variable contributed to a specific output. In finance, regulators and model risk teams require SHAP or similar tools to justify AI-driven credit or trading decisions to auditors and consumers."
         },
         {
-          "term": "Human-in-the-Loop (HITL)",
-          "definition": "A system design principle where human judgment is embedded at critical decision points in an AI workflow, used in trading contexts to enforce risk limits, override anomalous signals, and maintain regulatory accountability for autonomous decisions."
+          "term": "Model Risk Management (MRM)",
+          "definition": "The discipline of identifying, measuring, and controlling risks that arise from the use of quantitative models. As AI models replace simpler statistical tools, MRM frameworks must now evaluate training data quality, concept drift, adversarial robustness, and fairness — not just statistical fit."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design governance frameworks around autonomous AI systems — defining kill switches, audit trails, and risk parameter boundaries — will command significant premium over those who only know how to use AI tools as end-users. The most valuable skillset in the next five years is the ability to bridge quantitative fluency, regulatory understanding, and AI system design, making roles like AI Risk Officer and Model Governance Lead among the fastest-growing in institutional finance."
+      "career_insight": "Credit analysts and risk managers who understand both the mathematics of AI models and the regulatory frameworks governing their use — particularly SR 11-7 model risk guidance and emerging EU AI Act requirements — will be disproportionately valuable. The most sought-after professionals in 2025 and beyond will be those who can serve as translators between data science teams and senior risk committees, able to challenge model assumptions and communicate uncertainty clearly."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a delicate macro crossroads as traders reprice the Federal Reserve's 'higher-for-longer' narrative against a softening but still-resilient U.S. labor market; the S&P 500 faces technical resistance near recent highs while credit spreads have tightened to post-2022 lows, suggesting complacency risk is building. Dollar strength is reasserting itself on relative growth divergence with Europe and China, pressuring EM currencies and commodity prices, while gold consolidates above key support as a hedge against fiscal deterioration and geopolitical tail risk in the Middle East and Taiwan Strait. This morning's tone is cautiously risk-off at the margin — watch the long end of the Treasury curve for the next directional signal, as any upside surprise in inflation data could trigger a rapid re-rating of rate-sensitive equities."
+    "market_sentiment": "Global equity markets are navigating a cautious tone this morning as investors digest a hawkish hold from the Federal Reserve, with Chair Powell reiterating that the path to rate cuts remains data-dependent amid sticky services inflation running near 4.0% YoY. Treasury yields have edged higher across the belly of the curve, compressing equity risk premiums and putting pressure on high-multiple growth names, while the USD is bid modestly against G10 peers. Credit spreads remain range-bound for now, but the combination of higher-for-longer rates and softening consumer spending data is beginning to raise questions about whether the soft-landing consensus is becoming too crowded — watch ISM Services and Friday's NFP print for the next catalyst."
   }
 }
