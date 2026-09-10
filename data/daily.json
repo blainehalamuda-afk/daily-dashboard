@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:28 PM UTC",
-  "date": "Wednesday, September 9, 2026",
+  "generated_at": "3:23 PM UTC",
+  "date": "Thursday, September 10, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 81,
-    "feels_like_f": 84,
-    "high_f": 84,
-    "low_f": 78,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 63,
-    "wind_mph": 5,
+    "temp_f": 85,
+    "feels_like_f": 91,
+    "high_f": 87,
+    "low_f": 82,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 65,
+    "wind_mph": 10,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "☁️",
-        "high": 68,
-        "low": 68,
-        "description": "Broken Clouds"
-      },
       {
         "day": "Fri",
         "icon": "☁️",
-        "high": 75,
-        "low": 75,
-        "description": "Broken Clouds"
+        "high": 71,
+        "low": 71,
+        "description": "Overcast Clouds"
       },
       {
         "day": "Sat",
         "icon": "🌧️",
-        "high": 74,
-        "low": 74,
+        "high": 75,
+        "low": 75,
         "description": "Light Rain"
+      },
+      {
+        "day": "Sun",
+        "icon": "☁️",
+        "high": 73,
+        "low": 73,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 761.4,
-        "change": -4.56,
-        "change_pct": -0.6,
+        "price": 759.04,
+        "change": -3.36,
+        "change_pct": -0.44,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 312.35,
-        "change": -3.87,
-        "change_pct": -1.22,
-        "up": false,
+        "price": 322.61,
+        "change": 7.27,
+        "change_pct": 2.31,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 223.7,
-        "change": -2.03,
-        "change_pct": -0.9,
+        "price": 218.1,
+        "change": -5.57,
+        "change_pct": -2.49,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 368.31,
-        "change": 0.15,
-        "change_pct": 0.04,
-        "up": true,
+        "price": 365.38,
+        "change": -2.43,
+        "change_pct": -0.66,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 78256.49,
-        "change": -225.56,
-        "change_pct": -0.29,
+        "price": 77196,
+        "change": -938.14,
+        "change_pct": -1.2,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2477.34,
-        "change": -5.23,
-        "change_pct": -0.21,
+        "price": 2437.13,
+        "change": -35.8,
+        "change_pct": -1.45,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow off 475 points, S&P 500 lower as Brent crude edges toward $100 a barrel; Amgen falls, Nasdaq higher after Labor Day - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-war-in-iran-escalates-steady-start",
-        "description": "Stocks are lower Tuesday as tensions between Washington and Tehran worsen.",
-        "published": "1:45 PM UTC",
+        "title": "Stock Market Today: Dow Slumps 400 Points As Oil Surges; Shell Jumps Past Entry (Live Coverage) - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/",
+        "description": "Stock Market Today: The Dow Jones index drops Wednesday on rising oil prices. Apple stock falls ahead of the iPhone event.",
+        "published": "3:32 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon - CNBC",
+        "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level - CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
-        "description": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.",
-        "published": "1:09 PM UTC",
+        "url": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
+        "description": "The much-anticipated announcement triples the normal buyback operation and follows an announcement  from Treasury Secretary Scott Bessent.",
+        "published": "3:03 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Here’s where rental demand is heading and what it means for future home sales - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html",
-        "description": "As U.S. rent prices rise, more tenants are relocating to cheaper markets, according to a new report by Zillow.",
-        "published": "12:55 PM UTC",
+        "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+        "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+        "published": "3:02 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/cnn-underscored/deals/apple-labor-day-sale-2026-09-07",
-        "description": "Apple products like AirPods, iPads, MacBooks and official accessories are on sale during the final hours of Labor Day weekend.",
-        "published": "2:41 PM UTC",
+        "title": "All New iPhone 18 Pro and iPhone Duo Colors Leaked - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/09/09/all-iphone-18-pro-iphone-duo-colors/",
+        "description": "Ahead of Apple's annual iPhone event at 10 a.m. Pacific Time today, Bloomberg's Mark Gurman has leaked all of the color options for the...",
+        "published": "3:47 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Walking an extra 1,000 steps a day may help your heart, study finds - The Washington Post",
+        "title": "10 PS Plus Extra, Premium Games for September 2026 Announced - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/10-ps-plus-extra-premium-games-for-september-2026-announced",
+        "description": "A scattershot approach",
+        "published": "3:30 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Kirby and the World Beyond, which seemingly includes a Legend of Zelda crossover, coming to Nintendo Switch 2 in Spring 2027 - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/kirby-and-the-world-beyond-reveal-trailer-nintendo-direct",
+        "description": "A new reveal trailer Kirby and the World Beyond ended today's Nintendo Direct, showing off a large open world and lots of Zelda tie-ins.",
+        "published": "3:20 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "ABC responds to rumored ‘Jimmy Kimmel Live!’ cancellation - Chicago Tribune",
+        "source": "New York Daily News",
+        "url": "https://www.nydailynews.com/2026/09/09/abc-responds-jimmy-kimmel-cancellation-rumors/",
+        "description": "ABC is setting the record straight amid rumors that it has plans to cancel “Jimmy Kimmel Live!” at the end of its current season.",
+        "published": "3:21 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Archaeologists Just Found the Most Complete Denisovan Record Yet—and It Goes Back 190,000 Years - Gizmodo",
+        "source": "Gizmodo.com",
+        "url": "https://gizmodo.com/archaeologists-just-found-the-most-complete-denisovan-record-yet-and-it-goes-back-190000-years-2000809115",
+        "description": "The findings include bones and tools that hint at the ancient human relative's biology, diet, and lifestyle.",
+        "published": "3:09 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Trump makes GOP midterm convention about himself, much to Democrats’ delight - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/wellness/2026/09/08/new-science-why-you-should-take-an-extra-1000-steps-today/",
-        "description": "Here’s the latest science on how many steps you actually need every day.",
-        "published": "1:30 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Apple’s new CEO John Ternus expected to debut foldable iPhone at event Wednesday - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/technology/article/apples-new-ceo-john-ternus-expected-to-debut-foldable-iphone-at-event-wednesday-132214684.html",
-        "description": "Apple will kick off a new era on Wednesday when CEO John Ternus takes the stage for the first time for the company’s annual iPhone launch event.",
-        "published": "1:22 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "King sends letter to clarify Harry and Meghan’s status in U.K. - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/09/king-charles-letter-clarifies-harry-meghans-status-uk/",
-        "description": "Prince Harry and Meghan said they were “a little surprised” they had not been told about the letter in advance, British media reported.",
-        "published": "1:33 PM UTC",
+        "url": "https://www.washingtonpost.com/politics/2026/09/09/gop-indulges-trump-with-2-day-pep-rally-putting-him-right-where-democrats-want-him/",
+        "description": "At President Donald Trump’s urging, the GOP is staging a midterm convention centered on him.",
+        "published": "3:02 PM UTC",
         "category": "General"
       }
     ]
@@ -243,108 +259,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for RB Leipzig Midfielder — Fee Could Reach £65m",
-        "summary": "Arsenal are reportedly in advanced discussions to sign RB Leipzig's dynamic central midfielder as Mikel Arteta seeks to add a dynamic ball-carrier to compete with Liverpool and Manchester City for the title. Personal terms are said to be close, with the player keen on a move to the Emirates.",
+        "headline": "Arsenal Intensify Interest in Athletic Club Midfielder Nico Williams",
+        "summary": "Arsenal are reported to be leading the chase for Nico Williams as Mikel Arteta seeks dynamic wide cover, with the Spanish international valued at over £70 million by Athletic Club. Negotiations are said to be in early stages with the player's camp receptive to a move to the Emirates.",
         "clubs": [
           "Arsenal",
-          "RB Leipzig"
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Chelsea Revive Interest in Napoli Striker as Striker Rotation Concern Grows",
-        "summary": "Chelsea's recruitment team has reportedly re-engaged with Napoli over their prolific striker after the Blues' injury issues up front exposed a lack of reliable depth in the squad. Napoli are holding out for a fee in excess of £70 million, complicating potential negotiations.",
+        "headline": "Manchester United Weighing Move for Bundesliga Striker as Attack Misfires",
+        "summary": "Manchester United's recruitment team have shortlisted Eintracht Frankfurt forward Hugo Ekitiké as a potential January target, with the club's attacking returns falling well below expectations this season. The 22-year-old Frenchman has registered 11 goals in all competitions and is attracting interest from multiple Premier League clubs.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Manchester United",
+          "Eintracht Frankfurt"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
+      "home": "Liverpool",
+      "away": "Manchester City",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The defining fixture of the Premier League season arrives at the Etihad as Pep Guardiola's City host Arne Slot's Liverpool in a title six-pointer that could shift the psychological momentum of the entire campaign. City have looked imperious at home this season but Liverpool's high press and clinical counter-attacking have troubled elite defenses, making this an absorbing tactical duel between Guardiola's positional play and Slot's dynamic pressing structure. With both clubs separated by just two points in the table, dropped points for either side could prove decisive come May.",
+      "preview": "The Premier League's marquee fixture of the weekend sees table-topping Liverpool host a Manchester City side desperate to close the gap after a turbulent run of form. Arne Slot's Liverpool have been relentless at Anfield, conceding fewer than any side in the division, while City's Pep Guardiola faces mounting pressure after back-to-back league defeats raised questions about the champions' depth and cohesion. The tactical battle between Liverpool's high press and City's positional play promises to be the defining subplot, with the result potentially decisive for the title race narrative heading into the new year.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Erling Haaland",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Expected to be assessed on Friday; may miss Sunday's fixture"
+        "status": "Out",
+        "return": "Season over — ACL recovery ongoing"
       },
       {
         "player": "Diogo Jota",
         "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Targeting return after international break, approximately 2–3 weeks"
+        "status": "Doubtful",
+        "return": "Expected to be assessed late in the week ahead of Sunday's fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
+      "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A bank estimates the following for a corporate loan portfolio: Probability of Default (PD) = 2.5%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $10,000,000. The bank also estimates an unexpected loss standard deviation of $850,000. Under the Basel framework, regulatory capital is primarily designed to cover which of the following?",
+      "question": "A risk manager is evaluating the credit valuation adjustment (CVA) for an OTC interest rate swap with a counterparty rated BB. Which of the following best describes how a simultaneous increase in the counterparty's credit spread and an increase in interest rate volatility would affect the CVA?",
       "options": {
-        "A": "Expected Loss (EL) only, since provisions cover unexpected losses",
-        "B": "Unexpected Loss (UL) only, since provisions and pricing should cover expected losses",
-        "C": "Both Expected Loss and Unexpected Loss equally, as regulators require full coverage",
-        "D": "Stress Loss only, defined as EL plus three standard deviations of loss"
+        "A": "CVA increases due to higher probability of default; the effect of interest rate volatility is negligible for linear instruments.",
+        "B": "CVA increases due to both higher probability of default and higher expected exposure driven by greater potential future exposure.",
+        "C": "CVA decreases because higher interest rate volatility reduces the net present value of the swap's cash flows.",
+        "D": "CVA remains unchanged because CVA is solely determined by the credit spread of the counterparty at inception."
       },
       "correct": "B",
-      "explanation": "Under the Basel capital framework, Expected Loss (EL = PD × LGD × EAD = $112,500 in this case) should be covered through loan loss provisions and risk-adjusted pricing built into the loan's spread. Regulatory capital (economic and regulatory) is designed to absorb Unexpected Losses — the statistical deviation of actual losses above the expected level — protecting the bank's solvency during adverse conditions. This distinction is fundamental to credit risk management: EL is a cost of doing business, while UL represents true capital-at-risk. Confusing the two leads to systematic under- or over-capitalization."
+      "explanation": "CVA is calculated as the product of probability of default, loss given default, and expected exposure (EE), discounted appropriately. A widening credit spread directly increases the risk-neutral probability of default, raising CVA. Simultaneously, higher interest rate volatility increases potential future exposure (PFE) and therefore expected exposure on the swap, further increasing CVA. Option A is incorrect because for swaps, which can be both in- and out-of-the-money over time, interest rate volatility materially affects exposure. CVA is a dynamic, market-implied measure and is not fixed at inception."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as Banks Retreat",
-      "subtitle": "How direct lending by non-bank institutions is reshaping corporate finance and credit risk distribution across the financial system.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Understanding why imperfect hedges can leave portfolios exposed to residual risk even when protection is in place.",
       "paragraphs": [
-        "Private credit refers to debt financing extended directly by non-bank lenders — such as business development companies (BDCs), private equity-affiliated credit funds, and insurance asset managers — rather than through syndicated bank loans or public bond markets. These instruments are typically floating-rate, senior-secured, and negotiated bilaterally with borrowers, making them illiquid but highly customizable. The asset class has grown from approximately $500 billion globally in 2015 to over $1.7 trillion by 2024, driven by regulatory constraints on bank lending and sustained institutional demand for yield premium over public credit.",
-        "The growth of private credit accelerated dramatically following the post-2008 Basel III regulations, which raised capital requirements for leveraged lending on bank balance sheets. Middle-market companies — those with EBITDA between $10 million and $150 million — found traditional bank financing increasingly unavailable or restrictive. Apollo, Ares, Blackstone Credit, and Blue Owl stepped into this gap, offering speed, covenant flexibility, and certainty of close in exchange for higher spreads, typically SOFR + 500–700 basis points. In 2023–2024, private credit even began competing for large-cap deals historically dominated by leveraged loan syndicates, a structural shift that major investment banks publicly flagged as a competitive threat.",
-        "For investors and risk managers, private credit introduces a distinct set of considerations. The illiquidity premium is real but comes with mark-to-model valuation risk — portfolios do not reprice daily, creating potential NAV smoothing that obscures true volatility. Concentration risk in sponsor-backed borrowers, covenant-lite structures creeping into the space, and the untested behavior of these portfolios through a full default cycle are legitimate concerns. Portfolio managers allocating to private credit must scrutinize manager underwriting standards, fund leverage, and LP redemption terms carefully, as a liquidity mismatch between fund structure and underlying assets can amplify stress during downturns."
+        "Basis risk arises when the hedging instrument and the underlying exposure do not move in perfect lockstep, leaving a residual, unhedged component. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a hedge is constructed thoughtfully, factors such as differences in maturity, credit quality, geography, or liquidity between the hedged item and the hedging instrument ensure that basis is rarely zero. This residual variance is not diversifiable in the traditional sense — it is a structural feature of using proxy instruments.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil are related but not identical commodities, their price relationship can shift dramatically during supply disruptions or refinery bottlenecks. During the 2022 energy crisis, crack spreads — the margin between crude oil and refined products — widened sharply, meaning airlines that had hedged with WTI futures still faced materially higher jet fuel bills than their hedge implied. Similarly, fixed-income portfolio managers using Treasury futures to hedge corporate bond portfolios face basis risk from credit spread movements that the Treasury instrument cannot capture.",
+        "For risk managers and investors, basis risk demands explicit quantification rather than the assumption that a hedge is 'good enough.' Hedge effectiveness testing under IFRS 9 and ASC 815 requires demonstrating that the hedging relationship offsets between 80% and 125% of fair value or cash flow changes — a direct acknowledgment that basis risk can break accounting hedge designations. Practitioners should stress-test hedges under scenarios where historical correlations break down, size positions accounting for residual basis variance, and consider dynamic rebalancing when basis moves outside acceptable thresholds."
       ],
       "key_takeaways": [
-        "Private credit has surpassed $1.7 trillion AUM globally, filling the void left by bank retrenchment from leveraged and middle-market lending post-Basel III.",
-        "Floating-rate, bilaterally negotiated structures offer yield premiums but embed illiquidity risk and mark-to-model valuation opacity that standard risk metrics may understate.",
-        "The asset class remains largely untested through a deep credit cycle, making manager selection, covenant discipline, and fund structure analysis critical risk management priorities."
+        "Basis risk is the unavoidable residual exposure when the hedging instrument and the underlying asset are not perfectly correlated.",
+        "Commodity, fixed income, and currency hedges all carry meaningful basis risk that can widen dramatically during market stress.",
+        "Effective hedge programs quantify basis variance, monitor it dynamically, and maintain accounting hedge effectiveness within regulatory bounds."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をもう使い切ってしまいました。",
       "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or that something happened beyond one's intention. It combines the te-form of a verb with しまう (shimau), indicating finality or an undesirable completion.",
-      "memory_tip": "Think of 予算 (yosan) as 'yo, son — how much did we spend?' — the 予 means 'beforehand' and 算 means 'calculate,' so a budget is literally a pre-calculation of money, just like you'd plan before spending."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまう (to finish/end up doing), making it perfect for expressing unfortunate outcomes like overspending.",
+      "memory_tip": "Think of 'yo-san' as 'your SAN-ity limit for spending' — once you hit the yosan, you've reached your financial sanity boundary for the month."
     },
     "ai_strategy": {
-      "headline": "AI Credit Underwriting Models Are Quietly Displacing Traditional Analyst Scorecards",
-      "summary": "Major private credit funds and fintech lenders are deploying large language models and gradient-boosted machine learning systems to augment — and in some cases replace — traditional credit analyst scorecards for middle-market underwriting. These models ingest unstructured data including management call transcripts, supplier payment histories, web traffic signals, and SEC filings to generate default probability estimates with documented outperformance versus FICO-adjacent methods in backtests. Regulators in the US and EU are responding with increasing scrutiny on model explainability requirements, specifically whether lenders can articulate in plain language why credit was extended or denied — a standard that black-box deep learning models struggle to meet. The intersection of AI capability and regulatory explainability constraint is becoming one of the defining tensions in credit technology for 2024–2025.",
+      "headline": "AI Agents Are Quietly Reshaping How Banks Execute Complex Workflows",
+      "summary": "Agentic AI systems — autonomous models that can plan, use tools, and execute multi-step tasks without human intervention at each step — are moving from research labs into production environments at major financial institutions. Banks including JPMorgan and Goldman Sachs have piloted AI agents capable of conducting end-to-end research workflows, drafting credit memos, reconciling trade breaks, and even proposing hedging adjustments within predefined risk parameters. Unlike earlier chatbot deployments, these agents can call external APIs, query live databases, and chain reasoning across dozens of steps, dramatically compressing analyst-level tasks from hours to minutes. The critical governance challenge is defining clear 'human-in-the-loop' thresholds — determining at exactly which decision points an agent must escalate to a human rather than act autonomously.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions on structured tabular data — the dominant data type in credit underwriting and risk modeling."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously plan and execute sequences of actions toward a goal — such as gathering market data, analyzing it, and producing a trade recommendation — with minimal human prompting at each step."
         },
         {
-          "term": "Explainable AI (XAI) / SHAP Values",
-          "definition": "Methods that decompose a model's output to show how much each input variable contributed to a specific prediction, enabling risk managers and regulators to audit why a loan was approved or a counterparty was flagged as high-risk."
+          "term": "Tool Use / Function Calling",
+          "definition": "The capability of large language models to invoke external tools like Bloomberg APIs, SQL databases, or calculation engines mid-conversation, allowing them to retrieve live financial data rather than relying solely on trained knowledge."
         },
         {
-          "term": "Alternative Data Ingestion",
-          "definition": "The use of non-traditional data sources — such as satellite imagery of retail parking lots, app download trends, or real-time payment flows — to generate signals about a company's financial health before it appears in official filings, giving credit analysts an informational edge."
+          "term": "Human-in-the-Loop (HITL)",
+          "definition": "A governance design where AI systems are required to pause and obtain human approval before executing actions above a defined risk or materiality threshold — critical in trading, credit approval, and client-facing finance applications."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge quantitative model literacy with regulatory and business judgment are becoming disproportionately valuable — firms are not eliminating analysts but are expecting them to interrogate, validate, and override AI outputs rather than build spreadsheets. Proficiency in Python for data manipulation, familiarity with model risk management frameworks (SR 11-7), and the ability to communicate AI-driven insights to credit committees and regulators are the skill combination that defines the next generation of credit professionals."
+      "career_insight": "Finance professionals who understand how to design, supervise, and audit AI agent workflows will have an outsized advantage over those who merely use AI as a chatbot. The highest-value skill is not prompt engineering but rather workflow architecture — knowing how to break complex financial processes into agent-executable steps while embedding appropriate risk controls and escalation logic. Risk managers who can translate regulatory requirements into AI governance frameworks are becoming as valuable as quants were in the 2000s."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a delicate macro environment heading into the week, with Fed officials continuing to push back on early rate-cut expectations following a resilient jobs print and services PMI data that suggests the 'higher-for-longer' narrative retains credibility into Q3. The US Treasury curve remains inverted with the 2s10s spread hovering near -35bps, keeping pressure on regional bank net interest margins and sustaining the bid for short-duration credit. Risk appetite is bifurcated — mega-cap tech continues to attract flows on AI earnings optimism while rate-sensitive sectors including utilities and REITs lag, and credit spreads in high yield have widened modestly off recent tights, signaling that the market is beginning to reprice some refinancing risk for lower-rated borrowers facing 2025–2026 maturity walls."
+    "market_sentiment": "Global risk appetite remains cautiously constructive as markets digest a resilient US labor market print against a backdrop of still-elevated long-end Treasury yields, with the 10-year hovering near 4.55% and continuing to cap equity multiple expansion. The Fed's higher-for-longer narrative is firmly re-priced, with markets now assigning less than two full cuts in 2025, shifting focus to earnings quality and corporate margin durability rather than rate-driven re-rating. In FX, the dollar index maintains broad strength while EM currencies face idiosyncratic pressure — Chinese stimulus signals are providing a partial offset, but conviction remains low ahead of trade policy clarity."
   }
 }
