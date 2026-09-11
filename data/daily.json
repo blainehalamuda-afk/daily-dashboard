@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:23 PM UTC",
-  "date": "Thursday, September 10, 2026",
+  "generated_at": "3:25 PM UTC",
+  "date": "Friday, September 11, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 85,
-    "feels_like_f": 91,
-    "high_f": 87,
-    "low_f": 82,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 65,
-    "wind_mph": 10,
+    "temp_f": 88,
+    "feels_like_f": 96,
+    "high_f": 90,
+    "low_f": 86,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 62,
+    "wind_mph": 5,
     "forecast": [
-      {
-        "day": "Fri",
-        "icon": "☁️",
-        "high": 71,
-        "low": 71,
-        "description": "Overcast Clouds"
-      },
       {
         "day": "Sat",
         "icon": "🌧️",
-        "high": 75,
-        "low": 75,
-        "description": "Light Rain"
+        "high": 70,
+        "low": 70,
+        "description": "Moderate Rain"
       },
       {
         "day": "Sun",
         "icon": "☁️",
         "high": 73,
         "low": 73,
-        "description": "Overcast Clouds"
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Mon",
+        "icon": "🌤️",
+        "high": 77,
+        "low": 77,
+        "description": "Few Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 759.04,
-        "change": -3.36,
-        "change_pct": -0.44,
-        "up": false,
+        "price": 765.63,
+        "change": 7.8,
+        "change_pct": 1.03,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 322.61,
-        "change": 7.27,
-        "change_pct": 2.31,
+        "price": 335.77,
+        "change": 9.2,
+        "change_pct": 2.82,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 218.1,
-        "change": -5.57,
-        "change_pct": -2.49,
-        "up": false,
+        "price": 219.97,
+        "change": 1.61,
+        "change_pct": 0.74,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 365.38,
-        "change": -2.43,
-        "change_pct": -0.66,
-        "up": false,
+        "price": 365.76,
+        "change": 2.2,
+        "change_pct": 0.61,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77196,
-        "change": -938.14,
-        "change_pct": -1.2,
-        "up": false,
+        "price": 78698,
+        "change": 1522,
+        "change_pct": 1.97,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2437.13,
-        "change": -35.8,
-        "change_pct": -1.45,
-        "up": false,
+        "price": 2614.11,
+        "change": 177.65,
+        "change_pct": 7.29,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,82 +111,129 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow Slumps 400 Points As Oil Surges; Shell Jumps Past Entry (Live Coverage) - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/",
-        "description": "Stock Market Today: The Dow Jones index drops Wednesday on rising oil prices. Apple stock falls ahead of the iPhone event.",
-        "published": "3:32 PM UTC",
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y48rz2nddo",
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "published": "3:56 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
-        "description": "The much-anticipated announcement triples the normal buyback operation and follows an announcement  from Treasury Secretary Scott Bessent.",
-        "published": "3:03 PM UTC",
+        "title": "Meta’s Muse AI works and creeps me out - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+        "description": "Meta just debuted its personal AI assistant Muse. While Muse delivers on its promise of performing tasks in the background, it’s hard to use the tool without thinking about its connection to Meta.",
+        "published": "3:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - TechCrunch",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-        "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-        "published": "3:02 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "All New iPhone 18 Pro and iPhone Duo Colors Leaked - MacRumors",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/09/09/all-iphone-18-pro-iphone-duo-colors/",
-        "description": "Ahead of Apple's annual iPhone event at 10 a.m. Pacific Time today, Bloomberg's Mark Gurman has leaked all of the color options for the...",
-        "published": "3:47 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "10 PS Plus Extra, Premium Games for September 2026 Announced - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/10-ps-plus-extra-premium-games-for-september-2026-announced",
-        "description": "A scattershot approach",
-        "published": "3:30 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Kirby and the World Beyond, which seemingly includes a Legend of Zelda crossover, coming to Nintendo Switch 2 in Spring 2027 - Eurogamer.net",
+        "title": "Nintendo of America thanks fans for dealing with tariff-related price hikes by encouraging them to spend more money in a new sale - Eurogamer.net",
         "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/kirby-and-the-world-beyond-reveal-trailer-nintendo-direct",
-        "description": "A new reveal trailer Kirby and the World Beyond ended today's Nintendo Direct, showing off a large open world and lots of Zelda tie-ins.",
-        "published": "3:20 PM UTC",
+        "url": "https://www.eurogamer.net/nintendo-american-tarrif-refund-sale",
+        "description": "Nintendo America has faced a lot of pushback for not passing tariff refunds onto consumers, so its new tariff-related sale is causing some backlash.",
+        "published": "3:18 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "ABC responds to rumored ‘Jimmy Kimmel Live!’ cancellation - Chicago Tribune",
-        "source": "New York Daily News",
-        "url": "https://www.nydailynews.com/2026/09/09/abc-responds-jimmy-kimmel-cancellation-rumors/",
-        "description": "ABC is setting the record straight amid rumors that it has plans to cancel “Jimmy Kimmel Live!” at the end of its current season.",
-        "published": "3:21 PM UTC",
-        "category": "General"
+        "title": "GTA 6 DualSense pre-orders LIVE — limited-edition PS5 controllers are now available at Best Buy, Walmart and more - Tom's Guide",
+        "source": "Tom's Guide",
+        "url": "https://www.tomsguide.com/news/live/gta-6-ps5-dualsense-controller-pre-orders-live-updates",
+        "description": "Add some Vice City to your PS5 setup",
+        "published": "2:29 PM UTC",
+        "category": "Technology"
       },
       {
-        "title": "Archaeologists Just Found the Most Complete Denisovan Record Yet—and It Goes Back 190,000 Years - Gizmodo",
-        "source": "Gizmodo.com",
-        "url": "https://gizmodo.com/archaeologists-just-found-the-most-complete-denisovan-record-yet-and-it-goes-back-190000-years-2000809115",
-        "description": "The findings include bones and tools that hint at the ancient human relative's biology, diet, and lifestyle.",
-        "published": "3:09 PM UTC",
-        "category": "General"
+        "title": "Professor Layton and the Curious Village Remake revealed for Nintendo Switch 2, Switch - Nintendo Everything",
+        "source": "Nintendoeverything.com",
+        "url": "https://nintendoeverything.com/professor-layton-and-the-curious-village-remake-revealed-for-nintendo-switch-2-switch/",
+        "description": "Level-5 is working on Professor Layton and the Curious Village Remake for Nintendo Switch 2 and Switch, the company just announced. The title arrives for both platforms in 2027. Professor Layton and t",
+        "published": "1:46 PM UTC",
+        "category": "Technology"
       },
       {
-        "title": "Trump makes GOP midterm convention about himself, much to Democrats’ delight - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/09/09/gop-indulges-trump-with-2-day-pep-rally-putting-him-right-where-democrats-want-him/",
-        "description": "At President Donald Trump’s urging, the GOP is staging a midterm convention centered on him.",
-        "published": "3:02 PM UTC",
+        "title": "Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-missouris-attempt-use-newly-drawn-republican-cong-rcna596857",
+        "description": "",
+        "published": "2:55 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [],
+    "matches": [
+      {
+        "home": "Crystal Palace",
+        "away": "Ipswich Town",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "Sep 12",
+        "highlighted": false
+      },
+      {
+        "home": "Liverpool",
+        "away": "Fulham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "Sep 12",
+        "highlighted": false
+      },
+      {
+        "home": "Aston Villa",
+        "away": "Nottingham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "Sep 12",
+        "highlighted": false
+      },
+      {
+        "home": "Bournemouth",
+        "away": "Brentford",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "Sep 12",
+        "highlighted": false
+      },
+      {
+        "home": "Chelsea",
+        "away": "Hull City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "Sep 12",
+        "highlighted": false
+      },
+      {
+        "home": "Tottenham",
+        "away": "Everton",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "4:30 PM UTC",
+        "date": "Sep 12",
+        "highlighted": false
+      },
+      {
+        "home": "Sunderland",
+        "away": "Arsenal",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "Sep 12",
+        "highlighted": false
+      }
+    ],
     "standings": [
       {
         "position": 1,
@@ -259,27 +306,27 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Intensify Interest in Athletic Club Midfielder Nico Williams",
-        "summary": "Arsenal are reported to be leading the chase for Nico Williams as Mikel Arteta seeks dynamic wide cover, with the Spanish international valued at over £70 million by Athletic Club. Negotiations are said to be in early stages with the player's camp receptive to a move to the Emirates.",
+        "headline": "Arsenal Weighing January Move for Bayer Leverkusen Midfielder",
+        "summary": "Arsenal's recruitment team is reportedly tracking a creative central midfielder at Bayer Leverkusen as Mikel Arteta seeks greater depth and dynamism in the engine room following a congested fixture run. A formal bid is not expected until the window opens, but initial contacts between clubs are said to have taken place.",
         "clubs": [
           "Arsenal",
-          "Athletic Club"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Weighing Move for Bundesliga Striker as Attack Misfires",
-        "summary": "Manchester United's recruitment team have shortlisted Eintracht Frankfurt forward Hugo Ekitiké as a potential January target, with the club's attacking returns falling well below expectations this season. The 22-year-old Frenchman has registered 11 goals in all competitions and is attracting interest from multiple Premier League clubs.",
+        "headline": "Manchester United Monitoring Napoli Centre-Back Amid Defensive Concerns",
+        "summary": "Manchester United's new football leadership structure is understood to have shortlisted a Napoli central defender as the club looks to address defensive vulnerabilities exposed in recent Premier League outings. The 26-year-old Italian international has a release clause that becomes active in the summer window.",
         "clubs": [
           "Manchester United",
-          "Eintracht Frankfurt"
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
       "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's marquee fixture of the weekend sees table-topping Liverpool host a Manchester City side desperate to close the gap after a turbulent run of form. Arne Slot's Liverpool have been relentless at Anfield, conceding fewer than any side in the division, while City's Pep Guardiola faces mounting pressure after back-to-back league defeats raised questions about the champions' depth and cohesion. The tactical battle between Liverpool's high press and City's positional play promises to be the defining subplot, with the result potentially decisive for the title race narrative heading into the new year.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's marquee fixture pits league leaders Liverpool against a Manchester City side desperate to close the gap at the top after a turbulent run of results. Liverpool arrive in excellent form — unbeaten in their last nine league outings — while City will be buoyed by back-to-back wins but must navigate a famously hostile Anfield atmosphere. The tactical battle between Slot's high-pressing structure and Guardiola's positional play promises to be the defining subplot of the Premier League weekend.",
       "key_players": [
         "Mohamed Salah",
         "Erling Haaland",
@@ -288,16 +335,16 @@
     },
     "injury_news": [
       {
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; 50/50 to feature"
+      },
+      {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Out",
-        "return": "Season over — ACL recovery ongoing"
-      },
-      {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Expected to be assessed late in the week ahead of Sunday's fixture"
+        "return": "Long-term — not expected to return until late in the season"
       }
     ]
   },
@@ -305,28 +352,28 @@
     "cfa_frm": {
       "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating the credit valuation adjustment (CVA) for an OTC interest rate swap with a counterparty rated BB. Which of the following best describes how a simultaneous increase in the counterparty's credit spread and an increase in interest rate volatility would affect the CVA?",
+      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the most significant limitation of this approach, as highlighted by the 2007–2009 financial crisis?",
       "options": {
-        "A": "CVA increases due to higher probability of default; the effect of interest rate volatility is negligible for linear instruments.",
-        "B": "CVA increases due to both higher probability of default and higher expected exposure driven by greater potential future exposure.",
-        "C": "CVA decreases because higher interest rate volatility reduces the net present value of the swap's cash flows.",
-        "D": "CVA remains unchanged because CVA is solely determined by the credit spread of the counterparty at inception."
+        "A": "The model overestimates individual obligor default probabilities during periods of stress.",
+        "B": "The model fails to capture tail dependence, underestimating the likelihood of simultaneous defaults in extreme market conditions.",
+        "C": "The Gaussian copula cannot incorporate recovery rate assumptions into the loss distribution.",
+        "D": "The model is computationally intractable for portfolios with more than 100 obligors."
       },
       "correct": "B",
-      "explanation": "CVA is calculated as the product of probability of default, loss given default, and expected exposure (EE), discounted appropriately. A widening credit spread directly increases the risk-neutral probability of default, raising CVA. Simultaneously, higher interest rate volatility increases potential future exposure (PFE) and therefore expected exposure on the swap, further increasing CVA. Option A is incorrect because for swaps, which can be both in- and out-of-the-money over time, interest rate volatility materially affects exposure. CVA is a dynamic, market-implied measure and is not fixed at inception."
+      "explanation": "The Gaussian copula assumes a normal dependence structure between obligors, which implies near-zero tail dependence — meaning it severely underestimates the probability that many obligors default simultaneously during market stress. This was a central failure in pricing CDOs before the financial crisis, where default correlations spiked dramatically. Alternative copulas such as the Student-t or Clayton copula exhibit positive tail dependence and better capture systemic co-movement. Options A, C, and D misrepresent the model's actual mechanics and computational properties."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Understanding why imperfect hedges can leave portfolios exposed to residual risk even when protection is in place.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why imperfect hedges can leave portfolios exposed to residual, often underappreciated risk.",
       "paragraphs": [
-        "Basis risk arises when the hedging instrument and the underlying exposure do not move in perfect lockstep, leaving a residual, unhedged component. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a hedge is constructed thoughtfully, factors such as differences in maturity, credit quality, geography, or liquidity between the hedged item and the hedging instrument ensure that basis is rarely zero. This residual variance is not diversifiable in the traditional sense — it is a structural feature of using proxy instruments.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil are related but not identical commodities, their price relationship can shift dramatically during supply disruptions or refinery bottlenecks. During the 2022 energy crisis, crack spreads — the margin between crude oil and refined products — widened sharply, meaning airlines that had hedged with WTI futures still faced materially higher jet fuel bills than their hedge implied. Similarly, fixed-income portfolio managers using Treasury futures to hedge corporate bond portfolios face basis risk from credit spread movements that the Treasury instrument cannot capture.",
-        "For risk managers and investors, basis risk demands explicit quantification rather than the assumption that a hedge is 'good enough.' Hedge effectiveness testing under IFRS 9 and ASC 815 requires demonstrating that the hedging relationship offsets between 80% and 125% of fair value or cash flow changes — a direct acknowledgment that basis risk can break accounting hedge designations. Practitioners should stress-test hedges under scenarios where historical correlations break down, size positions accounting for residual basis variance, and consider dynamic rebalancing when basis moves outside acceptable thresholds."
+        "Basis risk arises when the hedge instrument and the underlying exposure do not move in perfect lockstep, leaving a residual profit-and-loss gap. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the hedging contract. Even when a hedge is well-constructed, differences in asset quality, geography, maturity, or liquidity between the hedging instrument and the underlying exposure mean that basis can widen or narrow unpredictably over time.",
+        "A classic real-world example is a jet fuel hedger — say an airline — using crude oil futures because liquid jet fuel futures may not always be available at scale. If crude oil prices rise modestly but jet fuel refining margins spike due to a regional supply disruption, the hedge underperforms and the airline still faces elevated fuel costs. Similarly, a fixed-income portfolio manager hedging corporate bond exposure with Treasury futures faces basis risk because credit spreads can widen independently of rate movements, leaving the credit component unhedged.",
+        "For risk managers, basis risk demands that hedging effectiveness be continuously monitored, not assumed static at inception. Regulators and accounting standards such as IFRS 9 and ASC 815 require firms to periodically assess hedge effectiveness ratios (typically requiring 80–125% effectiveness) to maintain hedge accounting treatment. In stressed environments — such as March 2020 or the 2022 rate shock — basis can become the dominant source of P&L volatility, turning a seemingly conservative hedged book into a significant loss center."
       ],
       "key_takeaways": [
-        "Basis risk is the unavoidable residual exposure when the hedging instrument and the underlying asset are not perfectly correlated.",
-        "Commodity, fixed income, and currency hedges all carry meaningful basis risk that can widen dramatically during market stress.",
-        "Effective hedge programs quantify basis variance, monitor it dynamically, and maintain accounting hedge effectiveness within regulatory bounds."
+        "Basis risk is the residual exposure remaining after a hedge is applied, driven by imperfect correlation between the hedge and the underlying.",
+        "Cross-commodity and cross-asset hedges (e.g., crude for jet fuel, Treasuries for corporates) carry the highest basis risk and require ongoing monitoring.",
+        "Hedge accounting standards require demonstrated effectiveness, making basis risk a compliance issue as well as a financial one."
       ]
     },
     "japanese": {
@@ -338,29 +385,29 @@
       "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまう (to finish/end up doing), making it perfect for expressing unfortunate outcomes like overspending.",
-      "memory_tip": "Think of 'yo-san' as 'your SAN-ity limit for spending' — once you hit the yosan, you've reached your financial sanity boundary for the month."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or that something happened unintentionally. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 予 (yo) as 'yo, I planned ahead' and 算 (san) as 'calculate' — a yosan is your pre-calculated plan for money. Picture a calculator with 'YO$AN' on the screen."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Banks Execute Complex Workflows",
-      "summary": "Agentic AI systems — autonomous models that can plan, use tools, and execute multi-step tasks without human intervention at each step — are moving from research labs into production environments at major financial institutions. Banks including JPMorgan and Goldman Sachs have piloted AI agents capable of conducting end-to-end research workflows, drafting credit memos, reconciling trade breaks, and even proposing hedging adjustments within predefined risk parameters. Unlike earlier chatbot deployments, these agents can call external APIs, query live databases, and chain reasoning across dozens of steps, dramatically compressing analyst-level tasks from hours to minutes. The critical governance challenge is defining clear 'human-in-the-loop' thresholds — determining at exactly which decision points an agent must escalate to a human rather than act autonomously.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Multi-Step Financial Workflows",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step reasoning without human prompting at each stage — is beginning to penetrate financial workflows beyond simple text generation. Firms including JPMorgan, Bloomberg, and several hedge funds are piloting agents that can autonomously pull data, run quantitative screens, draft investment memos, and flag compliance issues in sequence. Unlike earlier copilot tools, these agents can self-correct mid-task and invoke external APIs, dramatically compressing analyst cycle times for research and due diligence. The shift raises important questions about auditability, model risk governance, and the redefinition of junior analyst roles.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that autonomously plan and execute sequences of actions toward a goal — such as gathering market data, analyzing it, and producing a trade recommendation — with minimal human prompting at each step."
+          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as retrieving financial data, running analysis, and producing reports — without a human prompt at every step."
         },
         {
           "term": "Tool Use / Function Calling",
-          "definition": "The capability of large language models to invoke external tools like Bloomberg APIs, SQL databases, or calculation engines mid-conversation, allowing them to retrieve live financial data rather than relying solely on trained knowledge."
+          "definition": "A capability that allows large language models to invoke external tools (e.g., Bloomberg APIs, Excel, Python scripts) mid-conversation to retrieve live data or perform calculations, making them far more useful in financial workflows."
         },
         {
-          "term": "Human-in-the-Loop (HITL)",
-          "definition": "A governance design where AI systems are required to pause and obtain human approval before executing actions above a defined risk or materiality threshold — critical in trading, credit approval, and client-facing finance applications."
+          "term": "Model Risk Governance for AI",
+          "definition": "The extension of traditional model validation frameworks (as outlined in SR 11-7) to cover AI/ML systems, ensuring that autonomous financial models are tested, documented, monitored, and auditable — increasingly a regulatory expectation."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, supervise, and audit AI agent workflows will have an outsized advantage over those who merely use AI as a chatbot. The highest-value skill is not prompt engineering but rather workflow architecture — knowing how to break complex financial processes into agent-executable steps while embedding appropriate risk controls and escalation logic. Risk managers who can translate regulatory requirements into AI governance frameworks are becoming as valuable as quants were in the 2000s."
+      "career_insight": "Finance professionals who understand how to design, validate, and govern agentic AI workflows — not just prompt them — will command a significant premium over the next five years. The most resilient career posture combines domain expertise in credit, risk, or markets with practical fluency in Python, API integration, and AI model risk principles, positioning professionals as the critical human layer in an increasingly automated analytical stack."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive as markets digest a resilient US labor market print against a backdrop of still-elevated long-end Treasury yields, with the 10-year hovering near 4.55% and continuing to cap equity multiple expansion. The Fed's higher-for-longer narrative is firmly re-priced, with markets now assigning less than two full cuts in 2025, shifting focus to earnings quality and corporate margin durability rather than rate-driven re-rating. In FX, the dollar index maintains broad strength while EM currencies face idiosyncratic pressure — Chinese stimulus signals are providing a partial offset, but conviction remains low ahead of trade policy clarity."
+    "market_sentiment": "Risk appetite remains cautiously constructive heading into the session, with equity futures modestly bid as markets digest a softer-than-expected services PMI print that has tempered near-term Fed hawkishness — the two-year Treasury yield has eased roughly 6 basis points, providing some relief to rate-sensitive growth sectors. The dollar is marginally weaker on a trade-weighted basis, supporting commodity prices and EM currencies, though geopolitical uncertainty in the Middle East continues to keep a floor under crude, with Brent holding above $87. Credit markets appear well-behaved for now, but IG spreads have widened fractionally in early trading — watch for any deviation in today's corporate issuance calendar as a read on real-money demand and risk tolerance at current spread levels."
   }
 }
