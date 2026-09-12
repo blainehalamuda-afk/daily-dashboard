@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:25 PM UTC",
-  "date": "Friday, September 11, 2026",
+  "generated_at": "2:32 PM UTC",
+  "date": "Saturday, September 12, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 88,
-    "feels_like_f": 96,
-    "high_f": 90,
-    "low_f": 86,
-    "description": "Scattered Clouds",
-    "icon": "⛅",
-    "humidity": 62,
-    "wind_mph": 5,
+    "temp_f": 77,
+    "feels_like_f": 78,
+    "high_f": 79,
+    "low_f": 75,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 84,
+    "wind_mph": 3,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "🌧️",
-        "high": 70,
-        "low": 70,
-        "description": "Moderate Rain"
-      },
       {
         "day": "Sun",
         "icon": "☁️",
-        "high": 73,
-        "low": 73,
+        "high": 70,
+        "low": 70,
         "description": "Broken Clouds"
       },
       {
         "day": "Mon",
-        "icon": "🌤️",
+        "icon": "☁️",
         "high": 77,
         "low": 77,
-        "description": "Few Clouds"
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "☁️",
+        "high": 67,
+        "low": 67,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 765.63,
-        "change": 7.8,
-        "change_pct": 1.03,
+        "price": 764.29,
+        "change": 6.46,
+        "change_pct": 0.85,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 335.77,
-        "change": 9.2,
-        "change_pct": 2.82,
+        "price": 332.27,
+        "change": 5.7,
+        "change_pct": 1.75,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 219.97,
-        "change": 1.61,
-        "change_pct": 0.74,
-        "up": true,
+        "price": 218.29,
+        "change": -0.07,
+        "change_pct": -0.03,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 365.76,
-        "change": 2.2,
-        "change_pct": 0.61,
+        "price": 365.44,
+        "change": 1.88,
+        "change_pct": 0.52,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 78698,
-        "change": 1522,
-        "change_pct": 1.97,
-        "up": true,
+        "price": 77470.29,
+        "change": -1467.71,
+        "change_pct": -1.86,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2614.11,
-        "change": 177.65,
-        "change_pct": 7.29,
-        "up": true,
+        "price": 2543.84,
+        "change": -70.72,
+        "change_pct": -2.7,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,51 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c5y48rz2nddo",
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-        "published": "3:56 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Meta’s Muse AI works and creeps me out - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-        "description": "Meta just debuted its personal AI assistant Muse. While Muse delivers on its promise of performing tasks in the background, it’s hard to use the tool without thinking about its connection to Meta.",
-        "published": "3:00 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Nintendo of America thanks fans for dealing with tariff-related price hikes by encouraging them to spend more money in a new sale - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/nintendo-american-tarrif-refund-sale",
-        "description": "Nintendo America has faced a lot of pushback for not passing tariff refunds onto consumers, so its new tariff-related sale is causing some backlash.",
-        "published": "3:18 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "GTA 6 DualSense pre-orders LIVE — limited-edition PS5 controllers are now available at Best Buy, Walmart and more - Tom's Guide",
-        "source": "Tom's Guide",
-        "url": "https://www.tomsguide.com/news/live/gta-6-ps5-dualsense-controller-pre-orders-live-updates",
-        "description": "Add some Vice City to your PS5 setup",
-        "published": "2:29 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Professor Layton and the Curious Village Remake revealed for Nintendo Switch 2, Switch - Nintendo Everything",
-        "source": "Nintendoeverything.com",
-        "url": "https://nintendoeverything.com/professor-layton-and-the-curious-village-remake-revealed-for-nintendo-switch-2-switch/",
-        "description": "Level-5 is working on Professor Layton and the Curious Village Remake for Nintendo Switch 2 and Switch, the company just announced. The title arrives for both platforms in 2027. Professor Layton and t",
-        "published": "1:46 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-missouris-attempt-use-newly-drawn-republican-cong-rcna596857",
+        "title": "CPI Report Today: Investors (and The Fed) Await August Inflation Data — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026",
         "description": "",
-        "published": "2:55 PM UTC",
+        "published": "12:19 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "CPI report moments away: August inflation could tip the scales for a Fed rate hike — live updates - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/livecoverage/cpi-report-today-august-inflation-fed-rates-live-updates",
+        "description": "Follow MarketWatch's live coverage of the consumer-price index report for August, and what it means for interest rates, the markets and your money. The report is scheduled for 8:30 a.m. eastern on Fri",
+        "published": "12:06 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/diesel-prices-record-iran-war-636252b3b82326b41661ee5c4073dacb",
+        "description": "Diesel prices in the U.S. has hit yet another record, soaring past $6 a gallon on average as Washington’s war with Iran disrupts the world’s flow of fuel. The national average of $6.05 is up from $5.8",
+        "published": "12:01 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "ClickFix attacks infecting PCs and Macs are going viral - Ars Technica",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+        "description": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+        "published": "11:30 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Samsung’s open-ear Galaxy Buds On leak with clip design, ‘Auto Volume,’ gestures [Gallery] - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/09/10/samsung-galaxy-buds-on-open-ear-leak/",
+        "description": "Word has been out on a new pair of open-ear Galaxy Buds from Samsung and, now, a detailed leak shows...",
+        "published": "1:15 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs",
+        "description": "Welcome back, ceramic cases!",
+        "published": "12:37 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "5 movements physical therapists say every adult over 50 should do daily - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/wellness/2026/09/11/5-movements-physical-therapists-say-every-adult-over-50-should-do-daily/",
+        "description": "These simple moves can help you maintain mobility and independence as you age.",
+        "published": "12:36 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Trump to commemorate 25th anniversary of 9/11 attacks at the Pentagon - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/trump-sept-11-pentagon-2366fe3bb4948c068eaceb392ddbd948",
+        "description": "President Donald Trump is set to observe the 25th anniversary of the Sept. 11 attacks by attending a ceremony at the Pentagon. In a downpour at daybreak Friday, Defense Secretary Pete Hegseth and top ",
+        "published": "12:10 PM UTC",
         "category": "General"
       }
     ]
@@ -166,9 +182,9 @@
       {
         "home": "Crystal Palace",
         "away": "Ipswich Town",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -176,9 +192,9 @@
       {
         "home": "Liverpool",
         "away": "Fulham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -186,9 +202,9 @@
       {
         "home": "Aston Villa",
         "away": "Nottingham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -196,9 +212,9 @@
       {
         "home": "Bournemouth",
         "away": "Brentford",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -206,9 +222,9 @@
       {
         "home": "Chelsea",
         "away": "Hull City",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -231,6 +247,26 @@
         "status": "TIMED",
         "time": "7:00 PM UTC",
         "date": "Sep 12",
+        "highlighted": false
+      },
+      {
+        "home": "Coventry City",
+        "away": "Brighton Hove",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Sep 13",
+        "highlighted": false
+      },
+      {
+        "home": "Man United",
+        "away": "Man City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:30 PM UTC",
+        "date": "Sep 13",
         "highlighted": false
       }
     ],
@@ -260,45 +296,45 @@
       {
         "position": 3,
         "team": "Hull City",
-        "played": 3,
+        "played": 4,
         "won": 2,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "gd": 3,
-        "points": 7,
+        "points": 8,
         "highlighted": false
       },
       {
         "position": 4,
         "team": "Chelsea",
-        "played": 3,
+        "played": 4,
         "won": 2,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 1,
         "gd": 1,
-        "points": 6,
+        "points": 7,
         "highlighted": false
       },
       {
         "position": 5,
         "team": "Brentford",
-        "played": 3,
+        "played": 4,
         "won": 1,
-        "drawn": 2,
+        "drawn": 3,
         "lost": 0,
         "gd": 3,
-        "points": 5,
+        "points": 6,
         "highlighted": false
       },
       {
         "position": 6,
         "team": "Liverpool",
-        "played": 3,
+        "played": 4,
         "won": 1,
-        "drawn": 2,
+        "drawn": 3,
         "lost": 0,
         "gd": 2,
-        "points": 5,
+        "points": 6,
         "highlighted": false
       }
     ]
@@ -306,16 +342,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing January Move for Bayer Leverkusen Midfielder",
-        "summary": "Arsenal's recruitment team is reportedly tracking a creative central midfielder at Bayer Leverkusen as Mikel Arteta seeks greater depth and dynamism in the engine room following a congested fixture run. A formal bid is not expected until the window opens, but initial contacts between clubs are said to have taken place.",
+        "headline": "Arsenal in Advanced Talks for RB Leipzig Midfielder Xaver Schlager",
+        "summary": "Arsenal are reportedly pushing to secure a deep-lying midfield option before the window closes, with Schlager emerging as a priority target given his defensive work rate and ball-progression ability in a high-press system. A fee in the region of £35–40 million is being discussed.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Manchester United Monitoring Napoli Centre-Back Amid Defensive Concerns",
-        "summary": "Manchester United's new football leadership structure is understood to have shortlisted a Napoli central defender as the club looks to address defensive vulnerabilities exposed in recent Premier League outings. The 26-year-old Italian international has a release clause that becomes active in the summer window.",
+        "headline": "Manchester United Eye Napoli's Khvicha Kvaratskhelia as Amorim Targets Wide Attacker",
+        "summary": "With Rashford's future still unresolved and the right-wing role a persistent weakness, United's recruitment team has been linked with Kvaratskhelia as a transformative attacking option — though Napoli's £80 million valuation remains a significant hurdle for a club operating under PSR constraints.",
         "clubs": [
           "Manchester United",
           "Napoli"
@@ -323,14 +359,14 @@
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's marquee fixture pits league leaders Liverpool against a Manchester City side desperate to close the gap at the top after a turbulent run of results. Liverpool arrive in excellent form — unbeaten in their last nine league outings — while City will be buoyed by back-to-back wins but must navigate a famously hostile Anfield atmosphere. The tactical battle between Slot's high-pressing structure and Guardiola's positional play promises to be the defining subplot of the Premier League weekend.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 3:00 PM BST",
+      "preview": "This fixture arrives at a pivotal moment in the title race, with Liverpool sitting two points clear at the top and City desperately needing a home win to maintain contact with the leading pack. Pep Guardiola's side have shown renewed defensive solidity in recent weeks but have yet to recapture their clinical edge in front of goal, while Arne Slot's Liverpool arrive in irresistible form — unbeaten in their last nine league outings. The tactical battle between City's positional press and Liverpool's rapid vertical transitions promises to be the defining subplot of a match that could effectively shape the Championship narrative.",
       "key_players": [
-        "Mohamed Salah",
         "Erling Haaland",
-        "Virgil van Dijk"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
@@ -338,76 +374,76 @@
         "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; 50/50 to feature"
+        "return": "Late fitness test expected Saturday; targeting return within 7–10 days if this match is missed"
       },
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Out",
-        "return": "Long-term — not expected to return until late in the season"
+        "status": "Recovering",
+        "return": "Expected to return to full training within 2 weeks; targeting the next Champions League fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
+      "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the most significant limitation of this approach, as highlighted by the 2007–2009 financial crisis?",
+      "question": "A risk manager is evaluating a credit portfolio and wants to estimate the unexpected loss (UL) for a single loan. The loan has a probability of default (PD) of 4%, a loss given default (LGD) of 60%, and an exposure at default (EAD) of $10,000,000. Which of the following best represents the unexpected loss at one standard deviation?",
       "options": {
-        "A": "The model overestimates individual obligor default probabilities during periods of stress.",
-        "B": "The model fails to capture tail dependence, underestimating the likelihood of simultaneous defaults in extreme market conditions.",
-        "C": "The Gaussian copula cannot incorporate recovery rate assumptions into the loss distribution.",
-        "D": "The model is computationally intractable for portfolios with more than 100 obligors."
+        "A": "$240,000",
+        "B": "$1,164,000",
+        "C": "$1,178,420",
+        "D": "$960,000"
       },
-      "correct": "B",
-      "explanation": "The Gaussian copula assumes a normal dependence structure between obligors, which implies near-zero tail dependence — meaning it severely underestimates the probability that many obligors default simultaneously during market stress. This was a central failure in pricing CDOs before the financial crisis, where default correlations spiked dramatically. Alternative copulas such as the Student-t or Clayton copula exhibit positive tail dependence and better capture systemic co-movement. Options A, C, and D misrepresent the model's actual mechanics and computational properties."
+      "correct": "C",
+      "explanation": "Unexpected Loss (UL) = EAD × LGD × √(PD × (1 − PD)). Substituting: UL = $10,000,000 × 0.60 × √(0.04 × 0.96) = $6,000,000 × √(0.0384) = $6,000,000 × 0.19596 ≈ $1,175,760, closest to option C. UL captures the volatility of credit losses around the expected loss (EL = PD × LGD × EAD = $240,000), and it is UL — not EL — that economic capital is designed to cover. Option A is simply the expected loss, a common distractor."
     },
     "finance_topic": {
       "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why imperfect hedges can leave portfolios exposed to residual, often underappreciated risk.",
+      "subtitle": "Why a hedge is rarely perfect — and what happens when the gap between spot and futures prices behaves unexpectedly.",
       "paragraphs": [
-        "Basis risk arises when the hedge instrument and the underlying exposure do not move in perfect lockstep, leaving a residual profit-and-loss gap. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the hedging contract. Even when a hedge is well-constructed, differences in asset quality, geography, maturity, or liquidity between the hedging instrument and the underlying exposure mean that basis can widen or narrow unpredictably over time.",
-        "A classic real-world example is a jet fuel hedger — say an airline — using crude oil futures because liquid jet fuel futures may not always be available at scale. If crude oil prices rise modestly but jet fuel refining margins spike due to a regional supply disruption, the hedge underperforms and the airline still faces elevated fuel costs. Similarly, a fixed-income portfolio manager hedging corporate bond exposure with Treasury futures faces basis risk because credit spreads can widen independently of rate movements, leaving the credit component unhedged.",
-        "For risk managers, basis risk demands that hedging effectiveness be continuously monitored, not assumed static at inception. Regulators and accounting standards such as IFRS 9 and ASC 815 require firms to periodically assess hedge effectiveness ratios (typically requiring 80–125% effectiveness) to maintain hedge accounting treatment. In stressed environments — such as March 2020 or the 2022 rate shock — basis can become the dominant source of P&L volatility, turning a seemingly conservative hedged book into a significant loss center."
+        "Basis risk arises when the price of the asset being hedged does not move in perfect lockstep with the price of the hedging instrument. In formal terms, basis is defined as the spot price of the asset minus the futures price of the contract used to hedge it. While theory suggests that basis converges to zero at expiration, in practice, differences in asset specification, delivery location, contract maturity, and liquidity mean the basis can fluctuate unpredictably, creating residual risk even in a carefully constructed hedge.",
+        "A classic real-world example is a jet fuel hedger — say, an airline — that uses crude oil futures because no liquid jet fuel futures market exists. The airline is exposed not only to changes in the overall energy complex but also to shifts in the crack spread (the refining margin between crude oil and jet fuel). During periods of refinery disruptions or supply dislocations, crude oil prices may fall while jet fuel remains elevated, causing the hedge to underperform dramatically. This cross-hedging basis risk materialized painfully for several carriers during the 2008 commodity supercycle.",
+        "For risk managers and portfolio hedgers, basis risk demands careful attention to hedge ratio calibration — typically using the minimum variance hedge ratio, which regresses spot price changes on futures price changes to find the optimal contract size. Traders should also monitor roll risk: as futures contracts approach expiration and must be rolled to the next maturity, the basis at rollover can generate P&L volatility unrelated to the underlying exposure. In volatile macro environments — such as today's commodity markets shaped by geopolitical supply uncertainty — basis risk can dwarf the benefits of a nominally 'hedged' position."
       ],
       "key_takeaways": [
-        "Basis risk is the residual exposure remaining after a hedge is applied, driven by imperfect correlation between the hedge and the underlying.",
-        "Cross-commodity and cross-asset hedges (e.g., crude for jet fuel, Treasuries for corporates) carry the highest basis risk and require ongoing monitoring.",
-        "Hedge accounting standards require demonstrated effectiveness, making basis risk a compliance issue as well as a financial one."
+        "Basis = Spot Price − Futures Price; perfect hedges require basis to remain constant or converge predictably to zero.",
+        "Cross-hedging with a correlated but non-identical instrument introduces additional basis risk that must be quantified and monitored.",
+        "The minimum variance hedge ratio, derived from regression analysis, is the standard tool for optimizing hedge effectiveness while accounting for basis volatility."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をもう使い切ってしまいました。",
       "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or that something happened unintentionally. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 予 (yo) as 'yo, I planned ahead' and 算 (san) as 'calculate' — a yosan is your pre-calculated plan for money. Picture a calculator with 'YO$AN' on the screen."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed — often with a nuance of regret or finality. It combines the te-form of a verb with しまう (to finish/end up doing), then conjugated into polite past tense.",
+      "memory_tip": "Think of 予算 as 'yo, SAAAN — how much did that cost?!' — the surprised reaction when you check your finances. 予 (pre/advance) + 算 (calculate) = pre-calculated amount = budget."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Autonomously Execute Multi-Step Financial Workflows",
-      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step reasoning without human prompting at each stage — is beginning to penetrate financial workflows beyond simple text generation. Firms including JPMorgan, Bloomberg, and several hedge funds are piloting agents that can autonomously pull data, run quantitative screens, draft investment memos, and flag compliance issues in sequence. Unlike earlier copilot tools, these agents can self-correct mid-task and invoke external APIs, dramatically compressing analyst cycle times for research and due diligence. The shift raises important questions about auditability, model risk governance, and the redefinition of junior analyst roles.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Risk Departments Everywhere",
+      "summary": "Major financial institutions are deploying large language models and gradient-boosting algorithms to automate and augment credit underwriting, compressing decision timelines from days to minutes while improving default prediction accuracy. Unlike rules-based legacy systems, these models ingest alternative data sources — including payment metadata, supply chain signals, and behavioral patterns — to construct richer borrower profiles. Regulators in the US and EU are responding with model risk management frameworks specifically targeting AI-driven credit decisions, raising the bar for explainability and bias testing. For risk professionals, this shift means that model validation, fairness auditing, and AI governance are no longer niche competencies — they are core job requirements.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as retrieving financial data, running analysis, and producing reports — without a human prompt at every step."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble ML method that builds decision trees sequentially, each correcting the errors of the last — widely used in credit scoring because it handles tabular financial data extremely well and produces highly competitive predictive accuracy."
         },
         {
-          "term": "Tool Use / Function Calling",
-          "definition": "A capability that allows large language models to invoke external tools (e.g., Bloomberg APIs, Excel, Python scripts) mid-conversation to retrieve live data or perform calculations, making them far more useful in financial workflows."
+          "term": "Explainability / SHAP Values",
+          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input feature contributes to a model's output for a specific prediction — critical in credit risk AI so lenders can explain adverse decisions to regulators and applicants."
         },
         {
-          "term": "Model Risk Governance for AI",
-          "definition": "The extension of traditional model validation frameworks (as outlined in SR 11-7) to cover AI/ML systems, ensuring that autonomous financial models are tested, documented, monitored, and auditable — increasingly a regulatory expectation."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources used to supplement or replace conventional credit bureau data — including rent payment history, utility bills, e-commerce transaction patterns, and even mobile device metadata — enabling credit assessment for thin-file borrowers."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, validate, and govern agentic AI workflows — not just prompt them — will command a significant premium over the next five years. The most resilient career posture combines domain expertise in credit, risk, or markets with practical fluency in Python, API integration, and AI model risk principles, positioning professionals as the critical human layer in an increasingly automated analytical stack."
+      "career_insight": "Risk professionals who combine domain expertise in credit analysis with fluency in model validation techniques — particularly around AI fairness, SHAP-based explainability, and SR 11-7 model risk governance — are commanding significant premiums in the current hiring market. The emerging role of 'AI Risk Manager' sits at the intersection of traditional credit risk, data science, and regulatory compliance, and represents one of the fastest-growing specializations in financial services. Building Python proficiency alongside knowledge of fair lending laws (ECOA, FCRA) will differentiate candidates meaningfully over the next five years."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautiously constructive heading into the session, with equity futures modestly bid as markets digest a softer-than-expected services PMI print that has tempered near-term Fed hawkishness — the two-year Treasury yield has eased roughly 6 basis points, providing some relief to rate-sensitive growth sectors. The dollar is marginally weaker on a trade-weighted basis, supporting commodity prices and EM currencies, though geopolitical uncertainty in the Middle East continues to keep a floor under crude, with Brent holding above $87. Credit markets appear well-behaved for now, but IG spreads have widened fractionally in early trading — watch for any deviation in today's corporate issuance calendar as a read on real-money demand and risk tolerance at current spread levels."
+    "market_sentiment": "Risk assets are navigating a cautious but constructive tone this morning as markets digest a resilient US labor market print against a backdrop of persistent core services inflation, keeping Fed rate-cut pricing anchored to a later-and-slower trajectory than bulls had hoped. The dollar index (DXY) is holding near multi-week highs, applying pressure to EM currencies and commodity prices, while the front end of the Treasury curve remains inverted — signaling that recession risk is not yet priced out. Equity futures are modestly positive, led by tech on AI capex enthusiasm, though credit spreads in the HY space have widened incrementally, suggesting the smart money is quietly hedging downside tail risk into Q3 earnings season."
   }
 }
