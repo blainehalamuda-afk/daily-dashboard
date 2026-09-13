@@ -1,38 +1,38 @@
 {
-  "generated_at": "2:32 PM UTC",
-  "date": "Saturday, September 12, 2026",
+  "generated_at": "3:12 PM UTC",
+  "date": "Sunday, September 13, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 77,
-    "feels_like_f": 78,
-    "high_f": 79,
-    "low_f": 75,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 84,
-    "wind_mph": 3,
+    "temp_f": 81,
+    "feels_like_f": 86,
+    "high_f": 84,
+    "low_f": 78,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 78,
+    "wind_mph": 4,
     "forecast": [
       {
-        "day": "Sun",
-        "icon": "☁️",
-        "high": 70,
-        "low": 70,
-        "description": "Broken Clouds"
-      },
-      {
         "day": "Mon",
-        "icon": "☁️",
-        "high": 77,
-        "low": 77,
-        "description": "Broken Clouds"
+        "icon": "⛅",
+        "high": 74,
+        "low": 74,
+        "description": "Scattered Clouds"
       },
       {
         "day": "Tue",
         "icon": "☁️",
-        "high": 67,
-        "low": 67,
+        "high": 68,
+        "low": 68,
         "description": "Broken Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "☁️",
+        "high": 68,
+        "low": 68,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77470.29,
-        "change": -1467.71,
-        "change_pct": -1.86,
+        "price": 77122.11,
+        "change": -295.89,
+        "change_pct": -0.38,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2543.84,
-        "change": -70.72,
-        "change_pct": -2.7,
+        "price": 2488.5,
+        "change": -49.3,
+        "change_pct": -1.94,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,51 @@
     "error": false,
     "articles": [
       {
-        "title": "CPI Report Today: Investors (and The Fed) Await August Inflation Data — Live Updates - WSJ",
+        "title": "Urinals, Skinny-Dipping Pools and Other Wild Home Buyers Must-Haves - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026",
+        "url": "https://www.wsj.com/real-estate/luxury-homes/uncommon-home-features-671656f6",
         "description": "",
-        "published": "12:19 PM UTC",
+        "published": "2:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "CPI report moments away: August inflation could tip the scales for a Fed rate hike — live updates - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/cpi-report-today-august-inflation-fed-rates-live-updates",
-        "description": "Follow MarketWatch's live coverage of the consumer-price index report for August, and what it means for interest rates, the markets and your money. The report is scheduled for 8:30 a.m. eastern on Fri",
-        "published": "12:06 PM UTC",
+        "title": "After closures, Denny's bets on a comeback - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/money/2026/09/12/dennys-restaurants-new-menu-renovations/91691788007/",
+        "description": "Denny's, which became privately held in a $620 million deal earlier this year, is cooking up a rebuilding recipe with a new menu and renovations.",
+        "published": "1:19 PM UTC",
         "category": "Business"
       },
       {
-        "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/diesel-prices-record-iran-war-636252b3b82326b41661ee5c4073dacb",
-        "description": "Diesel prices in the U.S. has hit yet another record, soaring past $6 a gallon on average as Washington’s war with Iran disrupts the world’s flow of fuel. The national average of $6.05 is up from $5.8",
-        "published": "12:01 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "ClickFix attacks infecting PCs and Macs are going viral - Ars Technica",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-        "description": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-        "published": "11:30 AM UTC",
+        "title": "LG responds to TV spying allegations - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+        "description": "LG claims that reports that its TVs are capturing and uploading audio are misleading.",
+        "published": "3:19 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Samsung’s open-ear Galaxy Buds On leak with clip design, ‘Auto Volume,’ gestures [Gallery] - 9to5Google",
-        "source": "9to5google.com",
-        "url": "http://9to5google.com/2026/09/10/samsung-galaxy-buds-on-open-ear-leak/",
-        "description": "Word has been out on a new pair of open-ear Galaxy Buds from Samsung and, now, a detailed leak shows...",
-        "published": "1:15 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+        "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free — how to claim - Mashable",
         "source": "Mashable",
-        "url": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs",
-        "description": "Welcome back, ceramic cases!",
-        "published": "12:37 AM UTC",
+        "url": "https://mashable.com/tech/free-apple-iphone-18-pro-deal",
+        "description": "The time has come. The iPhone 18 Pro has been announced, and mobile carriers are scrambling to offer you the best pre-order deals.",
+        "published": "3:03 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "5 movements physical therapists say every adult over 50 should do daily - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/wellness/2026/09/11/5-movements-physical-therapists-say-every-adult-over-50-should-do-daily/",
-        "description": "These simple moves can help you maintain mobility and independence as you age.",
-        "published": "12:36 PM UTC",
-        "category": "General"
+        "title": "A new StarCraft? Diablo 4 Switch 2? All the BlizzCon 2026 announcements from the opening ceremony as they happen - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/blizzcon-2026-announcements-live-report-starcraft-diablo-overwatch-wow",
+        "description": "BlizzCon returns with rumours of a new StarCraft game, Diablo 4 on Switch 2, WoW Classic Plus, a major new Overwatch update, and more.",
+        "published": "11:41 AM UTC",
+        "category": "Technology"
       },
       {
-        "title": "Trump to commemorate 25th anniversary of 9/11 attacks at the Pentagon - AP News",
+        "title": "Where have all the Atlantic hurricanes gone? El Nino might bring record slow storm season - AP News",
         "source": "Associated Press",
-        "url": "https://apnews.com/article/trump-sept-11-pentagon-2366fe3bb4948c068eaceb392ddbd948",
-        "description": "President Donald Trump is set to observe the 25th anniversary of the Sept. 11 attacks by attending a ceremony at the Pentagon. In a downpour at daybreak Friday, Defense Secretary Pete Hegseth and top ",
-        "published": "12:10 PM UTC",
+        "url": "https://apnews.com/article/hurricanes-atlantic-el-nino-warming-oceans-53993f467ae90f20eff5976bf144c8e3",
+        "description": "The Atlantic hurricane season is unusually quiet this year due to a strong El Nino, which disrupts storm formation over that ocean. No hurricanes have formed yet. And only five weak tropical storms ha",
+        "published": "3:39 PM UTC",
         "category": "General"
       }
     ]
@@ -182,9 +166,9 @@
       {
         "home": "Crystal Palace",
         "away": "Ipswich Town",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "IN_PLAY",
+        "home_score": 2,
+        "away_score": 3,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -194,7 +178,7 @@
         "away": "Fulham",
         "home_score": 0,
         "away_score": 0,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -202,9 +186,9 @@
       {
         "home": "Aston Villa",
         "away": "Nottingham",
-        "home_score": 0,
-        "away_score": 0,
-        "status": "IN_PLAY",
+        "home_score": 1,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -212,9 +196,9 @@
       {
         "home": "Bournemouth",
         "away": "Brentford",
-        "home_score": 0,
-        "away_score": 0,
-        "status": "IN_PLAY",
+        "home_score": 2,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -222,9 +206,9 @@
       {
         "home": "Chelsea",
         "away": "Hull City",
-        "home_score": 1,
-        "away_score": 0,
-        "status": "IN_PLAY",
+        "home_score": 2,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -232,9 +216,9 @@
       {
         "home": "Tottenham",
         "away": "Everton",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "4:30 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -242,9 +226,9 @@
       {
         "home": "Sunderland",
         "away": "Arsenal",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "7:00 PM UTC",
         "date": "Sep 12",
         "highlighted": false
@@ -252,9 +236,9 @@
       {
         "home": "Coventry City",
         "away": "Brighton Hove",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 5,
+        "status": "FINISHED",
         "time": "1:00 PM UTC",
         "date": "Sep 13",
         "highlighted": false
@@ -268,23 +252,33 @@
         "time": "3:30 PM UTC",
         "date": "Sep 13",
         "highlighted": false
+      },
+      {
+        "home": "Leeds United",
+        "away": "Newcastle",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "7:00 PM UTC",
+        "date": "Sep 14",
+        "highlighted": false
       }
     ],
     "standings": [
       {
         "position": 1,
-        "team": "Man City",
-        "played": 3,
-        "won": 3,
+        "team": "Arsenal",
+        "played": 4,
+        "won": 4,
         "drawn": 0,
         "lost": 0,
-        "gd": 5,
-        "points": 9,
+        "gd": 7,
+        "points": 12,
         "highlighted": false
       },
       {
         "position": 2,
-        "team": "Arsenal",
+        "team": "Man City",
         "played": 3,
         "won": 3,
         "drawn": 0,
@@ -306,6 +300,17 @@
       },
       {
         "position": 4,
+        "team": "Brighton Hove",
+        "played": 4,
+        "won": 2,
+        "drawn": 1,
+        "lost": 1,
+        "gd": 8,
+        "points": 7,
+        "highlighted": false
+      },
+      {
+        "position": 5,
         "team": "Chelsea",
         "played": 4,
         "won": 2,
@@ -316,7 +321,7 @@
         "highlighted": false
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "Brentford",
         "played": 4,
         "won": 1,
@@ -325,48 +330,37 @@
         "gd": 3,
         "points": 6,
         "highlighted": false
-      },
-      {
-        "position": 6,
-        "team": "Liverpool",
-        "played": 4,
-        "won": 1,
-        "drawn": 3,
-        "lost": 0,
-        "gd": 2,
-        "points": 6,
-        "highlighted": false
       }
     ]
   },
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for RB Leipzig Midfielder Xaver Schlager",
-        "summary": "Arsenal are reportedly pushing to secure a deep-lying midfield option before the window closes, with Schlager emerging as a priority target given his defensive work rate and ball-progression ability in a high-press system. A fee in the region of £35–40 million is being discussed.",
+        "headline": "Arsenal Ramp Up Interest in Bundesliga Midfielder Ahead of Summer Window",
+        "summary": "Arsenal are reported to be monitoring Bayer Leverkusen's Granit Xhaka successor, with scouts attending multiple Bundesliga fixtures this month. Mikel Arteta is understood to prioritize a ball-progressive, press-resistant midfielder to provide depth and long-term succession behind Martin Ødegaard.",
         "clubs": [
           "Arsenal",
-          "RB Leipzig"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Eye Napoli's Khvicha Kvaratskhelia as Amorim Targets Wide Attacker",
-        "summary": "With Rashford's future still unresolved and the right-wing role a persistent weakness, United's recruitment team has been linked with Kvaratskhelia as a transformative attacking option — though Napoli's £80 million valuation remains a significant hurdle for a club operating under PSR constraints.",
+        "headline": "Chelsea in Advanced Talks for Napoli Striker as Attackers Linked to Exit",
+        "summary": "Chelsea's recruitment team is believed to be in advanced discussions with Napoli over a summer deal for Victor Osimhen, whose buy-out clause structure makes a move more feasible than previously reported. The west London club sees the Nigerian international as the profile to anchor their attack after inconsistent contributions from their current forward line.",
         "clubs": [
-          "Manchester United",
+          "Chelsea",
           "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM BST",
-      "preview": "This fixture arrives at a pivotal moment in the title race, with Liverpool sitting two points clear at the top and City desperately needing a home win to maintain contact with the leading pack. Pep Guardiola's side have shown renewed defensive solidity in recent weeks but have yet to recapture their clinical edge in front of goal, while Arne Slot's Liverpool arrive in irresistible form — unbeaten in their last nine league outings. The tactical battle between City's positional press and Liverpool's rapid vertical transitions promises to be the defining subplot of a match that could effectively shape the Championship narrative.",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "Anfield hosts what is arguably the defining fixture of the Premier League season as table-topping Liverpool welcome a Manchester City side desperately seeking to salvage their title ambitions after a turbulent mid-season run. Liverpool arrive in electric form — unbeaten in their last eleven league outings — while City have steadied under Pep Guardiola's tactical adjustments but cannot afford another dropped points against a direct rival. The tactical duel between Liverpool's high press and City's positional build-up play promises to be one of the most analyzed 90 minutes of the campaign, with the result potentially settling the destination of the trophy.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Erling Haaland",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
@@ -374,76 +368,76 @@
         "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Late fitness test expected Saturday; targeting return within 7–10 days if this match is missed"
+        "return": "Being assessed daily; potential return this weekend if training response is positive"
       },
       {
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected to return to full training within 2 weeks; targeting the next Champions League fixture"
+        "return": "Expected to be available for selection; managed carefully after recent muscle tightness"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
+      "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio and wants to estimate the unexpected loss (UL) for a single loan. The loan has a probability of default (PD) of 4%, a loss given default (LGD) of 60%, and an exposure at default (EAD) of $10,000,000. Which of the following best represents the unexpected loss at one standard deviation?",
+      "question": "A risk manager is evaluating the credit valuation adjustment (CVA) for an interest rate swap portfolio. Which of the following best describes how a simultaneous increase in counterparty credit spreads and a decrease in interest rates would affect the CVA?",
       "options": {
-        "A": "$240,000",
-        "B": "$1,164,000",
-        "C": "$1,178,420",
-        "D": "$960,000"
+        "A": "CVA would decrease because lower interest rates reduce the expected exposure of the swap portfolio.",
+        "B": "CVA would increase because wider credit spreads raise the probability of default, and lower rates may increase the positive exposure on pay-fixed swaps.",
+        "C": "CVA would remain unchanged because CVA depends only on the probability of default, not on the current interest rate environment.",
+        "D": "CVA would decrease because the two effects perfectly offset each other under standard risk-neutral pricing assumptions."
       },
-      "correct": "C",
-      "explanation": "Unexpected Loss (UL) = EAD × LGD × √(PD × (1 − PD)). Substituting: UL = $10,000,000 × 0.60 × √(0.04 × 0.96) = $6,000,000 × √(0.0384) = $6,000,000 × 0.19596 ≈ $1,175,760, closest to option C. UL captures the volatility of credit losses around the expected loss (EL = PD × LGD × EAD = $240,000), and it is UL — not EL — that economic capital is designed to cover. Option A is simply the expected loss, a common distractor."
+      "correct": "B",
+      "explanation": "CVA is a function of both the probability of default (PD) and the expected positive exposure (EPE) at the time of default. Wider credit spreads increase the risk-neutral PD, directly raising CVA. Simultaneously, falling interest rates increase the mark-to-market value of pay-fixed swaps, raising EPE for the party receiving fixed payments, which further increases CVA. These two effects are additive rather than offsetting, making option B correct. This dynamic — known as wrong-way risk when exposure and credit quality are negatively correlated — is a critical concern in OTC derivatives risk management."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why a hedge is rarely perfect — and what happens when the gap between spot and futures prices behaves unexpectedly.",
+      "title": "Wrong-Way Risk in Derivatives Counterparty Exposure",
+      "subtitle": "When the credit quality of your counterparty deteriorates precisely as your exposure to them grows, the risk is far greater than standard models imply.",
       "paragraphs": [
-        "Basis risk arises when the price of the asset being hedged does not move in perfect lockstep with the price of the hedging instrument. In formal terms, basis is defined as the spot price of the asset minus the futures price of the contract used to hedge it. While theory suggests that basis converges to zero at expiration, in practice, differences in asset specification, delivery location, contract maturity, and liquidity mean the basis can fluctuate unpredictably, creating residual risk even in a carefully constructed hedge.",
-        "A classic real-world example is a jet fuel hedger — say, an airline — that uses crude oil futures because no liquid jet fuel futures market exists. The airline is exposed not only to changes in the overall energy complex but also to shifts in the crack spread (the refining margin between crude oil and jet fuel). During periods of refinery disruptions or supply dislocations, crude oil prices may fall while jet fuel remains elevated, causing the hedge to underperform dramatically. This cross-hedging basis risk materialized painfully for several carriers during the 2008 commodity supercycle.",
-        "For risk managers and portfolio hedgers, basis risk demands careful attention to hedge ratio calibration — typically using the minimum variance hedge ratio, which regresses spot price changes on futures price changes to find the optimal contract size. Traders should also monitor roll risk: as futures contracts approach expiration and must be rolled to the next maturity, the basis at rollover can generate P&L volatility unrelated to the underlying exposure. In volatile macro environments — such as today's commodity markets shaped by geopolitical supply uncertainty — basis risk can dwarf the benefits of a nominally 'hedged' position."
+        "Wrong-way risk (WWR) arises in derivatives markets when the exposure to a counterparty increases at the same time the counterparty's creditworthiness deteriorates. This creates a dangerous correlation: the moment you are most owed money is exactly when the probability of receiving it is lowest. It is classified as 'specific' wrong-way risk when caused by the counterparty's own business (e.g., an airline buying oil call options from an oil producer) and 'general' wrong-way risk when driven by macroeconomic linkages between exposure and default probability.",
+        "The 2008 financial crisis provided a brutal real-world demonstration. Many banks had purchased credit protection via CDS from monolines and structured-finance vehicles. As the underlying mortgage portfolios deteriorated, the protection sellers' credit quality collapsed in lockstep — at the precise moment when the CDS payouts were most needed. Standard CVA models that assumed independence between exposure and default probability massively underestimated the true counterparty risk, contributing to billions in unexpected losses.",
+        "For risk managers, WWR demands stress testing beyond standard independent-exposure-and-default models. Basel III and FRTB explicitly require banks to identify and measure WWR, applying conservative add-ons or scenario-based approaches rather than relying on correlation-zero assumptions. Portfolio managers should seek counterparties whose credit quality is structurally uncorrelated with the payoff profiles of their trades, and should consider requiring additional collateral or tighter margining terms when WWR is identified."
       ],
       "key_takeaways": [
-        "Basis = Spot Price − Futures Price; perfect hedges require basis to remain constant or converge predictably to zero.",
-        "Cross-hedging with a correlated but non-identical instrument introduces additional basis risk that must be quantified and monitored.",
-        "The minimum variance hedge ratio, derived from regression analysis, is the standard tool for optimizing hedge effectiveness while accounting for basis volatility."
+        "Wrong-way risk occurs when counterparty credit quality and your exposure to that counterparty move adversely in tandem, amplifying true credit risk beyond what standard models capture.",
+        "Regulatory frameworks including Basel III and FRTB explicitly require identification and capital treatment for wrong-way risk, making it a board-level concern for dealer banks.",
+        "Mitigation strategies include structural trade design, counterparty diversification, dynamic margining, and stress-testing exposure profiles under correlated default-and-market-move scenarios."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed — often with a nuance of regret or finality. It combines the te-form of a verb with しまう (to finish/end up doing), then conjugated into polite past tense.",
-      "memory_tip": "Think of 予算 as 'yo, SAAAN — how much did that cost?!' — the surprised reaction when you check your finances. 予 (pre/advance) + 算 (calculate) = pre-calculated amount = budget."
+      "example_jp": "明日の会議に遅れないと約束します。",
+      "example_romaji": "Ashita no kaigi ni okurenai to yakusoku shimasu.",
+      "example_en": "I promise I won't be late for tomorrow's meeting.",
+      "grammar_point": "〜と約束します",
+      "grammar_explanation": "The particle 'と' is used here to quote what is being promised, similar to saying 'I promise that...' in English. The verb 約束します (yakusoku shimasu) is the polite form of 約束する (to promise), and attaches naturally after a complete clause ending in plain form.",
+      "memory_tip": "Think of 約 (yaku) as 'a bond or contract' and 束 (soku) as 'a bundle' — when you make a promise, you are bundling yourself into a binding agreement. Imagine tying a knot (束) in a contract scroll (約)."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Risk Departments Everywhere",
-      "summary": "Major financial institutions are deploying large language models and gradient-boosting algorithms to automate and augment credit underwriting, compressing decision timelines from days to minutes while improving default prediction accuracy. Unlike rules-based legacy systems, these models ingest alternative data sources — including payment metadata, supply chain signals, and behavioral patterns — to construct richer borrower profiles. Regulators in the US and EU are responding with model risk management frameworks specifically targeting AI-driven credit decisions, raising the bar for explainability and bias testing. For risk professionals, this shift means that model validation, fairness auditing, and AI governance are no longer niche competencies — they are core job requirements.",
+      "headline": "AI Agents Are Reshaping How Risk Teams Synthesize Market Intelligence",
+      "summary": "A new generation of autonomous AI agents — capable of browsing financial databases, reading earnings transcripts, synthesizing regulatory filings, and generating structured risk reports — is beginning to replace or augment junior analyst workflows at major asset managers and banks. Unlike earlier NLP tools that required human-curated inputs, these agents can chain together multi-step reasoning tasks: monitoring credit spread movements, cross-referencing macro indicators, and drafting actionable morning risk memos with minimal supervision. Firms including BlackRock, JPMorgan, and several hedge funds have disclosed internal deployments of LLM-based research and risk synthesis tools. The productivity multiplier is significant — tasks that took analysts hours are being compressed to minutes — but the interpretability and hallucination risk of these systems remain active regulatory and compliance concerns.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble ML method that builds decision trees sequentially, each correcting the errors of the last — widely used in credit scoring because it handles tabular financial data extremely well and produces highly competitive predictive accuracy."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously plan and execute multi-step tasks — such as retrieving data, running calculations, and writing reports — without a human directing each individual step, increasingly used in financial research automation."
         },
         {
-          "term": "Explainability / SHAP Values",
-          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input feature contributes to a model's output for a specific prediction — critical in credit risk AI so lenders can explain adverse decisions to regulators and applicants."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model dynamically pulls relevant information from external databases or documents (e.g., regulatory filings, earnings calls) before generating a response, dramatically improving accuracy for finance-specific queries."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources used to supplement or replace conventional credit bureau data — including rent payment history, utility bills, e-commerce transaction patterns, and even mobile device metadata — enabling credit assessment for thin-file borrowers."
+          "term": "Hallucination Risk",
+          "definition": "The tendency of large language models to generate plausible-sounding but factually incorrect outputs — a critical compliance and fiduciary concern when AI is used to produce investment research, risk assessments, or regulatory documentation."
         }
       ],
-      "career_insight": "Risk professionals who combine domain expertise in credit analysis with fluency in model validation techniques — particularly around AI fairness, SHAP-based explainability, and SR 11-7 model risk governance — are commanding significant premiums in the current hiring market. The emerging role of 'AI Risk Manager' sits at the intersection of traditional credit risk, data science, and regulatory compliance, and represents one of the fastest-growing specializations in financial services. Building Python proficiency alongside knowledge of fair lending laws (ECOA, FCRA) will differentiate candidates meaningfully over the next five years."
+      "career_insight": "Finance professionals who can act as intelligent 'AI supervisors' — evaluating model outputs for accuracy, designing effective prompts, and integrating AI tools into existing risk and investment workflows — are commanding significant hiring premiums. Pure data-entry and report-compilation roles are being automated first, while roles demanding judgment, client communication, regulatory interpretation, and model governance are becoming more valuable. Building a working fluency with tools like ChatGPT, Copilot for Finance, and Python-based LLM frameworks is no longer optional for analysts seeking to remain competitive through 2030."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a cautious but constructive tone this morning as markets digest a resilient US labor market print against a backdrop of persistent core services inflation, keeping Fed rate-cut pricing anchored to a later-and-slower trajectory than bulls had hoped. The dollar index (DXY) is holding near multi-week highs, applying pressure to EM currencies and commodity prices, while the front end of the Treasury curve remains inverted — signaling that recession risk is not yet priced out. Equity futures are modestly positive, led by tech on AI capex enthusiasm, though credit spreads in the HY space have widened incrementally, suggesting the smart money is quietly hedging downside tail risk into Q3 earnings season."
+    "market_sentiment": "Risk appetite is cautiously constructive heading into the session as markets digest a resilient U.S. labor market print against a backdrop of softening core inflation, keeping Fed rate-cut expectations for late 2025 broadly intact at roughly 50bps of easing priced. Credit spreads remain range-bound with IG holding near cycle tights, though leveraged loan markets are showing early signs of demand fatigue on weaker covenant quality. Equities face a mild headwind from USD strength and China macro disappointment, with the AI-capex trade and domestic energy names providing offsetting support; the macro narrative remains 'higher for longer, but not forever.'"
   }
 }
