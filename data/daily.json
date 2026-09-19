@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:20 PM UTC",
-  "date": "Friday, September 18, 2026",
+  "generated_at": "2:57 PM UTC",
+  "date": "Saturday, September 19, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 88,
-    "feels_like_f": 96,
-    "high_f": 90,
-    "low_f": 85,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 61,
-    "wind_mph": 5,
+    "temp_f": 81,
+    "feels_like_f": 85,
+    "high_f": 83,
+    "low_f": 79,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 79,
+    "wind_mph": 6,
     "forecast": [
       {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 70,
-        "low": 70,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Sun",
-        "icon": "🌧️",
-        "high": 73,
-        "low": 73,
-        "description": "Light Rain"
+        "icon": "⛅",
+        "high": 71,
+        "low": 71,
+        "description": "Scattered Clouds"
       },
       {
         "day": "Mon",
-        "icon": "🌤️",
-        "high": 72,
-        "low": 72,
-        "description": "Few Clouds"
+        "icon": "☀️",
+        "high": 73,
+        "low": 73,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Tue",
+        "icon": "🌧️",
+        "high": 70,
+        "low": 70,
+        "description": "Light Rain"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 759.78,
-        "change": -2.82,
-        "change_pct": -0.37,
+        "price": 761.69,
+        "change": -0.91,
+        "change_pct": -0.12,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 335.21,
-        "change": -1.79,
-        "change_pct": -0.53,
+        "price": 336.13,
+        "change": -0.87,
+        "change_pct": -0.26,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 219.8,
-        "change": 0.46,
-        "change_pct": 0.21,
+        "price": 222.27,
+        "change": 2.93,
+        "change_pct": 1.34,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 363.83,
-        "change": -2.37,
-        "change_pct": -0.65,
+        "price": 364.27,
+        "change": -1.93,
+        "change_pct": -0.53,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 80904.28,
-        "change": 4505.61,
-        "change_pct": 5.9,
+        "price": 81512.32,
+        "change": 656.85,
+        "change_pct": 0.81,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2581.78,
-        "change": 129.23,
-        "change_pct": 5.27,
+        "price": 2638.19,
+        "change": 57.03,
+        "change_pct": 2.21,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/britain-king-charles-ai-summit-0765bee1e338cf65846a046fb5825a4a",
-        "description": "King Charles III has urged AI leaders to keep artificial intelligence under control and beneficial for people and the planet. On Thursday, he addressed executives from OpenAI, Anthropic, Google DeepMi",
-        "published": "2:57 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged - WSJ",
+        "title": "Stock Market Today: Dow Futures Steady, Tech Rally Continues— Live Updates - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-fall-as-market-regains-trust-in-feds-inflation-resolve-62beaf8e",
-        "description": "Investors are now pondering the likely pace of further tightening",
-        "published": "2:49 PM UTC",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026",
+        "description": "",
+        "published": "12:14 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Tech stocks today: OpenAI reveals six more instances of 'concerning model behavior' - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-reveals-six-more-instances-of-concerning-model-behavior-140134624.html",
-        "description": "Tech stock news for the week of Sept. 14.",
-        "published": "2:08 PM UTC",
+        "title": "Russia Seizes Control of Nestlé’s Local Operations - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/articles/nestle-weighs-options-for-russia-unit-after-moscow-puts-it-under-administration-221402de",
+        "description": "",
+        "published": "11:58 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Dragon Slayer: The Legend of Heroes I & II announced for PS5, PS4, Switch, and PC - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/09/dragon-slayer-the-legend-of-heroes-i-ii-announced-for-ps5-ps4-switch-and-pc",
-        "description": "Edia has announced RPG collection Dragon Slayer: The Legend of Heroes I & II for PlayStation 5, PlayStation 4, Switch, and PC (Steam). It will launch in 2027 worldwide.",
-        "published": "3:59 PM UTC",
+        "title": "Disaster! 'Very' Cancels Loads Of Metroid Ravenous Special Edition Pre-Orders - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/09/disaster-very-cancels-loads-of-metroid-ravenous-special-edition-pre-orders",
+        "description": "Metroid Scandalous",
+        "published": "11:30 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Bose’s next open earbuds have more bass, more volume, and more battery life - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
-        "description": "Bose helped start the clip-on earbud trend, and its second-gen Ultra Open Earbuds deliver improved sound and battery life with a redesigned charging case.",
-        "published": "1:00 PM UTC",
+        "title": "Earth's Magnetic Field Flipping Heard as a Sound Is an Unnerving Horror - ScienceAlert",
+        "source": "ScienceAlert",
+        "url": "https://www.sciencealert.com/earths-magnetic-field-flipping-heard-as-a-sound-is-an-unnerving-horror",
+        "description": "You can now listen to the exact sound of Earth's magnetic field falling apart.",
+        "published": "11:04 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Space Marines detachments – Salamanders, Raven Guard, and more - Warhammer Community",
-        "source": "Warhammer-community.com",
-        "url": "https://www.warhammer-community.com/articles/dhwqtqkc/space-marines-detachments-salamanders-raven-guard-and-more",
-        "description": "More Warhammer 40,000 detachments for Codex-compliant Chapters.",
-        "published": "12:56 PM UTC",
+        "title": "192 GB of Grand Theft Auto 5 and GTA 6 Content Leaks Online - Insider Gaming",
+        "source": "Insider-gaming.com",
+        "url": "https://insider-gaming.com/192-gb-of-grand-theft-auto-5-and-gta-6-content-leaks-online/",
+        "description": "A new set of GTA 5 and GTA 6 leaks has surfaced online revealing map expansion details, cut missions and more.",
+        "published": "10:42 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Sheeran’s tour chaos: What to know as Macklemore pledges $1M in Palestinian aid - The Washington Post",
+        "title": "Why Democrats are starting to feel bullish about a midterm wave - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/entertainment/music/2026/09/17/ed-sheerans-tour-controversy-with-macklemore-stadium-owner-robert-kraft/",
-        "description": "Ed Sheeran’s Loop Tour has been thrown into controversy after rapper Macklemore, who said “Free Palestine” at a concert, was dropped as an opening act.",
-        "published": "4:37 PM UTC",
+        "url": "https://www.washingtonpost.com/politics/2026/09/18/democrats-are-feeling-increasingly-bullish-about-controlling-congress/",
+        "description": "Democrats say the Iran war, high prices and President Donald Trump's sinking popularity give them a real chance of congressional majorities.",
+        "published": "10:33 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "How this common age-related eye disease leads to hallucinations - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/health/2026/09/18/age-related-eye-disease-that-leads-hallucinations/",
+        "description": "Studies suggest that Charles Bonnet syndrome affects roughly one in six people with retinal disease or significant vision loss.",
+        "published": "10:32 AM UTC",
+        "category": "General"
+      },
+      {
+        "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3j4jz07e2v8o",
+        "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
+        "published": "10:19 AM UTC",
         "category": "General"
       }
     ]
@@ -174,9 +182,9 @@
       {
         "home": "Brentford",
         "away": "Chelsea",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 3,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "7:00 PM UTC",
         "date": "Sep 18",
         "highlighted": false
@@ -184,9 +192,9 @@
       {
         "home": "Tottenham",
         "away": "Aston Villa",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 3,
+        "status": "FINISHED",
         "time": "11:30 AM UTC",
         "date": "Sep 19",
         "highlighted": false
@@ -194,9 +202,9 @@
       {
         "home": "Everton",
         "away": "Ipswich Town",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Sep 19",
         "highlighted": false
@@ -204,9 +212,9 @@
       {
         "home": "Brighton Hove",
         "away": "Arsenal",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Sep 19",
         "highlighted": false
@@ -214,9 +222,9 @@
       {
         "home": "Newcastle",
         "away": "Hull City",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Sep 19",
         "highlighted": false
@@ -230,22 +238,51 @@
         "time": "4:30 PM UTC",
         "date": "Sep 19",
         "highlighted": false
+      },
+      {
+        "home": "Bournemouth",
+        "away": "Liverpool",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Sep 20",
+        "highlighted": false
+      },
+      {
+        "home": "Leeds United",
+        "away": "Crystal Palace",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Sep 20",
+        "highlighted": false
+      },
+      {
+        "home": "Man City",
+        "away": "Sunderland",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Sep 20",
+        "highlighted": false
+      },
+      {
+        "home": "Fulham",
+        "away": "Man United",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:30 PM UTC",
+        "date": "Sep 20",
+        "highlighted": false
       }
     ],
     "standings": [
       {
         "position": 1,
-        "team": "Arsenal",
-        "played": 4,
-        "won": 4,
-        "drawn": 0,
-        "lost": 0,
-        "gd": 7,
-        "points": 12,
-        "highlighted": false
-      },
-      {
-        "position": 2,
         "team": "Man City",
         "played": 4,
         "won": 4,
@@ -256,7 +293,51 @@
         "highlighted": false
       },
       {
+        "position": 2,
+        "team": "Arsenal",
+        "played": 5,
+        "won": 4,
+        "drawn": 0,
+        "lost": 1,
+        "gd": 5,
+        "points": 12,
+        "highlighted": false
+      },
+      {
         "position": 3,
+        "team": "Brighton Hove",
+        "played": 5,
+        "won": 3,
+        "drawn": 1,
+        "lost": 1,
+        "gd": 10,
+        "points": 10,
+        "highlighted": false
+      },
+      {
+        "position": 4,
+        "team": "Brentford",
+        "played": 5,
+        "won": 2,
+        "drawn": 3,
+        "lost": 0,
+        "gd": 6,
+        "points": 9,
+        "highlighted": false
+      },
+      {
+        "position": 5,
+        "team": "Everton",
+        "played": 5,
+        "won": 2,
+        "drawn": 3,
+        "lost": 0,
+        "gd": 3,
+        "points": 9,
+        "highlighted": false
+      },
+      {
+        "position": 6,
         "team": "Leeds United",
         "played": 4,
         "won": 2,
@@ -265,70 +346,37 @@
         "gd": 4,
         "points": 8,
         "highlighted": false
-      },
-      {
-        "position": 4,
-        "team": "Hull City",
-        "played": 4,
-        "won": 2,
-        "drawn": 2,
-        "lost": 0,
-        "gd": 3,
-        "points": 8,
-        "highlighted": false
-      },
-      {
-        "position": 5,
-        "team": "Brighton Hove",
-        "played": 4,
-        "won": 2,
-        "drawn": 1,
-        "lost": 1,
-        "gd": 8,
-        "points": 7,
-        "highlighted": false
-      },
-      {
-        "position": 6,
-        "team": "Chelsea",
-        "played": 4,
-        "won": 2,
-        "drawn": 1,
-        "lost": 1,
-        "gd": 1,
-        "points": 7,
-        "highlighted": false
       }
     ]
   },
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Arsenal are reported to be leading the pursuit of Swedish striker Viktor Gyökeres from Sporting CP, with personal terms believed to be close to agreement. The Gunners are seeking a prolific center-forward to bolster their title challenge, and Gyökeres — with over 40 goal contributions last season — fits the profile Arteta demands.",
+        "headline": "Arsenal Tracking Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal's technical director is understood to have held preliminary discussions over a summer move for a combative central midfielder, with Thomas Partey's future at the Emirates beyond June increasingly uncertain. The club is keen to add physicality and press resistance in the engine room ahead of a renewed Champions League push.",
         "clubs": [
           "Arsenal",
-          "Sporting CP"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Eye Napoli's Khvicha Kvaratskhelia as Wide Attacker Target",
-        "summary": "Chelsea's recruitment team have identified Georgian winger Khvicha Kvaratskhelia as a priority wide attacker target for the summer window, with initial contact made with the player's representatives. Napoli's asking price remains a significant obstacle, with reports suggesting the Italian club value the 23-year-old at over £80 million.",
+        "headline": "Manchester United Open to Offers for Out-of-Favour Winger This Summer",
+        "summary": "Manchester United are prepared to listen to offers for a wide attacker who has fallen down the pecking order under the current manager, with several Serie A and Ligue 1 clubs registering interest. The club hopes a sale could raise funds to prioritize a striker and a right-back in the upcoming transfer window.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Manchester United",
+          "Juventus"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The Premier League's most consequential rivalry resumes at the Etihad in what could prove a pivotal fixture in the title race, with both sides separated by just two points in the table. City come in off back-to-back league wins and will look to Haaland's relentless pressing to destabilize Liverpool's high defensive line, while Arne Slot's side boast the best away record in the division and will be dangerous on the counter through Salah and Diaz. The tactical battle between Guardiola's positional play and Slot's aggressive pressing structure promises to be the defining narrative of a match the entire division will be watching.",
+      "home": "Liverpool",
+      "away": "Chelsea",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "Anfield hosts a pivotal top-four clash as Liverpool, buoyed by a five-match unbeaten run, look to extend their lead over Chelsea, who arrive having put together back-to-back league wins under their evolving system. The storylines are rich — a youthful Chelsea side testing their tactical maturity against Liverpool's high-intensity pressing game, with both managers facing key selection decisions in midfield. A win for Liverpool could prove decisive in the title conversation, while Chelsea desperately need the points to consolidate their Champions League qualification ambitions.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Cole Palmer",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
@@ -339,39 +387,39 @@
         "return": "Being assessed ahead of the weekend; targeting return within 7-10 days"
       },
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Reece James",
+        "team": "Chelsea",
         "status": "Recovering",
-        "return": "Expected to return to full training within two weeks; targeting late-month fixture"
+        "return": "Expected to return to first-team training within two weeks following hamstring setback"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Term Structure & Interest Rate Dynamics",
-      "question": "An analyst is evaluating two bonds using the Cox-Ingersoll-Ross (CIR) model versus the Vasicek model. Which of the following statements best distinguishes a key structural difference between these two models?",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the MOST significant limitation of this approach, as highlighted by the 2008 financial crisis?",
       "options": {
-        "A": "The Vasicek model allows for negative interest rates, while the CIR model ensures non-negative rates by making volatility proportional to the square root of the current rate.",
-        "B": "The CIR model assumes constant volatility, while the Vasicek model scales volatility with the level of interest rates.",
-        "C": "Both models assume mean reversion but differ only in the speed of mean reversion parameter, with CIR using a faster reversion speed.",
-        "D": "The Vasicek model is a two-factor model that incorporates both short-term and long-term rate dynamics, while CIR is a single-factor model."
+        "A": "The model cannot handle more than two correlated assets simultaneously, making it impractical for large portfolios.",
+        "B": "The model assumes static, normally distributed default correlations that fail to capture tail dependence and correlation spikes during stress periods.",
+        "C": "The Gaussian copula requires Monte Carlo simulation, which is computationally too expensive for real-time risk management.",
+        "D": "The model overstates individual asset default probabilities by ignoring diversification benefits within the portfolio."
       },
-      "correct": "A",
-      "explanation": "The Vasicek model uses a constant volatility term, which can theoretically produce negative interest rates — a mathematically tractable but economically problematic feature. The CIR model addresses this by multiplying the volatility parameter by the square root of the current interest rate, ensuring that as rates approach zero, volatility also approaches zero, preventing negative rates. Both are single-factor mean-reverting models; the key structural difference is the rate-dependent volatility in CIR versus constant volatility in Vasicek. This distinction is critical when pricing interest rate derivatives where floor behavior at zero matters."
+      "correct": "B",
+      "explanation": "The Gaussian copula model's critical flaw is its assumption that asset correlations remain constant and that joint defaults follow a normal distribution, which severely underestimates tail dependence — the tendency for assets to default together precisely during crisis periods. In 2008, correlations between mortgage-backed securities spiked dramatically, far beyond what the model predicted, causing catastrophic mispricing of CDO tranches. Alternative copulas such as the Student-t or Clayton copula better capture asymmetric tail dependence. This limitation, popularized in critiques of the 'formula that killed Wall Street,' remains a foundational lesson in model risk."
     },
     "finance_topic": {
-      "title": "Basis Risk and Its Hidden Dangers",
-      "subtitle": "Understanding why hedges fail to perfectly offset underlying exposures — and what that means for risk managers.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Understanding why imperfect hedges can leave investors exposed to unexpected losses even when they believe they are protected.",
       "paragraphs": [
-        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the price of the exposure being hedged. It is defined as the difference between the spot price of an asset and the futures or derivative price used to hedge it. Even a theoretically well-constructed hedge carries residual basis risk, because hedging instruments — futures contracts, swaps, ETFs — are rarely a perfect proxy for the underlying position. This imperfection is not a flaw in theory; it is an inherent feature of real markets.",
-        "A classic example emerged during the 2008 financial crisis, when many institutions hedged mortgage-backed security (MBS) exposures using ABX index derivatives. While the ABX tracked subprime credit broadly, it did not perfectly mirror the idiosyncratic risk of specific MBS tranches. As liquidity dried up and correlations broke down, basis widened dramatically — meaning losses on the underlying portfolio were not fully offset by gains on the hedge. Similarly, airlines hedging jet fuel exposure with crude oil futures face persistent basis risk because jet fuel and WTI crude do not always move in tandem, especially during supply disruptions.",
-        "For risk managers and portfolio constructors, basis risk demands attention at the instrument selection, rebalancing frequency, and position sizing stages. A hedge ratio derived from historical correlations may prove unstable during stress events — precisely when protection is most needed. Investors should monitor the rolling basis systematically, stress test hedge effectiveness under adverse correlation scenarios, and consider whether residual basis risk is being adequately compensated. Regulatory frameworks like IFRS 9 and ASC 815 also require firms to formally assess and document hedge effectiveness, making basis risk a compliance issue as much as a risk management one."
+        "Basis risk is the risk that the value of a hedge does not move in perfect opposition to the value of the underlying exposure being hedged. It arises whenever the instrument used to hedge — such as a futures contract, an index option, or a credit default swap — does not perfectly match the asset or liability being protected. The 'basis' itself is defined as the difference between the spot price of the asset and the price of the hedging instrument, and this gap can widen or narrow unpredictably, eroding hedge effectiveness.",
+        "A classic real-world example occurs in commodity markets: an airline hedging jet fuel costs using crude oil futures faces basis risk because jet fuel and crude oil prices, while correlated, diverge based on refining margins, seasonal demand, and regional supply dynamics. Similarly, a fixed-income portfolio manager hedging a portfolio of corporate bonds using Treasury futures is exposed to credit spread basis risk — if Treasury yields fall while corporate spreads widen, the hedge may actually amplify losses rather than offset them, a scenario seen acutely during the March 2020 COVID liquidity shock.",
+        "For risk managers and investors, understanding basis risk is essential to calculating true hedge effectiveness under ASC 815 (IFRS 9 in international contexts) and to avoiding the false comfort of a nominally hedged position. Portfolio managers should regularly stress-test the basis under historical crisis scenarios, monitor rolling correlations between the hedging instrument and the exposure, and consider dynamic hedge ratio adjustments. In periods of market dislocation, basis risk can transform a defensive strategy into a source of unintended leverage."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is applied — it cannot be fully eliminated, only managed.",
-        "Basis widens most dangerously during market stress, exactly when hedges are needed most, making stress testing of hedge effectiveness essential.",
-        "Instrument selection is the primary lever for minimizing basis risk; the closer the hedge instrument mirrors the underlying exposure, the tighter the basis."
+        "Basis risk arises from imperfect correlation between the hedging instrument and the underlying exposure, and it can never be fully eliminated in cross-hedges.",
+        "Crisis environments — such as 2008 and March 2020 — tend to widen basis dramatically, making historically reliable hedges unreliable precisely when protection is most needed.",
+        "Effective risk management requires ongoing monitoring of hedge ratios, correlation stability, and scenario analysis of basis widening under stress conditions."
       ]
     },
     "japanese": {
@@ -379,33 +427,33 @@
       "reading": "yosan",
       "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened completely or regrettably — often used when an unintended or unfortunate result occurred. It combines the te-form of a verb with しまいました to convey a sense of 'ended up doing' or 'unfortunately did.'",
-      "memory_tip": "Think of 予 (yo) as 'your' and 算 (san) as 'calculation' — your calculation of spending ahead of time is your yo-san, your budget."
+      "example_jp": "今月の予算をしっかり管理しています。",
+      "example_romaji": "Kongetsu no yosan wo shikkari kanri shite imasu.",
+      "example_en": "I am carefully managing this month's budget.",
+      "grammar_point": "〜ています (te-form + imasu)",
+      "grammar_explanation": "The pattern 〜ています expresses an ongoing action or current state. Here, 管理しています (kanri shite imasu) means 'am managing' — an action currently in progress, equivalent to the English present continuous tense.",
+      "memory_tip": "Think of 'yosan' as 'yo, son — how much do we have to spend?' — a dad checking the budget. The kanji 予 means 'in advance' and 算 means 'calculate,' so a budget is literally an advance calculation."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Desks at Scale",
-      "summary": "Major financial institutions are deploying large language models and gradient-boosted machine learning pipelines to augment — and in some cases replace — traditional credit scoring models. These systems ingest alternative data sources including satellite imagery of retail foot traffic, utility payment histories, and real-time transaction data to generate dynamic credit risk assessments that update far more frequently than legacy FICO-based models. Early adopters report meaningful reductions in default prediction error and faster decisioning cycles, particularly in SME and consumer lending segments. Regulators are responding by tightening model explainability requirements, pushing firms toward interpretable AI frameworks.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Replacing Traditional Scorecards",
+      "summary": "Major banks and fintech lenders are increasingly deploying gradient boosting and deep learning models to replace or augment FICO-based credit underwriting, incorporating thousands of alternative data signals including cash flow patterns, utility payments, and behavioral metadata. Recent regulatory guidance from the CFPB and OCC has begun to address explainability requirements, pushing institutions toward interpretable ML frameworks like SHAP values to justify credit decisions. The performance delta is significant: AI-driven models have demonstrated 15-25% reductions in default rates at equivalent approval rates in controlled studies, creating strong competitive pressure. However, model drift, disparate impact risk, and data governance remain critical unresolved challenges for risk and compliance teams.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that sequentially builds decision trees, each correcting errors of the prior — widely used in credit risk because it handles mixed data types, missing values, and produces strong predictive accuracy with relatively interpretable feature importance scores."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds sequential decision trees, each correcting the errors of the previous one — widely used in credit risk because it handles mixed data types, missing values, and non-linear relationships far better than logistic regression."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as geolocation data, web scraping, social sentiment, or supply chain signals — used by AI models to generate signals about creditworthiness, earnings momentum, or default risk that traditional financial statements cannot capture."
+          "term": "SHAP Values (SHapley Additive Explanations)",
+          "definition": "A game-theory-based method for explaining individual predictions from any ML model, showing how much each input variable contributed to a specific credit decision — critical for regulatory compliance and adverse action notices."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) is a technique that quantifies each input feature's contribution to a model's output, allowing risk managers and regulators to understand why an AI model assigned a particular credit score or risk rating — critical for regulatory compliance."
+          "term": "Model Drift",
+          "definition": "The degradation of a model's predictive accuracy over time as real-world data distributions shift away from training data — particularly dangerous in credit models during economic regime changes like rate cycles or recessions."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge traditional financial modeling with machine learning literacy are commanding premium salaries at banks, fintechs, and hedge funds. The highest-value skill combination is not pure coding ability but rather the capacity to critically evaluate AI model outputs, identify data quality issues, and translate model behavior into business and regulatory language. Professionals investing in Python fluency, familiarity with SHAP-based model auditing, and knowledge of SR 11-7 model risk governance guidelines will be best positioned as AI integration accelerates across risk functions."
+      "career_insight": "Risk managers and credit analysts who can bridge quantitative ML skills with regulatory knowledge — particularly model validation, SR 11-7 guidance, and fair lending compliance — are among the most sought-after professionals in financial services today. Building fluency in Python-based ML libraries alongside a strong understanding of model governance frameworks positions analysts to lead AI adoption rather than be displaced by it."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautiously constructive as markets digest a resilient US labor market against a Federal Reserve that continues to signal a higher-for-longer stance well into the second half of the year. The front end of the Treasury curve is attracting fresh demand as real yields stay elevated, while credit spreads in investment-grade have tightened modestly on solid corporate earnings revisions — though high-yield remains vulnerable to any deterioration in consumer spending data. Equity positioning is concentrated in large-cap tech and AI-adjacent names, leaving the broader market exposed to a rotation shock if macro data surprises to the downside; watch the upcoming CPI print and China PMI release as the week's key sentiment catalysts."
+    "market_sentiment": "Global risk appetite remains cautiously constructive as markets digest a resilient U.S. labor market print against a backdrop of Fed officials signaling a higher-for-longer stance well into H2 2025, with the 10-year Treasury yield holding above 4.40% and continuing to pressure rate-sensitive equities and REITs. In credit markets, investment-grade spreads remain near post-GFC tights, suggesting complacency that diverges from tightening lending standards visible in Fed Senior Loan Officer Survey data — a tension worth monitoring closely. EM assets face headwinds from dollar strength and China's subdued domestic demand recovery, while European equities continue to attract rotation flows on attractive relative valuations and a more dovish ECB trajectory."
   }
 }
