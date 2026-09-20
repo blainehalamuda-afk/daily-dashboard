@@ -1,38 +1,38 @@
 {
-  "generated_at": "2:57 PM UTC",
-  "date": "Saturday, September 19, 2026",
+  "generated_at": "3:00 PM UTC",
+  "date": "Sunday, September 20, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 81,
-    "feels_like_f": 85,
-    "high_f": 83,
-    "low_f": 79,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 79,
-    "wind_mph": 6,
+    "feels_like_f": 84,
+    "high_f": 84,
+    "low_f": 77,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 68,
+    "wind_mph": 3,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "⛅",
-        "high": 71,
-        "low": 71,
-        "description": "Scattered Clouds"
-      },
       {
         "day": "Mon",
         "icon": "☀️",
-        "high": 73,
-        "low": 73,
+        "high": 72,
+        "low": 72,
         "description": "Clear Sky"
       },
       {
         "day": "Tue",
+        "icon": "☁️",
+        "high": 71,
+        "low": 71,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Wed",
         "icon": "🌧️",
-        "high": 70,
-        "low": 70,
-        "description": "Light Rain"
+        "high": 66,
+        "low": 66,
+        "description": "Moderate Rain"
       }
     ]
   },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 81512.32,
-        "change": 656.85,
-        "change_pct": 0.81,
-        "up": true,
+        "price": 80718.91,
+        "change": -871.15,
+        "change_pct": -1.07,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2638.19,
-        "change": 57.03,
-        "change_pct": 2.21,
-        "up": true,
+        "price": 2586.61,
+        "change": -52.65,
+        "change_pct": -1.99,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow Futures Steady, Tech Rally Continues— Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026",
-        "description": "",
-        "published": "12:14 PM UTC",
+        "title": "Trump’s Iran war has economists aghast - salon.com",
+        "source": "Salon",
+        "url": "https://www.salon.com/2026/09/19/economists-are-losing-it-over-damage-caused-by-trumps-iran-war/",
+        "description": "No \"endgame\" in sight, says J.P. Morgan, as gas prices keep soaring",
+        "published": "10:45 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Russia Seizes Control of Nestlé’s Local Operations - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/articles/nestle-weighs-options-for-russia-unit-after-moscow-puts-it-under-administration-221402de",
-        "description": "",
-        "published": "11:58 AM UTC",
+        "title": "Google Gemini accessed protected systems of 3 real companies during artificial intelligence cybersecurity test - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/technology/google-gemini-accessed-3-companies-systems-during-ai-cybersecurity-test",
+        "description": "Google Gemini accessed three real companies' protected systems during a cybersecurity test, including one case where the AI repeatedly guessed passwords.",
+        "published": "9:29 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Disaster! 'Very' Cancels Loads Of Metroid Ravenous Special Edition Pre-Orders - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/disaster-very-cancels-loads-of-metroid-ravenous-special-edition-pre-orders",
-        "description": "Metroid Scandalous",
-        "published": "11:30 AM UTC",
+        "title": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27 - 9to5Mac",
+        "source": "9to5Mac",
+        "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
+        "description": "The iPhone 18 Pro Max offers a huge jump in battery life, partly because the battery itself is physically larger....",
+        "published": "11:10 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Earth's Magnetic Field Flipping Heard as a Sound Is an Unnerving Horror - ScienceAlert",
-        "source": "ScienceAlert",
-        "url": "https://www.sciencealert.com/earths-magnetic-field-flipping-heard-as-a-sound-is-an-unnerving-horror",
-        "description": "You can now listen to the exact sound of Earth's magnetic field falling apart.",
-        "published": "11:04 AM UTC",
+        "title": "No One Wants To Talk About This Embarrassing Part Of Aging — But This Small Toilet Tool Can Help - HuffPost",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/bottom-buddy-wiping-aid_l_6aa828dde4b0781f96938971",
+        "description": "The Bottom Buddy is an ergonomic toilet wand that is giving people back their independence.",
+        "published": "10:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "192 GB of Grand Theft Auto 5 and GTA 6 Content Leaks Online - Insider Gaming",
-        "source": "Insider-gaming.com",
-        "url": "https://insider-gaming.com/192-gb-of-grand-theft-auto-5-and-gta-6-content-leaks-online/",
-        "description": "A new set of GTA 5 and GTA 6 leaks has surfaced online revealing map expansion details, cut missions and more.",
-        "published": "10:42 AM UTC",
+        "title": "Poll: What were your favorite announcements from Xbox Tokyo Game Show 2026? - TrueAchievements",
+        "source": "TrueAchievements",
+        "url": "https://www.trueachievements.com/poll/63783/poll-xbox-tokyo-game-show-2026",
+        "description": "With 17 reveals and announcements from this year's show, for this week's poll, we want to know: what were your favorite announcements from Xbox Tokyo Game Show 2026?",
+        "published": "8:01 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Why Democrats are starting to feel bullish about a midterm wave - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/09/18/democrats-are-feeling-increasingly-bullish-about-controlling-congress/",
-        "description": "Democrats say the Iran war, high prices and President Donald Trump's sinking popularity give them a real chance of congressional majorities.",
-        "published": "10:33 AM UTC",
+        "title": "CNN and MS NOW denied White House access after Trump announces ban - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/white-house/ms-now-journalists-denied-access-white-house-trump-announced-ban-rcna598677",
+        "description": "Journalists from MS NOW and CNN said Saturday that they have been denied access to the White House grounds, a day after President Donald Trump said on social media that he had banned the news outlets ",
+        "published": "2:28 PM UTC",
         "category": "General"
       },
       {
-        "title": "How this common age-related eye disease leads to hallucinations - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/health/2026/09/18/age-related-eye-disease-that-leads-hallucinations/",
-        "description": "Studies suggest that Charles Bonnet syndrome affects roughly one in six people with retinal disease or significant vision loss.",
-        "published": "10:32 AM UTC",
+        "title": "Lane Kiffin returns to Ole Miss, and draws a very profane chant - NBC Sports",
+        "source": "NBCSports.com",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-kiffin-returns-to-ole-miss-and-draws-a-very-profane-chant",
+        "description": "Football's equivalent of the Joker returns to Gotham City on Saturday, when coach Lane Kiffin's LSU team plays at Ole Miss, the program he ditched during a playoff season.",
+        "published": "1:18 PM UTC",
         "category": "General"
       },
       {
-        "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case - BBC",
+        "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital - BBC",
         "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c3j4jz07e2v8o",
-        "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
-        "published": "10:19 AM UTC",
+        "url": "https://www.bbc.com/news/articles/cwly5d9v7r43o",
+        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+        "published": "1:09 PM UTC",
         "category": "General"
       }
     ]
@@ -179,16 +179,6 @@
   "sports": {
     "error": false,
     "matches": [
-      {
-        "home": "Brentford",
-        "away": "Chelsea",
-        "home_score": 3,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "7:00 PM UTC",
-        "date": "Sep 18",
-        "highlighted": false
-      },
       {
         "home": "Tottenham",
         "away": "Aston Villa",
@@ -204,7 +194,7 @@
         "away": "Ipswich Town",
         "home_score": 1,
         "away_score": 0,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Sep 19",
         "highlighted": false
@@ -212,9 +202,9 @@
       {
         "home": "Brighton Hove",
         "away": "Arsenal",
-        "home_score": 2,
+        "home_score": 3,
         "away_score": 0,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Sep 19",
         "highlighted": false
@@ -223,8 +213,8 @@
         "home": "Newcastle",
         "away": "Hull City",
         "home_score": 2,
-        "away_score": 0,
-        "status": "IN_PLAY",
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Sep 19",
         "highlighted": false
@@ -232,9 +222,9 @@
       {
         "home": "Nottingham",
         "away": "Coventry City",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "4:30 PM UTC",
         "date": "Sep 19",
         "highlighted": false
@@ -242,9 +232,9 @@
       {
         "home": "Bournemouth",
         "away": "Liverpool",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "1:00 PM UTC",
         "date": "Sep 20",
         "highlighted": false
@@ -252,9 +242,9 @@
       {
         "home": "Leeds United",
         "away": "Crystal Palace",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "1:00 PM UTC",
         "date": "Sep 20",
         "highlighted": false
@@ -262,9 +252,9 @@
       {
         "home": "Man City",
         "away": "Sunderland",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 5,
+        "away_score": 3,
+        "status": "IN_PLAY",
         "time": "1:00 PM UTC",
         "date": "Sep 20",
         "highlighted": false
@@ -284,12 +274,12 @@
       {
         "position": 1,
         "team": "Man City",
-        "played": 4,
-        "won": 4,
+        "played": 5,
+        "won": 5,
         "drawn": 0,
         "lost": 0,
-        "gd": 6,
-        "points": 12,
+        "gd": 8,
+        "points": 15,
         "highlighted": false
       },
       {
@@ -299,7 +289,7 @@
         "won": 4,
         "drawn": 0,
         "lost": 1,
-        "gd": 5,
+        "gd": 4,
         "points": 12,
         "highlighted": false
       },
@@ -310,7 +300,7 @@
         "won": 3,
         "drawn": 1,
         "lost": 1,
-        "gd": 10,
+        "gd": 11,
         "points": 10,
         "highlighted": false
       },
@@ -327,7 +317,18 @@
       },
       {
         "position": 5,
-        "team": "Everton",
+        "team": "Leeds United",
+        "played": 5,
+        "won": 2,
+        "drawn": 3,
+        "lost": 0,
+        "gd": 4,
+        "points": 9,
+        "highlighted": false
+      },
+      {
+        "position": 6,
+        "team": "Liverpool",
         "played": 5,
         "won": 2,
         "drawn": 3,
@@ -335,125 +336,114 @@
         "gd": 3,
         "points": 9,
         "highlighted": false
-      },
-      {
-        "position": 6,
-        "team": "Leeds United",
-        "played": 4,
-        "won": 2,
-        "drawn": 2,
-        "lost": 0,
-        "gd": 4,
-        "points": 8,
-        "highlighted": false
       }
     ]
   },
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Tracking Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal's technical director is understood to have held preliminary discussions over a summer move for a combative central midfielder, with Thomas Partey's future at the Emirates beyond June increasingly uncertain. The club is keen to add physicality and press resistance in the engine room ahead of a renewed Champions League push.",
+        "headline": "Manchester United Target Stuttgart Winger as Amorim Eyes Pace on the Flanks",
+        "summary": "Reports from Germany suggest Manchester United have opened preliminary discussions with VfB Stuttgart over their pacey wide forward, as head coach Rúben Amorim looks to add direct, high-energy options to his attack ahead of a potential summer overhaul at Old Trafford.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Manchester United",
+          "VfB Stuttgart"
         ]
       },
       {
-        "headline": "Manchester United Open to Offers for Out-of-Favour Winger This Summer",
-        "summary": "Manchester United are prepared to listen to offers for a wide attacker who has fallen down the pecking order under the current manager, with several Serie A and Ligue 1 clubs registering interest. The club hopes a sale could raise funds to prioritize a striker and a right-back in the upcoming transfer window.",
+        "headline": "Chelsea in Pole Position for Wolves Midfielder Joao Gomes — £45M Fee Mooted",
+        "summary": "Chelsea are understood to have moved to the front of the queue for Wolverhampton Wanderers' Brazilian midfielder Joao Gomes, with discussions around a fee in the region of £45 million, as the Stamford Bridge club looks to add defensive midfield depth for the 2025-26 season.",
         "clubs": [
-          "Manchester United",
-          "Juventus"
+          "Chelsea",
+          "Wolverhampton Wanderers"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Chelsea",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "Anfield hosts a pivotal top-four clash as Liverpool, buoyed by a five-match unbeaten run, look to extend their lead over Chelsea, who arrive having put together back-to-back league wins under their evolving system. The storylines are rich — a youthful Chelsea side testing their tactical maturity against Liverpool's high-intensity pressing game, with both managers facing key selection decisions in midfield. A win for Liverpool could prove decisive in the title conversation, while Chelsea desperately need the points to consolidate their Champions League qualification ambitions.",
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "This top-of-the-table encounter at the Emirates has all the hallmarks of a title-defining moment, with Arsenal needing a win to keep pressure on league leaders Liverpool while Arne Slot's side can extend their advantage with a result on the road. Arsenal have been in formidable home form — unbeaten in their last nine at the Emirates in the league — while Liverpool's relentless pressing game and attacking depth make them the most dangerous away side in the division. The tactical battle between Mikel Arteta's structured build-up play and Liverpool's high-octane press could be decided by which team's midfield wins the transition battle.",
       "key_players": [
+        "Bukayo Saka",
         "Mohamed Salah",
-        "Cole Palmer",
-        "Alexis Mac Allister"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; targeting return within 7-10 days"
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Expected back for pre-season 2025-26; out for remainder of current season"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
-        "status": "Recovering",
-        "return": "Expected to return to first-team training within two weeks following hamstring setback"
+        "player": "Diogo Jota",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Assessed day-to-day; potential return within 2 weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
+      "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. Which of the following is the MOST significant limitation of this approach, as highlighted by the 2008 financial crisis?",
+      "question": "A bank estimates the following for a corporate loan portfolio: Probability of Default (PD) = 2.5%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $80 million. Additionally, the portfolio's asset return correlation is estimated at 12%. Which of the following best describes the difference between Expected Loss (EL) and Unexpected Loss (UL), and which requires economic capital allocation?",
       "options": {
-        "A": "The model cannot handle more than two correlated assets simultaneously, making it impractical for large portfolios.",
-        "B": "The model assumes static, normally distributed default correlations that fail to capture tail dependence and correlation spikes during stress periods.",
-        "C": "The Gaussian copula requires Monte Carlo simulation, which is computationally too expensive for real-time risk management.",
-        "D": "The model overstates individual asset default probabilities by ignoring diversification benefits within the portfolio."
+        "A": "EL = $0.9M and represents the average loss provisioned in pricing; UL captures tail risk beyond EL and requires economic capital.",
+        "B": "EL = $0.9M and requires economic capital; UL is diversified away and requires only loan loss reserves.",
+        "C": "EL = $1.8M because correlation amplifies expected loss; UL is zero under the Basel IRB framework.",
+        "D": "EL and UL both require economic capital; loan loss reserves cover only regulatory minimum capital."
       },
-      "correct": "B",
-      "explanation": "The Gaussian copula model's critical flaw is its assumption that asset correlations remain constant and that joint defaults follow a normal distribution, which severely underestimates tail dependence — the tendency for assets to default together precisely during crisis periods. In 2008, correlations between mortgage-backed securities spiked dramatically, far beyond what the model predicted, causing catastrophic mispricing of CDO tranches. Alternative copulas such as the Student-t or Clayton copula better capture asymmetric tail dependence. This limitation, popularized in critiques of the 'formula that killed Wall Street,' remains a foundational lesson in model risk."
+      "correct": "A",
+      "explanation": "Expected Loss is calculated as PD × LGD × EAD = 0.025 × 0.45 × $80M = $0.9M, and represents the average anticipated loss that banks price into loan spreads and cover with loan loss provisions. Unexpected Loss (UL) reflects the volatility around EL — particularly tail losses driven by systematic risk and asset correlations — and is the quantity that economic capital is designed to absorb. Under Basel II/III IRB approaches, loan loss reserves address EL while Tier 1/2 capital buffers address UL, making Option A correct. Asset correlation (12% here) amplifies UL but does not change the EL calculation."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Understanding why imperfect hedges can leave investors exposed to unexpected losses even when they believe they are protected.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why a perfect hedge is a theoretical ideal that often breaks down in practice, and what that means for risk managers.",
       "paragraphs": [
-        "Basis risk is the risk that the value of a hedge does not move in perfect opposition to the value of the underlying exposure being hedged. It arises whenever the instrument used to hedge — such as a futures contract, an index option, or a credit default swap — does not perfectly match the asset or liability being protected. The 'basis' itself is defined as the difference between the spot price of the asset and the price of the hedging instrument, and this gap can widen or narrow unpredictably, eroding hedge effectiveness.",
-        "A classic real-world example occurs in commodity markets: an airline hedging jet fuel costs using crude oil futures faces basis risk because jet fuel and crude oil prices, while correlated, diverge based on refining margins, seasonal demand, and regional supply dynamics. Similarly, a fixed-income portfolio manager hedging a portfolio of corporate bonds using Treasury futures is exposed to credit spread basis risk — if Treasury yields fall while corporate spreads widen, the hedge may actually amplify losses rather than offset them, a scenario seen acutely during the March 2020 COVID liquidity shock.",
-        "For risk managers and investors, understanding basis risk is essential to calculating true hedge effectiveness under ASC 815 (IFRS 9 in international contexts) and to avoiding the false comfort of a nominally hedged position. Portfolio managers should regularly stress-test the basis under historical crisis scenarios, monitor rolling correlations between the hedging instrument and the exposure, and consider dynamic hedge ratio adjustments. In periods of market dislocation, basis risk can transform a defensive strategy into a source of unintended leverage."
+        "Basis risk arises when the hedge instrument used to offset an exposure does not move perfectly in sync with the underlying position being hedged. It is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when a hedger selects a closely related instrument — such as WTI crude futures to hedge Brent crude exposure — small but meaningful price divergences can persist, leaving residual risk that cannot be eliminated. Basis risk is therefore the price paid for using standardized, liquid hedging vehicles instead of bespoke over-the-counter contracts.",
+        "A vivid real-world illustration occurred during the March 2020 COVID-19 market shock, when corporate treasury desks hedging their USD funding costs with Eurodollar futures experienced sudden and severe basis widening as the FRA-OIS spread exploded. Similarly, airlines that hedge jet fuel exposure using heating oil or crude futures routinely accept crack-spread basis risk because no exchange-traded jet fuel futures market exists with sufficient liquidity. In fixed income, a portfolio manager using 10-year Treasury futures to hedge a corporate bond portfolio faces both duration mismatch and credit spread basis — the corporate bonds can widen even as Treasuries rally, resulting in losses on both legs simultaneously.",
+        "For risk managers and investors, basis risk demands that hedge effectiveness be measured continuously, not assumed. Under IFRS 9 and ASC 815, hedge accounting requires retrospective and prospective effectiveness testing, and a hedge that drifts outside the 80–125% effectiveness band loses its accounting designation — creating P&L volatility. Practitioners should decompose total portfolio risk into hedgeable systematic components and unhedgeable basis components, sizing positions accordingly. In stressed markets, basis tends to widen precisely when hedges are needed most, meaning firms that ignored basis in calm periods face compounded losses during crises."
       ],
       "key_takeaways": [
-        "Basis risk arises from imperfect correlation between the hedging instrument and the underlying exposure, and it can never be fully eliminated in cross-hedges.",
-        "Crisis environments — such as 2008 and March 2020 — tend to widen basis dramatically, making historically reliable hedges unreliable precisely when protection is most needed.",
-        "Effective risk management requires ongoing monitoring of hedge ratios, correlation stability, and scenario analysis of basis widening under stress conditions."
+        "Basis risk is the residual exposure remaining after a hedge is placed, arising from imperfect correlation between the hedging instrument and the underlying asset.",
+        "Basis tends to widen sharply in market stress events, undermining hedge effectiveness exactly when protection is most critical.",
+        "Effective risk management requires ongoing hedge effectiveness testing and explicit recognition that no real-world hedge eliminates risk entirely."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をしっかり管理しています。",
-      "example_romaji": "Kongetsu no yosan wo shikkari kanri shite imasu.",
-      "example_en": "I am carefully managing this month's budget.",
-      "grammar_point": "〜ています (te-form + imasu)",
-      "grammar_explanation": "The pattern 〜ています expresses an ongoing action or current state. Here, 管理しています (kanri shite imasu) means 'am managing' — an action currently in progress, equivalent to the English present continuous tense.",
-      "memory_tip": "Think of 'yosan' as 'yo, son — how much do we have to spend?' — a dad checking the budget. The kanji 予 means 'in advance' and 算 means 'calculate,' so a budget is literally an advance calculation."
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over the budget for this month.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened completely, often with a nuance of regret or that it was unintended. It combines the te-form of a verb with しまいました to signal a completed, often unfortunate, outcome.",
+      "memory_tip": "Think of 予 (yo) as 'yo, I planned ahead' and 算 (san) as 'calculating' — so 予算 is your planned calculation, i.e. your budget. If you bust it, you use てしまいました with a grimace."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Replacing Traditional Scorecards",
-      "summary": "Major banks and fintech lenders are increasingly deploying gradient boosting and deep learning models to replace or augment FICO-based credit underwriting, incorporating thousands of alternative data signals including cash flow patterns, utility payments, and behavioral metadata. Recent regulatory guidance from the CFPB and OCC has begun to address explainability requirements, pushing institutions toward interpretable ML frameworks like SHAP values to justify credit decisions. The performance delta is significant: AI-driven models have demonstrated 15-25% reductions in default rates at equivalent approval rates in controlled studies, creating strong competitive pressure. However, model drift, disparate impact risk, and data governance remain critical unresolved challenges for risk and compliance teams.",
+      "headline": "AI Agents Are Now Automating Multi-Step Financial Analysis Workflows Autonomously",
+      "summary": "Agentic AI systems — LLM-powered models that can plan, use tools, and execute multi-step tasks without human intervention at each step — are moving from research prototypes into production financial environments. Major asset managers and sell-side banks are piloting agents that can autonomously pull earnings data, run sensitivity analyses, cross-reference macro indicators, and draft investment committee memos in minutes. Unlike earlier AI tools that required a human prompt at each step, these agents operate on goals: given an instruction like 'prepare a credit memo for XYZ Corp,' they orchestrate dozens of sub-tasks end-to-end. The key risk management challenge is ensuring these agents operate within compliance guardrails and that their reasoning chains are auditable.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds sequential decision trees, each correcting the errors of the previous one — widely used in credit risk because it handles mixed data types, missing values, and non-linear relationships far better than logistic regression."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously break down a high-level goal into sub-tasks, select tools (like databases, calculators, or web search), execute those tasks in sequence, and self-correct — mimicking how a human analyst would approach a complex research project."
         },
         {
-          "term": "SHAP Values (SHapley Additive Explanations)",
-          "definition": "A game-theory-based method for explaining individual predictions from any ML model, showing how much each input variable contributed to a specific credit decision — critical for regulatory compliance and adverse action notices."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model dynamically retrieves relevant documents — such as 10-K filings, covenant agreements, or market data — before generating a response, dramatically improving factual accuracy and reducing hallucination risk in finance applications."
         },
         {
-          "term": "Model Drift",
-          "definition": "The degradation of a model's predictive accuracy over time as real-world data distributions shift away from training data — particularly dangerous in credit models during economic regime changes like rate cycles or recessions."
+          "term": "Chain-of-Thought Reasoning",
+          "definition": "A prompting or training approach that causes AI models to show their intermediate reasoning steps explicitly, allowing compliance officers and risk managers to audit how the model arrived at a conclusion rather than accepting a black-box output."
         }
       ],
-      "career_insight": "Risk managers and credit analysts who can bridge quantitative ML skills with regulatory knowledge — particularly model validation, SR 11-7 guidance, and fair lending compliance — are among the most sought-after professionals in financial services today. Building fluency in Python-based ML libraries alongside a strong understanding of model governance frameworks positions analysts to lead AI adoption rather than be displaced by it."
+      "career_insight": "Finance professionals who understand how to design, supervise, and govern agentic AI workflows — rather than simply use AI as a chat tool — will command significant career premiums over the next three to five years. The most durable skills will be prompt engineering for complex multi-step tasks, AI output validation, and the ability to translate regulatory requirements into AI system guardrails. Risk managers who can articulate model risk governance frameworks for LLM-based systems are already becoming among the most sought-after candidates at tier-one institutions."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive as markets digest a resilient U.S. labor market print against a backdrop of Fed officials signaling a higher-for-longer stance well into H2 2025, with the 10-year Treasury yield holding above 4.40% and continuing to pressure rate-sensitive equities and REITs. In credit markets, investment-grade spreads remain near post-GFC tights, suggesting complacency that diverges from tightening lending standards visible in Fed Senior Loan Officer Survey data — a tension worth monitoring closely. EM assets face headwinds from dollar strength and China's subdued domestic demand recovery, while European equities continue to attract rotation flows on attractive relative valuations and a more dovish ECB trajectory."
+    "market_sentiment": "Global risk assets are navigating a cautious equilibrium this week as markets digest persistently sticky services inflation in the US against softer-than-expected manufacturing PMIs out of the Eurozone, keeping the 'higher for longer' Fed narrative alive but increasingly fragile. The front end of the US Treasury curve remains under pressure, with 2-year yields holding near cycle highs as traders push back rate cut pricing toward late 2025, while credit spreads in IG have been remarkably resilient — a dynamic that suggests liquidity remains ample but complacency risk is elevated. In FX, the DXY continues to grind higher on rate differentials, pressuring EM currencies and commodities priced in dollars, while gold's ability to hold near $2,300/oz despite a strong dollar signals persistent central bank demand and geopolitical hedging flows."
   }
 }
