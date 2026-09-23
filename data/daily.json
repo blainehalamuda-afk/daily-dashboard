@@ -1,30 +1,23 @@
 {
-  "generated_at": "3:52 PM UTC",
-  "date": "Tuesday, September 22, 2026",
+  "generated_at": "3:42 PM UTC",
+  "date": "Wednesday, September 23, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 82,
-    "feels_like_f": 87,
-    "high_f": 85,
-    "low_f": 80,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 70,
-    "wind_mph": 2,
+    "temp_f": 61,
+    "feels_like_f": 61,
+    "high_f": 62,
+    "low_f": 59,
+    "description": "Moderate Rain",
+    "icon": "🌧️",
+    "humidity": 95,
+    "wind_mph": 9,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "🌧️",
-        "high": 65,
-        "low": 65,
-        "description": "Moderate Rain"
-      },
       {
         "day": "Thu",
         "icon": "🌧️",
-        "high": 58,
-        "low": 58,
+        "high": 56,
+        "low": 56,
         "description": "Light Rain"
       },
       {
@@ -32,6 +25,13 @@
         "icon": "☀️",
         "high": 53,
         "low": 53,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "high": 54,
+        "low": 54,
         "description": "Clear Sky"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 772.9,
-        "change": -0.6,
-        "change_pct": -0.08,
+        "price": 768.75,
+        "change": -4.63,
+        "change_pct": -0.6,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 342.55,
-        "change": 3.57,
-        "change_pct": 1.05,
-        "up": true,
+        "price": 336.16,
+        "change": -3.59,
+        "change_pct": -1.06,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 228.69,
-        "change": 1.31,
-        "change_pct": 0.58,
-        "up": true,
+        "price": 225.14,
+        "change": -3.73,
+        "change_pct": -1.63,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 376.46,
-        "change": 1.16,
-        "change_pct": 0.31,
+        "price": 380.99,
+        "change": 2.09,
+        "change_pct": 0.55,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 86393.18,
-        "change": 354.37,
-        "change_pct": 0.41,
-        "up": true,
+        "price": 84375.07,
+        "change": -2039.24,
+        "change_pct": -2.36,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2746.73,
-        "change": -12.96,
-        "change_pct": -0.47,
+        "price": 2663.41,
+        "change": -82.02,
+        "change_pct": -2.99,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,51 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ck1e52v16ngxo",
-        "description": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
-        "published": "12:30 PM UTC",
+        "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains - CoinDesk",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
+        "description": "WTI crude oil dropped to $90 as reports suggested Iran could reopen the Strait of Hormuz within seven days.",
+        "published": "4:13 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Why your smartwatch is so bad at telling you how many calories you burned - The Washington Post",
+        "title": "Revealed: Some of the Oracle Cloud Roles Hit Hardest in Layoffs - Business Insider",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/oracle-cloud-layoffs-america-roles-hit-hardest-leaked-doc-2026-9#article",
+        "description": "Business Insider obtained a previously unreported document showing the scale and scope of the cuts at Oracle's cloud infrastructure division.",
+        "published": "3:11 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "DoorDash to pay $131M for underpaying delivery workers in New York City - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/doordash-nyc-delivery-zohran-mamdani-4429800e7bf1b0ba28e064340b857df0",
+        "description": "DoorDash will pay $131.5 million to settle claims that it underpaid delivery workers in New York City. Mayor Zohran Mamdani announced the agreement Tuesday. City Hall descibed the deal as the largest ",
+        "published": "2:54 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "More Xbox Layoffs Hit as Massive Reorg Continues; Activision to Make Next ‘Halo’ Game - The Hollywood Reporter",
+        "source": "Hollywood Reporter",
+        "url": "http://www.hollywoodreporter.com/business/business-news/xbox-layoffs-reorg-activision-takes-over-halo-games-1236707478/",
+        "description": "The Microsoft-owned gamemaker is in the process of eliminating 3,200 jobs.",
+        "published": "3:43 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Micron reportedly ends production of 2GB GDDR7 used by GeForce RTX 50 - VideoCardz.com",
+        "source": "Videocardz.com",
+        "url": "https://videocardz.com/newz/micron-reportedly-ends-production-of-2gb-gddr7-used-by-geforce-rtx-50",
+        "description": "Micron appears to be moving away from 2GB GDDR7 as its catalog shifts toward 3GB devices. The older 16Gb parts were already used on RTX 50 cards.",
+        "published": "2:34 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Hellblade developer Ninja Theory to be shut down in new wave of Xbox cuts, as two separate agreements collapse - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+        "description": "Ninja Theory - developer of the Hellblade series - is shutting down as part of today's Xbox cuts. Its proposed buyers pulled out, resulting in the closure.",
+        "published": "2:09 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "‘Halo’ to move under Call of Duty publisher as Xbox announces layoffs - washingtonpost.com",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/wellness/2026/09/21/why-your-smartwatch-is-so-bad-telling-you-how-many-calories-you-burn/",
-        "description": "A new study found that smartwatches overestimated caloric burns by about 15 to 25 percent.",
-        "published": "2:22 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Say Sawadika to Your New PS5 Controller, Feat Lisa from Blackpink - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/09/say-sawadika-to-your-new-ps5-controller-feat-lisa-from-blackpink",
-        "description": "Got this DualSense from Geneva",
-        "published": "1:30 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "These Gen Z-approved investment funds are having a moment—what investors should know - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/09/21/themed-etfs-gen-z-investors.html",
-        "description": "Themed ETFs for industries like AI and energy are coming back into favor and are especially popular with Gen Z investors. Here are a few tips to keep in mind.",
-        "published": "1:00 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Cindy Crawford’s son, model Presley Gerber, dies at 27 - cnn.com",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/09/21/style/presley-gerber-cindy-crawford-son-death-hnk",
-        "description": "The son of Cindy Crawford, Presley Gerber, has died at the age of 27, her representative confirmed to CNN.",
-        "published": "1:36 PM UTC",
+        "url": "https://www.washingtonpost.com/entertainment/video-games/2026/09/22/halo-move-under-call-duty-publisher-xbox-announces-layoffs/",
+        "description": "The cuts affect Halo Studios, other first-party developers, and management and central functions within Xbox, according to an announcement posted this morning by Matt Booty, Xbox’s chief content offic",
+        "published": "4:10 PM UTC",
         "category": "General"
       },
       {
-        "title": "The long dream of the Googlebook - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
-        "description": "By merging ChromeOS and Android, Google has found a new kind of laptop that it thinks can compete with Mac and Windows.",
-        "published": "1:00 PM UTC",
+        "title": "Judge likely to miss Wild Card Series with calf injury - MLB.com",
+        "source": "MLB.com",
+        "url": "https://www.mlb.com/news/aaron-judge-likely-to-miss-al-wild-card-series",
+        "description": "Aaron Judge is likely to miss the Yankees' expected AL Wild Card Series matchup vs. Boston due to a moderate right calf strain, manager Aaron Boone said on Tuesday.\n“We’re planning on him not being a ",
+        "published": "3:56 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "‘The scientific, technical term is BS’: Inside the new Bessent-China AI hotline - Politico",
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/09/22/new-ai-safety-mechanism-is-a-channel-between-bessent-and-his-chinese-counterpart-01086967",
+        "description": "It is not, at least for now, a broader formal system for the two governments to report or jointly respond to AI threats.",
+        "published": "3:23 PM UTC",
         "category": "General"
       }
     ]
@@ -235,108 +259,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Target Everton's Jarrad Branthwaite as Defensive Rebuild Continues",
-        "summary": "Manchester United are reportedly reviving their interest in England centre-back Jarrad Branthwaite, with a bid in the region of £55 million being discussed internally as INEOS looks to shore up a leaky defence ahead of the January window.",
+        "headline": "Arsenal Intensify Interest in Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Arsenal are reportedly preparing a formal bid for Viktor Gyökeres, with Sporting CP holding out for a fee close to his €100 million release clause. The Swedish striker has been one of Europe's most prolific forwards this season and is seen as the long-term heir to the striker role at the Emirates.",
         "clubs": [
-          "Manchester United",
-          "Everton"
+          "Arsenal",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks for Victor Osimhen Loan Extension Clause",
-        "summary": "Chelsea are understood to be negotiating a potential permanent purchase option tied to Victor Osimhen's loan arrangements, with Napoli valuing the Nigerian striker at around €75 million amid growing competition from Saudi Pro League clubs.",
+        "headline": "Manchester United Eye Burnley's Sander Berge as Midfield Reinforcement",
+        "summary": "Manchester United's new football structure is monitoring Sander Berge as a cost-effective option to add physicality and range of passing to a midfield that has struggled for consistency this season. Berge's ability to play as a defensive or box-to-box midfielder aligns with Ruben Amorim's preferred 3-4-3 shape.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Manchester United",
+          "Burnley"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Emirates hosts what could be the defining fixture of the early Premier League season as Arsenal and Manchester City meet in a title six-pointer. Arsenal come into the match on a four-game winning streak and will be buoyed by a raucous home crowd, while City under Pep Guardiola — despite some inconsistency — possess the individual quality to punish any defensive lapse. The tactical battle between Mikel Arteta's high press and Guardiola's positional play promises to be the defining theme, with both sides knowing three points here could prove decisive come May.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "Anfield hosts the defining fixture of the Premier League season as league-leaders Liverpool welcome Manchester City in what could be a title-deciding six-pointer. Liverpool arrive in superb form with five consecutive wins, while City have shown signs of recovery after a mid-season wobble but remain nine points adrift and in desperate need of three points to keep their title hopes alive. The tactical battle between Arne Slot's high-press structure and Pep Guardiola's positional play will be fascinating, with home advantage and crowd intensity likely to play a significant role.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; 50/50 for the City clash"
+      },
+      {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Out",
-        "return": "Long-term — remainder of season in doubt following ACL injury"
-      },
-      {
-        "player": "Ben White",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; expected to be a late fitness call"
+        "return": "Season-ending ACL injury; not expected to return until pre-season 2025"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is priced at $950. If the bond's yield to maturity increases by 50 basis points, which of the following best explains why the bond's price decline will be smaller in magnitude than the price increase from an equivalent 50 basis point decrease in yield?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Interest Rate Risk & Convexity",
+      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and convexity of 85. If interest rates rise by 150 basis points, which of the following best estimates the percentage price change of the bond?",
       "options": {
-        "A": "The bond is trading at a discount, so its duration is lower than a par bond.",
-        "B": "Convexity causes the price-yield relationship to be asymmetric, with larger gains than losses for equal yield changes.",
-        "C": "The coupon rate exceeds the yield to maturity, providing a price cushion against rising rates.",
-        "D": "Modified duration overestimates price changes for large yield movements in either direction."
+        "A": "−10.80%",
+        "B": "−9.84%",
+        "C": "−10.20%",
+        "D": "−11.63%"
       },
       "correct": "B",
-      "explanation": "Convexity describes the curvature of the price-yield relationship. Because of positive convexity in option-free bonds, price increases resulting from a yield decline are larger in magnitude than price decreases from an equivalent yield rise. Modified duration provides a linear approximation, but convexity captures the asymmetry — meaning investors benefit more from falling yields than they suffer from rising yields of the same magnitude. This property makes convexity a desirable characteristic in a bond portfolio."
+      "explanation": "The full price change estimate using both duration and convexity is: ΔP/P ≈ −(ModDur × Δy) + 0.5 × Convexity × (Δy)². With Δy = 0.015: duration effect = −7.2 × 0.015 = −0.1080 (−10.80%); convexity adjustment = 0.5 × 85 × (0.015)² = +0.009563 (+0.96%). Net change ≈ −10.80% + 0.96% = −9.84%. Convexity always adds value (positive for option-free bonds) regardless of the direction of rate movement, reducing losses when rates rise and amplifying gains when rates fall."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Interest Rate Risk",
-      "subtitle": "How the mismatch between asset and liability duration exposes banks to interest rate volatility.",
+      "title": "Basis Risk: The Hidden Danger in Hedging",
+      "subtitle": "Why even a perfectly constructed hedge can leave investors exposed to unexpected losses.",
       "paragraphs": [
-        "The duration gap is a measure used by financial institutions to quantify their net exposure to interest rate risk. It is calculated as the duration of a bank's assets minus the weighted duration of its liabilities, adjusted for the leverage ratio. A positive duration gap means the institution's assets are more sensitive to interest rate changes than its liabilities, leaving equity value vulnerable when rates rise. Banks have historically managed this gap through a combination of asset-liability management (ALM) committees and interest rate derivatives such as swaps.",
-        "The collapse of Silicon Valley Bank in March 2023 brought duration gap risk into sharp public focus. SVB had accumulated a large portfolio of long-duration mortgage-backed securities and Treasuries funded by short-term, rate-sensitive deposits. As the Federal Reserve raised rates aggressively in 2022–2023, the market value of SVB's assets collapsed while its funding costs surged — a textbook duration gap blowup. The bank's unrealized losses exceeded its equity capital, triggering a bank run once disclosed. The episode was a stark reminder that even 'safe' government bonds carry substantial duration risk when held in a mismatched balance sheet.",
-        "For investors and risk managers, understanding duration gap is critical when evaluating bank equities, bank debt, and systemic financial risk. A wide positive duration gap at a depository institution signals fragility in a rising rate environment. Risk managers use interest rate sensitivity analyses — including parallel and non-parallel yield curve shifts — to stress test balance sheets. Investors should scrutinize a bank's held-to-maturity versus available-for-sale portfolio classifications, as HTM securities can mask large unrealized losses that only crystallize upon forced liquidation."
+        "Basis risk arises when the price of an asset being hedged does not move in perfect lockstep with the price of the hedging instrument. In theory, a hedge eliminates risk; in practice, the 'basis' — defined as the spot price of the asset minus the futures price of the hedging contract — fluctuates over time. This residual risk is called basis risk, and it means that a hedge can underperform or even amplify losses if the basis moves adversely.",
+        "A classic real-world example occurred during the 2008 financial crisis, when many financial institutions attempted to hedge corporate bond portfolios using credit default swap indices (CDX). As liquidity evaporated, the spread between individual bond spreads and index spreads widened dramatically. Hedges that appeared tight became dangerously loose, generating mark-to-market losses on both the underlying positions and the hedges simultaneously — a catastrophic manifestation of basis risk that few risk models had adequately priced in.",
+        "For investors and risk managers, basis risk demands careful instrument selection, continuous monitoring of the spread between the asset and hedge, and stress-testing under scenarios where correlations break down. Portfolio managers should prefer hedging instruments that closely match the underlying exposure in maturity, credit quality, currency, and liquidity profile. When a perfect hedge does not exist, residual basis risk should be explicitly budgeted and disclosed as part of overall risk reporting."
       ],
       "key_takeaways": [
-        "Duration gap measures the net interest rate sensitivity of a financial institution's balance sheet; a large positive gap signals vulnerability to rising rates.",
-        "The SVB collapse illustrated how long-duration asset portfolios funded by short-term liabilities can rapidly destroy equity value in a tightening cycle.",
-        "Investors should analyze bank balance sheets for HTM portfolio size, unrealized losses, and ALM hedging disclosures as leading indicators of rate risk."
+        "Basis risk is the risk that a hedge does not move perfectly with the underlying asset, leaving residual exposure.",
+        "Basis risk spikes during market stress when correlations and liquidity conditions change rapidly.",
+        "Effective risk management requires selecting tightly correlated hedging instruments and stress-testing basis behavior under extreme scenarios."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました is used to express that something happened to completion, often with a nuance of regret or that the action was unintended. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you plan to use. If you blow past your 'yo-san,' you use てしまいました to confess your regret!"
+      "example_jp": "友達と明日の午後三時に会う約束をしました。",
+      "example_romaji": "Tomodachi to ashita no gogo sanji ni au yakusoku wo shimashita.",
+      "example_en": "I made a promise to meet my friend tomorrow at 3 PM.",
+      "grammar_point": "〜をしました (formal past tense with を)",
+      "grammar_explanation": "The pattern 'noun + をしました' is used to express that you did or made something, where the noun describes the action. Here, 約束をしました means 'I made a promise' — a very natural and common structure in Japanese conversation.",
+      "memory_tip": "Think of 'yaku' sounding like 'yak' — imagine a yak making a solemn promise by nodding its huge head. Once a yak makes a yakusoku, it never breaks it!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Automating the Junior Analyst Workflow",
-      "summary": "A new generation of agentic AI systems — capable of autonomously browsing data, writing code, and synthesizing reports — is being piloted at major asset managers and investment banks. Firms including BlackRock, JPMorgan, and several quant hedge funds are deploying LLM-based agents to automate tasks like earnings summary generation, covenant monitoring, and competitor benchmarking that previously required hours of junior analyst time. Unlike simple chatbots, these agents can chain together multiple reasoning steps, call external APIs, and produce structured outputs compatible with existing risk systems. The productivity gains are estimated at 30–60% for specific research workflows, compressing the time from data ingestion to investable insight.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Risk Departments Worldwide",
+      "summary": "Major banks and fintech lenders are deploying large language models and gradient-boosted machine learning systems to automate credit underwriting, reducing decision times from days to seconds while processing thousands of alternative data signals — including cash flow patterns, supplier relationships, and even ESG metrics — that traditional scorecards ignore. Institutions like JPMorgan and HSBC have reported meaningful reductions in default rates in pilot cohorts where AI underwriting supplemented human review. Regulators are beginning to catch up, with the Basel Committee and the EU AI Act establishing explainability requirements that are forcing firms to prioritize interpretable models over black-box approaches. For finance professionals, this shift means the skills premium is rapidly moving from spreadsheet modeling toward understanding model governance, bias auditing, and AI risk frameworks.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously plan and execute multi-step tasks — such as pulling financial data, running analysis, and drafting a memo — without requiring human prompting at each step."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "A machine learning technique that builds many simple decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions for structured financial data like credit scores, loan defaults, or fraud detection."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries an external knowledge base (e.g., SEC filings, Bloomberg data) at runtime to ground its responses in current, factual information rather than relying solely on training data."
+          "term": "Explainable AI (XAI)",
+          "definition": "A set of methods — such as SHAP values and LIME — that decompose a complex model's output into human-readable feature contributions, helping risk managers and regulators understand why a model approved or rejected a credit application."
         },
         {
-          "term": "Prompt Engineering",
-          "definition": "The practice of designing precise instructions and context for AI models to produce reliable, structured financial outputs — analogous to writing a well-specified analytical brief for a research team."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as satellite imagery, web traffic, social sentiment, or real-time bank transaction feeds — ingested by AI models to enhance credit risk predictions beyond what FICO scores or financial statements alone can reveal."
         }
       ],
-      "career_insight": "Finance professionals who can define, supervise, and quality-control AI agent outputs will be significantly more valuable than those who only produce the outputs themselves. The critical skill shift is from data gathering and formatting toward judgment, model governance, and translating business problems into AI-compatible task specifications. Risk managers and analysts who develop fluency with tools like LangChain, Python-based LLM APIs, and structured prompt design will have a durable competitive advantage over the next five years."
+      "career_insight": "Finance professionals who can bridge quantitative modeling and AI governance — understanding both how models work and how to challenge, validate, and explain them to regulators — are commanding significant salary premiums. Building fluency in Python-based ML libraries, model risk management (SR 11-7 / SS1/23), and AI ethics frameworks is rapidly becoming as important as CFA certification for senior risk and credit roles."
     },
     "error": false,
-    "market_sentiment": "Equity markets are navigating a complex macro backdrop as investors weigh resilient U.S. labor data against growing signs of consumer credit stress and a flattening in corporate earnings revisions. The Fed's higher-for-longer posture continues to pressure long-duration assets, with the 10-year Treasury yield holding near multi-year highs and credit spreads in high yield beginning to drift wider — a cautionary signal for risk appetite. In FX, a broadly firm dollar is creating headwinds for EM currencies and commodities, while geopolitical risk premium is being quietly repriced into energy markets, keeping oil volatility elevated heading into the back half of the quarter."
+    "market_sentiment": "Global risk appetite remained fragile overnight as US 10-year Treasury yields pushed back toward the 4.65% threshold, reigniting concerns about the durability of the equity rally and the Fed's higher-for-longer credibility. Dollar strength continues to pressure EM currencies, with the Indonesian rupiah and South African rand leading declines, while oil held near $83/bbl on lingering Middle East supply uncertainty. Equity futures point to a cautious open; markets will be keenly focused on this week's US core PCE print and any Fed speakers for recalibration signals on the September cut narrative."
   }
 }
