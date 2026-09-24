@@ -1,37 +1,37 @@
 {
-  "generated_at": "3:42 PM UTC",
-  "date": "Wednesday, September 23, 2026",
+  "generated_at": "4:03 PM UTC",
+  "date": "Thursday, September 24, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 61,
-    "feels_like_f": 61,
-    "high_f": 62,
-    "low_f": 59,
+    "temp_f": 57,
+    "feels_like_f": 57,
+    "high_f": 59,
+    "low_f": 55,
     "description": "Moderate Rain",
     "icon": "🌧️",
     "humidity": 95,
-    "wind_mph": 9,
+    "wind_mph": 3,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "🌧️",
-        "high": 56,
-        "low": 56,
-        "description": "Light Rain"
-      },
       {
         "day": "Fri",
         "icon": "☀️",
-        "high": 53,
-        "low": 53,
+        "high": 54,
+        "low": 54,
         "description": "Clear Sky"
       },
       {
         "day": "Sat",
-        "icon": "☀️",
+        "icon": "🌤️",
         "high": 54,
         "low": 54,
+        "description": "Few Clouds"
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "high": 55,
+        "low": 55,
         "description": "Clear Sky"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 768.75,
-        "change": -4.63,
-        "change_pct": -0.6,
+        "price": 763.94,
+        "change": -3.87,
+        "change_pct": -0.5,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 336.16,
-        "change": -3.59,
-        "change_pct": -1.06,
+        "price": 336.75,
+        "change": -0.27,
+        "change_pct": -0.08,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 225.14,
-        "change": -3.73,
-        "change_pct": -1.63,
+        "price": 222.35,
+        "change": -3.16,
+        "change_pct": -1.4,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 380.99,
-        "change": 2.09,
-        "change_pct": 0.55,
-        "up": true,
+        "price": 376.24,
+        "change": -3.88,
+        "change_pct": -1.02,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 84375.07,
-        "change": -2039.24,
-        "change_pct": -2.36,
-        "up": false,
+        "price": 84309.43,
+        "change": 655.82,
+        "change_pct": 0.78,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2663.41,
-        "change": -82.02,
-        "change_pct": -2.99,
-        "up": false,
+        "price": 2677.47,
+        "change": 35.76,
+        "change_pct": 1.35,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,75 +111,51 @@
     "error": false,
     "articles": [
       {
-        "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains - CoinDesk",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
-        "description": "WTI crude oil dropped to $90 as reports suggested Iran could reopen the Strait of Hormuz within seven days.",
-        "published": "4:13 PM UTC",
+        "title": "Stock Market Today: Dollar Climbs, European Diesel Futures Jump on Possible U.S. Export Ban — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-23-2026",
+        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on bonds, oil prices, the Dow, S&P 500 and Nasdaq.",
+        "published": "1:17 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Revealed: Some of the Oracle Cloud Roles Hit Hardest in Layoffs - Business Insider",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/oracle-cloud-layoffs-america-roles-hit-hardest-leaked-doc-2026-9#article",
-        "description": "Business Insider obtained a previously unreported document showing the scale and scope of the cuts at Oracle's cloud infrastructure division.",
-        "published": "3:11 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "DoorDash to pay $131M for underpaying delivery workers in New York City - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/doordash-nyc-delivery-zohran-mamdani-4429800e7bf1b0ba28e064340b857df0",
-        "description": "DoorDash will pay $131.5 million to settle claims that it underpaid delivery workers in New York City. Mayor Zohran Mamdani announced the agreement Tuesday. City Hall descibed the deal as the largest ",
-        "published": "2:54 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "More Xbox Layoffs Hit as Massive Reorg Continues; Activision to Make Next ‘Halo’ Game - The Hollywood Reporter",
-        "source": "Hollywood Reporter",
-        "url": "http://www.hollywoodreporter.com/business/business-news/xbox-layoffs-reorg-activision-takes-over-halo-games-1236707478/",
-        "description": "The Microsoft-owned gamemaker is in the process of eliminating 3,200 jobs.",
-        "published": "3:43 PM UTC",
+        "title": "More Information About Bungie’s ‘Destiny 2’ Content Unvaulting Plans - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/paultassi/2026/09/23/more-information-about-bungies-destiny-2-content-unvaulting-plans/",
+        "description": "",
+        "published": "1:10 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Micron reportedly ends production of 2GB GDDR7 used by GeForce RTX 50 - VideoCardz.com",
-        "source": "Videocardz.com",
-        "url": "https://videocardz.com/newz/micron-reportedly-ends-production-of-2gb-gddr7-used-by-geforce-rtx-50",
-        "description": "Micron appears to be moving away from 2GB GDDR7 as its catalog shifts toward 3GB devices. The older 16Gb parts were already used on RTX 50 cards.",
-        "published": "2:34 PM UTC",
+        "title": "Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display - theverge.com",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
+        "description": "An international launch for the Xiaomi 18 Pro and 18 Pro Max is confirmed for later this year.",
+        "published": "12:04 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Hellblade developer Ninja Theory to be shut down in new wave of Xbox cuts, as two separate agreements collapse - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-        "description": "Ninja Theory - developer of the Hellblade series - is shutting down as part of today's Xbox cuts. Its proposed buyers pulled out, resulting in the closure.",
-        "published": "2:09 PM UTC",
+        "title": "Unlocking Xbox's New Mythic Achievement Sounds Incredible, And Here's How It Might Work - Pure Xbox",
+        "source": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/09/unlocking-xboxs-new-mythic-achievement-sounds-incredible-and-heres-how-it-might-work",
+        "description": "Answering the big DLC question",
+        "published": "11:30 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "‘Halo’ to move under Call of Duty publisher as Xbox announces layoffs - washingtonpost.com",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/entertainment/video-games/2026/09/22/halo-move-under-call-duty-publisher-xbox-announces-layoffs/",
-        "description": "The cuts affect Halo Studios, other first-party developers, and management and central functions within Xbox, according to an announcement posted this morning by Matt Booty, Xbox’s chief content offic",
-        "published": "4:10 PM UTC",
+        "title": "US judge blocks deportation of DoorDash driver shot by ICE - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr6241825757o",
+        "description": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
+        "published": "1:40 PM UTC",
         "category": "General"
       },
       {
-        "title": "Judge likely to miss Wild Card Series with calf injury - MLB.com",
-        "source": "MLB.com",
-        "url": "https://www.mlb.com/news/aaron-judge-likely-to-miss-al-wild-card-series",
-        "description": "Aaron Judge is likely to miss the Yankees' expected AL Wild Card Series matchup vs. Boston due to a moderate right calf strain, manager Aaron Boone said on Tuesday.\n“We’re planning on him not being a ",
-        "published": "3:56 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "‘The scientific, technical term is BS’: Inside the new Bessent-China AI hotline - Politico",
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/09/22/new-ai-safety-mechanism-is-a-channel-between-bessent-and-his-chinese-counterpart-01086967",
-        "description": "It is not, at least for now, a broader formal system for the two governments to report or jointly respond to AI threats.",
-        "published": "3:23 PM UTC",
+        "title": "Ranking NFL's 0-2 teams: Why Texans, Buccaneers, Colts still have playoff hopes entering Week 3 - NFL.com",
+        "source": "NFL News",
+        "url": "https://www.nfl.com/news/ranking-nfl-0-2-teams-why-texans-buccaneers-colts-still-have-playoff-hopes-entering-week-3",
+        "description": "Which of the league's eight 0-2 teams still have playoff hopes? NFL.com's Kevin Patra ranks this year's set of winless squads entering a pivotal Week 3.",
+        "published": "1:00 PM UTC",
         "category": "General"
       }
     ]
@@ -259,108 +235,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Intensify Interest in Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Arsenal are reportedly preparing a formal bid for Viktor Gyökeres, with Sporting CP holding out for a fee close to his €100 million release clause. The Swedish striker has been one of Europe's most prolific forwards this season and is seen as the long-term heir to the striker role at the Emirates.",
+        "headline": "Arsenal Targeting Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are understood to be in advanced discussions to sign a dynamic box-to-box midfielder from a top Bundesliga club, with the club seeking to address long-standing depth concerns in the center of the park following Thomas Partey's expected departure at the end of his contract.",
         "clubs": [
           "Arsenal",
-          "Sporting CP"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United Eye Burnley's Sander Berge as Midfield Reinforcement",
-        "summary": "Manchester United's new football structure is monitoring Sander Berge as a cost-effective option to add physicality and range of passing to a midfield that has struggled for consistency this season. Berge's ability to play as a defensive or box-to-box midfielder aligns with Ruben Amorim's preferred 3-4-3 shape.",
+        "headline": "Chelsea Revive Interest in Napoli Striker Amid Striker Search",
+        "summary": "Chelsea's recruitment team have reportedly re-opened dialogue with Napoli over their prolific striker, as the Blues look to add a reliable center-forward with Champions League experience ahead of a summer rebuild under their current sporting structure.",
         "clubs": [
-          "Manchester United",
-          "Burnley"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "Anfield hosts the defining fixture of the Premier League season as league-leaders Liverpool welcome Manchester City in what could be a title-deciding six-pointer. Liverpool arrive in superb form with five consecutive wins, while City have shown signs of recovery after a mid-season wobble but remain nine points adrift and in desperate need of three points to keep their title hopes alive. The tactical battle between Arne Slot's high-press structure and Pep Guardiola's positional play will be fascinating, with home advantage and crowd intensity likely to play a significant role.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The Premier League's marquee fixture arrives at a pivotal stage of the season, with both sides still harbouring realistic title ambitions and separated by just two points in the table. City will look to exploit home advantage and the tactical discipline Pep Guardiola's side have shown in big games this season, while Liverpool's high-pressing system under Slot has been relentless in transition. The result could effectively define the title race with seven gameweeks remaining.",
       "key_players": [
-        "Mohamed Salah",
         "Erling Haaland",
-        "Virgil van Dijk"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; 50/50 for the City clash"
+        "return": "Expected to be assessed 48 hours before kickoff; hamstring tightness picked up in training"
       },
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Season-ending ACL injury; not expected to return until pre-season 2025"
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Recovering",
+        "return": "Targeting return within 10 days; has not featured since picking up a knock in the midweek fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Interest Rate Risk & Convexity",
-      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and convexity of 85. If interest rates rise by 150 basis points, which of the following best estimates the percentage price change of the bond?",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using the Gaussian copula model. Which of the following is the most significant limitation of this model that was exposed during the 2008 financial crisis?",
       "options": {
-        "A": "−10.80%",
-        "B": "−9.84%",
-        "C": "−10.20%",
-        "D": "−11.63%"
+        "A": "The model overestimates individual default probabilities by assuming a constant hazard rate across all credit cycles.",
+        "B": "The model assumes linear correlations between defaults and fails to capture tail dependence, underestimating the probability of simultaneous defaults during stress periods.",
+        "C": "The model is computationally too complex for large portfolios, leading risk managers to apply it only to investment-grade bonds.",
+        "D": "The model ignores recovery rates entirely, making it unsuitable for pricing collateralized debt obligations."
       },
       "correct": "B",
-      "explanation": "The full price change estimate using both duration and convexity is: ΔP/P ≈ −(ModDur × Δy) + 0.5 × Convexity × (Δy)². With Δy = 0.015: duration effect = −7.2 × 0.015 = −0.1080 (−10.80%); convexity adjustment = 0.5 × 85 × (0.015)² = +0.009563 (+0.96%). Net change ≈ −10.80% + 0.96% = −9.84%. Convexity always adds value (positive for option-free bonds) regardless of the direction of rate movement, reducing losses when rates rise and amplifying gains when rates fall."
+      "explanation": "The Gaussian copula model assumes that joint default events follow a normal distribution, which implies near-zero tail dependence — meaning it dramatically underestimates the likelihood that many assets default simultaneously during market stress. During the 2008 crisis, correlations between mortgage defaults spiked far beyond what the model predicted, causing catastrophic mispricing of CDO tranches. This limitation is structural: the Gaussian copula is ill-suited to capturing the 'fat-tailed' co-movement that defines systemic risk. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence."
     },
     "finance_topic": {
-      "title": "Basis Risk: The Hidden Danger in Hedging",
-      "subtitle": "Why even a perfectly constructed hedge can leave investors exposed to unexpected losses.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Why imperfect hedges can leave risk managers exposed even when they think they are protected.",
       "paragraphs": [
-        "Basis risk arises when the price of an asset being hedged does not move in perfect lockstep with the price of the hedging instrument. In theory, a hedge eliminates risk; in practice, the 'basis' — defined as the spot price of the asset minus the futures price of the hedging contract — fluctuates over time. This residual risk is called basis risk, and it means that a hedge can underperform or even amplify losses if the basis moves adversely.",
-        "A classic real-world example occurred during the 2008 financial crisis, when many financial institutions attempted to hedge corporate bond portfolios using credit default swap indices (CDX). As liquidity evaporated, the spread between individual bond spreads and index spreads widened dramatically. Hedges that appeared tight became dangerously loose, generating mark-to-market losses on both the underlying positions and the hedges simultaneously — a catastrophic manifestation of basis risk that few risk models had adequately priced in.",
-        "For investors and risk managers, basis risk demands careful instrument selection, continuous monitoring of the spread between the asset and hedge, and stress-testing under scenarios where correlations break down. Portfolio managers should prefer hedging instruments that closely match the underlying exposure in maturity, credit quality, currency, and liquidity profile. When a perfect hedge does not exist, residual basis risk should be explicitly budgeted and disclosed as part of overall risk reporting."
+        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying asset being hedged. The 'basis' is defined as the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when a hedge is carefully constructed, differences in contract specifications, delivery locations, credit quality, or tenor can cause the hedge to perform unexpectedly, leaving residual risk on the table.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices do not move in a perfectly fixed ratio — particularly during refinery disruptions or geopolitical supply shocks — the airline may find that its hedge underperforms. Similarly, a corporate treasurer hedging floating-rate debt using SOFR futures when the underlying loan references a bank's internal lending rate faces meaningful basis risk, especially in periods of credit stress when bank funding costs diverge from risk-free benchmarks.",
+        "For risk managers, basis risk demands careful hedge ratio calibration and ongoing monitoring. The minimum variance hedge ratio, derived from the correlation and volatility of the spot and futures prices, helps optimize hedge effectiveness. However, correlations are not static — they tend to break down precisely during the tail-risk events that make hedging most critical. Investors should therefore stress-test hedges under adverse basis scenarios and avoid treating a hedged position as fully risk-free."
       ],
       "key_takeaways": [
-        "Basis risk is the risk that a hedge does not move perfectly with the underlying asset, leaving residual exposure.",
-        "Basis risk spikes during market stress when correlations and liquidity conditions change rapidly.",
-        "Effective risk management requires selecting tightly correlated hedging instruments and stress-testing basis behavior under extreme scenarios."
+        "Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedged asset and the hedging instrument.",
+        "Common sources of basis risk include differences in asset quality, geography, contract maturity, and benchmark reference rates.",
+        "The minimum variance hedge ratio minimizes basis risk exposure but must be recalculated dynamically as market conditions and correlations evolve."
       ]
     },
     "japanese": {
       "word": "約束",
       "reading": "yakusoku",
-      "meaning": "promise; appointment; agreement",
+      "meaning": "promise; appointment; commitment",
       "part_of_speech": "noun",
-      "example_jp": "友達と明日の午後三時に会う約束をしました。",
-      "example_romaji": "Tomodachi to ashita no gogo sanji ni au yakusoku wo shimashita.",
-      "example_en": "I made a promise to meet my friend tomorrow at 3 PM.",
-      "grammar_point": "〜をしました (formal past tense with を)",
-      "grammar_explanation": "The pattern 'noun + をしました' is used to express that you did or made something, where the noun describes the action. Here, 約束をしました means 'I made a promise' — a very natural and common structure in Japanese conversation.",
-      "memory_tip": "Think of 'yaku' sounding like 'yak' — imagine a yak making a solemn promise by nodding its huge head. Once a yak makes a yakusoku, it never breaks it!"
+      "example_jp": "彼は必ず約束を守る人です。",
+      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
+      "example_en": "He is a person who always keeps his promises.",
+      "grammar_point": "〜を守る (wo mamoru)",
+      "grammar_explanation": "The phrase 〜を守る means 'to keep' or 'to protect' something, and it is commonly paired with 約束 to mean 'to keep a promise.' The particle を marks 約束 as the direct object of the verb 守る.",
+      "memory_tip": "Think of 'yakusoku' as 'yak-you-soku' — a yak solemnly bowing its big head, making a very serious promise it will never break."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Risk Departments Worldwide",
-      "summary": "Major banks and fintech lenders are deploying large language models and gradient-boosted machine learning systems to automate credit underwriting, reducing decision times from days to seconds while processing thousands of alternative data signals — including cash flow patterns, supplier relationships, and even ESG metrics — that traditional scorecards ignore. Institutions like JPMorgan and HSBC have reported meaningful reductions in default rates in pilot cohorts where AI underwriting supplemented human review. Regulators are beginning to catch up, with the Basel Committee and the EU AI Act establishing explainability requirements that are forcing firms to prioritize interpretable models over black-box approaches. For finance professionals, this shift means the skills premium is rapidly moving from spreadsheet modeling toward understanding model governance, bias auditing, and AI risk frameworks.",
+      "headline": "AI Agents Are Beginning to Execute Trades Without Human Approval",
+      "summary": "A new generation of agentic AI systems — capable of planning, reasoning, and taking multi-step actions autonomously — is moving from research labs into live financial workflows. Several hedge funds and proprietary trading firms are now piloting AI agents that can monitor market signals, generate trade rationales, and route orders within pre-defined risk parameters without requiring human sign-off at each step. Unlike earlier algorithmic trading systems that followed rigid rules, these agents use large language models combined with real-time data feeds to adapt their reasoning dynamically. Regulators in the UK and EU are already drafting guidance on accountability frameworks for autonomous financial AI.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "A machine learning technique that builds many simple decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions for structured financial data like credit scores, loan defaults, or fraud detection."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously pursue multi-step goals by planning, using tools, and making sequential decisions — moving beyond single-query responses to executing workflows end-to-end, as in automated trade monitoring or portfolio rebalancing."
         },
         {
-          "term": "Explainable AI (XAI)",
-          "definition": "A set of methods — such as SHAP values and LIME — that decompose a complex model's output into human-readable feature contributions, helping risk managers and regulators understand why a model approved or rejected a credit application."
+          "term": "Reinforcement Learning from Human Feedback (RLHF)",
+          "definition": "A training technique where an AI model is fine-tuned using human evaluators' preferences, helping it align its outputs with domain-specific quality standards — used in finance to train models that generate more accurate risk assessments or compliant communications."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as satellite imagery, web traffic, social sentiment, or real-time bank transaction feeds — ingested by AI models to enhance credit risk predictions beyond what FICO scores or financial statements alone can reveal."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "An AI architecture that connects a language model to an external knowledge base at inference time, allowing it to pull live data — such as earnings filings, regulatory updates, or market prices — before generating a response, dramatically improving factual accuracy in financial analysis."
         }
       ],
-      "career_insight": "Finance professionals who can bridge quantitative modeling and AI governance — understanding both how models work and how to challenge, validate, and explain them to regulators — are commanding significant salary premiums. Building fluency in Python-based ML libraries, model risk management (SR 11-7 / SS1/23), and AI ethics frameworks is rapidly becoming as important as CFA certification for senior risk and credit roles."
+      "career_insight": "Finance professionals who understand how to design, govern, and audit AI agent workflows will be disproportionately valuable over the next five years. The highest-leverage skill is not coding AI models from scratch, but knowing how to set risk guardrails, evaluate model outputs critically, and communicate AI-driven decisions to regulators and clients. Hybrid fluency — combining financial domain expertise with working knowledge of AI architecture — is rapidly becoming the new benchmark for senior roles in risk, portfolio management, and strategy."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remained fragile overnight as US 10-year Treasury yields pushed back toward the 4.65% threshold, reigniting concerns about the durability of the equity rally and the Fed's higher-for-longer credibility. Dollar strength continues to pressure EM currencies, with the Indonesian rupiah and South African rand leading declines, while oil held near $83/bbl on lingering Middle East supply uncertainty. Equity futures point to a cautious open; markets will be keenly focused on this week's US core PCE print and any Fed speakers for recalibration signals on the September cut narrative."
+    "market_sentiment": "Risk assets are navigating a cautiously constructive but fragile environment this week, with equity markets grinding higher on resilient labor data while credit spreads remain range-bound. The key macro tension continues to be the timing and pace of Fed rate cuts — markets are pricing roughly two 25bp reductions by year-end, but hotter-than-expected services inflation is keeping the front end of the Treasury curve elevated and flattening the 2s10s spread. Dollar strength is creating headwinds for EM equities and commodities, while safe-haven demand in gold remains firm above the $2,300 level, suggesting underlying investor caution beneath the surface calm."
   }
 }
