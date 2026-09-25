@@ -1,34 +1,34 @@
 {
   "generated_at": "4:03 PM UTC",
-  "date": "Thursday, September 24, 2026",
+  "date": "Friday, September 25, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 57,
-    "feels_like_f": 57,
-    "high_f": 59,
-    "low_f": 55,
-    "description": "Moderate Rain",
-    "icon": "🌧️",
-    "humidity": 95,
-    "wind_mph": 3,
+    "temp_f": 66,
+    "feels_like_f": 65,
+    "high_f": 68,
+    "low_f": 65,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 53,
+    "wind_mph": 2,
     "forecast": [
       {
-        "day": "Fri",
+        "day": "Sat",
         "icon": "☀️",
-        "high": 54,
-        "low": 54,
+        "high": 53,
+        "low": 53,
         "description": "Clear Sky"
       },
       {
-        "day": "Sat",
-        "icon": "🌤️",
-        "high": 54,
-        "low": 54,
-        "description": "Few Clouds"
+        "day": "Sun",
+        "icon": "☀️",
+        "high": 55,
+        "low": 55,
+        "description": "Clear Sky"
       },
       {
-        "day": "Sun",
+        "day": "Mon",
         "icon": "☀️",
         "high": 55,
         "low": 55,
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 763.94,
-        "change": -3.87,
-        "change_pct": -0.5,
-        "up": false,
+        "price": 771.03,
+        "change": 3.85,
+        "change_pct": 0.5,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 336.75,
-        "change": -0.27,
-        "change_pct": -0.08,
-        "up": false,
+        "price": 340,
+        "change": 4.08,
+        "change_pct": 1.21,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 222.35,
-        "change": -3.16,
-        "change_pct": -1.4,
-        "up": false,
+        "price": 225.6,
+        "change": 1.02,
+        "change_pct": 0.45,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 376.24,
-        "change": -3.88,
-        "change_pct": -1.02,
+        "price": 373.64,
+        "change": -4.3,
+        "change_pct": -1.14,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 84309.43,
-        "change": 655.82,
-        "change_pct": 0.78,
-        "up": true,
+        "price": 83961.96,
+        "change": -298.22,
+        "change_pct": -0.35,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2677.47,
-        "change": 35.76,
-        "change_pct": 1.35,
+        "price": 2693.12,
+        "change": 17.32,
+        "change_pct": 0.65,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,51 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dollar Climbs, European Diesel Futures Jump on Possible U.S. Export Ban — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-23-2026",
-        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on bonds, oil prices, the Dow, S&P 500 and Nasdaq.",
-        "published": "1:17 PM UTC",
+        "title": "One blood test could screen you for 50 cancers. Here’s why it’s controversial. - washingtonpost.com",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/health/2026/09/24/one-blood-test-could-screen-you-50-cancers-heres-why-its-controversial/",
+        "description": "A Food and Drug Administration committee backed a cancer blood test called Galleri but was split on how well it works. The test is awaiting a final decision by the FDA.",
+        "published": "1:33 PM UTC",
         "category": "Business"
       },
       {
-        "title": "More Information About Bungie’s ‘Destiny 2’ Content Unvaulting Plans - Forbes",
+        "title": "Aldi is cutting prices on a third of its products. Here's when - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/grocery/shopping/2026/09/23/aldi-price-cuts-groceries-products/91894051007/",
+        "description": "The grocery chain said the price cuts are expected to save customers $86 million.",
+        "published": "12:28 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Oracle Cites ‘Force Majeure’ to Shield Itself on Controversial Data Center - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
+        "description": "Oracle Corp. is moving to shield itself from racking up expenses on a massive data center being built in New Mexico, adding a fresh wrinkle to a project beset by opposition and regulatory setbacks.",
+        "published": "12:25 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "10 Things I Wish I Knew When I Started ‘Control Resonant’ - Forbes",
         "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/09/23/more-information-about-bungies-destiny-2-content-unvaulting-plans/",
+        "url": "https://www.forbes.com/sites/paultassi/2026/09/24/10-things-i-wish-i-knew-when-i-started-control-resonant/",
         "description": "",
-        "published": "1:10 PM UTC",
+        "published": "1:09 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display - theverge.com",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
-        "description": "An international launch for the Xiaomi 18 Pro and 18 Pro Max is confirmed for later this year.",
-        "published": "12:04 PM UTC",
+        "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition Review (Switch 2) - Nintendo Life",
+        "source": "Nintendo Life",
+        "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+        "description": "Well, at least it looks a little nicer",
+        "published": "12:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Unlocking Xbox's New Mythic Achievement Sounds Incredible, And Here's How It Might Work - Pure Xbox",
-        "source": "Pure Xbox",
-        "url": "https://www.purexbox.com/news/2026/09/unlocking-xboxs-new-mythic-achievement-sounds-incredible-and-heres-how-it-might-work",
-        "description": "Answering the big DLC question",
-        "published": "11:30 AM UTC",
+        "title": "Digital Foundry: Fire Emblem Fortune’s Weave is 720p docked, 540p handheld and 30fps, but uses DLSS - My Nintendo News",
+        "source": "My Nintendo News",
+        "url": "https://mynintendonews.com/2026/09/24/digital-foundry-fire-emblem-fortunes-weave-is-720p-docked-540p-handheld-and-30-fps-but-uses-dlss/",
+        "description": "The tech-focussed team at Digital Foundry has been busy examining the recently released Fire Emblem Fortune’s Weave on the Nintendo Switch 2. The strategic RPG runs at 720p when played in docked mode…",
+        "published": "11:37 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "US judge blocks deportation of DoorDash driver shot by ICE - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cr6241825757o",
-        "description": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
+        "title": "Rare September Nor’easter set to slam East Coast with heavy rain, damaging winds - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/weather/storms/rare-september-noreaster-set-to-slam-east-coast-rcna599592",
+        "description": "Millions across the Northeast are bracing for an intense, multi-day Nor’easter this weekend that is forecast to bring heavy rain and strong wind gusts to the East Coast.",
         "published": "1:40 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Ranking NFL's 0-2 teams: Why Texans, Buccaneers, Colts still have playoff hopes entering Week 3 - NFL.com",
-        "source": "NFL News",
-        "url": "https://www.nfl.com/news/ranking-nfl-0-2-teams-why-texans-buccaneers-colts-still-have-playoff-hopes-entering-week-3",
-        "description": "Which of the league's eight 0-2 teams still have playoff hopes? NFL.com's Kevin Patra ranks this year's set of winless squads entering a pivotal Week 3.",
-        "published": "1:00 PM UTC",
         "category": "General"
       }
     ]
@@ -235,108 +243,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Targeting Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are understood to be in advanced discussions to sign a dynamic box-to-box midfielder from a top Bundesliga club, with the club seeking to address long-standing depth concerns in the center of the park following Thomas Partey's expected departure at the end of his contract.",
+        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are reportedly closing in on a deal for a dynamic central midfielder from the Bundesliga, with the club looking to reinforce the engine room following uncertainty over Thomas Partey's long-term future at the Emirates. A fee in the region of £45–50 million is understood to be under discussion.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Revive Interest in Napoli Striker Amid Striker Search",
-        "summary": "Chelsea's recruitment team have reportedly re-opened dialogue with Napoli over their prolific striker, as the Blues look to add a reliable center-forward with Champions League experience ahead of a summer rebuild under their current sporting structure.",
+        "headline": "Manchester United Target Serie A Striker as Rashford Future Remains Uncertain",
+        "summary": "Manchester United's recruitment team have identified a proven Serie A striker as a potential addition in the winter window, with the club's attacking output remaining inconsistent this season. Personal terms are said to be the main hurdle as United weigh a loan-to-buy structure.",
         "clubs": [
-          "Chelsea",
+          "Manchester United",
           "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The Premier League's marquee fixture arrives at a pivotal stage of the season, with both sides still harbouring realistic title ambitions and separated by just two points in the table. City will look to exploit home advantage and the tactical discipline Pep Guardiola's side have shown in big games this season, while Liverpool's high-pressing system under Slot has been relentless in transition. The result could effectively define the title race with seven gameweeks remaining.",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's most anticipated fixture of the season arrives with both sides locked in a title race that has proven tighter than most predicted. Liverpool come into this on the back of four consecutive wins, buoyed by the relentless pressing system that has dismantled every opponent at Anfield this term, while City will look to impose their characteristic positional dominance to nullify the home crowd's energy. Pep Guardiola's selection — particularly whether to deploy a high defensive line against Liverpool's pacy front three — is the tactical subplot dominating pre-match discussion.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Erling Haaland",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Expected to be assessed 48 hours before kickoff; hamstring tightness picked up in training"
+        "status": "Recovering",
+        "return": "Not expected before late February"
       },
       {
-        "player": "Trent Alexander-Arnold",
+        "player": "Diogo Jota",
         "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Targeting return within 10 days; has not featured since picking up a knock in the midweek fixture"
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using the Gaussian copula model. Which of the following is the most significant limitation of this model that was exposed during the 2008 financial crisis?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If market interest rates rise by 100 basis points, which of the following best describes the price sensitivity concept that explains why a longer-duration bond would experience a larger price decline than a shorter-duration bond?",
       "options": {
-        "A": "The model overestimates individual default probabilities by assuming a constant hazard rate across all credit cycles.",
-        "B": "The model assumes linear correlations between defaults and fails to capture tail dependence, underestimating the probability of simultaneous defaults during stress periods.",
-        "C": "The model is computationally too complex for large portfolios, leading risk managers to apply it only to investment-grade bonds.",
-        "D": "The model ignores recovery rates entirely, making it unsuitable for pricing collateralized debt obligations."
+        "A": "Convexity, because longer bonds have greater curvature in the price-yield relationship",
+        "B": "Modified duration, because it measures the approximate percentage price change per unit change in yield, and longer maturities have higher duration",
+        "C": "Current yield, because it reflects the bond's annual income relative to its current price",
+        "D": "Yield to maturity, because it discounts all cash flows at a single rate that penalizes longer bonds more"
       },
       "correct": "B",
-      "explanation": "The Gaussian copula model assumes that joint default events follow a normal distribution, which implies near-zero tail dependence — meaning it dramatically underestimates the likelihood that many assets default simultaneously during market stress. During the 2008 crisis, correlations between mortgage defaults spiked far beyond what the model predicted, causing catastrophic mispricing of CDO tranches. This limitation is structural: the Gaussian copula is ill-suited to capturing the 'fat-tailed' co-movement that defines systemic risk. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence."
+      "explanation": "Modified duration measures the percentage change in a bond's price for a 1% change in yield. Longer-maturity bonds have higher modified duration because more of their cash flows are received further in the future, making their present values more sensitive to discount rate changes. While convexity (A) is also a relevant concept, it describes the curvature of the price-yield relationship — a second-order effect — not the primary linear measure of price sensitivity. Current yield (C) and YTM (D) are yield measures, not price sensitivity metrics."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why imperfect hedges can leave risk managers exposed even when they think they are protected.",
+      "title": "Basis Risk and Hedging Imperfection in Derivatives",
+      "subtitle": "Why perfect hedges are theoretical constructs — and how basis risk quietly erodes real-world hedging strategies.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying asset being hedged. The 'basis' is defined as the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Even when a hedge is carefully constructed, differences in contract specifications, delivery locations, credit quality, or tenor can cause the hedge to perform unexpectedly, leaving residual risk on the table.",
-        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices do not move in a perfectly fixed ratio — particularly during refinery disruptions or geopolitical supply shocks — the airline may find that its hedge underperforms. Similarly, a corporate treasurer hedging floating-rate debt using SOFR futures when the underlying loan references a bank's internal lending rate faces meaningful basis risk, especially in periods of credit stress when bank funding costs diverge from risk-free benchmarks.",
-        "For risk managers, basis risk demands careful hedge ratio calibration and ongoing monitoring. The minimum variance hedge ratio, derived from the correlation and volatility of the spot and futures prices, helps optimize hedge effectiveness. However, correlations are not static — they tend to break down precisely during the tail-risk events that make hedging most critical. Investors should therefore stress-test hedges under adverse basis scenarios and avoid treating a hedged position as fully risk-free."
+        "Basis risk refers to the risk that the value of a hedge instrument does not move in perfect lockstep with the value of the underlying exposure being hedged. The 'basis' is defined as the spot price of the asset being hedged minus the futures price of the hedging contract. When a company uses a futures contract tied to a related but not identical asset — say, hedging jet fuel exposure with crude oil futures — the correlation is high but imperfect, leaving a residual risk that cannot be diversified away through the hedge itself.",
+        "A classic real-world illustration is an airline hedging its fuel costs using WTI crude oil futures. While jet fuel prices are highly correlated with crude, refining margins, seasonal demand shifts, and geographic price differentials can cause the two to diverge sharply. During the COVID-19 demand collapse in 2020, airlines holding crude oil hedges found that crude prices partially recovered while jet fuel demand — and thus jet fuel prices — remained severely depressed, creating significant basis losses on top of operating losses.",
+        "For risk managers and investors, managing basis risk requires careful selection of the hedging instrument, monitoring of the hedge ratio over time, and stress-testing correlation assumptions during market dislocations. The minimum variance hedge ratio, calculated as the correlation between spot and futures price changes multiplied by the ratio of their standard deviations, helps optimize the number of contracts used. Sophisticated firms also layer in options-based overlays to cap downside basis exposure, though this introduces additional cost and complexity."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedged asset and the hedging instrument.",
-        "Common sources of basis risk include differences in asset quality, geography, contract maturity, and benchmark reference rates.",
-        "The minimum variance hedge ratio minimizes basis risk exposure but must be recalculated dynamically as market conditions and correlations evolve."
+        "Basis risk is unavoidable when the hedging instrument differs from the underlying exposure, and it tends to widen during market stress when correlations break down.",
+        "The minimum variance hedge ratio is the practical tool for minimizing — not eliminating — basis risk in commodity and financial futures hedging.",
+        "Stress-testing hedge effectiveness under non-normal market conditions is as important as calculating duration or delta under baseline assumptions."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; commitment",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "彼は必ず約束を守る人です。",
-      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
-      "example_en": "He is a person who always keeps his promises.",
-      "grammar_point": "〜を守る (wo mamoru)",
-      "grammar_explanation": "The phrase 〜を守る means 'to keep' or 'to protect' something, and it is commonly paired with 約束 to mean 'to keep a promise.' The particle を marks 約束 as the direct object of the verb 守る.",
-      "memory_tip": "Think of 'yakusoku' as 'yak-you-soku' — a yak solemnly bowing its big head, making a very serious promise it will never break."
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead!' and 算 (san) as 'calculate' — a yosan is your 'hey, let's calculate ahead' plan, i.e., a budget."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Execute Trades Without Human Approval",
-      "summary": "A new generation of agentic AI systems — capable of planning, reasoning, and taking multi-step actions autonomously — is moving from research labs into live financial workflows. Several hedge funds and proprietary trading firms are now piloting AI agents that can monitor market signals, generate trade rationales, and route orders within pre-defined risk parameters without requiring human sign-off at each step. Unlike earlier algorithmic trading systems that followed rigid rules, these agents use large language models combined with real-time data feeds to adapt their reasoning dynamically. Regulators in the UK and EU are already drafting guidance on accountability frameworks for autonomous financial AI.",
+      "headline": "Large Language Models Are Reshaping How Analysts Process Earnings Disclosures",
+      "summary": "Financial institutions are increasingly deploying large language models to parse earnings call transcripts, SEC filings, and analyst reports in near real-time, extracting sentiment signals and flagging material disclosures that might take human analysts hours to process. Firms like Bloomberg, FactSet, and a growing number of hedge funds have built proprietary fine-tuned models trained on financial corpora to improve extraction precision beyond general-purpose models. The edge is no longer simply speed — it is the ability to contextualize qualitative language shifts (e.g., management tone changes on liquidity) against quantitative data simultaneously. As these systems mature, the competitive moat will belong to firms that combine high-quality proprietary training data with robust human-in-the-loop oversight frameworks.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously pursue multi-step goals by planning, using tools, and making sequential decisions — moving beyond single-query responses to executing workflows end-to-end, as in automated trade monitoring or portfolio rebalancing."
+          "term": "Fine-Tuning",
+          "definition": "The process of taking a pre-trained general AI model and further training it on a domain-specific dataset — such as earnings transcripts or credit agreements — so it becomes significantly more accurate for specialized financial tasks."
         },
         {
-          "term": "Reinforcement Learning from Human Feedback (RLHF)",
-          "definition": "A training technique where an AI model is fine-tuned using human evaluators' preferences, helping it align its outputs with domain-specific quality standards — used in finance to train models that generate more accurate risk assessments or compliant communications."
+          "term": "Sentiment Alpha",
+          "definition": "Investment return generated by systematically analyzing the tone, word choice, and linguistic patterns in textual financial data (e.g., CEO statements, central bank minutes) to predict price movements before they are reflected in market prices."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "An AI architecture that connects a language model to an external knowledge base at inference time, allowing it to pull live data — such as earnings filings, regulatory updates, or market prices — before generating a response, dramatically improving factual accuracy in financial analysis."
+          "definition": "An AI architecture where a language model dynamically retrieves relevant documents or data from an external database before generating a response — used in finance to ground model outputs in verified filings, reducing hallucination risk."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, govern, and audit AI agent workflows will be disproportionately valuable over the next five years. The highest-leverage skill is not coding AI models from scratch, but knowing how to set risk guardrails, evaluate model outputs critically, and communicate AI-driven decisions to regulators and clients. Hybrid fluency — combining financial domain expertise with working knowledge of AI architecture — is rapidly becoming the new benchmark for senior roles in risk, portfolio management, and strategy."
+      "career_insight": "Analysts and risk managers who can bridge quantitative finance and AI tooling — understanding both the statistical assumptions behind models and the limitations of LLM outputs — will command significant premium in hiring over the next three to five years. The most defensible skill set combines domain expertise (credit, rates, equity valuation) with the ability to critically evaluate, prompt-engineer, and audit AI-generated financial analysis rather than passively consume it."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a cautiously constructive but fragile environment this week, with equity markets grinding higher on resilient labor data while credit spreads remain range-bound. The key macro tension continues to be the timing and pace of Fed rate cuts — markets are pricing roughly two 25bp reductions by year-end, but hotter-than-expected services inflation is keeping the front end of the Treasury curve elevated and flattening the 2s10s spread. Dollar strength is creating headwinds for EM equities and commodities, while safe-haven demand in gold remains firm above the $2,300 level, suggesting underlying investor caution beneath the surface calm."
+    "market_sentiment": "Global equities are navigating a cautious risk-on tone this week as markets weigh resilient US labor data against softening manufacturing PMIs in Europe and China, keeping the 'higher for longer' rate narrative alive but increasingly contested. Treasury yields remain elevated at the long end, with the 10-year hovering near cycle highs, continuing to pressure rate-sensitive sectors including REITs and small-caps. FX markets are watching the yen closely as USD/JPY tests levels that have historically prompted Bank of Japan intervention rhetoric, while commodity markets are firm on the back of OPEC+ supply discipline and residual geopolitical risk premium in crude."
   }
 }
