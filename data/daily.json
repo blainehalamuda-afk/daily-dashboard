@@ -1,37 +1,37 @@
 {
-  "generated_at": "3:16 PM UTC",
-  "date": "Saturday, September 26, 2026",
+  "generated_at": "3:55 PM UTC",
+  "date": "Sunday, September 27, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 69,
-    "feels_like_f": 68,
-    "high_f": 72,
-    "low_f": 67,
+    "temp_f": 73,
+    "feels_like_f": 73,
+    "high_f": 76,
+    "low_f": 71,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 46,
-    "wind_mph": 9,
+    "humidity": 48,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Sun",
+        "day": "Mon",
         "icon": "☀️",
         "high": 53,
         "low": 53,
         "description": "Clear Sky"
       },
       {
-        "day": "Mon",
+        "day": "Tue",
         "icon": "☀️",
-        "high": 55,
-        "low": 55,
+        "high": 61,
+        "low": 61,
         "description": "Clear Sky"
       },
       {
-        "day": "Tue",
+        "day": "Wed",
         "icon": "☀️",
-        "high": 60,
-        "low": 60,
+        "high": 61,
+        "low": 61,
         "description": "Clear Sky"
       }
     ]
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 84028.17,
-        "change": 72.17,
-        "change_pct": 0.09,
+        "price": 84470.01,
+        "change": 320.01,
+        "change_pct": 0.38,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2689.94,
-        "change": -7.5,
-        "change_pct": -0.28,
+        "price": 2691.5,
+        "change": -0.93,
+        "change_pct": -0.03,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\" - axios.com",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-        "description": "\"There's never been a weapon as powerful.\"",
-        "published": "12:54 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "'Meta is having its moment' as stock's monster rally vindicates the bulls: Chart of the Day - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/article/meta-is-having-its-moment-as-stocks-monster-rally-vindicates-the-bulls-chart-of-the-day-121302619.html",
-        "description": "Meta stock has rallied 16% over the past week on the heels of the company's AI agent release.",
-        "published": "12:45 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "The surprise winners from record-high diesel prices - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/transportation/2026/09/25/surprise-winners-record-high-diesel-prices/",
-        "description": "It isn’t just big oil companies that are benefitting from the highest diesel prices ever seen.",
-        "published": "12:16 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off - Nintendo Life",
-        "source": "Nintendo Life",
-        "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
-        "description": "Assassin's Creed Shadows! Mario & Rabbids! Rayman!",
-        "published": "2:00 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years - 9to5Mac",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/09/25/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
-        "description": "iOS 27 adds new features for Apple Wallet, including one that’s been on my wishlist for years: the ability to import physical passes.",
-        "published": "1:10 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "‘ARC Raiders’ And ‘Marathon’ Turn To PvE As The Extraction Genre Wobbles - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/09/25/arc-raiders-and-marathon-turn-to-pve-as-the-extraction-genre-wobbles/",
+        "title": "Anthropic to Pay Akamai Technologies $11.6 Billion Over Seven Years for Cloud Services - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/tech/anthropic-to-pay-akamai-technologies-11-6-billion-over-seven-years-for-cloud-services-7a55360b",
         "description": "",
-        "published": "1:03 PM UTC",
+        "published": "1:43 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "The worst airports if you have a connecting flight - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/travel/2026/09/26/worst-airports-travel-connections/",
+        "description": "Short layover? You may want to think twice before booking through these transport hubs.",
+        "published": "12:46 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Chevy's New V8: Why Cars Will Have Engine Oil Dipsticks But Trucks Won't - Jalopnik",
+        "source": "Jalopnik",
+        "url": "https://www.jalopnik.com/2265025/why-cars-trucks-chevy-new-production-crate-v8s-no-engine-oil-dipstick/",
+        "description": "Sixth-generation V8 gasoline engines from Chevrolet will not have a dipstick, because the company's bosses say it's unnecessary.",
+        "published": "11:05 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "24 Photos Of Men Making Their Partners' Lives Worse - Yahoo",
+        "source": "Buzzfeed",
+        "url": "https://www.buzzfeed.com/ajanibazile/men-making-partners-life-suck?origin=bf-yahoo",
+        "description": "It's never too late to dump him.",
+        "published": "11:16 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "2026 WNBA playoffs bracket, schedule: First-round matchups set after Valkyries rally for No. 2 seed - CBS Sports",
-        "source": "CBS Sports",
-        "url": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/",
-        "description": "The playoffs officially open on Sunday, when all four of the best-of-three first-round series tip off",
-        "published": "2:25 PM UTC",
+        "title": "Reddit moderator who bragged about pirating Nintendo Switch games now owes Nintendo £3.4 million - eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+        "description": "A US court has ordered Reddit moderator James 'Archbox' Williams to pay Nintendo £3.4 million after he ignored a lawsuit over pirated Switch games.",
+        "published": "10:18 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "I tried Microsoft’s new haptic Surface Mouse — standard mice now feel completely broken to me - Tom's Guide",
+        "source": "Tom's Guide",
+        "url": "https://www.tomsguide.com/computing/peripherals/i-tried-microsofts-new-haptic-surface-mouse-standard-mice-now-feel-completely-broken-to-me",
+        "description": "This is a game-changer",
+        "published": "5:15 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "White House Removes CNN From Planned Weekend Trip - wsj.com",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/politics/policy/white-house-removes-cnn-from-planned-weekend-trip-7c7d6455",
+        "description": "",
+        "published": "2:17 PM UTC",
         "category": "General"
       },
       {
-        "title": "Trump welcomes China's Xi for state dinner at White House after touting \"truly great friendship\" - CBS News",
+        "title": "Iran War Updates: Tehran proposes 7-day plan to reopen Strait of Hormuz as it seeks deal before U.S. midterms - CBS News",
         "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/",
-        "description": "President Trump hosted Chinese President Xi Jinping for a state dinner on Thursday, as the world's two most powerful countries extend a tariff truce and grapple with a rivalry on advanced AI.",
-        "published": "1:38 PM UTC",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+        "description": "Iran's president said Tehran wanted a deal with the U.S. before November's midterm elections, contrary to President Trump's claims.",
+        "published": "1:48 PM UTC",
         "category": "General"
       },
       {
-        "title": "Apple is making your security camera smarter. What comes next is more interesting. - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-        "description": "I tried the newest AI-powered smart home features from Nest, Ring, and HomeKit. Here’s how they compare and where this technology is headed next.",
-        "published": "1:00 PM UTC",
+        "title": "F1 Azerbaijan GP: Russell fends off Verstappen for victory; Colapinto takes out Gasly and Norris - Autosport",
+        "source": "autosport.com",
+        "url": "https://www.autosport.com/f1/news/f1-azerbaijan-gp-russell-fends-off-verstappen-for-victory-colapinto-takes-out-gasly-and-norris/10859225/",
+        "description": "George Russell takes his third win of the 2026 Formula 1 season at an incident-ridden Azerbaijan Grand Prix",
+        "published": "12:58 PM UTC",
         "category": "General"
       }
     ]
@@ -259,30 +259,31 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Ramp Up Interest in Bundesliga Midfielder Ahead of Summer Window",
-        "summary": "Arsenal's recruitment team has reportedly made contact with representatives of a highly-rated Bundesliga central midfielder as Mikel Arteta looks to add creativity and box-to-box dynamism to address the depth gap behind Martin Ødegaard. A deal could be complicated by interest from Bayern Munich and the player's preference for Champions League football.",
+        "headline": "Arsenal Revive Interest in RB Leipzig's Benjamin Sesko Ahead of Summer Window",
+        "summary": "Arsenal are reportedly set to make a fresh approach for Slovenian striker Benjamin Sesko, with Mikel Arteta keen to add a clinical central striker after falling short in the title race. Leipzig are expected to hold out for a fee in the region of £65–70 million.",
         "clubs": [
           "Arsenal",
-          "Bayern Munich"
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Offload Homegrown Midfielder on Permanent Deal",
-        "summary": "Chelsea are looking to raise funds and reduce their bloated squad by selling a homegrown midfielder who has spent the second half of the season on loan, with an Everton-linked permanent move gaining traction as the summer window approaches. The fee is expected to be in the region of £20–25 million.",
+        "headline": "Manchester United Target Lille Midfielder Leny Yoro as Defensive Rebuild Continues",
+        "summary": "Manchester United's new football leadership is tracking 18-year-old French centre-back Leny Yoro as they look to overhaul a leaky defence, with Real Madrid also understood to be monitoring the highly-rated Lille captain. A bidding war this summer could push his valuation above £50 million.",
         "clubs": [
-          "Chelsea",
-          "Everton"
+          "Manchester United",
+          "Lille",
+          "Real Madrid"
         ]
       }
     ],
     "match_preview": {
       "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "A title-defining top-of-the-table clash at the Etihad as Manchester City host Liverpool in what could be the decisive fixture of the Premier League season. City come into the match buoyed by a four-game winning run and a return to form for Erling Haaland, while Arne Slot's Liverpool side will look to leverage their superior goal difference and an unbeaten away record to keep the pressure on. The tactical battle between City's high press and Liverpool's structured counter-attacking system promises to be one of the defining matches of the campaign.",
+      "away": "Arsenal",
+      "date": "Sunday, 3:00 PM BST",
+      "preview": "The Etihad hosts what could be a title-defining six-pointer as Manchester City and Arsenal meet in the Premier League's most anticipated fixture of the run-in. City have rediscovered their ruthless form under Guardiola following a mid-season wobble, while Arsenal arrive buoyed by five consecutive wins and a leaner defensive record than in previous campaigns. The tactical battle between Guardiola's positional press and Arteta's structured counter-press — a system the Arsenal manager refined under his mentor — promises to be the defining subplot, with the result likely reshaping the table with six weeks remaining.",
       "key_players": [
         "Erling Haaland",
-        "Mohamed Salah",
+        "Bukayo Saka",
         "Rodri"
       ]
     },
@@ -291,76 +292,76 @@
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Being assessed daily; possible return after international break"
+        "return": "Assessed on matchday; hamstring tightness picked up in training"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
+        "player": "Martin Ødegaard",
+        "team": "Arsenal",
         "status": "Recovering",
-        "return": "Expected to return within 2–3 weeks; targeting late-season run-in"
+        "return": "Expected back within 10–14 days; missed last two matches with an ankle complaint"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
+      "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A bank originates a 5-year loan with a notional of $10 million. The probability of default (PD) is 2% per year, the loss given default (LGD) is 45%, and the exposure at default (EAD) is $10 million. Using the simplified expected loss formula, what is the annual expected loss, and which of the following best describes the relationship between unexpected loss and economic capital?",
+      "question": "A risk manager is evaluating a credit portfolio using a Gaussian copula model. Which of the following is the most significant limitation of this approach, as highlighted during the 2007–2009 financial crisis?",
       "options": {
-        "A": "Expected Loss = $90,000; Economic capital is held to cover expected losses in normal operating conditions.",
-        "B": "Expected Loss = $90,000; Economic capital is held to cover unexpected losses beyond the expected loss up to a defined confidence level.",
-        "C": "Expected Loss = $45,000; Economic capital is held to cover unexpected losses beyond the expected loss up to a defined confidence level.",
-        "D": "Expected Loss = $90,000; Economic capital equals the Value-at-Risk of the loan portfolio at the 50th percentile of the loss distribution."
+        "A": "The model cannot incorporate more than two correlated assets simultaneously.",
+        "B": "The model underestimates tail dependence, causing it to understate the probability of simultaneous defaults during stress periods.",
+        "C": "The Gaussian copula assumes perfectly positive correlation between all credit assets, overstating diversification benefits.",
+        "D": "The model requires real-time market data inputs that are unavailable for structured credit products."
       },
       "correct": "B",
-      "explanation": "Expected Loss = PD × LGD × EAD = 0.02 × 0.45 × $10,000,000 = $90,000. Economic capital is NOT held against expected losses — those are covered by loan pricing and loan loss reserves. Instead, economic capital is allocated to absorb unexpected losses, which represent deviations above the expected loss up to a bank's chosen solvency confidence level (e.g., 99.9%). This distinction between EL, UL, and economic capital is a core FRM concept in credit portfolio management."
+      "explanation": "The Gaussian copula model assumes that joint default probabilities follow a normal distribution, which has very thin tails. This causes the model to severely underestimate the likelihood of simultaneous defaults during market stress — a phenomenon known as tail dependence. During the financial crisis, CDO tranches backed by mortgage securities defaulted together far more frequently than Gaussian copula models predicted, because the model failed to capture the extreme co-movement present in tail events. Copulas with heavier tails, such as the Student-t copula, provide better (though still imperfect) estimates of tail dependence."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Interest Rate Exposure",
-      "subtitle": "Why imperfect hedges can leave risk managers exposed even when they think they are fully protected.",
+      "title": "Private Credit's Rise as Public Markets Retreat",
+      "subtitle": "How direct lending and private debt funds are reshaping corporate finance and institutional portfolios.",
       "paragraphs": [
-        "Basis risk arises when the hedging instrument and the underlying exposure do not move in perfect lockstep, creating a residual risk that cannot be eliminated through the hedge alone. In interest rate markets, this commonly occurs when a corporate treasurer hedges a floating-rate liability referencing SOFR with a futures contract tied to a slightly different tenor or benchmark. The 'basis' is defined as the difference between the spot price of the asset being hedged and the futures price of the hedging instrument, and this spread can widen or narrow unpredictably over time.",
-        "A practical example emerged prominently during the 2022–2023 rate hiking cycle, when banks and corporates that had hedged long-dated fixed-income assets using shorter-dated Treasury futures found that the rapid steepening and then inversion of the yield curve caused their hedges to perform very differently than modeled. The basis between, say, a 10-year corporate bond yield and a 5-year Treasury futures contract widened significantly as credit spreads blew out independently of the rate move, leaving firms with material mark-to-market losses on positions they believed were hedged.",
-        "For risk managers, basis risk underscores the importance of hedge effectiveness testing under ASC 815 (GAAP) or IFRS 9, where a hedge must be 'highly effective' — typically within an 80–125% offset range — to qualify for hedge accounting treatment. Failure to account for basis risk can lead to unexpected P&L volatility, collateral calls on derivative positions, and regulatory capital impacts. Managers should stress-test hedges under curve reshaping scenarios, not just parallel shifts, to capture realistic basis dynamics."
+        "Private credit refers to non-bank lending where institutional investors — such as pension funds, insurance companies, and dedicated private debt funds — provide loans directly to corporations, often bypassing traditional syndicated loan or high-yield bond markets. The asset class encompasses direct lending, mezzanine financing, distressed debt, and specialty finance. Unlike publicly traded bonds, private credit instruments are typically floating-rate, illiquid, and negotiated bilaterally, giving lenders stronger covenant protections and more direct influence over deal terms.",
+        "The post-2022 rate environment supercharged private credit growth. As the Federal Reserve raised rates aggressively, regional banks pulled back from leveraged lending amid tighter regulatory scrutiny, and volatile public bond markets made syndication difficult. Private credit funds stepped into the void — financing leveraged buyouts, growth-stage companies, and real asset projects that previously relied on bank balance sheets. Managers like Ares, Blue Owl, and HPS have raised record funds, and the asset class has grown to an estimated $1.7 trillion globally. Deals that once required 10–15 bank lenders are now completed with a single direct lender in weeks.",
+        "For institutional investors and risk managers, private credit offers attractive risk-adjusted yields — often 150–300 basis points above comparable public credit — but introduces unique risks that demand careful underwriting. Illiquidity risk is paramount: NAV-based valuations can mask true mark-to-market losses in downturns. Covenant erosion, concentration risk in sponsor-backed deals, and the lack of price discovery all complicate portfolio construction. As rates eventually normalize, the floating-rate advantage narrows and refinancing stress on leveraged borrowers could expose credit quality weaknesses accumulated during the easy-money era."
       ],
       "key_takeaways": [
-        "Basis risk is the residual, unhedgeable risk that remains when the hedge instrument and the exposure are not perfectly correlated.",
-        "Yield curve reshaping, credit spread widening, and benchmark transitions (e.g., LIBOR to SOFR) are key drivers of unexpected basis risk in practice.",
-        "Hedge effectiveness must be tested quantitatively and documented regularly to satisfy accounting standards and to avoid surprise P&L volatility."
+        "Private credit has grown to ~$1.7 trillion globally, filling the void left by banks retreating from leveraged lending under regulatory pressure.",
+        "Floating-rate structures benefited lenders in the 2022–2024 rate cycle, but also increase refinancing and default risk for over-leveraged borrowers as costs stay elevated.",
+        "Illiquidity, opaque valuations, and covenant erosion are structural risks investors must price carefully — NAV stability can disguise underlying credit deterioration."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget completely.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over my budget this month.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something was done and now it's done. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-san' as 'your-sum' — the sum of money that is YOURS to spend. Once the yo-san is gone, it's gone, just like the regretful てしまいました implies!"
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-san' as 'yo, $3' — imagine telling your friend 'Yo, I only have $3 left — I blew my budget!' The word 予 (yo) means 'in advance' and 算 (san) means 'calculate,' so a budget is literally a 'pre-calculation' of your money."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Autonomously Execute Complex Financial Workflows",
-      "summary": "A new generation of agentic AI systems — capable of planning multi-step tasks, using tools, and acting without constant human prompting — is moving from research labs into financial workflows. Early deployments in 2024–2025 include agents that autonomously gather earnings call transcripts, cross-reference macro data, generate draft research notes, and flag compliance anomalies, all within a single orchestrated pipeline. Major banks including JPMorgan and Goldman Sachs have disclosed internal LLM-based agents handling portions of document review, client onboarding, and trade surveillance. The shift from AI-as-assistant to AI-as-agent fundamentally changes how finance teams will be structured and what skills professionals need to stay relevant.",
+      "headline": "Agentic AI Systems Are Beginning to Automate Complex Financial Workflows End-to-End",
+      "summary": "A new generation of agentic AI — systems capable of autonomously planning, executing, and iterating on multi-step tasks — is moving from research labs into live financial environments. Unlike chatbots that respond to single prompts, agentic systems can independently pull data from APIs, run quantitative models, draft investment memos, and flag compliance issues in sequence without human intervention at each step. Major asset managers and investment banks are piloting these systems for earnings analysis, credit underwriting support, and regulatory reporting. The productivity implications are significant: tasks that required a junior analyst team for days may be compressed into hours, raising urgent questions about workflow redesign and oversight frameworks.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that can autonomously set sub-goals, select tools, and execute multi-step tasks without requiring a human prompt at each stage — think of it as an AI that can 'work a project,' not just answer a question."
+          "definition": "An AI system that can autonomously break down a complex goal into sub-tasks, use tools (like databases, calculators, or APIs), execute them in sequence, and self-correct — without needing a human prompt at every step. In finance, this could mean an agent that independently monitors a portfolio, identifies a risk threshold breach, researches contributing factors, and drafts a risk report."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model fetches real-time or proprietary data (e.g., filings, market data, internal memos) and combines it with its language capabilities to generate grounded, accurate responses — critical for compliance-sensitive finance applications."
+          "definition": "A technique where an AI model is connected to an external knowledge base or database and retrieves relevant documents before generating a response, grounding its output in current, specific information. In finance, RAG allows an AI to answer questions about a firm's proprietary research, real-time filings, or internal risk policies rather than relying only on training data."
         },
         {
-          "term": "Orchestration Layer",
-          "definition": "The software framework (e.g., LangGraph, AutoGen) that coordinates multiple AI agents, tools, and data sources in sequence to complete a complex workflow, analogous to a project manager assigning tasks across a team."
+          "term": "Model Governance",
+          "definition": "The policies, processes, and controls that ensure AI/ML models used in financial decisions are validated, monitored, explainable, and compliant with regulatory expectations. As AI takes on higher-stakes tasks — credit scoring, trade surveillance, capital allocation — model governance is becoming a core risk management discipline, directly analogous to traditional model risk management (SR 11-7 in the US)."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, and evaluate agentic workflows will command a significant premium over those who only know how to use AI as a chatbot. The most future-proof skill set combines domain expertise in risk or investment analysis with the ability to architect AI pipelines — knowing when to trust an AI agent's output and when to intervene. Roles like 'AI Risk Officer,' 'Quantitative AI Strategist,' and 'Model Governance Analyst' are already appearing in job postings at Tier-1 institutions."
+      "career_insight": "Finance professionals who understand how to scope, supervise, and critically evaluate AI agent outputs — rather than simply use AI as a search tool — will hold a durable advantage. The most valued skill set is emerging as a hybrid of domain expertise (credit, risk, valuation) plus the ability to design AI-assisted workflows, identify failure modes, and communicate model limitations to stakeholders. Roles in model risk management, AI governance, and 'prompt engineering for finance' are growing rapidly, while pure data-entry and templated analysis roles face meaningful automation pressure within three to five years."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a cautiously constructive but fragile environment as markets reprice the Federal Reserve's path toward rate cuts against a backdrop of stickier-than-expected services inflation and resilient but softening labor data. The dollar remains bid on a relative basis, pressuring EM currencies and commodities priced in USD, while the long end of the Treasury curve continues to face supply indigestion from elevated auction sizes. Equity markets are bifurcated — mega-cap AI-driven names continue to post earnings upside surprises, providing index-level support, while small-caps and rate-sensitive sectors remain under pressure, suggesting investors are not yet pricing a broad economic soft landing with full conviction."
+    "market_sentiment": "Global risk appetite is cautiously constructive this morning, with equities stabilizing after last week's volatility around US fiscal concerns and a softer-than-expected core PCE print providing modest relief on the inflation front. The Treasury market remains the focal point — 10-year yields are hovering near multi-month highs, keeping pressure on rate-sensitive sectors including real estate and utilities, while the dollar has softened slightly as carry trade dynamics shift. Commodity markets are mixed: Brent crude is rangebound near $83 as demand outlook uncertainty from China offsets geopolitical supply risk premium, and gold continues to find buyers on sovereign debt concerns — a theme that has resonated strongly with EM central banks accumulating reserves outside the dollar system."
   }
 }
