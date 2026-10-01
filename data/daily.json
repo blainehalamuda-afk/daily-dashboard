@@ -1,38 +1,38 @@
 {
-  "generated_at": "5:08 PM UTC",
-  "date": "Wednesday, September 30, 2026",
+  "generated_at": "5:38 PM UTC",
+  "date": "Thursday, October 1, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 82,
-    "feels_like_f": 83,
-    "high_f": 84,
-    "low_f": 80,
+    "temp_f": 84,
+    "feels_like_f": 85,
+    "high_f": 86,
+    "low_f": 82,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 50,
-    "wind_mph": 3,
+    "humidity": 51,
+    "wind_mph": 8,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "☀️",
-        "high": 60,
-        "low": 60,
-        "description": "Clear Sky"
-      },
       {
         "day": "Fri",
         "icon": "☀️",
-        "high": 66,
-        "low": 66,
+        "high": 62,
+        "low": 62,
         "description": "Clear Sky"
       },
       {
         "day": "Sat",
-        "icon": "☀️",
-        "high": 69,
-        "low": 69,
-        "description": "Clear Sky"
+        "icon": "☁️",
+        "high": 71,
+        "low": 71,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sun",
+        "icon": "☁️",
+        "high": 71,
+        "low": 71,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 768.41,
-        "change": 4.21,
-        "change_pct": 0.55,
+        "price": 764.5,
+        "change": 1.87,
+        "change_pct": 0.25,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 336.22,
-        "change": 6.82,
-        "change_pct": 2.07,
-        "up": true,
+        "price": 329.57,
+        "change": -3.45,
+        "change_pct": -1.04,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 230.89,
-        "change": 3.68,
-        "change_pct": 1.62,
+        "price": 230.78,
+        "change": 2.4,
+        "change_pct": 1.05,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 351.82,
-        "change": -1.02,
-        "change_pct": -0.29,
-        "up": false,
+        "price": 357.5,
+        "change": 2.69,
+        "change_pct": 0.76,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 84424.7,
-        "change": 1266.69,
-        "change_pct": 1.52,
+        "price": 84947.84,
+        "change": 1022.42,
+        "change_pct": 1.22,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2696.96,
-        "change": 18.37,
-        "change_pct": 0.69,
+        "price": 2705.86,
+        "change": 28.74,
+        "change_pct": 1.07,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Micron to report Q4 earnings, as memory boom powers on - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/technology/article/micron-to-report-q4-earnings-as-memory-boom-powers-on-153230577.html",
-        "description": "Micron to report fourth quarter earnings after the bell Wednesday.",
-        "published": "3:32 PM UTC",
+        "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low - cnbc.com",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
+        "description": "Stellantis CEO Antonio Filosa on Wednesday reconfirmed the company's 2026 guidance and its plans to be cash flow positive by 2027.",
+        "published": "2:48 PM UTC",
         "category": "Business"
       },
       {
-        "title": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/economy/central-banking/u-s-consumer-confidence-fell-sharply-in-september-conference-board-says-a3578a0f",
-        "description": "",
-        "published": "3:23 PM UTC",
+        "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial - cnbc.com",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
+        "description": "Lilly said it plans to start Phase 3 trials on the combo regimen adding its amylin drug eloralintide to tirzepatide at the end of the year.",
+        "published": "2:15 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Apple’s New CEO Moves to Overhaul Company to Run Faster and Leaner - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-29/apple-s-new-ceo-moves-to-overhaul-company-to-run-faster-and-leaner",
-        "description": "Apple Inc. Chief Executive Officer John Ternus, just weeks into the role, is moving to overhaul the iPhone maker in an effort to accelerate product development, broaden its range of devices and create",
-        "published": "3:14 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "The Grand Theft Auto VI Digital Issue Is Now Live - Game Informer",
-        "source": "Gameinformer.com",
-        "url": "https://gameinformer.com/digital-issue/2026/09/29/the-grand-theft-auto-vi-digital-issue-is-now-live",
-        "description": "Subscribers can read the digital version of our latest magazine starting today. - Game Informer",
-        "published": "4:00 PM UTC",
+        "title": "Dawn of War IV – Blood Ravens and Dark Angels team up in new trailer - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/articles/wfvliytx/dawn-of-war-iv-blood-ravens-and-dark-angels-team-up-in-new-trailer",
+        "description": "Watch the new faction trailer now.",
+        "published": "4:04 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "PS5 Jailbreak Exploit For Systems Running July 2026 Firmware - Kotaku",
+        "title": "Asha Sharma Says 'Xbox Is Not For Sale' Amid Concerns Microsoft's Gaming Business Is Being Streamlined For A Spin-Off - Kotaku",
         "source": "Kotaku",
-        "url": "https://kotaku.com/new-ps5-jailbreak-exploit-works-on-systems-running-july-2026-firmware-2000738283",
-        "description": "According to those who have installed the new Relapse exploit, it works with everything from Marvel's Wolverine to The Witcher 3 Remastered",
-        "published": "3:30 PM UTC",
+        "url": "https://kotaku.com/asha-sharma-says-xbox-is-not-for-sale-amid-concerns-microsofts-gaming-business-is-being-streamlined-for-a-spin-off-2000738651",
+        "description": "Xbox is already looking very different than it did a year ago",
+        "published": "3:43 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "October Prime Day 2026: The Amazon deals we're shopping from Hanes, Carhartt, Apple and more ahead of Prime Big Deal Days - Yahoo",
-        "source": "Yahoo Entertainment",
-        "url": "https://shopping.yahoo.com/deals/breaking-news/article/october-prime-day-2026-the-amazon-deals-were-shopping-from-hanes-carhartt-apple-and-more-ahead-of-prime-big-deal-days-050300247.html",
-        "description": "We have the scoop on top pre-Prime Day discounts ahead of the October savings event, including tech must-haves, vacuums, fall style upgrades and more.",
-        "published": "2:37 PM UTC",
+        "title": "PS Plus Essential Games for October 2026 Announced - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
+        "description": "On the hunt",
+        "published": "3:35 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Jack Smith tells senators he won’t be silenced by threats from Trump and allies - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/justice-department/senate-gop-press-jack-smith-trump-jan-6-probe-doj-targets-investigator-rcna600306",
-        "description": "The former special counsel is testifying before the Senate Judiciary Committee amid the Justice Department’s pursuit of those involved in investigations into President Trump.",
-        "published": "4:30 PM UTC",
+        "title": "UK believes Iran involved in RAF Fairford incident, Burnham says - bbc.com",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjwyz59k5y75o",
+        "description": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.",
+        "published": "3:59 PM UTC",
         "category": "General"
       },
       {
-        "title": "Severely disabled toddler euthanized in the Netherlands under new rules on the controversial practice - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/child-euthanasia-netherlands-first-case-new-rules/",
-        "description": "Dutch doctors decided to euthanize a child just under the age of 2 under new rules allowing the procedure for children suffering unbearably.",
-        "published": "2:36 PM UTC",
+        "title": "One NFL team is facing a nightmare early schedule not seen in the last 40 seasons - CBS Sports",
+        "source": "CBS Sports",
+        "url": "https://www.cbssports.com/nfl/news/miami-dolphins-schedule-2026-nfl-history/",
+        "description": "The Dolphins have an NFL-high strength of schedule of 1.000, and their Week 4 opponent is undefeated, too",
+        "published": "3:57 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "U.S. withdraws forces in Iraq as balance of power shifts to Iran - washingtonpost.com",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/29/us-withdraws-forces-iraq-balance-power-shifts-iran/",
+        "description": "U.S. military forces departed from bases in Iraq on Wednesday, a milestone in two bloody decades of American involvement.",
+        "published": "3:32 PM UTC",
         "category": "General"
       }
     ]
@@ -251,30 +251,30 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Accelerate Talks for Sporting CP Midfielder Viktor Gyökeres",
-        "summary": "Manchester United's new sporting leadership is understood to have opened formal discussions with Sporting CP over a deal for Swedish striker Viktor Gyökeres, who scored 43 goals across all competitions last season. The club is reportedly prepared to trigger his €100 million release clause as they prioritize a marquee attacking addition before the window closes.",
+        "headline": "Manchester United Tracking Sporting CP Midfielder as Midfield Rebuild Accelerates",
+        "summary": "Manchester United's recruitment team has reportedly identified Sporting CP's dynamic central midfielder as a priority target for the January window, with the club seeking to address a chronic lack of creativity and pressing intensity in the middle of the park. Sporting are believed to value the player at around £55 million.",
         "clubs": [
           "Manchester United",
           "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Revive Interest in AC Milan Defender Malick Thiaw",
-        "summary": "Chelsea are reportedly exploring a summer move for AC Milan's German international centre-back Malick Thiaw as Enzo Maresca looks to bolster a defensive unit that shipped too many goals from set pieces last season. Milan are reluctant to sell but are understood to be open to discussions if an offer exceeds £55 million.",
+        "headline": "Chelsea in Advanced Talks to Loan Out Surplus Striker to Bundesliga Side",
+        "summary": "Chelsea are close to finalising a loan agreement for a fringe striker who has made just three Premier League appearances this season, with a top-half Bundesliga club offering the player guaranteed first-team minutes through to the end of the campaign. A buy option clause is reportedly part of the structure.",
         "clubs": [
           "Chelsea",
-          "AC Milan"
+          "Bayer Leverkusen"
         ]
       }
     ],
     "match_preview": {
       "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The fixture of the weekend pits an Arsenal side desperate to claw back ground at the top of the table against a Manchester City team who have looked imperious in their last four league outings despite persistent questions about their depth in central midfield. Mikel Arteta's men have been devastatingly efficient at the Emirates this season, conceding fewer than one goal per home game, but Pep Guardiola's side have a habit of raising their performance level precisely when the stakes are highest. With both clubs still in contention for the title, three points here could prove decisive in the final calculus of the season.",
+      "away": "Liverpool",
+      "date": "Sunday, 16:30 GMT",
+      "preview": "The Premier League's standout fixture this weekend pits Arsenal's high-defensive-line structure against Liverpool's devastating vertical transition play, with title implications sharpening every point dropped at this stage of the season. Arsenal come in on a six-game unbeaten run in all competitions and will look to Saka and Martinelli to stretch Liverpool's fullbacks wide, while Slot's side carry the confidence of a midweek Champions League victory. The tactical battle between Arsenal's press triggers and Liverpool's ability to break lines quickly through Salah makes this one of the most tactically rich matchups the Premier League has produced this season.",
       "key_players": [
+        "Mohamed Salah",
         "Bukayo Saka",
-        "Erling Haaland",
         "Martin Ødegaard"
       ]
     },
@@ -282,77 +282,77 @@
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected to return after international break; fitness being managed carefully"
+        "status": "Out",
+        "return": "No return date set — long-term ACL recovery ongoing"
       },
       {
-        "player": "Ben White",
-        "team": "Arsenal",
+        "player": "Dominic Calvert-Lewin",
+        "team": "Nottingham Forest",
         "status": "Doubtful",
-        "return": "Missed training Thursday and Friday; late fitness test expected Saturday morning"
+        "return": "Being assessed ahead of the weekend; potential return within 1-2 weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is priced at $920. If market interest rates rise by 50 basis points, which of the following best describes the relationship between the bond's price sensitivity and its duration?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
+      "question": "An analyst is evaluating two bonds using the swap rate curve as a benchmark. Bond X has an I-spread of 120 bps and a Z-spread of 145 bps. Bond Y has an I-spread of 115 bps and a Z-spread of 116 bps. Which of the following statements best explains the difference between the two bonds' spread relationships?",
       "options": {
-        "A": "Duration measures the exact dollar change in price for a given change in yield, making it a perfect predictor of price movements.",
-        "B": "Duration provides a linear approximation of price change; convexity adjustment is needed to capture the curvature of the price-yield relationship.",
-        "C": "Modified duration overstates price decreases and understates price increases when yields rise, so convexity always reduces the duration estimate.",
-        "D": "Macaulay duration and modified duration produce identical price-change estimates because they differ only by a scaling constant with no directional bias."
+        "A": "Bond X is mispriced relative to Bond Y because its I-spread exceeds its Z-spread, indicating arbitrage opportunity.",
+        "B": "Bond X likely has significant cash flows in later maturities, causing the Z-spread to diverge materially from the I-spread due to the shape of the spot curve.",
+        "C": "Bond Y's narrow difference between I-spread and Z-spread suggests it trades at a premium, compressing both measures toward par.",
+        "D": "The Z-spread is always larger than the I-spread regardless of yield curve shape, so Bond Y's relationship is anomalous."
       },
       "correct": "B",
-      "explanation": "Duration provides a first-order (linear) approximation of the price-yield relationship, which is inherently curved (convex). Because the actual price-yield curve is convex to the origin, the duration estimate understates the true price for both yield increases and decreases. The convexity adjustment — a second-order term — corrects for this curvature and improves the accuracy of price-change estimates. Option C is incorrect because convexity is always a positive adjustment that benefits the bondholder in both yield directions."
+      "explanation": "The I-spread uses a single interpolated swap rate as the benchmark, while the Z-spread discounts each cash flow at the appropriate spot rate plus a constant spread. When the yield curve is upward sloping, bonds with heavier cash flows in later maturities will show a larger divergence between Z-spread and I-spread, as the spot rates used in Z-spread calculation are higher at longer tenors. Bond X's 25 bps gap indicates meaningful duration exposure to a steeper portion of the curve, while Bond Y's near-identical spreads suggest either short maturity or a flat curve environment for that segment. Option D is incorrect because the relationship between I-spread and Z-spread depends entirely on curve shape and cash flow timing."
     },
     "finance_topic": {
-      "title": "Basis Risk and Hedging Imperfections in Practice",
-      "subtitle": "Why even a well-constructed hedge can leave residual risk that surprises portfolio managers at settlement.",
+      "title": "Basis Risk in Fixed Income Hedging",
+      "subtitle": "Why hedging a bond portfolio with futures rarely produces a perfect offset — and how sophisticated managers manage the gap.",
       "paragraphs": [
-        "Basis risk refers to the risk that the value of a hedge instrument does not move in perfect lockstep with the exposure being hedged. It arises whenever the asset being hedged and the hedging instrument differ in terms of credit quality, maturity, geography, or contractual terms. In theory, a perfect hedge eliminates all price risk; in practice, basis risk means that some residual profit or loss almost always remains at the time a hedge is lifted or expires.",
-        "A classic real-world example emerged during the 2008 financial crisis, when many banks attempted to hedge corporate bond exposure using credit default swap indices (CDX). As liquidity evaporated, the spread between single-name CDS and the index widened dramatically — a manifestation of basis risk. Airlines routinely hedge jet fuel costs using crude oil or heating oil futures, but the spread between jet fuel and crude (the 'crack spread') can shift sharply, leaving carriers either over- or under-hedged relative to their actual fuel cost. During 2022 energy volatility, several European utilities discovered similar basis dislocations between natural gas futures and physical delivery prices.",
-        "For risk managers and portfolio managers, basis risk demands that hedges be monitored dynamically, not set-and-forgotten. The hedge ratio should be periodically recalibrated using regression analysis of historical price relationships. Crucially, firms should stress-test their hedges under scenarios where correlations break down — precisely the moment when protection is most needed. Disclosing basis risk prominently in risk reports ensures that senior management understands that a 'hedged' book is not a risk-free book."
+        "Basis risk refers to the risk that the value of a hedging instrument and the value of the exposure being hedged do not move in perfect lockstep. In fixed income, basis is formally defined as the difference between the spot price of a bond (or portfolio) and the futures price of the hedging contract. Because futures contracts are standardized — referencing a notional cheapest-to-deliver bond — they rarely perfectly replicate the characteristics of the actual portfolio being hedged, creating a residual, unhedgeable source of volatility known as basis risk.",
+        "Consider a corporate bond portfolio manager who uses 10-year Treasury futures to hedge duration. If credit spreads widen simultaneously with a Treasury rally, the futures position gains while the portfolio loses on both the duration component and the spread component — the hedge offsets only part of the move. Similarly, when the cheapest-to-deliver bond changes during the life of the futures contract due to yield curve shifts, the hedge ratio itself becomes stale, introducing additional slippage. This dynamic was vividly illustrated during the March 2020 COVID dislocation, when Treasury futures briefly decoupled from cash Treasuries as dealer balance sheet constraints caused the cash-futures basis to blow out to historically extreme levels.",
+        "For risk managers and portfolio managers, basis risk has direct implications for hedge ratio construction and VaR modeling. Using a naïve dollar-duration hedge ratio without adjusting for spread duration, convexity differences, or delivery option value embedded in futures can significantly understate residual portfolio risk. Advanced practitioners monitor the net basis closely, use regression-based hedge ratios calibrated on historical covariance, and may supplement futures hedges with interest rate swaps or CDS to isolate specific risk factors. In stress scenarios, basis risk can transform a seemingly hedged book into a significant source of P&L volatility."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is applied, caused by imperfect correlation between the hedging instrument and the underlying exposure.",
-        "Basis can widen sharply during market stress, meaning hedges may underperform exactly when protection is most critical.",
-        "Dynamic hedge ratio monitoring and correlation stress-testing are essential tools for managing basis risk effectively."
+        "Basis risk arises because hedging instruments are standardized while underlying exposures are idiosyncratic — perfect hedges are largely theoretical.",
+        "In fixed income, the cash-futures basis can blow out dramatically during liquidity crises, turning a defensive hedge into a source of additional loss.",
+        "Sophisticated hedge ratio construction requires accounting for spread duration, convexity, and the delivery options embedded in futures contracts, not just duration matching."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をもう使い切ってしまいました。",
       "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or that the result is final and irreversible. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-san' as 'your SUM' — the total sum of money you have planned for yourself. When your yo-san is gone, you say 'te shimaimashita' — 'it's done, it's gone!'"
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally or to completion. It is formed by attaching しまいました to the て-form of a verb.",
+      "memory_tip": "Think of 予 as 'pre-' (beforehand) and 算 as 'calculate' — a budget is what you calculate in advance. Yosan sounds like 'your-san,' your personal financial plan with a respectful honorific."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Decisions Worldwide",
-      "summary": "Machine learning models trained on alternative data — including transaction histories, utility payments, and even mobile app behavior — are increasingly supplementing or replacing traditional FICO-based credit scoring at major lenders and fintechs. Institutions like JPMorgan and Ant Group have deployed gradient boosting and neural network models that process thousands of variables in milliseconds, dramatically improving approval rates for thin-file borrowers while reducing default rates. Regulators in the US and EU are now racing to establish explainability requirements, driven by concerns that opaque AI models may encode discriminatory patterns invisible to human reviewers. For risk professionals, the frontier challenge is balancing model performance with regulatory compliance and model risk management under SR 11-7 guidance.",
+      "headline": "AI Agents Are Beginning to Execute Trades Without Human Approval",
+      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous decision execution — is moving from research labs into live financial workflows. Firms including hedge funds and prop trading shops are piloting AI agents that can monitor signals, size positions, and submit orders within pre-defined risk guardrails, all without a human in the loop for each individual trade. While still nascent, this shift represents a qualitative leap beyond algorithmic trading, as these systems can adapt reasoning dynamically to new information rather than following hard-coded rules. Regulators in the EU and US are beginning to scrutinize accountability frameworks for AI-driven decisions, raising questions about liability when an autonomous agent causes market disruption.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions — widely used in credit scoring because it handles mixed data types and missing values well."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously plan, reason across multiple steps, use external tools (like trading APIs or data feeds), and execute sequences of actions toward a goal — contrasted with single-query models that only respond to prompts."
         },
         {
-          "term": "Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) is a method that assigns each input variable a contribution score to a model's output, allowing risk managers and regulators to understand why an AI model approved or denied a specific credit application."
+          "term": "Reinforcement Learning from Human Feedback (RLHF)",
+          "definition": "A training technique where AI models are fine-tuned using human preferences to align model behavior with desired outcomes — used in financial AI to calibrate risk tolerance and decision quality."
         },
         {
-          "term": "Model Risk Management (MRM)",
-          "definition": "The discipline of identifying, measuring, and controlling risks that arise from errors or misuse of quantitative models — governed in the US by the Federal Reserve's SR 11-7 guidance, which requires model validation, documentation, and ongoing performance monitoring for any model used in material business decisions."
+          "term": "Guardrail Architecture",
+          "definition": "A system of hard constraints, risk limits, and compliance checks built around an AI agent to prevent it from taking actions outside predefined boundaries — the financial equivalent of circuit breakers for autonomous systems."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge traditional financial statement analysis with ML model validation are commanding significant premiums in the hiring market. The most sought-after profile in 2025 is not a pure data scientist but a 'model-aware risk professional' — someone who understands both the regulatory framework (SR 11-7, Basel model risk) and the mechanics of gradient boosting or neural networks well enough to challenge model outputs intelligently. Building fluency in Python, SHAP-based model interpretability, and regulatory expectations will differentiate mid-career finance professionals in an increasingly automated credit landscape."
+      "career_insight": "Finance professionals who understand how to design, oversee, and audit AI agent systems will command a significant premium over the next five years — the relevant skill set combines domain expertise in risk management with fluency in prompt engineering, system design, and model evaluation. Simply knowing how to use AI tools is increasingly table stakes; the career differentiation lies in knowing when AI agents fail, why they fail, and how to build governance frameworks around them."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment remains cautiously constructive this week as markets digest a mixed signals environment: US core CPI is trending toward the Fed's target but services inflation is proving sticky, keeping the first rate cut timeline volatile around the September FOMC meeting. Treasury yields have edged higher on the long end as term premium re-prices, pressuring equity valuations in rate-sensitive sectors like utilities and REITs, while the dollar index holds near recent highs — creating headwinds for EM assets and commodity prices denominated in USD. Credit spreads in investment grade remain tight, suggesting the market is not yet pricing significant recession risk, but leveraged loan default rates ticking up quietly in the background deserve close watching into Q3 earnings season."
+    "market_sentiment": "Global risk appetite remains cautious this morning as markets digest a hawkish-leaning repricing at the long end of the US curve, with 10-year Treasury yields holding above 4.55% on resilient labor market data that continues to push out Fed cut expectations into late 2025. Equity futures are modestly offered, with the S&P 500 facing headwinds from a stronger dollar and softer-than-expected earnings revisions in the consumer discretionary sector. Credit spreads have widened marginally in IG and more notably in HY, reflecting growing sensitivity to refinancing risk as the higher-for-longer narrative firms up — watch European PMI data and Fed speakers today for the next directional catalyst."
   }
 }
