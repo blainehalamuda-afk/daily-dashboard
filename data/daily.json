@@ -1,37 +1,37 @@
 {
-  "generated_at": "3:20 PM UTC",
-  "date": "Saturday, October 3, 2026",
+  "generated_at": "4:05 PM UTC",
+  "date": "Sunday, October 4, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 75,
-    "feels_like_f": 77,
-    "high_f": 77,
-    "low_f": 73,
-    "description": "Broken Clouds",
+    "temp_f": 63,
+    "feels_like_f": 63,
+    "high_f": 64,
+    "low_f": 61,
+    "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 90,
-    "wind_mph": 6,
+    "humidity": 89,
+    "wind_mph": 3,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "☁️",
-        "high": 58,
-        "low": 58,
-        "description": "Overcast Clouds"
-      },
       {
         "day": "Mon",
         "icon": "☁️",
-        "high": 68,
-        "low": 68,
+        "high": 61,
+        "low": 61,
         "description": "Overcast Clouds"
       },
       {
         "day": "Tue",
         "icon": "☀️",
-        "high": 58,
-        "low": 58,
+        "high": 56,
+        "low": 56,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Wed",
+        "icon": "☀️",
+        "high": 54,
+        "low": 54,
         "description": "Clear Sky"
       }
     ]
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 84855.99,
-        "change": -669.95,
-        "change_pct": -0.78,
-        "up": false,
+        "price": 85190,
+        "change": 335.5,
+        "change_pct": 0.4,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2681.13,
-        "change": -21.48,
-        "change_pct": -0.79,
-        "up": false,
+        "price": 2696.4,
+        "change": 16.22,
+        "change_pct": 0.61,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,75 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Early October Prime Day deals are live 4 days before the sale officially starts — these 53+ are actually worth it - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/early-october-prime-day-deals-2026-rcna601060",
-        "description": "Prime Big Deal Days is back October 6 to 7, but you can shop early deals today. Our editors are finding new discounts live from iRobot, Ninja, Lego and more.",
-        "published": "2:10 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/amazon-data-centers-1-billion-investment-91b65ba1729540c1c0d92e35deef35d8",
-        "description": "Amazon is investing more than $1 billion over the next five years into communities where it operates data centers for education, job training, water preservation projects and other local priorities as",
-        "published": "1:50 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter - CNBC",
+        "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz - cnbc.com",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-        "description": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
-        "published": "1:15 PM UTC",
+        "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+        "description": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+        "published": "11:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Home Assistant renames Home Assistant Cloud to Link - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
-        "description": "﻿Founder Paulus Schoutsen explains why the smart home platform is dropping “cloud” from its name and how a new hub and AI agents could take it mainstream.",
-        "published": "1:02 PM UTC",
-        "category": "Technology"
+        "title": "MacKenzie Scott's novel is being called 'baffling'—critics are asking what message she's trying to send - Fortune",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/03/mackenzie-scott-novel-reviews-substack/",
+        "description": "The billionaire philanthropist who’s donated $26 billion gave away Last Days in Two Nations for free on Substack, noticeably not on Amazon.",
+        "published": "9:56 AM UTC",
+        "category": "Business"
       },
       {
-        "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-        "description": "The Witcher 3 has been patched to address lighting issues in the Remastered edition. This has been a hotly debated topic since the overhaul was released.",
-        "published": "11:09 AM UTC",
-        "category": "Technology"
+        "title": "Elon Musk’s longtime partner Shivon Zilis announces he ended relationship with ‘no warning’ - The Independent",
+        "source": "The-independent.com",
+        "url": "https://www.the-independent.com/life-style/elon-musk-shivon-zilis-relationship-breakup-children-b3060763.html",
+        "description": "Zilis and Musk share four children together",
+        "published": "9:27 AM UTC",
+        "category": "Business"
       },
       {
-        "title": "A familiar Android feature is disappearing and users have plenty to say - Cleveland.com",
-        "source": "cleveland.com",
-        "url": "https://www.cleveland.com/news/2026/10/a-familiar-android-feature-is-disappearing-and-users-have-plenty-to-say.html",
-        "description": "",
+        "title": "‘Tinder Swindler’ romance fraudster promises ‘safe’ dating app – using intel from con man playbook - Fox News",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/us/tinder-swindler-romance-fraudster-promises-safe-dating-app-using-intel-con-man-playbook",
+        "description": "Simon Leviev, the notorious 'Tinder Swindler' who was born Shimon Hayut, says his new Safe Love dating app will use identity verification to prevent the fraud he once committed.",
         "published": "11:00 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Ken Urker, partner of Gypsy Rose Blanchard, found dead in Louisiana home - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/news/us-news/gypsy-rose-blanchards-partner-ken-urker-found-dead-rcna601098",
-        "description": "Ken Urker, the partner of Gypsy Rose Blanchard, was found dead at his Louisiana home Thursday evening, authorities said.",
-        "published": "1:51 PM UTC",
+        "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
+        "description": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have experienced an issue that causes the...",
+        "published": "3:21 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+        "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+        "published": "1:33 AM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "New Aaron Judge Rumors, Updated Injury Status for Yankees vs. Rays in 2026 MLB Playoffs - Bleacher Report",
+        "source": "Bleacher Report",
+        "url": "https://bleacherreport.com/articles/25505864-new-aaron-judge-rumors-updated-injury-status-yankees-vs-rays-2026-mlb-playoffs",
+        "description": "The New York Yankees will be without Aaron Judge for their ALDS matchup with the Tampa Bay Rays.",
+        "published": "2:37 PM UTC",
         "category": "General"
       },
       {
-        "title": "Jared Verse after beating Steelers: I don’t have respect for anybody who plays dirty - NBC Sports",
-        "source": "NBCSports.com",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-verse-after-beating-steelers-i-dont-have-respect-for-anybody-who-plays-dirty",
-        "description": "Browns defensive end Jared Verse picked up an unnecessary roughness flag in Thursday night's win over the Steelers, but he says it was Pittsburgh that played dirty.",
-        "published": "1:50 PM UTC",
+        "title": "Stop the Steel? Iowa approves $1.36 billion for foreign-owned steel plant in swing district less than 2 weeks before early voting - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/iowa-steel-plant-mesabi-metallics-essar-group/",
+        "description": "President Trump said Monday that the largest steel plant in U.S. history will be built in Iowa. It touched off a week of debate.",
+        "published": "12:26 PM UTC",
         "category": "General"
       },
       {
-        "title": "New Name of Paramount-Warner Bros. Unveiled: Skydance Corp. - Variety",
-        "source": "Variety",
-        "url": "https://variety.com/2026/film/news/name-of-paramount-warner-bros-unveiled-skydance-1236893761/",
-        "description": "The soon-to-merge Paramount-Warner Bros. Discovery officially has a name: It's simply going to be \"Skydance,\" according to chairman and CEO David Ellison.",
-        "published": "1:13 PM UTC",
+        "title": "Max Verstappen and Lewis Hamilton go viral after \"wholesome\" Sepang F1 moment - Motorsport.com",
+        "source": "Motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/max-verstappen-and-lewis-hamilton-go-viral-after-wholesome-sepang-f1-moment/10861457/",
+        "description": "A post-qualifying moment between Max Verstappen and Lewis Hamilton went viral after the pair secured the front row for the Bahrain GP in Malaysia",
+        "published": "12:00 PM UTC",
         "category": "General"
       }
     ]
@@ -259,18 +259,18 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are reportedly closing in on a deal for a dynamic box-to-box midfielder from the Bundesliga, with Thomas Partey's future at the club uncertain heading into the summer window. The Gunners are seeking a more durable and press-resistant profile to anchor Arteta's midfield in their Champions League push.",
+        "headline": "Arsenal in Advanced Talks for RB Leipzig Midfielder Xaver Schlager",
+        "summary": "Arsenal are reportedly in advanced discussions to sign Austrian international Xaver Schlager as Mikel Arteta seeks greater combativeness and pressing intensity in central midfield. Leipzig are said to value the player at around £45 million with the North London club exploring a structured payment deal.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Manchester United Target 25-Year-Old Striker as Højlund Partnership Option",
-        "summary": "Manchester United's new football structure under INEOS is evaluating a move for a proven Premier League-level striker to provide competition and depth alongside Rasmus Højlund, whose injury record has exposed a lack of backup. A loan-to-buy structure is reportedly being explored to manage FFP constraints.",
+        "headline": "Chelsea Open Dialogue with Napoli Over Victor Osimhen Loan Extension Terms",
+        "summary": "Chelsea and Napoli are in ongoing negotiations regarding the future of Victor Osimhen, with the Blues understood to be interested in converting his loan arrangement into a permanent deal ahead of the summer window. Napoli's asking price of approximately £70 million remains a sticking point for Chelsea's board.",
         "clubs": [
-          "Manchester United",
+          "Chelsea",
           "Napoli"
         ]
       }
@@ -278,8 +278,8 @@
     "match_preview": {
       "home": "Manchester City",
       "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The fixture of the season arrives at the Etihad as two title contenders separated by just two points at the top of the table square off in what could be a defining moment in the title race. City have rediscovered their relentless form under Guardiola after a mid-season wobble, winning six of their last seven, while Liverpool's high press and clinical finishing have made them the most feared attacking side in the division. The tactical battle between Guardiola's positional play and Slot's aggressive pressing structure promises to be one of the great managerial duels of the modern era.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's defining fixture of the season arrives with both sides level on points and separated only by goal difference at the top of the table, making this a genuine six-pointer with title implications. City will be buoyed by a run of four consecutive clean sheets and Erling Haaland's return to prolific form, while Liverpool under Arne Slot have developed a compact, transition-oriented system that has troubled top-six opposition throughout the campaign. Expect a tactically cautious opening with set-pieces and individual moments of quality likely to prove decisive at the Etihad.",
       "key_players": [
         "Erling Haaland",
         "Mohamed Salah",
@@ -288,79 +288,79 @@
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Assessed day-to-day; targeting return within 7–10 days"
-      },
-      {
         "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Expected to be assessed on matchday; 50-50 to feature against City"
+      },
+      {
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected back within 2–3 weeks; unlikely to feature Sunday"
+        "return": "Targeting return after the international break; ruled out of Sunday's fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 par value, and 5 years to maturity is priced at $1,054.17. If the yield to maturity increases by 50 basis points, which of the following best describes the expected price change, and what concept explains the asymmetry in price sensitivity?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank uses the Internal Ratings-Based (IRB) approach under Basel III to calculate regulatory capital for credit risk. Which of the following inputs is directly estimated by the bank itself under the Foundation IRB (F-IRB) approach, while the remaining inputs are prescribed by the regulator?",
       "options": {
-        "A": "The bond price will fall by more than it would rise for an equivalent decrease in yield, due to negative convexity.",
-        "B": "The bond price will fall by less than it would rise for an equivalent decrease in yield, due to positive convexity.",
-        "C": "The bond price will fall by exactly the same amount it would rise for an equivalent decrease in yield, as duration is symmetric.",
-        "D": "The bond price will fall by more than it would rise for an equivalent decrease in yield, due to positive convexity."
+        "A": "Loss Given Default (LGD)",
+        "B": "Probability of Default (PD)",
+        "C": "Exposure at Default (EAD)",
+        "D": "Effective Maturity (M)"
       },
       "correct": "B",
-      "explanation": "For a standard fixed-rate bond with no embedded options, convexity is positive, meaning the price-yield relationship is curved (convex) toward the origin. This implies that for equal changes in yield, price increases are larger than price decreases — the bond appreciates more when yields fall than it depreciates when yields rise by the same amount. Duration alone gives a linear approximation; convexity captures this beneficial asymmetry. Negative convexity is a property of callable bonds, not standard bullet bonds."
+      "explanation": "Under the Foundation IRB approach, banks estimate only the Probability of Default (PD) internally using their own historical data and models. The regulator (Basel Committee) prescribes supervisory values for LGD, EAD, and Maturity. Under the Advanced IRB (A-IRB) approach, banks may estimate all four components themselves, subject to regulatory approval. This distinction is a frequent exam test point because it highlights the tiered flexibility granted to banks depending on their risk management sophistication."
     },
     "finance_topic": {
-      "title": "Duration Mismatch and Interest Rate Risk",
-      "subtitle": "How misaligned asset and liability durations expose banks and pension funds to potentially catastrophic interest rate swings.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Why a theoretically perfect hedge can still leave a portfolio exposed to residual losses.",
       "paragraphs": [
-        "Duration mismatch occurs when the interest rate sensitivity of an institution's assets differs materially from that of its liabilities. Duration — measured in years — quantifies how much the present value of a cash flow stream changes for a given shift in interest rates. When assets have a longer duration than liabilities, rising rates will cause asset values to fall more sharply than liabilities, eroding the institution's net worth or economic capital. This is the fundamental mechanics behind asset-liability management (ALM), a discipline central to banking, insurance, and pension fund management.",
-        "The collapse of Silicon Valley Bank in March 2023 is a textbook example of duration mismatch in action. SVB had loaded its balance sheet with long-dated U.S. Treasuries and agency mortgage-backed securities — assets with durations often exceeding 5–7 years — while its deposits (liabilities) were largely short-term and repriced quickly. As the Federal Reserve hiked rates at the fastest pace in four decades, the mark-to-market value of SVB's held-to-maturity portfolio collapsed. When depositor confidence broke and a bank run ensued, the institution was forced to crystallize those unrealized losses, triggering insolvency. The episode reminded markets that duration risk is not academic — it is existential.",
-        "For investors and risk managers, the lesson is that duration mismatch must be actively monitored and hedged, particularly in environments of rate volatility. Tools such as interest rate swaps, Treasury futures, and swaptions allow institutions to adjust portfolio duration without selling underlying assets. Pension funds often pursue liability-driven investing (LDI) strategies, deliberately matching the duration of their bond portfolios to that of their projected benefit obligations. In the current environment — where central banks may keep rates 'higher for longer' — institutions with unhedged long-duration assets remain vulnerable to further repricing."
+        "Basis risk arises when the price of the instrument being hedged does not move in perfect lockstep with the price of the hedging instrument. Formally, basis is defined as the spot price of the asset minus the futures price of the contract used to hedge it. Even when a hedger selects the most correlated available instrument, differences in location, grade, maturity, or liquidity can cause the basis to fluctuate unpredictably, leaving a residual, unhedged exposure. This means that hedging eliminates price risk only to replace it with a — typically smaller but still real — basis risk.",
+        "A classic example occurred in 2022 when European natural gas traders used TTF futures to hedge exposures in regional markets. Extreme supply disruptions caused locational spreads to blow out dramatically, meaning hedges that looked highly correlated under normal conditions provided far less protection than anticipated. Similarly, airlines that hedge jet fuel using Brent crude futures routinely carry basis risk because jet fuel crack spreads are not perfectly correlated with the crude benchmark. These episodes illustrate that basis risk is not merely theoretical — it can translate into material mark-to-market losses during periods of market stress.",
+        "For risk managers and investors, quantifying basis risk is as important as the hedge itself. Common approaches include minimizing basis variance through the optimal hedge ratio (calculated as the correlation between spot and futures returns multiplied by the ratio of their standard deviations) and stress-testing the hedge under historically wide basis scenarios. Portfolios that ignore basis risk often report misleadingly low Value-at-Risk figures because standard models assume a stable relationship between the hedged item and hedging instrument — an assumption that tends to fail exactly when it matters most."
       ],
       "key_takeaways": [
-        "Duration mismatch arises when assets and liabilities have different sensitivities to interest rate changes, creating net worth risk when rates move.",
-        "The SVB collapse demonstrated that even 'safe' government securities can become systemic liabilities when held in a duration-mismatched portfolio during a rate hiking cycle.",
-        "Hedging tools including interest rate swaps, futures, and LDI strategies allow institutions to close duration gaps and manage rate exposure proactively."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedged asset and the hedging instrument.",
+        "The optimal hedge ratio minimizes basis variance by accounting for the correlation and relative volatility of the two price series.",
+        "Basis risk tends to widen sharply during market dislocations, meaning hedge effectiveness is lowest precisely when protection is most needed."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in a bank",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (ongoing action or habitual state)",
-      "grammar_explanation": "The pattern 〜ています (te-form of verb + います) expresses either an action currently in progress or a habit repeated over time. In this sentence, '貯金しています' conveys the habitual practice of saving money each month, not just a single action.",
-      "memory_tip": "Think of 'chokin' as 'choking' a coin — you're gripping it so tight you save it rather than spend it. 貯 means 'store/save' and 金 means 'money/gold', so it literally means 'stored gold'!"
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Imagine a piggy bank (YO-san sounds like 'your savings') that is completely empty — your budget is gone. The word combines 予 (advance/prior) and 算 (calculation), so literally 'a calculation made in advance.'"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Risk Models",
-      "summary": "Major financial institutions including JPMorgan, Upstart, and several European banks are deploying machine learning models that incorporate thousands of alternative data variables — including cash flow patterns, behavioral signals, and macroeconomic embeddings — to assess borrower creditworthiness far beyond what traditional FICO-based models capture. These systems are demonstrating lower default rates on approved loans while simultaneously expanding credit access to 'thin-file' borrowers historically excluded by legacy models. Regulators in the U.S. and EU are racing to develop explainability requirements, as black-box model outputs create fair lending compliance challenges. The tension between model performance and regulatory transparency is becoming one of the defining challenges in fintech and bank risk management.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Major Banks",
+      "summary": "Leading financial institutions including JPMorgan and HSBC are deploying large language models and gradient-boosted machine learning systems to augment traditional credit underwriting workflows. These systems can synthesize thousands of financial statement data points, alternative data signals (such as satellite imagery of retail foot traffic or web-scraped job posting trends), and macroeconomic indicators to generate probability-of-default estimates with greater granularity than scorecard-based models. The shift is reducing underwriting cycle times by up to 60% in pilot programs while simultaneously surfacing non-linear risk interactions that human analysts routinely miss. Regulators are responding with new model risk management guidelines specifically targeting AI/ML credit models, creating both compliance complexity and competitive opportunity.",
       "concepts": [
         {
           "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many decision trees sequentially, each correcting errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and non-linear relationships better than logistic regression while remaining partially interpretable."
-        },
-        {
-          "term": "Explainable AI (XAI) / SHAP Values",
-          "definition": "Methods that decompose a model's output to show how much each input variable contributed to a specific prediction — essential in finance for regulatory compliance, adverse action notices in lending, and auditing model decisions for bias or errors."
+          "definition": "An ensemble machine learning technique that builds a sequence of decision trees, each correcting the errors of the previous, widely used in credit scoring because it handles missing data, non-linear relationships, and mixed feature types without extensive preprocessing."
         },
         {
           "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as rent payment history, utility bills, bank transaction flows, and even app usage patterns — fed into AI credit models to build richer borrower profiles, particularly for individuals with limited credit histories."
+          "definition": "Non-traditional data sources — such as geolocation signals, social media sentiment, supply chain transaction flows, or web traffic — used to enrich credit and investment models beyond what conventional financial statements provide."
+        },
+        {
+          "term": "Model Risk Management (MRM)",
+          "definition": "The governance framework, mandated by regulators such as the Federal Reserve under SR 11-7, that requires banks to validate, monitor, and document AI/ML models to ensure they perform as intended and do not introduce undue risk or bias."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge statistical modeling skills with regulatory knowledge of model risk management (SR 11-7 in the U.S., EBA guidelines in Europe) are becoming exceptionally valuable. Proficiency in Python for data analysis, familiarity with SHAP-based model explainability, and understanding of fair lending law (ECOA, FCRA) are the skill tripod that will define the next generation of AI-era credit professionals."
+      "career_insight": "Risk professionals who combine domain expertise in credit analysis with fluency in Python-based ML frameworks and model validation methodology are becoming the most sought-after talent in wholesale banking. The ability to critically interrogate a model's assumptions — not just run it — is now a differentiating skill, as regulators increasingly hold human risk managers accountable for AI-driven decisions. Building familiarity with SHAP values for model explainability and SR 11-7 compliance requirements will position risk practitioners ahead of peers who treat AI as a black box."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as markets digest a resilient U.S. labor market print alongside softer-than-expected core PCE data, keeping alive hopes of a Fed rate cut in the second half of 2025 without triggering recession fears — a 'soft landing, delayed' narrative that is broadly supportive of credit spreads and equity multiples. Treasury yields remain range-bound in the 4.20–4.45% corridor on the 10-year, while the dollar index holds near recent highs, continuing to pressure EM FX and commodity prices denominated in USD. European equities are outperforming marginally on improved PMI data and ECB dovish signals, though geopolitical risk premiums tied to Middle East tensions and the Russia-Ukraine dynamic remain embedded in energy markets, with Brent crude holding above $85/bbl."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a resilient U.S. labor market print against a backdrop of cooling core PCE inflation, reinforcing the 'higher-for-longer-but-done-hiking' narrative that has anchored rates positioning since late 2024. Credit spreads in investment-grade have ground tighter, while high-yield continues to show selective weakness in commercial real estate-linked issuers, reflecting ongoing stress from refinancing walls at elevated rates. In FX, the dollar index is drifting lower on softer rate differentials as the ECB signals a more gradual easing path than previously priced, giving emerging-market carry trades a near-term tailwind — though geopolitical event risk in the Middle East and Taiwan Strait keeps tail-risk hedging demand elevated in options markets."
   }
 }
