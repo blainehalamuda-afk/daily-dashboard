@@ -1,37 +1,37 @@
 {
-  "generated_at": "5:31 PM UTC",
-  "date": "Tuesday, October 6, 2026",
+  "generated_at": "6:03 PM UTC",
+  "date": "Wednesday, October 7, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 71,
-    "feels_like_f": 71,
-    "high_f": 74,
-    "low_f": 69,
+    "temp_f": 75,
+    "feels_like_f": 75,
+    "high_f": 78,
+    "low_f": 73,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 61,
-    "wind_mph": 7,
+    "humidity": 55,
+    "wind_mph": 1,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 50,
-        "low": 50,
-        "description": "Clear Sky"
-      },
       {
         "day": "Thu",
         "icon": "☀️",
-        "high": 58,
-        "low": 58,
+        "high": 56,
+        "low": 56,
         "description": "Clear Sky"
       },
       {
         "day": "Fri",
         "icon": "☁️",
-        "high": 63,
-        "low": 63,
+        "high": 62,
+        "low": 62,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "☁️",
+        "high": 62,
+        "low": 62,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 779.62,
-        "change": 4.79,
-        "change_pct": 0.62,
-        "up": true,
+        "price": 777.09,
+        "change": -2.0,
+        "change_pct": -0.26,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 332.87,
-        "change": -0.02,
-        "change_pct": -0.01,
-        "up": false,
+        "price": 336.59,
+        "change": 2.96,
+        "change_pct": 0.89,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 239.82,
-        "change": 0.92,
-        "change_pct": 0.39,
-        "up": true,
+        "price": 236.86,
+        "change": -2.38,
+        "change_pct": -0.99,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 380.22,
-        "change": 1.49,
-        "change_pct": 0.39,
-        "up": true,
+        "price": 376.75,
+        "change": -3.93,
+        "change_pct": -1.03,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 85562.24,
-        "change": 213.27,
-        "change_pct": 0.25,
-        "up": true,
+        "price": 83306.22,
+        "change": -2505.81,
+        "change_pct": -2.92,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2695,
-        "change": -4.55,
-        "change_pct": -0.17,
+        "price": 2555.53,
+        "change": -146.95,
+        "change_pct": -5.44,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "US stocks are rising near their records, with the Nasdaq composite on track for an all-time high - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/stock-markets-jobs-fed-rates-inflation-f83cf147deaf5a2361b1ae7eee74a627",
-        "description": "U.S. stocks are rising near their records after a couple buyout announcements helped lift the market. The S&P 500 added 0.5% Monday and pulled within 0.5% of its all-time high, which was set during th",
-        "published": "4:08 PM UTC",
+        "title": "14+ deals actually worth shopping during the Walmart Deals event - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/select/shopping/walmart-oct-deal-days-2026-rcna601690",
+        "description": "Walmart Deals includes discounts on your favorite appliances, tech, home goods and more — here are the best deals to shop now.",
+        "published": "6:24 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Europe’s new robotics unicorn: Germany’s RobCo hits $1B valuation - Tech Funding News",
-        "source": "Techfundingnews.com",
-        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-        "description": "Munich-based RobCo has surpassed a $1 billion valuation through an employee secondary share sale, doubling its valuation in just nine months",
-        "published": "3:29 PM UTC",
+        "title": "Stock Market Today: S&P 500 Hits New Record High - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026",
+        "description": "",
+        "published": "6:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Hellblade studio Ninja Theory has started laying off staff, following Xbox’s announcement that it faces closure - Video Games Chronicle",
-        "source": "Video Games Chronicle",
-        "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/",
-        "description": "Two separate agreements with the studio \"fell through\", Microsoft said",
+        "title": "Some sugar-free Starbucks drinks have as much sugar as a Kit Kat bar, lawsuit says - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/starbucks-lawsuit-consumers-sue-sugar-free-protein-drinks-containing-s-rcna601823",
+        "description": "A consumer lawsuit is accusing Starbucks of adding sugar, sometimes as much as that in a Kit Kat bar, to drinks marketed as sugar free.",
         "published": "4:30 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Forza Horizon 6's Community Is Fed Up With Playground Games, and the Studio Has Finally Responded - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/forza-horizon-6s-community-is-fed-up-with-playground-games-and-the-studio-has-finally-responded",
+        "description": "Forza Horizon 6 developer Playground Games has finally addressed its player community after months of constructive feedback about the game has been met with nothing but radio silence from the renowned",
+        "published": "5:38 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Apple’s new M6 Mac Mini is over $100 off - The Verge",
+        "title": "Our first five impressions of Googlebooks — exciting but underbaked - The Verge",
         "source": "The Verge",
-        "url": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
-        "description": "For October Prime Day, the Apple Mac Mini with the M6 processor is over $100 off.",
-        "published": "3:08 PM UTC",
+        "url": "https://www.theverge.com/tech/1005745/google-googlebook-android-laptops-dell-acer-asus-lenovo-hp-impressions",
+        "description": "Googlebook first hands-on impressions: Google’s new laptop OS shows lots of promise if you own an Android phone and want a laptop to match. But there’s lots to improve.",
+        "published": "5:31 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Stages SB200 Indoor Smartbike In-Depth Review: Redemption? - DC Rainmaker",
-        "source": "DC Rainmaker",
-        "url": "https://www.dcrainmaker.com/2026/10/stages-bike-sb200-in-depth-review.html",
-        "description": "In this review I cover whether the SB200 is a worthwhile upgrade over the existing SB20, as well as everything you need to know from ride feel to accuracy.",
-        "published": "2:37 PM UTC",
+        "title": "We Found the 157 Best Live Prime Day Tech Deals From Apple, Dell, HP, Samsung, Sony, and More - PCMag",
+        "source": "PCMag.com",
+        "url": "https://www.pcmag.com/news/best-tech-deals-sales-prime-day-2026-day-1",
+        "description": "Amazon's Big Deal Days are in full swing, and we're tracking down the deepest discounts on our favorite products from Apple, Dell, Samsung, Sony, and many more.",
+        "published": "5:29 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Eagles’ offense sputters with 68 net passing yards, 0-12 on third down vs. Rams - NBC Sports",
-        "source": "NBCSports.com",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-offense-sputters-with-68-net-passing-yards-0-12-on-third-down-vs-rams",
-        "description": "The boo birds flew early and often in Philly on Sunday, thanks to an offense that couldn't get off the ground.",
-        "published": "4:07 PM UTC",
+        "title": "Warner Bros. Water Tower Already Repainted to Add ‘A Skydance Corporation’ After Merger Closes - Variety",
+        "source": "Variety",
+        "url": "https://variety.com/2026/film/news/warner-bros-water-tower-repainted-skydance-corporation-merger-1236902751/",
+        "description": "David Ellison wasted no time in adding the Skydance name to the iconic Warner Bros. water tower in Burbank.",
+        "published": "5:32 PM UTC",
         "category": "General"
       },
       {
-        "title": "David Ellison Unveils Skydance Team Who Will Run Paramount-Warner Bros. Empire - The Hollywood Reporter",
-        "source": "Hollywood Reporter",
-        "url": "http://www.hollywoodreporter.com/business/business-news/skydance-executive-team-set-david-ellison-deal-close-1236722100/",
-        "description": "The C-suite will be a mix of Warners insiders like Mark Thompson, Casey Bloys and JB Perrette along with Paramount film chiefs Dana Goldberg and Josh Greenstein and TV exec George Cheeks.",
-        "published": "3:47 PM UTC",
+        "title": "NFL Referees Association to challenge officials' suspensions - ESPN",
+        "source": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50117945/nfl-referees-association-challenge-officials-suspensions",
+        "description": "The NFL Referees Association said it will challenge the severity of the suspensions of two officials for unprofessional conduct.",
+        "published": "5:05 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Arcadia couple at center of surrogacy scandal have been arrested on multiple charges, Eyewitness News has learned - ABC7 Los Angeles",
+        "source": "KABC-TV",
+        "url": "https://abc7.com/post/arcadia-couple-center-surrogacy-scandal-have-been-arrested-multiple-charges-eyewitness-news-has-learned/19913898/",
+        "description": "Eyewitness News has learned Silvia Zhang and Gunjun Xuan, the Arcadia couple at the center of a surrogacy scandal, have been arrested on multiple charges.",
+        "published": "5:01 PM UTC",
         "category": "General"
       }
     ]
@@ -243,74 +259,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Eyeing January Move for Bundesliga Defensive Midfielder",
-        "summary": "Arsenal are reportedly scouting a holding midfielder from the Bundesliga to provide cover and competition following injury concerns in the center of the park. Talks are said to be at an early stage with a decision expected before the January window opens.",
+        "headline": "Chelsea Revive Interest in Athletic Club Midfielder Nico Williams",
+        "summary": "Chelsea's new sporting leadership is reportedly preparing a summer approach for Spain international Nico Williams, with a bid structure expected to test Athletic Club's release clause. The winger, who dazzled at Euro 2024, has suitors across Europe but Chelsea are believed to be offering a contract worth over £200,000 per week.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Chelsea",
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Key Midfielder's Contract",
-        "summary": "Chelsea are pushing to secure a long-term extension for one of their most consistent performers this season, amid reported interest from La Liga clubs. The club is keen to avoid a repeat of recent high-profile departures on free transfers.",
+        "headline": "Manchester United Target Lecce Striker Patrick Dorgu for Left-Back Role",
+        "summary": "United have identified the versatile Danish international Patrick Dorgu as their priority left-back target this summer, with Ruben Amorim keen to reinforce the position with a player capable of contributing in his 3-4-3 system. Lecce are expected to demand upwards of €35 million for the 20-year-old, who has drawn widespread interest after an impressive Serie A campaign.",
         "clubs": [
-          "Chelsea",
-          "Atletico Madrid"
+          "Manchester United",
+          "Lecce"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's most compelling rivalry resumes at the Etihad in what promises to be a pivotal fixture in the title race, with both sides separated by just two points heading into the weekend. City will look to impose their positional dominance at home, while Liverpool's lethal counter-attacking threat — the best transition numbers in the league this season — makes them dangerous on any surface. The midfield battle will be decisive, as both managers have shown tactical flexibility in recent weeks that adds a compelling layer of unpredictability to what is already the fixture of the season.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 3:00 PM BST",
+      "preview": "This fixture arrives at a pivotal moment in the title race, with Arsenal desperately needing three points to stay within touching distance of leaders Liverpool while City look to reignite their flagging campaign under Pep Guardiola. Arsenal have been formidable at the Emirates this season, losing just once in the league at home, but City's ability to control possession and suffocate pressing systems makes this an even contest. The tactical battle between Mikel Arteta's aggressive press and Guardiola's positional play promises to be one of the most absorbing encounters of the season.",
       "key_players": [
+        "Bukayo Saka",
         "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Expected to be assessed on the morning of the match; return timeline 1–2 weeks if not risked"
+        "status": "Recovering",
+        "return": "Expected back for pre-season 2025/26 after ACL surgery; this season is finished"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Targeting return after the international break; expected back within 3 weeks"
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Targeting return within 2-3 weeks following a hamstring strain sustained in training"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
       "exam": "CFA Level 2",
-      "topic": "Fixed Income – Interest Rate Risk & Duration",
-      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates rise by 150 basis points, which of the following best estimates the percentage price change of the bond?",
+      "topic": "Fixed Income — Term Structure & Interest Rate Risk",
+      "question": "A portfolio manager uses a two-factor term structure model where the first factor represents a parallel shift in the yield curve and the second factor represents a change in the slope. The manager holds a barbell portfolio of 2-year and 30-year bonds versus a bullet portfolio of 10-year bonds with equal durations. Which statement BEST describes the risk profile difference between the two portfolios?",
       "options": {
-        "A": "−10.80%",
-        "B": "−9.84%",
-        "C": "−10.80% + 0.96% = −9.84%",
-        "D": "−10.80% + 1.91% = −8.89%"
+        "A": "The barbell portfolio has greater convexity and higher exposure to slope factor changes than the bullet portfolio.",
+        "B": "The bullet portfolio has greater convexity but equal exposure to parallel shifts compared to the barbell portfolio.",
+        "C": "The barbell and bullet portfolios have identical risk profiles when key rate durations are matched at each maturity.",
+        "D": "The barbell portfolio has lower convexity and lower exposure to curvature changes than the bullet portfolio."
       },
-      "correct": "C",
-      "explanation": "The full price change approximation using both duration and convexity is: %ΔP ≈ (−Modified Duration × Δy) + (0.5 × Convexity × Δy²). The duration component is −7.2 × 0.015 = −10.80%. The convexity adjustment is 0.5 × 85 × (0.015)² = 0.5 × 85 × 0.000225 = +0.957% ≈ +0.96%. The net estimated price change is therefore −10.80% + 0.96% = −9.84%. Convexity always adds a positive adjustment for both rising and falling rates, making option C correct. Option D incorrectly doubles the convexity adjustment."
+      "correct": "A",
+      "explanation": "A barbell portfolio concentrates holdings at the short and long ends of the curve, producing higher convexity than a same-duration bullet portfolio — a mathematical property of spreading cash flows further from the duration point. Because it holds extreme maturities, the barbell is more sensitive to slope changes (the second factor), meaning a steepening or flattening of the curve will affect it more than a comparable bullet. This is precisely why portfolio managers choose barbells when they expect curve flattening and bullets when they expect steepening, even after matching overall duration."
     },
     "finance_topic": {
-      "title": "Basis Risk: The Hidden Cost of Hedging",
-      "subtitle": "Why imperfect hedges can leave risk managers with unexpected losses even after putting on a hedge.",
+      "title": "Basis Risk in Fixed Income Hedging",
+      "subtitle": "Why hedging with futures or swaps rarely eliminates all interest rate risk — and how professionals manage the gap.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. The 'basis' is simply the difference between the spot price of the asset being hedged and the futures or derivative price of the hedging instrument. Because no two assets are perfectly correlated, a hedge that looks airtight on paper can leave a residual, unhedged exposure that fluctuates over time — sometimes dramatically.",
-        "A classic real-world example emerged during the 2022 commodity shock, when airline fuel hedgers using crude oil futures found their jet fuel costs surging far more than their WTI futures hedges appreciated. The crack spread — the difference between crude oil and refined jet fuel prices — widened violently, meaning the basis blew out and hedgers were left materially exposed. Similarly, a fixed-income manager hedging a corporate bond portfolio with Treasury futures faces basis risk because credit spreads can widen even as Treasury yields fall, undermining the hedge's effectiveness.",
-        "For risk managers, quantifying and monitoring basis risk is as important as the hedge ratio itself. A high correlation between the hedging instrument and the exposure is necessary but not sufficient — correlation can break down precisely when markets are most stressed. Practitioners use minimum-variance hedge ratios, cross-hedging frameworks, and regular basis monitoring to manage this risk. Investors should demand transparency about basis risk in any fund or strategy that advertises itself as 'hedged,' as the label can mask meaningful residual exposures."
+        "Basis risk is the risk that the price relationship between a hedging instrument and the underlying exposure changes unexpectedly, leaving a residual, unhedged position. In fixed income, basis risk arises when a portfolio manager uses Treasury futures or interest rate swaps to hedge a corporate bond portfolio. Because the hedge instrument (e.g., a 10-year Treasury future) does not perfectly track the bond being hedged (e.g., a BBB-rated corporate), changes in credit spreads, liquidity premiums, or the cheapest-to-deliver bond can cause the hedge to over- or under-perform. The 'basis' is formally defined as the spot price of the hedged item minus the futures price of the hedging instrument.",
+        "During the March 2020 COVID-19 liquidity crisis, basis risk became a dominant concern as credit spreads on investment-grade corporates blew out by over 300 basis points while Treasury yields simultaneously fell. Portfolio managers who had hedged duration with Treasury futures saw the Treasury leg gain value but their corporate bonds fall far more than the hedge compensated — the classic 'flight-to-quality' basis blowout. Similarly, in the 2022 rate-hiking cycle, mortgage-backed securities exhibited severe negative convexity basis relative to Treasury benchmarks as prepayment speeds collapsed, creating significant tracking error for MBS-heavy portfolios hedged with vanilla rate instruments.",
+        "For risk managers and investors, basis risk demands that hedges be evaluated not just on notional duration match but on spread duration, sector correlation, and liquidity under stress. A hedge ratio built purely on DV01 matching ignores the possibility that corporate spreads and risk-free rates decouple — particularly in crisis environments. Sophisticated practitioners decompose risk into parallel shift, slope, curvature, and spread components, then hedge each factor separately. Monitoring the rolling basis and setting explicit threshold limits for basis drift is an essential part of any institutional fixed income risk framework."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is placed, caused by imperfect correlation between the hedging instrument and the underlying exposure.",
-        "Basis can widen sharply during market stress — the very moment hedges are most needed — making basis risk a systemic concern, not just a technicality.",
-        "The minimum-variance hedge ratio (h* = ρ × σS/σF) helps minimize — but never eliminates — basis risk in cross-hedging situations."
+        "Basis risk is the residual risk remaining after a hedge, arising from imperfect correlation between the hedging instrument and the underlying exposure.",
+        "Credit spread widening, liquidity crises, and convexity mismatches are the most common sources of basis blowouts in fixed income portfolios.",
+        "Effective hedging requires decomposing risk into multiple factors — not just duration — and actively monitoring the basis for unexpected drift."
       ]
     },
     "japanese": {
@@ -318,33 +334,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikiitte shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました is used to express that something happened completely, often with a nuance of regret or that it was unintentional. It combines the te-form of a verb with しまう (shimau), meaning 'to end up doing' something.",
-      "memory_tip": "Think of 'yo-san' as 'your SAN-ity when spending' — a budget is what keeps your financial sanity intact. Picture a calculator labeled 'YO, SAN!' reminding you to stop at three items."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality — something happened and it cannot be undone. It is formed by attaching しまいました to the て-form of a verb.",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you have budgeted for yourself. Visualize a neatly labelled envelope with 'YOUR SUM' written on it to lock in the meaning."
     },
     "ai_strategy": {
-      "headline": "AI Credit Scoring Models Are Quietly Replacing Traditional Underwriting Desks",
-      "summary": "Major lenders and fintech platforms are deploying gradient boosting and neural network models to assess borrower creditworthiness at a granularity that FICO scores cannot match, incorporating thousands of alternative data points including cash-flow patterns, behavioral signals, and even supply chain data for SME lending. Regulators are scrambling to keep pace, with the CFPB and Basel Committee both issuing guidance on model explainability and fair lending compliance for algorithmic underwriting. For finance professionals, the shift means credit risk is no longer solely a domain of judgment-based underwriting — it is increasingly a data engineering and model governance discipline. Firms that can marry credit expertise with ML model validation skills are gaining a measurable edge in both accuracy and speed of loan origination.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Institutional Lending Desks",
+      "summary": "Major banks and alternative lenders are deploying large language models and gradient-boosted ensemble models to augment — and in some cases replace — human credit analysts in the initial underwriting pipeline. These systems ingest unstructured data including earnings call transcripts, covenant documentation, supply chain filings, and news sentiment to generate real-time probability-of-default scores that update dynamically rather than on a quarterly review cycle. Regulators in the EU and US are beginning to scrutinize these models for explainability and fair lending compliance, creating a new tension between model performance and interpretability. The practical implication is that credit professionals who cannot read, challenge, and communicate model outputs will increasingly be at a disadvantage in hiring and promotion decisions.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last — widely used in credit scoring because it handles non-linear relationships and missing data better than traditional logistic regression."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, to produce highly accurate predictions — widely used in credit scoring because it handles mixed data types and missing values well without requiring data normalization."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) values decompose a model's prediction into the contribution of each input feature, allowing credit officers and regulators to understand why a borrower was approved or denied — critical for fair lending compliance."
+          "term": "Explainable AI (XAI) / SHAP Values",
+          "definition": "Methods that decompose a complex model's output into individual feature contributions, showing how much each input variable (e.g., debt-to-EBITDA, interest coverage) pushed the credit score up or down — critical for regulatory compliance and loan officer override decisions."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as rent payment history, bank transaction patterns, or e-commerce sales velocity — used to augment or replace credit bureau data, particularly valuable for underwriting thin-file or small business borrowers."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "An architecture where a language model queries a curated document database (e.g., credit agreements, SEC filings, internal memos) before generating an answer, dramatically reducing hallucinations and making AI-generated credit memos far more reliable for institutional use."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who upskill in model validation, Python-based data analysis, and regulatory frameworks for algorithmic lending (SR 11-7, ECOA adverse action) will be significantly more valuable than peers with only traditional underwriting experience. The most in-demand professionals in 2025 are those who can translate between quantitative model outputs and business/regulatory language — a hybrid role that pure data scientists and pure credit analysts struggle to fill alone."
+      "career_insight": "Credit and lending professionals who develop fluency in model validation — specifically the ability to stress-test assumptions, identify training data biases, and translate model outputs into credit committee language — are commanding a measurable premium in the job market. The most future-proof profile combines domain expertise in structured credit or leveraged finance with working knowledge of Python-based model diagnostics and an understanding of Basel and SR 11-7 model risk governance standards. Firms are not replacing analysts wholesale; they are shrinking the number of generalist analysts while increasing the leverage of those who can work effectively alongside AI systems."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautiously constructive as markets digest a resilient U.S. labor market print alongside cooling core PCE, keeping the Fed's 'higher for longer' narrative intact but removing the most hawkish tail risks from the rate path. Equity markets are finding support from better-than-feared earnings revisions in Technology and Industrials, though elevated Treasury term premium continues to cap multiple expansion, with the 10-year real yield hovering near cycle highs. EM currencies and credit spreads are the canary in the coal mine — any renewed USD strength driven by macro data surprises could rapidly reprice risk assets that have been leaning on a soft-landing consensus."
+    "market_sentiment": "Risk assets are navigating a complex macro crosscurrent as markets reprice the 'higher-for-longer' rate narrative against softening US labor data that has reignited modest Fed cut expectations for late 2025. The dollar index has pulled back from recent highs, providing a tailwind for EM local currency debt and commodities, while equity vol remains surprisingly compressed given the uncertainty around tariff policy and Q2 earnings guidance. Credit spreads in investment-grade are near cycle tights, suggesting markets are pricing a soft landing with high conviction — a complacency that fixed income strategists at several major houses are flagging as a key asymmetric risk into H2."
   }
 }
