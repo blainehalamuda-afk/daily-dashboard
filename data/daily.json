@@ -1,38 +1,38 @@
 {
-  "generated_at": "5:39 PM UTC",
-  "date": "Friday, October 9, 2026",
+  "generated_at": "4:30 PM UTC",
+  "date": "Saturday, October 10, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 75,
-    "feels_like_f": 74,
-    "high_f": 77,
-    "low_f": 73,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 44,
-    "wind_mph": 11,
+    "temp_f": 61,
+    "feels_like_f": 62,
+    "high_f": 63,
+    "low_f": 60,
+    "description": "Light Rain",
+    "icon": "🌧️",
+    "humidity": 95,
+    "wind_mph": 14,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "🌧️",
-        "high": 57,
-        "low": 57,
-        "description": "Light Rain"
-      },
       {
         "day": "Sun",
         "icon": "🌧️",
-        "high": 71,
-        "low": 71,
+        "high": 65,
+        "low": 65,
         "description": "Light Rain"
       },
       {
         "day": "Mon",
         "icon": "🌤️",
-        "high": 64,
-        "low": 64,
+        "high": 63,
+        "low": 63,
         "description": "Few Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "high": 58,
+        "low": 58,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 778.08,
-        "change": 4.15,
-        "change_pct": 0.54,
+        "price": 778.57,
+        "change": 4.64,
+        "change_pct": 0.6,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 335.3,
-        "change": -5.12,
-        "change_pct": -1.5,
+        "price": 336.64,
+        "change": -3.78,
+        "change_pct": -1.11,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 229.56,
-        "change": -0.92,
-        "change_pct": -0.4,
+        "price": 229.28,
+        "change": -1.2,
+        "change_pct": -0.52,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 382.72,
-        "change": 7.72,
-        "change_pct": 2.06,
+        "price": 382.7,
+        "change": 7.7,
+        "change_pct": 2.05,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 82697.27,
-        "change": 1877.28,
-        "change_pct": 2.32,
+        "price": 83007.92,
+        "change": 276.63,
+        "change_pct": 0.33,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2486.59,
-        "change": 65.67,
-        "change_pct": 2.71,
+        "price": 2505.41,
+        "change": 14.65,
+        "change_pct": 0.59,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/10/08/trumps-foreign-worker-crackdown-comes-for-microsoft-adobe-it-firms",
-        "description": "The White House is cracking down on a major route to permanent residency.",
-        "published": "3:46 PM UTC",
+        "title": "Trucking industry hit by string of bankruptcy filings as diesel costs surge - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/lifestyle/trucking-industry-hit-string-bankruptcy-filings-diesel-costs-surge",
+        "description": "At least eight transportation-related companies sought Chapter 11 protection in September as the trucking industry grapples with higher fuel costs.",
+        "published": "1:49 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Chipotle Jumps on Report Starbucks Has Explored Takeover - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-08/chipotle-jumps-after-report-that-starbucks-has-explored-takeover",
-        "description": "Chipotle Mexican Grill Inc. shares jumped after the Financial Times reported that Starbucks Corp. has worked with advisers in recent months on a takeover proposal for the burrito chain.",
-        "published": "2:15 PM UTC",
+        "title": "Student loan forgiveness is a ticking tax bomb again, study warns - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/10/09/student-loan-cancellation-forgiveness-taxes/92133480007/",
+        "description": "A tax exemption for student loan forgiveness expired, meaning borrowers could face a big, surprise bill from the IRS.",
+        "published": "12:56 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Palantir Stock Has a Secret Weapon in the AI Boom, Goldman Sachs Says - Barron's",
-        "source": "Barron's",
-        "url": "https://www.barrons.com/articles/palantir-stock-price-upgrade-goldman-ab22d7cb",
-        "description": "Goldman Sachs upgrades Palantir Technologies stock to Buy from Neutral, citing an explosion of demand for sovereign and bespoke AI.",
-        "published": "2:10 PM UTC",
+        "title": "OpenAI fires 3 safety researchers in dispute over AI risks - ABC News - Breaking News, Latest News and Videos",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Technology/wireStory/openai-fires-3-safety-researchers-dispute-ai-risks-137123277",
+        "description": "OpenAI has fired three safety researchers for a \"breach of trust,\" defending the decision after the trio accused the company of prioritizing corporate interests over safety",
+        "published": "12:38 PM UTC",
         "category": "Business"
       },
       {
-        "title": "These US states just said ‘no’ to Apple Wallet driver’s licenses - 9to5Mac",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/10/08/these-us-states-just-said-no-to-apple-wallet-drivers-licenses/",
-        "description": "Apple Wallet driver’s licenses keeps expanding to more US states, but two states recently indicated they won’t launch support anytime soon.",
-        "published": "3:21 PM UTC",
+        "title": "A week with Googlebooks: four notes from our testing so far - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
+        "description": "We’ve been testing Googlebook laptops from Dell, Lenovo, Asus, Acer, and HP all week — all five launch offerings — and we already have many thoughts about Google’s new operating system.",
+        "published": "1:36 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Free Play Days – ARC Raiders, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Little Nightmares III, Screamer, and More - XBOX Wire",
-        "source": "Xbox.com",
-        "url": "https://news.xbox.com/en-us/2026/10/08/free-play-days-10-08-2026/",
-        "description": "Xbox Game Pass Ultimate, Premium, and Essential members can enjoy Subnautica this weekend, while Project Motor Racing, One Piece: Pirate Warriors 4, and Graveyard Keeper are free for all Xbox users. D",
-        "published": "3:04 PM UTC",
+        "title": "Pokémon TCG's Delta Reign Expansion Is Finally Up For Preorder at Amazon and Target - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/pokemon-tcg-delta-reign-amazon-preorders",
+        "description": "Pokémon TCG Delta Reign preorders are now live at Amazon and Target, including Booster Bundles below market price, Elite Trainer Boxes, and 36-pack Display Boxes.",
+        "published": "11:16 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Physical Sales Of Wolverine Estimated To Be Surprisingly High For A Company That's About To Ditch Discs - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/physical-sales-of-wolverine-estimated-to-be-surprisingly-high-for-a-company-thats-about-to-ditch-discs-2000742653",
-        "description": "What would it take for Sony to walk the controversial move back?",
-        "published": "3:00 PM UTC",
+        "title": "COVID is back, but it’s not what it used to be - The Boston Globe",
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/10/09/metro/covid-massachusetts-variants-flu-pandemic-vaccine/",
+        "description": "Emergency room visits, hospitalizations, and deaths remain at record lows.",
+        "published": "10:33 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq decline as tech stocks struggle and oil prices jump on threat of war resuming in Iran - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-brent-crude-attack-tanker-off-qatar",
-        "description": "The U.S stock market was under pressure Thursday, as investors monitored tensions in the Middle East and tech stocks struggled. The 2-year Treasury yield was rising as oil prices climbed and investors",
-        "published": "4:38 PM UTC",
+        "title": "Labour fends off the Green party in closely watched UK by-election - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election",
+        "description": "Sagal Abdi-Wali won by 3,300 votes in the London seat of Holborn and St Pancras.",
+        "published": "2:08 PM UTC",
         "category": "General"
       },
       {
-        "title": "Ithaca council passes moratorium on new Cornell events permits, calls for city police to handle sexual violence cases - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/ithaca-council-moratorium-new-cornell-events-permits/",
-        "description": "The mayor proposed the moratorium on campus events in the wake of a civil lawsuit filed last month​ by a former Cornell student who alleged she was drugged and gang-raped in 2024.",
-        "published": "4:28 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/nobel-prize-literature-sweden-swedish-academy-05a268ffc76827d273f9d986c5a5a65e",
-        "description": "Anne Carson, a Canadian poet and essayist, has won the Nobel Prize in literature. The Toronto-born Carson draws on themes from classical Greek and Roman literature, modern influences and personal expe",
-        "published": "4:28 PM UTC",
+        "title": "Brian Schottenheimer considers staff changes after Cowboys' loss, Jerry Jones responds to embarrassing loss - CBS Sports",
+        "source": "CBS Sports",
+        "url": "https://www.cbssports.com/nfl/news/cowboys-brian-schottenheimer-considers-staff-changes-jerry-jones/",
+        "description": "What the Dallas coach and owner both said after Thursday night's humiliating home loss to a previously winless team",
+        "published": "1:34 PM UTC",
         "category": "General"
       }
     ]
@@ -190,9 +182,9 @@
       {
         "home": "Arsenal",
         "away": "Leeds United",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "11:30 AM UTC",
         "date": "Oct 10",
         "highlighted": false
@@ -200,9 +192,9 @@
       {
         "home": "Sunderland",
         "away": "Brighton Hove",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 10",
         "highlighted": false
@@ -210,9 +202,9 @@
       {
         "home": "Chelsea",
         "away": "Bournemouth",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 5,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 10",
         "highlighted": false
@@ -220,9 +212,9 @@
       {
         "home": "Ipswich Town",
         "away": "Fulham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 10",
         "highlighted": false
@@ -230,9 +222,9 @@
       {
         "home": "Aston Villa",
         "away": "Brentford",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 10",
         "highlighted": false
@@ -245,6 +237,36 @@
         "status": "TIMED",
         "time": "4:30 PM UTC",
         "date": "Oct 10",
+        "highlighted": false
+      },
+      {
+        "home": "Hull City",
+        "away": "Everton",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Oct 11",
+        "highlighted": false
+      },
+      {
+        "home": "Crystal Palace",
+        "away": "Nottingham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Oct 11",
+        "highlighted": false
+      },
+      {
+        "home": "Liverpool",
+        "away": "Man City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:30 PM UTC",
+        "date": "Oct 11",
         "highlighted": false
       }
     ],
@@ -263,54 +285,54 @@
       {
         "position": 2,
         "team": "Arsenal",
-        "played": 5,
-        "won": 4,
+        "played": 6,
+        "won": 5,
         "drawn": 0,
         "lost": 1,
-        "gd": 4,
-        "points": 12,
+        "gd": 5,
+        "points": 15,
         "highlighted": false
       },
       {
         "position": 3,
         "team": "Brighton Hove",
-        "played": 5,
-        "won": 3,
+        "played": 6,
+        "won": 4,
         "drawn": 1,
         "lost": 1,
-        "gd": 11,
-        "points": 10,
+        "gd": 13,
+        "points": 13,
         "highlighted": false
       },
       {
         "position": 4,
         "team": "Brentford",
-        "played": 5,
+        "played": 6,
         "won": 2,
-        "drawn": 3,
+        "drawn": 4,
         "lost": 0,
         "gd": 6,
-        "points": 9,
+        "points": 10,
         "highlighted": false
       },
       {
         "position": 5,
-        "team": "Leeds United",
-        "played": 5,
-        "won": 2,
-        "drawn": 3,
-        "lost": 0,
-        "gd": 4,
-        "points": 9,
+        "team": "Chelsea",
+        "played": 6,
+        "won": 3,
+        "drawn": 1,
+        "lost": 2,
+        "gd": 2,
+        "points": 10,
         "highlighted": false
       },
       {
         "position": 6,
-        "team": "Liverpool",
-        "played": 5,
+        "team": "Leeds United",
+        "played": 6,
         "won": 2,
         "drawn": 3,
-        "lost": 0,
+        "lost": 1,
         "gd": 3,
         "points": 9,
         "highlighted": false
@@ -320,108 +342,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Ramp Up Interest in Bundesliga Midfielder Ahead of Summer Window",
-        "summary": "Arsenal are reported to be leading the chase for a dynamic box-to-box midfielder currently starring in the Bundesliga, with the Gunners looking to add depth and physicality to their engine room following a title-race shortfall this season. A bid in the region of £55–65 million is understood to be under consideration.",
+        "headline": "Manchester United Target Sporting CP Midfielder Viktor Gyokeres in Ambitious Summer Move",
+        "summary": "Manchester United are reportedly monitoring Viktor Gyokeres as a potential marquee summer signing, with the Swedish striker's prolific form in Portugal drawing interest from several top European clubs. United's football director is said to have attended recent Sporting fixtures as part of an initial scouting assessment.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Manchester United",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Hold Talks Over Signing Proven Premier League Striker on Permanent Deal",
-        "summary": "Chelsea are in advanced discussions to sign a striker who impressed on loan this season, with the west London club keen to secure a permanent deal before rival clubs enter the market. Personal terms are believed to be agreed in principle, with the transfer fee the remaining sticking point between the two clubs.",
+        "headline": "Chelsea in Advanced Talks to Sign Ligue 1 Left-Back on Long-Term Deal",
+        "summary": "Chelsea are understood to be in advanced negotiations with a Ligue 1 club over a left-back who has been one of the standout defenders in France this season, as the club looks to address a persistent weakness in their defensive depth. Personal terms are believed to be close to agreement with a move potentially completed before the end of the window.",
         "clubs": [
           "Chelsea",
-          "Brighton & Hove Albion"
+          "Monaco"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM BST",
-      "preview": "The Premier League's defining rivalry takes centre stage on Sunday in a match that could have significant implications for the final-day title picture, with both sides desperate for three points after dropping unexpected results midweek. City will lean on their supreme home record at the Etihad — unbeaten in their last 14 league matches there — while Liverpool's relentless pressing system has terrorised defences on the road and makes this an irresistible tactical contest. The subplot of a legendary managerial era drawing to a close adds enormous emotional weight to what promises to be a captivating afternoon.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Emirates hosts one of the Premier League's most anticipated fixtures of the season as Arsenal welcome Manchester City in a top-of-the-table clash that could prove pivotal in the title race. Arsenal have been in formidable home form, losing just once at the Emirates all season, while City arrive having won four consecutive league matches and looking increasingly ominous under Guardiola's refined pressing system. The tactical battle between Arteta's high defensive line and Haaland's relentless movement will be the central storyline, with both managers likely to make subtle positional adjustments to exploit the opponent's structure.",
       "key_players": [
+        "Bukayo Saka",
         "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
+        "Martin Odegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
         "status": "Doubtful",
-        "return": "Being assessed day-to-day; fitness test expected Saturday morning"
+        "return": "Assessed day-to-day; potential return within 1-2 weeks"
       },
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected to return to full training next week; Sunday comes too soon"
+        "return": "Expected back within 3 weeks following hamstring management"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
+      "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A bank estimates the following for a corporate loan portfolio: Probability of Default (PD) = 2.5%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $80 million. The bank also estimates the unexpected loss (UL) using an asset correlation of 12% and a confidence level implying a conditional PD of 8.1%. Which of the following BEST represents the economic capital the bank must hold to cover unexpected losses?",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model. The model estimates a 1-year 99% Credit VaR of $45 million. Which of the following is the most significant limitation of relying on this model for tail risk estimation during a financial crisis?",
       "options": {
-        "A": "$0.90 million",
-        "B": "$2.92 million",
-        "C": "$1.80 million",
-        "D": "$3.60 million"
+        "A": "The Gaussian copula underestimates individual obligor default probabilities during normal market conditions.",
+        "B": "The Gaussian copula assumes linear correlations and fails to capture tail dependence, causing it to underestimate joint defaults in stress scenarios.",
+        "C": "The Gaussian copula cannot incorporate recovery rate assumptions, making loss-given-default estimates unreliable.",
+        "D": "The Gaussian copula overstates diversification benefits only when the portfolio contains investment-grade obligors."
       },
       "correct": "B",
-      "explanation": "Expected Loss (EL) = PD × LGD × EAD = 0.025 × 0.45 × $80M = $0.90M. Unexpected Loss, which forms the basis for economic capital, is driven by the difference between the stressed conditional PD and the average PD: UL = (Conditional PD – PD) × LGD × EAD = (0.081 – 0.025) × 0.45 × $80M = 0.056 × 0.45 × $80M ≈ $2.016M. The closest answer reflecting this framework and typical rounding conventions in Basel-style capital calculations is $2.92M, which accounts for the full unexpected loss buffer. Economic capital covers the UL, not the EL, since EL is priced into loan spreads and provisioned for through reserves."
+      "explanation": "The Gaussian copula is widely criticized because it uses linear (Pearson) correlation to model dependence, which implies zero tail dependence — meaning it assigns near-zero probability to multiple simultaneous extreme defaults. In reality, during financial crises, asset correlations spike dramatically in the tails, leading to clustered defaults that the model systematically underestimates. This was a central flaw exposed during the 2008 subprime mortgage crisis. Alternative copulas such as the Clayton or Student-t copula better capture asymmetric and fat-tailed dependence structures relevant to credit portfolios."
     },
     "finance_topic": {
-      "title": "Basis Risk and the Limits of Hedging",
-      "subtitle": "Why a hedge is rarely a perfect offset — and how basis risk can turn a risk management tool into a source of unexpected loss.",
+      "title": "Basis Risk in Fixed Income Hedging",
+      "subtitle": "Why hedging a bond position doesn't always eliminate risk — and how the gap between hedge and exposure can itself become a source of loss.",
       "paragraphs": [
-        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the exposure being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Even when a hedger selects an instrument that closely tracks their underlying exposure, differences in contract specifications, delivery location, credit quality, or tenor mean that the hedge will almost never produce a zero net profit-and-loss outcome. This residual risk — basis risk — is the price paid for the practical imperfections of real-world hedging.",
-        "A classic example is an airline hedging jet fuel costs using crude oil futures. Jet fuel and crude oil prices are highly correlated, but the spread between them — the 'crack spread' — can widen dramatically during refinery disruptions or periods of unusual demand. An airline that locked in crude oil prices via futures might still face surging jet fuel bills if crack spreads blow out. Similarly, a fixed-income portfolio manager hedging a corporate bond position with Treasury futures faces basis risk because credit spreads can widen independently of rate moves, leaving the hedge partially ineffective precisely during stress periods.",
-        "For risk managers, understanding and quantifying basis risk is critical to evaluating hedge effectiveness under both IFRS 9 and ASC 815 accounting frameworks, which require retrospective and prospective hedge effectiveness testing. A hedge ratio below 80% effectiveness may disqualify the arrangement for hedge accounting, forcing mark-to-market volatility through the P&L. Practitioners use regression-based minimum variance hedge ratios to minimize basis risk, but they must revisit these ratios periodically as correlations are not static — especially around risk-off events when cross-asset correlations tend to shift sharply."
+        "Basis risk arises when the instrument used to hedge a position does not move in perfect lockstep with the underlying exposure being hedged. In fixed income markets, this occurs when a portfolio manager hedges a corporate bond position using Treasury futures or interest rate swaps. Because corporate bonds carry credit spread risk in addition to duration risk, a pure interest rate hedge leaves the portfolio exposed to movements in the credit spread — the 'basis' between the corporate yield and the risk-free rate. Even if rates are perfectly hedged, a widening of credit spreads can produce substantial mark-to-market losses.",
+        "A practical example emerged prominently in 2022 when many liability-driven investment (LDI) funds in the UK used long-duration gilt derivatives to hedge pension liabilities. When UK gilt yields spiked rapidly following the Kwarteng mini-budget, the basis between actual gilt yields and the derivative positions moved unexpectedly, triggering massive margin calls. The funds were technically hedged against liability duration risk, yet the liquidity mismatch and basis movements created a near-systemic event requiring Bank of England intervention. This episode illustrated that basis risk can be especially dangerous when leverage is embedded in the hedging strategy.",
+        "For risk managers and portfolio managers, basis risk demands careful attention to hedge ratio construction and ongoing monitoring. A hedge that is well-calibrated at inception can deteriorate as market regimes shift, correlations break down, or liquidity in the hedging instrument diverges from the underlying. Practitioners often use regression-based hedge ratios or DV01-matching techniques, but stress-testing the hedge under scenario analysis — particularly in credit spread widening and liquidity shock scenarios — is essential. Accepting some residual basis risk is often rational; eliminating it entirely can be prohibitively expensive or operationally impractical."
       ],
       "key_takeaways": [
-        "Basis risk is the irreducible residual risk remaining after a hedge is placed, arising from imperfect correlation between the hedged item and the hedging instrument.",
-        "Commodity, fixed income, and FX hedges all carry distinct forms of basis risk — crack spreads, credit-rate divergence, and cross-currency basis respectively.",
-        "Hedge effectiveness testing under IFRS 9 and ASC 815 requires ongoing monitoring; a deteriorating basis can both increase economic losses and trigger adverse accounting treatment."
+        "Basis risk is the residual risk remaining after hedging, arising from imperfect correlation between the hedge instrument and the underlying exposure.",
+        "In fixed income, interest rate hedges leave credit spread risk unhedged — and vice versa — making multi-dimensional risk assessment essential.",
+        "Stress testing hedge effectiveness under tail scenarios, including liquidity stress, is as important as constructing the initial hedge ratio."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
       "example_jp": "今月の予算をもう使い切ってしまいました。",
       "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or the finality of an unintended outcome. It combines the te-form of a verb with しまいました, and is very commonly used when something unfortunate or irreversible has occurred.",
-      "memory_tip": "Think of 予算 (yosan) as 'yo, son — what's the budget?' — a dad checking the family finances. The 予 character means 'in advance' and 算 means 'calculate,' so it literally means 'pre-calculated amount,' which is exactly what a budget is."
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or that something happened unintentionally or to an undesirable degree. It is the polite past form of 〜てしまう.",
+      "memory_tip": "Think of 予算 (yosan) as 'your sum' — the total sum of money you have planned for yourself. If you blow past it, you say 'shimaimashita' with a sigh of regret!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Autonomously Execute Multi-Step Financial Workflows",
-      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and sequential decision-making without human intervention at each step — is moving from research labs into early production deployments at financial institutions. Unlike chatbots that answer discrete questions, these agents can autonomously chain together tasks such as pulling market data, running risk models, generating compliance summaries, and drafting trade rationales. Major asset managers and investment banks are piloting these systems for tasks ranging from earnings call analysis pipelines to automated regulatory reporting. The transition represents a qualitative shift from AI as a lookup tool to AI as a workflow participant, raising important questions about auditability, model governance, and the evolving role of junior analysts.",
+      "headline": "AI Agents Are Beginning to Execute Trades Autonomously in Live Markets",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and multi-step reasoning without human intervention at each step — is moving from research labs into production environments at hedge funds and proprietary trading firms. Unlike earlier algorithmic trading systems that executed predefined rules, these agents can interpret unstructured data (earnings calls, regulatory filings, macro news), form a view, size a position, and execute — all within a closed loop. Firms like Citadel, Two Sigma, and several quant-focused startups are actively investing in reinforcement learning-based agents trained on market microstructure data. The regulatory and risk management implications are significant, as traditional model validation frameworks were not designed to audit agents that learn and adapt in deployment.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously pursue multi-step goals by planning sequences of actions, calling external tools (APIs, databases, calculators), and adjusting their approach based on intermediate results — without requiring human prompting at each step."
+          "definition": "AI systems that can autonomously break down complex goals into sub-tasks, use external tools (APIs, databases, trading systems), and iterate toward an objective without requiring a human prompt at each step — relevant to automated research generation and trade execution workflows."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically fetches relevant external documents or data — such as filings, market data, or internal research — before generating a response, grounding outputs in up-to-date factual sources rather than relying solely on training data."
+          "term": "Reinforcement Learning from Market Feedback (RLMF)",
+          "definition": "A training paradigm where an AI agent learns optimal trading or portfolio allocation strategies by receiving reward signals based on realized PnL, Sharpe ratio, or drawdown metrics — allowing the model to adapt to evolving market regimes."
         },
         {
-          "term": "Model Governance",
-          "definition": "The framework of policies, documentation, validation procedures, and human oversight mechanisms that financial institutions use to ensure AI models are accurate, fair, explainable, and compliant with regulatory standards such as SR 11-7."
+          "term": "Model Explainability (XAI) in Finance",
+          "definition": "Techniques that allow risk managers and regulators to understand why an AI model made a specific decision — critical for compliance, model risk management (SR 11-7), and internal audit of AI-driven investment strategies."
         }
       ],
-      "career_insight": "As agentic AI systems absorb routine analytical workflows — data gathering, first-draft report writing, scenario modeling — the competitive advantage for finance professionals will shift decisively toward judgment-intensive skills: structuring the right problem, critically evaluating AI-generated outputs, and communicating nuanced recommendations to stakeholders. Professionals who understand how to design, prompt, evaluate, and govern AI systems will command a structural premium, while those who treat AI purely as an end-user tool risk displacement. Building fluency in both the technical underpinnings (RAG, fine-tuning, evaluation metrics) and the regulatory landscape (model risk management, explainability requirements) is the highest-ROI professional development investment available to finance practitioners today."
+      "career_insight": "Finance professionals who understand both the technical architecture of AI agents and the regulatory environment governing algorithmic trading will command a significant premium in the next hiring cycle. Roles blending quantitative finance, model risk management, and AI governance are emerging as among the fastest-growing in asset management and investment banking. Building fluency in Python, familiarity with LLM APIs, and an understanding of model validation frameworks will differentiate candidates regardless of their primary domain — whether credit, rates, or equity."
     },
     "error": false,
-    "market_sentiment": "Risk appetite is cautiously constructive this morning as markets digest a softer-than-expected U.S. core PCE print that has reinvigorated expectations for a Fed rate cut in the back half of the year, pushing 2-year Treasury yields about 8bps lower on the session. Equity futures are bid modestly, with rate-sensitive sectors — utilities and real estate — outperforming, though geopolitical noise in the Middle East and renewed USD strength are capping upside in EM assets and keeping gold elevated above $2,300/oz. Credit spreads remain anchored near cycle tights, but our desk is watching leveraged loan technicals closely as CLO formation activity shows early signs of softening — a canary worth monitoring given the amount of private credit supply queued for refinancing in H2."
+    "market_sentiment": "Equity markets are navigating a cautious tone this week as investors parse mixed signals from Fed speakers — markets are pricing roughly 40bps of cuts by year-end, but sticky services inflation and resilient labor data continue to push back against aggressive easing expectations. The USD has firmed modestly on the repricing of rate differentials, adding pressure to EM local currency debt, while credit spreads in high yield have widened slightly from recent tights as earnings season reveals pockets of margin compression in consumer discretionary. Oil remains the key geopolitical wildcard; Brent hovering near $87/bbl is feeding through to headline CPI expectations and keeping real yield vol elevated — overall, risk appetite is constructive but tactically guarded ahead of next week's CPI print."
   }
 }
