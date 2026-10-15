@@ -1,38 +1,38 @@
 {
-  "generated_at": "4:05 PM UTC",
-  "date": "Wednesday, October 14, 2026",
+  "generated_at": "3:53 PM UTC",
+  "date": "Thursday, October 15, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 82,
-    "feels_like_f": 85,
-    "high_f": 85,
+    "temp_f": 81,
+    "feels_like_f": 84,
+    "high_f": 84,
     "low_f": 79,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 59,
-    "wind_mph": 1,
+    "humidity": 63,
+    "wind_mph": 5,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "⛅",
-        "high": 61,
-        "low": 61,
-        "description": "Scattered Clouds"
-      },
       {
         "day": "Fri",
         "icon": "☀️",
-        "high": 64,
-        "low": 64,
+        "high": 63,
+        "low": 63,
         "description": "Clear Sky"
       },
       {
         "day": "Sat",
-        "icon": "☁️",
-        "high": 58,
-        "low": 58,
-        "description": "Overcast Clouds"
+        "icon": "🌤️",
+        "high": 57,
+        "low": 57,
+        "description": "Few Clouds"
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "high": 45,
+        "low": 45,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 770.6,
-        "change": -7.41,
-        "change_pct": -0.95,
-        "up": false,
+        "price": 770.14,
+        "change": 0.54,
+        "change_pct": 0.07,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 344.48,
-        "change": 3.21,
-        "change_pct": 0.94,
+        "price": 343.49,
+        "change": 0.53,
+        "change_pct": 0.15,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 222.54,
-        "change": -5.98,
-        "change_pct": -2.62,
+        "price": 217.43,
+        "change": -3.87,
+        "change_pct": -1.75,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 365.74,
-        "change": -9.49,
-        "change_pct": -2.53,
+        "price": 362.28,
+        "change": -4.88,
+        "change_pct": -1.33,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 81732.11,
-        "change": -1751.9,
-        "change_pct": -2.1,
-        "up": false,
+        "price": 82404.01,
+        "change": 689.31,
+        "change_pct": 0.84,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2435.48,
-        "change": -84.08,
-        "change_pct": -3.34,
-        "up": false,
+        "price": 2440.2,
+        "change": 7.2,
+        "change_pct": 0.3,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow falls 170 points despite strong Goldman Sachs earnings; chip selloff deepens - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-wall-street-bank-earnings-south-korea-kospi-index",
-        "description": "U.S. stocks are lower on Tuesday as JPMorgan, Goldman Sachs, Wells Fargo and Citigroup report financial results, while tech names are under pressure amid chip selloff.",
-        "published": "4:38 PM UTC",
+        "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges - Reuters",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5",
+        "description": "",
+        "published": "3:49 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Bank earnings takeaways: Here's how JPMorgan, Goldman, Wells Fargo and Citi performed in Q3 - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
-        "description": "JPMorgan, Wells Fargo, Goldman Sachs and Citigroup reported third-quarter earnings on Tuesday, with mixed results.",
-        "published": "4:32 PM UTC",
+        "title": "Inflation jumps to 3.7% as gas and diesel prices squeeze consumers ahead of the midterms - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202",
+        "description": "Prices rose across broad swaths of the economy in September, as high energy costs triggered by the Iran war pushed up costs in many major consumer categories.",
+        "published": "3:47 PM UTC",
         "category": "Business"
       },
       {
-        "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-        "description": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6…",
-        "published": "3:33 PM UTC",
-        "category": "Technology"
+        "title": "Netflix Film VP Doug Belgrad Out In Layoffs - The Hollywood Reporter",
+        "source": "Hollywood Reporter",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/netflix-film-vp-doug-belgrad-layoffs-1236729799/",
+        "description": "The exec had been at the streaming giant since 2024, when he was hired by film chief Dan Lin.",
+        "published": "3:35 PM UTC",
+        "category": "Business"
       },
       {
-        "title": "The ‘GTA 6’ PC Release Date Window Revealed, Says New Report - Forbes",
+        "title": "‘GTA 6’ Leaker Won’t Release Game Build After Players Crash His Cryptocoin - Forbes",
         "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/10/13/the-gta-6-pc-release-date-window-revealed-says-new-report/",
-        "description": "GTA 6 is coming to PC after it hits consoles, but we have a new release date window according to a report. And it's close.",
-        "published": "2:19 PM UTC",
+        "url": "https://www.forbes.com/sites/paultassi/2026/10/14/gta-6-leaker-wont-release-game-build-after-players-crash-his-cryptocoin/",
+        "description": "",
+        "published": "3:07 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Phantom Blade Zero: The Hunt Boss Fight & Blood-Steel Form Appearance Reveal - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/videos/phantom-blade-zero-the-hunt-boss-fight-blood-steel-form-appearance-reveal",
-        "description": "Watch Soul take on a new boss, The Hunt, in this gameplay video from Phantom Blade Zero. The video also offers a first look at Blood-Steel Form, an appearance included in the Deluxe Edition. Phantom B",
-        "published": "2:00 PM UTC",
+        "title": "Amazon’s $550 tablet breaks its oldest hardware rule - TheStreet",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/investing/amazon-alexa-tablet-12-pro-nanomatte-breaks-oldest-hardware-rule",
+        "description": "",
+        "published": "2:33 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "‘Crystal Lake’ and ‘Carrie’ deliver distinctly different scares - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/entertainment/tv/2026/10/13/crystal-lake-carrie-deliver-distinctly-different-scares/",
-        "description": "Ahead of Halloween, a “Friday the 13th” reboot goes in for the campy kill, while an update on the Stephen King classic explores the horrors of social media.",
-        "published": "4:00 PM UTC",
+        "title": "Site News: So, Where's Our Castlevania: Belmont's Curse Review? - Nintendo Life",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeW9fcUFUR2Y5OFdRcmhXZnlWOGV5M0V1Y2xHNmNFRWx3MVRhZktqWFpnQUJ5d040N2J6bGpaNEJRUW5IZlpFLXQ4OU5fdV9mbUpHQWFOaHN0NElQMDRMZDZ0dmx1bjRqS19lUy16aEJRcmtVck51NU9ULTFYOXNNWldRVXdhX0JDS1dBTXZLVFZjY19jakN5M0NBaXVJTm50?oc=5",
+        "description": "",
+        "published": "2:30 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Here's the root of Ohtani's slump. Is there time to fix it? - MLB.com",
+        "source": "MLB.com",
+        "url": "https://www.mlb.com/news/shohei-ohtani-struggles-2026-postseason",
+        "description": "Shohei Ohtani will be in the Game 3 lineup on Wednesday, according to manager Dave Roberts. That it was ever even a question otherwise tells you a whole lot about how badly things have gone lately for",
+        "published": "3:49 PM UTC",
         "category": "General"
       },
       {
-        "title": "Sean McVay is 'sick' about his overtime call as another Super Bowl coach publicly regrets end of game decision - Fox News",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/outkick-sports/sean-mcvay-sick-overtime-call-super-bowl-coach-regrets-end-game-decision",
-        "description": "Sean McVay says he's \"sick\" after a third-down play call led to a blocked field goal in the Rams' overtime loss to the Buffalo Bills on Monday.",
-        "published": "3:41 PM UTC",
+        "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+        "description": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
+        "published": "3:47 PM UTC",
         "category": "General"
       }
     ]
@@ -243,45 +251,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Chelsea Accelerate Pursuit of Sporting CP Midfielder Viktor Gyokeres",
-        "summary": "Chelsea are reported to have intensified contact with Sporting CP over striker Viktor Gyokeres, with the Blues prepared to trigger his reported £85m release clause as they seek a prolific No.9 ahead of the new season.",
+        "headline": "Manchester United Eye Sporting CP Midfielder Viktor Gyokeres in Ambitious Summer Pivot",
+        "summary": "United's football leadership is reportedly assessing a move for Gyokeres as they seek a dynamic forward-midfielder hybrid to anchor their rebuild under Ruben Amorim, with a potential fee in the £80-90 million range being discussed internally. Sporting's valuation remains firm given his exceptional goal return this season.",
         "clubs": [
-          "Chelsea",
+          "Manchester United",
           "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester United Close to Agreement with Bologna for Joshua Zirkzee",
-        "summary": "Manchester United are believed to be finalising personal terms with Dutch forward Joshua Zirkzee following a breakthrough in negotiations with Bologna, with a fee in the region of €40m agreed in principle.",
+        "headline": "Chelsea in Advanced Talks to Extend Cole Palmer Contract Amid Elite Club Interest",
+        "summary": "Chelsea are accelerating contract extension discussions with Cole Palmer, whose performances have attracted significant attention from Real Madrid and Bayern Munich ahead of a potential summer approach. The Blues are prepared to make Palmer their highest-paid player to ward off any potential departure.",
         "clubs": [
-          "Manchester United",
-          "Bologna"
+          "Chelsea",
+          "Real Madrid"
         ]
       }
     ],
     "match_preview": {
       "home": "Arsenal",
       "away": "Manchester City",
-      "date": "Sunday, 3:00 PM BST",
-      "preview": "The standout fixture of the weekend pits title rivals Arsenal and Manchester City at the Emirates in what could be a defining early-season marker for both clubs' championship ambitions. Arsenal come in buoyant after back-to-back wins and will look to Saka and Odegaard to unpick a City defensive structure that has looked marginally more vulnerable following summer defensive transitions. Pep Guardiola's side, fresh from a dominant midweek display, will aim to suffocate Arsenal's press with their characteristic positional play — making midfield control the decisive battleground.",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "This title-defining six-pointer arrives with Arsenal sitting level on points with City and desperately needing a home win to keep their championship ambitions alive with just six gameweeks remaining. Mikel Arteta's side have been formidable at the Emirates this season, conceding just twice in their last eight home league fixtures, but face a City side that has quietly rediscovered their best form under Pep Guardiola, winning five consecutive league games. The tactical battle between Arsenal's high press and City's positional play will be the defining subplot, with the margin between title glory and heartbreak potentially decided by a moment of individual brilliance.",
       "key_players": [
         "Bukayo Saka",
-        "Martin Odegaard",
-        "Erling Haaland"
+        "Erling Haaland",
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Expected to be assessed 48 hours before kickoff; hamstring tightness reported in training"
+        "status": "Recovering",
+        "return": "Expected return late April, this match likely too soon"
       },
       {
         "player": "Ben White",
         "team": "Arsenal",
-        "status": "Recovering",
-        "return": "Targeting return within 2-3 weeks following minor knee procedure; expected to miss Sunday's fixture"
+        "status": "Doubtful",
+        "return": "Being assessed Thursday; decision made 48 hours before kickoff"
       }
     ]
   },
@@ -289,62 +297,62 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond has a modified duration of 7.2 and a convexity of 68. If yields rise by 150 basis points, which of the following best approximates the percentage price change of the bond?",
+      "question": "A bond has a modified duration of 6.4 and a convexity of 82. If yields increase by 75 basis points, which of the following best approximates the percentage change in the bond's price?",
       "options": {
-        "A": "-10.80%",
-        "B": "-9.27%",
-        "C": "-8.03%",
-        "D": "-11.54%"
+        "A": "-4.80%",
+        "B": "-4.57%",
+        "C": "-5.03%",
+        "D": "-4.34%"
       },
       "correct": "B",
-      "explanation": "The full price change approximation using both duration and convexity is: %ΔP ≈ (-ModDur × Δy) + (0.5 × Convexity × Δy²). Plugging in: (-7.2 × 0.015) + (0.5 × 68 × 0.015²) = -0.1080 + 0.00765 = -0.10035, or approximately -9.27% (rounding differences aside, the closest answer is B). Using duration alone would give -10.80%, but convexity provides a positive adjustment that reduces the estimated price decline, reflecting the bond's favorable price-yield curvature for large yield moves."
+      "explanation": "The full price change approximation uses both duration and convexity: %ΔP ≈ (-ModDuration × Δy) + (0.5 × Convexity × Δy²). Here: (-6.4 × 0.0075) + (0.5 × 82 × 0.0075²) = -0.04800 + 0.00231 = -0.04569, or approximately -4.57%. The convexity adjustment is always positive for option-free bonds, partially offsetting the duration-based loss when yields rise. Ignoring convexity would overstate the price decline, making option A the common trap answer."
     },
     "finance_topic": {
-      "title": "Duration Mismatch and Liability-Driven Investing",
-      "subtitle": "How pension funds and insurers align asset duration with long-dated obligations to manage interest rate risk.",
+      "title": "The Term Premium and Yield Curve Control",
+      "subtitle": "Understanding how central banks suppress the term premium and the market distortions that follow when they stop.",
       "paragraphs": [
-        "Liability-Driven Investing (LDI) is a portfolio management framework in which an institution structures its assets specifically to match the duration and cash flow profile of its liabilities. Unlike traditional return-maximization strategies, LDI treats the liability stream — such as a pension fund's future benefit payments — as the benchmark. The core risk being managed is not benchmark tracking error, but rather the surplus volatility that arises when assets and liabilities respond differently to interest rate movements.",
-        "A classic real-world example is a corporate defined-benefit pension fund with liabilities discounted at long corporate bond yields. If the fund holds shorter-duration equity-heavy assets while its liabilities have an effective duration of 15 years, a sudden 100bps drop in rates could inflate liability values far more than asset values — shrinking the funding ratio dramatically. UK pension funds learned this painfully during the September 2022 gilt crisis, when LDI strategies using leveraged gilt positions faced catastrophic margin calls as yields spiked 150bps in days, forcing the Bank of England to intervene.",
-        "For risk managers and institutional investors, duration mismatch is not merely an accounting concern — it directly affects solvency, regulatory capital requirements, and sponsor contribution obligations. Best practice involves segmenting the portfolio into a 'hedging portfolio' (long-duration bonds aligned to liabilities) and a 'return-seeking portfolio' (growth assets). Stress testing interest rate shocks across both segments, and monitoring the hedge ratio (duration of assets divided by duration of liabilities) on a daily basis, are essential disciplines in modern LDI governance."
+        "The term premium is the extra yield investors demand for holding a long-term bond rather than rolling over a series of short-term bonds. It compensates for uncertainty about future interest rates, inflation, and liquidity. Under normal market conditions, the term premium is positive, giving the yield curve its characteristic upward slope. However, it is not directly observable and must be estimated using models such as the Adrian-Crump-Moench (ACM) decomposition used by the New York Fed.",
+        "Between 2016 and 2024, the Bank of Japan operated an explicit Yield Curve Control (YCC) policy, capping 10-year JGB yields near zero. This effectively compressed the term premium to near zero by committing unlimited bond purchases. When the BoJ began dismantling YCC in 2024, global bond markets repriced dramatically — JGB yields surged, the yen strengthened sharply, and carry trades funded in yen unwound at speed, creating cascading volatility across equities and emerging market currencies. This illustrated how artificially suppressed term premia create fragility that is only revealed upon policy normalization.",
+        "For investors and risk managers, monitoring the term premium is crucial because it drives asset allocation decisions across the duration spectrum. A rising term premium — as seen when the Fed's quantitative tightening accelerates or when fiscal deficits expand bond supply — increases the attractiveness of long-duration Treasuries as a standalone investment but simultaneously signals higher discount rates, compressing valuations for equities and credit. Portfolio managers using duration-matching strategies must reassess hedge ratios whenever term premium regimes shift, and macro funds actively trade the spread between realized short-rate expectations and the embedded term premium as a source of alpha."
       ],
       "key_takeaways": [
-        "LDI focuses on minimizing surplus volatility — the gap between asset and liability values — rather than maximizing absolute returns.",
-        "Duration mismatch exposes institutions to funding ratio deterioration when interest rates fall, as liabilities grow faster than assets.",
-        "The 2022 UK gilt crisis illustrated that leveraged LDI strategies carry liquidity risk alongside rate risk — a lesson that reshaped global pension risk management standards."
+        "The term premium is the unobservable compensation investors require for bearing interest rate uncertainty over long horizons, and it drives much of the yield curve's shape beyond rate expectations.",
+        "Central bank yield curve control policies artificially suppress the term premium, creating hidden fragility — normalization of such policies can trigger rapid, cross-asset repricing as seen with the BoJ's YCC exit.",
+        "Rising term premia increase long-bond yields independently of rate expectations, compressing equity and credit valuations, making it a key variable for multi-asset risk managers to monitor alongside traditional duration metrics."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; commitment",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened to completion, often with a sense of regret or that the result was unintended. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you planned to spend. Visualize yourself counting your yen coins and saying 'yo, this is my SAN (sum)!'"
+      "example_jp": "彼は必ず来ると約束しました。",
+      "example_romaji": "Kare wa kanarazu kuru to yakusoku shimashita.",
+      "example_en": "He promised that he would definitely come.",
+      "grammar_point": "〜と約束する",
+      "grammar_explanation": "The pattern 〜と約束する is used to express making a promise about something, where the と particle quotes the content of the promise. It is equivalent to saying 'promise that...' in English and connects directly to a plain-form verb clause.",
+      "memory_tip": "Think of 'yaku' sounding like 'yak' — a yak is very reliable and always keeps its PROMISE to carry your bags up the mountain. YAKU-SOKU = reliable promise."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Autonomously Executing Trades and Portfolio Rebalancing Decisions",
-      "summary": "A new generation of agentic AI systems — capable of planning multi-step tasks, calling external tools, and executing actions without human intervention at each step — is beginning to move from research labs into live financial workflows. Major asset managers are piloting AI agents that can monitor portfolio drift, retrieve live market data, generate rebalancing orders, and route them for compliance review, all within a single automated loop. Unlike copilot-style AI that merely suggests, these agents act, raising fundamental questions about human oversight, model accountability, and regulatory frameworks. The SEC and FCA are both actively studying how existing rules on algorithmic trading and fiduciary duty apply when the 'decision-maker' is an autonomous AI pipeline.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Replacing Traditional Analyst Workflows",
+      "summary": "Major banks and fintech lenders are deploying large language models fine-tuned on financial statements, covenant documentation, and macroeconomic data to automate significant portions of credit underwriting that previously required junior analyst hours. Firms like JPMorgan, Moody's, and Bloomberg are embedding AI copilots directly into credit workflows, enabling analysts to synthesize borrower risk profiles, flag covenant breaches, and generate preliminary credit memos in minutes rather than days. The productivity gains are substantial — early adopters report 40-60% reductions in time-to-decision on middle-market loans — but the technology also raises model governance concerns, particularly around explainability requirements under Basel III and IFRS 9 frameworks. Risk managers are increasingly required to audit AI-generated credit decisions, creating new hybrid roles that blend quantitative model validation with traditional credit judgment.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously plan and execute sequences of actions — such as retrieving data, running calculations, and placing orders — to achieve a specified financial goal, with minimal human prompting at each step."
-        },
-        {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model dynamically pulls in real-time external data — like earnings filings, macro reports, or live prices — before generating an analysis, making responses grounded in current facts rather than stale training data."
+          "definition": "A technique where an AI model queries an external database of documents — such as loan agreements, financial filings, or market data — before generating a response, ensuring outputs are grounded in verified, up-to-date information rather than relying solely on training data. In credit analysis, RAG allows AI tools to reference actual covenant language or historical default data when producing risk assessments."
         },
         {
-          "term": "Human-in-the-Loop (HITL)",
-          "definition": "A governance design where an AI system pauses at critical decision points — such as trade execution above a size threshold — to require explicit human approval before proceeding, balancing automation efficiency with accountability."
+          "term": "Model Explainability (XAI)",
+          "definition": "The ability to interpret and communicate why an AI model produced a specific output, which is critical in regulated finance contexts. Regulators and internal audit functions require that AI-driven credit decisions can be decomposed into understandable factors — such as leverage ratios or cash flow trends — rather than treated as a black box."
+        },
+        {
+          "term": "Fine-Tuning",
+          "definition": "The process of taking a pre-trained AI model and continuing its training on a specialized, domain-specific dataset — such as historical credit memos, SEC filings, or bond prospectuses — so that it develops deeper expertise in a particular area of finance, outperforming generic models on sector-specific tasks."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, audit, and govern AI agent workflows will command a significant premium over those who only know how to use AI tools passively. The most valuable skill set emerging is the intersection of domain expertise (credit risk, portfolio construction, compliance) with the ability to specify, evaluate, and constrain AI agent behavior — effectively becoming an 'AI workflow architect' within a financial institution."
+      "career_insight": "Finance professionals who can bridge AI tool proficiency with deep domain expertise — understanding both how a RAG-based credit model works and why a particular covenant structure matters — will be disproportionately valuable over the next decade. The most at-risk roles are repetitive data-gathering and memo-drafting functions, while those who develop skills in model governance, prompt engineering for financial analysis, and AI output validation will find their careers accelerated. Building literacy in tools like Python, SQL, and enterprise AI platforms such as Microsoft Copilot for Finance or Bloomberg AI is now a baseline expectation for analysts entering credit, risk, and portfolio management."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive heading into the session, with equity futures pointing modestly higher as markets digest a cooler-than-expected US core PCE print that reinforces the Fed's data-dependent pause narrative. The dollar is softening at the margin, providing a modest tailwind for EM assets and commodities, while the front end of the Treasury curve is seeing mild bull-flattening as rate cut expectations for Q4 are incrementally repriced higher. Credit spreads are grinding tighter in IG while HY remains range-bound — the macro backdrop supports carry, but thin summer liquidity amplifies the risk of sharp reversals on any hawkish Fed commentary or geopolitical headline."
+    "market_sentiment": "Risk appetite remains cautious heading into the session as markets digest a complex macro backdrop: U.S. 10-year Treasury yields continue to test the 4.55-4.65% range amid persistent concerns over fiscal supply and a term premium re-rating, while the dollar index holds near recent highs as Fed cut pricing gets pared back on resilient labor data. Equity markets are in a consolidation phase with the S&P 500 range-bound near 5,300 — leadership has narrowed to energy and select financials, with rate-sensitive sectors like utilities and REITs underperforming. Commodities are providing the morning's bright spot as Brent crude pushes above $87 on tightening OPEC+ supply signals, offering a mild tailwind for inflationary expectations and keeping the Fed on hold narrative intact through Q3."
   }
 }
