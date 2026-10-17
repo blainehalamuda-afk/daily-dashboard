@@ -1,30 +1,23 @@
 {
-  "generated_at": "3:41 PM UTC",
-  "date": "Friday, October 16, 2026",
+  "generated_at": "2:33 PM UTC",
+  "date": "Saturday, October 17, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 78,
-    "feels_like_f": 79,
-    "high_f": 81,
-    "low_f": 77,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 75,
-    "wind_mph": 1,
+    "temp_f": 56,
+    "feels_like_f": 55,
+    "high_f": 57,
+    "low_f": 55,
+    "description": "Overcast Clouds",
+    "icon": "☁️",
+    "humidity": 73,
+    "wind_mph": 11,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "🌧️",
-        "high": 52,
-        "low": 52,
-        "description": "Light Rain"
-      },
       {
         "day": "Sun",
         "icon": "☀️",
-        "high": 45,
-        "low": 45,
+        "high": 42,
+        "low": 42,
         "description": "Clear Sky"
       },
       {
@@ -32,6 +25,13 @@
         "icon": "☀️",
         "high": 45,
         "low": 45,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "high": 48,
+        "low": 48,
         "description": "Clear Sky"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 769.31,
-        "change": -2.48,
-        "change_pct": -0.32,
+        "price": 763.25,
+        "change": -8.54,
+        "change_pct": -1.11,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 345.13,
-        "change": 3.13,
-        "change_pct": 0.92,
+        "price": 343.46,
+        "change": 1.46,
+        "change_pct": 0.43,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 217.94,
-        "change": 0.71,
-        "change_pct": 0.33,
-        "up": true,
+        "price": 214.13,
+        "change": -3.1,
+        "change_pct": -1.43,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 359.92,
-        "change": -2.52,
-        "change_pct": -0.7,
+        "price": 354.72,
+        "change": -7.72,
+        "change_pct": -2.13,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 81665.4,
-        "change": -819.96,
-        "change_pct": -0.99,
+        "price": 81563.6,
+        "change": -853.69,
+        "change_pct": -1.04,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2443.4,
-        "change": 0.08,
-        "change_pct": 0.0,
-        "up": true,
+        "price": 2426.87,
+        "change": -49.71,
+        "change_pct": -2.01,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,51 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Social Security cost-of-living increase sparks debate over looming funding shortfall - Fox Business",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/personal-finance/social-security-cost-of-living-increase-sparks-debate-over-looming-funding-shortfall",
-        "description": "Social Security's 3.6% COLA will raise retirement benefits in 2027, but a projected 2032 trust fund shortfall could trigger 22% cuts without congressional action.",
-        "published": "3:42 PM UTC",
+        "title": "Dow jumps 150 points, Nasdaq slides as investors continue to rotate out of AI stocks: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+        "description": "The three major averages are coming off of a winning session on Thursday.",
+        "published": "2:20 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Dow jumps 400 points, Nasdaq slides as investors rotate out of tech shares: Live updates - CNBC",
+        "title": "Southwest unveils new perks for flyers in rewards program shake-up - Fox Business",
         "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMnotQnp0UzRrWEV0WWpNZ2NVMmdCZWV6aDhXOTh4X05HVlhaSDBhSnNZdncyT29IQ1o4RHdPRVdsY0h3WEhIZ3dqUlVnWW9oV0ZMWEVlREhRa3JxUGNpVmZfcUJ6UHJ6d2luakZCY0lvWXlEU3lORzE5bU8tNTZDaFNlMFEwUjJHb0g3N1l0ZC1qeUN2alZDbEVWNkZSZ9IBowFBVV95cUxOZXd6QmpDa0RhdWpYdWNKLXZBMFhsTkRmMi1KTTdnS3N4THgtaXNrVk9JYjQ5R2NuLTFzd0RZQ1J2Yjdtc0ZTZlIwcGxRRTN5MEs3RnEwZWgwRFFfeVdoWnhvSUdLOWpDVFFPaVBOZi0yYV9GdTlNWWF0dFlUTmtJYzQ3WUNSdGlqdHNKYTMySHdwUnlQR09KMnBMbXVxY0FiZ2lV?oc=5",
         "description": "",
-        "published": "3:27 PM UTC",
+        "published": "1:11 PM UTC",
         "category": "Business"
       },
       {
-        "title": "The ‘Call of Duty tax’ means games media doesn’t cover COD the way it used to, Activision says - Video Games Chronicle",
-        "source": "Video Games Chronicle",
-        "url": "https://www.videogameschronicle.com/news/the-call-of-duty-tax-means-games-media-doesnt-cover-cod-the-way-it-used-to-activision-says/",
-        "description": "Its large audience has \"become status quo\" and people forget the work that goes into each entry, it's claimed",
-        "published": "2:22 PM UTC",
+        "title": "Why CoreWeave, Nebius, and other neocloud stocks are being pounded: Goldman Sachs explains - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/article/why-coreweave-nebius-and-other-neocloud-stocks-are-being-pounded-goldman-sachs-explains-125730269.html",
+        "description": "Neocloud stocks like CoreWeave and Nebius are poised to cap off a horrible week in their relatively short time in public markets.",
+        "published": "12:57 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Apple iPhone Duo preorders sell out, deliveries extend to late January - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/technology/article/apple-iphone-duo-preorders-sell-out-deliveries-extend-to-late-january-130026634.html",
+        "description": "Apple's iPhone Duo preorders sell out immediately.",
+        "published": "1:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "John Ternus talks iPhone Duo, ‘cheap and crappy’ foldables in new interview - 9to5Mac",
+        "title": "The Best New Watches from New York Watch Week 2026 - GQ",
         "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0NqUl9YQXpYV3BMcWJWdFFFOGlxbV9oaEhYTmFhQjV1QVgyVmtqNnF1RDhqVnhId1hGaVB0TEtabXdQR1phVVp5bnRoVFI5X0pOZ3lkR1NJeEpKZmhkQUhWdE13aVJlR2tlZllkZWl2VXJKV0s0SjNsUW1KSVhDX0hTa1lNclBKMHBIRk5oZlBZLV80MmczOUJnaEV1LUNRMU5EVnRHTQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WR0M0WmVRYlFoeXZNQlRMM3NydFczUUlCbmVMdk5ka2NVZUpmNklPUy00WHhvRWVmRUQ0c3V2ckUtR2ZVYzg2SnlOQ0gzOFE0TExXSzBLSmdUQjNQTGZrdnNEZGdpMkR2ZU8yaDRsX1JkWG5x?oc=5",
         "description": "",
-        "published": "2:11 PM UTC",
+        "published": "1:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Microsoft says Windows 11 is now ‘more responsive’ and runs better on 8GB of RAM - The Verge",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFVpQjlDZEVhdENDRHRpZlp6SmItRG5EUEpmMzhIaFRGWGZLTk5PSldURWNrNVRHLVF5dHI2dTE5enRhQnc2Wm9uTVFEY0xXTjB2LWRydE9SODVMU1FLUklCUHJURF80X1FCd2VUXy1JNzFDR0s3QXRydUxUZlFjY095Wktzb25KODVnWA?oc=5",
-        "description": "",
-        "published": "1:41 PM UTC",
-        "category": "Technology"
+        "title": "U of A cancer researcher dies of same disease she fought to cure - Arizona Daily Star",
+        "source": "Arizona Daily Star",
+        "url": "https://tucson.com/news/local/education/college/article_3b0228b4-8061-4991-9e3c-27feb70528f0.html",
+        "description": "Dr. Rachna Shroff, a leading University of Arizona cancer researcher, spent most of her career studying gastrointestinal cancers and trying to find cures.",
+        "published": "2:25 PM UTC",
+        "category": "General"
       },
       {
-        "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan - BBC",
+        "title": "Bystander 'heroically intervened' after three children and teacher killed in US school shooting in Bend, Oregon - BBC",
         "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83bEFwbS0za0dIT0c3VS1wdk1QMlhmemVfUTNEUWtWaGwyTlY4N2RPTG9jdlpJNVFkQnJmTWM2Y3hmMUhZWERXYjB3cFpFc0FaS2s0NDNPU25pdkE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yaTBMZDFNRHAtdFFvNnl2WUNRVFNQUkN3bTNtbjljQWRXRWRlWXBOS2F4YUlraFNPVUk4Mm45cGotMFd1ZEduRlBTOTlwOFZ5dVhKRmN3?oc=5",
         "description": "",
-        "published": "3:26 PM UTC",
+        "published": "2:09 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Esther McGregor and Emilio Sakraya reportedly set to star in ‘Fourth Wing’ TV series - CNN",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeS1YRUtMQVd1QmgzUFozREx6bnpxb0FkRUJsMW53YUc3OUpxSklERWlqb3lrN0tvOGZCZzFmTVZhVjJ0eHRmb1M1SXZVUnVmLUN1Xy1qZk0zV0NCaVFqd3FncTVrR245akJ4Z3Q2UjlhaXVUUWRfTjB5cVpRaGtqTmJTclh6REp5bGdtWg?oc=5",
+        "description": "",
+        "published": "1:08 PM UTC",
         "category": "General"
       }
     ]
@@ -166,9 +182,9 @@
       {
         "home": "Everton",
         "away": "Chelsea",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "11:30 AM UTC",
         "date": "Oct 17",
         "highlighted": false
@@ -176,9 +192,9 @@
       {
         "home": "Fulham",
         "away": "Hull City",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Oct 17",
         "highlighted": false
@@ -186,9 +202,9 @@
       {
         "home": "Man City",
         "away": "Ipswich Town",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Oct 17",
         "highlighted": false
@@ -196,9 +212,9 @@
       {
         "home": "Brentford",
         "away": "Liverpool",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Oct 17",
         "highlighted": false
@@ -212,18 +228,58 @@
         "time": "4:30 PM UTC",
         "date": "Oct 17",
         "highlighted": false
+      },
+      {
+        "home": "Bournemouth",
+        "away": "Sunderland",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Oct 18",
+        "highlighted": false
+      },
+      {
+        "home": "Leeds United",
+        "away": "Man United",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Oct 18",
+        "highlighted": false
+      },
+      {
+        "home": "Brighton Hove",
+        "away": "Crystal Palace",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "1:00 PM UTC",
+        "date": "Oct 18",
+        "highlighted": false
+      },
+      {
+        "home": "Nottingham",
+        "away": "Arsenal",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:30 PM UTC",
+        "date": "Oct 18",
+        "highlighted": false
       }
     ],
     "standings": [
       {
         "position": 1,
         "team": "Man City",
-        "played": 6,
+        "played": 7,
         "won": 6,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
         "gd": 11,
-        "points": 18,
+        "points": 19,
         "highlighted": false
       },
       {
@@ -250,33 +306,33 @@
       },
       {
         "position": 4,
-        "team": "Brentford",
-        "played": 6,
-        "won": 2,
-        "drawn": 4,
-        "lost": 0,
-        "gd": 6,
-        "points": 10,
+        "team": "Chelsea",
+        "played": 7,
+        "won": 4,
+        "drawn": 1,
+        "lost": 2,
+        "gd": 4,
+        "points": 13,
         "highlighted": false
       },
       {
         "position": 5,
-        "team": "Everton",
-        "played": 6,
+        "team": "Brentford",
+        "played": 7,
         "won": 2,
-        "drawn": 4,
+        "drawn": 5,
         "lost": 0,
-        "gd": 3,
-        "points": 10,
+        "gd": 6,
+        "points": 11,
         "highlighted": false
       },
       {
         "position": 6,
-        "team": "Chelsea",
-        "played": 6,
-        "won": 3,
-        "drawn": 1,
-        "lost": 2,
+        "team": "Hull City",
+        "played": 7,
+        "won": 2,
+        "drawn": 4,
+        "lost": 1,
         "gd": 2,
         "points": 10,
         "highlighted": false
@@ -286,108 +342,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Lead Race for Bundesliga Midfielder as Partey Replacement Search Intensifies",
-        "summary": "Arsenal are understood to have held preliminary talks with Bayer Leverkusen regarding a potential summer move for a central midfielder, with Mikel Arteta keen to add physicality and press-resistance to the engine room following Thomas Partey's injury-plagued campaigns.",
+        "headline": "Manchester United Target Sporting CP Midfielder Viktor Gyökeres in Ambitious Summer Move",
+        "summary": "Manchester United are reportedly among several elite clubs monitoring Viktor Gyökeres, whose prolific 2024-25 season at Sporting CP has attracted widespread attention. United's new sporting structure is said to prioritize a physical, high-volume striker, and Gyökeres fits the profile precisely.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Manchester United",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester City Eye Sporting CP Striker as Haaland Insurance Policy",
-        "summary": "Manchester City's recruitment department has been monitoring Viktor Gyökeres at Sporting CP, with sources suggesting Pep Guardiola's side view the Swedish international as a long-term investment that could also provide cover for Erling Haaland in the near term.",
+        "headline": "Chelsea in Advanced Talks for Bournemouth Defender Illia Zabarnyi",
+        "summary": "Chelsea are understood to be in serious negotiations with Bournemouth for Ukrainian international Illia Zabarnyi as Enzo Maresca looks to rebuild the Blues' defensive structure ahead of next season. A fee in the region of £45-50 million is being discussed, with Bournemouth reluctant to sell without a significant premium.",
         "clubs": [
-          "Manchester City",
-          "Sporting CP"
+          "Chelsea",
+          "Bournemouth"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Chelsea",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "Anfield hosts one of the Premier League's most compelling fixtures as title-chasing Liverpool welcome an in-form Chelsea side that have lost just once in their last ten league outings. Liverpool will look to leverage their home record — unbeaten in 18 league games at Anfield — to extend their lead at the summit, while Enzo Maresca's Chelsea see this as a statement opportunity to announce their credentials as genuine top-four certainties. The tactical battle between Liverpool's high press and Chelsea's quick build-through-the-thirds promises to be the defining subplot of a match with significant implications at both ends of the table.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 3:00 PM BST",
+      "preview": "The Premier League's defining fixture of the season arrives as Arsenal host Manchester City in a top-of-the-table clash with title implications that could prove decisive. Arsenal come into the match on a seven-game unbeaten run in all competitions, with Bukayo Saka returning to full fitness and Martin Ødegaard pulling strings in midfield with renewed authority; City, meanwhile, are navigating the absence of key defensive personnel but Erling Haaland's form makes them dangerous regardless of context. The tactical battle between Arteta's high-press structure and Guardiola's positional play rotation will be the central chess match — expect midfield control to determine the outcome.",
       "key_players": [
-        "Mohamed Salah",
-        "Cole Palmer",
-        "Virgil van Dijk"
+        "Bukayo Saka",
+        "Erling Haaland",
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Out",
-        "return": "Season over — ACL recovery continuing into pre-season 2025"
+        "status": "Recovering",
+        "return": "Long-term — targeting pre-season 2025-26 return from ACL rehabilitation"
       },
       {
-        "player": "Reece James",
-        "team": "Chelsea",
+        "player": "Ben White",
+        "team": "Arsenal",
         "status": "Doubtful",
-        "return": "Late fitness test expected ahead of Sunday's Liverpool fixture"
+        "return": "Expected to be assessed 48 hours before the Manchester City fixture; hamstring tightness is a concern"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of credit default swaps (CDS). The portfolio has a notional value of $500 million, and the reference entity has a flat credit spread of 200 bps with a recovery rate of 40%. Using the simplified hazard rate model, what is the approximate annualized probability of default?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure & Interest Rate Dynamics",
+      "question": "An analyst observes that the 2-year spot rate is 4.20% and the 3-year spot rate is 4.55%. Using the pure expectations theory, what is the implied one-year forward rate two years from now, and which statement best characterizes its interpretation?",
       "options": {
-        "A": "1.20%",
-        "B": "2.00%",
-        "C": "3.33%",
-        "D": "4.80%"
+        "A": "Approximately 5.26%; the market expects short-term rates to rise, and this rate includes a liquidity premium to compensate investors for maturity extension.",
+        "B": "Approximately 5.26%; under pure expectations theory, this forward rate is an unbiased predictor of the future one-year spot rate, with no risk or liquidity premium embedded.",
+        "C": "Approximately 4.38%; this represents the average expected short-term rate over the three-year horizon, reflecting the geometric mean of annual spot rates.",
+        "D": "Approximately 4.88%; forward rates under the liquidity preference theory incorporate a premium, making them biased upward relative to expected future spot rates."
       },
-      "correct": "C",
-      "explanation": "In the hazard rate model, the risk-neutral probability of default is approximated as: λ ≈ Spread / (1 − Recovery Rate). Here, λ = 200 bps / (1 − 0.40) = 0.0200 / 0.60 ≈ 3.33%. This formula strips out the recovery assumption to isolate the pure default intensity. The credit spread compensates investors for expected loss, which equals λ × (1 − RR), so rearranging yields the hazard rate directly."
+      "correct": "B",
+      "explanation": "The one-year forward rate two years from now is calculated as: [(1.0455)^3 / (1.0420)^2]^1 – 1 ≈ 5.26%. Under the pure expectations theory, forward rates are unbiased predictors of future spot rates, meaning no liquidity or risk premium is embedded — investors are indifferent between rolling short-term bonds and holding a long-term bond. Option C describes the arithmetic approximation incorrectly, and Option D incorrectly applies the liquidity preference framework to this calculation."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Why imperfect hedges can leave risk managers exposed even when positions appear protected.",
+      "title": "Sovereign Debt Stress and Fiscal Dominance Risk",
+      "subtitle": "When government borrowing needs begin to override central bank monetary policy independence, creating a structurally inflationary regime.",
       "paragraphs": [
-        "Basis risk arises when the hedge instrument used to offset an exposure does not move in perfect lockstep with the underlying asset being hedged. The 'basis' is defined as the difference between the spot price of the asset and the futures or derivative price used as the hedge. Even when a hedge is well-constructed, residual basis risk means that gains and losses on the hedge and the underlying will not cancel out perfectly, leaving the hedger with a net open position of uncertain magnitude.",
-        "A practical example is an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices are related but not identical — affected differently by refinery capacity, regional demand, and crack spreads — the hedge will not be perfect. In 2022, several European airlines found that crude oil futures hedges underperformed as jet fuel crack spreads widened dramatically due to post-COVID travel demand surging faster than refinery output recovered, exposing carriers to significant unhedged fuel cost increases.",
-        "For risk managers, basis risk demands careful instrument selection and ongoing monitoring. Using instruments with higher correlation to the underlying, rolling hedges at optimal intervals, and stress-testing hedge ratios under different market regimes are key mitigants. Regulators and accounting standards such as IFRS 9 require firms to assess and document hedge effectiveness, adding an additional compliance dimension to basis risk management."
+        "Fiscal dominance occurs when a government's debt burden becomes so large that the central bank is implicitly or explicitly pressured to maintain accommodative monetary policy — or even monetize debt — regardless of inflation conditions. Unlike normal monetary-fiscal coordination, fiscal dominance represents a structural shift where the tail wags the dog: fiscal needs dictate monetary outcomes. This dynamic can emerge gradually through debt-to-GDP deterioration, rising interest expense as a share of revenue, and political pressure on central bank independence.",
+        "The concept moved from academic theory to front-page concern following the post-pandemic surge in sovereign borrowing across developed and emerging markets. In the UK, the 2022 mini-budget crisis illustrated how quickly bond markets can discipline fiscal overreach — gilt yields spiked over 150bps in days, forcing the Bank of England to intervene. In the US, the Congressional Budget Office now projects net interest costs will exceed defense spending by 2025, prompting serious debate about whether the Fed can sustain restrictive policy long-term without triggering a sovereign funding crisis. In emerging markets like Turkey and Argentina, fiscal dominance has already translated directly into currency collapse and chronic inflation.",
+        "For investors and risk managers, fiscal dominance is a regime-change risk that invalidates standard asset allocation assumptions. In a fiscally dominant environment, long-duration nominal bonds become structurally dangerous as inflation risk premiums reprice higher. Real assets, inflation-linked bonds (TIPS, linkers), gold, and short-duration credit tend to outperform. Portfolio stress-testing should include scenarios where central banks pause tightening — or reverse — not due to economic weakness but due to sovereign debt servicing constraints, a subtly different but critically important distinction."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedge instrument and the underlying exposure.",
-        "Selecting hedge instruments with the highest historical and forward-looking correlation to the exposure is the primary method of minimizing basis risk.",
-        "Basis risk can widen sharply during market stress, precisely when effective hedging is most critical — making stress testing of hedge ratios essential."
+        "Fiscal dominance arises when debt levels constrain central bank independence, forcing monetary policy to serve fiscal rather than price stability objectives.",
+        "Bond markets can price in fiscal dominance risk rapidly — duration positioning and sovereign credit spreads are the first transmission channels.",
+        "Investors should consider inflation-linked instruments and real assets as structural hedges in portfolios exposed to high-debt sovereign environments."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; estimate of costs",
+      "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitta shimaimashita.",
+      "example_jp": "今月の予算はもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wa mou tsukaikitta shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a sense of regret or finality. It is formed by attaching しまいました to the te-form of a verb.",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money you have allocated. Picture a piggy bank labelled 'YOUR SUM' that is now empty, evoking both the word and the regretful nuance of てしまいました."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまいました to indicate something is done — sometimes undesirably so.",
+      "memory_tip": "Think of 予 (yo) as 'yo, plan ahead' and 算 (san) as 'calculate' — a budget is literally your advance calculation. Picture a stressed accountant saying 'Yo, I need to calculate this!' before month-end."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
-      "summary": "Major financial institutions including JPMorgan, HSBC, and several Nordic banks are deploying large language models and gradient boosting ensembles to augment — and in some workflows replace — traditional credit underwriting processes. These systems ingest alternative data sources such as transaction history, supply chain signals, and real-time macroeconomic feeds to generate dynamic probability-of-default scores that update continuously rather than at quarterly review cycles. Early results show a 15–25% improvement in default prediction accuracy over legacy scorecard models, while also reducing underwriting turnaround times from days to hours. The regulatory environment remains a key constraint, with Basel III and SR 11-7 model risk guidance requiring explainability standards that challenge black-box architectures.",
+      "headline": "AI-Powered Credit Models Are Quietly Replacing Traditional Analyst Scorecards",
+      "summary": "Major banks and credit funds are deploying large language models and gradient-boosting ensembles to augment — and in some cases replace — traditional fundamental credit analysis workflows. These systems ingest earnings call transcripts, covenant filings, supply chain data, and macro indicators simultaneously, generating real-time probability-of-default scores that update continuously rather than quarterly. JPMorgan, BlackRock's Aladdin platform, and a wave of fintech credit underwriters have all announced expansions of AI-driven credit decisioning in 2024-2025. The shift is forcing a re-evaluation of what human credit analysts are uniquely positioned to provide — specifically, relationship context, regulatory judgment, and adversarial stress scenario construction.",
       "concepts": [
         {
           "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning method that builds decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions from structured financial data such as loan tapes and financial ratios."
+          "definition": "An ensemble machine learning technique that builds sequential decision trees, each correcting the errors of the prior — widely used in credit scoring because it handles mixed data types, missing values, and non-linear relationships that defeat traditional logistic regression models."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as satellite imagery, card transaction flows, web traffic, and ESG metrics — used to enhance credit and investment models beyond conventional financial statements."
+          "term": "Alternative Data Ingestion",
+          "definition": "The process of feeding non-traditional data sources — satellite imagery, web traffic, job posting trends, social sentiment — into financial models to generate signals that standard financial statements cannot capture, giving early warning on credit deterioration or growth acceleration."
         },
         {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "A technique that assigns each input feature a contribution score for a given model prediction, allowing risk managers and regulators to understand why a model scored a borrower a certain way — critical for SR 11-7 compliance."
+          "term": "Explainability / SHAP Values",
+          "definition": "A method (SHapley Additive exPlanations) that attributes each model prediction to specific input features, allowing risk managers and regulators to understand *why* an AI model assigned a particular credit score — critical for compliance and model governance in regulated financial institutions."
         }
       ],
-      "career_insight": "Credit risk analysts who can bridge quantitative model development with regulatory explainability requirements are among the most sought-after profiles in 2024–2025 hiring cycles. Building fluency in Python-based ML libraries alongside a deep understanding of Basel credit frameworks and IFRS 9 impairment modeling will differentiate candidates materially. The role of the pure 'spreadsheet-based' credit analyst is contracting, while hybrid quant-risk roles commanding 20–30% salary premiums are expanding rapidly across banks, fintechs, and asset managers."
+      "career_insight": "Credit analysts and risk managers who can work at the interface of AI model outputs and real-world judgment — validating model assumptions, identifying regime changes the training data never saw, and communicating model risk to committees — are becoming the most valuable professionals in fixed income and lending. The skill premium is shifting from raw financial modeling to model oversight, prompt engineering for financial research workflows, and the ability to construct adversarial scenarios that stress-test AI-generated credit views."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a mixed signals backdrop: US core PCE continues to trend toward the Fed's 2% target, fuelling expectations of one to two rate cuts before year-end, while the USD has softened modestly — providing a tailwind for EM assets and commodities. European equities face a drag from renewed political uncertainty in France and Germany, with the DAX underperforming the S&P 500 year-to-date by over 400 bps. In credit markets, investment-grade spreads are grinding tighter while high-yield spreads show early signs of technical fatigue near multi-year tights, suggesting the easy carry trade in credit may be entering its late innings."
+    "market_sentiment": "Global risk appetite remains cautiously constructive as equity markets digest a resilient US labor market print against a backdrop of softening CPI trends, keeping a Fed cut in September alive but not certain — the two-year Treasury is oscillating in a tight 4.65–4.80% range reflecting exactly this policy uncertainty. Credit spreads have ground tighter in investment-grade but high-yield is showing early signs of bifurcation, with CCC-rated names underperforming as refinancing walls loom into 2026. Geopolitical premium has re-entered commodity markets, with Brent crude firming above $87 on Middle East supply concerns, providing a meaningful upside risk to the 'last mile' disinflation narrative that central banks are counting on."
   }
 }
