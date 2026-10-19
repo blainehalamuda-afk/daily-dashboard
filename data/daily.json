@@ -1,30 +1,23 @@
 {
-  "generated_at": "3:00 PM UTC",
-  "date": "Sunday, October 18, 2026",
+  "generated_at": "5:53 PM UTC",
+  "date": "Monday, October 19, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 53,
-    "feels_like_f": 51,
-    "high_f": 56,
-    "low_f": 52,
+    "temp_f": 64,
+    "feels_like_f": 62,
+    "high_f": 66,
+    "low_f": 62,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 46,
-    "wind_mph": 1,
+    "humidity": 31,
+    "wind_mph": 7,
     "forecast": [
-      {
-        "day": "Mon",
-        "icon": "☀️",
-        "high": 45,
-        "low": 45,
-        "description": "Clear Sky"
-      },
       {
         "day": "Tue",
         "icon": "☀️",
-        "high": 48,
-        "low": 48,
+        "high": 42,
+        "low": 42,
         "description": "Clear Sky"
       },
       {
@@ -33,6 +26,13 @@
         "high": 49,
         "low": 49,
         "description": "Clear Sky"
+      },
+      {
+        "day": "Thu",
+        "icon": "🌤️",
+        "high": 47,
+        "low": 47,
+        "description": "Few Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 763.25,
-        "change": -8.54,
-        "change_pct": -1.11,
-        "up": false,
+        "price": 767.03,
+        "change": 3.78,
+        "change_pct": 0.5,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 343.46,
-        "change": 1.46,
-        "change_pct": 0.43,
-        "up": true,
+        "price": 342.8,
+        "change": -0.66,
+        "change_pct": -0.19,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 214.13,
-        "change": -3.1,
-        "change_pct": -1.43,
-        "up": false,
+        "price": 217.06,
+        "change": 2.93,
+        "change_pct": 1.37,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 354.72,
-        "change": -7.72,
-        "change_pct": -2.13,
-        "up": false,
+        "price": 367.71,
+        "change": 12.99,
+        "change_pct": 3.66,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 81180.01,
-        "change": -394.0,
-        "change_pct": -0.48,
-        "up": false,
+        "price": 81854.99,
+        "change": 671.87,
+        "change_pct": 0.83,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2380.56,
-        "change": -46.61,
-        "change_pct": -1.92,
-        "up": false,
+        "price": 2395.22,
+        "change": 25.24,
+        "change_pct": 1.06,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,75 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
-        "description": "Musk said DOGE proved there's \"no way we were gonna solve the deficit from within the government.\"",
-        "published": "12:26 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan - CNBC",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEFPR29HeXp0X3FVMHhZY2ZmWE85ZzNYamtxN3c0dUkyT0gwNFhFSjFCdXc0d25Hc2tMX0VFSDdRc1F0RzRSY3N4VE1jOWdhend1VHJvQURBOXlDYTBocGdyMnE4TldRNTlPNnh1V1g2aHZ5blhOQ3lScGNTeDhzbl9Db1phTmUxaEtCcFFva3lvbWVaOWMyNktNTERwNmlXOC1KY2sweEzSAa4BQVVfeXFMT08ycFNfd2NRc1FUMTBtTC1ENnpxV2NVUzVSRjBfb0hQV2YzZk44Vm5aMWh0V3ZzM1pJNHdabHVWUzNCQTV0eFJwaHZEa3U2bHRlcTVfdU40VjExbkNpRWVJcUhQbDdlU2txd1hFRVFuZkJHTTBVNkN6S1ZnTWV2TUFTcFlMNzJSVFdsTU9GVDNlTGZqdlV2NUp1MWhNc2tBQWZ5VjEybjVBanhrU3hn?oc=5",
-        "description": "",
-        "published": "12:00 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Senator warns ‘clock is ticking’ as Social Security funds run dry - Fox Business",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/media/senator-warns-clock-ticking-social-security-funds-run-dry",
-        "description": "Sen. Bill Cassidy warns the 3.6% Social Security COLA could drain the trust fund faster, leaving Congress roughly five and a half years to act before retirees face steep benefit cuts.",
-        "published": "11:00 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Why BioWare’s Neverwinter Nights still has thousands of active players - Ars Technica",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-        "description": "The single-player is just OK, but according to the players, that doesn't matter.",
-        "published": "11:00 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants - The Hacker News",
-        "source": "Internet",
-        "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-        "description": "Attackers used a compromised ConnectWise Cloud Backup credential for unauthorized sign-ins across 173 Microsoft 365 tenants.",
-        "published": "6:16 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "My iPhone 18 Pro Max just got delivered and I immediately regret the purchase — and I think iPhone Duo is to blame - Tom's Guide",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWFza21hVDV5b2JDQXpXaUJic05lMEU0WEN5TzVhTFZtbWk1Z0xUVlNHM3hzWGpYdVpsVDMyc2pwbWVJNS1vSzBibDJraHBWOGVMc1A1Zi1mRS1ybmZuRGwteHZ2WjRBUzZSUHpETkdBQ09jU2tvNTRLOEZFR2hkVGhOM0tKTVg5X2wtM1c1NWg2aHhEbkYtblZSeVN6RkUyb2pJVXZuTFhBaEwwR3I3Y0ZaUjNybUxnVW51cF9YRGc0WTFGakdHbkxvbFU1VG56cWF4WWRsMGtzczVGV0g4MUkwVVU4T0VY?oc=5",
-        "description": "",
-        "published": "4:30 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Pope Leo leaves hospital after lung cancer operation - The Washington Post",
+        "title": "Pepsi was a small town’s biggest employer. Layoffs left it blindsided. - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/10/17/pope-leo-be-discharged-after-lung-cancer-operation/",
-        "description": "The pope waved to the crowds as he left the hospital to return to the Vatican, appearing in public for the first time since his admission.",
-        "published": "2:27 PM UTC",
-        "category": "General"
+        "url": "https://www.washingtonpost.com/dc-md-va/2026/10/18/layoffs-pepsico-plant-cheverly-stunned-workers-area-officials/",
+        "description": "In Cheverly, Maryland, officials worry about the aftermath from the significant job reduction at a production plant.",
+        "published": "4:02 PM UTC",
+        "category": "Business"
       },
       {
-        "title": "Melissa Gilbert reacts after sex abuse case dismissed against husband Timothy Busfield - USA Today",
+        "title": "Why buying a house feels so painful now — and your parents may not understand - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/10/18/these-charts-show-why-7-mortgage-rate-feels-more-painful-than-past/",
+        "description": "A 7 percent mortgage is historically normal. But this isn’t a normal housing market.",
+        "published": "4:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "US threatens Europe over Starlink restrictions - Financial Times",
         "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRXYzbmhPVzlyRW5BbHdwWUExRFJGVWczam1NTFhjeGpUM1lyVU5vaTZLbUdHbGphZ19TNlQ5SEVWbW5sY25Xb294clZOQ3kzMGszZ0h4a0xxbGwxdk00Wkk2Nkw3VlZHcFYtNGFick42QV83ZUl4eUlZZmM5aG5jRW1WMWVSQV9PejREc25vc1BSYVdJRXVneDlFS1lxUHMxY0lodEFOT0ZCemJMOEkyRG1nckdsdnJLV3czSTFqa21aOGdpTW5rc2VzajgzTWZoWElnN0VRZzFQMnhw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG9CR3Bva01NbkZ1WXZZYzNKVXNWLVhzR3g0OEc3dzB5MHBlTWlHS1c2WkhsZjhqdWVMNGs5Vnl0X1BGcWZqdVhDVE45eGt2QkZkbEM2UXAzdUtZY1Iyb3hpS1VQaC0zQnk4YUVaWWFTM2xnSnItSlZpR0dJVjNCaEhvUkQ?oc=5",
         "description": "",
-        "published": "2:20 PM UTC",
+        "published": "4:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Apple Reveals iPhone Duo's Battery Capacity - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
+        "description": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total battery capacity of 4,883 mAh.   The document...",
+        "published": "3:06 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/",
+        "description": "Despite knowing that the iPhone Duo would face \"severe supply constraints\" due to manufacturing challenges, Apple chose to begin iPhone Duo...",
+        "published": "2:33 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Apple’s HomeView Offers Tantalizing Preview of a Future Robotic Version - Bloomberg",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
+        "description": "Also: The company is planning Nov. 6 retail store reset, indicating potential Mac release date.",
+        "published": "2:00 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Caleb Williams officially active for the Bears on Sunday - NBC Sports",
+        "source": "NBCSports.com",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-officially-active-for-the-bears-on-sunday",
+        "description": "Williams is returning from missing three games with a hamstring injury.",
+        "published": "3:45 PM UTC",
         "category": "General"
       },
       {
-        "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’ - Financial Times",
-        "source": "Financial Times",
-        "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6\\\\u003d1",
-        "description": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-        "published": "12:53 PM UTC",
+        "title": "Box Office: ‘You Can See Everything’ Stuns With $15 Million Debut, ‘Street Fighter’ Leads With $31 Million - Variety",
+        "source": "Variety",
+        "url": "https://variety.com/2026/film/box-office/you-can-see-everything-box-office-nathan-fielder-elizabeth-holmes-huge-start-1236915640/",
+        "description": "\"You Can See Everything\" became the rare must-see documentary at the box office.",
+        "published": "3:05 PM UTC",
         "category": "General"
       }
     ]
@@ -188,61 +180,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Everton",
-        "away": "Chelsea",
-        "home_score": 0,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "11:30 AM UTC",
-        "date": "Oct 17",
-        "highlighted": false
-      },
-      {
-        "home": "Fulham",
-        "away": "Hull City",
-        "home_score": 1,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Oct 17",
-        "highlighted": false
-      },
-      {
-        "home": "Man City",
-        "away": "Ipswich Town",
-        "home_score": 3,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Oct 17",
-        "highlighted": false
-      },
-      {
-        "home": "Brentford",
-        "away": "Liverpool",
-        "home_score": 1,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Oct 17",
-        "highlighted": false
-      },
-      {
-        "home": "Newcastle",
-        "away": "Aston Villa",
-        "home_score": 0,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "4:30 PM UTC",
-        "date": "Oct 17",
-        "highlighted": false
-      },
-      {
         "home": "Bournemouth",
         "away": "Sunderland",
         "home_score": 2,
         "away_score": 0,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "1:00 PM UTC",
         "date": "Oct 18",
         "highlighted": false
@@ -270,9 +212,9 @@
       {
         "home": "Nottingham",
         "away": "Arsenal",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "3:30 PM UTC",
         "date": "Oct 18",
         "highlighted": false
@@ -302,6 +244,17 @@
       },
       {
         "position": 2,
+        "team": "Arsenal",
+        "played": 7,
+        "won": 6,
+        "drawn": 0,
+        "lost": 1,
+        "gd": 6,
+        "points": 18,
+        "highlighted": false
+      },
+      {
+        "position": 3,
         "team": "Brighton Hove",
         "played": 7,
         "won": 5,
@@ -309,17 +262,6 @@
         "lost": 1,
         "gd": 18,
         "points": 16,
-        "highlighted": false
-      },
-      {
-        "position": 3,
-        "team": "Arsenal",
-        "played": 6,
-        "won": 5,
-        "drawn": 0,
-        "lost": 1,
-        "gd": 5,
-        "points": 15,
         "highlighted": false
       },
       {
@@ -360,108 +302,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Intensify Interest in Sporting CP Midfielder Viktor Gyokeres",
-        "summary": "Arsenal are reportedly preparing a summer bid for Viktor Gyokeres, with Sporting CP's €100 million release clause understood to be the starting point for negotiations. The Gunners are keen to add a prolific striker as they target a Premier League title challenge next season.",
+        "headline": "Manchester United in Advanced Talks for Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Manchester United are reported to be in advanced discussions with Sporting CP over a summer move for Swedish striker Viktor Gyökeres, with a deal potentially worth £85 million. The 26-year-old has been one of Europe's most prolific forwards this season, drawing interest from Arsenal and Barcelona as well.",
         "clubs": [
-          "Arsenal",
+          "Manchester United",
           "Sporting CP"
         ]
       },
       {
-        "headline": "Manchester United Explore Move for Bayer Leverkusen Defender Edmond Tapsoba",
-        "summary": "Manchester United's new footballing structure is assessing Edmond Tapsoba as a priority defensive target, with the club's backline identified as an area requiring significant investment. Leverkusen are expected to demand upwards of £60 million for the Burkina Faso international.",
+        "headline": "Chelsea Target Nico Williams as Raheem Sterling Future Remains Uncertain",
+        "summary": "Chelsea are reportedly renewing interest in Athletic Club winger Nico Williams ahead of the summer window, with his £52 million release clause making him an attainable target. Williams had a standout Euro 2024 campaign and has continued that form domestically, prompting multiple top European clubs to circle.",
         "clubs": [
-          "Manchester United",
-          "Bayer Leverkusen"
+          "Chelsea",
+          "Athletic Club"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Arsenal",
+      "home": "Arsenal",
+      "away": "Manchester City",
       "date": "Sunday, 3:00 PM BST",
-      "preview": "This is the defining fixture of the Premier League season, with Arsenal arriving at the Etihad just two points behind City at the top of the table with six games remaining. City will lean heavily on Erling Haaland's goal threat and their home fortress, where they have lost only once this season, while Arsenal's high-press system under Arteta has looked increasingly clinical in recent weeks. The storylines are irresistible — Arteta returning to face his former mentor Guardiola with a genuine title in his grasp for the first time — making this arguably the biggest game in English football this spring.",
+      "preview": "The title race's defining fixture arrives at the Emirates as Arsenal host Manchester City in what could effectively be a six-pointer with the season entering its critical final stretch. Arsenal enter on a five-match winning run in all competitions, buoyed by Martin Ødegaard's return to form, while City are seeking to arrest a run of inconsistency that has seen them drop points against mid-table sides. Pep Guardiola's side will look to exploit Arsenal's high defensive line with Erling Haaland's movement, making this a fascinating tactical battle between Arteta's structured press and City's positional play.",
       "key_players": [
+        "Martin Ødegaard",
         "Erling Haaland",
-        "Bukayo Saka",
-        "Rodri"
+        "Bukayo Saka"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed day-to-day; hopes of making the Arsenal squad but fitness not confirmed"
+        "status": "Recovering",
+        "return": "Expected return late April; may feature from the bench"
       },
       {
-        "player": "Jurrien Timber",
+        "player": "Jurriën Timber",
         "team": "Arsenal",
-        "status": "Recovering",
-        "return": "Expected to be available for selection after returning to full training this week"
+        "status": "Doubtful",
+        "return": "Assessed day-to-day; hamstring tightness flagged after midweek training"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank uses the Internal Ratings-Based (IRB) approach under Basel III to calculate regulatory capital for credit risk. Which of the following statements best describes the relationship between asset correlation and required capital under this framework?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income",
+      "question": "A portfolio manager uses the Nelson-Siegel model to decompose the yield curve into three factors. Which of the following best describes the role of the 'curvature' factor in this framework?",
       "options": {
-        "A": "Higher asset correlation decreases required capital because diversification benefits are greater when assets move together.",
-        "B": "Higher asset correlation increases required capital because the probability of simultaneous defaults rises, increasing unexpected loss.",
-        "C": "Asset correlation has no impact on required capital under the IRB approach; only PD, LGD, and EAD are used.",
-        "D": "Higher asset correlation decreases required capital because expected losses increase, shifting the burden to provisions rather than capital."
+        "A": "It captures parallel shifts in the yield curve and is represented by a loading that approaches 1 for all maturities.",
+        "B": "It captures the slope of the yield curve, representing the spread between long-term and short-term rates.",
+        "C": "It captures the hump shape of the yield curve, with loadings that are highest at intermediate maturities and approach zero at both short and long ends.",
+        "D": "It captures the spread between nominal and real yields, effectively representing breakeven inflation expectations."
       },
-      "correct": "B",
-      "explanation": "Under the IRB approach, the Basel II/III credit risk capital formula explicitly incorporates an asset correlation parameter (R), which captures how a borrower's asset value co-moves with the systematic risk factor. Higher correlation means that in a downturn, many borrowers are likely to default simultaneously, increasing the tail risk (unexpected loss) that regulatory capital must cover. The capital requirement rises with correlation because the supervisory formula computes a conditional default probability under a stressed systematic factor, and higher R amplifies the sensitivity to that stress scenario. Options A and D misstate the direction of the effect, and Option C is incorrect because correlation is explicitly embedded in the IRB formula."
+      "correct": "C",
+      "explanation": "In the Nelson-Siegel model, the three factors are level, slope, and curvature. The curvature (or 'butterfly') factor has a loading function that peaks at intermediate maturities and decays to zero at both the short and long ends of the curve, capturing the hump or bowl shape. The level factor shifts all rates in parallel, while the slope factor captures the steepness between short and long maturities. Breakeven inflation is not part of the Nelson-Siegel decomposition."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why imperfect hedges can leave residual risk — and how to manage it.",
+      "title": "Private Credit's Rise as a Systemic Risk",
+      "subtitle": "The explosive growth of private credit markets is redefining risk distribution — and raising questions regulators cannot yet answer.",
       "paragraphs": [
-        "Basis risk arises when the instrument used to hedge an exposure does not perfectly offset the price movements of the underlying asset being hedged. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the contract used to hedge it. Because these two prices rarely move in perfect lockstep, any hedge involving a futures or derivative contract will have some residual, unhedged risk — known as basis risk. This is an inherent limitation in nearly all practical hedging programs.",
-        "A classic real-world example involves a jet fuel hedging program at an airline. Airlines commonly hedge fuel costs using crude oil futures (WTI or Brent) because liquid jet fuel futures markets are shallow. However, the spread between crude oil and jet fuel (the crack spread) can widen significantly during supply disruptions or refinery outages, meaning the hedge performs poorly precisely when the airline needs it most — a manifestation of basis risk. Similarly, a fixed-income portfolio manager hedging corporate bond exposure with Treasury futures faces basis risk from fluctuating credit spreads that the Treasury hedge cannot capture.",
-        "For risk managers and investors, basis risk must be quantified and monitored as a distinct risk factor separate from the directional market risk being hedged. In hedge accounting under IFRS 9 and ASC 815, effectiveness testing requires demonstrating that basis risk does not undermine the economic relationship between hedging instrument and hedged item. Practitioners manage basis risk by selecting the most correlated available instrument, adjusting hedge ratios dynamically, and in some cases running cross-hedge portfolios. Stress testing hedge effectiveness under adverse basis scenarios is considered best practice for treasury and risk management teams."
+        "Private credit — loans originated by non-bank lenders such as business development companies (BDCs), credit funds, and insurance-linked vehicles — has grown from roughly $500 billion in assets under management in 2015 to over $1.7 trillion globally by 2024. Unlike syndicated bank loans, private credit deals are negotiated bilaterally between a borrower and a lender (often a private equity-backed fund), remain off public exchanges, and carry little mark-to-market transparency. The asset class spans direct lending, mezzanine debt, distressed credit, and specialty finance, and has attracted capital largely because of its floating-rate structure and historically low default rates relative to public high yield.",
+        "The growth has been turbocharged by the post-2022 rate environment: as banks pulled back from leveraged lending amid regulatory capital constraints, private credit funds stepped in to finance LBOs, middle-market companies, and even investment-grade-adjacent borrowers. Firms like Ares, Blue Owl, HPS, and Apollo have raised mega-funds exceeding $20 billion. Retail democratization through interval funds and evergreen vehicles has further expanded the investor base beyond institutional allocators. Crucially, much of this credit has been extended to companies with EBITDA under $100 million — borrowers with limited refinancing options and thin liquidity cushions.",
+        "For risk managers and institutional investors, private credit presents a dual challenge: illiquidity premium is real but hard to isolate from credit risk premia, and mark-to-model valuations can mask deterioration in borrower health until a covenant breach forces recognition. Concentration risk is elevated when the same GP lends to the same PE sponsor across multiple funds. Regulators at the FSB and Federal Reserve have flagged interconnectedness between private credit and insurance balance sheets as a potential amplifier in a stress scenario. Investors should stress-test assumptions around recovery rates, refinancing cliffs in 2025–2026, and the correlation between private credit drawdowns and public equity volatility."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining when a hedge instrument does not perfectly track the hedged exposure, measured as the difference between spot and futures prices.",
-        "Cross-hedges — using a proxy instrument when a direct hedge is unavailable — are particularly susceptible to basis risk widening during market stress.",
-        "Effective risk management requires monitoring, stress testing, and dynamically adjusting hedge ratios to account for changing basis dynamics over time."
+        "Private credit has grown to $1.7T+ AUM, filling the void left by regulated banks in leveraged lending — but with far less transparency.",
+        "Floating-rate structures benefit lenders in a high-rate environment, but they simultaneously stress highly leveraged borrowers approaching refinancing walls.",
+        "Systemic risk stems from opacity, mark-to-model valuations, and the deep interconnection between private credit funds, PE sponsors, and insurance company balance sheets."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; commitment",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or finality — as if something happened beyond one's intention. In this sentence, it conveys that the budget was spent completely, with a hint of disappointment.",
-      "memory_tip": "Think of 予算 (yosan) as 'Yo, SAN dollars left?' — you started with a budget and now you're down to almost nothing. The 予 character means 'in advance' and 算 means 'calculate,' so a budget is literally a 'pre-calculation' of spending."
+      "example_jp": "友達と明日の午後３時に会う約束をしました。",
+      "example_romaji": "Tomodachi to ashita no gogo sanji ni au yakusoku wo shimashita.",
+      "example_en": "I made a promise to meet my friend tomorrow at 3 PM.",
+      "grammar_point": "〜をしました (plain past action with を + する)",
+      "grammar_explanation": "In Japanese, many nouns can be turned into actions by adding する (to do). 約束をする means 'to make a promise,' and 約束をしました is its polite past tense form, indicating the action was completed.",
+      "memory_tip": "Think of 'yak-o-soku' — a yak (large animal) solemnly bowing its head to keep a SOCial commitment. A yak who bows always keeps its PROMISE."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Automate Complex Financial Analysis Workflows",
-      "summary": "A new generation of agentic AI systems — capable of planning multi-step tasks, querying external data sources, and producing structured financial outputs — is moving from research into production at major asset managers and banks. Unlike simple chatbots, these agents can autonomously fetch earnings transcripts, run ratio analyses, draft investment memos, and flag anomalies in risk reports with minimal human intervention. Firms including JPMorgan, BlackRock, and several quant hedge funds have disclosed internal deployments of orchestrated AI pipelines for portfolio monitoring and credit surveillance. The speed and consistency of these systems is beginning to pressure traditional analyst workflows, particularly at the junior and mid-level where repetitive synthesis tasks are most common.",
+      "headline": "AI Agents Are Now Executing Trades — Not Just Recommending Them",
+      "summary": "A new generation of agentic AI systems — capable of multi-step reasoning, tool use, and autonomous decision execution — is moving from research labs into live financial workflows. Firms including JP Morgan, Citadel, and Man Group have deployed or are piloting systems where AI agents autonomously execute portions of the investment process: from data sourcing and signal generation to order routing and post-trade reconciliation. Unlike earlier ML models that output a prediction for a human to act on, agentic systems can chain dozens of sub-tasks with minimal human intervention, compressing what once took an analyst team hours into seconds. The regulatory and model-risk governance frameworks to supervise these systems are still being written.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, execute, and iterate on multi-step tasks — such as pulling financial data, running analysis, and generating a report — without requiring human input at each step."
+          "definition": "AI systems that can independently plan, make decisions, and execute multi-step tasks using tools like APIs, databases, and trading systems — going beyond single-turn question-answering to autonomous workflows relevant to portfolio management and risk operations."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant external documents (e.g., 10-Ks, research reports, regulatory filings) before generating a response, making outputs more accurate and grounded in current financial data."
+          "definition": "A technique where an AI model retrieves relevant, up-to-date documents or data (e.g., earnings transcripts, regulatory filings, market data) before generating a response, significantly improving factual accuracy for financial research applications."
         },
         {
-          "term": "Orchestration Layer",
-          "definition": "The software framework (such as LangChain or AutoGen) that coordinates multiple AI models and tools — like a project manager assigning subtasks — enabling complex financial workflows to be automated end-to-end."
+          "term": "Model Risk Governance (MRG) for LLMs",
+          "definition": "The emerging discipline of validating, monitoring, and controlling large language models used in financial decision-making — analogous to SR 11-7 guidance for traditional quantitative models, but adapted for the probabilistic and opaque nature of generative AI outputs."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, and critically evaluate AI agent outputs will command a premium over those who simply use AI as a search tool. The highest-value skill is not coding — it is financial judgment applied to AI outputs: knowing when the agent is wrong, hallucinating data, or missing a nuanced risk factor. Risk managers and analysts who can act as 'AI supervisors' — setting guardrails, validating outputs, and integrating agentic tools into governance frameworks — will be among the most sought-after professionals in the next five years."
+      "career_insight": "Finance professionals who understand both the technical capabilities of agentic AI systems and the regulatory constraints governing model risk will be disproportionately valuable in the next five years. The most future-proof skill set combines domain expertise (credit analysis, derivatives pricing, risk management) with the ability to design, audit, and challenge AI-driven workflows — not just consume their outputs. Prompt engineering and AI orchestration literacy are rapidly becoming as expected as Excel proficiency was in the 2000s."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment is cautiously constructive this week, supported by resilient US labor market data and a softer-than-expected core PCE print that has revived hopes for Fed rate cuts in the second half of the year — with fed funds futures now pricing approximately 50bps of easing by December. However, markets remain on edge as Middle East geopolitical tensions keep Brent crude elevated above $88/bbl, compressing margins for energy-importing economies and adding a stagflationary undercurrent to the macro narrative. Credit spreads in IG are tight by historical standards while HY has seen modest widening, suggesting differentiated risk appetite; equity implied vol (VIX sub-15) looks complacent relative to the macro uncertainty, and a reassessment of rate cut timing or an oil supply shock could trigger a sharp repricing."
+    "market_sentiment": "Global risk assets are navigating a delicate equilibrium this week: U.S. equity markets remain near all-time highs but breadth is narrowing, with mega-cap tech carrying disproportionate index weight while small-caps and cyclicals lag — a divergence that historically precedes either a rotation or a broader correction. The macro narrative is being pulled in two directions: resilient U.S. labor data and sticky services inflation argue for 'higher for longer,' while softening PMIs in Europe and China's deflationary pressure create a drag on global growth expectations, keeping sovereign bond markets volatile. Credit spreads remain surprisingly tight given the macro uncertainty, suggesting either complacency or a genuine belief that central banks retain sufficient dry powder to manage a soft landing — a thesis the next CPI print will either validate or severely test."
   }
 }
