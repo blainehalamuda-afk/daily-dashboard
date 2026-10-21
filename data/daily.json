@@ -1,37 +1,37 @@
 {
-  "generated_at": "3:57 PM UTC",
-  "date": "Tuesday, October 20, 2026",
+  "generated_at": "4:13 PM UTC",
+  "date": "Wednesday, October 21, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 67,
+    "temp_f": 66,
     "feels_like_f": 65,
-    "high_f": 71,
+    "high_f": 69,
     "low_f": 64,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 36,
-    "wind_mph": 6,
+    "humidity": 43,
+    "wind_mph": 10,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 45,
-        "low": 45,
-        "description": "Clear Sky"
-      },
       {
         "day": "Thu",
         "icon": "☀️",
-        "high": 50,
-        "low": 50,
+        "high": 43,
+        "low": 43,
         "description": "Clear Sky"
       },
       {
         "day": "Fri",
         "icon": "☀️",
-        "high": 48,
-        "low": 48,
+        "high": 47,
+        "low": 47,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "high": 47,
+        "low": 47,
         "description": "Clear Sky"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 769.98,
-        "change": 3.5,
-        "change_pct": 0.46,
+        "price": 772.44,
+        "change": 3.39,
+        "change_pct": 0.44,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 340.88,
-        "change": -2.06,
-        "change_pct": -0.6,
-        "up": false,
+        "price": 343.93,
+        "change": 4.43,
+        "change_pct": 1.3,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 217.49,
-        "change": 0.4,
-        "change_pct": 0.18,
+        "price": 220.46,
+        "change": 3.99,
+        "change_pct": 1.84,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 374.81,
-        "change": 6.75,
-        "change_pct": 1.83,
+        "price": 386.6,
+        "change": 12.89,
+        "change_pct": 3.45,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 82561.85,
-        "change": 520.43,
-        "change_pct": 0.63,
+        "price": 84592.51,
+        "change": 2093.92,
+        "change_pct": 2.54,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2440.28,
-        "change": 42.89,
-        "change_pct": 1.79,
+        "price": 2509.75,
+        "change": 72.51,
+        "change_pct": 2.98,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,77 +111,66 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow turns up, S&P 500 and Nasdaq rally as tech stocks bounce; oil prices slip while yields tick up - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-bounce-back-teach-earnings-third-quarter",
-        "description": "Follow all the latest U.S. market action for Monday here.",
-        "published": "2:20 PM UTC",
+        "title": "Dow jumps 500 points as solid earnings, falling crude oil stir rebound: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+        "description": "A number of upbeat earnings reports and a drop in oil prices overshadowed recent pressure seen among artificial intelligence-related stocks.",
+        "published": "4:37 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Oil Futures Pull Back on Russia Sanctions Waiver - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15",
-        "description": "",
-        "published": "1:56 PM UTC",
+        "title": "Delivery Robots Accused Of Scanning Customers’ Faces, Sharing Biometric Data - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/chicago-food-delivery-robots-biometric-data-lawsuits-16ead54eb7dc7c6eacbf011c53b9b20d",
+        "description": "The battle over Chicago’s food delivery robots has reached the courts, with two customers accusing the companies behind them of collecting their biometric data without consent.",
+        "published": "3:25 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Some iPhone Duo orders getting moved up to earlier dates - 9to5Mac",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/10/19/some-iphone-duo-orders-getting-moved-up-to-earlier-dates/",
-        "description": "A number of users have started reporting that their iPhone Duo pre-orders now show earlier delivery dates than originally estimated.",
-        "published": "1:19 PM UTC",
+        "title": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake Manor, and More - XBOX Wire",
+        "source": "Xbox.com",
+        "url": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/",
+        "description": "Ghosts to question and a planet to save. Sounds like a perfectly reasonable few weeks to me! We have another batch of games coming soon to Game Pass, so clear a little room in that “Play Next List” an",
+        "published": "4:04 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "DIY VR: How to build your own headset, and why you probably won't want to - Ars Technica",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
-        "description": "A primer on the joys and pains of building your own head-mounted display.",
-        "published": "12:33 PM UTC",
+        "title": "AMD and Microsoft announce FSR 4.1 support for Xbox Series X|S and Xbox Ally, bringing huge performance gains - Windows Central",
+        "source": "Windows Central",
+        "url": "https://www.windowscentral.com/gaming/xbox/amd-and-microsoft-announce-fsr-4-1-support-for-xbox-series-x-s-and-xbox-ally-bringing-huge-performance-gains",
+        "description": "In a video address, AMD revealed FSR 4.1 support is coming \"soon\" to Xbox consoles, and this week to Xbox Ally.",
+        "published": "3:22 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Saros' Massive Zenith Update Is Available Now on PS5, Free for All Players - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/10/saros-massive-zenith-update-is-available-now-on-ps5-free-for-all-players",
-        "description": "Boss rush! New Game+! More!",
-        "published": "12:30 PM UTC",
+        "title": "On Warhammer TV this week – Devastation and drybrushing - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/articles/thujy0zv/on-warhammer-tv-this-week-devastation-and-drybrushing",
+        "description": "Enjoy lore, painting challenges, and episode two of Arkanaut.",
+        "published": "2:56 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Jalen Hurts out for season after blood clots discovered in Eagles QB's lungs - ESPN",
-        "source": "ESPN",
-        "url": "https://www.espn.com/nfl/story/_/id/50218378/eagles-jalen-hurts-season-due-blood-clots-lungs",
-        "description": "Jalen Hurts will miss the rest of the season after doctors discovered multiple blood clots in the Eagles QB's lungs, according to NFL Network and ESPN.",
-        "published": "2:22 PM UTC",
+        "title": "Christina Applegate reveals she was misdiagnosed with multiple sclerosis: \"Not happy at all\" - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/christina-applegate-misdiagnosis-multiple-sclerosis/",
+        "description": "Christina Applegate said on her MeSsy podcast that her doctor recently revealed she did not have multiple sclerosis.",
+        "published": "4:14 PM UTC",
         "category": "General"
       },
       {
-        "title": "Supreme Court agrees to review a Reconstruction-era ban on distilling spirits in private homes - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/supreme-court-distilling-spirits-reconstruction-ban-51131151865ded86093a99ec56451465",
-        "description": "People who want the right to distill spirits in their private homes are celebrating the Supreme Court's decision to hear their case. The Supreme Court said Monday it'll consider if Congress had the co",
-        "published": "1:57 PM UTC",
+        "title": "'You Can See Everything' Wins Monday Box Office; Looks to Take Down 'Clayface' - Deadline",
+        "source": "Deadline",
+        "url": "http://deadline.com/2026/10/you-can-see-everything-clayface-box-office-1237168607/",
+        "description": "'You Can See Everything' wins Monday box office with $2.5M. Documentary has shot at taking out 'Clayface' at box office.",
+        "published": "3:48 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [
-      {
-        "home": "Tottenham",
-        "away": "Coventry City",
-        "home_score": 3,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "7:00 PM UTC",
-        "date": "Oct 19",
-        "highlighted": false
-      }
-    ],
+    "matches": [],
     "standings": [
       {
         "position": 1,
@@ -254,16 +243,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Weighing Move for Stuttgart Midfielder Enzo Millot",
-        "summary": "United's recruitment team has identified Millot as a priority target to add creativity and box-to-box energy to their midfield rebuild under new manager direction. Stuttgart are reportedly seeking a fee in the region of £45m, which could prove a stumbling block given United's financial fair play constraints.",
+        "headline": "Arsenal in Advanced Talks for Bundesliga Midfielder Amid Midfield Depth Concerns",
+        "summary": "Arsenal are reportedly in advanced negotiations to secure a top Bundesliga midfielder on a pre-contract agreement, with Arteta keen to add creative depth following injuries to key players in the engine room. A deal could be announced before the end of the January window.",
         "clubs": [
-          "Manchester United",
-          "VfB Stuttgart"
+          "Arsenal",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Renew Interest in Napoli Striker Victor Osimhen Amid Loan Uncertainty",
-        "summary": "With Osimhen's loan spell at Galatasaray drawing to a close, Chelsea are believed to have re-entered discussions with Napoli over a permanent summer deal, reportedly tabling an opening bid below the Nigerian striker's release clause valuation. Napoli insist they will not sell below their €75m valuation, setting up a tense negotiating period.",
+        "headline": "Chelsea Revive Interest in Napoli Striker as Palmer Injury Raises Attacking Concerns",
+        "summary": "Chelsea's recruitment team has reportedly reopened discussions with Napoli over a striker target identified last summer, as the club seeks cover following a congested fixture schedule and concerns over attacking options. A loan-to-buy structure is said to be the preferred structure for both parties.",
         "clubs": [
           "Chelsea",
           "Napoli"
@@ -271,91 +260,91 @@
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
+      "home": "Manchester City",
+      "away": "Liverpool",
       "date": "Sunday, 3:00 PM GMT",
-      "preview": "The most anticipated fixture of the Premier League weekend pits an Arsenal side desperate to claw back ground at the top against a City team showing renewed consistency after a turbulent mid-season patch. Arsenal's high press and compact defensive block will be severely tested by City's positional rotations, with the Emirates atmosphere set to be electric given the title implications. Pep Guardiola's side have historically found ways to quiet hostile crowds through patient ball retention, but Mikel Arteta's men have conceded just twice at home in their last eight league games, making this a fascinating tactical collision.",
+      "preview": "The Premier League's defining fixture of the season arrives at the Etihad with Liverpool holding a five-point lead at the top of the table and City desperately needing a win to stay in realistic title contention. City have shown renewed defensive solidity over recent weeks but have struggled for attacking fluency without an established striker, while Liverpool arrive in devastating form with Mohamed Salah producing numbers that defy his age and contract situation. The tactical battle between Guardiola's high defensive line and Slot's fluid pressing structure promises to be one of the most fascinating chess matches of the Premier League season.",
       "key_players": [
-        "Bukayo Saka",
-        "Phil Foden",
-        "Martin Ødegaard"
+        "Mohamed Salah",
+        "Erling Haaland",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of Sunday; missed midweek training session"
+      },
+      {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Long-term absence; not expected before late season"
-      },
-      {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Being assessed day-to-day; possible return within 1-2 weeks"
+        "return": "Long-term absence continues; no expected return before March at earliest"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income – Yield Curve Analysis",
-      "question": "A portfolio manager observes that the 2-year Treasury yield has risen 80 bps while the 10-year Treasury yield has risen only 30 bps over the past quarter. Which of the following best describes this yield curve movement, and what is its most likely implication for a barbell strategy relative to a bullet strategy of equal duration?",
+      "exam": "FRM Part 1",
+      "topic": "Credit Risk",
+      "question": "A bank estimates that a corporate borrower has a 1-year probability of default (PD) of 3%, a loss given default (LGD) of 55%, and an exposure at default (EAD) of $10 million. Under the IRB approach, which of the following best describes the relationship between Expected Loss (EL) and Unexpected Loss (UL), and what does regulatory capital primarily cover?",
       "options": {
-        "A": "A parallel shift; the barbell and bullet strategies will produce identical returns.",
-        "B": "A flattening twist; the barbell strategy will underperform the bullet strategy.",
-        "C": "A flattening twist; the barbell strategy will outperform the bullet strategy.",
-        "D": "A steepening twist; the barbell strategy will outperform the bullet strategy."
+        "A": "EL = $165,000; regulatory capital covers EL because it represents the most likely loss scenario",
+        "B": "EL = $165,000; regulatory capital covers UL because EL is absorbed by loan loss provisions and pricing",
+        "C": "EL = $1,650,000; regulatory capital covers both EL and UL to ensure full solvency under stress",
+        "D": "EL = $165,000; regulatory capital covers neither EL nor UL, as both are managed through diversification"
       },
       "correct": "B",
-      "explanation": "When short-term rates rise more than long-term rates, the yield curve flattens — a non-parallel shift called a twist. A barbell strategy holds concentrated positions at short and long maturities, so it is heavily exposed to the rising short end; a bullet strategy concentrates holdings at intermediate maturities, which experienced a smaller yield increase. Because the barbell's short-maturity bonds suffer greater price losses from the 80 bps rise, the barbell underperforms the bullet on a total return basis despite equal duration. This is why convexity alone does not guarantee outperformance — the shape of the curve shift matters critically."
+      "explanation": "Expected Loss = PD × LGD × EAD = 0.03 × 0.55 × $10,000,000 = $165,000. Under Basel's IRB framework, EL is considered a cost of doing business and should be covered by loan loss provisions and risk-adjusted pricing embedded in loan spreads. Regulatory capital (economic and regulatory) is designed to absorb Unexpected Loss — the volatility around the mean loss — which represents the tail risk that could threaten solvency. This distinction is fundamental to the Basel capital framework's philosophy of separating provisioning from capital adequacy."
     },
     "finance_topic": {
-      "title": "Basis Risk and Hedging Imperfection in Practice",
-      "subtitle": "Why hedges rarely eliminate risk entirely — and how savvy risk managers account for the gap.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why a seemingly perfect hedge can still leave risk managers exposed to residual losses they didn't anticipate.",
       "paragraphs": [
-        "Basis risk is the residual risk that remains after a hedge is put in place, arising because the price of the hedging instrument does not move in perfect lockstep with the exposure being hedged. In its simplest form, basis is defined as the difference between the spot price of the asset being hedged and the futures price of the contract used as the hedge. Even when an asset and its hedge are highly correlated, changes in that correlation — or differences in contract specifications, liquidity, and settlement — can cause the basis to widen or narrow unpredictably, leaving the hedger with material profit-and-loss volatility.",
-        "A classic real-world example occurred in the airline industry during the 2008 commodity cycle. Several airlines hedged jet fuel exposure using crude oil futures, the most liquid energy contract available. When jet fuel refining margins spiked independently of crude oil prices, the basis between crude futures and physical jet fuel widened dramatically. Airlines that had believed themselves fully hedged discovered significant unhedged losses — not because oil prices moved against them, but because the spread between their exposure and their hedge instrument behaved unexpectedly. Similarly, fixed-income portfolio managers using Treasury futures to hedge corporate bond portfolios face credit spread basis risk, where rising default fears can drive corporate yields wider while Treasury futures remain unmoved.",
-        "For risk managers and investors, understanding basis risk demands two things: first, a rigorous hedge ratio calculation — often using regression-based minimum variance techniques rather than simple notional matching — and second, ongoing monitoring of the correlation between the hedged item and the hedging instrument. Firms that treat a hedge as a 'set and forget' instrument often discover that changing market regimes quietly erode hedge effectiveness. Stress testing hedge portfolios under scenarios where basis widens sharply is now considered a best practice under both IFRS 9 hedge accounting standards and internal risk governance frameworks."
+        "Basis risk arises when the price movements of a hedging instrument do not perfectly offset the price movements of the underlying exposure being hedged. Formally, basis is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used as the hedge. Even when a hedge is carefully constructed, differences in contract specifications, delivery locations, credit quality, tenor, or liquidity can cause the hedge to drift from the exposure it was meant to neutralize, leaving a residual profit or loss.",
+        "A classic real-world example emerged during the 2022 energy crisis in Europe, when utilities that had sold forward electricity contracts to lock in revenues found that the margin calls on those futures positions — triggered by surging gas prices — created acute short-term liquidity crises, even though their long-run economic position was sound. The hedge was economically correct, but the cash-flow timing mismatch (a form of basis risk between mark-to-market settlements and physical delivery revenues) nearly bankrupted operationally profitable companies. Similarly, airlines hedging jet fuel with crude oil futures face commodity basis risk since the crack spread between crude and refined products can widen dramatically during refinery disruptions.",
+        "For risk managers and investors, basis risk means that a hedged portfolio is not a risk-free portfolio. When constructing hedges, practitioners should calculate the hedge ratio using regression analysis of historical price relationships, stress-test the basis under adverse scenarios, and maintain liquidity buffers to absorb margin call volatility. Regulatory frameworks like IFRS 9 and ASC 815 require firms to demonstrate hedge effectiveness within defined bands, making basis risk not just an operational concern but an accounting one — a hedge that fails effectiveness testing loses its favorable accounting treatment and introduces P&L volatility."
       ],
       "key_takeaways": [
-        "Basis risk is unavoidable in most real-world hedges; the goal is to minimize it, not assume it equals zero.",
-        "Using a regression-derived optimal hedge ratio substantially reduces variance compared to naive notional matching.",
-        "Correlation between a hedge instrument and the underlying exposure must be monitored continuously — regimes change and basis can widen dramatically during market stress."
+        "Basis risk is the residual risk remaining after a hedge is put in place, arising from imperfect correlation between the hedge instrument and the underlying exposure.",
+        "Real-world basis risk manifests through location, quality, tenor, and cash-flow timing mismatches — even economically sound hedges can create dangerous liquidity squeezes.",
+        "Effective hedge management requires ongoing monitoring of the basis, stress-testing under adverse scenarios, and maintaining sufficient liquidity to sustain margin calls without forced unwinds."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kontsuki no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It is the polite past form of 〜てしまう, used when the speaker feels the result is unfortunate or irreversible.",
-      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — your budgeted sum of money for the month. Picturing a treasurer checking their 'yo-san' spreadsheet makes it stick."
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or that something happened unintentionally. It combines the te-form of a verb with しまう (shimau), which signals finality or an unwanted outcome.",
+      "memory_tip": "Think of 予 (yo) as 'yo, I planned ahead' and 算 (san) as 'calculate' — a budget is what you calculate in advance. Picture yourself saying 'Yo, I SANely planned my spending... and still blew it!' to remember both the word and the regretful grammar pattern."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Automating Multi-Step Financial Analysis Workflows End to End",
-      "summary": "A new generation of autonomous AI agents — systems that can plan, execute, and iterate across multiple steps without human intervention — is moving from research labs into production environments at major asset managers and banks. Unlike simple chatbots, these agents can retrieve live data, write and run code, interpret outputs, and synthesize findings into analyst-grade reports. Early deployments at quantitative hedge funds have shown agents capable of running factor backtests, flagging data anomalies, and drafting investment memos in a fraction of the time required by junior analysts. The strategic implication is not mass replacement but a dramatic reshaping of leverage: one senior analyst overseeing five AI agents may produce the output previously requiring a team of ten.",
+      "headline": "AI Agents Are Beginning to Execute Trades Without Human Approval",
+      "summary": "A new generation of autonomous AI agents — capable of perceiving market data, forming hypotheses, and executing multi-step strategies — is moving from research labs into live trading environments at select hedge funds and proprietary trading firms. Unlike earlier algorithmic systems that follow rigid rule sets, these agents use large language models combined with reinforcement learning to adapt dynamically to changing market regimes. Early deployments are focused on lower-liquidity markets and shorter time horizons where human oversight latency is a genuine competitive disadvantage. Regulators at the SEC and FCA have begun issuing guidance on accountability frameworks, raising fundamental questions about who is responsible when an AI agent makes a loss-generating decision autonomously.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that autonomously plan and execute multi-step tasks — such as pulling market data, running analysis, and generating a report — with minimal human prompting, moving beyond simple question-and-answer interactions."
+          "definition": "AI systems that can autonomously plan, take actions across multiple steps, and interact with external tools or data sources — in finance, this means an AI that can read an earnings release, assess macro context, size a position, and place an order without human intervention at each step."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to external, up-to-date data sources (like earnings databases or regulatory filings) at query time, allowing it to give accurate, current answers rather than relying solely on its training data."
+          "term": "Reinforcement Learning from Market Feedback (RLMF)",
+          "definition": "A training paradigm where an AI trading agent learns by receiving reward signals based on the P&L and risk outcomes of its decisions, iteratively improving its strategy — analogous to how a human trader develops intuition through years of live trading experience."
         },
         {
-          "term": "Reinforcement Learning from Human Feedback (RLHF)",
-          "definition": "A training method where human experts rate AI outputs and those ratings are used to fine-tune the model — critical in finance for aligning AI behavior with compliance standards and domain-specific accuracy requirements."
+          "term": "Model Explainability (XAI) in Trading",
+          "definition": "The ability to trace and interpret why an AI model made a specific trading decision, which is increasingly required by compliance teams and regulators to ensure that autonomous systems are not making decisions based on prohibited signals such as material non-public information."
         }
       ],
-      "career_insight": "Finance professionals who learn to design, supervise, and quality-control AI agent workflows will command a significant premium over those who only consume AI outputs passively. The most valuable skill set emerging is the hybrid ability to combine deep domain expertise — knowing when an AI output is plausible versus dangerously wrong — with enough technical fluency to prompt, configure, and audit these systems effectively."
+      "career_insight": "Finance professionals who understand how to govern, audit, and set risk boundaries for AI agents — rather than simply build them — will be among the most valuable in the next decade. Risk managers with skills in model validation, AI accountability frameworks, and behavioral stress-testing of autonomous systems are seeing dramatically increased demand, with some firms creating dedicated 'AI Risk Officer' roles at the managing director level."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a cautious consolidation phase as markets digest the 'higher-for-longer' rate narrative following resilient US labor data and sticky core services inflation, keeping the Fed on hold and compressing rate-cut expectations further into 2025. Equity markets are bifurcating sharply — mega-cap AI-linked names continue to command premium multiples on earnings momentum, while rate-sensitive sectors like utilities and small caps face persistent multiple compression. Credit spreads remain surprisingly tight despite elevated all-in yields, suggesting investors are prioritizing carry over caution, though any uptick in high-yield default rates could trigger a rapid repricing that the current spread environment is not pricing in."
+    "market_sentiment": "Global risk sentiment remains cautiously constructive this morning, with equities grinding higher on resilient US labor data that has pushed back aggressive Fed rate-cut expectations toward Q4 2025 — markets are now pricing fewer than two full cuts for the year, a meaningful repricing from January consensus. The USD has strengthened modestly on the recalibration, putting pressure on EM currencies and commodity prices, while the front end of the Treasury curve has sold off with 2-year yields approaching 4.85%. Credit spreads in IG remain tight and appear complacent relative to the rates volatility being implied by the options market, suggesting the next catalyst — likely CPI mid-month — could force a sharp repricing in one direction or the other."
   }
 }
