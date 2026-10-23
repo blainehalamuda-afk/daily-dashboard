@@ -1,38 +1,38 @@
 {
-  "generated_at": "4:12 PM UTC",
-  "date": "Thursday, October 22, 2026",
+  "generated_at": "4:02 PM UTC",
+  "date": "Friday, October 23, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 68,
-    "feels_like_f": 67,
-    "high_f": 71,
-    "low_f": 66,
+    "temp_f": 64,
+    "feels_like_f": 62,
+    "high_f": 67,
+    "low_f": 62,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 47,
-    "wind_mph": 7,
+    "humidity": 48,
+    "wind_mph": 1,
     "forecast": [
-      {
-        "day": "Fri",
-        "icon": "☀️",
-        "high": 42,
-        "low": 42,
-        "description": "Clear Sky"
-      },
       {
         "day": "Sat",
         "icon": "☀️",
-        "high": 47,
-        "low": 47,
+        "high": 43,
+        "low": 43,
         "description": "Clear Sky"
       },
       {
         "day": "Sun",
-        "icon": "☁️",
+        "icon": "🌤️",
+        "high": 47,
+        "low": 47,
+        "description": "Few Clouds"
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
         "high": 48,
         "low": 48,
-        "description": "Overcast Clouds"
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 765.31,
-        "change": -7.78,
-        "change_pct": -1.01,
+        "price": 762.93,
+        "change": -1.03,
+        "change_pct": -0.13,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 345.55,
-        "change": 1.56,
-        "change_pct": 0.45,
-        "up": true,
+        "price": 347.93,
+        "change": -0.29,
+        "change_pct": -0.08,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 213.7,
-        "change": -8.27,
-        "change_pct": -3.73,
-        "up": false,
+        "price": 212.83,
+        "change": 0.62,
+        "change_pct": 0.29,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 380.74,
-        "change": -5.73,
-        "change_pct": -1.48,
+        "price": 373.37,
+        "change": -1.21,
+        "change_pct": -0.32,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 81687.56,
-        "change": -2853.03,
-        "change_pct": -3.37,
+        "price": 81672.77,
+        "change": -3.84,
+        "change_pct": -0.0,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2398.4,
-        "change": -111.23,
-        "change_pct": -4.43,
-        "up": false,
+        "price": 2406.31,
+        "change": 8.46,
+        "change_pct": 0.35,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Nasdaq Opens Higher; SpaceX Shares Surge on Tesla Deal Talks — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026",
-        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on bonds, oil prices, the Dow, S&P 500 and Nasdaq.",
-        "published": "1:34 PM UTC",
+        "title": "Over 4 million tubes of toothpaste recalled. See affected products - USA Today",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/10/21/toothpaste-recall-brush-buddies-evo/92344819007/",
+        "description": "The U.S. Food and Drug Administration has recalled more than 4 million tubes of adult and children's toothpaste. Here are the affected products.",
+        "published": "4:34 PM UTC",
         "category": "Business"
       },
       {
-        "title": "AT&T Wireless Subscriber Growth Underwhelms. Will It Spark IPhone 18 Battle? - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "url": "https://www.investors.com/news/technology/att-earnings-att-stock-q32026-wireless-underwhelms/",
-        "description": "AT&T stock fell amid Q3 earnings that topped Wall Street targets while wireless postpaid phone subscriber additions only met expectations.",
-        "published": "12:34 PM UTC",
+        "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S. - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+        "description": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+        "published": "3:52 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Supermicro stock jumps as server maker lifts revenue forecast - Yahoo Finance",
+        "title": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck - Yahoo Finance",
         "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-as-server-maker-lifts-revenue-forecast-122408188.html",
-        "description": "Supermicro stock jumped in early trading as the company upped its gross margin guidance amid a record backlog of orders.",
-        "published": "12:24 PM UTC",
+        "url": "https://finance.yahoo.com/markets/article/meta-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733.html",
+        "description": "Stocks declined as Big Tech led the AI trade lower on Thursday.",
+        "published": "3:39 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-        "description": "Microsoft’s new Advanced Shader Delivery technology is now part of Nvidia’s drivers.",
-        "published": "1:09 PM UTC",
+        "title": "Warhammer Tone Pro: Superb coverage and vibrant colours - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/articles/focygbei/warhammer-tone-pro-superb-coverage-and-vibrant-colours",
+        "description": "Learn how even yellow and white are a breeze with the new paints.",
+        "published": "2:55 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Microsoft: FSR 4.1 Coming \"Very Soon\" to Xbox Game Developers for Series X, Series S - Digital Foundry",
-        "source": "Digitalfoundry.net",
-        "url": "https://www.digitalfoundry.net/news/2026/10/microsoft-fsr-4-1-coming-very-soon-to-xbox-game-developers-for-series-x-series-s",
-        "description": "How will FSR 4.1 stack up against PS5's QSSR and Pro's PSSR 2?",
-        "published": "12:37 PM UTC",
+        "title": "Tzeentch Daemons return via Made to Order - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/articles/tzzxr1jc/tzeentch-daemons-return-via-made-to-order",
+        "description": "Classic miniatures are coming back – just as planned.",
+        "published": "2:55 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Here's our second wave of Xbox Game Pass games for October 2026 - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/xbox-game-pass-list-october-2026",
-        "description": "The second batch of Xbox Game Pass games this month includes the console debuts of two genuine corkers.",
-        "published": "11:11 AM UTC",
+        "title": "Sony reportedly exits UHD Blu-ray player market - FlatpanelsHD",
+        "source": "FlatpanelsHD",
+        "url": "https://www.flatpanelshd.com/news.php?subaction\\\\u003dshowfull\\\\u0026id\\\\u003d1792667456",
+        "description": "",
+        "published": "2:20 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China - Fox News",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21",
-        "description": "AI companies developing artificial superintelligence face scrutiny as Congress weighs regulation, public safety safeguards and ethical reviews ahead of the midterm elections. Follow today's latest new",
-        "published": "2:24 PM UTC",
+        "title": "Judge directs President Trump to sit for deposition in his $10 billion lawsuit against the BBC - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/trump-sit-deposition-10-billion-defamation-lawsuit-bbc-jan-6-rcna605034",
+        "description": "A federal judge in Florida on Thursday ordered President Donald Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11 or face the possibility of having his $10 billion act",
+        "published": "3:59 PM UTC",
         "category": "General"
       },
       {
-        "title": "Justice Department watchdog declines to investigate handling of Reflecting Pool case, lawyers say - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/trump-reflecting-pool-justice-department-hearn-pirro-2206ea05e0f543610b447d73a0a8c2d2",
-        "description": "The Justice Department’s inspector general has declined to investigate the handling of the criminal case against a former Olympian who was cleared of accusations that he intentionally damaged the Linc",
-        "published": "1:00 PM UTC",
+        "title": "Final James Bond Screen Tests Set: Who's On List? - Deadline",
+        "source": "Deadline",
+        "url": "http://deadline.com/2026/10/james-bond-screen-tests-names-1237170401/",
+        "description": "Sources tell Deadline that screen tests for the role to play James Bond could begin as early as Friday and go through the next week.",
+        "published": "2:29 PM UTC",
         "category": "General"
       }
     ]
@@ -187,6 +187,46 @@
         "status": "TIMED",
         "time": "7:00 PM UTC",
         "date": "Oct 23",
+        "highlighted": false
+      },
+      {
+        "home": "Aston Villa",
+        "away": "Man City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "11:30 AM UTC",
+        "date": "Oct 24",
+        "highlighted": false
+      },
+      {
+        "home": "Arsenal",
+        "away": "Everton",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "Oct 24",
+        "highlighted": false
+      },
+      {
+        "home": "Coventry City",
+        "away": "Fulham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "2:00 PM UTC",
+        "date": "Oct 24",
+        "highlighted": false
+      },
+      {
+        "home": "Chelsea",
+        "away": "Tottenham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "4:30 PM UTC",
+        "date": "Oct 24",
         "highlighted": false
       }
     ],
@@ -262,16 +302,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Reignite Interest in Bundesliga Midfielder Ahead of January Window",
-        "summary": "Arsenal's technical director is reportedly tracking a dynamic box-to-box midfielder from Bayer Leverkusen as Mikel Arteta looks to add depth and intensity to his press system ahead of a crucial second half of the season.",
+        "headline": "Arsenal Eye Bundesliga Midfielder as Long-Term Thomas Partey Replacement",
+        "summary": "Arsenal's recruitment team has reportedly identified Florian Wirtz's club teammate as a primary midfield target for the summer window, with Arteta keen to add a ball-winning presence with improved passing range ahead of a Champions League campaign. Personal terms are said to be the key sticking point, with the player's camp exploring options from multiple top-six clubs.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Weighing Move for Napoli Striker as Nicolas Jackson Backup Sought",
-        "summary": "Chelsea's recruitment team has held preliminary discussions with Napoli representatives over a potential loan-to-buy structure for their Italian international forward, with the Blues concerned about depth in attack after a string of injuries.",
+        "headline": "Chelsea Submit Opening Bid for Napoli Centre-Back Amid Defensive Overhaul",
+        "summary": "Chelsea have lodged an initial offer reported at £40 million for a Napoli central defender as Enzo Maresca looks to shore up a backline that has conceded too many set-piece goals this season. Napoli are holding out for closer to £55 million, and talks are expected to intensify over the coming weeks as the window approaches.",
         "clubs": [
           "Chelsea",
           "Napoli"
@@ -282,10 +322,10 @@
       "home": "Manchester City",
       "away": "Liverpool",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The most anticipated fixture of the Premier League calendar arrives with both sides locked in a tight title race and separated by just two points at the top of the table. City will look to leverage home advantage at the Etihad and Erling Haaland's relentless form, while Arne Slot's Liverpool travel with momentum from four consecutive wins and a tactical flexibility that has confounded top sides this season. The midfield battle will be decisive — whichever side controls the tempo through the lines will likely dictate the outcome of this defining six-pointer.",
+      "preview": "The title race takes center stage at the Etihad as Manchester City host Liverpool in what is shaping up to be the defining fixture of the Premier League season — a win for either side would open up a potentially decisive gap at the top of the table. City have rediscovered their relentless form after a mid-season wobble, conceding only once in their last five league matches, while Liverpool arrive on the back of a five-game unbeaten run and with Salah in scintillating form. The tactical battle between Guardiola's high press and Slot's fluid 4-3-3 transitions promises to be absorbing, with both managers facing selection dilemmas in central midfield.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
+        "Erling Haaland",
         "Rodri"
       ]
     },
@@ -294,42 +334,42 @@
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; 50/50 to feature from the bench"
+        "return": "Being assessed ahead of the weekend; missed Thursday's training session with a hamstring concern"
       },
       {
-        "player": "Trent Alexander-Arnold",
+        "player": "Diogo Jota",
         "team": "Liverpool",
         "status": "Recovering",
-        "return": "Targeting return within 2 weeks; expected to miss Sunday's match"
+        "return": "Expected to return to full training within 10 days; targeting the following midweek fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
+      "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A bank uses the Internal Ratings-Based (IRB) approach under Basel III. For a corporate exposure, the probability of default (PD) is 2%, loss given default (LGD) is 45%, exposure at default (EAD) is $10 million, and maturity (M) is 3 years. Which of the following best describes the role of the maturity adjustment in the IRB capital formula?",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model to estimate portfolio credit VaR. Which of the following is the most significant limitation of the Gaussian copula in a stressed credit environment?",
       "options": {
-        "A": "It reduces capital requirements for longer-maturity exposures because they generate more interest income to absorb losses.",
-        "B": "It increases capital requirements for longer-maturity exposures because they are more sensitive to credit migration risk over time.",
-        "C": "It standardizes capital requirements across all maturities to ensure comparability between banks.",
-        "D": "It adjusts EAD downward for longer-maturity loans to reflect scheduled principal amortization."
+        "A": "It overestimates recovery rates during periods of widespread default, leading to understated loss estimates.",
+        "B": "It underestimates tail dependence between obligors, causing the model to underestimate the probability of simultaneous defaults during market stress.",
+        "C": "It assumes stochastic recovery rates, which introduces excessive volatility into credit spread estimates.",
+        "D": "It cannot accommodate more than two obligors simultaneously, limiting its use in large credit portfolios."
       },
       "correct": "B",
-      "explanation": "Under the IRB approach, the maturity adjustment (b factor) increases capital requirements for exposures with maturities greater than one year because longer-dated exposures carry greater credit migration risk — the risk that a borrower's credit quality deteriorates before maturity. The Basel formula uses an effective maturity of up to 5 years, and the adjustment reflects that longer horizons give more time for an obligor to migrate to a lower rating or default. This concept stems from the asymmetric nature of credit returns, where mark-to-market losses from downgrades can be substantial over multi-year horizons."
+      "explanation": "The Gaussian copula assumes that asset return correlations are constant and that joint tail behavior follows a normal distribution, which implies relatively thin tails and low tail dependence. In stressed environments, default correlations spike dramatically — a phenomenon the Gaussian copula structurally cannot capture — leading to a severe underestimation of simultaneous default probabilities. This was a central failure mechanism in structured credit products (e.g., CDOs) during the 2008 financial crisis. Alternative copulas such as the Student-t or Clayton copula better capture upper or lower tail dependence and are preferred for stress scenarios."
     },
     "finance_topic": {
       "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why a seemingly perfect hedge can still leave significant residual risk exposure.",
+      "subtitle": "Understanding why a hedge is rarely perfect and how residual price divergence can erode or amplify portfolio outcomes.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument being hedged and the price of the hedging instrument do not move in perfect lockstep. In theory, a hedge should eliminate price exposure; in practice, the 'basis' — defined as the difference between the spot price of the asset and the futures price of the hedging instrument — fluctuates unpredictably. This residual risk can be driven by differences in geography, credit quality, contract specifications, or simply liquidity mismatches between the hedged item and the hedge vehicle.",
-        "A classic real-world example is a jet fuel hedging program run by an airline. Airlines frequently use crude oil or heating oil futures to hedge jet fuel costs because liquid jet fuel futures markets are limited. Even if oil prices move favorably, the spread between crude and jet fuel can widen dramatically due to refinery capacity constraints or seasonal demand — exactly as occurred during 2021–2022 when crack spreads surged independently of crude benchmarks. Southwest Airlines, historically praised for its hedging discipline, still faced basis losses during such dislocations.",
-        "For risk managers, basis risk means that hedge effectiveness must be continuously monitored and documented — particularly under IFRS 9 and ASC 815 hedge accounting standards, which require prospective and retrospective effectiveness testing. A hedge that fails effectiveness thresholds loses its accounting treatment, forcing mark-to-market volatility back onto the income statement. Investors should scrutinize a company's hedging disclosures carefully, recognizing that 'hedged' does not mean 'risk-free.'"
+        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. The 'basis' is formally defined as the spot price of the asset being hedged minus the futures (or derivative) price of the hedging instrument. Even when an investor selects the most correlated available hedge, differences in delivery dates, asset quality, geography, or liquidity can cause the basis to fluctuate unpredictably, leaving a residual, unhedged exposure.",
+        "A classic real-world example is an airline hedging jet fuel costs using crude oil futures. Although jet fuel and crude oil prices are highly correlated, they do not move identically — refining margins, regional supply dynamics, and seasonal demand for other petroleum products all cause the spread between the two to widen and narrow. During periods of refinery disruption, for instance, jet fuel can spike far above crude oil, meaning an airline's crude hedge fails to fully offset its actual cost increase. Similarly, a fixed-income portfolio manager who hedges a corporate bond portfolio with Treasury futures faces basis risk driven by credit spread volatility — the hedge neutralizes rate duration but leaves credit spread duration fully exposed.",
+        "For risk managers and portfolio managers, basis risk must be explicitly quantified and incorporated into hedge effectiveness testing, particularly under accounting standards such as ASC 815 or IFRS 9, which require demonstrating an 'economic relationship' between the hedged item and the hedging instrument. Practitioners typically use regression-based hedge ratios (minimum variance hedge ratios) to minimize — but not eliminate — basis risk. In stressed markets, correlations can break down sharply, causing basis to blow out precisely when protection is most needed, underscoring the importance of stress-testing hedge effectiveness across historical and hypothetical scenarios."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is put in place, caused by imperfect correlation between the hedged item and the hedging instrument.",
-        "Cross-commodity hedges (e.g., using crude oil futures to hedge jet fuel) are especially vulnerable to basis widening during supply or refinery disruptions.",
-        "Accounting standards require demonstrated hedge effectiveness, meaning uncontrolled basis risk can reintroduce P&L volatility even for firms with active hedging programs."
+        "Basis risk is the irreducible residual risk that remains after hedging, stemming from imperfect correlation between the hedge instrument and the underlying exposure.",
+        "Real-world examples — such as jet fuel vs. crude oil or corporate bonds vs. Treasuries — illustrate how basis can widen materially during market stress, degrading hedge effectiveness.",
+        "Minimum variance hedge ratios and rigorous stress testing are essential tools for managing basis risk, and accounting standards require ongoing hedge effectiveness documentation."
       ]
     },
     "japanese": {
@@ -337,33 +377,33 @@
       "reading": "yosan",
       "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算はもう使い切ってしまいました。",
-      "example_romaji": "Kontsuki no yosan wa mou tsukaikitta shimaimashita.",
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I have already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or that something happened unintentionally. It combines the te-form of a verb with しまう (shimau), meaning 'to finish' or 'to end up doing.'",
-      "memory_tip": "Think of 'yo-san' as 'yo, that's three' — you budgeted for three things but spent it all. The 'yo' sounds like a surprised exclamation when you check your bank account!"
+      "grammar_explanation": "〜てしまいました is used to express that something has been completed, often with a nuance of regret or that the action happened unintentionally or too quickly. It combines the te-form of a verb with しまいました (the polite past of しまう).",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the total sum of money you have planned. If you blow your 'yo-san,' you'll say 'shimaimashita!' in regret."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Roles at Major Banks",
-      "summary": "Large financial institutions including JPMorgan, HSBC, and several European universal banks are deploying machine learning models — particularly gradient boosting ensembles and transformer-based architectures — to augment or partially replace traditional scorecard-driven credit underwriting. These models process thousands of alternative data inputs including cash flow patterns, supply chain signals, and even satellite imagery of commercial properties. The shift is compressing underwriting timelines from days to minutes for SME lending, while simultaneously raising model risk governance challenges that regulators are scrambling to address. The Fed and OCC have signaled increased scrutiny of AI model documentation and explainability requirements under SR 11-7 guidance updates expected in 2025.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams at Global Banks",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several fintech lenders are deploying large language models and gradient-boosted machine learning models to augment — and in some cases automate — credit underwriting decisions for SME and consumer loan portfolios. These systems ingest alternative data sources such as cash flow transaction patterns, supply chain signals, and even satellite imagery of commercial properties to produce credit scores with demonstrably lower default prediction error than traditional FICO-based models. Regulators in the US (OCC) and EU (EBA) are actively developing model risk management frameworks specifically targeting AI in credit decisioning, with a focus on explainability and disparate impact testing. For risk professionals, this shift demands a working understanding of model validation for non-linear, high-dimensional models — a skillset that did not exist in most credit risk teams five years ago.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble ML technique that builds many sequential decision trees, each correcting the errors of the previous one. In credit risk, it outperforms logistic regression on non-linear relationships between borrower attributes and default probability."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds a sequence of decision trees, each correcting the errors of the last, producing highly accurate predictions on structured tabular data — the dominant data type in credit risk and fraud detection."
         },
         {
-          "term": "Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) assigns each input feature a contribution score to a model's output. Regulators and compliance teams use SHAP to satisfy adverse action notice requirements — explaining to a borrower why their loan was denied."
+          "term": "Explainable AI (XAI) / SHAP Values",
+          "definition": "SHAP (SHapley Additive exPlanations) values quantify each input variable's contribution to a specific model prediction, allowing risk managers and regulators to understand why a model approved or declined a loan — critical for fair lending compliance."
         },
         {
-          "term": "Model Risk Governance (SR 11-7)",
-          "definition": "A Federal Reserve supervisory guidance framework requiring banks to validate, document, and monitor all models used in risk decisions. As AI models proliferate, firms need dedicated model risk teams who understand both ML and banking regulation."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as bank transaction histories, utility payment records, or e-commerce sales velocity — used to build credit signals for borrowers with thin or no traditional credit files, expanding addressable lending markets."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who combine domain expertise with literacy in ML model validation are becoming the most sought-after profiles at Tier 1 banks and fintechs. The ability to challenge a model's assumptions, interpret SHAP outputs, and communicate findings to a non-technical credit committee — rather than just build models — is the differentiating skill for the next decade of finance careers."
+      "career_insight": "Credit risk professionals who combine domain expertise in probability of default (PD) and loss given default (LGD) modeling with practical ML skills — specifically model validation, bias auditing, and explainability frameworks — are commanding significant salary premiums and are in acute shortage at both banks and regulators. The most valuable career investment for a risk manager today is developing fluency in Python-based model diagnostics alongside your understanding of Basel credit risk frameworks, as regulatory scrutiny of AI models is accelerating globally and institutions need staff who can operate at that intersection."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a complex macro crosscurrent as markets reprice the Federal Reserve's 'higher-for-longer' posture following a resilient labor market print, with the 10-year Treasury yield pushing toward the upper end of its recent range and real yields remaining restrictive. Equity markets are showing selective strength concentrated in mega-cap tech and AI-adjacent names, while small-caps and rate-sensitive sectors like REITs and utilities continue to underperform on re-widening discount rates. Credit spreads remain surprisingly contained at the index level, but dispersion is rising in CCC-rated issuers where refinancing walls are increasingly visible — watch high-yield energy and consumer discretionary for the first signs of stress transmission."
+    "market_sentiment": "Global risk appetite is cautiously constructive this morning as US Treasury yields consolidate near the upper end of their recent range, with the 10-year hovering around 4.45% amid mixed signals on Federal Reserve rate timing — markets are pricing approximately 1.5 cuts by year-end, down from over 3 cuts expected at the start of Q1. Equity markets are grinding higher on resilient earnings from the financial and technology sectors, though breadth remains narrow and credit spreads in high-yield have widened modestly, suggesting some rotation toward defensiveness beneath the surface. The key macro watchpoints this week are US CPI and retail sales prints, with the USD remaining firm against EM currencies as carry trade dynamics and higher-for-longer rate expectations continue to pressure capital flows into developing markets."
   }
 }
