@@ -1,38 +1,38 @@
 {
-  "generated_at": "2:59 PM UTC",
-  "date": "Saturday, October 24, 2026",
+  "generated_at": "3:10 PM UTC",
+  "date": "Sunday, October 25, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 57,
-    "feels_like_f": 56,
-    "high_f": 60,
-    "low_f": 55,
+    "temp_f": 60,
+    "feels_like_f": 59,
+    "high_f": 62,
+    "low_f": 57,
     "description": "Clear Sky",
     "icon": "☀️",
-    "humidity": 76,
-    "wind_mph": 1,
+    "humidity": 66,
+    "wind_mph": 9,
     "forecast": [
-      {
-        "day": "Sun",
-        "icon": "🌤️",
-        "high": 41,
-        "low": 41,
-        "description": "Few Clouds"
-      },
       {
         "day": "Mon",
         "icon": "☀️",
-        "high": 47,
-        "low": 47,
+        "high": 46,
+        "low": 46,
         "description": "Clear Sky"
       },
       {
         "day": "Tue",
-        "icon": "☀️",
-        "high": 47,
-        "low": 47,
-        "description": "Clear Sky"
+        "icon": "☁️",
+        "high": 48,
+        "low": 48,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "🌤️",
+        "high": 50,
+        "low": 50,
+        "description": "Few Clouds"
       }
     ]
   },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 80221.5,
-        "change": -1536.18,
-        "change_pct": -1.88,
-        "up": false,
+        "price": 80700,
+        "change": 816.98,
+        "change_pct": 1.02,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2343.28,
-        "change": -64.42,
-        "change_pct": -2.68,
-        "up": false,
+        "price": 2343.73,
+        "change": 22.3,
+        "change_pct": 0.96,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock futures remain under pressure amid AI trade worries, gain in oil above $100: Live updates - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-        "description": "Stock futures edged down on Friday as oil traded higher.",
-        "published": "12:33 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Stock Market Today: Nasdaq Futures Steady After Selloff; Oil Prices Hit 5-Month High — Live Updates - WSJ",
+        "title": "Six Flags to Add Seat Belts to Rides Following Death - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026",
+        "url": "https://www.wsj.com/business/hospitality/six-flags-to-add-seat-belts-to-rides-following-death-1c1fa20d",
         "description": "",
-        "published": "12:33 PM UTC",
+        "published": "10:38 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-        "description": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
-        "published": "12:10 PM UTC",
+        "title": "Is your Medicare Advantage plan ending next year? Here's what to know - NPR",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+        "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+        "published": "10:00 AM UTC",
         "category": "Business"
       },
       {
-        "title": "Dell releases new 16-inch laptop globally with 1,600-nit OLED display and up to 128 GB RAM - Notebookcheck",
-        "source": "Notebookcheck.net",
-        "url": "https://www.notebookcheck.net/Dell-releases-new-16-inch-laptop-globally-with-1-600-nit-OLED-display-and-up-to-128-GB-RAM.1431301.0.html",
-        "description": "Dell is now selling its latest 16-inch laptop globally. Featuring 18-core or 20-core Nvidia RTX Spark N1X chipsets, the XPS 16 Creator Edition also offers up to 128 GB of RAM, a 120 Hz VRR OLED displa",
-        "published": "9:04 AM UTC",
+        "title": "Washington's message to AI execs: Please shut up - Axios",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
+        "description": "Washington is losing patience with AI leaders.",
+        "published": "9:41 AM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "It’s time to find a new browser - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+        "description": "Plus: Call of Duty: Modern Warfare 4, Wildwood, Claude Duet, and more in this week’s Installer.",
+        "published": "12:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch - 9to5Mac",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
-        "description": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple...",
-        "published": "3:15 AM UTC",
+        "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly - Polygon.com",
+        "source": "Polygon",
+        "url": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/",
+        "description": "Nintendo's Shigeru Miyamoto, known for Zelda and Mario, just gave the world a master class on the limits of AI creation",
+        "published": "10:13 AM UTC",
         "category": "Technology"
       },
       {
-        "title": "A Typography Geek Pointed Out Something About The Space Shuttle Discovery And Now I Can't Unsee It - The Autopian",
-        "source": "Theautopian.com",
-        "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
-        "description": "Even though I was born in the Apollo Era, barely, the spacecraft that I think had the most influence on my childhood had to be the Space Shuttles. I remember poring over diagrams and drawings of the s",
-        "published": "3:11 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Duchess Meghan \"deeply distressed\" as father Thomas Markle faces child sexual abuse materials investigation - CBS News",
+        "title": "Suspect arrested after fire \"completely engulfed\" Hitler's Eagle's Nest mountain retreat in Germany - CBS News",
         "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/",
-        "description": "Thomas Markle, the estranged father of Meghan, Duchess of Sussex, is facing a probe in the Philippines over alleged possession of child sexual abuse materials.",
-        "published": "11:55 AM UTC",
+        "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
+        "description": "Police said firefighting efforts were hampered due to local conditions.",
+        "published": "2:03 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Voters angry about high prices may get little relief from the next Congress - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/10/24/voters-angry-about-high-prices-may-get-little-relief-next-congress/",
+        "description": "Even if Democrats win control of Congress on Nov. 3, lawmakers can do little about prices that are uncomfortably high -- and will stay that way even as the rate of inflation is expected to slow.",
+        "published": "1:51 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "The most important things to do to stay healthy while traveling - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/health/2026/10/24/most-important-things-do-stay-healthy-while-traveling/",
+        "description": "An infectious-diseases doctor shares essential tips to prepare for any health issues while traveling in another country.",
+        "published": "1:32 PM UTC",
         "category": "General"
       }
     ]
@@ -172,21 +180,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Ipswich Town",
-        "away": "Nottingham",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "7:00 PM UTC",
-        "date": "Oct 23",
-        "highlighted": false
-      },
-      {
         "home": "Aston Villa",
         "away": "Man City",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "11:30 AM UTC",
         "date": "Oct 24",
         "highlighted": false
@@ -194,9 +192,9 @@
       {
         "home": "Arsenal",
         "away": "Everton",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 24",
         "highlighted": false
@@ -204,9 +202,9 @@
       {
         "home": "Coventry City",
         "away": "Fulham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 24",
         "highlighted": false
@@ -214,9 +212,9 @@
       {
         "home": "Chelsea",
         "away": "Tottenham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "4:30 PM UTC",
         "date": "Oct 24",
         "highlighted": false
@@ -224,9 +222,9 @@
       {
         "home": "Liverpool",
         "away": "Brighton Hove",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Oct 25",
         "highlighted": false
@@ -234,9 +232,9 @@
       {
         "home": "Crystal Palace",
         "away": "Newcastle",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Oct 25",
         "highlighted": false
@@ -244,9 +242,9 @@
       {
         "home": "Man United",
         "away": "Bournemouth",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 2,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Oct 25",
         "highlighted": false
@@ -254,9 +252,9 @@
       {
         "home": "Hull City",
         "away": "Brentford",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "2:00 PM UTC",
         "date": "Oct 25",
         "highlighted": false
@@ -291,52 +289,52 @@
         "won": 7,
         "drawn": 0,
         "lost": 1,
-        "gd": 7,
+        "gd": 8,
         "points": 21,
         "highlighted": false
       },
       {
         "position": 3,
         "team": "Brighton Hove",
-        "played": 7,
+        "played": 8,
         "won": 5,
         "drawn": 1,
-        "lost": 1,
-        "gd": 18,
+        "lost": 2,
+        "gd": 16,
         "points": 16,
         "highlighted": false
       },
       {
         "position": 4,
-        "team": "Chelsea",
-        "played": 7,
+        "team": "Liverpool",
+        "played": 8,
         "won": 4,
-        "drawn": 1,
-        "lost": 2,
-        "gd": 4,
-        "points": 13,
+        "drawn": 3,
+        "lost": 1,
+        "gd": 3,
+        "points": 15,
         "highlighted": false
       },
       {
         "position": 5,
-        "team": "Liverpool",
-        "played": 7,
-        "won": 3,
-        "drawn": 3,
-        "lost": 1,
-        "gd": 1,
-        "points": 12,
+        "team": "Chelsea",
+        "played": 8,
+        "won": 4,
+        "drawn": 1,
+        "lost": 3,
+        "gd": 2,
+        "points": 13,
         "highlighted": false
       },
       {
         "position": 6,
-        "team": "Aston Villa",
+        "team": "Hull City",
         "played": 8,
         "won": 3,
-        "drawn": 2,
-        "lost": 3,
-        "gd": -3,
-        "points": 11,
+        "drawn": 3,
+        "lost": 2,
+        "gd": 2,
+        "points": 12,
         "highlighted": false
       }
     ]
@@ -344,108 +342,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United tracking Bundesliga midfielder as Casemiro replacement",
-        "summary": "United's recruitment team has reportedly scouted Bayer Leverkusen's Granit Xhaka successor profile extensively, with a box-to-box midfielder in the 24-26 age bracket identified as the priority in the January window to provide cover and competition in a depleted engine room.",
+        "headline": "Liverpool in Advanced Talks for Bundesliga Midfielder as Slot Eyes Engine Room Upgrade",
+        "summary": "Liverpool are reportedly in advanced discussions to sign a dynamic box-to-box midfielder from the Bundesliga, with Arne Slot keen to add athleticism and pressing intensity to the center of the park ahead of the January window. Personal terms are said to be progressing smoothly, though a fee in excess of £55 million remains a sticking point.",
         "clubs": [
-          "Manchester United",
+          "Liverpool",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in advanced talks for 20-year-old Brazilian winger ahead of January window",
-        "summary": "Chelsea are understood to be in serious negotiations with a South American club over a winger described internally as a 'priority profile' — a young, high-ceiling wide attacker to bolster Enzo Maresca's system that demands dynamic runners in behind opposing defensive lines.",
+        "headline": "Chelsea Target Prolific Serie A Striker as Jackson Struggles for Consistency",
+        "summary": "Chelsea's recruitment team have identified a high-scoring Serie A striker as a potential January addition, with Nicolas Jackson's inconsistent form in front of goal prompting the Stamford Bridge hierarchy to explore alternatives. The player has registered 11 league goals this season and is believed to be open to a move to the Premier League.",
         "clubs": [
           "Chelsea",
-          "Flamengo"
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
       "home": "Arsenal",
-      "away": "Liverpool",
+      "away": "Manchester City",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's standout fixture this weekend pits Mikel Arteta's Arsenal against Arne Slot's Liverpool in a potential title-race inflection point, with both sides separated by just two points at the summit. Arsenal will look to exploit set-piece superiority and their ferocious pressing at the Emirates, while Liverpool's fluid positional play and Mohamed Salah's form — currently the league's top scorer — poses the most dangerous attacking threat Arsenal will have faced this season. The tactical subplot of Slot's mid-block versus Arsenal's patient build-up play promises a chess match that could define the complexion of the title race for weeks to come.",
+      "preview": "The Premier League's marquee fixture of the weekend pits Arsenal against Manchester City in what could be a defining moment in the title race, with both sides separated by just two points heading into the clash at the Emirates. Arsenal have been imperious at home this season, losing just once in front of their own fans, while City arrive on the back of three consecutive league wins that have silenced early-season doubters about their post-Rodri resilience. All eyes will be on whether Mikel Arteta's high press can disrupt Pep Guardiola's intricate positional play, with the outcome potentially opening a significant gap at the summit of the table.",
       "key_players": [
-        "Mohamed Salah",
         "Bukayo Saka",
-        "Virgil van Dijk"
+        "Erling Haaland",
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Martin Odegaard",
-        "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Week-to-week; fitness test scheduled Saturday"
+        "player": "Rodri",
+        "team": "Manchester City",
+        "status": "Out",
+        "return": "Season-ending ACL injury — no return this campaign"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
         "status": "Recovering",
-        "return": "Expected return mid-January after muscle strain"
+        "return": "Expected return mid-February following knee surgery"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model to estimate portfolio credit VaR. Which of the following is the most significant limitation of this approach, as highlighted by the 2008 financial crisis?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced at $1,075. If the bond's yield-to-maturity (YTM) increases by 50 basis points, which of the following best describes the expected price change, assuming modified duration is 7.2 years and convexity is 65?",
       "options": {
-        "A": "The Gaussian copula cannot model pairwise default correlations between obligors.",
-        "B": "The Gaussian copula systematically underestimates tail dependence, causing it to underestimate the probability of simultaneous defaults during stress periods.",
-        "C": "The Gaussian copula overestimates recovery rates, leading to inflated loss estimates.",
-        "D": "The Gaussian copula requires Monte Carlo simulation and is therefore computationally intractable for large portfolios."
+        "A": "The price will decrease by approximately $38.70, with convexity adding a further price decline",
+        "B": "The price will decrease by approximately $36.00, with convexity partially offsetting the decline",
+        "C": "The price will decrease by approximately $36.00, with convexity adding a further price decline",
+        "D": "The price will increase by approximately $38.70, with convexity amplifying the gain"
       },
       "correct": "B",
-      "explanation": "The Gaussian copula was widely used to model CDO tranches before 2008, but its critical flaw is that it implies asymptotically zero tail dependence — meaning it severely underestimates the likelihood of many obligors defaulting simultaneously during market stress. In reality, default correlations spike dramatically in crisis periods, a phenomenon better captured by heavy-tailed copulas such as the Student-t copula. This modeling failure contributed to the mispricing of structured credit products. Options A and C are factually incorrect, and while D raises a practical concern, computational cost is not the fundamental conceptual limitation."
+      "explanation": "The duration-based price change is approximated as: –Modified Duration × ΔYTM × Price = –7.2 × 0.0050 × $1,075 = –$38.70. The convexity adjustment is: 0.5 × Convexity × (ΔYTM)² × Price = 0.5 × 65 × (0.0050)² × $1,075 = +$0.87, which partially offsets the decline. Convexity always adds a positive adjustment regardless of the direction of yield change, so a price decrease from rising yields is partially cushioned. The net price change is approximately –$37.83, making B the closest conceptually correct answer emphasizing convexity's offsetting role."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why perfect hedges are rare and basis risk can silently erode risk management effectiveness.",
+      "title": "Private Credit's Rise in an Era of Tight Lending",
+      "subtitle": "How direct lending funds are filling the void left by retreating banks and reshaping credit markets globally.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument being hedged does not move in perfect lockstep with the price of the hedging instrument. Formally, basis is defined as the spot price of the asset being hedged minus the futures price of the contract used to hedge. Because a hedger rarely finds a futures contract that matches the underlying exposure exactly — in terms of asset type, maturity, or location — some degree of basis risk is almost always present. Unlike outright price risk, basis risk is subtler and can persist even when a hedge appears well-constructed.",
-        "A classic real-world example involves an airline hedging jet fuel costs using crude oil futures, since no deep liquid jet fuel futures market exists. If crude oil prices rise but refining margins compress simultaneously, jet fuel prices may rise more than crude, leaving the airline under-hedged. Similarly, a fixed-income portfolio manager using 10-year Treasury futures to hedge a portfolio of investment-grade corporate bonds faces basis risk because corporate spreads can widen independently of Treasury yields — a painful dynamic observed during the March 2020 liquidity crisis, when Treasury yields fell but credit spreads exploded, causing hedges to underperform dramatically.",
-        "For risk managers, basis risk demands careful attention to hedge ratio construction, often using regression-based minimum variance approaches to estimate the optimal hedge ratio. Practitioners should stress-test hedges under scenarios where historical correlations break down, as basis tends to widen precisely when it is most damaging — during dislocations. Investors should understand that reported 'hedged' returns still embed residual basis risk, and performance attribution should isolate this component to honestly evaluate risk management effectiveness."
+        "Private credit refers to non-bank lending arranged directly between institutional lenders — such as private equity-backed credit funds, insurance companies, and asset managers — and corporate borrowers. Unlike syndicated loans or high-yield bonds, these instruments are typically bilateral or club-structured, floating-rate, and not publicly traded. The asset class has grown from roughly $500 billion in assets under management a decade ago to well over $1.7 trillion today, establishing itself as a mainstream component of institutional portfolios.",
+        "The expansion of private credit accelerated meaningfully after the 2008 global financial crisis, as regulatory capital requirements under Basel III and subsequent frameworks constrained banks from holding leveraged loans and middle-market exposure. More recently, the regional banking stress of 2023 — exemplified by the Silicon Valley Bank and Signature Bank failures — prompted further retrenchment in commercial lending. Firms like Ares, Blue Owl, and Blackstone Credit stepped in aggressively, offering borrowers speed of execution and certainty of capital in exchange for higher coupons and tighter covenants, often at SOFR + 500–700 bps.",
+        "For investors, private credit offers attractive risk-adjusted yields and low correlation to public markets, but introduces meaningful illiquidity risk, credit concentration, and valuation opacity. Risk managers must grapple with the fact that loan marks are model-derived rather than market-observable, potentially masking deterioration in credit quality during downturns. As interest rates remain elevated, debt service coverage ratios for floating-rate borrowers have compressed sharply — a dynamic that portfolio managers and allocators must monitor closely heading into any economic slowdown."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is placed, arising from imperfect correlation between the hedged asset and the hedging instrument.",
-        "Basis tends to widen during market stress, meaning hedges become less effective exactly when protection is most needed.",
-        "The minimum-variance hedge ratio, estimated via regression of spot price changes on futures price changes, helps minimize but cannot eliminate basis risk."
+        "Private credit has grown into a $1.7T+ asset class by filling the lending gap created by post-GFC bank regulation.",
+        "Borrowers pay a significant illiquidity and complexity premium, while lenders gain higher yields and stronger covenant protections than public credit markets offer.",
+        "The floating-rate nature of most private credit instruments creates meaningful refinancing and debt-service risk for portfolio companies in a higher-for-longer rate environment."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved up",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "毎月少しずつ貯金しています。",
-      "example_romaji": "Maitsuki sukoshi zutsu chokin shite imasu.",
-      "example_en": "I save a little money every month.",
-      "grammar_point": "〜ています (ongoing action / habit)",
-      "grammar_explanation": "The pattern 〜ています is attached to the te-form of a verb to express either an action currently in progress or a habitual recurring action. Here, 'chokin shite imasu' means saving money is something the speaker does regularly as an ongoing habit.",
-      "memory_tip": "Think of 'cho' as 'store' and 'kin' as 'gold' — you are storing your gold (money) away safely. A squirrel storing nuts for winter is your 貯金 mascot."
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or unintended consequence. It is formed by attaching しまいました to the te-form of a verb, and is very common in everyday conversation when something happened that the speaker didn't mean or is slightly sorry about.",
+      "memory_tip": "Think of 予算 (yosan) as 'your SAN-ity check on spending' — before you lose your mind over the bills, you set a yo-san (budget) to stay sane."
     },
     "ai_strategy": {
-      "headline": "Large Language Models Are Quietly Reshaping Credit Underwriting and Risk Memo Generation",
-      "summary": "Major banks and credit funds are deploying large language models to automate the synthesis of credit memos, covenant analysis, and borrower narrative summaries — tasks that previously consumed dozens of analyst hours per deal. JPMorgan's DocLLM and similar proprietary models can parse hundreds of pages of loan agreements, flag non-standard covenants, and benchmark terms against historical precedent within minutes. While these tools do not yet replace credit judgment, they are dramatically compressing the time from document receipt to preliminary recommendation, shifting the analyst's role toward validation and judgment rather than extraction and summarization. Regulators are beginning to scrutinize model governance frameworks for AI-assisted underwriting, making explainability a front-and-center concern.",
+      "headline": "AI Agents Are Beginning to Autonomously Execute Financial Research Workflows",
+      "summary": "A new generation of agentic AI systems — built on models like GPT-4o, Claude 3.5, and Gemini Ultra — is moving beyond simple question-answering into executing multi-step financial workflows autonomously. These systems can retrieve earnings transcripts, cross-reference macro data, draft investment memos, and flag covenant breaches in credit documents with minimal human intervention. Major asset managers including BlackRock, JP Morgan Asset Management, and Point72 have disclosed internal deployments of such agents for research augmentation and risk monitoring. The shift represents a structural change not just in analyst productivity, but in how investment processes are designed from the ground up.",
       "concepts": [
         {
+          "term": "Agentic AI",
+          "definition": "An AI system capable of autonomously planning and executing multi-step tasks — such as pulling financial data, running analysis, and generating reports — without requiring a human prompt at each step."
+        },
+        {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries an external database of documents — such as loan agreements or earnings transcripts — at inference time, grounding its responses in retrieved facts rather than relying solely on training data. In finance, RAG enables models to answer specific questions about a deal or company using the actual current documents."
+          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating a response, allowing it to answer questions grounded in up-to-date or proprietary financial information rather than relying solely on training data."
         },
         {
-          "term": "Explainability (XAI)",
-          "definition": "The ability of an AI model to provide human-interpretable reasons for its outputs. In credit risk and regulatory contexts, explainability is critical because lenders must be able to justify underwriting decisions to regulators and auditors — a black-box model that simply says 'deny' is legally and operationally insufficient."
-        },
-        {
-          "term": "Agentic AI Workflows",
-          "definition": "Systems where AI models autonomously execute multi-step tasks — such as pulling financial data, running ratio analysis, drafting a credit memo section, and flagging exceptions — with minimal human intervention at each step. Finance firms are piloting these pipelines to handle high-volume, repeatable analytical tasks."
+          "term": "Structured Output Parsing",
+          "definition": "The ability of AI models to return data in reliable, machine-readable formats (like JSON or tables), enabling seamless integration into trading systems, risk dashboards, or portfolio management platforms."
         }
       ],
-      "career_insight": "Credit analysts and risk associates who learn to design, validate, and govern AI-assisted workflows will be disproportionately valuable over the next five years — the premium will shift from raw data processing speed to judgment, model oversight, and the ability to spot when AI output is subtly wrong. Professionals should invest in understanding prompt engineering, RAG architecture basics, and model risk management frameworks (SR 11-7 and its evolving AI extensions) to remain competitive as these tools become standard infrastructure."
+      "career_insight": "Finance professionals who understand how to design, evaluate, and govern agentic AI workflows will be significantly more valuable than those who simply use AI as a search tool. The most in-demand hybrid skillset is emerging at the intersection of financial domain expertise, prompt engineering, and workflow automation — analysts who can define what an AI agent should do, validate its outputs critically, and identify where human judgment remains essential are becoming the new power users across buy-side and sell-side firms."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a complex macro backdrop this week, with equity markets caught between resilient US labor data pushing back Fed rate-cut expectations and softening PMI prints in the Eurozone signaling demand fragility. The USD has firmed modestly on the repriced rate path, applying pressure to EM currencies and commodities priced in dollars, while the front end of the Treasury curve steepens slightly as short-term yields remain sticky. Credit spreads in high yield have widened marginally from recent tights, suggesting the market is beginning to price in some caution around refinancing risk and earnings revision risk heading into the next reporting season — overall tone is 'risk-on but nervous,' with positioning data showing elevated put skew in equity index options."
+    "market_sentiment": "Risk assets are navigating a cautiously constructive backdrop as markets digest the Fed's higher-for-longer posture against incrementally softer labor market data — the balance between sticky services inflation and easing wage growth remains the central tension for rate expectations into Q4. Credit spreads in investment-grade have held remarkably well near post-GFC tights, while high-yield is showing early signs of dispersion, with CCC-rated issuers underperforming as refinancing risk becomes more acute for the most leveraged borrowers. Equity markets are pricing a soft-landing with conviction, but positioning looks stretched in large-cap tech — any upward revision to terminal rate expectations or a geopolitical flare-up in the Middle East or Taiwan Strait could rapidly reprice tail risk across asset classes."
   }
 }
