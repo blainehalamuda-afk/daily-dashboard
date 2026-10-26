@@ -1,38 +1,38 @@
 {
-  "generated_at": "3:10 PM UTC",
-  "date": "Sunday, October 25, 2026",
+  "generated_at": "5:47 PM UTC",
+  "date": "Monday, October 26, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 60,
-    "feels_like_f": 59,
-    "high_f": 62,
-    "low_f": 57,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 66,
-    "wind_mph": 9,
+    "temp_f": 67,
+    "feels_like_f": 66,
+    "high_f": 70,
+    "low_f": 66,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 54,
+    "wind_mph": 7,
     "forecast": [
-      {
-        "day": "Mon",
-        "icon": "☀️",
-        "high": 46,
-        "low": 46,
-        "description": "Clear Sky"
-      },
       {
         "day": "Tue",
         "icon": "☁️",
-        "high": 48,
-        "low": 48,
+        "high": 47,
+        "low": 47,
         "description": "Broken Clouds"
       },
       {
         "day": "Wed",
-        "icon": "🌤️",
+        "icon": "☀️",
         "high": 50,
         "low": 50,
-        "description": "Few Clouds"
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Thu",
+        "icon": "⛅",
+        "high": 58,
+        "low": 58,
+        "description": "Scattered Clouds"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 759.97,
-        "change": -3.99,
-        "change_pct": -0.52,
-        "up": false,
+        "price": 764.77,
+        "change": 4.8,
+        "change_pct": 0.63,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 347.73,
-        "change": -0.5,
-        "change_pct": -0.14,
+        "price": 342.76,
+        "change": -4.97,
+        "change_pct": -1.43,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 210.96,
-        "change": -1.25,
-        "change_pct": -0.59,
-        "up": false,
+        "price": 215.93,
+        "change": 4.97,
+        "change_pct": 2.36,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 372.22,
-        "change": -2.36,
-        "change_pct": -0.63,
-        "up": false,
+        "price": 395.3,
+        "change": 23.08,
+        "change_pct": 6.2,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 80700,
-        "change": 816.98,
-        "change_pct": 1.02,
-        "up": true,
+        "price": 80218.01,
+        "change": -584.77,
+        "change_pct": -0.72,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2343.73,
-        "change": 22.3,
-        "change_pct": 0.96,
-        "up": true,
+        "price": 2322.9,
+        "change": -35.14,
+        "change_pct": -1.49,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Six Flags to Add Seat Belts to Rides Following Death - WSJ",
+        "title": "US Automakers Face Dilemma As Chinese Rival Eyes American Factories - CarBuzz",
+        "source": "CarBuzz",
+        "url": "https://carbuzz.com/chinese-brand-chery-us-auto-partnership-october-2026/",
+        "description": "Chery is knocking on America’s door, hoping to partner with a domestic carmaker to produce vehicles here. Could its relationship with Ford bear fruit?",
+        "published": "4:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Netflix Users Are Watching Less, Not Opening the App as Often - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-25/netflix-users-are-watching-less-not-opening-the-app-as-often",
+        "description": "Netflix Inc. users are watching the streaming service less than they once did, the latest sign of engagement woes for the world’s most valuable entertainment company, according to people familiar with",
+        "published": "3:46 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Exclusive | JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink - WSJ",
         "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/hospitality/six-flags-to-add-seat-belts-to-rides-following-death-1c1fa20d",
+        "url": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42",
         "description": "",
-        "published": "10:38 AM UTC",
+        "published": "2:51 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Is your Medicare Advantage plan ending next year? Here's what to know - NPR",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
-        "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
-        "published": "10:00 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Washington's message to AI execs: Please shut up - Axios",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
-        "description": "Washington is losing patience with AI leaders.",
-        "published": "9:41 AM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "It’s time to find a new browser - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-        "description": "Plus: Call of Duty: Modern Warfare 4, Wildwood, Claude Duet, and more in this week’s Installer.",
-        "published": "12:00 PM UTC",
+        "title": "Elon Musk's Grok Releases First AI-Generated \"Odyssey\" Episode - Variety",
+        "source": "Variety",
+        "url": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
+        "description": "Months after Elon Musk promised that Grok Imagine would make an entirely AI “Odyssey” film, the tech mogul has partially followed through.",
+        "published": "6:19 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly - Polygon.com",
-        "source": "Polygon",
-        "url": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/",
-        "description": "Nintendo's Shigeru Miyamoto, known for Zelda and Mario, just gave the world a master class on the limits of AI creation",
-        "published": "10:13 AM UTC",
+        "title": "PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
+        "description": "How much does the enthusiast discourse matter?",
+        "published": "5:15 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Suspect arrested after fire \"completely engulfed\" Hitler's Eagle's Nest mountain retreat in Germany - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
-        "description": "Police said firefighting efforts were hampered due to local conditions.",
-        "published": "2:03 PM UTC",
+        "title": "Forget shopping for gifts — receiving them is stressing us out - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/home/2026/10/25/what-do-when-you-receive-bad-or-inappropriate-gift/",
+        "description": "Experts offer tips on how to manage the feelings of disappointment, guilt or anxiety when you get a bad or inappropriate present.",
+        "published": "4:00 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Michael Carrick unsure on Man United future after wretched Bournemouth defeat - ESPN",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50278114/michael-carrick-unsure-man-united-future-bournemouth",
+        "description": "Manager Michael Carrick admitted he's in the dark over his future after Manchester United were thrashed by Bournemouth on Sunday to leave him on the brink of the sack at Old Trafford.",
+        "published": "6:04 PM UTC",
         "category": "General"
       },
       {
-        "title": "Voters angry about high prices may get little relief from the next Congress - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/business/2026/10/24/voters-angry-about-high-prices-may-get-little-relief-next-congress/",
-        "description": "Even if Democrats win control of Congress on Nov. 3, lawmakers can do little about prices that are uncomfortably high -- and will stay that way even as the rate of inflation is expected to slow.",
-        "published": "1:51 PM UTC",
+        "title": "Peltola postpones campaign stops after Saturday car crash - Politico",
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/10/25/peltola-car-crash-postpones-campaign-stops-01134902",
+        "description": "The Alaska Senate candidate and her family sustained minor injuries, her campaign announced Sunday.",
+        "published": "5:26 PM UTC",
         "category": "General"
       },
       {
-        "title": "The most important things to do to stay healthy while traveling - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/health/2026/10/24/most-important-things-do-stay-healthy-while-traveling/",
-        "description": "An infectious-diseases doctor shares essential tips to prepare for any health issues while traveling in another country.",
-        "published": "1:32 PM UTC",
+        "title": "College Football Rankings: USA Today Coaches Poll Top 25 released after Week 8 - On3",
+        "source": "On3.com",
+        "url": "https://www.on3.com/news/college-football-rankings-usa-today-coaches-poll-top-25-released-week-8/",
+        "description": "One week after a historic number of upsets, there were even more in Week 8. Two Top-10 teams suffered losses on Saturday, leading to another shakeup in",
+        "published": "5:10 PM UTC",
         "category": "General"
       }
     ]
@@ -180,51 +188,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Aston Villa",
-        "away": "Man City",
-        "home_score": 2,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "11:30 AM UTC",
-        "date": "Oct 24",
-        "highlighted": false
-      },
-      {
-        "home": "Arsenal",
-        "away": "Everton",
-        "home_score": 2,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Oct 24",
-        "highlighted": false
-      },
-      {
-        "home": "Coventry City",
-        "away": "Fulham",
-        "home_score": 0,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "2:00 PM UTC",
-        "date": "Oct 24",
-        "highlighted": false
-      },
-      {
-        "home": "Chelsea",
-        "away": "Tottenham",
-        "home_score": 0,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "4:30 PM UTC",
-        "date": "Oct 24",
-        "highlighted": false
-      },
-      {
         "home": "Liverpool",
         "away": "Brighton Hove",
         "home_score": 2,
         "away_score": 0,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 25",
         "highlighted": false
@@ -233,8 +201,8 @@
         "home": "Crystal Palace",
         "away": "Newcastle",
         "home_score": 0,
-        "away_score": 1,
-        "status": "IN_PLAY",
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 25",
         "highlighted": false
@@ -243,8 +211,8 @@
         "home": "Man United",
         "away": "Bournemouth",
         "home_score": 0,
-        "away_score": 2,
-        "status": "IN_PLAY",
+        "away_score": 3,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 25",
         "highlighted": false
@@ -253,8 +221,8 @@
         "home": "Hull City",
         "away": "Brentford",
         "home_score": 1,
-        "away_score": 0,
-        "status": "IN_PLAY",
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Oct 25",
         "highlighted": false
@@ -262,9 +230,9 @@
       {
         "home": "Sunderland",
         "away": "Leeds United",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "4:30 PM UTC",
         "date": "Oct 25",
         "highlighted": false
@@ -328,13 +296,13 @@
       },
       {
         "position": 6,
-        "team": "Hull City",
+        "team": "Brentford",
         "played": 8,
-        "won": 3,
-        "drawn": 3,
-        "lost": 2,
-        "gd": 2,
-        "points": 12,
+        "won": 2,
+        "drawn": 5,
+        "lost": 1,
+        "gd": 5,
+        "points": 11,
         "highlighted": false
       }
     ]
@@ -342,31 +310,31 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Liverpool in Advanced Talks for Bundesliga Midfielder as Slot Eyes Engine Room Upgrade",
-        "summary": "Liverpool are reportedly in advanced discussions to sign a dynamic box-to-box midfielder from the Bundesliga, with Arne Slot keen to add athleticism and pressing intensity to the center of the park ahead of the January window. Personal terms are said to be progressing smoothly, though a fee in excess of £55 million remains a sticking point.",
+        "headline": "Arsenal Targeting Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal are reportedly advancing talks for a dynamic box-to-box midfielder from the Bundesliga as they look to address long-term cover and eventual succession for Thomas Partey, whose contract expires at season's end. A fee in the region of £45–50 million is understood to be under discussion.",
         "clubs": [
-          "Liverpool",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Target Prolific Serie A Striker as Jackson Struggles for Consistency",
-        "summary": "Chelsea's recruitment team have identified a high-scoring Serie A striker as a potential January addition, with Nicolas Jackson's inconsistent form in front of goal prompting the Stamford Bridge hierarchy to explore alternatives. The player has registered 11 league goals this season and is believed to be open to a move to the Premier League.",
+        "headline": "Newcastle United Set to Lose Key Winger in January Window",
+        "summary": "Newcastle United face growing pressure to sell one of their prized attacking assets in January as PSR (Profit and Sustainability Rules) compliance remains a concern, with multiple La Liga clubs registering interest in a move for the English winger. Eddie Howe has publicly insisted the player is not for sale, but the club's financial constraints may force the issue.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Newcastle United",
+          "Atletico Madrid"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
+      "home": "Liverpool",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's marquee fixture of the weekend pits Arsenal against Manchester City in what could be a defining moment in the title race, with both sides separated by just two points heading into the clash at the Emirates. Arsenal have been imperious at home this season, losing just once in front of their own fans, while City arrive on the back of three consecutive league wins that have silenced early-season doubters about their post-Rodri resilience. All eyes will be on whether Mikel Arteta's high press can disrupt Pep Guardiola's intricate positional play, with the outcome potentially opening a significant gap at the summit of the table.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The defining fixture of the English football calendar arrives at Anfield with Liverpool sitting top of the table and Manchester City scrambling to close a six-point deficit following an inconsistent run of form. Arne Slot's side have been remarkably consistent in their high press and transitional play, while Pep Guardiola faces mounting questions about his squad's mental resilience after back-to-back dropped points. The tactical battle between Liverpool's aggressive press and City's positional build-up play promises a absorbing contest, with title implications that could effectively determine the destination of the trophy as early as February.",
       "key_players": [
-        "Bukayo Saka",
+        "Mohamed Salah",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
@@ -374,76 +342,76 @@
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Out",
-        "return": "Season-ending ACL injury — no return this campaign"
+        "return": "Not expected to return this season — long-term ACL rehabilitation ongoing"
       },
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Recovering",
-        "return": "Expected return mid-February following knee surgery"
+        "player": "Alisson Becker",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; hamstring tightness reported in training, decision expected Friday"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced at $1,075. If the bond's yield-to-maturity (YTM) increases by 50 basis points, which of the following best describes the expected price change, assuming modified duration is 7.2 years and convexity is 65?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Interest Rate Risk & Duration",
+      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates increase by 150 basis points, which of the following best approximates the percentage price change of the bond?",
       "options": {
-        "A": "The price will decrease by approximately $38.70, with convexity adding a further price decline",
-        "B": "The price will decrease by approximately $36.00, with convexity partially offsetting the decline",
-        "C": "The price will decrease by approximately $36.00, with convexity adding a further price decline",
-        "D": "The price will increase by approximately $38.70, with convexity amplifying the gain"
+        "A": "-10.80%",
+        "B": "-9.84%",
+        "C": "-8.94%",
+        "D": "-11.63%"
       },
       "correct": "B",
-      "explanation": "The duration-based price change is approximated as: –Modified Duration × ΔYTM × Price = –7.2 × 0.0050 × $1,075 = –$38.70. The convexity adjustment is: 0.5 × Convexity × (ΔYTM)² × Price = 0.5 × 65 × (0.0050)² × $1,075 = +$0.87, which partially offsets the decline. Convexity always adds a positive adjustment regardless of the direction of yield change, so a price decrease from rising yields is partially cushioned. The net price change is approximately –$37.83, making B the closest conceptually correct answer emphasizing convexity's offsetting role."
+      "explanation": "The full price change approximation using both duration and convexity is: %ΔP ≈ (−Modified Duration × Δy) + (0.5 × Convexity × Δy²). Substituting: (−7.2 × 0.015) + (0.5 × 85 × 0.015²) = −0.1080 + 0.009563 = −0.09844, or approximately −9.84%. Answer A ignores the convexity adjustment, which always adds value (positive for option-free bonds) and partially offsets the duration-driven loss. Convexity is particularly meaningful for larger yield moves, making its inclusion critical here."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise in an Era of Tight Lending",
-      "subtitle": "How direct lending funds are filling the void left by retreating banks and reshaping credit markets globally.",
+      "title": "The Carry Trade and Its Hidden Fragility",
+      "subtitle": "How borrowing in low-yield currencies to invest in high-yield ones creates outsized returns — until it doesn't.",
       "paragraphs": [
-        "Private credit refers to non-bank lending arranged directly between institutional lenders — such as private equity-backed credit funds, insurance companies, and asset managers — and corporate borrowers. Unlike syndicated loans or high-yield bonds, these instruments are typically bilateral or club-structured, floating-rate, and not publicly traded. The asset class has grown from roughly $500 billion in assets under management a decade ago to well over $1.7 trillion today, establishing itself as a mainstream component of institutional portfolios.",
-        "The expansion of private credit accelerated meaningfully after the 2008 global financial crisis, as regulatory capital requirements under Basel III and subsequent frameworks constrained banks from holding leveraged loans and middle-market exposure. More recently, the regional banking stress of 2023 — exemplified by the Silicon Valley Bank and Signature Bank failures — prompted further retrenchment in commercial lending. Firms like Ares, Blue Owl, and Blackstone Credit stepped in aggressively, offering borrowers speed of execution and certainty of capital in exchange for higher coupons and tighter covenants, often at SOFR + 500–700 bps.",
-        "For investors, private credit offers attractive risk-adjusted yields and low correlation to public markets, but introduces meaningful illiquidity risk, credit concentration, and valuation opacity. Risk managers must grapple with the fact that loan marks are model-derived rather than market-observable, potentially masking deterioration in credit quality during downturns. As interest rates remain elevated, debt service coverage ratios for floating-rate borrowers have compressed sharply — a dynamic that portfolio managers and allocators must monitor closely heading into any economic slowdown."
+        "The carry trade is a currency strategy in which an investor borrows in a low-interest-rate currency — historically the Japanese yen or Swiss franc — and reinvests the proceeds in a higher-yielding currency or asset, such as the Australian dollar or emerging market debt. The strategy profits from the interest rate differential, or 'carry,' as long as exchange rates remain relatively stable. It is one of the most widely employed macro strategies among hedge funds and proprietary trading desks globally.",
+        "In practice, carry trades can be extraordinarily profitable during periods of low volatility and stable risk appetite. The unwinding of the yen carry trade in August 2024 provided a vivid illustration of the strategy's fragility: when the Bank of Japan unexpectedly signaled rate hikes and the Fed signaled cuts, the yen surged sharply, forcing leveraged carry positions to unwind simultaneously. Global equities sold off violently in days as correlated deleveraging cascaded across asset classes — a reminder that carry trades are effectively short volatility positions disguised as yield strategies.",
+        "For risk managers and investors, the key implication is that carry trade exposure is not simply currency risk — it is a form of systemic liquidity risk. When carry unwinds, it tends to do so rapidly and in correlation with other risk-off moves, meaning diversification benefits evaporate precisely when they are needed most. Monitoring metrics like the IMM (International Money Market) net positioning data for the yen, cross-currency basis spreads, and realized FX volatility can help investors identify when carry crowding has become dangerous."
       ],
       "key_takeaways": [
-        "Private credit has grown into a $1.7T+ asset class by filling the lending gap created by post-GFC bank regulation.",
-        "Borrowers pay a significant illiquidity and complexity premium, while lenders gain higher yields and stronger covenant protections than public credit markets offer.",
-        "The floating-rate nature of most private credit instruments creates meaningful refinancing and debt-service risk for portfolio companies in a higher-for-longer rate environment."
+        "Carry trades earn the interest rate differential but are implicitly short volatility — calm markets mask the true risk.",
+        "Unwinds are non-linear: crowded positions can reverse violently within days, transmitting shocks to equities, credit, and EM assets simultaneously.",
+        "Monitoring yen positioning, cross-currency basis, and FX vol surfaces provides early warning signals before a carry unwind accelerates."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that an action was completed, often with a nuance of regret or unintended consequence. It is formed by attaching しまいました to the te-form of a verb, and is very common in everyday conversation when something happened that the speaker didn't mean or is slightly sorry about.",
-      "memory_tip": "Think of 予算 (yosan) as 'your SAN-ity check on spending' — before you lose your mind over the bills, you set a yo-san (budget) to stay sane."
+      "example_jp": "彼女は必ず約束を守る人です。",
+      "example_romaji": "Kanojo wa kanarazu yakusoku wo mamoru hito desu.",
+      "example_en": "She is a person who always keeps her promises.",
+      "grammar_point": "〜を守る (wo mamoru)",
+      "grammar_explanation": "The pattern 〜を守る means 'to keep' or 'to protect' something, and is commonly paired with 約束 (promise) or ルール (rules). It emphasizes actively upholding a commitment, not just passively acknowledging it.",
+      "memory_tip": "Think of 約束 as a 'yak' (yak-u) that is 'so cute' (soku) you made a promise to protect it — once you commit to protecting a yak, you can never break that promise."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Autonomously Execute Financial Research Workflows",
-      "summary": "A new generation of agentic AI systems — built on models like GPT-4o, Claude 3.5, and Gemini Ultra — is moving beyond simple question-answering into executing multi-step financial workflows autonomously. These systems can retrieve earnings transcripts, cross-reference macro data, draft investment memos, and flag covenant breaches in credit documents with minimal human intervention. Major asset managers including BlackRock, JP Morgan Asset Management, and Point72 have disclosed internal deployments of such agents for research augmentation and risk monitoring. The shift represents a structural change not just in analyst productivity, but in how investment processes are designed from the ground up.",
+      "headline": "AI Agents Are Now Autonomously Executing Multi-Step Financial Research Tasks",
+      "summary": "A new generation of agentic AI systems — capable of planning, tool use, and iterative reasoning without human intervention at each step — is beginning to reshape how financial research and due diligence are conducted. Firms including Morgan Stanley, BlackRock, and several quant hedge funds have deployed or are piloting agents that can autonomously pull earnings transcripts, run sentiment analysis, cross-reference macro data, and generate draft investment memos. Unlike earlier chatbot deployments, these agents can handle ambiguous, multi-step workflows that previously required junior analyst hours. The implications for headcount, workflow design, and compliance oversight are substantial and are accelerating faster than most HR and risk teams anticipated.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system capable of autonomously planning and executing multi-step tasks — such as pulling financial data, running analysis, and generating reports — without requiring a human prompt at each step."
+          "definition": "AI systems that can autonomously break down complex goals into subtasks, use external tools (web search, databases, code execution), and iterate toward a result without requiring human prompting at each step — think of it as an AI that can conduct a full research process, not just answer a single question."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating a response, allowing it to answer questions grounded in up-to-date or proprietary financial information rather than relying solely on training data."
+          "definition": "A technique where an AI model fetches relevant external documents or data (e.g., SEC filings, Bloomberg data, internal research) at query time and uses them as context to generate more accurate, up-to-date responses — critical for financial applications where factual precision and recency matter."
         },
         {
-          "term": "Structured Output Parsing",
-          "definition": "The ability of AI models to return data in reliable, machine-readable formats (like JSON or tables), enabling seamless integration into trading systems, risk dashboards, or portfolio management platforms."
+          "term": "Hallucination Risk",
+          "definition": "The tendency of large language models to generate plausible-sounding but factually incorrect statements — a critical compliance and operational risk in finance, where a fabricated earnings figure or regulatory citation in an AI-generated memo could have serious consequences."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, evaluate, and govern agentic AI workflows will be significantly more valuable than those who simply use AI as a search tool. The most in-demand hybrid skillset is emerging at the intersection of financial domain expertise, prompt engineering, and workflow automation — analysts who can define what an AI agent should do, validate its outputs critically, and identify where human judgment remains essential are becoming the new power users across buy-side and sell-side firms."
+      "career_insight": "Finance professionals who understand how to design, evaluate, and govern AI agent workflows — rather than simply use AI tools — will command significant premium in the job market over the next three to five years. The highest-value skill is not prompt engineering but rather AI workflow architecture: knowing which tasks to delegate to agents, how to structure human-in-the-loop checkpoints, and how to audit AI outputs for regulatory compliance."
     },
     "error": false,
-    "market_sentiment": "Risk assets are navigating a cautiously constructive backdrop as markets digest the Fed's higher-for-longer posture against incrementally softer labor market data — the balance between sticky services inflation and easing wage growth remains the central tension for rate expectations into Q4. Credit spreads in investment-grade have held remarkably well near post-GFC tights, while high-yield is showing early signs of dispersion, with CCC-rated issuers underperforming as refinancing risk becomes more acute for the most leveraged borrowers. Equity markets are pricing a soft-landing with conviction, but positioning looks stretched in large-cap tech — any upward revision to terminal rate expectations or a geopolitical flare-up in the Middle East or Taiwan Strait could rapidly reprice tail risk across asset classes."
+    "market_sentiment": "Risk assets are navigating a delicate equilibrium as markets digest resilient US labor data against a backdrop of renewed Fed 'higher-for-longer' rhetoric, keeping the front end of the Treasury curve under pressure and the dollar broadly supported. Equity markets remain bifurcated, with mega-cap AI names continuing to absorb flows as a perceived safe harbor, while rate-sensitive sectors — utilities, REITs, and small caps — face valuation headwinds. Geopolitical risk premia are quietly being repriced in oil and gold, and credit spreads, though tight in IG, are showing early signs of widening in lower-quality HY names — a pattern worth monitoring as refinancing walls approach in 2025."
   }
 }
