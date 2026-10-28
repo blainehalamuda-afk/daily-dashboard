@@ -1,30 +1,23 @@
 {
-  "generated_at": "4:58 PM UTC",
-  "date": "Tuesday, October 27, 2026",
+  "generated_at": "5:32 PM UTC",
+  "date": "Wednesday, October 28, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 70,
-    "feels_like_f": 69,
-    "high_f": 72,
-    "low_f": 68,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 49,
-    "wind_mph": 7,
+    "temp_f": 72,
+    "feels_like_f": 72,
+    "high_f": 74,
+    "low_f": 70,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 54,
+    "wind_mph": 10,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 46,
-        "low": 46,
-        "description": "Clear Sky"
-      },
       {
         "day": "Thu",
         "icon": "☁️",
-        "high": 60,
-        "low": 60,
+        "high": 51,
+        "low": 51,
         "description": "Overcast Clouds"
       },
       {
@@ -33,6 +26,13 @@
         "high": 52,
         "low": 52,
         "description": "Clear Sky"
+      },
+      {
+        "day": "Sat",
+        "icon": "☁️",
+        "high": 57,
+        "low": 57,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 769.34,
-        "change": 3.97,
-        "change_pct": 0.52,
+        "price": 770.82,
+        "change": 1.16,
+        "change_pct": 0.15,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 346.33,
-        "change": 2.42,
-        "change_pct": 0.7,
-        "up": true,
+        "price": 345.38,
+        "change": -1.72,
+        "change_pct": -0.5,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 217.94,
-        "change": 1.94,
-        "change_pct": 0.9,
-        "up": true,
+        "price": 216.86,
+        "change": -1.08,
+        "change_pct": -0.5,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 406.31,
-        "change": 14.69,
-        "change_pct": 3.75,
-        "up": true,
+        "price": 401.6,
+        "change": -5.86,
+        "change_pct": -1.44,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 80540.01,
-        "change": 372.88,
-        "change_pct": 0.47,
-        "up": true,
+        "price": 80615.66,
+        "change": -147.73,
+        "change_pct": -0.18,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2347.26,
-        "change": 27.77,
-        "change_pct": 1.2,
-        "up": true,
+        "price": 2335.43,
+        "change": -17.53,
+        "change_pct": -0.75,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq rally as investors parse Anthropic IPO filing, busy week of tech earnings - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html",
-        "description": "Investors braced for a full earnings docket and the Federal Reserve's next policy decision this week.",
-        "published": "4:35 PM UTC",
+        "title": "Stock Market Today: Dow flat, Nasdaq and S&P 500 edge higher as oil prices fall and chip stocks bounce - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound",
+        "description": "Follow all the latest U.S. market action for Tuesday here.",
+        "published": "4:39 PM UTC",
         "category": "Business"
       },
       {
-        "title": "McDonald’s McRib returns to select cities — find out if yours is one of them - New York Post",
+        "title": "There’s not enough money in the world to pay for the AI boom - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come/",
+        "description": "AI  companies have been borrowing hundreds of billions of dollars, selling fresh stock, and cooking up novel and potentially risky methods of financing.",
+        "published": "4:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+        "description": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
+        "published": "3:45 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "iOS 27.2 introduces new age verification feature using selfie - 9to5Mac",
+        "source": "9to5Mac",
+        "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie/",
+        "description": "iOS 27.2 is here, and it introduces a new feature for age verification using a selfie. Here are the details.",
+        "published": "3:41 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+        "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+        "published": "2:59 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+        "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+        "published": "2:25 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Colorectal cancer is surging in an unexpected group — and it’s ‘developing differently’ - New York Post",
         "source": "New York Post",
-        "url": "https://nypost.com/2026/10/26/lifestyle/mcdonalds-mcrib-returns-to-select-cities/",
-        "description": "Every fall, fast-food devotees brace for the return of a certain seasonal classic — and no, it isn’t a pumpkin spice latte.",
-        "published": "4:11 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c",
-        "description": "Artificial intelligence giant Anthropic filed papers Monday for what could be the biggest initial public offering of stock ever even as its top executive warns that advanced AI could pose an existenti",
-        "published": "4:07 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "10 Things I Wish I Knew When I Started ‘Cyberpunk 2077’ (Update 2.5 Edition) - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/10/26/10-things-i-wish-i-knew-when-i-started-cyberpunk-2077-update-25-edition/",
-        "description": "",
-        "published": "4:02 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Final Fantasy And Chrono Trigger Veterans Believe Modern Developers Must Possess Skill To Take An Idea 'From 0 To 1' In The Age Of AI - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690",
-        "description": "Yoshinori Kitase and other Square Enix creatives also reflected on the SNES development of the Mana series",
-        "published": "3:30 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "The 13 scariest, spookiest video games you should play this Halloween - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/13-scariest-spookiest-video-games-this-halloween",
-        "description": "The nights are drawing in, which can only mean one thing: more bed. But also the impending frights and sights of All Ha…",
-        "published": "3:29 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "'Big Brother' winner Rick Devens reveals wife has cancer - USA Today",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/26/rick-devens-wife-becca-cancer-big-brother/92440444007/",
-        "description": "Weeks after winning \"Big Brother,\" Rick Devens revealed his wife Becca has been diagnosed with breast cancer.",
-        "published": "4:26 PM UTC",
+        "url": "https://nypost.com/2026/10/27/health/colorectal-cancer-is-surging-in-an-unexpected-group/",
+        "description": "Scientists are racing to understand why the disease is shifting to new populations — and why it’s appearing more aggressively.",
+        "published": "3:50 PM UTC",
         "category": "General"
       },
       {
-        "title": "Microsoft offers voluntary buyouts to 60,000 employees - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-        "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-        "published": "3:52 PM UTC",
+        "title": "FBI serves search warrants tied to Eric Swalwell investigation at Beverly Hills mansion belonging to Stephen Cloobeck - ABC7 Los Angeles",
+        "source": "KABC-TV",
+        "url": "https://abc7.com/post/fbi-serves-search-warrants-tied-eric-swalwell-investigation-beverly-hills-mansion-belonging-stephen-cloobeck/19985228/",
+        "description": "The FBI served a search warrant at Beverly Hills mansion, and Eyewitness News has learned it's in connection to an investigation into Eric Swalwell.",
+        "published": "3:22 PM UTC",
         "category": "General"
       }
     ]
@@ -251,74 +251,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Accelerate Pursuit of Bundesliga Midfielder Ahead of Summer Window",
-        "summary": "Arsenal are reported to be leading the race for a top-tier central midfielder from the Bundesliga, with the club looking to add creative depth and ball progression ability ahead of a Champions League campaign. A fee in the region of £65–75 million is believed to be under discussion.",
+        "headline": "Arsenal Ramp Up Interest in Bundesliga Midfielder as Contract Talks Stall",
+        "summary": "Arsenal are reported to have sent scouts to monitor a top Bundesliga central midfielder with 18 months remaining on his contract, as the Gunners seek to bolster their engine room depth ahead of a potential Champions League deep run. The player's club are believed to be seeking €55–60 million, though Arsenal may attempt to negotiate closer to €45 million.",
         "clubs": [
           "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Hold Talks Over Striker as Injury Crisis Deepens",
-        "summary": "Chelsea's recruitment team has held preliminary discussions with the representatives of a prolific Serie A striker as the club seeks to add firepower following a string of injuries to their frontline. The 26-year-old has scored 18 league goals this season and is contracted until 2027.",
+        "headline": "Chelsea Target Prolific Serie A Striker as Jackson Backup Divides Opinion",
+        "summary": "Chelsea's recruitment team are understood to have held preliminary talks with representatives of a highly-rated Serie A striker who has scored 14 goals in all competitions this season, as the club look to provide competitive backup and rotation for Nicolas Jackson. A January move is considered unlikely, with a summer deal seen as the more realistic outcome.",
         "clubs": [
           "Chelsea",
-          "Napoli"
+          "Atalanta"
         ]
       }
     ],
     "match_preview": {
       "home": "Manchester City",
       "away": "Liverpool",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "The title race takes center stage as Manchester City host Liverpool at the Etihad in what could be a defining fixture for the Premier League season. City arrive having won five of their last six league outings and will look to leverage home advantage and their pressing intensity to unsettle a Liverpool side that has been brilliant in transitions but occasionally vulnerable to high-press opponents. With just a handful of points separating the two sides in the table, a win for either club could prove decisive in the final stretch of the campaign.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Premier League's defining rivalry resumes at the Etihad in what promises to be a pivotal title race fixture, with City looking to close the gap on leaders Liverpool who arrive on the back of four consecutive wins. Pep Guardiola's side have rediscovered defensive solidity in recent weeks but face a Liverpool press that has been relentless this season, led by a Mohamed Salah in career-best form. The result could effectively serve as a six-point swing in the title race, and both managers are expected to name full-strength sides despite midweek European commitments.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Erling Haaland",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Assessed day-to-day; fitness test expected Saturday"
-      },
-      {
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
+        "status": "Doubtful",
+        "return": "Being assessed daily; may not feature until late January"
+      },
+      {
+        "player": "Diogo Jota",
+        "team": "Liverpool",
         "status": "Recovering",
-        "return": "Expected to be available from the bench; full return within 1–2 weeks"
+        "return": "Expected to return to full training within 2–3 weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 2",
-      "topic": "Fixed Income — Interest Rate Risk & Duration",
-      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates rise by 150 basis points, which of the following best estimates the percentage price change of the bond?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, $1,000 face value, and 5 years to maturity is priced at $1,054.17. An investor claims the bond's yield to maturity (YTM) is less than its coupon rate. Which of the following best explains this relationship, and what is the most likely YTM range?",
       "options": {
-        "A": "−10.80%",
-        "B": "−9.84%",
-        "C": "−10.80% + 0.96% = −9.84%",
-        "D": "−10.80% + 1.91% = −8.89%"
+        "A": "The bond is trading at a discount; YTM is greater than 6%",
+        "B": "The bond is trading at a premium; YTM is less than 6%, likely near 4.5–5%",
+        "C": "The bond is trading at par; YTM equals the coupon rate of 6%",
+        "D": "The bond is trading at a premium; YTM is greater than 6%, likely near 6.5–7%"
       },
-      "correct": "C",
-      "explanation": "The full price change approximation using both duration and convexity is: %ΔP ≈ (−Modified Duration × Δy) + (0.5 × Convexity × Δy²). Here: (−7.2 × 0.015) + (0.5 × 85 × 0.015²) = −0.1080 + 0.5 × 85 × 0.000225 = −0.1080 + 0.009563 ≈ −9.84%. Convexity adds a positive adjustment because the price-yield relationship is curved, meaning duration alone overstates the price decline. Answer C correctly identifies both the duration component (−10.80%) and the convexity correction (+0.96%) to arrive at the net estimate."
+      "correct": "B",
+      "explanation": "When a bond's price exceeds its face value, it trades at a premium, which occurs when market interest rates are below the bond's coupon rate. Because investors are paying more than par for a bond that pays a fixed 6% coupon, the effective yield they earn (YTM) must be lower than 6%. The inverse relationship between bond prices and yields is a foundational fixed income concept: price above par implies YTM below coupon rate, and price below par implies YTM above coupon rate."
     },
     "finance_topic": {
-      "title": "The Return of Term Premium in Bond Markets",
-      "subtitle": "After years near zero, the term premium is reasserting itself as a critical driver of long-term Treasury yields.",
+      "title": "Duration Gap and Bank Interest Rate Risk",
+      "subtitle": "How mismatches between asset and liability durations expose financial institutions to catastrophic rate sensitivity.",
       "paragraphs": [
-        "The term premium is the extra compensation investors demand for holding a long-duration bond rather than rolling over a series of short-term instruments. It reflects uncertainty about the future path of interest rates, inflation, and the sheer supply of bonds that must be absorbed by the market. For much of the post-2008 era, massive central bank asset purchases suppressed the term premium to near or even below zero, distorting the yield curve and making long-term bonds appear artificially cheap to borrow against.",
-        "Since 2022, the term premium has staged a dramatic comeback. The Federal Reserve's quantitative tightening program, combined with record Treasury issuance to fund large fiscal deficits, has forced private investors to absorb far more duration risk than they did during the QE era. Models such as the Adrian-Crump-Moench (ACM) model at the New York Fed have shown the 10-year term premium climbing back toward 100 basis points — levels not consistently seen since before the Global Financial Crisis. This dynamic explains why the 10-year Treasury yield has remained elevated even as markets price in eventual Fed rate cuts.",
-        "For fixed income investors and risk managers, the resurgence of the term premium fundamentally changes portfolio construction. A steeper, positive term premium means the yield curve is being compensated for real uncertainty, not just expectations — making long-duration bonds genuinely risky rather than simply rate-sensitive. Risk managers must update their scenario analyses to account for a regime where QE is no longer the backstop, and investors must weigh whether the extra yield on long bonds adequately compensates for that duration exposure in a world of structural fiscal imbalances."
+        "Duration gap is a measure used by financial institutions — particularly banks and insurance companies — to quantify the sensitivity of their net worth to changes in interest rates. It is calculated as the difference between the weighted average duration of a firm's assets and the weighted average duration of its liabilities, adjusted for leverage. A positive duration gap means assets are more rate-sensitive than liabilities, so rising interest rates will erode the economic value of equity.",
+        "The collapse of Silicon Valley Bank (SVB) in March 2023 became the textbook modern case study of duration gap mismanagement. SVB had accumulated a large portfolio of long-duration U.S. Treasuries and agency mortgage-backed securities funded by short-term, uninsured deposits. As the Federal Reserve raised rates at an unprecedented pace, the market value of those long-duration assets collapsed while liabilities repriced rapidly, creating a catastrophic mismatch. When depositors demanded withdrawals, SVB was forced to realize massive losses on asset sales, triggering a bank run.",
+        "For risk managers and investors, monitoring duration gap is essential — especially in rising rate environments. Portfolio managers at banks use interest rate swaps, futures, and options to hedge duration mismatches without liquidating underlying assets. Equity investors in financial stocks should scrutinize regulatory filings for held-to-maturity versus available-for-sale securities classifications, as HTM assets can mask unrealized losses that don't appear on income statements until forced realization events occur."
       ],
       "key_takeaways": [
-        "The term premium is the excess yield on long bonds above the expected path of short-term rates, and it had been suppressed near zero by a decade of central bank QE.",
-        "Rising fiscal deficits and quantitative tightening are forcing the term premium higher, keeping long-term yields elevated independent of Fed policy expectations.",
-        "Investors should reassess long-duration exposures, as a positive and rising term premium signals genuine compensation for uncertainty rather than mere rate expectations."
+        "A positive duration gap exposes a firm's net worth to losses when interest rates rise, as asset values fall faster than liabilities.",
+        "SVB's 2023 collapse is the definitive modern example of how duration mismanagement combined with concentrated, rate-sensitive depositors can become fatal.",
+        "Derivatives such as interest rate swaps are the primary tools institutions use to manage duration gap without restructuring their entire balance sheet."
       ]
     },
     "japanese": {
@@ -326,33 +326,33 @@
       "reading": "yosan",
       "meaning": "budget; financial plan",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をしっかり管理しています。",
-      "example_romaji": "Kongetsu no yosan wo shikkari kanri shite imasu.",
-      "example_en": "I am carefully managing this month's budget.",
-      "grammar_point": "〜をしっかり〜しています",
-      "grammar_explanation": "The pattern 〜をしっかり〜しています expresses doing something carefully or firmly on an ongoing basis. 'Shikkari' is an adverb meaning 'properly' or 'firmly,' and 'shite imasu' (〜しています) indicates a continuous or habitual action in the present.",
-      "memory_tip": "Think of 'yosan' as 'your SAN(ity) depends on your budget' — keeping a budget keeps you sane. The 'yo' sounds like 'your' and 'san' is a respectful suffix, so your budget deserves respect too!"
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
+      "example_en": "I've already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました is used to express that something has been completed, often with a nuance of regret or that the action is final and cannot be undone. In this sentence, 使い切ってしまいました means 'ended up completely using up' the budget, implying the speaker regrets it.",
+      "memory_tip": "Think of 予算 (yosan) as 'your-SAN' — your three (san = 3) most important spending categories. If you blow all three, you're over budget!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Autonomously Executing Complex Financial Research Tasks",
-      "summary": "A new generation of agentic AI systems — capable of planning multi-step tasks, browsing live data, and writing structured output without human prompting at each step — is beginning to automate significant portions of the financial research workflow. Firms including Bloomberg, Morgan Stanley, and several quant hedge funds are deploying or piloting agents that can synthesize earnings transcripts, screen SEC filings, and generate draft analyst notes in minutes. Unlike earlier chatbot tools that required constant user input, these agents operate with a goal and a toolkit, iterating autonomously until a deliverable is produced. The implication for finance professionals is not just efficiency — it is a fundamental shift in where human judgment adds the most value.",
+      "headline": "Agentic AI Is Quietly Transforming Credit Underwriting and Risk Decisioning at Scale",
+      "summary": "A new wave of agentic AI systems — capable of autonomously executing multi-step tasks without constant human prompting — is being piloted by major financial institutions for credit analysis, covenant monitoring, and early warning risk signals. Unlike earlier rule-based or single-inference AI models, agentic systems can pull live data from multiple sources, reconcile discrepancies, draft credit memos, and flag anomalies across large loan portfolios simultaneously. Banks including JPMorgan, HSBC, and several large asset managers have disclosed internal deployments of AI agents for back-office and middle-office functions, with front-office pilots accelerating. The productivity implications are profound: tasks that once required a junior analyst team of five working a full week may soon be completed by an AI agent in hours.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan and execute a sequence of actions — such as retrieving data, running calculations, and drafting reports — to achieve a specified goal, with minimal step-by-step human instruction."
+          "definition": "AI systems that can autonomously plan and execute a sequence of actions — such as retrieving data, performing analysis, and generating reports — to complete a complex goal with minimal human intervention, relevant in finance for automating credit workflows and compliance checks."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to an external knowledge base or live data source, allowing it to pull current, factual information before generating a response — critical for finance use cases where data freshness matters."
+          "definition": "A technique that grounds an AI language model's responses in real, retrieved documents or databases — allowing financial institutions to build AI tools that accurately cite live regulatory filings, earnings transcripts, or internal credit policies rather than relying on potentially outdated training data."
         },
         {
-          "term": "Tool Use / Function Calling",
-          "definition": "The ability of a large language model to invoke external tools — such as a Bloomberg terminal API, a Python calculator, or a web search — mid-conversation, enabling it to act on real financial data rather than relying solely on trained knowledge."
+          "term": "Model Risk Management (MRM) for AI",
+          "definition": "The governance framework applied to AI and machine learning models used in financial decisions, ensuring they are validated, explainable, and monitored for performance drift — increasingly scrutinized by regulators like the OCC and Federal Reserve as AI adoption accelerates in lending and trading."
         }
       ],
-      "career_insight": "Finance professionals who thrive in the next five years will be those who can design, supervise, and critically evaluate AI agent workflows — not just use AI as a search engine. Skills in prompt engineering, output validation, and understanding AI failure modes (hallucination, stale data, over-confidence) are rapidly becoming as valuable as traditional modeling ability. The highest-value human roles will shift toward judgment on ambiguous situations, client relationships, and governance of AI-driven processes."
+      "career_insight": "Finance professionals who can bridge quantitative rigor with AI fluency — understanding how to validate, challenge, and govern AI model outputs — are becoming the most sought-after talent in banking and asset management. The role of the future credit analyst or risk manager will not be eliminated but fundamentally restructured: less time on data gathering and more on judgment, client relationships, and model oversight. Building skills in Python-based data analysis, prompt engineering for financial use cases, and AI governance frameworks will be the defining career differentiators through the rest of this decade."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as markets digest a modestly softer US CPI print, giving the Fed room to maintain its patient stance without signaling imminent cuts. The dollar has edged lower against G10 peers, providing a tailwind for EM assets, while the front end of the Treasury curve has rallied slightly as rate-cut expectations for H2 are gently repriced higher. Equities are grinding near all-time highs in the US, but breadth remains narrow — mega-cap tech continues to carry the index while financials and energy lag, suggesting investors are not yet pricing a broad cyclical acceleration. Commodity markets are watching OPEC+ compliance closely, with Brent crude consolidating in the low-$80s as demand signals from China remain mixed."
+    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as markets digest a resilient U.S. labor market print alongside moderating core PCE data, reinforcing the 'soft landing' narrative while keeping Fed rate cut expectations anchored to the back half of the year. EM currencies are finding modest support on dollar softness, while Brent crude hovers near $84/bbl amid OPEC+ supply discipline and lingering Middle East geopolitical risk premium. Equity markets are range-bound ahead of a heavy earnings week, with investors particularly focused on financials and industrials for guidance on margin compression and demand sustainability into Q3."
   }
 }
