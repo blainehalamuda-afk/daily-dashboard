@@ -1,37 +1,37 @@
 {
-  "generated_at": "5:32 PM UTC",
-  "date": "Wednesday, October 28, 2026",
+  "generated_at": "5:43 PM UTC",
+  "date": "Thursday, October 29, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 72,
     "feels_like_f": 72,
-    "high_f": 74,
-    "low_f": 70,
+    "high_f": 75,
+    "low_f": 71,
     "description": "Broken Clouds",
     "icon": "☁️",
-    "humidity": 54,
-    "wind_mph": 10,
+    "humidity": 69,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Thu",
-        "icon": "☁️",
-        "high": 51,
-        "low": 51,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Fri",
-        "icon": "☀️",
-        "high": 52,
-        "low": 52,
-        "description": "Clear Sky"
+        "icon": "🌤️",
+        "high": 49,
+        "low": 49,
+        "description": "Few Clouds"
       },
       {
         "day": "Sat",
         "icon": "☁️",
-        "high": 57,
-        "low": 57,
+        "high": 56,
+        "low": 56,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sun",
+        "icon": "☁️",
+        "high": 54,
+        "low": 54,
         "description": "Overcast Clouds"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 770.82,
-        "change": 1.16,
-        "change_pct": 0.15,
-        "up": true,
+        "price": 767.91,
+        "change": -4.4,
+        "change_pct": -0.57,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 345.38,
-        "change": -1.72,
-        "change_pct": -0.5,
-        "up": false,
+        "price": 349.62,
+        "change": 5.79,
+        "change_pct": 1.68,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 216.86,
-        "change": -1.08,
-        "change_pct": -0.5,
+        "price": 213.48,
+        "change": -1.9,
+        "change_pct": -0.88,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 401.6,
-        "change": -5.86,
-        "change_pct": -1.44,
-        "up": false,
+        "price": 404.8,
+        "change": 0.58,
+        "change_pct": 0.14,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 80615.66,
-        "change": -147.73,
-        "change_pct": -0.18,
-        "up": false,
+        "price": 80924.33,
+        "change": 225.16,
+        "change_pct": 0.28,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2335.43,
-        "change": -17.53,
-        "change_pct": -0.75,
+        "price": 2339.76,
+        "change": -0.66,
+        "change_pct": -0.03,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow flat, Nasdaq and S&P 500 edge higher as oil prices fall and chip stocks bounce - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound",
-        "description": "Follow all the latest U.S. market action for Tuesday here.",
-        "published": "4:39 PM UTC",
+        "title": "Stock Market Today: Dow Holds Thin Gains; These Stocks Get Bashed On Earnings (Live Coverage) - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-federal-reserve-interest-rate-decision-kevin-warsh/",
+        "description": "Stock Market Today: The Dow Jones index trimmed its gain Wednesday after the Fed held its key interest rate steady. Robinhood slid on earnings.",
+        "published": "6:14 PM UTC",
         "category": "Business"
       },
       {
-        "title": "There’s not enough money in the world to pay for the AI boom - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come/",
-        "description": "AI  companies have been borrowing hundreds of billions of dollars, selling fresh stock, and cooking up novel and potentially risky methods of financing.",
+        "title": "Weil Practice Head Tells Lawyers to Find Jobs as Firm Struggles - Bloomberg Law News",
+        "source": "Bloomberglaw.com",
+        "url": "https://news.bloomberglaw.com/business-and-practice/weil-practice-head-tells-lawyers-to-find-jobs-as-firm-struggles",
+        "description": "The leader of a Weil Gotshal &amp; Manges practice group told his junior lawyers to look for employment, underscoring the firm’s perilous state as it consults with a restructuring lawyer.",
+        "published": "5:06 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+        "description": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
         "published": "4:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-        "description": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
-        "published": "3:45 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "iOS 27.2 introduces new age verification feature using selfie - 9to5Mac",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie/",
-        "description": "iOS 27.2 is here, and it introduces a new feature for age verification using a selfie. Here are the details.",
-        "published": "3:41 PM UTC",
+        "title": "Apple Unveils Touch-Screen MacBook Pro, Reversing Longheld Jobs Stance - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-28/apple-unveils-touch-screen-macbook-pro-reversing-longheld-jobs-stance",
+        "description": "After two decades of spurning the idea, Apple Inc. unveiled an overhauled MacBook Pro that includes a touch screen, giving its flagship laptop a feature that has become a must-have in the personal com",
+        "published": "6:17 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite - TechCrunch",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-        "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-        "published": "2:59 PM UTC",
+        "title": "Google adding more Connected Apps to Gemini & Search with new dev platform - 9to5Google",
+        "source": "9to5google.com",
+        "url": "http://9to5google.com/2026/10/28/gemini-google-connected-apps-platform/",
+        "description": "Google announced the Connected Apps Platform as a “unified way for more app developers to bring their capabilities directly into Gemini and Search.”",
+        "published": "5:56 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-        "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
-        "published": "2:25 PM UTC",
+        "title": "Here’s all 23 games shown during Nintendo’s latest Indie World presentation - Video Games Chronicle",
+        "source": "Video Games Chronicle",
+        "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/",
+        "description": "The 15-minute show gave viewers a look at new indie games coming to Switch and Switch 2",
+        "published": "5:47 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Colorectal cancer is surging in an unexpected group — and it’s ‘developing differently’ - New York Post",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/27/health/colorectal-cancer-is-surging-in-an-unexpected-group/",
-        "description": "Scientists are racing to understand why the disease is shifting to new populations — and why it’s appearing more aggressively.",
-        "published": "3:50 PM UTC",
+        "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/28/world/live-news/spain-train-crash-collision-intl",
+        "description": "Scores of people have been killed and around 100 injured after two Spanish trains — carrying about 500 passengers — collided south of Madrid. Follow for live updates.",
+        "published": "6:39 PM UTC",
         "category": "General"
       },
       {
-        "title": "FBI serves search warrants tied to Eric Swalwell investigation at Beverly Hills mansion belonging to Stephen Cloobeck - ABC7 Los Angeles",
-        "source": "KABC-TV",
-        "url": "https://abc7.com/post/fbi-serves-search-warrants-tied-eric-swalwell-investigation-beverly-hills-mansion-belonging-stephen-cloobeck/19985228/",
-        "description": "The FBI served a search warrant at Beverly Hills mansion, and Eyewitness News has learned it's in connection to an investigation into Eric Swalwell.",
-        "published": "3:22 PM UTC",
+        "title": "Iran pressed to make nuke concessions as massive post-midterms strikes loom - Axios",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
+        "description": "Mediators are working to reach a diplomatic off-ramp.",
+        "published": "6:01 PM UTC",
         "category": "General"
       }
     ]
@@ -251,74 +251,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Ramp Up Interest in Bundesliga Midfielder as Contract Talks Stall",
-        "summary": "Arsenal are reported to have sent scouts to monitor a top Bundesliga central midfielder with 18 months remaining on his contract, as the Gunners seek to bolster their engine room depth ahead of a potential Champions League deep run. The player's club are believed to be seeking €55–60 million, though Arsenal may attempt to negotiate closer to €45 million.",
+        "headline": "Liverpool Eye Bundesliga Midfielder as Gravenberch Cover Option",
+        "summary": "Liverpool's recruitment team has reportedly shortlisted a Bundesliga midfielder to provide depth behind Ryan Gravenberch, with Slot keen to add an energetic ball-winner in the January window. Personal terms are said to be an obstacle, with the player understood to prefer a starting role.",
         "clubs": [
-          "Arsenal",
-          "Bayer Leverkusen"
+          "Liverpool",
+          "Bayern Munich"
         ]
       },
       {
-        "headline": "Chelsea Target Prolific Serie A Striker as Jackson Backup Divides Opinion",
-        "summary": "Chelsea's recruitment team are understood to have held preliminary talks with representatives of a highly-rated Serie A striker who has scored 14 goals in all competitions this season, as the club look to provide competitive backup and rotation for Nicolas Jackson. A January move is considered unlikely, with a summer deal seen as the more realistic outcome.",
+        "headline": "Chelsea Enter Race for Palmeiras Striker Estêvão Ahead of Summer Move",
+        "summary": "Chelsea are reportedly working to accelerate structural elements of Estêvão Willian's pre-agreed move amid interest from rival clubs seeking to test Palmeiras's resolve. The Blues are confident the deal remains on track for a summer 2025 completion following the player's 18th birthday.",
         "clubs": [
           "Chelsea",
-          "Atalanta"
+          "Palmeiras"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's defining rivalry resumes at the Etihad in what promises to be a pivotal title race fixture, with City looking to close the gap on leaders Liverpool who arrive on the back of four consecutive wins. Pep Guardiola's side have rediscovered defensive solidity in recent weeks but face a Liverpool press that has been relentless this season, led by a Mohamed Salah in career-best form. The result could effectively serve as a six-point swing in the title race, and both managers are expected to name full-strength sides despite midweek European commitments.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "This heavyweight clash at the Emirates carries genuine title implications, with Arsenal looking to extend their lead at the summit and City desperate to close the gap after a run of unconvincing performances. Arteta's side have been formidable at home this season, boasting one of the league's best defensive records, while Guardiola's men will look to exploit transitions and set-piece vulnerability. The tactical subplot — Arsenal's high press against City's positional possession game — makes this one of the most analytically rich fixtures on the calendar.",
       "key_players": [
-        "Mohamed Salah",
+        "Bukayo Saka",
         "Erling Haaland",
-        "Virgil van Dijk"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed daily; may not feature until late January"
+        "status": "Out",
+        "return": "Season — long-term ACL rehabilitation ongoing"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Expected to return to full training within 2–3 weeks"
+        "player": "Gabriel Magalhães",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; knock sustained in midweek training"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, $1,000 face value, and 5 years to maturity is priced at $1,054.17. An investor claims the bond's yield to maturity (YTM) is less than its coupon rate. Which of the following best explains this relationship, and what is the most likely YTM range?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Credit Analysis",
+      "question": "An analyst is valuing a callable corporate bond using an option-adjusted spread (OAS) framework. The bond has a nominal spread of 180 bps over the benchmark Treasury and an option cost of 45 bps. If the OAS of a comparable non-callable bond is 120 bps, which of the following conclusions is most accurate?",
       "options": {
-        "A": "The bond is trading at a discount; YTM is greater than 6%",
-        "B": "The bond is trading at a premium; YTM is less than 6%, likely near 4.5–5%",
-        "C": "The bond is trading at par; YTM equals the coupon rate of 6%",
-        "D": "The bond is trading at a premium; YTM is greater than 6%, likely near 6.5–7%"
+        "A": "The callable bond is undervalued because its OAS of 135 bps exceeds the comparable OAS of 120 bps.",
+        "B": "The callable bond is overvalued because its nominal spread of 180 bps exceeds the OAS of the comparable bond.",
+        "C": "The callable bond is undervalued because its nominal spread exceeds its OAS by more than the option cost.",
+        "D": "The callable bond is fairly valued because the OAS of 135 bps approximates the comparable OAS of 120 bps within a normal tolerance band."
       },
-      "correct": "B",
-      "explanation": "When a bond's price exceeds its face value, it trades at a premium, which occurs when market interest rates are below the bond's coupon rate. Because investors are paying more than par for a bond that pays a fixed 6% coupon, the effective yield they earn (YTM) must be lower than 6%. The inverse relationship between bond prices and yields is a foundational fixed income concept: price above par implies YTM below coupon rate, and price below par implies YTM above coupon rate."
+      "correct": "A",
+      "explanation": "The OAS of the callable bond is calculated as the nominal spread minus the option cost: 180 bps − 45 bps = 135 bps. Since the OAS strips out the embedded option value, it represents the pure credit and liquidity spread. Comparing 135 bps to the 120 bps OAS of a comparable non-callable bond suggests the callable bond offers more compensation per unit of credit risk, implying it is undervalued. Option B incorrectly compares the nominal spread to OAS across different instruments, which is an apples-to-oranges comparison."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Interest Rate Risk",
-      "subtitle": "How mismatches between asset and liability durations expose financial institutions to catastrophic rate sensitivity.",
+      "title": "Basis Risk in Interest Rate Hedging",
+      "subtitle": "Why hedging with futures or swaps doesn't always eliminate risk — and what residual exposure remains.",
       "paragraphs": [
-        "Duration gap is a measure used by financial institutions — particularly banks and insurance companies — to quantify the sensitivity of their net worth to changes in interest rates. It is calculated as the difference between the weighted average duration of a firm's assets and the weighted average duration of its liabilities, adjusted for leverage. A positive duration gap means assets are more rate-sensitive than liabilities, so rising interest rates will erode the economic value of equity.",
-        "The collapse of Silicon Valley Bank (SVB) in March 2023 became the textbook modern case study of duration gap mismanagement. SVB had accumulated a large portfolio of long-duration U.S. Treasuries and agency mortgage-backed securities funded by short-term, uninsured deposits. As the Federal Reserve raised rates at an unprecedented pace, the market value of those long-duration assets collapsed while liabilities repriced rapidly, creating a catastrophic mismatch. When depositors demanded withdrawals, SVB was forced to realize massive losses on asset sales, triggering a bank run.",
-        "For risk managers and investors, monitoring duration gap is essential — especially in rising rate environments. Portfolio managers at banks use interest rate swaps, futures, and options to hedge duration mismatches without liquidating underlying assets. Equity investors in financial stocks should scrutinize regulatory filings for held-to-maturity versus available-for-sale securities classifications, as HTM assets can mask unrealized losses that don't appear on income statements until forced realization events occur."
+        "Basis risk arises when the instrument used to hedge an exposure does not move in perfect lockstep with the underlying position being hedged. In interest rate markets, basis is typically defined as the difference between the spot price (or yield) of the asset being hedged and the futures price (or reference rate) of the hedging instrument. Even when a hedge is well-constructed, changes in this spread — driven by liquidity, credit quality differences, or benchmark mismatches — create residual profit-and-loss volatility that cannot be diversified away through standard hedging.",
+        "A classic real-world example is a corporate treasurer who holds floating-rate debt linked to the Secured Overnight Financing Rate (SOFR) but hedges using Eurodollar futures, which settled against LIBOR prior to the benchmark transition. Even post-transition, mismatches persist: a bank hedging a portfolio of prime mortgages using 10-year Treasury futures faces basis risk because mortgage spreads widen during risk-off episodes while Treasury prices rally, causing the hedge to underperform. Similarly, airlines that hedge jet fuel using crude oil or heating oil futures accept commodity basis risk because refining spread dynamics are unhedged.",
+        "For portfolio managers and risk officers, basis risk must be explicitly measured and stress-tested. A common approach is to decompose total P&L variance into hedged and unhedged components, quantifying the residual basis variance using historical spread distributions. During periods of market stress — such as the March 2020 liquidity shock — basis can gap violently, turning a nominally hedged book into a significant source of loss. Regulators increasingly require firms to document basis risk in their IRRBB (Interest Rate Risk in the Banking Book) frameworks under Basel standards."
       ],
       "key_takeaways": [
-        "A positive duration gap exposes a firm's net worth to losses when interest rates rise, as asset values fall faster than liabilities.",
-        "SVB's 2023 collapse is the definitive modern example of how duration mismanagement combined with concentrated, rate-sensitive depositors can become fatal.",
-        "Derivatives such as interest rate swaps are the primary tools institutions use to manage duration gap without restructuring their entire balance sheet."
+        "Basis risk is the residual exposure that remains after hedging, caused by imperfect correlation between the hedge instrument and the underlying asset.",
+        "It can arise from benchmark mismatches, credit quality differences, liquidity spreads, or tenor mismatches between the hedge and the exposure.",
+        "Stress-testing basis under historical crisis scenarios is essential — basis can widen dramatically precisely when hedges are most needed."
       ]
     },
     "japanese": {
@@ -330,29 +330,29 @@
       "example_romaji": "Kongetsu no yosan wo mou tsukaikitte shimaimashita.",
       "example_en": "I've already used up this month's budget.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました is used to express that something has been completed, often with a nuance of regret or that the action is final and cannot be undone. In this sentence, 使い切ってしまいました means 'ended up completely using up' the budget, implying the speaker regrets it.",
-      "memory_tip": "Think of 予算 (yosan) as 'your-SAN' — your three (san = 3) most important spending categories. If you blow all three, you're over budget!"
+      "grammar_explanation": "The pattern 〜てしまいました (te shimaimashita) expresses that an action has been completed, often with a nuance of regret or that something happened unintentionally. It is the polite past form of 〜てしまう, commonly used when the speaker feels the outcome is unfortunate or final.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — the total sum of money you planned to spend. Picture yourself counting out your last coins and sighing: your sum is gone!"
     },
     "ai_strategy": {
-      "headline": "Agentic AI Is Quietly Transforming Credit Underwriting and Risk Decisioning at Scale",
-      "summary": "A new wave of agentic AI systems — capable of autonomously executing multi-step tasks without constant human prompting — is being piloted by major financial institutions for credit analysis, covenant monitoring, and early warning risk signals. Unlike earlier rule-based or single-inference AI models, agentic systems can pull live data from multiple sources, reconcile discrepancies, draft credit memos, and flag anomalies across large loan portfolios simultaneously. Banks including JPMorgan, HSBC, and several large asset managers have disclosed internal deployments of AI agents for back-office and middle-office functions, with front-office pilots accelerating. The productivity implications are profound: tasks that once required a junior analyst team of five working a full week may soon be completed by an AI agent in hours.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Lending Decisions at Scale",
+      "summary": "Major financial institutions and fintech lenders are rapidly deploying machine learning models — particularly gradient boosting and transformer-based architectures — to automate credit underwriting decisions at unprecedented speed and granularity. These systems ingest thousands of alternative data signals, including cash flow patterns, behavioral metadata, and macroeconomic embeddings, far beyond what traditional scorecards can process. The regulatory environment is catching up, with the CFPB and European banking authorities issuing guidance on explainability requirements for algorithmic credit decisions. For risk professionals, this shift means model risk management (MRM) frameworks must evolve to handle non-linear, high-dimensional models rather than simple logistic regression.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan and execute a sequence of actions — such as retrieving data, performing analysis, and generating reports — to complete a complex goal with minimal human intervention, relevant in finance for automating credit workflows and compliance checks."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many weak decision trees sequentially, each correcting the errors of the last. In credit risk, it consistently outperforms traditional scorecards on default prediction accuracy while remaining more interpretable than deep neural networks."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique that grounds an AI language model's responses in real, retrieved documents or databases — allowing financial institutions to build AI tools that accurately cite live regulatory filings, earnings transcripts, or internal credit policies rather than relying on potentially outdated training data."
+          "term": "Explainability / SHAP Values",
+          "definition": "SHAP (SHapley Additive exPlanations) assigns each input feature a contribution score to a model's output. In regulated lending, SHAP values allow risk teams to explain why a borrower was denied credit, satisfying adverse action notice requirements."
         },
         {
-          "term": "Model Risk Management (MRM) for AI",
-          "definition": "The governance framework applied to AI and machine learning models used in financial decisions, ensuring they are validated, explainable, and monitored for performance drift — increasingly scrutinized by regulators like the OCC and Federal Reserve as AI adoption accelerates in lending and trading."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources used to enrich credit models, including bank transaction histories, utility payments, rental records, and even anonymized geolocation patterns. These signals help assess creditworthiness for thin-file or credit-invisible borrowers."
         }
       ],
-      "career_insight": "Finance professionals who can bridge quantitative rigor with AI fluency — understanding how to validate, challenge, and govern AI model outputs — are becoming the most sought-after talent in banking and asset management. The role of the future credit analyst or risk manager will not be eliminated but fundamentally restructured: less time on data gathering and more on judgment, client relationships, and model oversight. Building skills in Python-based data analysis, prompt engineering for financial use cases, and AI governance frameworks will be the defining career differentiators through the rest of this decade."
+      "career_insight": "Credit risk analysts and model validators who can bridge statistical rigor with regulatory literacy are in high demand as firms replace legacy scorecards with ML systems. Proficiency in Python (scikit-learn, XGBoost), familiarity with SR 11-7 / ECB model risk guidelines, and the ability to communicate model behavior to non-technical stakeholders are rapidly becoming table-stakes skills in modern risk management roles."
     },
     "error": false,
-    "market_sentiment": "Global risk sentiment is cautiously constructive this morning as markets digest a resilient U.S. labor market print alongside moderating core PCE data, reinforcing the 'soft landing' narrative while keeping Fed rate cut expectations anchored to the back half of the year. EM currencies are finding modest support on dollar softness, while Brent crude hovers near $84/bbl amid OPEC+ supply discipline and lingering Middle East geopolitical risk premium. Equity markets are range-bound ahead of a heavy earnings week, with investors particularly focused on financials and industrials for guidance on margin compression and demand sustainability into Q3."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this morning, with equity futures pointing modestly higher as markets digest a softer-than-expected US core PCE print that has reinforced the Fed's data-dependent pivot narrative heading into year-end. Treasury yields have drifted lower across the belly of the curve, compressing the 5s30s spread as duration buyers return, while the DXY continues its gradual retreat — a tailwind for EM currencies and commodity-linked assets. Credit spreads in IG remain tight and well-anchored, though HY technicals bear watching given elevated all-in yields and a seasonal uptick in refinancing activity; macro desks are flagging geopolitical risk premium in energy as the primary wildcard into Q1."
   }
 }
