@@ -1,38 +1,38 @@
 {
-  "generated_at": "5:22 PM UTC",
-  "date": "Friday, October 30, 2026",
+  "generated_at": "4:27 PM UTC",
+  "date": "Saturday, October 31, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 78,
-    "feels_like_f": 77,
-    "high_f": 81,
-    "low_f": 75,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 43,
-    "wind_mph": 8,
+    "temp_f": 63,
+    "feels_like_f": 62,
+    "high_f": 65,
+    "low_f": 61,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 49,
+    "wind_mph": 11,
     "forecast": [
-      {
-        "day": "Sat",
-        "icon": "☁️",
-        "high": 52,
-        "low": 52,
-        "description": "Overcast Clouds"
-      },
       {
         "day": "Sun",
         "icon": "☁️",
-        "high": 54,
-        "low": 54,
+        "high": 49,
+        "low": 49,
         "description": "Overcast Clouds"
       },
       {
         "day": "Mon",
         "icon": "☁️",
-        "high": 55,
-        "low": 55,
+        "high": 53,
+        "low": 53,
         "description": "Overcast Clouds"
+      },
+      {
+        "day": "Tue",
+        "icon": "☀️",
+        "high": 52,
+        "low": 52,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 755.49,
-        "change": -13.87,
-        "change_pct": -1.8,
+        "price": 755.72,
+        "change": -13.64,
+        "change_pct": -1.77,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 346.89,
-        "change": -2.02,
-        "change_pct": -0.58,
+        "price": 344.63,
+        "change": -4.28,
+        "change_pct": -1.23,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 203.51,
-        "change": -10.15,
-        "change_pct": -4.75,
+        "price": 204.64,
+        "change": -9.02,
+        "change_pct": -4.22,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 398.42,
-        "change": -4.88,
-        "change_pct": -1.21,
+        "price": 399.81,
+        "change": -3.49,
+        "change_pct": -0.87,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77216.5,
-        "change": -3884.89,
-        "change_pct": -4.79,
-        "up": false,
+        "price": 77619.68,
+        "change": 104.96,
+        "change_pct": 0.14,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2243.27,
-        "change": -109.27,
-        "change_pct": -4.64,
-        "up": false,
+        "price": 2252.37,
+        "change": 18.92,
+        "change_pct": 0.85,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Nasdaq Sinks 350 Points; Google Stock's Tumble in Focus — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026",
-        "description": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
-        "published": "6:25 PM UTC",
+        "title": "Cheaper cars are selling considerably faster than at the beginning of the year - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+        "description": "Data indicate cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
+        "published": "3:37 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel",
-        "description": "Follow all the latest U.S. market action for Thursday here.",
-        "published": "6:13 PM UTC",
+        "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+        "description": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
+        "published": "2:36 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Earnings live updates: Eli Lilly stock pops as strong GLP-1 drug demand lifts results, ServiceNow stock plunges - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-eli-lilly-stock-pops-as-strong-glp-1-drug-demand-lifts-results-servicenow-stock-plunges-114628789.html",
-        "description": "Third quarter earnings season is in full swing this week. Follow along for live updates.",
-        "published": "5:16 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Assassins Creed Codename Hexe Gets Cryptic Update That Fans Will Surely Decode - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
-        "description": "Assassin's Creed Codename Hexe was announced all the way back in 2022, but aside from a spooky teaser, we still don't know much about it. In a new blog post, Ubisoft has shared a cryptic clue that may",
-        "published": "5:32 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "The Elder Scrolls 6 Will Reportedly Show the History of the Titular Artifacts - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-announcement",
-        "description": "A new report claims that the next Elder Scrolls game will be titled The Elder Scrolls 6: Sentinel, along with new story details.",
-        "published": "4:56 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "‘Destiny 2’ Unvaulting Timeline Revealed With Menagerie’s Return - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/10/29/destiny-2-unvaulting-timeline-revealed-and-menagerie-is-back/",
-        "description": "",
-        "published": "4:35 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Alaska governor orders investigation into Peltola camp after report they recruited second Dan Sullivan - NBC News",
+        "title": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices - NBC News",
         "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/2026-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316",
-        "description": "Alaska Gov. Mike Dunleavy announced Thursday that he is ordering an investigation into Democrat Mary Peltola’s Senate campaign after a report that it worked with allies to recruit a candidate with the",
-        "published": "5:29 PM UTC",
+        "url": "https://www.nbcnews.com/business/energy/exxonmobil-chevron-profits-trump-high-oil-prices-rcna606524",
+        "description": "The two largest U.S. oil companies, ExxonMobil and Chevron reported blowout profits as oil prices remain sharply elevated due to the U.S. war with Iran.",
+        "published": "2:35 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Don’t Buy ‘Marathon’ As A ‘Donation’ For ‘Destiny’ Content, Says Bungie - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/paultassi/2026/10/30/dont-buy-marathon-as-a-donation-for-destiny-content-says-bungie/",
+        "description": "",
+        "published": "3:19 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Celebrate Warhammer Day with some suitably scary miniatures - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/articles/zbi88sln/celebrate-warhammer-day-with-some-suitably-scary-miniatures",
+        "description": "Halloween and Warhammer are brought together in a list of some of our favourite terrifying models.",
+        "published": "2:58 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
+        "description": "You have until January 2027 to see what all the fuss is about in a game that took the world by storm earlier this year.",
+        "published": "2:58 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "An ICE officer has been charged after striking a man with a car in Houston - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/10/30/us/ice-officer-charged-houston",
+        "description": "A U.S. Immigration and Customs Enforcement officer accused of intentionally ramming his car into a Mexican construction worker in Houston was charged Friday with aggravated assault with a deadly weapo",
+        "published": "3:41 PM UTC",
         "category": "General"
       },
       {
-        "title": "As Trump derides judge again, officials say golf course will soon close - The Washington Post",
+        "title": "Pope Leo becomes first pontiff to vote in U.S. election - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/sports/2026/10/28/trump-derides-judge-again-officials-say-golf-course-will-soon-close/",
-        "description": "The administration said it will shutter the entire East Potomac Golf Links peninsula next month and push ahead with a plan to redevelop the municipal course.",
-        "published": "5:26 PM UTC",
+        "url": "https://www.washingtonpost.com/world/2026/10/30/pope-leo-becomes-first-pontiff-vote-us-election/",
+        "description": "The Vatican announcement comes as President Donald Trump has sought to cast doubt on mail-in voting.",
+        "published": "3:40 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims, and other Mideast news - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0",
+        "description": "Iran’s Revolutionary Guard claims a supertanker carrying over 2 million barrels of oil struck a naval mine, exploded, and caught fire in the Strait of Hormuz. This marks the third tanker incident on F",
+        "published": "3:12 PM UTC",
         "category": "General"
       }
     ]
@@ -182,9 +190,9 @@
       {
         "home": "Chelsea",
         "away": "Man United",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "12:30 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -192,9 +200,9 @@
       {
         "home": "Man City",
         "away": "Brighton Hove",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "IN_PLAY",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -202,9 +210,9 @@
       {
         "home": "Bournemouth",
         "away": "Leeds United",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -212,9 +220,9 @@
       {
         "home": "Coventry City",
         "away": "Sunderland",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 3,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -222,9 +230,9 @@
       {
         "home": "Hull City",
         "away": "Ipswich Town",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "IN_PLAY",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -232,9 +240,9 @@
       {
         "home": "Brentford",
         "away": "Nottingham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 0,
+        "status": "IN_PLAY",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -258,17 +266,27 @@
         "time": "8:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
+      },
+      {
+        "home": "Liverpool",
+        "away": "Arsenal",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "4:30 PM UTC",
+        "date": "Nov 1",
+        "highlighted": false
       }
     ],
     "standings": [
       {
         "position": 1,
         "team": "Man City",
-        "played": 8,
+        "played": 9,
         "won": 7,
         "drawn": 0,
-        "lost": 1,
-        "gd": 11,
+        "lost": 2,
+        "gd": 10,
         "points": 21,
         "highlighted": false
       },
@@ -286,16 +304,27 @@
       {
         "position": 3,
         "team": "Brighton Hove",
-        "played": 8,
-        "won": 5,
+        "played": 9,
+        "won": 6,
         "drawn": 1,
         "lost": 2,
-        "gd": 16,
-        "points": 16,
+        "gd": 17,
+        "points": 19,
         "highlighted": false
       },
       {
         "position": 4,
+        "team": "Chelsea",
+        "played": 9,
+        "won": 5,
+        "drawn": 1,
+        "lost": 3,
+        "gd": 4,
+        "points": 16,
+        "highlighted": false
+      },
+      {
+        "position": 5,
         "team": "Liverpool",
         "played": 8,
         "won": 4,
@@ -306,25 +335,14 @@
         "highlighted": false
       },
       {
-        "position": 5,
-        "team": "Chelsea",
-        "played": 8,
-        "won": 4,
-        "drawn": 1,
-        "lost": 3,
-        "gd": 2,
-        "points": 13,
-        "highlighted": false
-      },
-      {
         "position": 6,
         "team": "Brentford",
-        "played": 8,
-        "won": 2,
+        "played": 9,
+        "won": 3,
         "drawn": 5,
         "lost": 1,
-        "gd": 5,
-        "points": 11,
+        "gd": 6,
+        "points": 14,
         "highlighted": false
       }
     ]
@@ -332,31 +350,31 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal in Advanced Talks for €70m Bundesliga Midfielder",
-        "summary": "Arsenal are reportedly in advanced negotiations to sign a dynamic box-to-box midfielder from the Bundesliga as Mikel Arteta seeks to add depth and creativity ahead of a potential Champions League title push. Personal terms are said to be close to agreement with a medical penciled in for next week.",
+        "headline": "Arsenal Tracking Bundesliga Striker as Backup to Havertz",
+        "summary": "Arsenal's recruitment team has been monitoring Eintracht Frankfurt's Hugo Ekitike, with the Gunners reportedly seeking an athletic centre-forward option ahead of the January window in case their top striker target proves too expensive.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "Eintracht Frankfurt"
         ]
       },
       {
-        "headline": "Chelsea Target Prolific Serie A Striker as Jackson Alternative",
-        "summary": "Chelsea's recruitment team has identified a proven Serie A striker as competition for Nicolas Jackson, with the club's co-sporting directors keen to add a more clinical finisher following a frustrating run of dropped points from winning positions. A January bid of around £55m is reportedly being prepared.",
+        "headline": "Chelsea in Advanced Talks to Extend Cole Palmer Contract",
+        "summary": "Chelsea are pushing to tie down Cole Palmer to a new long-term deal reportedly worth in excess of £200,000 per week, as the club looks to ward off growing interest from Real Madrid and Manchester City ahead of the summer.",
         "clubs": [
           "Chelsea",
-          "Napoli"
+          "Real Madrid"
         ]
       }
     ],
     "match_preview": {
       "home": "Manchester City",
       "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's most consequential fixture of the season arrives at the Etihad with both sides separated by just two points at the summit, guaranteeing a title-race defining afternoon. City have rediscovered their rhythm after a turbulent winter injury crisis, with Erling Haaland back to devastating form across his last five appearances, while Liverpool arrive buoyed by a commanding Europa League midweek performance and Arne Slot's high-press system operating at peak efficiency. The tactical battle between Slot's relentless pressing triggers and Guardiola's positional manipulation in midfield could be the decisive storyline in what promises to be an instant classic.",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The Premier League's most compelling rivalry resumes at the Etihad in what is effectively a six-pointer at the top of the table, with both sides separated by just two points and carrying contrasting recent form — City having edged three consecutive narrow wins, while Liverpool are coming off a dominant midweek European performance. Arne Slot's high press will be tested against a City side that has rediscovered their positional fluency, and Pep Guardiola is expected to deploy a narrow midfield diamond to overload Liverpool's transitional moments. The referee's approach to the physical battles in midfield could prove as decisive as any individual quality on show.",
       "key_players": [
-        "Erling Haaland",
         "Mohamed Salah",
-        "Rodri"
+        "Erling Haaland",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
@@ -364,76 +382,76 @@
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Being assessed ahead of Sunday; 50/50 for the Liverpool fixture"
+        "return": "Available for selection but not guaranteed to start; fitness test scheduled Saturday morning"
       },
       {
         "player": "Diogo Jota",
         "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Expected to return to full training within 10 days; targeting late January comeback"
+        "status": "Out",
+        "return": "Expected to return after the international break, approximately 2–3 weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
       "exam": "CFA Level 2",
-      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
-      "question": "An analyst is evaluating two bonds using the Cox-Ingersoll-Ross (CIR) model versus the Vasicek model. Which of the following statements most accurately distinguishes the CIR model from the Vasicek model?",
+      "topic": "Fixed Income – Interest Rate Risk & Duration",
+      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates rise by 150 basis points, which of the following best estimates the percentage price change of the bond?",
       "options": {
-        "A": "The Vasicek model prevents negative interest rates by incorporating a square-root diffusion term, while the CIR model does not.",
-        "B": "The CIR model's volatility of the short rate is proportional to the square root of the current rate, ensuring non-negative interest rates, while the Vasicek model allows negative rates.",
-        "C": "Both models assume constant volatility but differ only in their mean-reversion speed parameters.",
-        "D": "The CIR model assumes a flat term structure as its long-run equilibrium, whereas the Vasicek model allows for upward-sloping equilibrium curves."
+        "A": "−10.80%",
+        "B": "−9.84%",
+        "C": "−10.80% + 0.96% = −9.84%",
+        "D": "−10.80% − 0.96% = −11.76%"
       },
-      "correct": "B",
-      "explanation": "In the CIR model, the diffusion term is σ√r · dW, meaning volatility scales with the square root of the interest rate. This ensures rates cannot become negative because as r approaches zero, the stochastic component vanishes while mean reversion pulls rates back up. The Vasicek model uses a constant volatility term σ · dW, which can theoretically produce negative rates — a significant empirical weakness in low-rate environments. Options C and D mischaracterize both models' properties."
+      "correct": "C",
+      "explanation": "The full price change estimate uses both duration and convexity: %ΔP ≈ (−Modified Duration × Δy) + (0.5 × Convexity × Δy²). The duration effect is −7.2 × 0.015 = −10.80%. The convexity adjustment is +0.5 × 85 × (0.015)² = +0.5 × 85 × 0.000225 = +0.00956 ≈ +0.96%. Convexity always adds a positive adjustment regardless of the direction of yield change, so the net price change is approximately −9.84%. Option C correctly applies both components and signs."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as Bank Lending Retreats",
-      "subtitle": "How direct lending funds have filled the void left by tightening bank balance sheets, reshaping corporate finance.",
+      "title": "The Liquidity Premium in Bond Markets",
+      "subtitle": "Why investors demand extra yield for bonds that are harder to sell quickly without moving the market.",
       "paragraphs": [
-        "Private credit — encompassing direct lending, mezzanine finance, and distressed debt strategies — refers to non-bank lending to corporations, typically structured as floating-rate senior secured loans negotiated bilaterally between a fund and a borrower. Unlike syndicated loans or public bonds, these instruments are illiquid by design, offering lenders a premium in exchange for capital lock-up, bespoke covenants, and closer lender-borrower relationships. The asset class has grown from roughly $500 billion in AUM a decade ago to well over $1.7 trillion today, driven by regulatory constraints on banks post-Basel III and sustained institutional demand for yield above investment-grade fixed income.",
-        "The retreat of regional and mid-market banks from leveraged lending — accelerated by rising capital requirements, SVB's collapse, and tighter Fed oversight — has handed private credit managers an extraordinary origination window. Firms like Ares, Blue Owl, and HPS Investment Partners have stepped in to finance sponsor-backed buyouts, infrastructure projects, and even investment-grade-adjacent corporate borrowers that previously relied on bank revolvers. A notable example is the $5 billion+ direct lending package arranged for Elon Musk's X Corp acquisition, bypassing traditional syndication entirely — a signal that private credit has moved well beyond the mid-market niche.",
-        "For institutional investors and risk managers, private credit introduces a distinct risk profile: illiquidity risk, covenant-lite deterioration, mark-to-model valuation opacity, and concentration in floating-rate structures that performed well during rate hikes but now face rising default risk as borrower interest burdens compound. Portfolio managers must scrutinize PIK (payment-in-kind) toggle provisions, which allow distressed borrowers to defer cash interest — flattering reported default rates while masking underlying credit stress. Allocation sizing, vintage diversification, and manager due diligence on underwriting standards are the core levers for managing exposure in this rapidly maturing asset class."
+        "The liquidity premium is the additional yield compensation that investors require to hold a financial asset that cannot be easily converted into cash at or near its fair market value. In bond markets, liquidity varies dramatically — on-the-run U.S. Treasuries trade billions of dollars per day with razor-thin bid-ask spreads, while off-the-run Treasuries, corporate bonds, and especially high-yield or emerging market debt can have spreads of dozens of basis points and shallow order books. The liquidity premium is therefore an embedded component of a bond's yield spread over the risk-free rate, sitting alongside credit risk and term premiums.",
+        "The liquidity premium became viscerally apparent during the March 2020 COVID shock, when even investment-grade corporate bonds and agency mortgage-backed securities experienced severe liquidity dislocations. Bid-ask spreads on IG corporates ballooned to levels not seen since 2008, and mutual fund managers faced redemption pressure that forced selling into illiquid markets. The Federal Reserve's intervention — purchasing corporate bond ETFs for the first time in history — was essentially a policy acknowledgment that liquidity premiums had become so distorted they threatened systemic stability. More recently, the 2022–2023 rate hiking cycle exposed similar fragility in UK gilts and certain regional bank balance sheets.",
+        "For investors and risk managers, correctly decomposing a bond's yield spread into its credit, liquidity, and term components is essential for relative value analysis and portfolio construction. A bond that appears cheap on a spread basis may simply be compensating for illiquidity rather than offering genuine credit alpha. Liquidity-adjusted duration — which accounts for the likelihood that a position cannot be unwound at par in stress conditions — is increasingly used by institutional risk teams. Investors with long investment horizons (pension funds, endowments) can rationally harvest the liquidity premium; short-horizon or leveraged investors face dangerous mark-to-market and margin risks from the same positions."
       ],
       "key_takeaways": [
-        "Private credit has surpassed $1.7 trillion in AUM, fueled by bank retrenchment and institutional yield demand — it is no longer an alternative but a mainstream asset class.",
-        "Floating-rate structures benefited lenders during the rate hike cycle but now amplify borrower default risk as refinancing walls approach in 2025–2026.",
-        "PIK provisions and mark-to-model pricing can obscure true credit quality; rigorous manager selection and covenant analysis are essential for risk-adjusted returns."
+        "The liquidity premium is compensation for the risk of being unable to sell an asset quickly at fair value — it is a distinct and measurable component of bond yield spreads.",
+        "Liquidity can evaporate suddenly in stress environments, as seen in March 2020 and the 2022 UK gilt crisis, turning paper gains into forced losses.",
+        "Long-horizon investors can rationally capture the liquidity premium, but leveraged or short-horizon investors must stress-test their ability to hold through illiquid periods."
       ]
     },
     "japanese": {
       "word": "予算",
       "reading": "yosan",
-      "meaning": "budget; financial plan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kongetsu no yosan wo mou tsukaikitta shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over budget this month.",
       "grammar_point": "〜てしまいました",
-      "grammar_explanation": "〜てしまいました expresses that an action was completed, often with a nuance of regret or finality. It combines the te-form of a verb with しまう (to finish/end up doing), and in polite past form becomes てしまいました.",
-      "memory_tip": "Think of 予 (yo) as 'pre-' and 算 (san) as 'calculate' — a budget is literally a PRE-CALCULATION of your money. Imagine a samurai (san) carefully pre-counting his coins before battle."
+      "grammar_explanation": "〜てしまいました (te shimaimashita) is used to express that something happened completely, often with a sense of regret or that the result was unintended. It combines the te-form of a verb with しまう (shimau), which adds the nuance of 'ended up doing' or 'did (unfortunately).'",
+      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money YOU set aside. If you blow past your 'yo-san,' you'll be saying 'shimaimashita' with regret!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Autonomously Executing Trades — What Risk Managers Must Know Now",
-      "summary": "Agentic AI systems — large language models empowered with tool use, memory, and multi-step reasoning — are moving from research labs into live financial workflows. Firms including JPMorgan, Citadel, and a cohort of quantitative hedge funds are deploying AI agents that can autonomously retrieve data, construct analytical memos, backtest strategies, and in controlled settings, execute pre-approved trade orders with minimal human intervention. Unlike earlier algorithmic trading, these agents adapt their behavior based on natural language context and unstructured information streams, including earnings call transcripts, regulatory filings, and geopolitical news feeds. This shift compresses the time between information arrival and actionable decision from hours to seconds, fundamentally altering the competitive dynamics of alpha generation and risk oversight.",
+      "headline": "AI Agent Networks Are Quietly Reshaping How Investment Banks Operate",
+      "summary": "Major investment banks including JPMorgan, Goldman Sachs, and Morgan Stanley have moved beyond single-model AI deployments to orchestrated networks of specialized AI agents — systems where one model delegates subtasks to others, enabling multi-step financial analysis that was previously impossible to automate. These agent frameworks can now autonomously pull earnings data, run scenario models, draft client memos, and flag compliance issues within a single workflow. The shift represents a transition from AI as a productivity tool to AI as an autonomous process layer embedded in core banking operations. Firms that build proprietary agent infrastructure now stand to generate structural cost advantages and faster turnaround on research and deal execution.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that autonomously plans and executes multi-step tasks using tools (APIs, databases, code execution) without requiring human prompting at each step — analogous to a junior analyst who can independently research, model, and draft a recommendation."
+          "definition": "AI systems that can plan, make sequential decisions, and take actions autonomously over multiple steps — in finance, this means an agent that can independently research a company, build a model, and draft a report without constant human prompting."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries a live or proprietary database before generating a response, grounding its outputs in current, firm-specific data — critical for applications like real-time covenant monitoring or regulatory capital calculations."
+          "definition": "A technique where an AI model pulls relevant documents or data from an external database before generating a response, allowing it to reference live financial filings, internal research notes, or market data rather than relying solely on its training data."
         },
         {
-          "term": "Model Risk (AI Context)",
-          "definition": "The risk of adverse outcomes from decisions based on AI models that are incorrect, misapplied, or operating outside their training distribution — a growing focus for bank regulators who are extending SR 11-7 model risk management frameworks explicitly to ML and LLM systems."
+          "term": "Model Orchestration",
+          "definition": "The coordination of multiple specialized AI models working in sequence or parallel — for example, one model extracts data from earnings calls, another performs ratio analysis, and a third generates an investment memo, all coordinated by a master orchestrator."
         }
       ],
-      "career_insight": "Finance professionals who can bridge quantitative rigor with AI fluency — understanding when to trust model outputs, how to stress-test AI-generated analyses, and how to design human-in-the-loop governance frameworks — are commanding significant hiring premiums. The most defensible career positions will belong not to those who simply use AI tools, but to those who can critically evaluate AI outputs, communicate AI-driven insights to non-technical stakeholders, and design the guardrails that keep autonomous systems within acceptable risk parameters."
+      "career_insight": "Finance professionals who understand how to design, prompt, and audit AI agent workflows are rapidly becoming the most sought-after hybrid talent in the industry — neither pure technologists nor traditional analysts, but strategic architects of automated decision pipelines. Building fluency in tools like LangChain, Microsoft Copilot Studio, or firm-specific AI platforms, combined with deep domain knowledge in credit, risk, or capital markets, creates a nearly irreplaceable skill profile. The analysts most at risk are those doing rote data aggregation and formatting; those who move into AI workflow design and output validation will find their leverage — and compensation — grow substantially."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a resilient US labor market print alongside cooling core PCE, reinforcing the 'soft landing' narrative that has underpinned equity multiple expansion through 2024 and into 2025. Treasury yields have stabilized in the 4.30–4.50% range on the 10-year, with the curve bear-steepening modestly as long-end term premium rebuilds — a dynamic worth watching for duration-heavy portfolios. In FX, dollar strength is reasserting itself against EM currencies as carry unwind pressures persist, while credit spreads remain historically tight, suggesting the market is pricing near-perfection in corporate fundamentals even as private credit default rates quietly tick higher."
+    "market_sentiment": "Global risk appetite is cautiously constructive this morning as U.S. equities consolidate near record highs, with the S&P 500 finding support from resilient earnings beats in the technology and financial sectors, even as the macro backdrop remains complicated by sticky services inflation and a Federal Reserve that continues to push back on near-term rate cut expectations. The USD remains firm, pressuring EM currencies and commodities priced in dollars, while the front end of the U.S. Treasury curve holds elevated yields as markets price fewer than two cuts for the remainder of the year. In Europe, ECB commentary has turned modestly more dovish at the margin, offering some relief to rate-sensitive European equities, though geopolitical uncertainty in the Middle East and energy market volatility continue to act as overhangs on global sentiment."
   }
 }
