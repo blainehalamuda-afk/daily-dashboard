@@ -1,38 +1,38 @@
 {
-  "generated_at": "4:27 PM UTC",
-  "date": "Saturday, October 31, 2026",
+  "generated_at": "5:20 PM UTC",
+  "date": "Sunday, November 1, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 63,
-    "feels_like_f": 62,
-    "high_f": 65,
-    "low_f": 61,
+    "temp_f": 62,
+    "feels_like_f": 60,
+    "high_f": 63,
+    "low_f": 60,
     "description": "Broken Clouds",
     "icon": "☁️",
-    "humidity": 49,
-    "wind_mph": 11,
+    "humidity": 53,
+    "wind_mph": 10,
     "forecast": [
       {
-        "day": "Sun",
-        "icon": "☁️",
-        "high": 49,
-        "low": 49,
-        "description": "Overcast Clouds"
-      },
-      {
         "day": "Mon",
-        "icon": "☁️",
-        "high": 53,
-        "low": 53,
-        "description": "Overcast Clouds"
+        "icon": "🌧️",
+        "high": 47,
+        "low": 47,
+        "description": "Light Rain"
       },
       {
         "day": "Tue",
         "icon": "☀️",
-        "high": 52,
-        "low": 52,
+        "high": 49,
+        "low": 49,
         "description": "Clear Sky"
+      },
+      {
+        "day": "Wed",
+        "icon": "☁️",
+        "high": 57,
+        "low": 57,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77619.68,
-        "change": 104.96,
-        "change_pct": 0.14,
+        "price": 78110.35,
+        "change": 426.34,
+        "change_pct": 0.55,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2252.37,
-        "change": 18.92,
-        "change_pct": 0.85,
+        "price": 2267.98,
+        "change": 14.32,
+        "change_pct": 0.64,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Cheaper cars are selling considerably faster than at the beginning of the year - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-        "description": "Data indicate cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
-        "published": "3:37 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-        "description": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
-        "published": "2:36 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/energy/exxonmobil-chevron-profits-trump-high-oil-prices-rcna606524",
-        "description": "The two largest U.S. oil companies, ExxonMobil and Chevron reported blowout profits as oil prices remain sharply elevated due to the U.S. war with Iran.",
-        "published": "2:35 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Don’t Buy ‘Marathon’ As A ‘Donation’ For ‘Destiny’ Content, Says Bungie - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/10/30/dont-buy-marathon-as-a-donation-for-destiny-content-says-bungie/",
+        "title": "Chipotle is leaning on new menu items to bring diners back - TheStreet",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/investing/stocks/chipotle-is-leaning-on-new-menu-items-to-bring-diners-back",
         "description": "",
-        "published": "3:19 PM UTC",
+        "published": "3:33 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "PCMag’s First-Ever Gift of the Year Awards: Our Experts Select the Best Tech for Everyone on Your List - PCMag",
+        "source": "PCMag.com",
+        "url": "https://www.pcmag.com/articles/gift-of-the-year-awards-2026",
+        "description": "We put hundreds of products through their paces every year. These 12 stand out as the gadget gifts we’d most like to give and to get.",
+        "published": "4:56 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Celebrate Warhammer Day with some suitably scary miniatures - Warhammer Community",
-        "source": "Warhammer-community.com",
-        "url": "https://www.warhammer-community.com/articles/zbi88sln/celebrate-warhammer-day-with-some-suitably-scary-miniatures",
-        "description": "Halloween and Warhammer are brought together in a list of some of our favourite terrifying models.",
-        "published": "2:58 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
-        "description": "You have until January 2027 to see what all the fuss is about in a game that took the world by storm earlier this year.",
-        "published": "2:58 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "An ICE officer has been charged after striking a man with a car in Houston - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/10/30/us/ice-officer-charged-houston",
-        "description": "A U.S. Immigration and Customs Enforcement officer accused of intentionally ramming his car into a Mexican construction worker in Houston was charged Friday with aggravated assault with a deadly weapo",
-        "published": "3:41 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Pope Leo becomes first pontiff to vote in U.S. election - The Washington Post",
+        "title": "Column | Asking Eric: Family friend demands hugs, despite parents’ objections - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/10/30/pope-leo-becomes-first-pontiff-vote-us-election/",
-        "description": "The Vatican announcement comes as President Donald Trump has sought to cast doubt on mail-in voting.",
-        "published": "3:40 PM UTC",
+        "url": "https://www.washingtonpost.com/advice/2026/10/31/asking-eric-family-friend-demands-hugs-despite-parents-objections/",
+        "description": "Grandma is not happy the letter writer's teen daughter didn't want to hug her friend.",
+        "published": "4:39 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "I built an AI Tamagotchi before Meta could - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+        "description": "Meta said its Muse Charm should ship this year, but it’s also helping people code very similar gadgets with off-the-shelf hardware. We tried the Waveshare ESP32-S3 1.75C.",
+        "published": "4:05 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Canelo Alvarez-Christian Mbilli live updates, results and analysis - ESPN",
+        "source": "ESPN",
+        "url": "https://www.espn.com/boxing/story/_/id/50319568/canelo-mbilli-live-updates-results-analysis",
+        "description": "Canelo Alvarez challenges Christian Mbilli for the WBC super middleweight title. Follow live.",
+        "published": "6:44 PM UTC",
         "category": "General"
       },
       {
-        "title": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims, and other Mideast news - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0",
-        "description": "Iran’s Revolutionary Guard claims a supertanker carrying over 2 million barrels of oil struck a naval mine, exploded, and caught fire in the Strait of Hormuz. This marks the third tanker incident on F",
-        "published": "3:12 PM UTC",
+        "title": "El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/10/30/early-voting-surpasses-2022-levels-pope-has-cast-his-ballot/",
+        "description": "Here’s what you need to know from Friday’s campaign trail, as President Donald Trump reschedules his canceled rallies and millions of people vote early.",
+        "published": "6:41 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Virginia and D.C. sue to stop proposed Trump arch - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
+        "description": "Virginia and the District of Columbia filed a lawsuit in federal court Saturday in a last-ditch effort to stop the construction of the triumphal arch planned for Memorial Circle in Washington.",
+        "published": "5:30 PM UTC",
         "category": "General"
       }
     ]
@@ -202,7 +186,7 @@
         "away": "Brighton Hove",
         "home_score": 0,
         "away_score": 1,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -210,9 +194,9 @@
       {
         "home": "Bournemouth",
         "away": "Leeds United",
-        "home_score": 1,
+        "home_score": 2,
         "away_score": 0,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -221,8 +205,8 @@
         "home": "Coventry City",
         "away": "Sunderland",
         "home_score": 3,
-        "away_score": 0,
-        "status": "IN_PLAY",
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -230,9 +214,9 @@
       {
         "home": "Hull City",
         "away": "Ipswich Town",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "IN_PLAY",
+        "home_score": 2,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -240,9 +224,9 @@
       {
         "home": "Brentford",
         "away": "Nottingham",
-        "home_score": 1,
+        "home_score": 2,
         "away_score": 0,
-        "status": "IN_PLAY",
+        "status": "FINISHED",
         "time": "3:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -250,9 +234,9 @@
       {
         "home": "Tottenham",
         "away": "Crystal Palace",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "5:30 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -260,9 +244,9 @@
       {
         "home": "Aston Villa",
         "away": "Fulham",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 1,
+        "away_score": 1,
+        "status": "FINISHED",
         "time": "8:00 PM UTC",
         "date": "Oct 31",
         "highlighted": false
@@ -270,34 +254,44 @@
       {
         "home": "Liverpool",
         "away": "Arsenal",
+        "home_score": 0,
+        "away_score": 1,
+        "status": "IN_PLAY",
+        "time": "4:30 PM UTC",
+        "date": "Nov 1",
+        "highlighted": false
+      },
+      {
+        "home": "Newcastle",
+        "away": "Everton",
         "home_score": null,
         "away_score": null,
         "status": "TIMED",
-        "time": "4:30 PM UTC",
-        "date": "Nov 1",
+        "time": "8:00 PM UTC",
+        "date": "Nov 2",
         "highlighted": false
       }
     ],
     "standings": [
       {
         "position": 1,
+        "team": "Arsenal",
+        "played": 9,
+        "won": 8,
+        "drawn": 0,
+        "lost": 1,
+        "gd": 9,
+        "points": 24,
+        "highlighted": false
+      },
+      {
+        "position": 2,
         "team": "Man City",
         "played": 9,
         "won": 7,
         "drawn": 0,
         "lost": 2,
         "gd": 10,
-        "points": 21,
-        "highlighted": false
-      },
-      {
-        "position": 2,
-        "team": "Arsenal",
-        "played": 8,
-        "won": 7,
-        "drawn": 0,
-        "lost": 1,
-        "gd": 8,
         "points": 21,
         "highlighted": false
       },
@@ -326,11 +320,11 @@
       {
         "position": 5,
         "team": "Liverpool",
-        "played": 8,
+        "played": 9,
         "won": 4,
         "drawn": 3,
-        "lost": 1,
-        "gd": 3,
+        "lost": 2,
+        "gd": 2,
         "points": 15,
         "highlighted": false
       },
@@ -341,7 +335,7 @@
         "won": 3,
         "drawn": 5,
         "lost": 1,
-        "gd": 6,
+        "gd": 7,
         "points": 14,
         "highlighted": false
       }
@@ -350,108 +344,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Tracking Bundesliga Striker as Backup to Havertz",
-        "summary": "Arsenal's recruitment team has been monitoring Eintracht Frankfurt's Hugo Ekitike, with the Gunners reportedly seeking an athletic centre-forward option ahead of the January window in case their top striker target proves too expensive.",
+        "headline": "Manchester United Weighing Move for Bundesliga Midfielder Ahead of January Window",
+        "summary": "Manchester United's sporting director is reportedly in advanced discussions over a potential January loan with an obligation-to-buy structure for a dynamic box-to-box midfielder, as the club looks to address a creativity deficit in central midfield following a string of inconsistent performances.",
         "clubs": [
-          "Arsenal",
-          "Eintracht Frankfurt"
+          "Manchester United",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Cole Palmer Contract",
-        "summary": "Chelsea are pushing to tie down Cole Palmer to a new long-term deal reportedly worth in excess of £200,000 per week, as the club looks to ward off growing interest from Real Madrid and Manchester City ahead of the summer.",
+        "headline": "Chelsea Face Competition from PSG for Premier League Forward's Signature",
+        "summary": "Chelsea's attempts to lock down a new contract with one of their most productive attackers have reportedly stalled, with Paris Saint-Germain understood to have made a formal approach and the player's agent confirming that talks are at an 'exploratory stage' with multiple clubs.",
         "clubs": [
           "Chelsea",
-          "Real Madrid"
+          "Paris Saint-Germain"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
+      "home": "Arsenal",
       "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The Premier League's most compelling rivalry resumes at the Etihad in what is effectively a six-pointer at the top of the table, with both sides separated by just two points and carrying contrasting recent form — City having edged three consecutive narrow wins, while Liverpool are coming off a dominant midweek European performance. Arne Slot's high press will be tested against a City side that has rediscovered their positional fluency, and Pep Guardiola is expected to deploy a narrow midfield diamond to overload Liverpool's transitional moments. The referee's approach to the physical battles in midfield could prove as decisive as any individual quality on show.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The Emirates hosts one of the Premier League's most anticipated fixtures as title-chasing Arsenal welcome Liverpool in a contest that could have significant implications for the top of the table. Arsenal are unbeaten in their last eight home league matches and will look to their fluid pressing system to disrupt Liverpool's high-tempo transitional play. Liverpool arrive with momentum after three consecutive wins but must navigate a hostile atmosphere and an Arsenal side desperate to close the gap on the early pace-setters.",
       "key_players": [
+        "Bukayo Saka",
         "Mohamed Salah",
-        "Erling Haaland",
-        "Alexis Mac Allister"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
-        "team": "Manchester City",
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
         "status": "Doubtful",
-        "return": "Available for selection but not guaranteed to start; fitness test scheduled Saturday morning"
+        "return": "Expected to be assessed on matchday; 50/50 for Sunday's fixture"
       },
       {
-        "player": "Diogo Jota",
+        "player": "Trent Alexander-Arnold",
         "team": "Liverpool",
-        "status": "Out",
-        "return": "Expected to return after the international break, approximately 2–3 weeks"
+        "status": "Recovering",
+        "return": "Targeting return after the international break; unlikely to feature this weekend"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
       "exam": "CFA Level 2",
-      "topic": "Fixed Income – Interest Rate Risk & Duration",
-      "question": "A portfolio manager holds a bond with a modified duration of 7.2 and a convexity of 85. If interest rates rise by 150 basis points, which of the following best estimates the percentage price change of the bond?",
+      "topic": "Fixed Income – Valuation and Yield Spreads",
+      "question": "A bond analyst is evaluating a callable corporate bond using the binomial interest rate tree model. The bond has an embedded call option that allows the issuer to redeem at par after year 2. If interest rate volatility increases significantly, which of the following best describes the expected impact on the Option-Adjusted Spread (OAS) and the value of the callable bond?",
       "options": {
-        "A": "−10.80%",
-        "B": "−9.84%",
-        "C": "−10.80% + 0.96% = −9.84%",
-        "D": "−10.80% − 0.96% = −11.76%"
+        "A": "OAS increases; callable bond value increases",
+        "B": "OAS remains unchanged; callable bond value decreases",
+        "C": "OAS remains unchanged; callable bond value decreases due to higher option cost",
+        "D": "OAS remains unchanged; callable bond value decreases because the call option becomes more valuable to the issuer"
       },
-      "correct": "C",
-      "explanation": "The full price change estimate uses both duration and convexity: %ΔP ≈ (−Modified Duration × Δy) + (0.5 × Convexity × Δy²). The duration effect is −7.2 × 0.015 = −10.80%. The convexity adjustment is +0.5 × 85 × (0.015)² = +0.5 × 85 × 0.000225 = +0.00956 ≈ +0.96%. Convexity always adds a positive adjustment regardless of the direction of yield change, so the net price change is approximately −9.84%. Option C correctly applies both components and signs."
+      "correct": "D",
+      "explanation": "The OAS is a spread measure that strips out the value of the embedded option, so it reflects the compensation for credit and liquidity risk only — it does not change mechanically with volatility assumptions. However, higher interest rate volatility increases the value of the call option to the issuer, which reduces the value of the callable bond to the investor (Value of callable bond = Value of straight bond − Value of call option). Therefore, as volatility rises, the callable bond becomes cheaper relative to an equivalent straight bond, harming the bondholder."
     },
     "finance_topic": {
-      "title": "The Liquidity Premium in Bond Markets",
-      "subtitle": "Why investors demand extra yield for bonds that are harder to sell quickly without moving the market.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why a hedge that looks perfect on paper can still leave investors exposed to significant residual risk.",
       "paragraphs": [
-        "The liquidity premium is the additional yield compensation that investors require to hold a financial asset that cannot be easily converted into cash at or near its fair market value. In bond markets, liquidity varies dramatically — on-the-run U.S. Treasuries trade billions of dollars per day with razor-thin bid-ask spreads, while off-the-run Treasuries, corporate bonds, and especially high-yield or emerging market debt can have spreads of dozens of basis points and shallow order books. The liquidity premium is therefore an embedded component of a bond's yield spread over the risk-free rate, sitting alongside credit risk and term premiums.",
-        "The liquidity premium became viscerally apparent during the March 2020 COVID shock, when even investment-grade corporate bonds and agency mortgage-backed securities experienced severe liquidity dislocations. Bid-ask spreads on IG corporates ballooned to levels not seen since 2008, and mutual fund managers faced redemption pressure that forced selling into illiquid markets. The Federal Reserve's intervention — purchasing corporate bond ETFs for the first time in history — was essentially a policy acknowledgment that liquidity premiums had become so distorted they threatened systemic stability. More recently, the 2022–2023 rate hiking cycle exposed similar fragility in UK gilts and certain regional bank balance sheets.",
-        "For investors and risk managers, correctly decomposing a bond's yield spread into its credit, liquidity, and term components is essential for relative value analysis and portfolio construction. A bond that appears cheap on a spread basis may simply be compensating for illiquidity rather than offering genuine credit alpha. Liquidity-adjusted duration — which accounts for the likelihood that a position cannot be unwound at par in stress conditions — is increasingly used by institutional risk teams. Investors with long investment horizons (pension funds, endowments) can rationally harvest the liquidity premium; short-horizon or leveraged investors face dangerous mark-to-market and margin risks from the same positions."
+        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the price of the underlying exposure being hedged. It is defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a hedger selects the most correlated instrument available, basis risk can never be entirely eliminated — only managed. This creates an irreducible layer of uncertainty that every risk manager must understand and account for in their hedging programs.",
+        "A classic real-world example occurred during the 2022 energy crisis, when European utilities that had hedged natural gas exposures using Henry Hub futures (a U.S. benchmark) faced devastating losses as the spread between TTF (Dutch Title Transfer Facility) and Henry Hub prices blew out to historically unprecedented levels. Companies that believed they were hedged against gas price moves were blindsided by geographic basis divergence. Similarly, corporate treasurers using S&P 500 index futures to hedge portfolios of small-cap equities routinely experience basis risk when market stress causes correlations and relative performance to shift dramatically.",
+        "For investors and risk managers, understanding basis risk means going beyond correlation metrics to model potential spread widening under stress scenarios. Hedge ratios should be dynamic, not static, and should be recalibrated as market conditions evolve. Institutions using cross-hedges — where the hedge instrument differs from the exposure — must stress-test the basis under crisis conditions, since correlations that hold in normal markets frequently break down precisely when protection is most needed."
       ],
       "key_takeaways": [
-        "The liquidity premium is compensation for the risk of being unable to sell an asset quickly at fair value — it is a distinct and measurable component of bond yield spreads.",
-        "Liquidity can evaporate suddenly in stress environments, as seen in March 2020 and the 2022 UK gilt crisis, turning paper gains into forced losses.",
-        "Long-horizon investors can rationally capture the liquidity premium, but leveraged or short-horizon investors must stress-test their ability to hold through illiquid periods."
+        "Basis risk is the residual risk remaining after a hedge is applied, caused by imperfect correlation between the exposure and the hedge instrument.",
+        "Geographic, tenor, and credit-quality mismatches between assets and derivatives are the most common sources of basis risk in practice.",
+        "Robust hedging programs stress-test basis divergence under crisis scenarios and use dynamic hedge ratios rather than assuming a fixed relationship."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "貯金",
+      "reading": "chokin",
+      "meaning": "savings; money saved in a bank or at home",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "〜てしまいました (te shimaimashita) is used to express that something happened completely, often with a sense of regret or that the result was unintended. It combines the te-form of a verb with しまう (shimau), which adds the nuance of 'ended up doing' or 'did (unfortunately).'",
-      "memory_tip": "Think of 'yo-san' as 'your sum' — the sum of money YOU set aside. If you blow past your 'yo-san,' you'll be saying 'shimaimashita' with regret!"
+      "example_jp": "毎月、給料の一部を貯金しています。",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_en": "Every month, I save part of my salary.",
+      "grammar_point": "〜ています (ongoing action / habitual action)",
+      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses either an action currently in progress or a habitual/repeated action. Here, 貯金しています means 'I am (habitually) saving,' indicating a regular practice rather than something happening right at this moment.",
+      "memory_tip": "Think of 貯 (cho) as 'store' and 金 (kin) as 'gold/money' — chokin is literally 'storing gold,' like a dragon hoarding coins in a cave. Every time you put money away, you are being a chokin dragon."
     },
     "ai_strategy": {
-      "headline": "AI Agent Networks Are Quietly Reshaping How Investment Banks Operate",
-      "summary": "Major investment banks including JPMorgan, Goldman Sachs, and Morgan Stanley have moved beyond single-model AI deployments to orchestrated networks of specialized AI agents — systems where one model delegates subtasks to others, enabling multi-step financial analysis that was previously impossible to automate. These agent frameworks can now autonomously pull earnings data, run scenario models, draft client memos, and flag compliance issues within a single workflow. The shift represents a transition from AI as a productivity tool to AI as an autonomous process layer embedded in core banking operations. Firms that build proprietary agent infrastructure now stand to generate structural cost advantages and faster turnaround on research and deal execution.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping How Banks Assess Default Risk",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several large fintechs are deploying machine learning models that go far beyond traditional FICO scores to assess creditworthiness. These models ingest thousands of alternative data signals — including cash flow patterns, behavioral metadata, and supply chain relationships — to generate dynamic probability-of-default estimates that update in near real-time. The shift is enabling lenders to extend credit more accurately to previously underserved borrowers while simultaneously tightening risk controls on segments that look superficially strong by traditional metrics. Regulators in the EU and U.S. are scrambling to develop explainability requirements for these models, creating a new compliance frontier for risk teams.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that can plan, make sequential decisions, and take actions autonomously over multiple steps — in finance, this means an agent that can independently research a company, build a model, and draft a report without constant human prompting."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last. Widely used in credit scoring because it handles mixed data types, missing values, and nonlinear relationships far better than logistic regression, while still producing feature importance scores that can help satisfy model explainability requirements."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model pulls relevant documents or data from an external database before generating a response, allowing it to reference live financial filings, internal research notes, or market data rather than relying solely on its training data."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as utility payment history, rental payments, e-commerce transaction patterns, or satellite imagery of parking lots — used to supplement or replace conventional financial data in credit and investment models. In lending, alternative data can dramatically improve default prediction for thin-file borrowers who lack traditional credit histories."
         },
         {
-          "term": "Model Orchestration",
-          "definition": "The coordination of multiple specialized AI models working in sequence or parallel — for example, one model extracts data from earnings calls, another performs ratio analysis, and a third generates an investment memo, all coordinated by a master orchestrator."
+          "term": "Model Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) is a technique that quantifies how much each input variable contributed to a specific model prediction. In regulated finance, SHAP values are critical for satisfying adverse action notice requirements and demonstrating to regulators that credit decisions are not driven by protected characteristics."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, and audit AI agent workflows are rapidly becoming the most sought-after hybrid talent in the industry — neither pure technologists nor traditional analysts, but strategic architects of automated decision pipelines. Building fluency in tools like LangChain, Microsoft Copilot Studio, or firm-specific AI platforms, combined with deep domain knowledge in credit, risk, or capital markets, creates a nearly irreplaceable skill profile. The analysts most at risk are those doing rote data aggregation and formatting; those who move into AI workflow design and output validation will find their leverage — and compensation — grow substantially."
+      "career_insight": "Credit analysts and risk managers who can bridge the gap between traditional financial statement analysis and ML-based scoring models are commanding a significant premium in the job market. The critical skill is not coding alone, but the ability to challenge model assumptions, identify training data biases, and communicate model outputs clearly to credit committees and regulators — a combination of quantitative fluency and domain credibility that pure data scientists often lack."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite is cautiously constructive this morning as U.S. equities consolidate near record highs, with the S&P 500 finding support from resilient earnings beats in the technology and financial sectors, even as the macro backdrop remains complicated by sticky services inflation and a Federal Reserve that continues to push back on near-term rate cut expectations. The USD remains firm, pressuring EM currencies and commodities priced in dollars, while the front end of the U.S. Treasury curve holds elevated yields as markets price fewer than two cuts for the remainder of the year. In Europe, ECB commentary has turned modestly more dovish at the margin, offering some relief to rate-sensitive European equities, though geopolitical uncertainty in the Middle East and energy market volatility continue to act as overhangs on global sentiment."
+    "market_sentiment": "Global risk appetite remains cautious as markets digest a resilient U.S. labor market that continues to push back Fed rate-cut expectations into late 2025, with the 10-year Treasury yield holding near multi-month highs and the yield curve bear-flattening once more. Equity markets are exhibiting a bifurcated tone — mega-cap AI-linked names continue to provide index support, while rate-sensitive sectors including REITs and regional banks face renewed selling pressure. In FX, the dollar index (DXY) is grinding higher, keeping emerging market currencies on the defensive and adding a further headwind to commodity prices denominated in USD; commodity desks are watching oil closely as OPEC+ compliance data this week could be the near-term catalyst."
   }
 }
