@@ -1,38 +1,38 @@
 {
-  "generated_at": "8:57 PM UTC",
-  "date": "Monday, November 2, 2026",
+  "generated_at": "6:44 PM UTC",
+  "date": "Tuesday, November 3, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 71,
-    "feels_like_f": 70,
-    "high_f": 73,
-    "low_f": 69,
-    "description": "Scattered Clouds",
-    "icon": "⛅",
-    "humidity": 50,
-    "wind_mph": 3,
+    "temp_f": 73,
+    "feels_like_f": 73,
+    "high_f": 75,
+    "low_f": 71,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 67,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Tue",
+        "day": "Wed",
         "icon": "⛅",
-        "high": 50,
-        "low": 50,
+        "high": 53,
+        "low": 53,
         "description": "Scattered Clouds"
       },
       {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 56,
-        "low": 56,
-        "description": "Clear Sky"
+        "day": "Thu",
+        "icon": "🌧️",
+        "high": 65,
+        "low": 65,
+        "description": "Light Rain"
       },
       {
-        "day": "Thu",
-        "icon": "☁️",
-        "high": 63,
-        "low": 63,
-        "description": "Overcast Clouds"
+        "day": "Fri",
+        "icon": "🌧️",
+        "high": 64,
+        "low": 64,
+        "description": "Light Rain"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 752.21,
-        "change": -3.51,
-        "change_pct": -0.46,
-        "up": false,
+        "price": 756.48,
+        "change": 4.38,
+        "change_pct": 0.58,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 338.49,
-        "change": -6.14,
-        "change_pct": -1.78,
+        "price": 331.73,
+        "change": -6.59,
+        "change_pct": -1.95,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 202.18,
-        "change": -2.46,
-        "change_pct": -1.2,
-        "up": false,
+        "price": 208.05,
+        "change": 5.99,
+        "change_pct": 2.96,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 403.31,
-        "change": 3.5,
-        "change_pct": 0.88,
-        "up": true,
+        "price": 398.29,
+        "change": -5.53,
+        "change_pct": -1.37,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 76738.52,
-        "change": -1173.93,
-        "change_pct": -1.51,
-        "up": false,
+        "price": 77730,
+        "change": 803.61,
+        "change_pct": 1.04,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2248.16,
-        "change": -15.63,
-        "change_pct": -0.69,
-        "up": false,
+        "price": 2297.53,
+        "change": 47.55,
+        "change_pct": 2.11,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,75 +111,51 @@
     "error": false,
     "articles": [
       {
-        "title": "Why Small Business Owners Who Took Covid Loans Face Collection Now - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/johnschroyer/2026/11/01/they-took-small-business-loans-during-covid-now-the-government-is-coming-to-collect/",
-        "description": "",
-        "published": "6:08 PM UTC",
+        "title": "Live Updates: Iran says \"ball is in the U.S. court\" on deal to end war as Trump keeps his intentions veiled - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+        "description": "Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
+        "published": "4:36 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Investors pull billions in funds from Binance after record $6.3bn hack - The Guardian",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaENiZkNSRGNUNkQ5SWhKRTE1dkhMVUVCM3dSVWY4X2EzWFl2WkN1SnhKb3g0S0pCOW1YNWU4Und2MDdPenZRdUJoTWpaNzUzRGZkNWRCeWlOU0xITHQ4WTlLR2Z6dGhCMlZzSDl3YWFWYURqX0RBWEtWVlNWMXhuMnllWk13ckMxTEFwMkVWY1J1dmR5V1otVGVTUnVjLVlCT2dwaE1ILWktVXJia1pSbEtiNE1FM0JFenp0SW5na1M?oc=5",
-        "description": "",
-        "published": "6:08 PM UTC",
+        "title": "Stock market after midterm elections: What S&P 500 history shows - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+        "description": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+        "published": "3:35 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Best Places to Retire in the US - Newser",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XTlRpSk0wRnZZaEhrb1VZT2lQY1RwZ2VoYlpaanRmTmJ4T3FYT0dZSmljOFFNTXp0akhMUVNqbkppTXd1TEdHanlGZ2Q2eWZHel9QUkp5ZWNlMWpiVFZoNjBvQjk2WG9ObDJoM0tGNU9nRWN1MnlGY3VNS20?oc=5",
+        "title": "Microsoft issues final warning and guidance on Entra ID MemberOf retirement - Neowin",
+        "source": "Neowin",
+        "url": "https://www.neowin.net/news/microsoft-issues-final-warning-and-guidance-on-entra-id-memberof-retirement/",
         "description": "",
-        "published": "6:05 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Tony Hawk Kicked Out Of Park While Trying To Recreate Pro Skater 3 - Kotaku",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJGMktGdmVObUxsaGR1a1N6dEN1RVBrd2ZjNmxSenBRMFh0c0Y0VmxURS04Xy13ZEJ0VGZ5bEhrX1diZUxmel82LXBMb21WY29rUnlVOUVidm1UV3VlRmhyTmU5cDdoRTd3Umo3c2JTZTYzbmx1RVNfRTBlb2d3TWxiejBMa1VOdlVfRmFDaWZpdW1tdEppNXhHYUc?oc=5",
-        "description": "",
-        "published": "7:32 PM UTC",
+        "published": "4:21 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "‘Fortnite’ Treasure Chest Prize Lets You Get Every Store Item For Free - Forbes",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUc4bUdhLVRaR2l6bC1mNmFCZVBCdHRiSXh2VEl0Q1JvbDl1bHpldzdjWjVqeGRUeURJaDE2bV9VTDVuQ2VKYzJEMVU1RWE0bVJwQ3NiVVBLTlp3aWx2UE9nOGpYSE5VUDJveU5UdE5wU0Y1WUxFTG5kb1hlRWwyNWNUN1AxWGVCLUVjT1VtQ1BpemhSVkJYVlM0YkJvLWJqN0EtdUZRLWQyaTdJYUNrZDdKTmlVWEtkMUpn?oc=5",
-        "description": "",
-        "published": "6:10 PM UTC",
+        "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\" - Mashable",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/gta-6-free-preorder-bonus-how-to-claim",
+        "description": "Walmart is trying to get you to buy a disc-less box.",
+        "published": "3:39 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "G.Skill 32 GB DDR5 Now Costs $156 When Purchased With Ryzen 9850X3D And B850 Motherboard Bundle - Wccftech",
-        "source": "Wccftech",
-        "url": "https://wccftech.com/g-skill-32-gb-ddr5-now-costs-156-when-purchased-with-ryzen-9850x3d-and-b850-motherboard-bundle/",
-        "description": "Get the AMD Ryzen 7 9850X3D, 32 GB DDR5 RAM, and B850 motherboard bundle for $829 at Micro Center, saving $324 off the regular price.",
-        "published": "5:46 PM UTC",
+        "title": "Apple Isn't Done With 2026: Here's What's Still Coming - MacRumors",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/",
+        "description": "Apple's busiest season isn't over yet. Far from it. With two hardware launch dates still to come in November, plus software updates and new...",
+        "published": "3:27 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Midterm Elections Live Updates: Stevens Endorses Rogers in Michigan; Trump to Visit Iowa and Kansas - The New York Times",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRm44VVB1VzNCdkIxcE82eHJiSEVxWW11M3ZfekNEMF8wTDJKeGlwNGF6SkZvVHpxeVJTZ0RKeWhQUXVGVlU0TVQ4SWVaOFM3Y2Q2MEJEVlR4Nl9EckE4REY4LXR0dnpvZXZXOWVQMlFpeUE0WWc?oc=5",
-        "description": "",
-        "published": "8:27 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race - NBC News",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFlaVlhKRUJyMGFkM0w1dEJOQzFHYWw1RThkczBNTlVVWGVrU3ZfNFR1UjNoelNmY0M0YkJrdmM0WnVidVMzQ21tOVZvNm5ONnJZUEJySjhIMjZnclFwSUJheWozSG1xU1Bnc2QzeEZHOThDekZYR2tLbW5yajFqOXFmU3pHOFVWeU05ZWljbmVSN1c1RTYzRlk4ZWJVNmt6bGlJbGg3cHR4YXMyS2Y4Z2hDN1hRQmxjRFJqNG9QVQ?oc=5",
-        "description": "",
-        "published": "8:24 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke - NPR",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43OXRmaFVOb0lmbUY4UWNmTld0Q05Ub1ZXQk9ITC16M2VwUVBKcmtta0RjQTI1NVhvanNfTEtpOWtZU2w1Y292bFVjeUVYSVRUN1V6RlNRcVlOdlRXN25DRkc5aExyQXN3YXlseHFLV2d2QQ?oc=5",
-        "description": "",
-        "published": "7:00 PM UTC",
+        "title": "The Bull And Male Donkey Who Choose Each Other Again And Again (For Sex) - Defector",
+        "source": "Defector.com",
+        "url": "https://defector.com/the-bull-and-male-donkey-who-choose-each-other-again-and-again-for-sex",
+        "description": "Elisabetta Palagi, an evolutionary biologist at the University of Pisa, had sent her team of research students to Ethiopia to study geladas, monkeys whose hearts appear to gleam out of their chests. B",
+        "published": "4:00 PM UTC",
         "category": "General"
       }
     ]
@@ -188,21 +164,11 @@
     "error": false,
     "matches": [
       {
-        "home": "Liverpool",
-        "away": "Arsenal",
+        "home": "Newcastle",
+        "away": "Everton",
         "home_score": 0,
         "away_score": 1,
         "status": "FINISHED",
-        "time": "4:30 PM UTC",
-        "date": "Nov 1",
-        "highlighted": false
-      },
-      {
-        "home": "Newcastle",
-        "away": "Everton",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
         "time": "8:00 PM UTC",
         "date": "Nov 2",
         "highlighted": false
@@ -280,45 +246,45 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Eye Juventus Midfielder as Ten Hag Seeks Midfield Overhaul",
-        "summary": "Manchester United are reportedly in advanced discussions to sign a dynamic box-to-box midfielder from Juventus, with the Old Trafford club looking to add creativity and defensive work rate in the center of the park following a disappointing domestic campaign.",
+        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder as Partey Replacement",
+        "summary": "Arsenal's recruitment team has reportedly stepped up scouting efforts for Florian Wirtz's Bayer Leverkusen teammate Granit Xhaka's former role, with Mikel Arteta keen to add a dynamic box-to-box midfielder before the winter window closes. Personal terms are said to be an obstacle as the player's wage demands exceed Arsenal's current structure.",
         "clubs": [
-          "Manchester United",
-          "Juventus"
+          "Arsenal",
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Submit Opening Bid for Bayer Leverkusen Winger Amid Summer Rebuild",
-        "summary": "Chelsea have tabled an initial offer believed to be in the region of £55 million for a pacy Bundesliga wide forward, as the Stamford Bridge hierarchy continues reshaping the squad under their new tactical setup ahead of next season.",
+        "headline": "Chelsea Face Competition from PSG for Brazilian Winger on Loan",
+        "summary": "Chelsea's loan army strategy is being tested as PSG have entered negotiations for a temporary deal for a highly-rated Brazilian wide player, with both clubs offering different sporting project pitches to secure the signature. Chelsea's sporting directors are reportedly willing to include a purchase option to sweeten the deal.",
         "clubs": [
           "Chelsea",
-          "Bayer Leverkusen"
+          "PSG"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "This top-of-the-table clash at the Emirates carries title-race implications, with Arsenal needing a win to maintain pressure on City at the summit of the Premier League. Arteta's side have been imperious at home this season, boasting one of the division's best defensive records, but face a City team that has rediscovered their ruthless best in recent weeks following a mid-season wobble. The tactical battle between Arteta and Guardiola — two coaches who know each other intimately — promises to be one of the matches of the season.",
+      "home": "Manchester City",
+      "away": "Liverpool",
+      "date": "Sunday, 3:00 PM GMT",
+      "preview": "The title race's most anticipated fixture arrives with both sides separated by just two points at the top of the Premier League table, making this a genuine six-pointer in every sense. City have found their form again after a mid-season wobble, with Erling Haaland returning to full fitness, while Liverpool's high press under Arne Slot has been relentless — averaging the most pressing actions per 90 minutes in the division. Expect a tactically fascinating battle between Slot's structured aggression and Guardiola's positional superiority, with the midfield duel likely deciding which side controls the tempo.",
       "key_players": [
-        "Bukayo Saka",
         "Erling Haaland",
-        "Martin Ødegaard"
+        "Mohamed Salah",
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
         "status": "Doubtful",
-        "return": "Expected to be assessed 48 hours before kickoff; may miss the City fixture"
+        "return": "Being assessed ahead of the weekend; 50/50 for Sunday's fixture"
       },
       {
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Targeting return after the international break; unlikely to feature this weekend"
+        "return": "Expected to return to full training by mid-February after hamstring setback"
       }
     ]
   },
@@ -326,62 +292,62 @@
     "cfa_frm": {
       "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model. The model is calibrated with a uniform pairwise asset correlation of 0.30. Which of the following statements BEST describes a key limitation of this approach that was exposed during the 2007–2009 financial crisis?",
+      "question": "A risk manager is evaluating a portfolio of credit default swaps (CDS). The portfolio has a notional value of $500 million, a recovery rate of 40%, and the reference entity's hazard rate is estimated at 2% per year using a flat credit curve. Assuming continuous compounding and a risk-free rate of 3%, which of the following best describes the impact on the CDS spread if the recovery rate increases from 40% to 60%, holding all else constant?",
       "options": {
-        "A": "The Gaussian copula overstates tail dependence, leading to an underestimation of diversification benefits during normal market conditions.",
-        "B": "The Gaussian copula fails to capture tail dependence, causing the model to underestimate the probability of simultaneous defaults during stress periods.",
-        "C": "Using a uniform correlation parameter causes the model to overestimate expected loss but underestimate unexpected loss.",
-        "D": "The Gaussian copula is inappropriate for credit portfolios because it assumes marginal default distributions are non-normal."
+        "A": "The CDS spread increases because higher recovery rates imply greater loss given default.",
+        "B": "The CDS spread decreases because higher recovery rates imply lower loss given default, reducing the compensation required by the protection seller.",
+        "C": "The CDS spread remains unchanged because the hazard rate fully captures default probability independent of recovery assumptions.",
+        "D": "The CDS spread increases because the protection buyer must compensate for the reduced payout received by the protection seller."
       },
       "correct": "B",
-      "explanation": "The Gaussian copula assumes that joint extreme events (simultaneous defaults) are nearly impossible because it exhibits zero tail dependence — correlations between assets effectively vanish in the tails of the distribution. During the 2008 crisis, defaults clustered together far more than the model predicted, particularly in structured credit products like CDOs. This tail dependence failure led to massive underestimation of systemic risk. Alternative copulas such as the Student-t or Clayton copula better capture this behavior by incorporating positive tail dependence."
+      "explanation": "The CDS spread is approximately equal to the hazard rate multiplied by the loss given default (LGD), where LGD = 1 − Recovery Rate. When the recovery rate rises from 40% to 60%, LGD falls from 60% to 40%, directly reducing the expected loss and therefore the spread the protection seller demands. This relationship — Spread ≈ λ × LGD — is a core result of the reduced-form credit model framework. Higher recovery rates benefit the protection buyer by lowering the premium cost, not increasing it as options A and D incorrectly suggest."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Why a hedge is almost never perfect, and how the gap between spot and futures prices can expose even well-structured portfolios to residual loss.",
+      "title": "Basis Risk in Credit Default Swap Hedging",
+      "subtitle": "Why hedging credit exposure with CDS doesn't always mean perfect protection — and how basis risk can turn a hedge into a new source of loss.",
       "paragraphs": [
-        "Basis risk arises when the price of the instrument being hedged and the price of the hedging instrument do not move in perfect lockstep. Formally, basis is defined as the spot price of the asset minus the futures price of the contract used to hedge it. Because futures contracts are standardized and may not perfectly match the underlying asset in terms of maturity, credit quality, or geography, basis fluctuations introduce residual risk even after a hedge is in place. A hedge that eliminates price risk entirely is theoretically attractive but practically elusive.",
-        "A classic example occurs in commodity markets: a jet fuel purchaser hedging with crude oil futures faces basis risk because the spread between crude and jet fuel (the 'crack spread') can widen unexpectedly due to refinery capacity constraints or seasonal demand shifts. Similarly, a fixed-income portfolio manager hedging a BBB-rated corporate bond portfolio with Treasury futures faces basis risk when credit spreads widen — Treasuries rally while corporates fall, and the hedge provides only partial protection. During the March 2020 COVID shock, this dynamic devastated many corporate bond hedges.",
-        "For risk managers and investors, basis risk must be explicitly modeled and stress-tested rather than assumed away. The hedge ratio should be calibrated not just to price sensitivity (duration or delta) but also to the historical correlation and volatility of the basis itself. Minimum-variance hedge ratios account for this by incorporating the regression coefficient of spot price changes on futures price changes. Ignoring basis risk can create a false sense of security, leaving portfolios exposed to losses precisely when markets are most dislocated."
+        "Basis risk in credit markets refers to the divergence between the price movement of a hedging instrument and the underlying exposure it is meant to offset. In the context of credit default swaps, basis is defined as the CDS spread minus the equivalent bond spread (typically measured as asset swap spread or Z-spread). When this basis is zero, the CDS and bond are theoretically equivalent instruments and a long bond / long CDS protection position would be perfectly hedged. In practice, the basis fluctuates due to technical, structural, and liquidity-driven forces, meaning a hedge that looks perfect on paper can generate real mark-to-market losses.",
+        "During the 2008 financial crisis, the CDS-bond basis turned sharply negative for many investment-grade and high-yield issuers. This meant CDS spreads widened much faster than bond spreads, causing institutions that had hedged bond portfolios with CDS protection to face unexpected gains on their CDS legs — but also exposed those who were on the opposite side to devastating losses. More recently, the basis has been a focal point in sovereign debt markets, particularly in European periphery countries, where regulatory constraints, repo market conditions, and the ECB's bond-buying programs have created persistent and sometimes dramatic divergences between CDS and bond-implied credit risk.",
+        "For a risk manager or portfolio manager, unmonitored basis risk can render a credit hedge far less effective than intended, or even introduce directional exposure to technical market factors rather than fundamental credit quality. Practitioners must track the CDS-bond basis continuously and understand its drivers: funding costs, short-selling restrictions, counterparty risk in the CDS itself, and supply-demand imbalances. Stress-testing hedged portfolios under scenarios where the basis moves adversely is now considered a regulatory and best-practice requirement under frameworks such as Basel III's Internal Models Approach."
       ],
       "key_takeaways": [
-        "Basis is the difference between the spot price of the hedged asset and the futures price used to hedge — it is rarely zero and fluctuates over time.",
-        "Basis risk is amplified during market stress when correlations break down, making hedges with non-identical instruments particularly vulnerable.",
-        "The minimum-variance hedge ratio explicitly incorporates basis volatility and should be preferred over naive one-to-one hedging approaches."
+        "CDS basis = CDS spread minus bond spread; a non-zero basis means a hedge is imperfect and introduces its own P&L volatility.",
+        "Negative basis (CDS spread < bond spread) often signals funding stress, forced selling, or regulatory constraints rather than a change in fundamental credit quality.",
+        "Risk managers must actively monitor, model, and stress-test basis risk as a distinct risk factor — it is not diversified away by holding large portfolios."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; commitment",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をもう使い切ってしまいました。",
-      "example_romaji": "Kontsuki no yosan wo mou tsukaikitte shimaimashita.",
-      "example_en": "I have already used up this month's budget.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました is attached to the te-form of a verb to express that something has been completed, often with a nuance of regret or that the action happened unintentionally. In this sentence, it conveys that the speaker has unfortunately exhausted their budget.",
-      "memory_tip": "Think of 'yo-san' as 'yo, SAN (3) dollars left' — you planned a budget but you're nearly broke. The 'yo' sounds like a surprised 'yo!' when you check your bank account."
+      "example_jp": "彼は必ず約束を守る人です。",
+      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
+      "example_en": "He is a person who always keeps his promises.",
+      "grammar_point": "〜を守る (wo mamoru)",
+      "grammar_explanation": "The pattern 〜を守る means 'to keep' or 'to honor' something, and it pairs naturally with words like 約束 (promise) and ルール (rules). It expresses the idea of upholding a commitment and is used in both formal and everyday speech.",
+      "memory_tip": "Think of 'yakusoku' as 'your cue to sock it to them with a promise' — once you say it, you're locked in. The 'yaku' sounds like 'you cue,' meaning you've signaled a binding commitment."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Displacing Traditional Loan Officers",
-      "summary": "Large financial institutions and fintech lenders are rapidly deploying machine learning models — particularly gradient boosting and transformer-based architectures — to automate credit underwriting decisions that previously required experienced loan officers. These models ingest thousands of alternative data signals, including cash flow patterns, behavioral metadata, and supply chain data, to generate credit scores far more granular than FICO-based approaches. Early evidence suggests default prediction accuracy improves by 15–30% on thin-file borrowers, unlocking credit access while theoretically reducing losses. However, regulators in the US and EU are increasing scrutiny around model explainability and fair lending compliance, creating new demand for AI governance expertise within risk functions.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
+      "summary": "Major financial institutions including JPMorgan, HSBC, and several European universal banks are now deploying large language models and gradient-boosted machine learning ensembles to augment — and in some cases replace — traditional scorecard-based credit underwriting. These systems ingest structured financial data alongside unstructured sources such as earnings call transcripts, supplier relationship data, and macroeconomic news feeds to generate dynamic credit assessments that update in near real-time. Regulators in the EU and US are responding with emerging 'model risk management' frameworks specifically designed for AI-driven underwriting, requiring explainability, bias auditing, and adversarial stress testing. For finance professionals, understanding how these models work and where they fail is fast becoming as important as knowing the fundamentals of DCF or credit scoring.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and non-linear relationships that linear models miss."
+          "term": "Gradient Boosting (XGBoost / LightGBM)",
+          "definition": "An ensemble machine learning method that builds many decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions from tabular financial data such as balance sheet ratios, payment history, and macro indicators."
+        },
+        {
+          "term": "Explainable AI (XAI) / SHAP Values",
+          "definition": "SHAP (SHapley Additive exPlanations) values assign each input feature a contribution score to a model's output, allowing risk managers and regulators to understand why a model approved or declined a loan — critical for compliance with fair lending laws."
         },
         {
           "term": "Alternative Data",
-          "definition": "Non-traditional data sources such as bank transaction flows, rental payment history, e-commerce behavior, or satellite imagery used to assess creditworthiness for borrowers with limited conventional credit histories."
-        },
-        {
-          "term": "Model Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) is a technique that attributes each model prediction to individual input features, allowing risk managers and regulators to understand why an AI system made a specific credit decision — critical for fair lending compliance."
+          "definition": "Non-traditional data sources — such as satellite imagery, social media sentiment, supply chain signals, or web traffic — used to enrich credit and investment models, providing early signals of financial distress or opportunity that traditional data misses."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can bridge quantitative modeling and regulatory compliance are becoming the most sought-after professionals in financial services AI teams. Fluency in model validation frameworks (SR 11-7), SHAP-based explainability, and bias testing under ECOA/fair lending rules is increasingly a prerequisite — not a differentiator — for senior risk roles at banks deploying ML-driven underwriting."
+      "career_insight": "Credit analysts and risk managers who can critically evaluate AI model outputs, challenge assumptions, and translate model behavior into regulatory language are commanding significant premiums in the job market. The most valued professionals are not those who build the models from scratch, but those who can sit at the intersection of domain expertise and model governance — knowing enough about ML to ask the right questions and enough about credit to catch when a model is confidently wrong."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a complex macro backdrop as markets weigh the trajectory of Fed rate cuts against stickier-than-expected services inflation, with the June CPI print keeping the September cut probability hovering near 65% on Fed Funds futures. The USD has softened modestly amid improving sentiment toward EM assets, while credit spreads in investment-grade remain historically tight, suggesting the market is still pricing a soft-landing outcome despite rising geopolitical tail risks in the Middle East and renewed tariff rhetoric heading into the US election cycle. Equity volatility remains suppressed with the VIX below 14, but skew metrics suggest institutional investors are quietly buying downside protection — a classic late-cycle positioning signal worth monitoring."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this morning as markets digest a mixed backdrop of resilient US labor data set against softening ISM manufacturing prints, keeping the Fed's 'higher for longer' narrative alive but increasingly data-dependent. Treasury yields are range-bound in the 4.40–4.60% corridor on the 10-year, with the curve bear-flattening modestly as front-end cuts get priced out further into 2025; credit spreads in IG remain tight but HY is showing early signs of fatigue with outflows from leveraged loan funds accelerating. Equity momentum is concentrated in large-cap AI-linked names masking broader market breadth deterioration — a divergence that historically warrants attention from risk managers heading into month-end rebalancing flows."
   }
 }
