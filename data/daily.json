@@ -1,38 +1,38 @@
 {
-  "generated_at": "6:44 PM UTC",
-  "date": "Tuesday, November 3, 2026",
+  "generated_at": "6:58 PM UTC",
+  "date": "Wednesday, November 4, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 73,
-    "feels_like_f": 73,
-    "high_f": 75,
-    "low_f": 71,
-    "description": "Broken Clouds",
+    "temp_f": 70,
+    "feels_like_f": 70,
+    "high_f": 72,
+    "low_f": 68,
+    "description": "Overcast Clouds",
     "icon": "☁️",
-    "humidity": 67,
-    "wind_mph": 5,
+    "humidity": 90,
+    "wind_mph": 10,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "⛅",
-        "high": 53,
-        "low": 53,
-        "description": "Scattered Clouds"
-      },
       {
         "day": "Thu",
         "icon": "🌧️",
-        "high": 65,
-        "low": 65,
+        "high": 63,
+        "low": 63,
         "description": "Light Rain"
       },
       {
         "day": "Fri",
-        "icon": "🌧️",
+        "icon": "☁️",
         "high": 64,
         "low": 64,
-        "description": "Light Rain"
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "high": 53,
+        "low": 53,
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 756.48,
-        "change": 4.38,
-        "change_pct": 0.58,
+        "price": 767.41,
+        "change": 13.06,
+        "change_pct": 1.73,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 331.73,
-        "change": -6.59,
-        "change_pct": -1.95,
-        "up": false,
+        "price": 352.82,
+        "change": 20.92,
+        "change_pct": 6.3,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 208.05,
-        "change": 5.99,
-        "change_pct": 2.96,
-        "up": true,
+        "price": 203.12,
+        "change": -3.57,
+        "change_pct": -1.73,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 398.29,
-        "change": -5.53,
-        "change_pct": -1.37,
+        "price": 389.08,
+        "change": -9.42,
+        "change_pct": -2.36,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 77730,
-        "change": 803.61,
-        "change_pct": 1.04,
+        "price": 80336.01,
+        "change": 2754.0,
+        "change_pct": 3.55,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2297.53,
-        "change": 47.55,
-        "change_pct": 2.11,
+        "price": 2423.63,
+        "change": 130.57,
+        "change_pct": 5.69,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,69 +111,74 @@
     "error": false,
     "articles": [
       {
-        "title": "Live Updates: Iran says \"ball is in the U.S. court\" on deal to end war as Trump keeps his intentions veiled - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-        "description": "Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
-        "published": "4:36 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Stock market after midterm elections: What S&P 500 history shows - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-        "description": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
-        "published": "3:35 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Microsoft issues final warning and guidance on Entra ID MemberOf retirement - Neowin",
-        "source": "Neowin",
-        "url": "https://www.neowin.net/news/microsoft-issues-final-warning-and-guidance-on-entra-id-memberof-retirement/",
+        "title": "Stock Market Today: Dow Opens Lower; Apple Stock Falls After Earnings Disappoint - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026",
         "description": "",
-        "published": "4:21 PM UTC",
+        "published": "4:09 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+        "description": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
+        "published": "3:37 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "War Thunder gets DLSS 5 this month, NVIDIA claims up to 400 FPS at 4K - VideoCardz.com",
+        "source": "Videocardz.com",
+        "url": "https://videocardz.com/newz/war-thunder-gets-dlss-5-this-month-nvidia-claims-up-to-400-fps-at-4k",
+        "description": "NVIDIA adds War Thunder to its DLSS 5 lineup, bringing Neural Rendering, Ray Reconstruction, and up to 6X Frame Generation. The update arrives in mid-November with new military vehicles.",
+        "published": "4:04 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\" - Mashable",
-        "source": "Mashable",
-        "url": "https://mashable.com/tech/gta-6-free-preorder-bonus-how-to-claim",
-        "description": "Walmart is trying to get you to buy a disc-less box.",
-        "published": "3:39 PM UTC",
+        "title": "Golden Demon 2026 – SPIEL Essen Finalists, Part One - Warhammer Community",
+        "source": "Warhammer-community.com",
+        "url": "https://www.warhammer-community.com/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one",
+        "description": "See loads of awesome miniatures that earned Finalist pins.",
+        "published": "3:59 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Apple Isn't Done With 2026: Here's What's Still Coming - MacRumors",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/",
-        "description": "Apple's busiest season isn't over yet. Far from it. With two hardware launch dates still to come in November, plus software updates and new...",
-        "published": "3:27 PM UTC",
+        "title": "‘Elder Scrolls 6: Sentinel’ Reveals Its Location, But Not Its Release Year - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/paultassi/2026/11/03/elder-scrolls-6-sentinel-reveals-its-location-but-not-its-release-year/",
+        "description": "",
+        "published": "3:58 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "The Bull And Male Donkey Who Choose Each Other Again And Again (For Sex) - Defector",
-        "source": "Defector.com",
-        "url": "https://defector.com/the-bull-and-male-donkey-who-choose-each-other-again-and-again-for-sex",
-        "description": "Elisabetta Palagi, an evolutionary biologist at the University of Pisa, had sent her team of research students to Ethiopia to study geladas, monkeys whose hearts appear to gleam out of their chests. B",
-        "published": "4:00 PM UTC",
+        "title": "NFL Power Rankings, Week 9: Bills claim No. 1 spot, while Bears vault into top three - NFL.com",
+        "source": "NFL News",
+        "url": "https://www.nfl.com/news/nfl-power-rankings-week-9-2026-nfl-season",
+        "description": "With the Minnesota Vikings suffering their first loss of the season, who takes over the top spot in Nick Shook's Power Rankings? Check out his updated NFL pecking order, 1-32, entering Week 9 of the 2",
+        "published": "3:54 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Voting machine chaos hits key House battleground - Axios",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue",
+        "description": "Election officials initially blamed the thickness of paper ballots.",
+        "published": "3:22 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Sony Partners With Lionsgate on Destin Daniel Cretton’s ‘Naruto’ Movie (Exclusive) - The Hollywood Reporter",
+        "source": "Hollywood Reporter",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/naruto-movie-lionsgate-sony-destin-daniel-cretton-1236746650/",
+        "description": "The live-action adaptation of the popular manga has been greenlit to start production in spring 2027.",
+        "published": "3:22 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [
-      {
-        "home": "Newcastle",
-        "away": "Everton",
-        "home_score": 0,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "8:00 PM UTC",
-        "date": "Nov 2",
-        "highlighted": false
-      }
-    ],
+    "matches": [],
     "standings": [
       {
         "position": 1,
@@ -246,108 +251,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal's recruitment team has reportedly stepped up scouting efforts for Florian Wirtz's Bayer Leverkusen teammate Granit Xhaka's former role, with Mikel Arteta keen to add a dynamic box-to-box midfielder before the winter window closes. Personal terms are said to be an obstacle as the player's wage demands exceed Arsenal's current structure.",
+        "headline": "Manchester United Reignite Interest in Bundesliga Midfielder Ahead of Summer Window",
+        "summary": "Manchester United's new football leadership is reportedly monitoring Bayer Leverkusen's Granit Xhaka as a potential midfield anchor, with INEOS keen to add experience and pressing intensity to a rebuilt engine room. Personal terms are said to be an obstacle given Xhaka's settled situation in Germany.",
         "clubs": [
-          "Arsenal",
+          "Manchester United",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Face Competition from PSG for Brazilian Winger on Loan",
-        "summary": "Chelsea's loan army strategy is being tested as PSG have entered negotiations for a temporary deal for a highly-rated Brazilian wide player, with both clubs offering different sporting project pitches to secure the signature. Chelsea's sporting directors are reportedly willing to include a purchase option to sweeten the deal.",
+        "headline": "Tottenham Hotspur Target Napoli Striker as Postecoglou Seeks Goal Threat",
+        "summary": "Spurs are understood to be exploring a move for Victor Osimhen as they seek a clinical number nine capable of leading the line in a high-tempo system, with the Nigerian's future at Napoli remaining unresolved despite a Saudi loan last season. Chelsea and PSG are also credited with interest, making any deal a complex three-way negotiation.",
         "clubs": [
-          "Chelsea",
-          "PSG"
+          "Tottenham Hotspur",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The title race's most anticipated fixture arrives with both sides separated by just two points at the top of the Premier League table, making this a genuine six-pointer in every sense. City have found their form again after a mid-season wobble, with Erling Haaland returning to full fitness, while Liverpool's high press under Arne Slot has been relentless — averaging the most pressing actions per 90 minutes in the division. Expect a tactically fascinating battle between Slot's structured aggression and Guardiola's positional superiority, with the midfield duel likely deciding which side controls the tempo.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The title rivals meet at the Emirates in what could be a defining fixture in the Premier League run-in, with Arsenal sitting two points clear but City having a game in hand — making this a genuine six-pointer in the truest sense. Arsenal have been imperious at home this season, pressing high and converting transitions ruthlessly, but Pep Guardiola's side historically elevates its performance in top-of-the-table clashes and will look to exploit any defensive gaps left by Arsenal's aggressive line. The tactical battle between Arteta's high-block and Guardiola's positional play promises to be one of the most compelling afternoons of the football calendar.",
       "key_players": [
+        "Bukayo Saka",
         "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; 50/50 for Sunday's fixture"
-      },
-      {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Expected to return to full training by mid-February after hamstring setback"
+        "return": "Expected to be assessed Friday; availability for Sunday uncertain"
+      },
+      {
+        "player": "Ben White",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Missed training midweek with a muscular issue; decision expected Saturday"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
+      "exam": "FRM Part 1",
       "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of credit default swaps (CDS). The portfolio has a notional value of $500 million, a recovery rate of 40%, and the reference entity's hazard rate is estimated at 2% per year using a flat credit curve. Assuming continuous compounding and a risk-free rate of 3%, which of the following best describes the impact on the CDS spread if the recovery rate increases from 40% to 60%, holding all else constant?",
+      "question": "A bank estimates that a corporate borrower has a 2% probability of default (PD) over the next year, a loss given default (LGD) of 60%, and an exposure at default (EAD) of $10 million. If the asset correlation is 12% and the confidence level used for regulatory capital is 99.9%, which of the following best describes the relationship between expected loss (EL) and unexpected loss (UL) in the context of economic capital?",
       "options": {
-        "A": "The CDS spread increases because higher recovery rates imply greater loss given default.",
-        "B": "The CDS spread decreases because higher recovery rates imply lower loss given default, reducing the compensation required by the protection seller.",
-        "C": "The CDS spread remains unchanged because the hazard rate fully captures default probability independent of recovery assumptions.",
-        "D": "The CDS spread increases because the protection buyer must compensate for the reduced payout received by the protection seller."
+        "A": "EL and UL are both covered by regulatory capital under Basel III, as the framework does not distinguish between the two.",
+        "B": "EL is covered by loan loss provisions and pricing, while UL drives the economic capital requirement and is the primary focus of credit VaR.",
+        "C": "UL equals EL multiplied by a stress factor derived from the asset correlation, making them proportional measures.",
+        "D": "EL represents the worst-case loss at the 99.9% confidence level, while UL is the average loss over the credit cycle."
       },
       "correct": "B",
-      "explanation": "The CDS spread is approximately equal to the hazard rate multiplied by the loss given default (LGD), where LGD = 1 − Recovery Rate. When the recovery rate rises from 40% to 60%, LGD falls from 60% to 40%, directly reducing the expected loss and therefore the spread the protection seller demands. This relationship — Spread ≈ λ × LGD — is a core result of the reduced-form credit model framework. Higher recovery rates benefit the protection buyer by lowering the premium cost, not increasing it as options A and D incorrectly suggest."
+      "explanation": "Expected Loss (EL = PD × LGD × EAD = $120,000) represents the average anticipated loss that should be covered through loan pricing and loan loss reserves. Unexpected Loss (UL) is the volatility of losses around EL — the tail risk — and is what drives economic capital and Credit VaR requirements. Basel II/III capital frameworks are designed to absorb UL at high confidence levels, not EL, which is priced into spreads. Option D reverses the definitions, and Option C incorrectly implies a simple proportional relationship."
     },
     "finance_topic": {
-      "title": "Basis Risk in Credit Default Swap Hedging",
-      "subtitle": "Why hedging credit exposure with CDS doesn't always mean perfect protection — and how basis risk can turn a hedge into a new source of loss.",
+      "title": "Basis Risk and the Limits of Hedging",
+      "subtitle": "Why even well-structured hedges can leave risk managers exposed to residual, hard-to-quantify losses.",
       "paragraphs": [
-        "Basis risk in credit markets refers to the divergence between the price movement of a hedging instrument and the underlying exposure it is meant to offset. In the context of credit default swaps, basis is defined as the CDS spread minus the equivalent bond spread (typically measured as asset swap spread or Z-spread). When this basis is zero, the CDS and bond are theoretically equivalent instruments and a long bond / long CDS protection position would be perfectly hedged. In practice, the basis fluctuates due to technical, structural, and liquidity-driven forces, meaning a hedge that looks perfect on paper can generate real mark-to-market losses.",
-        "During the 2008 financial crisis, the CDS-bond basis turned sharply negative for many investment-grade and high-yield issuers. This meant CDS spreads widened much faster than bond spreads, causing institutions that had hedged bond portfolios with CDS protection to face unexpected gains on their CDS legs — but also exposed those who were on the opposite side to devastating losses. More recently, the basis has been a focal point in sovereign debt markets, particularly in European periphery countries, where regulatory constraints, repo market conditions, and the ECB's bond-buying programs have created persistent and sometimes dramatic divergences between CDS and bond-implied credit risk.",
-        "For a risk manager or portfolio manager, unmonitored basis risk can render a credit hedge far less effective than intended, or even introduce directional exposure to technical market factors rather than fundamental credit quality. Practitioners must track the CDS-bond basis continuously and understand its drivers: funding costs, short-selling restrictions, counterparty risk in the CDS itself, and supply-demand imbalances. Stress-testing hedged portfolios under scenarios where the basis moves adversely is now considered a regulatory and best-practice requirement under frameworks such as Basel III's Internal Models Approach."
+        "Basis risk arises when the price of a hedging instrument does not move in perfect lockstep with the underlying exposure being hedged. It is the residual risk that remains after a hedge is put in place — the difference, or 'basis,' between the spot price of an asset and the futures or derivative price used to offset it. For example, an airline hedging jet fuel costs with crude oil futures faces basis risk because the spread between jet fuel and crude oil can widen or narrow unpredictably, leaving the hedge imperfect even if executed flawlessly.",
+        "In 2022, the commodity price dislocations following Russia's invasion of Ukraine provided a stark real-world illustration of basis risk. Many European energy companies had hedged natural gas exposure using instruments benchmarked to different regional indices or time horizons. As European TTF gas prices decoupled dramatically from US Henry Hub and even from their own historical forward curves, hedges that appeared robust on paper generated significant margin calls without providing equivalent protection on the physical exposure. The correlation assumptions underpinning those hedges broke down precisely when they were most needed.",
+        "For risk managers and investors, basis risk demands that hedge effectiveness be tested regularly using regression analysis — specifically the R-squared of the hedging relationship — and that hedge ratios be dynamically adjusted as correlations shift. IFRS 9 and ASC 815 hedge accounting standards require firms to demonstrate 'highly effective' hedging relationships (typically 80–125% offset), failing which the hedge loses accounting treatment and P&L volatility surges. Understanding and pricing basis risk is not an afterthought — it is central to any sound risk management framework."
       ],
       "key_takeaways": [
-        "CDS basis = CDS spread minus bond spread; a non-zero basis means a hedge is imperfect and introduces its own P&L volatility.",
-        "Negative basis (CDS spread < bond spread) often signals funding stress, forced selling, or regulatory constraints rather than a change in fundamental credit quality.",
-        "Risk managers must actively monitor, model, and stress-test basis risk as a distinct risk factor — it is not diversified away by holding large portfolios."
+        "Basis risk is the imperfection in any hedge, arising from divergence between the hedging instrument's price and the underlying exposure.",
+        "Correlations between hedging instruments and exposures can break down sharply in stress scenarios, turning a 'hedged' book into a source of losses.",
+        "Risk managers must continuously monitor hedge effectiveness ratios and adjust positions, particularly when using cross-commodity or cross-currency proxies."
       ]
     },
     "japanese": {
       "word": "約束",
       "reading": "yakusoku",
-      "meaning": "promise; appointment; commitment",
+      "meaning": "promise; appointment; agreement",
       "part_of_speech": "noun",
-      "example_jp": "彼は必ず約束を守る人です。",
-      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
-      "example_en": "He is a person who always keeps his promises.",
-      "grammar_point": "〜を守る (wo mamoru)",
-      "grammar_explanation": "The pattern 〜を守る means 'to keep' or 'to honor' something, and it pairs naturally with words like 約束 (promise) and ルール (rules). It expresses the idea of upholding a commitment and is used in both formal and everyday speech.",
-      "memory_tip": "Think of 'yakusoku' as 'your cue to sock it to them with a promise' — once you say it, you're locked in. The 'yaku' sounds like 'you cue,' meaning you've signaled a binding commitment."
+      "example_jp": "明日の朝、九時に会う約束をしました。",
+      "example_romaji": "Ashita no asa, kuji ni au yakusoku o shimashita.",
+      "example_en": "I made a promise to meet at nine o'clock tomorrow morning.",
+      "grammar_point": "〜をしました (o shimashita)",
+      "grammar_explanation": "This pattern uses the noun + を + する (to do) in past polite form. 'Yakusoku o suru' means 'to make a promise,' and adding 'shimashita' makes it past tense — a very natural way to describe completed arrangements in everyday Japanese.",
+      "memory_tip": "Think of 'yaku' as 'a role you play' and 'soku' as 'soon' — when you make a promise, you're committing to play your role soon. Imagine signing a contract (役) that starts immediately (速)."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams Across Global Banks",
-      "summary": "Major financial institutions including JPMorgan, HSBC, and several European universal banks are now deploying large language models and gradient-boosted machine learning ensembles to augment — and in some cases replace — traditional scorecard-based credit underwriting. These systems ingest structured financial data alongside unstructured sources such as earnings call transcripts, supplier relationship data, and macroeconomic news feeds to generate dynamic credit assessments that update in near real-time. Regulators in the EU and US are responding with emerging 'model risk management' frameworks specifically designed for AI-driven underwriting, requiring explainability, bias auditing, and adversarial stress testing. For finance professionals, understanding how these models work and where they fail is fast becoming as important as knowing the fundamentals of DCF or credit scoring.",
+      "headline": "AI Agents Are Quietly Replacing Junior Analysts on Trading Desks",
+      "summary": "Leading investment banks including Goldman Sachs and JPMorgan have begun deploying autonomous AI agents capable of drafting equity research memos, running scenario analyses, and synthesizing earnings call transcripts in near real-time — tasks historically performed by first and second-year analysts. These systems combine large language models with structured data retrieval and code execution, enabling end-to-end research workflows with minimal human intervention. The shift is accelerating as model reliability improves and regulatory sandboxes for AI-generated financial content expand. Firms that deploy these agents effectively are reporting 40–60% reductions in time-to-insight for routine analytical tasks.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost / LightGBM)",
-          "definition": "An ensemble machine learning method that builds many decision trees sequentially, each correcting the errors of the last, producing highly accurate predictions from tabular financial data such as balance sheet ratios, payment history, and macro indicators."
+          "term": "Agentic AI",
+          "definition": "AI systems that can autonomously plan, execute multi-step tasks, use tools (like web search or code interpreters), and iterate toward a goal — going beyond simple question-answering to completing full workflows like a research process or trade idea generation."
         },
         {
-          "term": "Explainable AI (XAI) / SHAP Values",
-          "definition": "SHAP (SHapley Additive exPlanations) values assign each input feature a contribution score to a model's output, allowing risk managers and regulators to understand why a model approved or declined a loan — critical for compliance with fair lending laws."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model fetches relevant, up-to-date documents (earnings filings, market data, credit reports) before generating a response, dramatically reducing hallucinations and grounding outputs in verifiable financial data."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as satellite imagery, social media sentiment, supply chain signals, or web traffic — used to enrich credit and investment models, providing early signals of financial distress or opportunity that traditional data misses."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built AI model on domain-specific financial data — such as analyst reports, regulatory filings, or historical deal memos — so it develops specialized knowledge and vocabulary relevant to finance professionals."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who can critically evaluate AI model outputs, challenge assumptions, and translate model behavior into regulatory language are commanding significant premiums in the job market. The most valued professionals are not those who build the models from scratch, but those who can sit at the intersection of domain expertise and model governance — knowing enough about ML to ask the right questions and enough about credit to catch when a model is confidently wrong."
+      "career_insight": "The finance professionals best positioned for the next decade are not those who compete with AI on speed or data processing, but those who combine critical judgment, client relationship skills, and AI fluency — knowing how to prompt, validate, and strategically deploy these tools. Roles in model risk management, AI governance, and 'human-in-the-loop' oversight of automated systems are growing rapidly, making technical literacy in AI a core competency alongside traditional financial skills."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive this morning as markets digest a mixed backdrop of resilient US labor data set against softening ISM manufacturing prints, keeping the Fed's 'higher for longer' narrative alive but increasingly data-dependent. Treasury yields are range-bound in the 4.40–4.60% corridor on the 10-year, with the curve bear-flattening modestly as front-end cuts get priced out further into 2025; credit spreads in IG remain tight but HY is showing early signs of fatigue with outflows from leveraged loan funds accelerating. Equity momentum is concentrated in large-cap AI-linked names masking broader market breadth deterioration — a divergence that historically warrants attention from risk managers heading into month-end rebalancing flows."
+    "market_sentiment": "Risk appetite remains cautiously constructive this week as markets digest a firmer-than-expected US services PMI print alongside renewed debate over the timing and depth of Fed rate cuts — the 2-year/10-year curve has steepened modestly, signaling some repricing of the 'higher for longer' narrative at the front end. Equity markets are holding near recent highs but breadth is narrowing, with mega-cap tech continuing to carry indices while small-caps underperform on rate sensitivity — a divergence that historically precedes volatility inflection points. In FX, the dollar is showing mild strength against EM currencies as carry trades face headwinds from geopolitical uncertainty in the Middle East, while gold's resilience above $2,300/oz suggests safe-haven demand remains a live undercurrent beneath the surface calm."
   }
 }
