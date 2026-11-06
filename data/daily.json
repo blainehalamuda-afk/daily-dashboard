@@ -1,37 +1,37 @@
 {
-  "generated_at": "7:10 PM UTC",
-  "date": "Thursday, November 5, 2026",
+  "generated_at": "6:37 PM UTC",
+  "date": "Friday, November 6, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 77,
-    "feels_like_f": 78,
-    "high_f": 79,
-    "low_f": 74,
-    "description": "Broken Clouds",
-    "icon": "☁️",
-    "humidity": 78,
-    "wind_mph": 14,
+    "temp_f": 72,
+    "feels_like_f": 72,
+    "high_f": 75,
+    "low_f": 71,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 60,
+    "wind_mph": 3,
     "forecast": [
       {
-        "day": "Fri",
-        "icon": "🌧️",
-        "high": 62,
-        "low": 62,
-        "description": "Moderate Rain"
-      },
-      {
         "day": "Sat",
-        "icon": "🌤️",
-        "high": 53,
-        "low": 53,
-        "description": "Few Clouds"
+        "icon": "☀️",
+        "high": 52,
+        "low": 52,
+        "description": "Clear Sky"
       },
       {
         "day": "Sun",
         "icon": "☀️",
         "high": 43,
         "low": 43,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "high": 45,
+        "low": 45,
         "description": "Clear Sky"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 734.95,
-        "change": -31.86,
-        "change_pct": -4.15,
-        "up": false,
+        "price": 738.27,
+        "change": 5.27,
+        "change_pct": 0.72,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 343.23,
-        "change": -6.28,
-        "change_pct": -1.8,
-        "up": false,
+        "price": 344.33,
+        "change": 0.16,
+        "change_pct": 0.05,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 182.62,
-        "change": -17.51,
-        "change_pct": -8.75,
-        "up": false,
+        "price": 187.19,
+        "change": 5.59,
+        "change_pct": 3.08,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 340.41,
-        "change": -44.78,
-        "change_pct": -11.63,
-        "up": false,
+        "price": 360.51,
+        "change": 16.82,
+        "change_pct": 4.89,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 76068,
-        "change": -4308.42,
-        "change_pct": -5.36,
+        "price": 75903.96,
+        "change": -178.06,
+        "change_pct": -0.23,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2250.26,
-        "change": -176.12,
-        "change_pct": -7.26,
+        "price": 2231.81,
+        "change": -19.42,
+        "change_pct": -0.86,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,60 +111,44 @@
     "error": false,
     "articles": [
       {
-        "title": "Oil tumbles below $100 on post-election peace hopes - Financial Times",
-        "source": "Financial Times",
-        "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6\\\\u003d1",
-        "description": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
-        "published": "5:15 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "John Deere to close Iowa factories, shift production - KIMT",
-        "source": "KIMT 3",
-        "url": "https://www.kimt.com/news/john-deere-to-close-iowa-factories-shift-production/article_6f0d04a6-75a6-463f-9d82-1051e3f71869.html",
-        "description": "John Deere says it expects to continue serving customers without disruption throughout these changes.",
-        "published": "4:21 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "PS5 Exclusive God of War Laufey Has Officially Been Delayed by Three Months - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-god-of-war-laufey-has-officially-been-delayed-by-three-months",
-        "description": "Lau-May",
-        "published": "5:15 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Anker’s new window-mounted camera monitors the outside of your home from within it - The Verge",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUGJ6MlMwNFBLRGhDQTNLRWRFTGdBQkF2YU5URXc0VzVvRXN2Y3ZNWTJQSEZhZ2RWZVVRZVRYaDc0WlRzSVVUaFdXaEFSZkZTZjFPdkhkS2dHYWEyQmhFVHBfN0xuNnNabTZLY0FjUkhrdUpMcnNXU0Q5cHJDREYtaVRZeHR6RVljeGdoeFVSaEFtRFdZMWNDajlSajBXdC0weXZZWXpic1M?oc=5",
-        "description": "",
-        "published": "4:36 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Assassin's Creed Valhalla adds two Xbox achievements with New Game+ update - TrueAchievements",
-        "source": "TrueAchievements",
-        "url": "https://www.trueachievements.com/news/assassins-creed-valhalla-new-game-plus-achievements",
-        "description": "If you thought you were done with Assassin's Creed Valhalla, think again. The New Game+ Update adds two more Xbox achievements to the action-RPG.",
-        "published": "4:11 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0",
-        "description": "President Donald Trump acknowledges the Iran war impacted the midterm elections but says he's not considering replacing Defense Secretary Pete Hegseth despite voter dissatisfaction with it. The electi",
+        "title": "Stock Market Today: Nasdaq Sinks 4% as Investors Ditch Chip, Data-Center Stocks — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on bonds, oil prices, the Dow, S&P 500 and Nasdaq.",
         "published": "6:25 PM UTC",
-        "category": "General"
+        "category": "Business"
       },
       {
-        "title": "Detroit Lions’ Jack Campbell offers update: ‘I have full movement in my lower body’ - Pride Of Detroit",
-        "source": "Prideofdetroit.com",
-        "url": "https://www.prideofdetroit.com/detroit-lions-news/179695/detroit-lions-jack-campbell-injury-update-offers-update-statement-body-movement",
-        "description": "Detroit Lions Jack Campbell offered is own injury update, noting that he has movement in his upper body.",
-        "published": "5:38 PM UTC",
-        "category": "General"
+        "title": "Pipefitter's pipes will provide new 'Voice of Logan' - WCVB",
+        "source": "WCVB Boston",
+        "url": "https://www.wcvb.com/article/voice-of-logan-winner-announcement-boston/74343292",
+        "description": "A pipefitter from Arlington, Massachusetts, was announced Thursday as the winner of Boston Logan International Airport's \"Voice of Logan\" contest.",
+        "published": "5:29 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Gamers go to ridiculous lengths to “improve” GTA VI with Nvidia’s DLSS 5 - Ars Technica",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+        "description": "Using a capture card and open source software to run PS5 video through a PC GPU.",
+        "published": "5:40 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Xbox overhauls its PC, web, and cloud apps with a faster design - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
+        "description": "Microsoft is overhauling its Xbox PC app and Xbox Cloud Gaming design. A new, faster UI is rolling out to testers.",
+        "published": "5:00 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
+        "description": "Rockstar Games have released an album of new in-game Grand Theft Auto 6, which offer perhaps our final peak at the game before its launch later this month.",
+        "published": "4:18 PM UTC",
+        "category": "Technology"
       }
     ]
   },
@@ -179,6 +163,46 @@
         "status": "TIMED",
         "time": "8:00 PM UTC",
         "date": "Nov 6",
+        "highlighted": false
+      },
+      {
+        "home": "Leeds United",
+        "away": "Tottenham",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "12:30 PM UTC",
+        "date": "Nov 7",
+        "highlighted": false
+      },
+      {
+        "home": "Arsenal",
+        "away": "Hull City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "Nov 7",
+        "highlighted": false
+      },
+      {
+        "home": "Fulham",
+        "away": "Newcastle",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "3:00 PM UTC",
+        "date": "Nov 7",
+        "highlighted": false
+      },
+      {
+        "home": "Nottingham",
+        "away": "Man City",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "5:30 PM UTC",
+        "date": "Nov 7",
         "highlighted": false
       }
     ],
@@ -254,108 +278,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Weighing Summer Move for Stuttgart's Chris Führich",
-        "summary": "Arsenal's recruitment team has identified Germany international winger Chris Führich as a primary wide target ahead of the summer window, with Mikel Arteta keen to add pace and directness to his attacking options. Stuttgart are expected to demand upwards of £45m, with interest also reported from Borussia Dortmund.",
+        "headline": "Manchester United Target Athletic Club Midfielder Amid Midfield Rebuild",
+        "summary": "Manchester United are reportedly monitoring Athletic Club's dynamic box-to-box midfielder as new sporting leadership looks to address a lack of physicality and ball progression in the engine room. A January approach is considered possible if injury concerns persist.",
         "clubs": [
-          "Arsenal",
-          "VfB Stuttgart"
+          "Manchester United",
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Manchester United Open Talks Over Rúben Amorim's First Signing — Sporting CP Midfielder Targeted",
-        "summary": "Manchester United are reportedly in early discussions to sign Sporting CP midfielder Morten Hjulmand, with manager Rúben Amorim keen to bring a player familiar with his system to Old Trafford. The Denmark international is valued at around £50m and has also attracted interest from Atletico Madrid.",
+        "headline": "Chelsea Revive Interest in Napoli Centre-Back as Defense Leaks Goals",
+        "summary": "Chelsea's recruitment team has reportedly re-engaged with Napoli over a commanding central defender after a run of defensive errors has exposed fragility at the back. The Italian club are reluctant to sell mid-season but financial pressures could force a negotiation.",
         "clubs": [
-          "Manchester United",
-          "Sporting CP"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
-      "away": "Manchester City",
+      "home": "Arsenal",
+      "away": "Liverpool",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits title-chasing Liverpool against a Manchester City side desperate to close the gap and reignite their championship credentials after a turbulent run of form. Liverpool arrive at Anfield having won seven of their last eight in all competitions, with Arne Slot's high-press system humming — while City's defensive frailties have been ruthlessly exposed in recent weeks, raising questions about whether Pep Guardiola can find the right lineup to contain Mohamed Salah and Luis Díaz. The result carries enormous title implications, with a Liverpool win potentially opening up a double-digit cushion at the top of the table.",
+      "preview": "The standout fixture of the Premier League weekend pits two genuine title contenders against each other at the Emirates, with both sides separated by just two points at the summit. Arsenal will look to leverage their home atmosphere and high defensive line to press Liverpool out of their rhythm, while Arne Slot's side arrive in excellent form having won six of their last seven. The tactical battle between Arsenal's structured 4-3-3 press and Liverpool's positional fluidity promises to be one of the most compelling of the season, with the result likely to have significant title implications.",
       "key_players": [
+        "Bukayo Saka",
         "Mohamed Salah",
-        "Erling Haaland",
-        "Alexis Mac Allister"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Trent Alexander-Arnold",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; possible return within 7–10 days"
-      },
-      {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Long-term absence; not expected to feature before end of season"
+        "status": "Out",
+        "return": "Long-term — remainder of season in doubt following ACL surgery"
+      },
+      {
+        "player": "Dominic Calvert-Lewin",
+        "team": "Bournemouth",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of the weekend; expected to miss 1-2 more weeks"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
       "exam": "CFA Level 2",
-      "topic": "Fixed Income – Credit Analysis",
-      "question": "An analyst is evaluating a callable corporate bond using the binomial interest rate tree model. The bond has an embedded call option that allows the issuer to redeem the bond at par after year 2. If the option-adjusted spread (OAS) of the callable bond is 85 bps and the z-spread is 120 bps, which of the following statements is MOST accurate?",
+      "topic": "Fixed Income – Yield Curve Analysis",
+      "question": "An analyst observes that the 2-year Treasury yield has risen 80 bps while the 10-year Treasury yield has risen only 30 bps over the past quarter. Which of the following best describes this yield curve movement and its most likely implication for a portfolio manager holding long-duration bonds?",
       "options": {
-        "A": "The option cost is 35 bps, implying the embedded call option benefits the bondholder.",
-        "B": "The option cost is 35 bps, implying the embedded call option benefits the issuer, and investors demand less compensation on a spread basis after removing the option.",
-        "C": "The OAS exceeds the z-spread, confirming the bond is undervalued relative to the benchmark curve.",
-        "D": "The z-spread understates the true credit risk because it ignores the volatility of interest rates."
+        "A": "A parallel shift; duration-matched portfolios are fully hedged against this move.",
+        "B": "A bear flattening; long-duration bond prices fall less than short-duration bonds on a percentage basis.",
+        "C": "A bear flattening; portfolios with positive convexity will outperform bullet portfolios in this environment.",
+        "D": "A bull steepening; long-duration bonds benefit as long yields fall relative to short yields."
       },
       "correct": "B",
-      "explanation": "For a callable bond, the option cost = z-spread − OAS = 120 − 85 = 35 bps. Because the call option benefits the issuer (they can refinance at lower rates), investors require a higher z-spread to compensate. The OAS strips out the embedded option value, leaving the pure credit and liquidity spread. A positive option cost for a callable bond is expected and reflects the value of the issuer's right to call, not a benefit to the bondholder."
+      "explanation": "When short-term yields rise more than long-term yields, the yield curve flattens. Because yields are rising overall, this is called a bear flattening. Long-duration bonds suffer price declines due to their higher interest rate sensitivity (duration), but since the long end rose less (30 bps vs. 80 bps), the percentage price decline on long-duration bonds is proportionally smaller than the duration differential might suggest at first glance — however, long-duration bonds still decline in absolute terms. Option C is incorrect because positive convexity benefits portfolios when yields move sharply in either direction, but it does not directly cause outperformance over bullets specifically in a flattening scenario. Option D misidentifies both the direction and type of shift."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as a Systemic Force",
-      "subtitle": "How the explosive growth of private credit markets is reshaping capital allocation, bank lending, and systemic risk monitoring.",
+      "title": "The Return of the Term Premium in Bonds",
+      "subtitle": "After years near zero, the bond term premium is re-emerging as a critical driver of long-term yields and asset allocation decisions.",
       "paragraphs": [
-        "Private credit — encompassing direct lending, mezzanine financing, distressed debt, and asset-backed lending outside of public bond markets — has grown from roughly $500 billion in assets under management a decade ago to well over $2 trillion today. Unlike broadly syndicated loans or public high-yield bonds, private credit transactions are negotiated bilaterally between a fund manager and borrower, offering speed, flexibility, and covenant-rich structures that neither public markets nor traditional banks easily replicate. The asset class sits at the intersection of private equity and fixed income, filling a void left by banks retreating from middle-market and leveraged lending under tighter regulatory capital requirements post-GFC.",
-        "The 2022–2024 rate cycle provided a vivid stress test: as base rates surged, floating-rate private credit loans generated outsized returns for lenders, attracting massive inflows from pension funds, sovereign wealth funds, and insurance companies. Major alternative asset managers — Ares, Apollo, Blackstone Credit, and Blue Owl — expanded balance sheets aggressively, winning mandates from blue-chip borrowers previously served exclusively by investment banks. Meanwhile, regulators at the FSB and Fed began flagging concentration risk, valuation opacity, and liquidity mismatches in evergreen private credit vehicles as emerging vulnerabilities requiring closer scrutiny.",
-        "For investors and risk managers, private credit introduces several layered complexities. Mark-to-model valuation smooths reported volatility but masks true drawdown risk — a concern when institutions use private credit allocations to hit volatility budget targets. Covenant protections, while stronger than cov-lite public loans, require active monitoring and workout expertise when borrowers face stress. Portfolio managers must also consider illiquidity premiums carefully: the spread pickup over public equivalents has compressed as capital flooded in, raising the question of whether investors are still being adequately compensated for opacity and lock-up risk in a higher-for-longer rate environment."
+        "The term premium is the extra compensation investors demand for holding a long-term bond rather than rolling over a series of short-term bonds over the same horizon. It reflects uncertainty about future inflation, growth, and monetary policy — essentially the 'insurance cost' of locking up capital for an extended period. For much of the post-GFC decade, quantitative easing and anchored inflation expectations compressed the term premium to near zero or even negative levels, distorting traditional fixed income relationships.",
+        "Since 2022, the term premium has re-emerged with force. The Fed's aggressive tightening cycle, sticky inflation, and record U.S. Treasury issuance to fund widening fiscal deficits have all contributed. The ACM (Adrian-Crump-Moench) model, widely tracked by the New York Fed, showed the 10-year term premium turning sharply positive in 2023 for the first time in years, helping explain why the 10-year yield climbed above 5% even as market participants priced in eventual Fed rate cuts.",
+        "For investors and risk managers, a rising term premium has significant implications. It means that long-duration bonds carry more embedded risk premium — which is attractive if you believe term premium will compress again, but dangerous if fiscal concerns or inflation volatility persist. Portfolio managers relying on the traditional 60/40 framework must reassess duration assumptions, since the negative stock-bond correlation that protected portfolios pre-2022 breaks down when inflation — not growth — is the dominant macro driver."
       ],
       "key_takeaways": [
-        "Private credit AUM has surpassed $2 trillion, making it a systemically significant asset class that regulators are increasingly monitoring for hidden leverage and valuation risk.",
-        "The floating-rate nature of most direct lending instruments made private credit a relative winner during the 2022–2024 rate hike cycle, but spread compression now challenges future return expectations.",
-        "Investors must distinguish between illiquidity premium and credit risk premium — as the market matures, the former is shrinking, demanding more rigorous bottom-up credit underwriting."
+        "The term premium is compensation for uncertainty over the life of a long-term bond, distinct from expectations of future short rates.",
+        "Fiscal deficits, elevated issuance, and inflation uncertainty are the primary forces pushing the term premium higher in the current cycle.",
+        "Rising term premiums challenge the 60/40 portfolio model and require investors to rethink duration risk and cross-asset correlations."
       ]
     },
     "japanese": {
       "word": "約束",
       "reading": "yakusoku",
-      "meaning": "promise; appointment; commitment",
+      "meaning": "promise, appointment, commitment",
       "part_of_speech": "noun",
-      "example_jp": "明日の三時に会う約束をしました。",
-      "example_romaji": "Ashita no sanji ni au yakusoku wo shimashita.",
-      "example_en": "I made a promise to meet at 3 o'clock tomorrow.",
-      "grammar_point": "〜をしました (noun + を + shimashita)",
-      "grammar_explanation": "In Japanese, many action nouns like 約束 (yakusoku) pair with する (suru, 'to do') to form a verb phrase. Using をしました makes the sentence polite past tense: 'I did [the promise]' naturally translates as 'I made a promise.'",
-      "memory_tip": "Think 'yaku' sounds like 'lock' — a promise LOCKS you in. And 'soku' sounds like 'sock' — you shake hands with a sock puppet to seal the deal. A locked-in sock-puppet handshake = a promise!"
+      "example_jp": "友達と明日会う約束をしました。",
+      "example_romaji": "Tomodachi to ashita au yakusoku wo shimashita.",
+      "example_en": "I made a promise to meet my friend tomorrow.",
+      "grammar_point": "〜をする (to do / to make)",
+      "grammar_explanation": "In Japanese, '約束をする' (yakusoku wo suru) means 'to make a promise.' The pattern [noun + をする] is used to turn certain nouns into verb phrases, and it appears very frequently with action-oriented nouns in everyday speech.",
+      "memory_tip": "Imagine a 'yak' (the animal) wearing a 'sock' and solemnly pinky-promising to never take it off — that's a 'yakusoku,' a promise you can't break."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Execute Trades Without Human Sign-Off",
-      "summary": "A new generation of agentic AI systems — built on large language models with tool-use capabilities — is moving beyond analysis and into autonomous execution within sandboxed trading environments at several tier-one banks and hedge funds. Unlike traditional algorithmic trading, these agents can reason across unstructured data sources (earnings call transcripts, macro news, regulatory filings), form multi-step plans, and trigger orders within predefined risk guardrails. Firms like Citadel, JPMorgan's AI research division, and several quant-focused hedge funds are actively piloting systems where AI agents handle specific strategy legs with minimal human intervention. The critical unresolved challenge is interpretability: when an agentic system executes a losing trade, compliance and risk teams need auditable reasoning chains, not just model outputs.",
+      "headline": "AI Agents Are Beginning to Automate Complex Financial Research Workflows",
+      "summary": "A new generation of autonomous AI agents — systems that can plan, execute multi-step tasks, and use external tools — is beginning to penetrate financial research and due diligence workflows. Unlike simple chatbots, these agents can browse filings, run quantitative screens, synthesize earnings transcripts, and draft analyst memos with minimal human intervention. Early adopters at hedge funds and investment banks are deploying agent frameworks like LangGraph and OpenAI's Assistants API to compress research cycles from days to hours. The competitive pressure to integrate these tools is intensifying, as firms that master human-AI collaboration in research will produce more coverage with leaner analyst teams.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously plan, make sequential decisions, and take actions (like placing orders or querying databases) to achieve a goal — going beyond single-turn question answering into multi-step task execution."
+          "definition": "AI systems that autonomously break down a complex goal into subtasks, execute them sequentially or in parallel using tools (web search, code execution, databases), and iterate based on results — going far beyond single-turn question answering."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model fetches relevant, up-to-date documents (earnings filings, market data, research notes) before generating a response, allowing financial AI tools to stay current without retraining the entire model."
+          "definition": "A technique where an AI model retrieves relevant documents (e.g., 10-K filings, credit agreements, research reports) from a database before generating a response, dramatically improving factual accuracy and domain specificity in financial contexts."
         },
         {
-          "term": "Guardrail Layers",
-          "definition": "Hardcoded risk constraints embedded around AI decision-making systems — such as position size limits, sector concentration caps, or kill switches — that prevent autonomous agents from exceeding predefined risk parameters."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built large language model on a firm's proprietary data — such as historical analyst reports or internal risk memos — so the model adopts domain-specific vocabulary, tone, and analytical frameworks."
         }
       ],
-      "career_insight": "Finance professionals who understand both the domain logic of risk and trading and the architectural limits of AI agents will be disproportionately valuable over the next five years. The highest-leverage skill set is not prompt engineering alone, but the ability to design governance frameworks — defining guardrails, audit trails, and human escalation triggers — that make agentic systems safe to deploy in regulated environments. CFA charterholders and FRM holders who layer on literacy in LLM architecture and model risk management (SR 11-7 equivalents for AI) will be positioned for roles that simply did not exist three years ago."
+      "career_insight": "Analysts and risk managers who treat AI agents as collaborative tools — learning to design prompts, evaluate outputs critically, and integrate AI into structured workflows — will dramatically expand their capacity and career value. The most endangered roles are purely process-driven research tasks (data gathering, transcript summarization, covenant screening), while high-judgment skills like investment thesis construction, client relationship management, and model risk governance will remain deeply human. Building fluency in AI tooling is now as important for a finance professional as Excel proficiency was in the 1990s."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a delicate balance this week as markets digest resilient U.S. labor data against a backdrop of moderating core CPI prints, keeping Fed rate cut expectations anchored to a late-Q3 or Q4 timeline and flattening the front end of the Treasury curve. Equity markets are showing selective strength — mega-cap tech continues to benefit from AI capex tailwinds and earnings beats, while small-caps and rate-sensitive sectors remain under pressure from 'higher for longer' repricing. In FX, the dollar index (DXY) is range-bound near 104–105 as ECB cut expectations diverge from Fed patience, and credit spreads in IG remain tight while CCC-rated debt has started to widen modestly, a signal worth watching for early stress in leveraged balance sheets."
+    "market_sentiment": "Global risk assets are navigating a complex cross-current as markets reprice the 'higher-for-longer' rate narrative against increasingly mixed growth signals. U.S. labor market resilience continues to push back Fed cut expectations, keeping front-end rates elevated and flattening the yield curve, while soft PMI readings out of the Eurozone reinforce the divergence between U.S. and European macro trajectories. Equities remain range-bound with the S&P 500 grinding near resistance, as investors weigh robust corporate earnings against elevated discount rates and a U.S. dollar that refuses to weaken meaningfully — a headwind for EM assets and multinational revenue translation."
   }
 }
