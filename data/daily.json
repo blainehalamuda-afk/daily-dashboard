@@ -1,38 +1,38 @@
 {
-  "generated_at": "5:19 PM UTC",
-  "date": "Sunday, November 8, 2026",
+  "generated_at": "9:42 PM UTC",
+  "date": "Monday, November 9, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 64,
-    "feels_like_f": 62,
-    "high_f": 66,
-    "low_f": 61,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 50,
-    "wind_mph": 6,
+    "temp_f": 69,
+    "feels_like_f": 68,
+    "high_f": 72,
+    "low_f": 67,
+    "description": "Clear Sky",
+    "icon": "☀️",
+    "humidity": 38,
+    "wind_mph": 1,
     "forecast": [
-      {
-        "day": "Mon",
-        "icon": "☀️",
-        "high": 43,
-        "low": 43,
-        "description": "Clear Sky"
-      },
       {
         "day": "Tue",
         "icon": "☀️",
-        "high": 46,
-        "low": 46,
+        "high": 41,
+        "low": 41,
         "description": "Clear Sky"
       },
       {
         "day": "Wed",
-        "icon": "☀️",
-        "high": 47,
-        "low": 47,
-        "description": "Clear Sky"
+        "icon": "🌤️",
+        "high": 41,
+        "low": 41,
+        "description": "Few Clouds"
+      },
+      {
+        "day": "Thu",
+        "icon": "🌧️",
+        "high": 51,
+        "low": 51,
+        "description": "Light Rain"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 735.29,
-        "change": 2.29,
-        "change_pct": 0.31,
+        "price": 752.69,
+        "change": 17.4,
+        "change_pct": 2.37,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 342.37,
-        "change": -1.8,
-        "change_pct": -0.52,
-        "up": false,
+        "price": 350.69,
+        "change": 8.32,
+        "change_pct": 2.43,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 186.64,
-        "change": 5.04,
-        "change_pct": 2.78,
-        "up": true,
+        "price": 178.67,
+        "change": -7.97,
+        "change_pct": -4.27,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 358.22,
-        "change": 14.53,
-        "change_pct": 4.23,
+        "price": 378.05,
+        "change": 19.83,
+        "change_pct": 5.54,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 75764.4,
-        "change": -26.86,
-        "change_pct": -0.04,
+        "price": 74877.85,
+        "change": -801.46,
+        "change_pct": -1.06,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2229.29,
-        "change": -6.7,
-        "change_pct": -0.3,
+        "price": 2128.16,
+        "change": -95.0,
+        "change_pct": -4.27,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "NYC schools’ standoff with Google over AI raises prospect of no search in class - Gothamist",
-        "source": "Gothamist",
-        "url": "https://gothamist.com/news/nyc-schools-standoff-with-google-over-ai-raises-prospect-of-no-search-in-class",
-        "description": "Google’s threat to pull the plug on search in classrooms underscored how deeply the technology’s products are woven into the fabric of education.",
-        "published": "3:21 PM UTC",
+        "title": "Air Algerie Business Class Airbus A330neo Review: Utterly Awful - One Mile at a Time",
+        "source": "One Mile at a Time",
+        "url": "https://onemileatatime.com/reviews/air-algerie-business-class-a330neo/",
+        "description": "Air Algerie A330neo business class review from Montreal to Algiers: fine seats, but an indifferent crew, no menus, no alcohol, no amenity kits and slow service.",
+        "published": "8:48 PM UTC",
         "category": "Business"
       },
       {
-        "title": "A promising new medicine against heart disease fails unexpectedly - NPR",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-        "description": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
-        "published": "2:50 PM UTC",
+        "title": "Top 5 stocks to watch this week - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-watch-week-162025831.html",
+        "description": "Investing.com -- Investors are preparing for a busy week on Wall Street, with earnings from five closely watched companies, fresh U.S. inflation data and shi...",
+        "published": "4:20 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Millions of ladders recalled nationwide after numerous reports of head injuries, skull fractures - Fox Business",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/retail/millions-ladders-recalled-nationwide-after-numerous-reports-head-injuries-skull-fractures",
-        "description": "The CPSC recall covers over 3.6 million Little Giant ladders after Rapid Lock failures caused falls leading to skull fractures and brain injuries.",
-        "published": "2:48 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "GTA 6's PS5 Physical Edition Revealed in First Photo - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
-        "description": "Code-in-box",
-        "published": "3:00 PM UTC",
+        "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85 - IGN",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
+        "description": "New videos from the set of Miami Vice ‘85 reveal Austin Butler’s Sonny Crockett and Michael B. Jordan”s Ricardo Tubbs driving in a white Ferrari Testarossa, the wrong car for the period of the TV seri",
+        "published": "9:42 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai/",
+        "title": "Akai MPC is moving toward an open platform, and the first step is here - synth anatomy",
+        "source": "Synthanatomy.com",
+        "url": "https://synthanatomy.com/2026/11/akai-mpc-is-now-open-source-standalone-and-mpc-sample.html",
+        "description": "The Akai MPC framework components are now open-source, including the MPC Standalone (G1 & G2), Force, and MPC Sample",
+        "published": "7:51 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Heat: Pedal to the Metal Reveals New Gameplay Trailer - BoxThisLap",
+        "source": "Boxthislap.org",
+        "url": "https://boxthislap.org/heat-pedal-to-the-metal-gameplay-trailer/",
         "description": "",
-        "published": "2:30 PM UTC",
+        "published": "7:25 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "BioWare Lives On: Here Are All The Post-BioWare Projects Currently In Production - GameSpot",
-        "source": "GameSpot",
-        "url": "https://www.gamespot.com/articles/bioware-lives-on-here-are-all-the-post-bioware-projects-currently-in-production/",
-        "description": "BioWare may be gone, but its legacy continues through studios, projects, and games created by former employees.",
-        "published": "2:03 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "No clear winner after tight New Zealand general election - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c3ewev11g1e0o",
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-        "published": "3:00 PM UTC",
+        "title": "Week 9 NFL scores, live updates: Patrick Mahomes suffers apparent elbow injury in throwing arm vs. Jets, somehow returns on following drive - Yahoo Sports",
+        "source": "Yahoo Entertainment",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-scores-news-live-updates-week-9-schedule-inactives-highlights-stats-where-to-watch-140628566.html",
+        "description": "Follow along with all of Sunday's action in Week 9.",
+        "published": "10:37 PM UTC",
         "category": "General"
       },
       {
-        "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/russia-ukraine-war-kyiv-talks-abu-dhabi-b042adf1f95848f5d233da866a72e312",
-        "description": "Drone and missile explosions wounded at least nine people across Ukraine Saturday, as Kyiv and Moscow prepared for new talks next week with the United States. Negotiators from the three countries are ",
-        "published": "2:58 PM UTC",
+        "title": "Efforts to impeach Pete Hegseth solidify following Democrats’ midterm election victories - CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/11/08/politics/live-news/midterm-election-trump-congress",
+        "description": "Efforts to impeach Defense Secretary Pete Hegseth are ramping up, with Rep. Thomas Massie saying he plans to trigger an impeachment vote this week.",
+        "published": "9:52 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Nvidia opens investigation after reports CEO Jensen Huang was targeted by Chinese intelligence - NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148",
+        "description": "The board of Nvidia on Sunday said that it was opening an independent investigation following reports that CEO Jensen Huang had been targeted by a foreign intelligence effort.",
+        "published": "9:05 PM UTC",
         "category": "General"
       }
     ]
@@ -179,46 +179,6 @@
   "sports": {
     "error": false,
     "matches": [
-      {
-        "home": "Leeds United",
-        "away": "Tottenham",
-        "home_score": 1,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "12:30 PM UTC",
-        "date": "Nov 7",
-        "highlighted": false
-      },
-      {
-        "home": "Arsenal",
-        "away": "Hull City",
-        "home_score": 1,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "Nov 7",
-        "highlighted": false
-      },
-      {
-        "home": "Fulham",
-        "away": "Newcastle",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "Nov 7",
-        "highlighted": false
-      },
-      {
-        "home": "Nottingham",
-        "away": "Man City",
-        "home_score": 3,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "5:30 PM UTC",
-        "date": "Nov 7",
-        "highlighted": false
-      },
       {
         "home": "Crystal Palace",
         "away": "Liverpool",
@@ -262,9 +222,9 @@
       {
         "home": "Man United",
         "away": "Aston Villa",
-        "home_score": 1,
-        "away_score": 2,
-        "status": "IN_PLAY",
+        "home_score": 4,
+        "away_score": 4,
+        "status": "FINISHED",
         "time": "4:30 PM UTC",
         "date": "Nov 8",
         "highlighted": false
@@ -342,74 +302,74 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Target Sporting CP Midfielder Viktor Gyökeres in Ambitious January Move",
-        "summary": "Manchester United are reportedly weighing a January approach for Sporting CP striker Viktor Gyökeres, whose 18-goal haul this season has attracted attention across Europe. United's new ownership under INEOS is believed to be open to a mid-season move if the right profile becomes available.",
+        "headline": "Arsenal Weighing Summer Move for Sporting CP Midfielder Viktor Gyökeres",
+        "summary": "Arsenal's recruitment team has reportedly held internal discussions about making a move for Swedish striker Viktor Gyökeres, who has been in sensational form for Sporting CP in the Primeira Liga. The Gunners are said to be exploring attacking reinforcements ahead of a potential title challenge, with Gyökeres valued at upwards of £80 million.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Cole Palmer Contract Amid European Interest",
-        "summary": "Chelsea are accelerating efforts to tie down Cole Palmer to a new long-term deal after his breakout season attracted reported interest from Real Madrid and Bayern Munich. The Blues are keen to remove any uncertainty surrounding their most valuable creative asset before the summer window opens.",
+        "headline": "Manchester United in Talks to Offload Casemiro Amid Wage Bill Concerns",
+        "summary": "Manchester United are exploring options to move on Casemiro this summer as INEOS looks to trim the squad's bloated wage structure as part of wider financial restructuring. Saudi Pro League clubs are understood to have registered interest, though the player's preference is said to be remaining in Europe.",
         "clubs": [
-          "Chelsea",
-          "Real Madrid"
+          "Manchester United",
+          "Al-Qadsiah"
         ]
       }
     ],
     "match_preview": {
       "home": "Arsenal",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits Arsenal against Liverpool in what could be a title-defining six-pointer at the Emirates. Arsenal come in on a six-match unbeaten run and will look to exploit Liverpool's high defensive line with the pace of Saka and Martinelli, while Arne Slot's side arrive as the league's top scorers and in irresistible form. With just four points separating the top three, the psychological and points impact of this result will reverberate through the title race for weeks.",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The standout fixture of the Premier League weekend pits title rivals Arsenal and Manchester City against each other at the Emirates in what could be a defining moment in the championship race. Arsenal come in on a seven-match unbeaten run and will be desperate to close the gap at the top, while City — seasoned in these high-pressure moments under Guardiola — will look to exploit any defensive fragility Arsenal show when pressed high. The tactical battle between Arteta's aggressive press and City's positional play promises to be absorbing, with home advantage and crowd atmosphere potentially tipping a tightly contested affair.",
       "key_players": [
         "Bukayo Saka",
-        "Mohamed Salah",
+        "Erling Haaland",
         "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Rodri",
-        "team": "Manchester City",
-        "status": "Out",
-        "return": "Season — ACL, targeting pre-season 2025/26"
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Doubtful",
+        "return": "Expected to be assessed on matchday; hamstring tightness picked up in training"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "7-10 days — minor muscle strain picked up in training"
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "status": "Recovering",
+        "return": "Targeting return within 2-3 weeks; has resumed partial training but Sunday comes too soon"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a credit portfolio using the Gaussian copula model. The model assumes a single common factor drives asset correlations. Which of the following is the most significant limitation of this approach, as highlighted during the 2008 financial crisis?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
+      "question": "An analyst observes that the 2-year spot rate is 4.20% and the 3-year spot rate is 4.55%. Using the pure expectations theory, what is the implied 1-year forward rate two years from now (1y2y), and what does it suggest about market expectations?",
       "options": {
-        "A": "The model overstates individual obligor default probabilities by ignoring idiosyncratic risk components.",
-        "B": "The model underestimates tail dependence, causing it to underprice the probability of simultaneous defaults during stress periods.",
-        "C": "The model assumes time-varying correlations, making it computationally intractable for large portfolios.",
-        "D": "The model requires constant hazard rates, which makes it insensitive to changes in the credit spread curve."
+        "A": "4.90%; the market expects short-term rates to rise over the next three years",
+        "B": "5.26%; the market expects short-term rates to rise, consistent with an upward-sloping yield curve",
+        "C": "4.55%; the forward rate equals the longest spot rate under pure expectations theory",
+        "D": "4.38%; the market expects short-term rates to remain anchored near current levels"
       },
       "correct": "B",
-      "explanation": "The Gaussian copula assumes normal joint distributions, which have thin tails and near-zero tail dependence — meaning it severely underestimates the likelihood that many assets default simultaneously in a crisis. During 2008, CDO tranches modeled with Gaussian copulas experienced far higher correlated defaults than predicted because the model could not capture the extreme co-movement of defaults in stress scenarios. Alternative copulas such as the Student-t or Clayton copula better capture tail dependence. This flaw became known as the 'formula that killed Wall Street' critique of the Li model."
+      "explanation": "The 1-year forward rate two years from now is derived using: (1 + S3)^3 = (1 + S2)^2 × (1 + f(2,1)). Solving: (1.0455)^3 / (1.0420)^2 − 1 ≈ 5.26%. Under pure expectations theory, forward rates are unbiased predictors of future spot rates, so this implies the market anticipates the 1-year rate will rise to approximately 5.26% in two years. The upward-sloping spot curve is therefore explained entirely by expectations of rising short rates, with no term premium component in this framework."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why hedges rarely achieve perfect offset — and why that gap can be costly.",
+      "title": "Duration Gap and Bank Balance Sheet Risk",
+      "subtitle": "How mismatches between asset and liability duration expose financial institutions to interest rate risk — a lesson renewed by recent banking stress.",
       "paragraphs": [
-        "Basis risk refers to the residual risk that remains after a hedging position is established, arising from imperfect correlation between the hedging instrument and the underlying exposure. The 'basis' is formally defined as the spot price of the asset being hedged minus the futures price of the contract used to hedge. When the two do not move in perfect lockstep — due to differences in asset quality, delivery location, contract maturity, or liquidity — the hedge introduces its own source of uncertainty rather than fully eliminating it.",
-        "A classic real-world example involves an airline hedging jet fuel costs using crude oil futures. Because jet fuel and crude oil prices are related but not identical, basis fluctuations mean the hedge may over- or under-compensate the company for fuel price changes. In 2022, energy basis risk became particularly acute as European gas and power markets diverged sharply from their historical relationships with crude benchmarks following the Russia-Ukraine conflict, leaving many corporate hedgers with large unintended P&L swings despite holding hedges.",
-        "For risk managers, basis risk must be explicitly quantified and monitored rather than treated as negligible. The optimal hedge ratio — derived by regressing changes in spot prices against changes in futures prices — can minimize but not eliminate basis risk. Managers should stress-test hedges under scenarios where historical correlations break down, incorporate basis volatility into VaR calculations, and consider cross-hedging costs when evaluating whether the hedge provides sufficient economic value net of residual risk."
+        "The duration gap is the difference between the weighted-average duration of a bank's assets and the weighted-average duration of its liabilities, adjusted for leverage. A positive duration gap means a bank's assets reprice more slowly than its liabilities, leaving it exposed to rising interest rates. When rates increase, the economic value of long-duration assets falls more sharply than the value of shorter-dated liabilities, eroding net worth. This concept sits at the core of Asset-Liability Management (ALM) and is foundational to both the CFA curriculum and the Basel interest rate risk in the banking book (IRRBB) framework.",
+        "The 2023 collapse of Silicon Valley Bank (SVB) provided a stark real-world illustration. SVB had accumulated a large portfolio of long-duration agency mortgage-backed securities and U.S. Treasuries funded by short-duration, rate-sensitive deposits. As the Federal Reserve raised rates by over 500 basis points in roughly 18 months, the mark-to-market losses on SVB's held-to-maturity portfolio exceeded its tangible equity. When those losses were crystallized during a forced asset sale, depositor confidence evaporated, triggering a classic bank run. The duration gap had been visible in public disclosures for months — a reminder that risk is often hidden in plain sight.",
+        "For investors and risk managers, monitoring duration gaps is essential when evaluating bank equity and credit. A wide positive duration gap is a red flag in a rising-rate environment, suggesting potential NIM compression and capital erosion. Regulators now require enhanced IRRBB stress testing under Basel guidelines, and sophisticated fixed-income investors analyze Economic Value of Equity (EVE) sensitivity disclosures in bank annual reports. Hedging tools such as interest rate swaps — paying fixed, receiving floating — can close the gap, but carry their own basis and counterparty risks."
       ],
       "key_takeaways": [
-        "Basis risk is the unavoidable residual risk in a hedge caused by imperfect correlation between the hedging instrument and the exposure.",
-        "The optimal hedge ratio minimizes variance of the hedged position but must be recalibrated as correlations shift over time.",
-        "Stress periods — geopolitical shocks, liquidity crises — tend to cause basis widening precisely when hedges are most needed, amplifying losses."
+        "Duration gap = asset duration minus liability duration (leverage-adjusted); a large positive gap signals vulnerability to rising rates.",
+        "SVB's failure was a textbook duration mismatch: long-dated assets funded by short-dated, flighty liabilities — amplified by concentrated depositor base.",
+        "Investors should scrutinize EVE sensitivity and IRRBB disclosures in bank filings; hedging via interest rate swaps can mitigate but not eliminate duration gap risk."
       ]
     },
     "japanese": {
@@ -417,33 +377,33 @@
       "reading": "yakusoku",
       "meaning": "promise; appointment; commitment",
       "part_of_speech": "noun",
-      "example_jp": "明日の会議に行くと約束しました。",
-      "example_romaji": "Ashita no kaigi ni iku to yakusoku shimashita.",
-      "example_en": "I promised that I would go to tomorrow's meeting.",
-      "grammar_point": "〜と約束する",
-      "grammar_explanation": "The pattern 〜と約束する is used to express making a promise about something. The particle と here quotes the content of the promise, similar to saying 'I promised that...' in English.",
-      "memory_tip": "Think of 'yaku' as 'lock' and 'soku' as 'socket' — when you make a promise, you lock your word into a socket, making it firm and unbreakable."
+      "example_jp": "友達と明日の三時に会う約束をしました。",
+      "example_romaji": "Tomodachi to ashita no sanji ni au yakusoku wo shimashita.",
+      "example_en": "I made a promise to meet my friend tomorrow at three o'clock.",
+      "grammar_point": "〜をする (noun + をする — to do/make something)",
+      "grammar_explanation": "In Japanese, many action nouns like 約束 (promise) pair with をする to form a verb phrase meaning 'to do/make that action.' This pattern is extremely common — 約束をする means 'to make a promise,' and you'll see it used the same way with words like 電話をする (to make a phone call) or 予約をする (to make a reservation).",
+      "memory_tip": "Break it down: 約 (yaku) sounds like 'yak' — imagine a yak solemnly nodding its head, and 束 (soku/taba) means 'bundle.' A yak bundling up its word = a promise it will keep. Once a yak makes a deal, it never backs down!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Execute Trades Autonomously in Real Markets",
-      "summary": "A growing number of hedge funds and proprietary trading firms are deploying large language model-powered agents that can not only analyze market data but autonomously initiate, size, and exit positions within predefined risk parameters. Unlike earlier algorithmic trading systems with rigid rule sets, these agents can interpret unstructured information — earnings call transcripts, central bank commentary, geopolitical news — and synthesize it into actionable trade decisions in milliseconds. Firms like Millennium Management and Point72 have publicly acknowledged investments in agentic AI infrastructure. The shift raises fundamental questions about market microstructure, model risk governance, and the regulatory treatment of autonomous financial decision-making.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping How Banks Price Risk",
+      "summary": "Major banks and fintech lenders are deploying large-scale machine learning models — including gradient-boosted trees and transformer-based architectures — to replace or augment traditional FICO-based credit scoring. These models ingest thousands of alternative data features, from cash flow patterns and payment timing to device metadata and behavioral signals, enabling more granular probability-of-default estimates at the individual borrower level. Regulators are playing catch-up: the CFPB and OCC have issued guidance requiring explainability standards, pushing institutions toward hybrid models that balance predictive power with adverse-action notice compliance. For credit risk professionals, the implication is clear — the defensible black box is giving way to interpretable AI, and model risk governance is becoming a core competency.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "An AI system capable of pursuing multi-step goals autonomously — in finance, this means an agent that can gather data, form a thesis, size a trade, and manage the position without continuous human input."
+          "term": "Gradient Boosted Trees (GBT)",
+          "definition": "An ensemble machine learning method that builds decision trees sequentially, each correcting errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and nonlinear relationships without extensive feature engineering."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model fetches relevant external documents (earnings filings, macro reports, news) at query time before generating a response, enabling finance AI tools to work with current, proprietary data rather than stale training sets."
+          "term": "Shapley Values (SHAP)",
+          "definition": "A game-theory-based technique for explaining individual model predictions by fairly attributing each feature's contribution to the output — increasingly required by regulators to justify AI-driven credit decisions to consumers and auditors."
         },
         {
-          "term": "Model Risk (AI context)",
-          "definition": "The risk that an AI-driven financial model produces incorrect outputs due to flawed assumptions, data drift, or adversarial inputs — requiring ongoing validation, backtesting, and human oversight under frameworks like SR 11-7."
+          "term": "Model Risk Governance (MRG)",
+          "definition": "The organizational framework — policies, validation processes, and controls — that banks use to manage risks arising from model errors, misuse, or drift; under SR 11-7 guidance, all material models including AI/ML ones require independent validation and ongoing monitoring."
         }
       ],
-      "career_insight": "Risk managers and analysts who understand how to validate, audit, and set guardrails for AI-driven decision systems will be disproportionately valuable over the next five years. The critical skill is not coding AI from scratch but being able to interrogate model outputs, identify failure modes, and translate AI capabilities into defensible risk frameworks that satisfy regulators and senior stakeholders."
+      "career_insight": "Credit risk analysts who can bridge traditional financial statement analysis with machine learning model validation and interpretability tools are among the most sought-after profiles at Tier 1 banks and credit funds right now. Learning Python-based explainability libraries (SHAP, LIME) alongside a solid grounding in SR 11-7 model risk principles positions you at the intersection of two fast-moving disciplines. The career premium isn't just for data scientists — it belongs to those who can translate model outputs into credit decisions that withstand regulatory scrutiny."
     },
     "error": false,
-    "market_sentiment": "Global equity markets are navigating a 'higher-for-longer' recalibration as resilient U.S. labor data continues to push back Fed rate-cut expectations toward late 2025, with the 10-year Treasury yield holding stubbornly above 4.4% and pressuring long-duration assets. Credit spreads remain surprisingly tight despite the rate environment, reflecting strong corporate balance sheets and robust high-yield demand, though the dispersion between investment-grade and CCC-rated names is quietly widening — a dynamic worth monitoring as refinancing walls approach in 2025-2026. In FX, the dollar's strength is re-emerging as a macro headwind for EM sovereigns, particularly those with dollar-denominated debt, while commodity markets are caught between China's uneven demand recovery and OPEC+ supply discipline holding Brent in the $82-88 range."
+    "market_sentiment": "Risk assets enter the session on cautious footing as markets digest a cocktail of resilient U.S. labor data and renewed anxiety over the trajectory of Fed policy, with rates futures pricing only one full cut before year-end — a sharp repricing from the four cuts penciled in at the start of the year. The dollar index (DXY) is consolidating near its 2024 highs, applying continued pressure on EM FX and commodity prices, while front-end Treasury yields remain sticky above 5.0% as the 'higher-for-longer' narrative reasserts itself. Equity volatility is subdued on a headline basis but credit spreads in high-yield have widened modestly, suggesting institutional hedging activity beneath the surface — worth watching as Q2 earnings season approaches with margin guidance in focus."
   }
 }
