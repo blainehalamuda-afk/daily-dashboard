@@ -1,37 +1,37 @@
 {
-  "generated_at": "6:59 PM UTC",
-  "date": "Tuesday, November 10, 2026",
+  "generated_at": "6:57 PM UTC",
+  "date": "Wednesday, November 11, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
     "temp_f": 73,
     "feels_like_f": 72,
-    "high_f": 76,
-    "low_f": 72,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 39,
-    "wind_mph": 6,
+    "high_f": 75,
+    "low_f": 71,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 41,
+    "wind_mph": 3,
     "forecast": [
       {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 40,
-        "low": 40,
-        "description": "Clear Sky"
-      },
-      {
         "day": "Thu",
-        "icon": "☀️",
-        "high": 53,
-        "low": 53,
-        "description": "Clear Sky"
+        "icon": "🌧️",
+        "high": 49,
+        "low": 49,
+        "description": "Light Rain"
       },
       {
         "day": "Fri",
         "icon": "☀️",
         "high": 43,
         "low": 43,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
+        "high": 39,
+        "low": 39,
         "description": "Clear Sky"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 747.89,
-        "change": -4.8,
-        "change_pct": -0.64,
-        "up": false,
+        "price": 762.07,
+        "change": 12.15,
+        "change_pct": 1.62,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 348.13,
-        "change": -2.56,
-        "change_pct": -0.73,
-        "up": false,
+        "price": 354.96,
+        "change": 6.45,
+        "change_pct": 1.85,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 168.04,
-        "change": -10.63,
-        "change_pct": -5.95,
-        "up": false,
+        "price": 177.04,
+        "change": 8.15,
+        "change_pct": 4.83,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 377.27,
-        "change": -0.78,
-        "change_pct": -0.21,
-        "up": false,
+        "price": 394.41,
+        "change": 14.63,
+        "change_pct": 3.85,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 73478,
-        "change": -1197.41,
-        "change_pct": -1.6,
-        "up": false,
+        "price": 74478.01,
+        "change": 924.37,
+        "change_pct": 1.26,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2044.42,
-        "change": -80.96,
-        "change_pct": -3.81,
-        "up": false,
+        "price": 2083.37,
+        "change": 36.0,
+        "change_pct": 1.76,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Trump talked with Fed chief, but there’s no record of it on Warsh’s calendar - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/business/2026/11/09/fed-kevin-warsh-calendar-shows-no-trump-calls-trump-says-they-talked/",
-        "description": "Kevin Warsh’s September calendar didn't reflect a conversation the president said he had with the Federal Reserve chair about how to vote at a meeting.",
-        "published": "4:35 PM UTC",
+        "title": "Gas prices slip below $4 a gallon for first time since July - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-november/",
+        "description": "Petroleum expert Patrick De Haan predicts prices will continue to sink and reach $3.75 a gallon by Thanksgiving.",
+        "published": "4:46 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock Market Today: Dow Jumps 900 Points as Market Rebounds from Last Week’s Sell-Off; Nvidia Shares Plunge as Company Investigates CEO Huang - Investopedia",
-        "source": "Investopedia",
-        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11092026-12244409",
-        "description": "Major stock indexes are surging Monday after posting steep losses last week, while Nvidia shares are sliding following news that raises uncertainty about the chipmaker’s leadership.",
-        "published": "4:34 PM UTC",
+        "title": "Stock Market Today: Dow Opens Lower After Inflation Report — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026",
+        "description": "",
+        "published": "4:05 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
-        "description": "The Japanese automaker said the plant will focus on hybrid vehicles and is expected to begin production in 2029.",
-        "published": "4:10 PM UTC",
+        "title": "Changes are coming to Social Security in January — here’s what Americans should know - New York Post",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/10/lifestyle/what-social-security-recipients-should-know-about-changes-in-january/",
+        "description": "The SSA is set to see two major changes next year.",
+        "published": "3:07 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Review: Unno Horn - 2026 XC Group Test - Pinkbike",
-        "source": "Pinkbike.com",
-        "url": "https://www.pinkbike.com/news/review-unno-horn-2026-xc-group-test.html",
-        "description": "The Unno Horn blends speed and comfort in an intriguing way.",
-        "published": "4:00 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Posting Mario Facts - Kotaku",
-        "source": "Kotaku",
-        "url": "https://kotaku.com/beloved-mario-content-creator-says-his-health-is-failing-but-only-blindness-or-death-will-stop-him-from-posting-mario-facts-2000755083",
-        "description": "'If I should one day stop posting: thank you very much for reading.'",
-        "published": "3:30 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "‘Even if Someone Does Get It Running on PC, That’s Not Going To Be a Good Experience’ – Why AI Cloning Won’t Sink GTA 6’s Launch, but Could Reshape Game Development - IGN",
+        "title": "Achievements Could Be Making Gaming Worse for Everyone - IGN",
         "source": "IGN",
-        "url": "https://www.ign.com/articles/even-if-someone-does-get-it-running-on-pc-thats-not-going-to-be-a-good-experience-why-ai-cloning-wont-sink-gta-6s-launch-but-could-reshape-game-development",
-        "description": "Will AI-made PC ports impact GTA 6's launch? The experts say no, but vibe-coding is here to reshape the games industry as we know it.",
+        "url": "https://www.ign.com/articles/phantom-blade-zero-doesnt-have-an-achievement-for-beating-its-hardest-mode-a-growing-trend-in-the-games-industry-is-to-blame",
+        "description": "There's no achievement for beating Phantom Blade Zero's most difficult mode, and trophy hunters are to blame.",
         "published": "3:30 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Freedom Caucus lays out legislative priorities for lame-duck session - Politico",
-        "source": "Politico",
-        "url": "https://www.politico.com/live-updates/2026/11/09/congress/freedom-caucus-lame-duck-list-01156340",
-        "description": "The conservative group is also pushing GOP leaders to not leave Capitol Hill until the list of demands is met.",
-        "published": "4:10 PM UTC",
+        "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles - The Verge",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+        "description": "Rockstar Games is making GTA VI available on Xbox Cloud Gaming at launch. Xbox One consoles will be able to stream the game.",
+        "published": "2:37 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "iPhone Air 2 and iPhone 18 dummy models leak - GSMArena.com news - GSMArena.com",
+        "source": "GSMArena.com",
+        "url": "https://www.gsmarena.com/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421.php",
+        "description": "The new iPhones are expected to be unveiled next Spring. Apple is expected to launch the standard iPhone 18 and the iPhone Air 2 in spring 2027. While...",
+        "published": "2:16 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+        "description": "The Ukrainians meet separately with European, NATO and EU representatives and US envoys.",
+        "published": "2:52 PM UTC",
         "category": "General"
       },
       {
-        "title": "Nvidia's stock slides as questions swirl around Jensen Huang's future as CEO - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
-        "description": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
-        "published": "3:42 PM UTC",
+        "title": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/technology/2026/11/10/nvidia-ceo-jensen-huang-affair-could-be-problem-us-economy/",
+        "description": "Jensen Huang and his company, Nvidia, have propelled the AI boom that has lifted the stock market. He has no obvious successor.",
+        "published": "2:34 PM UTC",
         "category": "General"
       }
     ]
@@ -251,19 +251,18 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Revive Interest in Bundesliga Midfielder Ahead of January Window",
-        "summary": "Manchester United's new sporting structure under INEOS is reportedly tracking Bayer Leverkusen's Granit Xhaka as a potential January addition, seeking a defensive midfield anchor to stabilize a leaky central third. Leverkusen are reluctant to sell a key figure in their title-winning system, but United's financial muscle could test their resolve.",
+        "headline": "Manchester United Target Sporting CP Midfielder Viktor Gyökeres in Ambitious Summer Move",
+        "summary": "Manchester United are reportedly among a cluster of elite clubs monitoring Viktor Gyökeres, whose prolific form for Sporting CP has attracted widespread interest. United's recruitment team is said to have scouted the Swedish striker multiple times this season, though Sporting's €100 million release clause remains a significant barrier.",
         "clubs": [
           "Manchester United",
-          "Bayer Leverkusen"
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Tottenham Hotspur Identify Brazilian Winger as Priority Summer Target",
-        "summary": "Spurs are understood to have submitted a formal expression of interest in Cruzeiro's 21-year-old winger Kaio Jorge, with Ange Postecoglou keen to add direct, high-energy wide options ahead of a rebuild. The player's representatives have already held preliminary talks with Tottenham's recruitment team in London.",
+        "headline": "Chelsea in Advanced Talks to Extend Reece James Contract Amid Injury Comeback",
+        "summary": "Chelsea are pushing to tie down Reece James on a long-term extension as the England right-back nears full fitness following a lengthy injury layoff. The club views James as a cornerstone of their defensive structure under Enzo Maresca and are keen to secure his future before rival interest intensifies in the summer window.",
         "clubs": [
-          "Tottenham Hotspur",
-          "Cruzeiro"
+          "Chelsea"
         ]
       }
     ],
@@ -271,7 +270,7 @@
       "home": "Arsenal",
       "away": "Manchester City",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The title race's most compelling fixture pits an Arsenal side in relentless home form against a Manchester City team rebuilding cohesion under Pep Guardiola following a mid-season squad refresh. Arsenal will look to press high and exploit City's slightly unsettled defensive shape, while City's rotational possession game will seek to drag the Gunners out of their structure and create space for Erling Haaland in behind. With both clubs separated by just two points at the top of the table, dropped points here could prove decisive in the final stretch of the season.",
+      "preview": "This top-of-the-table clash at the Emirates carries enormous title implications, with Arsenal knowing a home win could open a five-point gap over City heading into the final stretch of the season. Arsenal have been formidable at home all season, with Arteta's high press system particularly effective against possession-heavy opponents, though City's experience in must-win environments under Guardiola makes them perennial threats regardless of form. The tactical battle between Arteta's aggressive press and Guardiola's positional play is expected to make this one of the most compelling fixtures of the Premier League calendar.",
       "key_players": [
         "Bukayo Saka",
         "Erling Haaland",
@@ -280,45 +279,45 @@
     },
     "injury_news": [
       {
-        "player": "Rodri",
+        "player": "Kevin De Bruyne",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected late February at the earliest following knee surgery"
+        "status": "Doubtful",
+        "return": "Being assessed ahead of weekend; 50/50 for Sunday's match"
       },
       {
-        "player": "Ben White",
+        "player": "Gabriel Jesus",
         "team": "Arsenal",
-        "status": "Doubtful",
-        "return": "Available for late January fixtures pending final fitness assessment"
+        "status": "Recovering",
+        "return": "Expected back in training within two weeks; likely unavailable for Sunday"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
+      "exam": "FRM Part 2",
       "topic": "Credit Risk",
-      "question": "A bank estimates the following for a corporate loan portfolio: Probability of Default (PD) = 2.5%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $80 million. The bank also estimates the asset correlation parameter as 0.18. Under the Basel II Internal Ratings-Based (IRB) approach, which of the following statements best describes the role of asset correlation in calculating regulatory capital?",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using the KMV-Merton structural credit model. The firm's asset value is $500 million, asset volatility is 25%, the default point is $300 million, and the time horizon is one year. The risk-free rate is 4%. Which of the following statements best describes the Distance to Default (DD) and its primary limitation in practice?",
       "options": {
-        "A": "Asset correlation has no effect on regulatory capital; only PD, LGD, and EAD determine the capital requirement.",
-        "B": "Higher asset correlation increases the conditional probability of default used in the IRB formula, thereby increasing the required regulatory capital.",
-        "C": "Higher asset correlation reduces the unexpected loss because diversification benefits increase with correlation.",
-        "D": "Asset correlation in the IRB model measures the correlation between the borrower's equity returns and the risk-free rate."
+        "A": "DD measures the number of standard deviations the asset value is from the default point; its primary limitation is that it assumes asset values follow a lognormal distribution, which may underestimate tail risk.",
+        "B": "DD is calculated as the ratio of asset value to debt face value; its primary limitation is that it ignores the risk-free rate in pricing.",
+        "C": "DD measures the probability of default directly using historical default frequencies; its limitation is reliance on subjective management forecasts.",
+        "D": "DD is equivalent to the credit spread divided by asset volatility; its limitation is that credit spreads are not observable for private firms."
       },
-      "correct": "B",
-      "explanation": "In the Basel II IRB framework, asset correlation captures how much a borrower's asset value co-moves with the systematic risk factor (the market). A higher asset correlation means that a borrower's default risk is more sensitive to macroeconomic conditions, which increases the conditional PD (the PD in a stressed scenario) used to calculate unexpected loss and thus regulatory capital. The IRB formula uses asset correlation to 'stress' the PD, so portfolios with higher correlation require more capital to cover tail losses. Option C is incorrect because higher correlation reduces — not increases — diversification benefits, thereby increasing unexpected loss."
+      "correct": "A",
+      "explanation": "In the KMV-Merton framework, Distance to Default is calculated as (ln(V/K) + (μ - σ²/2)T) / (σ√T), representing how many standard deviations the log asset value is above the default point — intuitively, the 'buffer' before insolvency. The model's key limitation is the lognormal asset-value assumption, which produces thin tails and therefore underestimates the probability of extreme loss events relative to empirical default experience. In practice, KMV maps DD to Expected Default Frequencies (EDFs) using historical data to partially correct for this. Option B confuses DD with a leverage ratio, while C and D mischaracterize the model's mechanics entirely."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies",
-      "subtitle": "Understanding why hedges are rarely perfect and how residual risk can erode a risk manager's best-laid plans.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Why an imperfect hedge can sometimes create more risk than it eliminates.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep. The 'basis' is defined as the spot price of the asset minus the futures price of the hedging instrument. Because futures contracts are standardized and may reference a slightly different underlying, delivery location, or maturity than the exposure being managed, a perfect hedge is the exception rather than the rule. Even in deep and liquid markets, the basis fluctuates over time and converges to zero only at the futures expiration date — a process known as basis convergence.",
-        "A classic real-world example occurred in the energy markets during the 2021 Texas winter storm. Utilities that hedged natural gas price exposure using Henry Hub futures found that local spot prices in West Texas Intermediate delivery points diverged dramatically from Henry Hub prices due to supply disruptions and pipeline constraints. The basis exploded, meaning firms with theoretically hedged positions suffered enormous losses on their physical exposure that the futures hedge failed to offset. Similarly, airlines hedging jet fuel costs with crude oil futures always carry basis risk because the refining spread between crude and jet fuel is itself volatile.",
-        "For risk managers and portfolio hedgers, basis risk demands careful instrument selection and ongoing monitoring. A hedge ratio calculated today may become inefficient as the basis evolves, requiring dynamic rebalancing. Risk managers should quantify basis risk separately from outright price risk, incorporate it into Value-at-Risk models, and stress-test hedge effectiveness under scenarios where the basis widens dramatically. Hedge accounting under IFRS 9 and ASC 815 also requires firms to demonstrate ongoing hedge effectiveness, making basis risk management a both an economic and financial reporting imperative."
+        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, leaving a residual, unhedged exposure. Formally, the basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedge is carefully constructed, differences in underlying asset quality, geography, maturity, or liquidity can cause the basis to fluctuate unpredictably, meaning the hedge will not fully offset gains or losses in the underlying position.",
+        "A classic real-world example occurred during the 2008 financial crisis, when airlines that had hedged jet fuel exposure using crude oil futures discovered that the crack spread — the difference between crude oil and refined jet fuel prices — widened dramatically. The crude oil futures fell as expected, but jet fuel prices fell by a different magnitude, leaving carriers with significant unhedged losses. Similarly, fixed-income portfolio managers who hedge interest rate risk using Treasury futures face basis risk if their portfolio contains corporate bonds, since credit spreads can widen independently of risk-free rates.",
+        "For risk managers, understanding and quantifying basis risk is as important as constructing the hedge itself. The hedge ratio should be calibrated using the correlation and relative volatility between the spot and futures positions — typically expressed as h* = ρ(σS/σF). Managers must also monitor basis convergence as futures approach expiration and consider 'rolling' hedges carefully, since the roll itself introduces additional basis exposure. Stress testing hedged portfolios under scenarios where historical correlations break down is now considered a regulatory and best-practice requirement."
       ],
       "key_takeaways": [
-        "Basis risk is the residual uncertainty remaining after a hedge is put in place, driven by differences between the hedged item and the hedging instrument.",
-        "Basis risk can be more dangerous than unhedged price risk in extreme scenarios — as seen in energy and commodity markets during supply disruptions — because it is often underestimated.",
-        "Effective risk management requires selecting the most closely correlated hedging instrument, regularly recalculating hedge ratios, and stress-testing the basis under adverse conditions."
+        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedged asset and the hedging instrument.",
+        "Real-world basis risk events, such as crack spread widening or credit spread divergence, can turn a seemingly sound hedge into a source of unexpected loss.",
+        "The optimal hedge ratio accounts for correlation and relative volatility, and must be revisited regularly as market conditions and instrument dynamics evolve."
       ]
     },
     "japanese": {
@@ -327,32 +326,32 @@
       "meaning": "savings; money saved in a bank",
       "part_of_speech": "noun",
       "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maituki, kyuuryou no ichibu wo chokin shite imasu.",
+      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
       "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜しています",
-      "grammar_explanation": "The pattern 〜しています (shite imasu) is used to express an ongoing action or a habitual routine. It combines the te-form of a verb with います (imasu), indicating that something is currently happening or is done regularly.",
-      "memory_tip": "Think of 'chokin' as 'choking' your spending — you hold back money and put it in savings instead of spending it freely."
+      "grammar_point": "〜ています (ongoing action/habit)",
+      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) is used to express either an action currently in progress or a habitual/repeated action. In this sentence, 'chokin shite imasu' means saving is a regular, ongoing habit — not just a one-time event.",
+      "memory_tip": "Think of 'chokin' as 'choking coins into a piggy bank' — you're squeezing your money away safely every month. The 'cho' sounds like 'store' and 'kin' (金) literally means money/gold in Japanese."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Rewriting Risk Assessment Standards",
-      "summary": "Major banks and fintech lenders are deploying large language models and gradient boosting ensembles to assess creditworthiness using alternative data sources — including cash flow patterns, supply chain relationships, and even satellite imagery of retail parking lots. These models are outperforming traditional FICO-based underwriting in predicting 90-day default rates for small business loans, according to recent industry studies. Regulators at the OCC and CFPB are now scrambling to develop explainability standards, as black-box AI decisions raise fair lending compliance concerns under ECOA. The race between model performance and regulatory explainability is shaping the next decade of consumer and commercial credit markets.",
+      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams and Hiring Pipelines",
+      "summary": "Major banks and alternative lenders are accelerating deployment of large language models and gradient boosting algorithms to automate credit underwriting, reducing decision times from days to seconds for SME lending. Institutions like JPMorgan and HSBC have begun integrating LLM-based document parsing into their KYC and credit memo workflows, cutting analyst hours on routine due diligence by an estimated 30-40%. Regulators in the EU and US are simultaneously developing explainability requirements — often called 'model cards' or 'algorithmic impact assessments' — that will require firms to document and justify AI-driven credit decisions. This creates a dual demand for professionals who understand both the ML models and the regulatory frameworks governing their use.",
       "concepts": [
         {
           "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the previous one. In credit risk, it excels at capturing non-linear relationships between borrower characteristics and default probability — often beating logistic regression without requiring manual feature engineering."
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and non-linear relationships without heavy preprocessing."
         },
         {
-          "term": "SHAP Values (Explainability)",
-          "definition": "SHapley Additive exPlanations — a technique borrowed from game theory that assigns each input feature a contribution score for a specific model prediction. In lending, SHAP values allow risk teams to explain why a model denied a loan application, satisfying regulatory requirements for adverse action notices."
+          "term": "Explainability (SHAP Values)",
+          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input variable contributed to a specific model prediction, allowing risk managers and regulators to understand why an AI model approved or rejected a credit application — critical for fair lending compliance."
         },
         {
-          "term": "Alternative Data",
-          "definition": "Non-traditional data sources — such as rent payment history, utility bills, e-commerce transaction patterns, and geospatial data — used to build credit profiles for 'thin-file' borrowers who lack traditional credit histories. AI models are needed to extract signal from these high-dimensional, unstructured inputs."
+          "term": "LLM Document Parsing",
+          "definition": "Using large language models to extract structured financial data — revenue figures, covenant terms, risk factors — from unstructured documents like annual reports or loan agreements, dramatically reducing the manual workload for credit analysts."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who understand both the statistical mechanics of machine learning models and the regulatory constraints around fair lending will be in exceptional demand over the next five years. Firms are not replacing underwriters with AI — they are elevating underwriters who can interrogate model outputs, challenge assumptions, and translate algorithmic decisions into defensible business logic. Building fluency in Python, SHAP explainability tools, and regulatory frameworks like SR 11-7 (model risk management) is now a baseline expectation for senior credit risk roles at top-tier institutions."
+      "career_insight": "Risk and credit professionals who can bridge quantitative modeling and regulatory compliance are becoming the most sought-after talent in banking. The ability to validate, challenge, and interpret AI credit models — not just build them — is now a core competency expected at the VP and Director level. Candidates who combine FRM/CFA credentials with working knowledge of Python, model risk management (SR 11-7 guidance), and AI explainability frameworks will command significant hiring premiums through 2026."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a complex crosscurrent this week as markets reprice the Federal Reserve's rate path following a stronger-than-expected ISM services print, pushing 2-year Treasury yields back toward the 4.80% threshold and flattening the front end of the curve. Equity markets are showing selective resilience — megacap tech continues to benefit from AI capex tailwinds while regional banks and rate-sensitive REITs face renewed pressure. In FX, the dollar is firming modestly against EM currencies as carry trades unwind on the margin, and crude oil is holding above $82/bbl on OPEC+ supply discipline, keeping the inflation narrative alive and complicating the Fed's communication strategy into the next FOMC meeting."
+    "market_sentiment": "Global risk appetite is cautiously constructive this morning as US core PCE data prints in line with expectations, reinforcing the Federal Reserve's 'higher for longer' pause narrative rather than triggering fresh rate-hike fears. The front end of the Treasury curve has stabilized, with 2-year yields consolidating around 4.85%, while credit spreads in investment-grade remain tight, suggesting institutional buyers are comfortable with carry despite elevated duration risk. In equities, the market is closely watching Nvidia's supply chain commentary and China PMI prints for signals on whether the AI-driven capex cycle is broadening or concentrating — the answer will likely set the tone for tech and semiconductors through end of quarter."
   }
 }
