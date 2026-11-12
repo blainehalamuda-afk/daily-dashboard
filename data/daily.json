@@ -1,37 +1,37 @@
 {
-  "generated_at": "6:57 PM UTC",
-  "date": "Wednesday, November 11, 2026",
+  "generated_at": "7:16 PM UTC",
+  "date": "Thursday, November 12, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 73,
-    "feels_like_f": 72,
-    "high_f": 75,
-    "low_f": 71,
+    "temp_f": 69,
+    "feels_like_f": 67,
+    "high_f": 70,
+    "low_f": 66,
     "description": "Scattered Clouds",
     "icon": "⛅",
-    "humidity": 41,
-    "wind_mph": 3,
+    "humidity": 46,
+    "wind_mph": 13,
     "forecast": [
-      {
-        "day": "Thu",
-        "icon": "🌧️",
-        "high": 49,
-        "low": 49,
-        "description": "Light Rain"
-      },
       {
         "day": "Fri",
         "icon": "☀️",
-        "high": 43,
-        "low": 43,
+        "high": 40,
+        "low": 40,
         "description": "Clear Sky"
       },
       {
         "day": "Sat",
         "icon": "☀️",
-        "high": 39,
-        "low": 39,
+        "high": 38,
+        "low": 38,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Sun",
+        "icon": "☀️",
+        "high": 33,
+        "low": 33,
         "description": "Clear Sky"
       }
     ]
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 762.07,
-        "change": 12.15,
-        "change_pct": 1.62,
-        "up": true,
+        "price": 759.08,
+        "change": -0.73,
+        "change_pct": -0.1,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 354.96,
-        "change": 6.45,
-        "change_pct": 1.85,
+        "price": 355.97,
+        "change": 0.34,
+        "change_pct": 0.1,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 177.04,
-        "change": 8.15,
-        "change_pct": 4.83,
-        "up": true,
+        "price": 164.59,
+        "change": -9.14,
+        "change_pct": -5.26,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 394.41,
-        "change": 14.63,
-        "change_pct": 3.85,
-        "up": true,
+        "price": 390.43,
+        "change": -0.41,
+        "change_pct": -0.1,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 74478.01,
-        "change": 924.37,
-        "change_pct": 1.26,
-        "up": true,
+        "price": 71650,
+        "change": -2563.99,
+        "change_pct": -3.45,
+        "up": false,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2083.37,
-        "change": 36.0,
-        "change_pct": 1.76,
-        "up": true,
+        "price": 2014.6,
+        "change": -58.33,
+        "change_pct": -2.81,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "Gas prices slip below $4 a gallon for first time since July - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-november/",
-        "description": "Petroleum expert Patrick De Haan predicts prices will continue to sink and reach $3.75 a gallon by Thanksgiving.",
-        "published": "4:46 PM UTC",
+        "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019 - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+        "description": "American Airlines' first class food options include sandwiches, fruit and chia bowls",
+        "published": "5:34 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock Market Today: Dow Opens Lower After Inflation Report — Live Updates - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026",
-        "description": "",
-        "published": "4:05 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Changes are coming to Social Security in January — here’s what Americans should know - New York Post",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/11/10/lifestyle/what-social-security-recipients-should-know-about-changes-in-january/",
-        "description": "The SSA is set to see two major changes next year.",
-        "published": "3:07 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Achievements Could Be Making Gaming Worse for Everyone - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/phantom-blade-zero-doesnt-have-an-achievement-for-beating-its-hardest-mode-a-growing-trend-in-the-games-industry-is-to-blame",
-        "description": "There's no achievement for beating Phantom Blade Zero's most difficult mode, and trophy hunters are to blame.",
-        "published": "3:30 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles - The Verge",
+        "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck - The Verge",
         "source": "The Verge",
-        "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-        "description": "Rockstar Games is making GTA VI available on Xbox Cloud Gaming at launch. Xbox One consoles will be able to stream the game.",
-        "published": "2:37 PM UTC",
+        "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+        "description": "Toyota is bringing back Scion to build the KEI-01, an Indiana-assembled, 4WD mini-truck capped at 25 mph for U.S. commercial fleets and campuses.",
+        "published": "5:09 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "US Equity Futures Rise as AI Enthusiasm Counters Hot Inflation - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
+        "description": "",
+        "published": "4:38 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning. - Ars Technica",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+        "description": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+        "published": "5:37 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "iPhone Air 2 and iPhone 18 dummy models leak - GSMArena.com news - GSMArena.com",
-        "source": "GSMArena.com",
-        "url": "https://www.gsmarena.com/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421.php",
-        "description": "The new iPhones are expected to be unveiled next Spring. Apple is expected to launch the standard iPhone 18 and the iPhone Air 2 in spring 2027. While...",
-        "published": "2:16 PM UTC",
+        "title": "Apple is shuttering its 28-year-old online community forum - Ars Technica",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+        "description": "Apple has already made the forum read-only.",
+        "published": "5:04 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Russia, Ukraine and US officials hold talks in Abu Dhabi - Al Jazeera",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
-        "description": "The Ukrainians meet separately with European, NATO and EU representatives and US envoys.",
-        "published": "2:52 PM UTC",
+        "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
+        "description": "Hunger, the ambitious, alternate history Napoleonic-era extraction shooter-melee hybrid, enters Steam early access this December.",
+        "published": "3:41 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "SS United States live updates: How to watch intentional sinking of historic vessel off Florida coast - 6abc Philadelphia",
+        "source": "WPVI-TV",
+        "url": "https://6abc.com/live-updates/ss-united-states-live-stream-historic-vessel-sunk-become-worlds-largest-artificial-reef-off-florida-coast/20033077/",
+        "description": "SINKING AN ICON: The SS United States will embark on its final voyage Wednesday as the historic ocean liner heads to its final home on the floor of the Gulf, off Florida's Panhandle coast.",
+        "published": "6:36 PM UTC",
         "category": "General"
       },
       {
-        "title": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy - The Washington Post",
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/11/10/nvidia-ceo-jensen-huang-affair-could-be-problem-us-economy/",
-        "description": "Jensen Huang and his company, Nvidia, have propelled the AI boom that has lifted the stock market. He has no obvious successor.",
-        "published": "2:34 PM UTC",
+        "title": "Coachella 2027 lineup to feature SZA, Dua Lipa and Tame Impala as headliners - CBS News",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/losangeles/news/coachella-2027-lineup-sza-dua-lipa-tame-impala-madonna/",
+        "description": "Other big-name artists like Zara Larsson, Don Toliver, Becky G and Kehlani will also be taking the stage at Coachella.",
+        "published": "5:39 PM UTC",
         "category": "General"
       }
     ]
@@ -251,26 +251,27 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Target Sporting CP Midfielder Viktor Gyökeres in Ambitious Summer Move",
-        "summary": "Manchester United are reportedly among a cluster of elite clubs monitoring Viktor Gyökeres, whose prolific form for Sporting CP has attracted widespread interest. United's recruitment team is said to have scouted the Swedish striker multiple times this season, though Sporting's €100 million release clause remains a significant barrier.",
+        "headline": "Manchester United Revive Interest in Bundesliga Midfielder Ahead of Summer Window",
+        "summary": "United's sporting director is reportedly monitoring Florian Wirtz as a marquee creative midfielder signing, though Bayer Leverkusen's asking price north of £100 million remains a significant hurdle. Talks are described as exploratory at this stage with no formal bid submitted.",
         "clubs": [
           "Manchester United",
-          "Sporting CP"
+          "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Reece James Contract Amid Injury Comeback",
-        "summary": "Chelsea are pushing to tie down Reece James on a long-term extension as the England right-back nears full fitness following a lengthy injury layoff. The club views James as a cornerstone of their defensive structure under Enzo Maresca and are keen to secure his future before rival interest intensifies in the summer window.",
+        "headline": "Chelsea in Advanced Talks to Extend Loan Deal for Victor Osimhen",
+        "summary": "Chelsea are understood to be pushing for a permanent transfer structure for Osimhen following an impressive loan spell, with Napoli seeking a fee in the region of £70 million. The Nigerian striker has been pivotal in Chelsea's top-four push and is keen on a permanent move to Stamford Bridge.",
         "clubs": [
-          "Chelsea"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
       "home": "Arsenal",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "This top-of-the-table clash at the Emirates carries enormous title implications, with Arsenal knowing a home win could open a five-point gap over City heading into the final stretch of the season. Arsenal have been formidable at home all season, with Arteta's high press system particularly effective against possession-heavy opponents, though City's experience in must-win environments under Guardiola makes them perennial threats regardless of form. The tactical battle between Arteta's aggressive press and Guardiola's positional play is expected to make this one of the most compelling fixtures of the Premier League calendar.",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "This fixture arrives as the definitive six-pointer of the Premier League season, with Arsenal sitting two points clear at the top and City knowing defeat would likely extinguish their title hopes. Arsenal have been defensively resolute at the Emirates this season, conceding just four goals at home in the league, while City's Erling Haaland has rediscovered his most lethal form with five goals in his last four matches. The tactical battle between Arteta's high press and Guardiola's positional rotations promises to be the defining chess match of the English football calendar.",
       "key_players": [
         "Bukayo Saka",
         "Erling Haaland",
@@ -279,45 +280,45 @@
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of weekend; 50/50 for Sunday's match"
+        "status": "Recovering",
+        "return": "Available for squad selection; fitness assessed day of match"
       },
       {
-        "player": "Gabriel Jesus",
+        "player": "Ben White",
         "team": "Arsenal",
-        "status": "Recovering",
-        "return": "Expected back in training within two weeks; likely unavailable for Sunday"
+        "status": "Doubtful",
+        "return": "Late fitness test expected Saturday; could miss the City clash"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 2",
-      "topic": "Credit Risk",
-      "question": "A risk manager is evaluating a portfolio of corporate bonds using the KMV-Merton structural credit model. The firm's asset value is $500 million, asset volatility is 25%, the default point is $300 million, and the time horizon is one year. The risk-free rate is 4%. Which of the following statements best describes the Distance to Default (DD) and its primary limitation in practice?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a yield-to-maturity of 8% is trading at a discount. If the YTM immediately falls to 6%, which of the following best describes the price change relative to a bond with identical characteristics but only 5 years to maturity?",
       "options": {
-        "A": "DD measures the number of standard deviations the asset value is from the default point; its primary limitation is that it assumes asset values follow a lognormal distribution, which may underestimate tail risk.",
-        "B": "DD is calculated as the ratio of asset value to debt face value; its primary limitation is that it ignores the risk-free rate in pricing.",
-        "C": "DD measures the probability of default directly using historical default frequencies; its limitation is reliance on subjective management forecasts.",
-        "D": "DD is equivalent to the credit spread divided by asset volatility; its limitation is that credit spreads are not observable for private firms."
+        "A": "The 10-year bond will experience a smaller price increase due to greater reinvestment risk.",
+        "B": "The 10-year bond will experience a larger price increase due to greater duration.",
+        "C": "Both bonds will experience the same price increase because the coupon rate equals the new YTM.",
+        "D": "The 5-year bond will experience a larger price increase because it has lower credit risk."
       },
-      "correct": "A",
-      "explanation": "In the KMV-Merton framework, Distance to Default is calculated as (ln(V/K) + (μ - σ²/2)T) / (σ√T), representing how many standard deviations the log asset value is above the default point — intuitively, the 'buffer' before insolvency. The model's key limitation is the lognormal asset-value assumption, which produces thin tails and therefore underestimates the probability of extreme loss events relative to empirical default experience. In practice, KMV maps DD to Expected Default Frequencies (EDFs) using historical data to partially correct for this. Option B confuses DD with a leverage ratio, while C and D mischaracterize the model's mechanics entirely."
+      "correct": "B",
+      "explanation": "Duration measures a bond's sensitivity to interest rate changes, and longer-maturity bonds have higher duration, all else equal. When YTM falls from 8% to 6%, the 10-year bond's price will rise more than the 5-year bond's because its cash flows are discounted over a longer period, amplifying the present value effect. Reinvestment risk affects total return over time but does not directly determine the immediate price change. Credit risk is not a differentiating factor here since both bonds are described as identical except for maturity."
     },
     "finance_topic": {
-      "title": "Basis Risk in Hedging Strategies Explained",
-      "subtitle": "Why an imperfect hedge can sometimes create more risk than it eliminates.",
+      "title": "Duration Gap and Bank Balance Sheet Risk",
+      "subtitle": "How mismatches between asset and liability durations expose banks to devastating interest rate risk.",
       "paragraphs": [
-        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, leaving a residual, unhedged exposure. Formally, the basis is defined as the spot price of the asset minus the futures price of the hedging contract. Even when a hedge is carefully constructed, differences in underlying asset quality, geography, maturity, or liquidity can cause the basis to fluctuate unpredictably, meaning the hedge will not fully offset gains or losses in the underlying position.",
-        "A classic real-world example occurred during the 2008 financial crisis, when airlines that had hedged jet fuel exposure using crude oil futures discovered that the crack spread — the difference between crude oil and refined jet fuel prices — widened dramatically. The crude oil futures fell as expected, but jet fuel prices fell by a different magnitude, leaving carriers with significant unhedged losses. Similarly, fixed-income portfolio managers who hedge interest rate risk using Treasury futures face basis risk if their portfolio contains corporate bonds, since credit spreads can widen independently of risk-free rates.",
-        "For risk managers, understanding and quantifying basis risk is as important as constructing the hedge itself. The hedge ratio should be calibrated using the correlation and relative volatility between the spot and futures positions — typically expressed as h* = ρ(σS/σF). Managers must also monitor basis convergence as futures approach expiration and consider 'rolling' hedges carefully, since the roll itself introduces additional basis exposure. Stress testing hedged portfolios under scenarios where historical correlations break down is now considered a regulatory and best-practice requirement."
+        "Duration gap is a measure of interest rate risk specific to financial institutions, calculated as the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for leverage. A positive duration gap means assets are more rate-sensitive than liabilities, so rising interest rates will compress the economic value of equity. This concept sits at the heart of asset-liability management (ALM) and is a core responsibility of bank treasuries worldwide.",
+        "The collapse of Silicon Valley Bank in March 2023 made duration gap risk viscerally real for markets. SVB had accumulated a large portfolio of long-duration U.S. Treasuries and agency mortgage-backed securities funded by short-term, rate-sensitive deposits. As the Federal Reserve aggressively raised rates, the market value of SVB's asset portfolio fell sharply while deposit outflows accelerated — a textbook duration gap blowup. The bank's unrealized losses exceeded its equity capital, triggering a run that regulators could not contain.",
+        "For investors and risk managers, duration gap analysis is not merely a regulatory checkbox. It signals whether a bank's net interest margin will expand or contract in a rate cycle, and whether economic value of equity is being quietly eroded. Investors should scrutinize AOCI (Accumulated Other Comprehensive Income) disclosures in bank financials, as unrealized losses on held-for-sale securities flow through equity. Risk managers must stress-test duration gaps across parallel shifts, steepening, and flattening yield curve scenarios to avoid SVB-style surprises."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after hedging, caused by imperfect correlation between the hedged asset and the hedging instrument.",
-        "Real-world basis risk events, such as crack spread widening or credit spread divergence, can turn a seemingly sound hedge into a source of unexpected loss.",
-        "The optimal hedge ratio accounts for correlation and relative volatility, and must be revisited regularly as market conditions and instrument dynamics evolve."
+        "Duration gap = weighted duration of assets minus leverage-adjusted duration of liabilities; a positive gap means rising rates hurt equity value.",
+        "SVB's 2023 failure was a real-world case study in unhedged duration gap risk magnified by concentrated, rate-sensitive depositors.",
+        "Investors should monitor AOCI and held-to-maturity portfolio disclosures in bank earnings as leading indicators of hidden interest rate exposure."
       ]
     },
     "japanese": {
@@ -329,29 +330,29 @@
       "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
       "example_en": "Every month, I save a portion of my salary.",
       "grammar_point": "〜ています (ongoing action/habit)",
-      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) is used to express either an action currently in progress or a habitual/repeated action. In this sentence, 'chokin shite imasu' means saving is a regular, ongoing habit — not just a one-time event.",
-      "memory_tip": "Think of 'chokin' as 'choking coins into a piggy bank' — you're squeezing your money away safely every month. The 'cho' sounds like 'store' and 'kin' (金) literally means money/gold in Japanese."
+      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses a continuous action or habitual behavior. Here, 貯金しています means 'I am (habitually) saving money,' describing a regular practice rather than a one-time event.",
+      "memory_tip": "Think of 'chokin' as 'cho-keen' — you are keenly (keen) stashing away your 'cho' (dough/money). Picture a piggy bank with a big keen smile every time a coin drops in."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Reshaping Risk Teams and Hiring Pipelines",
-      "summary": "Major banks and alternative lenders are accelerating deployment of large language models and gradient boosting algorithms to automate credit underwriting, reducing decision times from days to seconds for SME lending. Institutions like JPMorgan and HSBC have begun integrating LLM-based document parsing into their KYC and credit memo workflows, cutting analyst hours on routine due diligence by an estimated 30-40%. Regulators in the EU and US are simultaneously developing explainability requirements — often called 'model cards' or 'algorithmic impact assessments' — that will require firms to document and justify AI-driven credit decisions. This creates a dual demand for professionals who understand both the ML models and the regulatory frameworks governing their use.",
+      "headline": "AI Agents Are Beginning to Execute Real Financial Workflows Autonomously",
+      "summary": "A new generation of agentic AI systems — built on large language models with tool-use capabilities — is moving beyond analysis to actually executing multi-step financial workflows: pulling live data, running scenario models, drafting investment memos, and flagging compliance exceptions with minimal human intervention. Firms including JPMorgan, Bloomberg, and a cohort of well-funded fintech startups are deploying these systems in credit underwriting, earnings analysis, and trade surveillance. Unlike copilot-style tools that merely assist, agents can chain together dozens of reasoning steps and API calls, completing tasks that previously required a junior analyst several hours. The productivity implications are profound, but so are the model risk and auditability challenges these systems introduce.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last — widely used in credit scoring because it handles mixed data types, missing values, and non-linear relationships without heavy preprocessing."
+          "term": "Agentic AI",
+          "definition": "An AI system that can autonomously plan, take sequential actions, use external tools (web search, databases, code execution), and complete multi-step tasks toward a defined goal — going beyond generating text to actually doing work."
         },
         {
-          "term": "Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) values quantify how much each input variable contributed to a specific model prediction, allowing risk managers and regulators to understand why an AI model approved or rejected a credit application — critical for fair lending compliance."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model retrieves relevant, up-to-date documents or data (e.g., earnings filings, market data) before generating a response, reducing hallucinations and grounding outputs in verifiable sources — critical for financial accuracy."
         },
         {
-          "term": "LLM Document Parsing",
-          "definition": "Using large language models to extract structured financial data — revenue figures, covenant terms, risk factors — from unstructured documents like annual reports or loan agreements, dramatically reducing the manual workload for credit analysts."
+          "term": "Model Risk (AI context)",
+          "definition": "The risk that an AI model produces incorrect, biased, or non-auditable outputs that drive flawed financial decisions — now a formal regulatory concern as supervisors like the Fed and OCC extend model risk management frameworks to cover LLM-based systems."
         }
       ],
-      "career_insight": "Risk and credit professionals who can bridge quantitative modeling and regulatory compliance are becoming the most sought-after talent in banking. The ability to validate, challenge, and interpret AI credit models — not just build them — is now a core competency expected at the VP and Director level. Candidates who combine FRM/CFA credentials with working knowledge of Python, model risk management (SR 11-7 guidance), and AI explainability frameworks will command significant hiring premiums through 2026."
+      "career_insight": "Finance professionals who can design, evaluate, and govern agentic AI workflows — not just use them — will command a significant premium in the next hiring cycle. The most valued skill combination is financial domain expertise paired with prompt engineering, model risk assessment, and an understanding of when AI outputs require human override. Roles in ALM, credit risk, and investment research are being restructured around AI augmentation, meaning analysts who resist upskilling risk being outpaced by smaller teams equipped with better tools."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite is cautiously constructive this morning as US core PCE data prints in line with expectations, reinforcing the Federal Reserve's 'higher for longer' pause narrative rather than triggering fresh rate-hike fears. The front end of the Treasury curve has stabilized, with 2-year yields consolidating around 4.85%, while credit spreads in investment-grade remain tight, suggesting institutional buyers are comfortable with carry despite elevated duration risk. In equities, the market is closely watching Nvidia's supply chain commentary and China PMI prints for signals on whether the AI-driven capex cycle is broadening or concentrating — the answer will likely set the tone for tech and semiconductors through end of quarter."
+    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a resilient U.S. labor market print against a backdrop of moderating core CPI, keeping Fed cut expectations anchored to two 25bp reductions by year-end. Treasury yields have stabilized in the 4.30–4.50% range on the 10-year, providing some relief to rate-sensitive equity sectors including utilities and REITs, while the dollar has softened modestly — a tailwind for EM assets and multinational earnings. Crude is the wildcard: Brent hovering near $87 on OPEC+ supply discipline and Middle East risk premium keeps inflation optionality alive and limits how dovish the Fed can credibly signal in the near term."
   }
 }
