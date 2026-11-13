@@ -1,37 +1,37 @@
 {
-  "generated_at": "7:16 PM UTC",
-  "date": "Thursday, November 12, 2026",
+  "generated_at": "6:52 PM UTC",
+  "date": "Friday, November 13, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 69,
-    "feels_like_f": 67,
-    "high_f": 70,
-    "low_f": 66,
-    "description": "Scattered Clouds",
-    "icon": "⛅",
-    "humidity": 46,
-    "wind_mph": 13,
+    "temp_f": 55,
+    "feels_like_f": 53,
+    "high_f": 57,
+    "low_f": 53,
+    "description": "Broken Clouds",
+    "icon": "☁️",
+    "humidity": 43,
+    "wind_mph": 11,
     "forecast": [
-      {
-        "day": "Fri",
-        "icon": "☀️",
-        "high": 40,
-        "low": 40,
-        "description": "Clear Sky"
-      },
       {
         "day": "Sat",
         "icon": "☀️",
-        "high": 38,
-        "low": 38,
+        "high": 33,
+        "low": 33,
         "description": "Clear Sky"
       },
       {
         "day": "Sun",
         "icon": "☀️",
-        "high": 33,
-        "low": 33,
+        "high": 34,
+        "low": 34,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Mon",
+        "icon": "☀️",
+        "high": 38,
+        "low": 38,
         "description": "Clear Sky"
       }
     ]
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 759.08,
-        "change": -0.73,
-        "change_pct": -0.1,
+        "price": 753.35,
+        "change": -3.77,
+        "change_pct": -0.5,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 355.97,
-        "change": 0.34,
-        "change_pct": 0.1,
+        "price": 358.47,
+        "change": 3.59,
+        "change_pct": 1.01,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 164.59,
-        "change": -9.14,
-        "change_pct": -5.26,
+        "price": 162.54,
+        "change": -3.65,
+        "change_pct": -2.2,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 390.43,
-        "change": -0.41,
-        "change_pct": -0.1,
+        "price": 391.15,
+        "change": -6.3,
+        "change_pct": -1.59,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 71650,
-        "change": -2563.99,
-        "change_pct": -3.45,
+        "price": 68881.08,
+        "change": -2777.85,
+        "change_pct": -3.88,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 2014.6,
-        "change": -58.33,
-        "change_pct": -2.81,
+        "price": 1940.95,
+        "change": -71.24,
+        "change_pct": -3.54,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,67 +111,67 @@
     "error": false,
     "articles": [
       {
-        "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019 - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
-        "description": "American Airlines' first class food options include sandwiches, fruit and chia bowls",
-        "published": "5:34 PM UTC",
+        "title": "Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO - Fox Business",
+        "source": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement",
+        "description": "President Donald Trump endorsed Apple CEO Tim Cook as a potential successor to Jensen Huang following the Nvidia co-founder's resignation and the appointment of an interim CEO.",
+        "published": "3:38 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck - The Verge",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-        "description": "Toyota is bringing back Scion to build the KEI-01, an Indiana-assembled, 4WD mini-truck capped at 25 mph for U.S. commercial fleets and campuses.",
-        "published": "5:09 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "US Equity Futures Rise as AI Enthusiasm Counters Hot Inflation - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
+        "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently? - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqgm37dv20e8o",
         "description": "",
-        "published": "4:38 PM UTC",
+        "published": "3:10 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning. - Ars Technica",
+        "title": "Home Sales in October Plummet to 16-Year Low - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/economy/housing/home-sales-in-october-plummet-to-16-year-low-16adebc0",
+        "description": "",
+        "published": "3:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Jeff Kaplan Blames Overwatch 2’s Messy Reveal On Blizzard Hubris: ‘You Guys Are F*cking Idiots’ - Kotaku",
+        "source": "Kotaku",
+        "url": "https://kotaku.com/overwatch-2-reveal-announcement-blizzcon-2019-jeff-kaplan-2000756275",
+        "description": "The sequel that never truly came to be was announced in 2019",
+        "published": "3:00 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "An Expert And A Noob Play ‘Final Fantasy Resonance’ - Defector",
+        "source": "Defector.com",
+        "url": "https://defector.com/an-expert-and-a-noob-play-final-fantasy-resonance",
+        "description": "While there are many fantastic Japanese role-playing game (JRPG, for short) series out there, and with apologies to Dragon Quest and Persona, Final Fantasy is the biggest and most important of them al",
+        "published": "2:53 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395 - Ars Technica",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-        "description": "Any amount of AI coding is too much for many Indie Game Festival judges.",
-        "published": "5:37 PM UTC",
+        "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+        "description": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+        "published": "2:50 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Apple is shuttering its 28-year-old online community forum - Ars Technica",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-        "description": "Apple has already made the forum read-only.",
-        "published": "5:04 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month - Eurogamer.net",
-        "source": "Eurogamer.net",
-        "url": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
-        "description": "Hunger, the ambitious, alternate history Napoleonic-era extraction shooter-melee hybrid, enters Steam early access this December.",
-        "published": "3:41 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "SS United States live updates: How to watch intentional sinking of historic vessel off Florida coast - 6abc Philadelphia",
-        "source": "WPVI-TV",
-        "url": "https://6abc.com/live-updates/ss-united-states-live-stream-historic-vessel-sunk-become-worlds-largest-artificial-reef-off-florida-coast/20033077/",
-        "description": "SINKING AN ICON: The SS United States will embark on its final voyage Wednesday as the historic ocean liner heads to its final home on the floor of the Gulf, off Florida's Panhandle coast.",
-        "published": "6:36 PM UTC",
+        "title": "Gunman dead after killing 1, injuring 4 in mass shooting at gym in DC's Logan Circle - WJLA",
+        "source": "WJLA",
+        "url": "https://wjla.com/news/local/dc-active-shooting-4-people-shot-northwest-15th-street-shots-fired-people-hurt-washington",
+        "description": "Two people are dead, including a gunman, and four other people are injured after a mass shooting at a gym in Northwest D.C. near Logan Circle on Thursday morning.",
+        "published": "3:42 PM UTC",
         "category": "General"
       },
       {
-        "title": "Coachella 2027 lineup to feature SZA, Dua Lipa and Tame Impala as headliners - CBS News",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/losangeles/news/coachella-2027-lineup-sza-dua-lipa-tame-impala-madonna/",
-        "description": "Other big-name artists like Zara Larsson, Don Toliver, Becky G and Kehlani will also be taking the stage at Coachella.",
-        "published": "5:39 PM UTC",
+        "title": "Before Scott Colom, these two men were the last black US senators in Mississippi - BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cmde1y19g19do",
+        "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+        "published": "2:12 PM UTC",
         "category": "General"
       }
     ]
@@ -251,16 +251,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Revive Interest in Bundesliga Midfielder Ahead of Summer Window",
-        "summary": "United's sporting director is reportedly monitoring Florian Wirtz as a marquee creative midfielder signing, though Bayer Leverkusen's asking price north of £100 million remains a significant hurdle. Talks are described as exploratory at this stage with no formal bid submitted.",
+        "headline": "Manchester United Target Athletic Club Midfielder Amid Midfield Rebuild",
+        "summary": "Manchester United are reportedly monitoring Athletic Club's Nico Williams as part of a broader midfield and attacking rebuild under new sporting leadership. Talks are said to be at an exploratory stage with the player's release clause believed to be in the region of £50 million.",
         "clubs": [
           "Manchester United",
-          "Bayer Leverkusen"
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Chelsea in Advanced Talks to Extend Loan Deal for Victor Osimhen",
-        "summary": "Chelsea are understood to be pushing for a permanent transfer structure for Osimhen following an impressive loan spell, with Napoli seeking a fee in the region of £70 million. The Nigerian striker has been pivotal in Chelsea's top-four push and is keen on a permanent move to Stamford Bridge.",
+        "headline": "Chelsea Revive Interest in Napoli Striker as Striker Search Continues",
+        "summary": "Chelsea have reportedly re-engaged with Napoli over a potential deal for Victor Osimhen, with the Blues willing to structure a deal including add-ons to meet Napoli's valuation. The Nigerian international remains keen on a Premier League move following a trophy-laden spell in Serie A.",
         "clubs": [
           "Chelsea",
           "Napoli"
@@ -270,8 +270,8 @@
     "match_preview": {
       "home": "Arsenal",
       "away": "Manchester City",
-      "date": "Sunday, 4:30 PM BST",
-      "preview": "This fixture arrives as the definitive six-pointer of the Premier League season, with Arsenal sitting two points clear at the top and City knowing defeat would likely extinguish their title hopes. Arsenal have been defensively resolute at the Emirates this season, conceding just four goals at home in the league, while City's Erling Haaland has rediscovered his most lethal form with five goals in his last four matches. The tactical battle between Arteta's high press and Guardiola's positional rotations promises to be the defining chess match of the English football calendar.",
+      "date": "Sunday, 4:30 PM GMT",
+      "preview": "The standout fixture of the Premier League weekend pits title rivals Arsenal and Manchester City in a match that could have significant implications for the top-of-table picture. Arsenal come in on the back of four consecutive league wins and will be buoyed by a raucous Emirates atmosphere, while City, despite some inconsistency in recent weeks, retain the squad depth and big-game pedigree to hurt any opponent. The tactical battle between Arteta and Guardiola — former manager and pupil — always adds an extra layer of intrigue, with both sides expected to press aggressively and exploit transitions.",
       "key_players": [
         "Bukayo Saka",
         "Erling Haaland",
@@ -283,13 +283,13 @@
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Recovering",
-        "return": "Available for squad selection; fitness assessed day of match"
+        "return": "Long-term absentee; return date uncertain, targeting late season"
       },
       {
-        "player": "Ben White",
+        "player": "Gabriel Jesus",
         "team": "Arsenal",
         "status": "Doubtful",
-        "return": "Late fitness test expected Saturday; could miss the City clash"
+        "return": "Being assessed ahead of the weekend; possible return in 1-2 weeks"
       }
     ]
   },
@@ -297,28 +297,28 @@
     "cfa_frm": {
       "exam": "CFA Level 1",
       "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a yield-to-maturity of 8% is trading at a discount. If the YTM immediately falls to 6%, which of the following best describes the price change relative to a bond with identical characteristics but only 5 years to maturity?",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a par value of $1,000 is priced to yield 8%. If the yield immediately falls to 7%, which of the following best explains why the bond's price increase will be LESS than the price decrease that would result from an equal yield increase to 9%?",
       "options": {
-        "A": "The 10-year bond will experience a smaller price increase due to greater reinvestment risk.",
-        "B": "The 10-year bond will experience a larger price increase due to greater duration.",
-        "C": "Both bonds will experience the same price increase because the coupon rate equals the new YTM.",
-        "D": "The 5-year bond will experience a larger price increase because it has lower credit risk."
+        "A": "The bond is trading at a discount, so its convexity works against price appreciation.",
+        "B": "Bond price changes are asymmetric due to positive convexity — price increases are smaller than price decreases for equal yield moves.",
+        "C": "Bond price changes are asymmetric due to positive convexity — price increases are larger than price decreases for equal yield moves.",
+        "D": "Duration underestimates price changes for yield decreases and overestimates for yield increases."
       },
-      "correct": "B",
-      "explanation": "Duration measures a bond's sensitivity to interest rate changes, and longer-maturity bonds have higher duration, all else equal. When YTM falls from 8% to 6%, the 10-year bond's price will rise more than the 5-year bond's because its cash flows are discounted over a longer period, amplifying the present value effect. Reinvestment risk affects total return over time but does not directly determine the immediate price change. Credit risk is not a differentiating factor here since both bonds are described as identical except for maturity."
+      "correct": "C",
+      "explanation": "Positive convexity means that for a given change in yield, the price increase from a yield decrease is LARGER than the price decrease from an equal yield increase — this is favorable to bondholders. The question is a trick: option B incorrectly inverts this relationship. In reality, the bond's price will rise MORE than it falls for equal yield moves due to positive convexity. Option D reverses duration's known limitations; duration underestimates price gains (yield down) and overestimates price losses (yield up), which is consistent with positive convexity, not contrary to it."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Balance Sheet Risk",
-      "subtitle": "How mismatches between asset and liability durations expose banks to devastating interest rate risk.",
+      "title": "Duration Gap and Bank Interest Rate Risk",
+      "subtitle": "How the mismatch between asset and liability durations exposes banks to interest rate shocks.",
       "paragraphs": [
-        "Duration gap is a measure of interest rate risk specific to financial institutions, calculated as the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for leverage. A positive duration gap means assets are more rate-sensitive than liabilities, so rising interest rates will compress the economic value of equity. This concept sits at the heart of asset-liability management (ALM) and is a core responsibility of bank treasuries worldwide.",
-        "The collapse of Silicon Valley Bank in March 2023 made duration gap risk viscerally real for markets. SVB had accumulated a large portfolio of long-duration U.S. Treasuries and agency mortgage-backed securities funded by short-term, rate-sensitive deposits. As the Federal Reserve aggressively raised rates, the market value of SVB's asset portfolio fell sharply while deposit outflows accelerated — a textbook duration gap blowup. The bank's unrealized losses exceeded its equity capital, triggering a run that regulators could not contain.",
-        "For investors and risk managers, duration gap analysis is not merely a regulatory checkbox. It signals whether a bank's net interest margin will expand or contract in a rate cycle, and whether economic value of equity is being quietly eroded. Investors should scrutinize AOCI (Accumulated Other Comprehensive Income) disclosures in bank financials, as unrealized losses on held-for-sale securities flow through equity. Risk managers must stress-test duration gaps across parallel shifts, steepening, and flattening yield curve scenarios to avoid SVB-style surprises."
+        "The duration gap is a measure of a financial institution's net exposure to interest rate risk, calculated as the difference between the duration of its assets and the duration of its liabilities, weighted by their relative sizes. A positive duration gap means the institution's assets are more interest-rate sensitive than its liabilities — so when rates rise, the market value of assets falls faster than liabilities, eroding economic capital. Banks, insurers, and pension funds all use duration gap analysis as a foundational risk management tool.",
+        "The regional banking stress of 2023 made duration gap risk viscerally real for markets. Silicon Valley Bank had accumulated a large portfolio of long-duration Treasury bonds and mortgage-backed securities funded by short-term, rate-sensitive deposits. As the Federal Reserve aggressively hiked rates, the market value of SVB's assets collapsed while deposit outflows accelerated — a textbook duration gap blowup. The episode reminded investors that even 'risk-free' assets carry significant interest rate risk when duration is mismatched.",
+        "For investors and risk managers, monitoring an institution's duration gap is as important as analyzing its credit quality. A wide positive gap signals vulnerability in a rising-rate environment, while a negative gap — where liabilities reprice faster than assets — creates risk when rates fall. Sophisticated investors scrutinize bank 10-K filings for AOCI (Accumulated Other Comprehensive Income) disclosures and held-to-maturity portfolio details to assess hidden duration exposure that may not appear on reported earnings."
       ],
       "key_takeaways": [
-        "Duration gap = weighted duration of assets minus leverage-adjusted duration of liabilities; a positive gap means rising rates hurt equity value.",
-        "SVB's 2023 failure was a real-world case study in unhedged duration gap risk magnified by concentrated, rate-sensitive depositors.",
-        "Investors should monitor AOCI and held-to-maturity portfolio disclosures in bank earnings as leading indicators of hidden interest rate exposure."
+        "Duration gap = weighted asset duration minus weighted liability duration; a positive gap means rising rates hurt economic value.",
+        "SVB's 2023 collapse was a real-world case study in unmanaged duration gap risk funded by flighty deposits.",
+        "Investors should examine AOCI and HTM portfolio disclosures in bank financials to uncover off-income-statement rate exposure."
       ]
     },
     "japanese": {
@@ -330,29 +330,29 @@
       "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
       "example_en": "Every month, I save a portion of my salary.",
       "grammar_point": "〜ています (ongoing action/habit)",
-      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses a continuous action or habitual behavior. Here, 貯金しています means 'I am (habitually) saving money,' describing a regular practice rather than a one-time event.",
-      "memory_tip": "Think of 'chokin' as 'cho-keen' — you are keenly (keen) stashing away your 'cho' (dough/money). Picture a piggy bank with a big keen smile every time a coin drops in."
+      "grammar_explanation": "The pattern 〜ています (te-form + います) describes an action that is ongoing, habitual, or a continuing state. Here, 貯金しています means 'I am (habitually) saving money' — it describes a regular practice rather than a one-time event.",
+      "memory_tip": "Think of 貯 (cho) as 'storing' — like a 'cho'pper storing wood for winter — and 金 (kin) means 'gold/money.' Together: storing your gold = savings!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Beginning to Execute Real Financial Workflows Autonomously",
-      "summary": "A new generation of agentic AI systems — built on large language models with tool-use capabilities — is moving beyond analysis to actually executing multi-step financial workflows: pulling live data, running scenario models, drafting investment memos, and flagging compliance exceptions with minimal human intervention. Firms including JPMorgan, Bloomberg, and a cohort of well-funded fintech startups are deploying these systems in credit underwriting, earnings analysis, and trade surveillance. Unlike copilot-style tools that merely assist, agents can chain together dozens of reasoning steps and API calls, completing tasks that previously required a junior analyst several hours. The productivity implications are profound, but so are the model risk and auditability challenges these systems introduce.",
+      "headline": "AI Agents Are Quietly Automating Investment Research and Due Diligence Workflows",
+      "summary": "Agentic AI systems — models that can autonomously plan, search, and execute multi-step tasks — are moving from novelty to production deployment inside asset managers and investment banks. Firms including BlackRock, JPMorgan, and several quantitative hedge funds are deploying agents that can ingest earnings transcripts, pull SEC filings, run scenario analyses, and produce first-draft research memos with minimal human prompting. Unlike earlier NLP tools that required structured inputs, these agents dynamically adapt their workflow based on what they find, dramatically compressing the research cycle from days to hours. The implication for finance professionals is not displacement but radical task-layer shifting — analysts who embrace agentic tools will cover more names, more deeply, while those who don't risk being out-competed.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan, take sequential actions, use external tools (web search, databases, code execution), and complete multi-step tasks toward a defined goal — going beyond generating text to actually doing work."
+          "definition": "AI systems that autonomously break down complex goals into sub-tasks, use tools like web search or code execution, and iterate until a goal is complete — without step-by-step human guidance. In finance, this means an agent can be told 'analyze this company's credit risk' and independently gather data, run models, and write a report."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant, up-to-date documents or data (e.g., earnings filings, market data) before generating a response, reducing hallucinations and grounding outputs in verifiable sources — critical for financial accuracy."
+          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating a response. In investment research, RAG allows models to ground their analysis in real filings, market data, and proprietary research rather than relying on potentially outdated training data."
         },
         {
-          "term": "Model Risk (AI context)",
-          "definition": "The risk that an AI model produces incorrect, biased, or non-auditable outputs that drive flawed financial decisions — now a formal regulatory concern as supervisors like the Fed and OCC extend model risk management frameworks to cover LLM-based systems."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built AI model on domain-specific data — such as credit agreements, financial statements, or risk reports — so that it learns the vocabulary, conventions, and reasoning patterns of that field. A fine-tuned model outperforms a general model on specialized finance tasks."
         }
       ],
-      "career_insight": "Finance professionals who can design, evaluate, and govern agentic AI workflows — not just use them — will command a significant premium in the next hiring cycle. The most valued skill combination is financial domain expertise paired with prompt engineering, model risk assessment, and an understanding of when AI outputs require human override. Roles in ALM, credit risk, and investment research are being restructured around AI augmentation, meaning analysts who resist upskilling risk being outpaced by smaller teams equipped with better tools."
+      "career_insight": "Finance professionals who will thrive in the next five years are those who can function as 'AI orchestrators' — people who know how to design workflows for AI agents, critically evaluate their outputs, and add judgment where models fail (regulatory nuance, qualitative strategy, client relationships). Technical literacy in prompt engineering, understanding model limitations, and knowledge of data pipelines are fast becoming as valuable as Excel proficiency was in the 1990s. The analysts most at risk are those doing high-volume, templated work — screening, data gathering, formatting — without developing higher-order synthesis and communication skills."
     },
     "error": false,
-    "market_sentiment": "Global risk appetite remains cautiously constructive this week as markets digest a resilient U.S. labor market print against a backdrop of moderating core CPI, keeping Fed cut expectations anchored to two 25bp reductions by year-end. Treasury yields have stabilized in the 4.30–4.50% range on the 10-year, providing some relief to rate-sensitive equity sectors including utilities and REITs, while the dollar has softened modestly — a tailwind for EM assets and multinational earnings. Crude is the wildcard: Brent hovering near $87 on OPEC+ supply discipline and Middle East risk premium keeps inflation optionality alive and limits how dovish the Fed can credibly signal in the near term."
+    "market_sentiment": "Risk assets opened the week on a cautious footing as markets digest a resilient U.S. labor market print against a backdrop of sticky services inflation, complicating the Fed's path toward rate normalization and pushing 2-year Treasury yields back above 4.8%. The dollar index has regained momentum, pressuring EM currencies and commodities, while credit spreads in high-yield have widened modestly — a signal that investors are quietly reducing risk rather than making aggressive directional bets. Equity positioning remains concentrated in mega-cap tech, leaving the broader market vulnerable to a rotation shock if macro data surprises to the downside in coming weeks."
   }
 }
