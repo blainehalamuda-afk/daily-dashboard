@@ -1,38 +1,38 @@
 {
-  "generated_at": "6:06 PM UTC",
-  "date": "Sunday, November 15, 2026",
+  "generated_at": "9:21 PM UTC",
+  "date": "Monday, November 16, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 54,
-    "feels_like_f": 52,
-    "high_f": 56,
-    "low_f": 52,
+    "temp_f": 56,
+    "feels_like_f": 54,
+    "high_f": 58,
+    "low_f": 55,
     "description": "Few Clouds",
     "icon": "🌤️",
-    "humidity": 48,
-    "wind_mph": 8,
+    "humidity": 45,
+    "wind_mph": 5,
     "forecast": [
       {
-        "day": "Mon",
+        "day": "Tue",
+        "icon": "☀️",
+        "high": 30,
+        "low": 30,
+        "description": "Clear Sky"
+      },
+      {
+        "day": "Wed",
         "icon": "☀️",
         "high": 31,
         "low": 31,
         "description": "Clear Sky"
       },
       {
-        "day": "Tue",
-        "icon": "☀️",
-        "high": 37,
-        "low": 37,
-        "description": "Clear Sky"
-      },
-      {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 39,
-        "low": 39,
-        "description": "Clear Sky"
+        "day": "Thu",
+        "icon": "☁️",
+        "high": 44,
+        "low": 44,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 754.37,
-        "change": -2.75,
-        "change_pct": -0.36,
+        "price": 739.95,
+        "change": -14.42,
+        "change_pct": -1.91,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 356.27,
-        "change": 1.39,
-        "change_pct": 0.39,
-        "up": true,
+        "price": 352.78,
+        "change": -3.49,
+        "change_pct": -0.98,
+        "up": false,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 162.85,
-        "change": -3.34,
-        "change_pct": -2.01,
+        "price": 156.14,
+        "change": -6.71,
+        "change_pct": -4.12,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 390.22,
-        "change": -7.23,
-        "change_pct": -1.82,
+        "price": 379.74,
+        "change": -10.48,
+        "change_pct": -2.69,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 64635.07,
-        "change": -1202.1,
-        "change_pct": -1.83,
-        "up": false,
+        "price": 65006.07,
+        "change": 96.07,
+        "change_pct": 0.15,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1816.99,
-        "change": -21.15,
-        "change_pct": -1.15,
-        "up": false,
+        "price": 1820.51,
+        "change": 5.05,
+        "change_pct": 0.28,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,67 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "Nvidia scandal hits Trump’s political vulnerabilities after Democratic sweep - The Washington Post",
+        "title": "Jensen Huang discusses comeback as Nvidia CEO with allies - Financial Times",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6\\\\u003d1",
+        "description": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+        "published": "7:03 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin - Financial Times",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6\\\\u003d1",
+        "description": "Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war",
+        "published": "6:27 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "It’s not just an affair. Nvidia’s bigger issue could be chip smuggling. - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-scandal-hits-trumps-political-vulnerabilities-after-democratic-sweep/",
-        "description": "The scandal connects to voter concerns over AI, data centers, China and corruption.",
-        "published": "4:02 PM UTC",
+        "url": "https://www.washingtonpost.com/technology/2026/11/15/jensen-huang-nvidia-face-questions-over-knowledge-chip-smuggling/",
+        "description": "Megaspeed, the Nvidia customer at the heart of the scandal, was suspected by U.S. and Singaporean authorities of breaching export controls.",
+        "published": "6:00 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/ground-stop-flights-airlines-cancellations-faa-1fbf4992f0ddaa4c463b0e4990b6e291",
-        "description": "Airlines across the U.S. are working to dig out from the longest nationwide ground stop in 25 years. More than 2,000 flights were canceled Saturday. The more than four-hour ground stop has stranded pa",
-        "published": "2:34 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "‘GTA 6’ Reveals Jason And Lucia’s Limited Crime Options To Start - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/11/14/gta-6-reveals-jason-and-lucias-limited-crime-options-to-start/",
-        "description": "",
-        "published": "2:56 PM UTC",
+        "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information - Pure Xbox",
+        "source": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information",
+        "description": "Also clarifying that it's definitely a console and not a PC",
+        "published": "6:47 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Driver Stops in Front of Moving Car, Then Gets Mad When Motorist Goes Around: \"Road Rage Or Insurance Scam?\" - Yahoo",
-        "source": "Guessingheadlights.com",
-        "url": "https://guessingheadlights.com/driver-stops-in-front-of-moving-car-then-gets-mad-when-motorist-goes-around-road-rage-or-insurance-scam/",
-        "description": "A driver traveling on a rain-soaked road had to stop suddenly when another motorist moved into their lane and slammed on the brakes. The close call was only...",
-        "published": "2:47 PM UTC",
+        "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+        "description": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+        "published": "6:29 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off - CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-        "description": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
-        "published": "2:00 PM UTC",
+        "title": "8 Must-Play Open-World RPGs for People With Real-Life Schedules - Polygon.com",
+        "source": "Polygon",
+        "url": "https://www.polygon.com/open-world-rpgs-real-life-schedules/",
+        "description": "Busy schedule with no time to game?  These eight open-world RPGs fit into short sessions, one quest or shrine at a time.",
+        "published": "6:00 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
-        "description": "A nuclear treaty and the US’s war on Iran are among priority topics for China, Russia and US leaders.",
-        "published": "3:27 PM UTC",
+        "title": "SpaceX catches Starship rocket on return to Earth - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/technology/2026/11/15/spacex-catches-starship-rocket-return-earth/",
+        "description": "The company hailed the mission as a “major step” toward developing fully reusable rockets.",
+        "published": "8:33 PM UTC",
         "category": "General"
       },
       {
-        "title": "NASA’s Voyager 1 to hit new space distance record of one light-day - Al Jazeera",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day",
-        "description": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
-        "published": "3:17 PM UTC",
+        "title": "Gerry Dulac’s 2026 NFL predictions: Week 10 - Pittsburgh Post-Gazette",
+        "source": "Pittsburgh Post-Gazette",
+        "url": "https://www.post-gazette.com/sports/steelers/2026/11/15/nfl-picks-week-10/stories/202611120074",
+        "description": "False",
+        "published": "8:31 PM UTC",
         "category": "General"
       },
       {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo",
-        "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-        "published": "3:15 PM UTC",
+        "title": "Breaking News: Six individuals remain hospitalized as Mississippi River boat crash investigation continues 6 MIN - WDSU",
+        "source": "WDSU New Orleans",
+        "url": "https://www.wdsu.com/article/mississippi-river-boat-crash-new-orleans-update/74433300",
+        "description": "In what is being called a \"miracle on the Mississippi,\" all passengers aboard the American Heritage cruise ship struck in New Orleans have been accounted for.",
+        "published": "7:52 PM UTC",
         "category": "General"
       }
     ]
@@ -251,108 +259,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Revive Interest in Bundesliga Midfielder Ahead of January Window",
-        "summary": "Manchester United's new football leadership is reportedly monitoring a high-energy central midfielder from a top Bundesliga side as they seek to address the creativity deficit left by multiple injury absences. Personal terms are said to be the primary obstacle rather than the transfer fee.",
+        "headline": "Arsenal Intensify Interest in Bundesliga Midfielder Ahead of January Window",
+        "summary": "Arsenal's recruitment team has reportedly sent scouts to multiple Bundesliga fixtures to monitor a creative central midfielder as Mikel Arteta seeks greater dynamism in the engine room. Personal terms are said to be an obstacle, with the player's current club demanding a fee in excess of £65 million.",
         "clubs": [
-          "Manchester United",
+          "Arsenal",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Chelsea Linked with January Move for Out-of-Favour Napoli Striker",
-        "summary": "Chelsea are understood to have made preliminary contact regarding a striker who has fallen down the pecking order at Napoli following a change in management, with a loan-to-buy structure reportedly the preferred mechanism given Financial Fair Play constraints.",
+        "headline": "Manchester United Linked with January Loan Move for Experienced Centre-Back",
+        "summary": "With Ruben Amorim's side struggling for defensive consistency, the club is exploring a short-term loan solution for a Serie A centre-back who has fallen out of favour at his current club. United view the deal as low-risk cover while longer-term targets are assessed for the summer window.",
         "clubs": [
-          "Chelsea",
-          "Napoli"
+          "Manchester United",
+          "Juventus"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Liverpool",
+      "home": "Liverpool",
+      "away": "Manchester City",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits two genuine title contenders against each other at the Emirates, with Arsenal looking to close the gap on Liverpool at the top of the table. Arsenal have been defensively resolute at home this season, conceding fewer than any other side, but face a Liverpool attack operating at peak efficiency under their high-press system. The tactical battle between Arteta's structured build-up and Liverpool's relentless pressing triggers will likely determine the game's tempo and outcome.",
+      "preview": "The standout fixture of the Premier League weekend pits table-topping Liverpool against a Manchester City side still searching for the form that defined their recent dynasty — making this less a clash of equals and more a referendum on City's revival under Pep Guardiola. Liverpool arrive on the back of five consecutive league wins, with Slot's high-press system functioning at near-peak efficiency, while City will look to exploit any defensive transitions given the pace of Haaland's runs in behind. The psychological stakes are enormous: a City win re-opens the title race, while a Liverpool victory could open a 10-point gulf at the summit.",
       "key_players": [
-        "Bukayo Saka",
         "Mohamed Salah",
-        "Martin Ødegaard"
+        "Erling Haaland",
+        "Alexis Mac Allister"
       ]
     },
     "injury_news": [
       {
+        "player": "Trent Alexander-Arnold",
+        "team": "Liverpool",
+        "status": "Doubtful",
+        "return": "Expected to be assessed Friday; targeting return within 7–10 days"
+      },
+      {
         "player": "Rodri",
         "team": "Manchester City",
         "status": "Out",
-        "return": "Long-term — remainder of season in doubt following ACL surgery"
-      },
-      {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Week-to-week; targeting return after international break"
+        "return": "Long-term absentee; no return expected before March at earliest"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is priced at $950. If market interest rates rise by 50 basis points, which of the following best describes the relationship between the bond's price sensitivity and its duration?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income — Term Structure & Interest Rate Dynamics",
+      "question": "An analyst is evaluating a 5-year callable bond using the binomial interest rate tree model. The bond has a 6% annual coupon and is callable at par starting in year 2. If interest rate volatility increases significantly, which of the following statements best describes the impact on the bond's option-adjusted spread (OAS) and effective duration?",
       "options": {
-        "A": "A bond with higher convexity will experience a larger price decline than predicted by duration alone when rates rise.",
-        "B": "Duration provides a linear approximation of price change; convexity adjusts for the curvature, meaning the actual price decline will be less than duration alone predicts.",
-        "C": "Modified duration overstates the price increase and understates the price decline for a parallel shift in the yield curve.",
-        "D": "For small rate increases, convexity dominates duration in explaining price sensitivity."
+        "A": "OAS increases and effective duration increases.",
+        "B": "OAS remains unchanged and effective duration decreases.",
+        "C": "OAS remains unchanged and effective duration increases.",
+        "D": "OAS decreases and effective duration decreases."
       },
       "correct": "B",
-      "explanation": "Duration provides a first-order (linear) approximation of bond price sensitivity to interest rate changes. Because the actual price-yield relationship is convex, duration alone overstates price declines when rates rise and understates price gains when rates fall. Convexity is the second-order correction that accounts for this curvature, meaning the true price decline from a rate increase is somewhat less than the duration estimate. Option A is incorrect because positive convexity always benefits the bondholder relative to the duration estimate."
+      "explanation": "The OAS is designed to strip out the value of embedded options, so it represents the spread over the benchmark curve attributable purely to credit and liquidity risk — it does not change with interest rate volatility assumptions. However, as volatility increases, the value of the embedded call option increases, making it more likely the bond will be called when rates fall. This compresses the bond's price appreciation potential and reduces its effective duration, since the issuer is more likely to call the bond and shorten the investor's cash flow horizon."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as a Shadow Banking Force",
-      "subtitle": "How direct lending and private credit funds have reshaped corporate financing, risk distribution, and systemic liquidity dynamics.",
+      "title": "Private Credit's Rise as a Systemic Force",
+      "subtitle": "Direct lending and private credit markets have ballooned past $1.7 trillion, reshaping how risk is priced and distributed across the financial system.",
       "paragraphs": [
-        "Private credit refers to non-bank lending to companies — primarily middle-market borrowers — through direct loans, mezzanine debt, distressed debt, and other structured instruments. Unlike public bond markets, private credit deals are negotiated bilaterally between borrowers and credit funds, offering speed and flexibility in exchange for higher yields and illiquidity premiums. The asset class has grown from under $500 billion in AUM a decade ago to over $1.7 trillion globally, driven by regulatory constraints on bank balance sheets post-Basel III and institutional investors' persistent hunt for yield.",
-        "The rise of private credit became especially pronounced after the 2022 rate-hiking cycle, when leveraged loan and high-yield bond markets seized up and private credit funds stepped in as the lender of last resort for mid-sized corporations. For example, Apollo, Ares, and Blackstone closed multi-billion dollar unitranche facilities for companies that could not access public markets at acceptable rates. This dynamic effectively transferred credit risk from regulated banks — where it is visible and capital-constrained — to asset managers running pension, insurance, and sovereign wealth capital, where oversight is lighter but investor sophistication is assumed.",
-        "For investors and risk managers, private credit introduces several layered risks: illiquidity risk (lock-up periods of 5-10 years), valuation opacity (marks are model-driven, not market-driven), concentration risk (fewer, larger positions per fund), and covenant erosion as competition among lenders has tightened protections. However, the floating-rate nature of most private loans provided a natural hedge in a rising rate environment, and default rates have remained historically low — though stress tests under a severe recession scenario remain largely theoretical given the asset class's youth."
+        "Private credit refers to non-bank lending — typically floating-rate, senior secured loans — arranged directly between asset managers (such as Ares, Blue Owl, or Apollo) and corporate borrowers outside of public syndicated markets. What began as a niche solution for middle-market companies unable to access investment-grade bond markets has grown into one of the most consequential structural shifts in global finance. The asset class has expanded nearly fivefold since 2015, driven by institutional demand for yield, the retreat of regional banks from leveraged lending, and regulatory constraints on traditional lenders post-Basel III.",
+        "The practical implications became vivid during the 2022–2023 rate-hiking cycle. While public high-yield bond issuance dried up and leveraged buyout activity stalled, private credit funds continued to close deals — often charging all-in rates exceeding 12% on SOFR-plus structures. Sponsors accepted higher financing costs in exchange for speed, certainty, and covenant flexibility. Firms like Blackstone's BCRED and Apollo's MidCap Financial effectively displaced syndicated bank loans for deals below $1 billion, cementing private credit as the default engine of leveraged finance.",
+        "For investors and risk managers, private credit introduces a distinctive set of concerns. Mark-to-model valuations — rather than mark-to-market — mean NAVs can appear artificially stable during stress periods, masking underlying deterioration. Liquidity mismatches in semi-liquid vehicles (like BDCs or interval funds) pose systemic risk if retail investors seek simultaneous redemptions. Additionally, concentration in floating-rate debt means that while existing investors benefited from rising rates, borrower stress is rising as refinancing walls approach in 2025–2026, demanding careful vintage-year analysis and covenant monitoring."
       ],
       "key_takeaways": [
-        "Private credit has grown to over $1.7 trillion AUM, filling the void left by bank retrenchment after Basel III capital requirements tightened.",
-        "Floating-rate structures benefited private credit funds during the 2022-2024 rate cycle, but illiquidity and valuation opacity remain core risks.",
-        "Systemic risk concerns are growing as regulators examine leverage, interconnectedness with insurance balance sheets, and the lack of mark-to-market discipline."
+        "Private credit has surpassed $1.7 trillion AUM and now rivals syndicated lending for mid-market LBO financing, with all-in yields frequently exceeding 11–13%.",
+        "Mark-to-model valuations create an illusion of low volatility, but investors must stress-test portfolios for liquidity risk, especially in retail-accessible vehicles.",
+        "A wave of floating-rate debt maturities in 2025–2026 represents a critical test for private credit performance, with borrower default rates expected to rise from historically low levels."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in a bank",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise, appointment, commitment",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maituki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (te-form + imasu)",
-      "grammar_explanation": "The pattern 〜ています (te-form of a verb + います) expresses a habitual or ongoing action — something you regularly do or a state that continues. Here, 貯金しています means 'I am (habitually) saving money,' not just a one-time event.",
-      "memory_tip": "Think of 'chokin' as 'choking' your spending — you squeeze your wallet tight and stash the coins away as savings."
+      "example_jp": "友達と明日の三時に会う約束をしました。",
+      "example_romaji": "Tomodachi to ashita no sanji ni au yakusoku o shimashita.",
+      "example_en": "I made a promise to meet my friend tomorrow at 3 o'clock.",
+      "grammar_point": "〜をしました (noun + を + shimashita)",
+      "grammar_explanation": "In Japanese, many actions are expressed by taking a noun and adding をしました (o shimashita) to mean 'did [noun]'. So 約束をしました literally means 'did a promise' — equivalent to 'made a promise' in natural English.",
+      "memory_tip": "Think of 'yaku' as sounding like 'yak' — a yak always keeps its word and shows up on time. A yak's SOKU (speed) means it never breaks a promise!"
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Displacing Traditional Analyst Workflows",
-      "summary": "Large financial institutions including JPMorgan, Goldman Sachs, and a wave of fintech lenders are deploying large language models and gradient-boosting algorithms to automate significant portions of credit underwriting and risk memo generation. These systems ingest earnings transcripts, covenant documentation, cash flow models, and macro indicators to produce preliminary credit assessments in minutes rather than days. The implications extend beyond efficiency — AI models are beginning to surface non-linear risk signals that traditional ratio analysis misses, such as management sentiment drift in earnings calls correlating with subsequent credit deterioration. Regulators in the US and EU are now actively developing model risk management frameworks specifically targeting AI-driven credit decisions.",
+      "headline": "AI Agents Are Beginning to Automate Entire Investment Research Workflows",
+      "summary": "A new generation of autonomous AI agents — built on large language models augmented with tool use, memory, and multi-step reasoning — is moving beyond chatbots to execute end-to-end research tasks: pulling earnings transcripts, running ratio analysis, synthesizing sector reports, and even drafting investment memos with minimal human input. Firms including Morgan Stanley, JPMorgan, and several multi-manager hedge funds are piloting agentic systems that can process thousands of data points across filings, news, and alternative data simultaneously. Unlike earlier NLP tools that surfaced information, these agents act on it — flagging covenant breaches, initiating data requests, or updating financial models dynamically. The competitive implication is stark: firms that operationalize these workflows first will compress research timelines from days to hours, fundamentally repricing the value of traditional analyst labor.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions on structured tabular data like financial ratios, loan performance history, and macro variables."
+          "term": "Agentic AI",
+          "definition": "An AI system that can autonomously plan, take sequential actions, use external tools (like web search or code execution), and complete multi-step tasks without requiring human input at every stage — analogous to a junior analyst who can be given an objective and returns with a finished work product."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "An AI architecture where a language model is paired with a live document database — allowing it to pull relevant credit agreements, covenants, or filings in real time before generating analysis, dramatically improving accuracy over static training alone."
+          "definition": "A technique where an AI model dynamically retrieves relevant information from an external knowledge base (e.g., 10-K filings, Bloomberg data, internal research) before generating a response — dramatically improving factual accuracy and enabling finance-specific, up-to-date outputs."
         },
         {
-          "term": "Model Risk Management (MRM)",
-          "definition": "The governance framework banks use to validate, monitor, and control quantitative models — now being urgently extended to AI systems to prevent biased, opaque, or unstable credit decisions from causing regulatory or financial harm."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built large language model on domain-specific data — such as credit agreements, analyst reports, or risk models — so it develops specialized expertise, reducing errors and hallucinations in high-stakes financial contexts."
         }
       ],
-      "career_insight": "Credit analysts and risk associates who can fluently interpret AI model outputs, identify model failure modes, and translate results for investment committees will command significant premium over peers who resist these tools. The highest-value skill set is not pure coding — it is the ability to challenge AI-generated credit assessments with domain judgment, structure model validation questions, and communicate uncertainty ranges to decision-makers. Professionals who combine CFA-level financial acumen with working knowledge of ML interpretability tools like SHAP values are increasingly the most sought-after hires in structured credit and risk functions."
+      "career_insight": "Finance professionals who understand how to design, prompt, and audit AI agent workflows — not just consume their outputs — will become disproportionately valuable over the next three years. The highest-leverage skill is not coding but structured thinking: breaking complex research problems into discrete, verifiable steps that an AI agent can execute and a human can review. Roles that combine domain expertise (credit analysis, risk management, derivatives) with AI fluency will command significant premiums as pure information-processing jobs compress."
     },
     "error": false,
-    "market_sentiment": "Global risk assets enter the session on a cautiously constructive footing, with the S&P 500 consolidating near all-time highs as markets digest a resilient US labor market against a Fed that remains data-dependent and in no hurry to cut. The macro narrative is bifurcating: US exceptionalism continues to attract dollar flows and compress credit spreads, while European growth data disappoints and China's property sector overhang suppresses EM appetite. Oil is range-bound in the low $80s as OPEC+ supply discipline holds but demand signals from China remain ambiguous — keeping energy equities range-trading and CPI expectations anchored near the Fed's comfort zone."
+    "market_sentiment": "Global risk assets enter the session with a cautiously constructive tone, though conviction remains thin ahead of key central bank commentary later this week. The USD has softened modestly against G10 peers as markets price in a shallower-for-longer Fed trajectory, providing a tailwind to EM equities and commodities — crude is holding near recent highs on OPEC+ compliance optimism and persistent Middle East risk premiums. Credit spreads in IG remain historically tight, a dynamic that continues to frustrate macro bears, but HY issuance volumes and leveraged loan demand suggest the market is quietly stress-testing refinancing assumptions for 2025 maturities."
   }
 }
