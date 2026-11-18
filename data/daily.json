@@ -1,38 +1,38 @@
 {
-  "generated_at": "8:09 PM UTC",
-  "date": "Tuesday, November 17, 2026",
+  "generated_at": "7:41 PM UTC",
+  "date": "Wednesday, November 18, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 62,
-    "feels_like_f": 59,
-    "high_f": 65,
-    "low_f": 60,
-    "description": "Clear Sky",
-    "icon": "☀️",
-    "humidity": 36,
+    "temp_f": 66,
+    "feels_like_f": 63,
+    "high_f": 68,
+    "low_f": 63,
+    "description": "Few Clouds",
+    "icon": "🌤️",
+    "humidity": 32,
     "wind_mph": 6,
     "forecast": [
       {
-        "day": "Wed",
-        "icon": "☀️",
-        "high": 31,
-        "low": 31,
-        "description": "Clear Sky"
-      },
-      {
         "day": "Thu",
-        "icon": "🌤️",
-        "high": 41,
-        "low": 41,
-        "description": "Few Clouds"
+        "icon": "☀️",
+        "high": 35,
+        "low": 35,
+        "description": "Clear Sky"
       },
       {
         "day": "Fri",
         "icon": "☁️",
-        "high": 46,
-        "low": 46,
-        "description": "Broken Clouds"
+        "high": 45,
+        "low": 45,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "☁️",
+        "high": 47,
+        "low": 47,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 729.57,
-        "change": -10.38,
-        "change_pct": -1.4,
+        "price": 729.98,
+        "change": -2.46,
+        "change_pct": -0.34,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 350.74,
-        "change": -2.04,
-        "change_pct": -0.58,
-        "up": false,
+        "price": 352.43,
+        "change": 0.52,
+        "change_pct": 0.15,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 152.91,
-        "change": -3.23,
-        "change_pct": -2.07,
+        "price": 150.94,
+        "change": -4.52,
+        "change_pct": -2.91,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 378.86,
-        "change": -0.88,
-        "change_pct": -0.23,
-        "up": false,
+        "price": 383.03,
+        "change": 2.92,
+        "change_pct": 0.77,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 63754.4,
-        "change": -1373.61,
-        "change_pct": -2.11,
+        "price": 62752.63,
+        "change": -958.63,
+        "change_pct": -1.5,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1793.19,
-        "change": -33.08,
-        "change_pct": -1.81,
+        "price": 1758.64,
+        "change": -30.07,
+        "change_pct": -1.68,
         "up": false,
         "is_crypto": true,
         "error": false
@@ -111,75 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Nvidia’s stock extends declines following harsh words from the U.S. government - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e",
-        "description": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips",
-        "published": "6:11 PM UTC",
+        "title": "Nvidia earnings live: Nvidia to report Q3 results after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-to-report-q3-results-after-the-bell-with-colette-kress-to-host-first-call-as-interim-ceo-202616349.html",
+        "description": "Nvidia will report its Q3 earnings after the bell Tuesday.",
+        "published": "8:26 PM UTC",
         "category": "Business"
       },
       {
-        "title": "45 early Black Friday deals 2026: Save on Apple, Bose, Lego, and Kindle - Mashable",
+        "title": "Fed official Lisa Cook refuses to attend White House firing hearing, citing bias - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/business/2026/11/17/fed-official-lisa-cook-refuses-attend-white-house-firing-hearing-citing-bias/",
+        "description": "Federal Reserve governor Lisa Cook won’t take part in a Dec. 14 White House hearing on whether to fire her unless the panel and its rules change, her lawyer said in a letter Monday. Letters exchanged ",
+        "published": "7:51 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch - Game Developer",
+        "source": "Gamedeveloper.com",
+        "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
+        "description": "Firaxis, a sibling studio to Take-Two’s Rockstar Games, is known for games like Sid Meier’s Civilization VII and Marvel’s Midnight Suns.",
+        "published": "6:56 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "GTA 6 New Zealand time trick for Xbox, PS5: How to play hours early - Mashable",
         "source": "Mashable",
-        "url": "https://mashable.com/tech/best-early-black-friday-live-deals-2026",
-        "description": "Yes, Black Friday deals are already live, and we found dozens of early deals from Amazon and beyond.",
-        "published": "5:13 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’ - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1",
-        "description": "",
-        "published": "5:05 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "NBA 2K27 x Grand Theft Auto VI collaboration announced - Gematsu",
-        "source": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/nba-2k27-x-grand-theft-auto-vi-collaboration-announced",
-        "description": "Publisher 2K and developer Visual Concepts, in partnership with sister company Rockstar Games, have a collaboration between NBA 2K27 and Grand Theft Auto VI. This includes NBA 2K27 Vice City Editio…",
-        "published": "4:20 PM UTC",
+        "url": "https://mashable.com/entertainment/gta-6-new-zealand-time-trick-xbox-ps5",
+        "description": "There's a trick that'll give you a head start on \"Grand Theft Auto VI.\"",
+        "published": "6:22 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Amazon Officially Reveals Early Black Friday Gaming Deals - Polygon.com",
-        "source": "Polygon",
-        "url": "https://www.polygon.com/black-friday-2026-amazon-gaming-deals-when-ps5-ps5-xbox-nintendo-switch/",
-        "description": "Cyberpunk 2077, Split Fiction, and even some GOTY contenders on Nintendo, PlayStation, and Xbox are all discounted on Amazon for Black Friday 2026.",
-        "published": "4:20 PM UTC",
+        "title": "GTA Lucia actor finally revealed and yes, it's who we thought it was - Eurogamer.net",
+        "source": "Eurogamer.net",
+        "url": "https://www.eurogamer.net/gta-6-lucia-actress-manni-l-perez-confirmed",
+        "description": "Manni L. Perez has been confirmed as GTA 6’s Lucia Caminos after The Game Awards nominated her for the role, days before the game launches.",
+        "published": "5:42 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "New Prizes Are Coming to Play! Pokémon Stores in December 2026 - Pokemon.com",
-        "source": "Pokemon.com",
-        "url": "https://www.pokemon.com/us/news/new-prizes-are-coming-to-play-pokemon-stores-in-december-2026",
-        "description": "Check out the awesome prizes that will be available at Play! Pokémon Stores starting this December.",
-        "published": "4:04 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Mamdani Disbands Controversial NYPD Protest Unit - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb",
-        "description": "",
-        "published": "6:07 PM UTC",
+        "title": "FEMA will test its Emergency Alert System today. Here’s what to expect. - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/nation/2026/11/17/fema-test-its-emergency-alert-system-tuesday/",
+        "description": "Radio and TV broadcasts will be interrupted at around 2:20 p.m. Eastern time to test FEMA’s nationwide public alert and warning system. Cellphones won't be affected.",
+        "published": "7:52 PM UTC",
         "category": "General"
       },
       {
-        "title": "James Bond live updates: Robert Pattinson named as new 007 - BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/live/ckg5j69ndv2vt",
-        "description": "In a statement, the 40-year-old British actor says \"to be entrusted with 007 is the honour of a lifetime\".",
-        "published": "4:51 PM UTC",
-        "category": "General"
-      },
-      {
-        "title": "Photos: Highlights from Pope Leo’s historic, 12-day tour of South America - NBC News",
+        "title": "Ray Tintori, filmmaker and boyfriend of ‘SNL’ alum Heidi Gardner, dies at 43 - NBC News",
         "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513",
-        "description": "They turned out in their millions to greet Pope Leo as he made his way around Uruguay, Argentina and Peru on a gruelling 12-day tour of the South America.",
-        "published": "4:02 PM UTC",
+        "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/ray-tintori-filmmaker-boyfriend-snl-alum-heidi-gardner-dies-43-rcna609829",
+        "description": "Filmmaker Ray Tintori, the boyfriend of former “Saturday Night Live” cast member Heidi Gardner, has died, the New York City medical examiner’s office confirmed Tuesday.",
+        "published": "7:25 PM UTC",
         "category": "General"
       }
     ]
@@ -259,108 +243,108 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Reignite Interest in Bundesliga Midfielder Ahead of January Window",
-        "summary": "Manchester United's new football leadership structure is reportedly tracking a creative central midfielder from a top Bundesliga side as they seek to address a persistent lack of ball progression from midfield. A January loan with an obligation-to-buy clause is said to be the preferred structure.",
+        "headline": "Arsenal Weighing Summer Move for Sporting CP Midfielder Viktor Gyokeres",
+        "summary": "Arsenal's recruitment team is reportedly tracking Viktor Gyokeres ahead of the summer window, with the Swedish striker's remarkable goal-scoring record in Portugal attracting interest from multiple top-six clubs. Sporting are believed to have set an asking price north of £80 million.",
         "clubs": [
-          "Manchester United",
-          "Bayer Leverkusen"
+          "Arsenal",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Open Talks for Out-of-Favour Atletico Madrid Forward",
-        "summary": "Chelsea are understood to have made initial contact with Atletico Madrid over a January move for a forward who has fallen down the pecking order under Diego Simeone this season. The player's wages are reported to be the primary obstacle in negotiations.",
+        "headline": "Manchester United Open to Selling Marcus Rashford Amid Wage Restructure",
+        "summary": "Manchester United are reportedly willing to listen to offers for Marcus Rashford this summer as the club continues its broader squad and wage-bill overhaul under INEOS. Several Ligue 1 clubs and a Spanish outfit are said to be monitoring the situation closely.",
         "clubs": [
-          "Chelsea",
-          "Atletico Madrid"
+          "Manchester United",
+          "Paris Saint-Germain"
         ]
       }
     ],
     "match_preview": {
-      "home": "Arsenal",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The Premier League's top-two clash promises to be the defining fixture of the winter programme, with both sides separated by just two points and carrying contrasting recent form — Arsenal have won four straight at the Emirates while Liverpool are unbeaten in eleven. Mikel Arteta's side will look to press high and exploit Liverpool's vulnerability to transitions on the left channel, while Arne Slot's team will attempt to use their superior depth and physicality in midfield to control tempo. With title implications hanging over every tackle, expect a tightly contested, tactically disciplined encounter with set pieces likely to be decisive.",
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "This fixture arrives at a pivotal moment in the title race, with Liverpool looking to consolidate their lead at the top of the table while a wounded Manchester City side — still rebuilding cohesion after a turbulent run of form — desperately needs three points to stay within striking distance. Arne Slot's Liverpool have been tactically disciplined and clinical in transition, whereas City will lean heavily on their positional superiority and the creativity of Kevin De Bruyne if fit. Anfield's atmosphere is set to be electric, and the outcome could effectively decide the destination of the Premier League trophy.",
       "key_players": [
-        "Bukayo Saka",
         "Mohamed Salah",
-        "Martin Ødegaard"
+        "Kevin De Bruyne",
+        "Virgil van Dijk"
       ]
     },
     "injury_news": [
       {
-        "player": "Gabriel Jesus",
-        "team": "Arsenal",
-        "status": "Out",
-        "return": "Expected back in mid-February after knee surgery"
+        "player": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "status": "Doubtful",
+        "return": "Being assessed ahead of Sunday; traveled with squad but training was limited on Friday"
       },
       {
-        "player": "Diogo Jota",
+        "player": "Alisson Becker",
         "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Being assessed day-to-day; fitness test planned for Saturday morning"
+        "status": "Recovering",
+        "return": "Expected back within two weeks; Caoimhin Kelleher to deputize in the meantime"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a face value of $1,000 is priced at $950. If the bond's yield to maturity (YTM) increases by 50 basis points, which of the following best describes the expected price change, and why?",
+      "exam": "FRM Part 2",
+      "topic": "Credit Risk",
+      "question": "A risk manager is evaluating a portfolio of corporate bonds using a Gaussian copula model to estimate joint default probabilities. The model assumes a uniform asset correlation of 0.25 across all pairs. Which of the following is the most significant limitation of this approach when applied to stressed market conditions?",
       "options": {
-        "A": "The price will increase by approximately $35, because bond prices and yields move in the same direction.",
-        "B": "The price will decrease by more than it would increase if yields fell by the same 50 bps, due to positive convexity.",
-        "C": "The price will decrease by the same amount it would increase if yields fell by 50 bps, because duration is symmetric.",
-        "D": "The price will increase because the bond is trading at a discount and moving closer to par."
+        "A": "The Gaussian copula underestimates marginal default probabilities for investment-grade issuers during normal conditions.",
+        "B": "The Gaussian copula fails to capture tail dependence, underestimating the probability of simultaneous defaults during market stress.",
+        "C": "The assumption of uniform correlation overstates diversification benefits only for high-yield portfolios.",
+        "D": "Gaussian copulas cannot accommodate more than two obligors, limiting portfolio-level analysis."
       },
       "correct": "B",
-      "explanation": "For option-free bonds, the price-yield relationship is convex, meaning that price increases from a yield decrease are larger in magnitude than price decreases from an equal yield increase — this is the property of positive convexity. Duration alone predicts a symmetric linear change, but convexity causes asymmetry in favor of the bondholder. Answer A is wrong because bond prices and yields move inversely. Answer D confuses the pull-to-par effect (which is gradual over time) with an immediate yield-driven price change."
+      "explanation": "The Gaussian copula's most critical flaw is its zero tail dependence — it assigns negligible probability to joint extreme losses occurring simultaneously, which severely underestimates correlated defaults during systemic stress events like the 2008 financial crisis. This was a central failure in CDO pricing models that relied on the Gaussian copula. Alternative copulas such as the Student-t or Clayton copula are preferred in stress scenarios because they exhibit positive tail dependence. The uniform correlation assumption is a simplification but is secondary to the tail dependence issue."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Interest Rate Risk",
-      "subtitle": "How mismatches between asset and liability durations expose financial institutions to interest rate volatility.",
+      "title": "Basis Risk in Hedging Strategies Explained",
+      "subtitle": "Understanding why a seemingly perfect hedge can still leave investors exposed to unexpected losses.",
       "paragraphs": [
-        "The duration gap is a measure used by banks and other financial institutions to quantify their net exposure to interest rate movements. It is calculated as the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for the leverage ratio. A positive duration gap means the institution's assets are more sensitive to interest rate changes than its liabilities, exposing it to losses when rates rise — exactly the vulnerability that contributed to the collapse of Silicon Valley Bank in 2023.",
-        "Consider a commercial bank that holds long-dated fixed-rate mortgage securities (high duration assets) funded largely by short-term customer deposits (low duration liabilities). When the Federal Reserve raised rates aggressively from near zero to over 5% between 2022 and 2023, the market value of those long-duration assets fell sharply while deposit liabilities repriced upward almost immediately. This classic duration gap mismatch crystallized unrealized losses on balance sheets across the regional banking sector, forcing institutions to either hold assets to maturity or realize significant losses upon sale.",
-        "For risk managers and investors, monitoring duration gap is essential for assessing a bank's interest rate risk profile. Regulators now increasingly scrutinize banks' AOCI (Accumulated Other Comprehensive Income) exposure and require stress testing against parallel rate shifts. Portfolio managers analyzing bank equity must factor in duration gap when modeling earnings sensitivity — a wide positive gap in a rising rate environment is a material red flag. Hedging tools such as interest rate swaps (receiving fixed, paying floating) can be deployed to compress the gap and stabilize net interest margin."
+        "Basis risk arises when the asset being hedged and the hedging instrument do not move in perfect lockstep, creating a residual exposure even after a hedge is in place. Formally, the basis is defined as the spot price of the asset minus the futures price of the hedging instrument. When these two prices diverge unexpectedly — due to differences in credit quality, geography, maturity, or liquidity — the hedger faces a loss that the hedge was designed to prevent. Basis risk is therefore the trade-off accepted when substituting a correlated instrument for a perfect hedge.",
+        "A classic example is an airline hedging jet fuel costs using crude oil futures. While jet fuel and crude oil prices are highly correlated, they are not identical — refining margins, regional supply disruptions, and seasonal demand can cause the spread between the two to widen dramatically. During the COVID-19 pandemic, airlines that held crude oil hedges discovered that jet fuel demand collapsed while crude remained relatively supported by broader energy markets, leaving hedgers exposed to substantial basis losses despite being nominally 'hedged.' Similarly, fixed income portfolio managers using Treasury futures to hedge corporate bond portfolios face basis risk from credit spread movements that futures cannot capture.",
+        "For risk managers and investors, understanding and quantifying basis risk is essential before implementing any hedging program. The optimal hedge ratio — typically estimated via regression of spot price changes on futures price changes — minimizes variance but cannot eliminate basis risk entirely. Practitioners must monitor basis levels continuously and stress-test hedges under scenarios where historical correlations break down. Failing to account for basis risk in Value-at-Risk models can lead to a material understatement of true portfolio risk, particularly during liquidity crises when correlations shift most violently."
       ],
       "key_takeaways": [
-        "A positive duration gap exposes a bank to mark-to-market losses when interest rates rise, as assets reprice down faster than liabilities.",
-        "The 2022–2023 rate hiking cycle exposed severe duration mismatches at several regional US banks, underscoring duration gap as a systemic risk metric.",
-        "Interest rate swaps and liability restructuring are primary tools institutions use to manage and reduce dangerous duration gaps."
+        "Basis risk is the residual price risk remaining after a hedge is applied, caused by imperfect correlation between the hedged asset and the hedging instrument.",
+        "The optimal hedge ratio derived from regression analysis minimizes but does not eliminate basis risk, especially during market stress.",
+        "Real-world hedges using proxies — such as crude oil for jet fuel or Treasuries for corporate bonds — can generate significant losses when spreads between instruments widen unexpectedly."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in the bank",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise, appointment, commitment",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (te-form + imasu)",
-      "grammar_explanation": "The pattern 〜ています is used to express an ongoing action or habitual behavior. Here, 'chokin shite imasu' means 'I am (habitually) saving,' indicating a repeated action rather than something happening right now.",
-      "memory_tip": "Think of 'cho-kin' as 'cho' (super/ultra in slang) + 'kin' (gold/money) — your super gold stash. Savings is your pile of super gold tucked away safely."
+      "example_jp": "明日の会議に遅れないと約束します。",
+      "example_romaji": "Ashita no kaigi ni okurenai to yakusoku shimasu.",
+      "example_en": "I promise I won't be late for tomorrow's meeting.",
+      "grammar_point": "〜と約束する",
+      "grammar_explanation": "The pattern 〜と約束する means 'to promise that...' where と marks the content of the promise as a quotation. It is used to report or make commitments, and the verb 約束する (to promise) can be conjugated for tense and formality.",
+      "memory_tip": "Think of 'yaku' sounding like 'yak' — imagine a yak making a solemn promise by bowing its head. A yak's promise is unbreakable, just like 約束!"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Now Autonomously Executing Multi-Step Financial Research Tasks",
-      "summary": "A new generation of agentic AI systems — built on frameworks like LangGraph and AutoGen — can now autonomously break down complex financial research tasks into sub-steps, call external tools such as market data APIs and SEC EDGAR, synthesize outputs, and produce structured investment memos with minimal human intervention. Early adopters at hedge funds and investment banks are deploying these agents for earnings call analysis, covenant review in credit agreements, and macro factor screening. Unlike traditional RPA or basic LLM chat tools, these agents maintain memory across steps, self-correct when outputs are inconsistent, and can operate overnight without supervision. The implication is a fundamental shift in the analyst workflow: from data gathering to judgment, interpretation, and client communication.",
+      "headline": "AI Agents Are Quietly Transforming How Investment Banks Operate",
+      "summary": "Major investment banks including JPMorgan, Goldman Sachs, and Morgan Stanley are deploying autonomous AI agents — systems capable of multi-step reasoning and tool use — across research, compliance, and trading operations. Unlike earlier generative AI tools that simply answered questions, these agents can execute workflows: querying databases, drafting regulatory filings, running scenario analyses, and flagging anomalies in real time without constant human prompting. Goldman's internally developed models are now reportedly assisting in equity research summarization and earnings call analysis at scale, compressing tasks that once took analyst teams hours into minutes. The competitive implication is significant: firms that successfully integrate agentic AI into front and middle-office functions will structurally lower their cost-to-income ratios while accelerating decision cycles.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "An AI system that can autonomously plan, execute multi-step tasks, use external tools, and adapt its approach based on intermediate results — moving beyond single-turn question-and-answer interactions toward goal-driven autonomous workflows relevant to research and analysis pipelines."
+          "definition": "AI systems that can autonomously plan, reason across multiple steps, and use external tools — like databases, APIs, or code interpreters — to complete complex financial tasks without step-by-step human instruction."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating a response, ensuring that financial analysis is grounded in current, specific, and accurate source material rather than relying solely on training data."
+          "definition": "A technique where an AI model retrieves relevant documents or data from a live database before generating a response, ensuring answers are grounded in current, firm-specific information rather than stale training data — critical for compliance and research applications."
         },
         {
-          "term": "Tool Calling (Function Calling)",
-          "definition": "The ability of a large language model to invoke external APIs, databases, or computation engines mid-task — for example, pulling real-time bond yields, running a DCF calculation, or querying a regulatory filing — enabling AI to interact with live financial infrastructure."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built large language model on a firm's proprietary data — such as historical credit memos or trading communications — so the model develops domain-specific expertise aligned with the institution's risk appetite and terminology."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, evaluate, and govern agentic AI workflows will command a significant premium over those who merely consume AI outputs passively. The highest-value skills emerging in this environment are AI workflow architecture, prompt engineering for structured financial outputs, and 'AI audit' — the ability to critically verify AI-generated analysis before it reaches a client or decision-maker. Junior analysts who embrace these tools as force multipliers rather than threats will be able to perform work previously requiring a full team, dramatically compressing the path to senior responsibility."
+      "career_insight": "Finance professionals who understand how to design, prompt, and critically evaluate AI agent outputs will have a durable edge over those who treat AI as a black box. The highest-value skill is not coding per se, but 'AI workflow design' — knowing how to decompose a complex financial problem into tasks that agents can reliably execute and audit. Risk managers in particular should develop fluency in model governance frameworks, as regulators are increasingly scrutinizing how firms validate and monitor AI-driven decisions in credit, trading, and compliance contexts."
     },
     "error": false,
-    "market_sentiment": "Global equity markets are navigating a delicate balancing act as investors reprice the 'higher for longer' narrative following a string of resilient US labor market prints and stickier-than-expected services inflation. The USD has firmed modestly against G10 peers, putting pressure on emerging market currencies and commodity exporters, while US 10-year Treasury yields hover near multi-month highs, creating a headwind for growth and long-duration equity valuations. Credit spreads remain relatively contained, suggesting markets are pricing soft-landing odds as the base case, though the dispersion between cyclical and defensive sector performance warns that conviction is fragile — any upside CPI surprise could rapidly reprice Fed cut expectations and rattle risk assets into month-end."
+    "market_sentiment": "Global risk assets are navigating a complex macro backdrop this week as investors weigh resilient U.S. labor market data against growing concerns about the Fed's higher-for-longer policy trajectory, with the 10-year Treasury yield hovering near multi-month highs and keeping pressure on rate-sensitive equities. Dollar strength continues to export tightening conditions to emerging markets, particularly commodity-importing economies in Asia and Latin America, where currency depreciation is complicating central bank easing cycles. Equity sentiment remains cautiously constructive in mega-cap tech on AI capex tailwinds, but breadth is narrowing — a classic late-cycle pattern that historically warrants defensive positioning and close attention to credit spread widening as a leading risk indicator."
   }
 }
