@@ -1,38 +1,38 @@
 {
-  "generated_at": "6:24 PM UTC",
-  "date": "Saturday, November 21, 2026",
+  "generated_at": "6:46 PM UTC",
+  "date": "Sunday, November 22, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 62,
-    "feels_like_f": 60,
-    "high_f": 63,
-    "low_f": 60,
-    "description": "Overcast Clouds",
-    "icon": "☁️",
-    "humidity": 56,
+    "temp_f": 58,
+    "feels_like_f": 58,
+    "high_f": 60,
+    "low_f": 57,
+    "description": "Mist",
+    "icon": "🌫️",
+    "humidity": 95,
     "wind_mph": 13,
     "forecast": [
       {
-        "day": "Sun",
-        "icon": "🌧️",
-        "high": 46,
-        "low": 46,
-        "description": "Moderate Rain"
-      },
-      {
         "day": "Mon",
-        "icon": "☁️",
-        "high": 49,
-        "low": 49,
-        "description": "Overcast Clouds"
+        "icon": "☀️",
+        "high": 53,
+        "low": 53,
+        "description": "Clear Sky"
       },
       {
         "day": "Tue",
         "icon": "☁️",
-        "high": 48,
-        "low": 48,
-        "description": "Overcast Clouds"
+        "high": 49,
+        "low": 49,
+        "description": "Broken Clouds"
+      },
+      {
+        "day": "Wed",
+        "icon": "☁️",
+        "high": 39,
+        "low": 39,
+        "description": "Broken Clouds"
       }
     ]
   },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 60195.93,
-        "change": 1039.71,
-        "change_pct": 1.76,
+        "price": 60744.16,
+        "change": 610.81,
+        "change_pct": 1.02,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1683.99,
-        "change": 43.4,
-        "change_pct": 2.65,
+        "price": 1715.66,
+        "change": 32.85,
+        "change_pct": 1.95,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,59 +111,59 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Dow bounces, S&P 500 and Nasdaq fall as major indexes head for worst week since 'liberation day' - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-anthropic-ipo-second-day-trading",
-        "description": "Follow all the latest U.S. market action for Friday here on Anthropic's second day of trading.",
-        "published": "4:28 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "These 51+ Amazon Black Friday deals are even better than Prime Day - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/select/shopping/amazon-black-friday-2026-deals-rcna610222",
-        "description": "Amazon’s Black Friday 2026 deals are here — shop discounts on tech, home, and trending holiday gifts.",
-        "published": "4:15 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Anthropic IPO live: Anthropic stock drops after first day of trading - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-drops-after-first-day-of-trading-143300513.html",
-        "description": "Anthropic began publicly trading on Thursday.",
-        "published": "4:06 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "First Look at iPhone Air 2 and iPhone 18 Revealed By Dummy Models - MacRumors",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/",
-        "description": "New images of dummy models offer an early look at the purported designs of the iPhone Air 2 and iPhone 18, showing a new dual rear camera arrangement...",
-        "published": "1:31 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years - Yahoo Tech",
-        "source": "Yahoo Entertainment",
-        "url": "https://tech.yahoo.com/gaming/breaking-news/live/gta-6-release-live-updates-reviews-memes-and-more-as-gamers-explore-and-react-to-leonida-after-13-long-years-230554192.html",
-        "description": "After an extended wait, the sequel to 'GTA 5' is out and people are stoked.",
-        "published": "10:46 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Windows 11 KB5132057 update released with 28 changes and fixes - BleepingComputer",
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-        "description": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog.",
-        "published": "9:25 AM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "Saudi Arabia attacks Yemen's Houthis and intercepts more missiles and drones, and other Mideast news - AP News",
+        "title": "A 10% drop for the stock market is unnerving, but it’s not that unusual - AP News",
         "source": "Associated Press",
-        "url": "https://apnews.com/article/saudi-yemen-war-iran-iraq-november-20-2026-16c39c487a23b53b73c5eabb7f0fd57a",
-        "description": "The Saudi-led coalition fighting Yemen’s Houthis says it has targeted the rebels' operations to smuggle and transport weapons in Yemen’s main Red Sea port of Hodeidah. The coalition also carried out a",
-        "published": "4:10 PM UTC",
+        "url": "https://apnews.com/article/ai-tech-stocks-correction-sp-500-e69b0efcc423bc91871c1afabf36742d",
+        "description": "The U.S. stock market has dropped 10% from its high set last month amid concerns about the growing hurdles faced by the high-flying artificial intelligence industry. The fall for the S&P 500 is steep ",
+        "published": "2:01 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Costco makes a tough store closure decision - TheStreet",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/retail/costco-makes-a-tough-store-closure-decision",
+        "description": "",
+        "published": "1:33 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+        "description": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections.",
+        "published": "1:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida - Yahoo Tech",
+        "source": "Yahoo Entertainment",
+        "url": "https://tech.yahoo.com/gaming/breaking-news/live/gta-6-live-updates-record-38-billion-launch-viral-clips-and-the-secrets-players-are-finding-in-leonida-163038757.html",
+        "description": "GTA 6 had a record $3.79 billion launch day. Players are now finding Easter eggs, celebrity cameos and hidden tributes across Leonida.",
+        "published": "4:30 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings",
+        "description": "Counter-attack",
+        "published": "3:30 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "The Fastest Way To Increase Focus Levels In ‘GTA 6’ - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/paultassi/2026/11/21/the-fastest-way-to-increase-focus-levels-in-gta-6/",
+        "description": "",
+        "published": "3:11 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/",
+        "description": "Senate Republicans won’t advance two political nominees for key policy jobs. The administration’s nominees to lead the Army and Navy also have encountered resistance, as has its ask for hundreds of bi",
+        "published": "2:31 PM UTC",
         "category": "General"
       }
     ]
@@ -234,9 +234,9 @@
       {
         "home": "Newcastle",
         "away": "Arsenal",
-        "home_score": 0,
-        "away_score": 1,
-        "status": "IN_PLAY",
+        "home_score": 2,
+        "away_score": 2,
+        "status": "FINISHED",
         "time": "5:30 PM UTC",
         "date": "Nov 21",
         "highlighted": false
@@ -244,9 +244,9 @@
       {
         "home": "Hull City",
         "away": "Brighton Hove",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 2,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "2:00 PM UTC",
         "date": "Nov 22",
         "highlighted": false
@@ -254,11 +254,21 @@
       {
         "home": "Liverpool",
         "away": "Man United",
+        "home_score": 4,
+        "away_score": 0,
+        "status": "FINISHED",
+        "time": "4:30 PM UTC",
+        "date": "Nov 22",
+        "highlighted": false
+      },
+      {
+        "home": "Brentford",
+        "away": "Everton",
         "home_score": null,
         "away_score": null,
         "status": "TIMED",
-        "time": "4:30 PM UTC",
-        "date": "Nov 22",
+        "time": "8:00 PM UTC",
+        "date": "Nov 23",
         "highlighted": false
       }
     ],
@@ -267,21 +277,21 @@
         "position": 1,
         "team": "Arsenal",
         "played": 11,
-        "won": 10,
-        "drawn": 0,
+        "won": 9,
+        "drawn": 1,
         "lost": 1,
-        "gd": 11,
-        "points": 30,
+        "gd": 10,
+        "points": 28,
         "highlighted": false
       },
       {
         "position": 2,
         "team": "Brighton Hove",
-        "played": 10,
+        "played": 11,
         "won": 7,
         "drawn": 1,
-        "lost": 2,
-        "gd": 19,
+        "lost": 3,
+        "gd": 17,
         "points": 22,
         "highlighted": false
       },
@@ -298,22 +308,22 @@
       },
       {
         "position": 4,
+        "team": "Liverpool",
+        "played": 11,
+        "won": 6,
+        "drawn": 3,
+        "lost": 2,
+        "gd": 8,
+        "points": 21,
+        "highlighted": false
+      },
+      {
+        "position": 5,
         "team": "Bournemouth",
         "played": 11,
         "won": 5,
         "drawn": 3,
         "lost": 3,
-        "gd": 4,
-        "points": 18,
-        "highlighted": false
-      },
-      {
-        "position": 5,
-        "team": "Liverpool",
-        "played": 10,
-        "won": 5,
-        "drawn": 3,
-        "lost": 2,
         "gd": 4,
         "points": 18,
         "highlighted": false
@@ -334,31 +344,31 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Target Bundesliga Midfielder as Partey Replacement Identified",
-        "summary": "Arsenal's recruitment team has reportedly shortlisted a highly-rated central midfielder from the Bundesliga as a long-term successor to Thomas Partey, whose contract situation remains unresolved. Talks are said to be in early stages with a move potentially targeted for the January window.",
+        "headline": "Manchester United Revive Interest in Bundesliga Midfielder Amid Midfield Rebuild",
+        "summary": "Manchester United's new football leadership structure is reportedly tracking Florian Wirtz as a marquee signing target, though Bayer Leverkusen's asking price north of £120 million remains a significant obstacle with FFP constraints still biting at Old Trafford.",
         "clubs": [
-          "Arsenal",
+          "Manchester United",
           "Bayer Leverkusen"
         ]
       },
       {
-        "headline": "Manchester United in Advanced Talks for Sporting CP Striker",
-        "summary": "Manchester United are understood to be in advanced discussions with Sporting CP over a striker target as the club looks to address a chronic goal-scoring deficiency that has blighted their Premier League campaign. A fee in the region of £55–65 million is being discussed.",
+        "headline": "Chelsea Enter Race for Napoli Striker as Attack Remains Misfiring",
+        "summary": "Chelsea are understood to have made preliminary contact with Napoli regarding Victor Osimhen, as the Blues look to add a clinical No. 9 to complement a squad that has struggled to convert chances consistently despite heavy investment in wide creators.",
         "clubs": [
-          "Manchester United",
-          "Sporting CP"
+          "Chelsea",
+          "Napoli"
         ]
       }
     ],
     "match_preview": {
-      "home": "Liverpool",
+      "home": "Arsenal",
       "away": "Manchester City",
-      "date": "Sunday, 3:00 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits first-place Liverpool against a Manchester City side desperately seeking to close the gap at the top following a turbulent run of form. Liverpool arrive at Anfield having won seven of their last eight league matches, with their high press looking as cohesive as it has all season, while City will look to Erling Haaland to provide the individual brilliance needed to unlock a stingy home backline. The tactical duel between Slot's structured pressing system and Guardiola's positional play promises to be absorbing, with the result carrying significant title-race implications for both clubs.",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The title race's defining fixture arrives at the Emirates as Arsenal host Manchester City in what could be a six-point swing at the summit of the Premier League. Arsenal enter on the back of four consecutive wins and boast an electric home atmosphere, while Pep Guardiola's City have been grinding results despite not hitting their fluid best — making this a fascinating clash of styles between Arsenal's high-intensity pressing and City's positional control. With the gap at the top in single digits, both managers know that a defeat here could effectively end their title ambitions before the final stretch.",
       "key_players": [
-        "Mohamed Salah",
+        "Bukayo Saka",
         "Erling Haaland",
-        "Virgil van Dijk"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
@@ -366,76 +376,76 @@
         "player": "Kevin De Bruyne",
         "team": "Manchester City",
         "status": "Doubtful",
-        "return": "Expected to be assessed on matchday; potential return within 1-2 weeks if ruled out Sunday"
+        "return": "Being assessed day-to-day; fitness test expected Saturday morning"
       },
       {
-        "player": "Dominic Solanke",
-        "team": "Tottenham Hotspur",
-        "status": "Out",
-        "return": "Approximately 3 weeks; targeting return after the international break"
+        "player": "Ben White",
+        "team": "Arsenal",
+        "status": "Recovering",
+        "return": "Expected to return within two weeks; unlikely to feature Sunday"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "FRM Part 1",
-      "topic": "Credit Risk",
-      "question": "A bank estimates the following for a corporate loan portfolio: Probability of Default (PD) = 2.5%, Loss Given Default (LGD) = 45%, and Exposure at Default (EAD) = $80 million. Additionally, the unexpected loss (UL) is calculated at $3.2 million. Which of the following statements is MOST accurate regarding economic capital and expected loss?",
+      "exam": "CFA Level 1",
+      "topic": "Fixed Income",
+      "question": "A bond with a 6% annual coupon, 10-year maturity, and a yield-to-maturity of 8% is trading at a discount. If the YTM immediately falls to 7%, which of the following best describes the price change relative to a bond with the same characteristics but a 20-year maturity?",
       "options": {
-        "A": "Economic capital should cover both expected loss and unexpected loss; the bank should hold $4.1 million in total reserves.",
-        "B": "Expected loss equals $0.9 million and should be covered by loan loss provisions, while economic capital is allocated to cover unexpected loss.",
-        "C": "Expected loss equals $2.0 million and economic capital is set equal to Value-at-Risk minus expected loss.",
-        "D": "Unexpected loss is irrelevant to economic capital allocation since it cannot be statistically estimated."
+        "A": "The 10-year bond will exhibit greater price appreciation than the 20-year bond.",
+        "B": "The 20-year bond will exhibit greater price appreciation than the 10-year bond.",
+        "C": "Both bonds will exhibit identical price appreciation because the coupon and YTM change are the same.",
+        "D": "The price change cannot be determined without knowing the bond's convexity."
       },
       "correct": "B",
-      "explanation": "Expected Loss (EL) = PD × LGD × EAD = 0.025 × 0.45 × $80M = $0.9 million. EL is a known, recurring cost of doing business and should be priced into loan spreads and covered by loan loss provisions — not economic capital. Economic capital is specifically allocated to absorb unexpected losses (UL), which represent the statistical deviation of actual losses above the expected level. Option A incorrectly adds EL and UL for provisioning, and Option C uses an incorrect EL figure."
+      "explanation": "Duration increases with maturity, meaning longer-term bonds are more sensitive to changes in yield. The 20-year bond has a higher modified duration than the 10-year bond, so a given decline in YTM produces a larger percentage price increase. This relationship is a core principle of interest rate risk: for bonds with identical coupons and similar starting YTMs, the longer the maturity, the greater the price volatility. While convexity also matters, the directional conclusion is clear from duration alone."
     },
     "finance_topic": {
-      "title": "Basis Risk and the Limits of Hedging",
-      "subtitle": "Why perfect hedges are rare and basis risk is the hidden cost every risk manager must understand.",
+      "title": "Duration Gap and Bank Interest Rate Risk",
+      "subtitle": "How mismatches between asset and liability durations expose financial institutions to rate-driven balance sheet stress.",
       "paragraphs": [
-        "Basis risk arises when the hedge instrument does not move in perfect lockstep with the underlying exposure being hedged. It is formally defined as the difference between the spot price of the asset being hedged and the futures or derivative price used to hedge it. Even when a hedge is carefully constructed, changes in this 'basis' — driven by supply-demand imbalances, delivery specifications, credit spreads, or geographic differences — can erode or amplify hedging effectiveness in unpredictable ways.",
-        "A classic real-world example emerged in energy markets when airlines hedged jet fuel exposure using crude oil futures. Because jet fuel and crude oil prices do not always move in a fixed ratio — refining margins fluctuate, regional supply disruptions occur — several carriers found their hedges significantly underperformed during periods of elevated crack spreads. Similarly, fixed-income portfolio managers who hedge corporate bond exposure with Treasury futures face basis risk driven by fluctuating credit spreads, known as 'credit basis,' which widened dramatically during the 2008 financial crisis, leaving many hedges far less effective than modeled.",
-        "For risk managers and investors, basis risk means that a 'hedged' portfolio is not risk-free — it has simply transformed one type of risk into another, potentially less liquid or less transparent one. Institutions must stress-test hedges under scenarios where the basis moves adversely, disclose residual basis risk in their risk reporting, and ensure the hedge ratio is dynamically adjusted as market conditions shift. Ignoring basis risk leads to overconfidence in hedge effectiveness and can result in significant mark-to-market losses even on ostensibly protected books."
+        "The duration gap is a measure used by banks and financial institutions to quantify their net exposure to interest rate movements. It is calculated as the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for the leverage ratio. A positive duration gap means the institution's assets are more rate-sensitive than its liabilities, so rising interest rates will reduce the economic value of equity — the precise vulnerability that felled Silicon Valley Bank in 2023.",
+        "The collapse of SVB became a textbook illustration of duration gap risk. The bank had loaded its balance sheet with long-duration U.S. Treasury bonds and agency mortgage-backed securities funded by short-term, rate-sensitive deposits. When the Fed raised rates aggressively in 2022–2023, the market value of SVB's assets cratered while its liabilities repriced upward almost immediately. The resulting duration gap — estimated at over 5 years — meant that even a moderate rate shock translated into catastrophic equity erosion, triggering a classic bank run once unrealized losses became public.",
+        "For risk managers and investors, monitoring duration gaps is essential when evaluating bank stocks, insurance companies, and pension funds. Institutions with large positive duration gaps are effectively running an unhedged long-bond position and face mark-to-market losses in rising rate environments. Prudent asset-liability management (ALM) involves using interest rate swaps, futures, or adjusting the portfolio's maturity profile to bring the duration gap close to zero, insulating equity value from rate volatility."
       ],
       "key_takeaways": [
-        "Basis risk is the residual risk remaining after a hedge is applied, caused by imperfect correlation between the hedging instrument and the underlying exposure.",
-        "Real-world hedges in energy, fixed income, and FX markets routinely face basis risk that widens during market stress — precisely when hedges are most needed.",
-        "Risk managers must dynamically monitor and adjust hedge ratios, stress-test basis scenarios, and account for basis risk explicitly in their VaR and economic capital models."
+        "A positive duration gap signals that rising rates will erode an institution's economic net worth — the core risk that triggered the 2023 regional banking crisis.",
+        "Duration gap = Asset Duration − (Liabilities/Assets) × Liability Duration; a gap near zero implies a well-hedged balance sheet.",
+        "Investors screening bank stocks should examine unrealized losses in held-to-maturity portfolios and the institution's disclosed interest rate sensitivity as proxies for duration gap exposure."
       ]
     },
     "japanese": {
       "word": "貯金",
       "reading": "chokin",
-      "meaning": "savings; money saved in the bank",
+      "meaning": "savings; money saved in a bank",
       "part_of_speech": "noun",
       "example_jp": "毎月、給料の一部を貯金しています。",
       "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
       "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜ています (ongoing action/habit)",
-      "grammar_explanation": "The pattern 〜ています (te-form of verb + います) expresses an ongoing action, a habit, or a current state. Here, 'chokin shite imasu' means the saving is a repeated, habitual action — something the speaker does regularly, not just once.",
-      "memory_tip": "Think of 'cho-kin' as 'cho-keep' — you are KEEPING (kin sounds like 'keep-in') your money stored away safely. Picture a piggy bank with a little lock on it labelled CHO."
+      "grammar_point": "〜しています",
+      "grammar_explanation": "The pattern 〜しています (shite imasu) expresses an ongoing habit or current state. It combines the te-form of a verb with います (imasu) to show something that happens repeatedly or is continuously true about the subject.",
+      "memory_tip": "Think of 'chokin' as 'choking' your spending — you hold back and store money away instead of spending it freely."
     },
     "ai_strategy": {
-      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Bank Lending Decisions",
-      "summary": "Major financial institutions and fintech lenders are deploying large language models and gradient-boosted machine learning systems to augment — and in some cases replace — traditional FICO-based credit underwriting. These models ingest thousands of alternative data signals, including cash flow patterns, payment timing behaviors, and even supply chain data, enabling lenders to extend credit to previously 'thin-file' borrowers while maintaining or improving loss rates. Regulators in the US and EU are now racing to establish explainability standards, recognizing that black-box credit decisions create fair-lending compliance risks. The firms leading in this space are not just improving approval rates — they are fundamentally repricing credit risk and gaining structural underwriting advantages over competitors still relying on legacy scorecards.",
+      "headline": "AI Agents Are Quietly Automating Investment Research Workflows at Scale",
+      "summary": "A new wave of autonomous AI agents — systems that can plan, execute multi-step tasks, and use external tools without human prompting — is beginning to reshape the investment research process at major asset managers. Firms including BlackRock, JPMorgan, and several quant hedge funds are deploying agentic AI pipelines that can ingest earnings transcripts, pull macroeconomic data, cross-reference regulatory filings, and draft preliminary analyst reports in minutes rather than hours. Unlike traditional LLM chatbots that require constant human prompting, these agents operate with goal-directed autonomy, calling APIs, writing code, and iterating on outputs in a feedback loop. The implication is not mass analyst redundancy but a fundamental shift in what constitutes 'analyst alpha' — human judgment will increasingly be applied at the interpretation and decision layer, not the data-gathering layer.",
       "concepts": [
         {
-          "term": "Gradient Boosting (XGBoost/LightGBM)",
-          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate predictions from structured financial data — widely used in credit scoring because it handles missing data and non-linear relationships well."
+          "term": "Agentic AI",
+          "definition": "AI systems that autonomously break down a complex goal into sub-tasks, use tools (web search, code execution, database queries), and iterate until the goal is achieved — without requiring step-by-step human instruction. In finance, this means an agent can be told 'analyze Q2 earnings risk for the S&P 500 healthcare sector' and independently gather, process, and synthesize the required data."
         },
         {
-          "term": "Explainability (SHAP Values)",
-          "definition": "SHAP (SHapley Additive exPlanations) assigns each input feature a contribution score to a model's output, allowing risk managers and compliance officers to explain why a loan was approved or denied — critical for satisfying fair-lending regulations like ECOA in the US."
+          "term": "Retrieval-Augmented Generation (RAG)",
+          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating its response, grounding outputs in current, verifiable facts. Financial firms use RAG to give LLMs access to live filings, internal research databases, and proprietary datasets without the risk of the model hallucinating figures."
         },
         {
-          "term": "Alternative Data in Credit",
-          "definition": "Non-traditional data sources — such as rent payment history, bank transaction patterns, utility bills, and e-commerce behavior — used to assess creditworthiness of individuals or SMEs who lack conventional credit histories, dramatically expanding the addressable lending market."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built AI model on a domain-specific dataset to improve its performance on specialized tasks. In finance, firms fine-tune models on earnings call transcripts, credit memos, or trading communications to create models that understand industry jargon, accounting nuance, and risk language more precisely than a general-purpose model."
         }
       ],
-      "career_insight": "Credit analysts and risk managers who understand both the mechanics of ML-based underwriting models and the regulatory constraints around model explainability will be disproportionately valuable over the next decade. The ability to validate, challenge, and interpret AI-driven credit models — not just build them — is emerging as the defining skill for senior risk roles at banks, insurance companies, and asset managers. Professionals who combine domain expertise in credit fundamentals with fluency in model governance frameworks will find themselves at the intersection of the highest-demand roles in financial services."
+      "career_insight": "Finance professionals who will thrive in the next five years are those who can function as 'AI orchestrators' — people who understand how to design workflows, evaluate model outputs critically, and know when AI analysis is structurally flawed. Technical fluency in Python, prompt engineering, and basic ML concepts is becoming a baseline expectation at top-tier asset managers and investment banks, with dedicated 'AI Associate' roles now appearing in front-office job postings at Goldman Sachs, Citadel, and Bridgewater."
     },
     "error": false,
-    "market_sentiment": "Global risk assets are navigating a cautiously constructive but data-dependent environment, with equity markets oscillating around rate-path expectations as central banks signal a higher-for-longer bias while simultaneously acknowledging softening labor market data. Treasury yields remain elevated across the curve, keeping pressure on rate-sensitive sectors including real estate and utilities, while credit spreads in investment-grade have held relatively tight — suggesting institutional demand for carry remains robust even as growth concerns percolate. Commodities are the wildcard this week, with oil prices sensitive to geopolitical developments in the Middle East and dollar strength acting as a broad headwind for emerging market currencies and local-currency debt; the base case is range-bound volatility until the next major CPI print resets market pricing."
+    "market_sentiment": "Risk appetite is showing signs of fatigue after a strong first-half equity rally, with investors rotating defensively ahead of a data-heavy week featuring U.S. CPI and a slate of Fed speakers. Treasury yields are holding elevated around the 4.4–4.5% range on the 10-year as the market reprices rate cut expectations toward a shallower path, keeping the dollar bid and pressure on emerging market currencies. Commodities remain a focal point with crude oil consolidating near $82/bbl amid OPEC+ supply discipline, while gold's resilience above $2,300/oz suggests safe-haven demand is quietly building beneath the surface of equity complacency."
   }
 }
