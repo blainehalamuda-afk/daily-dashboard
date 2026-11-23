@@ -1,38 +1,38 @@
 {
-  "generated_at": "6:46 PM UTC",
-  "date": "Sunday, November 22, 2026",
+  "generated_at": "10:59 PM UTC",
+  "date": "Monday, November 23, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 58,
-    "feels_like_f": 58,
-    "high_f": 60,
-    "low_f": 57,
-    "description": "Mist",
-    "icon": "🌫️",
-    "humidity": 95,
-    "wind_mph": 13,
+    "temp_f": 64,
+    "feels_like_f": 64,
+    "high_f": 66,
+    "low_f": 62,
+    "description": "Scattered Clouds",
+    "icon": "⛅",
+    "humidity": 85,
+    "wind_mph": 2,
     "forecast": [
-      {
-        "day": "Mon",
-        "icon": "☀️",
-        "high": 53,
-        "low": 53,
-        "description": "Clear Sky"
-      },
       {
         "day": "Tue",
         "icon": "☁️",
-        "high": 49,
-        "low": 49,
-        "description": "Broken Clouds"
+        "high": 48,
+        "low": 48,
+        "description": "Overcast Clouds"
       },
       {
         "day": "Wed",
         "icon": "☁️",
-        "high": 39,
-        "low": 39,
-        "description": "Broken Clouds"
+        "high": 38,
+        "low": 38,
+        "description": "Overcast Clouds"
+      },
+      {
+        "day": "Thu",
+        "icon": "🌧️",
+        "high": 49,
+        "low": 49,
+        "description": "Moderate Rain"
       }
     ]
   },
@@ -43,10 +43,10 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 689.81,
-        "change": -26.06,
-        "change_pct": -3.64,
-        "up": false,
+        "price": 722.29,
+        "change": 32.48,
+        "change_pct": 4.71,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -54,10 +54,10 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 342.56,
-        "change": -6.65,
-        "change_pct": -1.9,
-        "up": false,
+        "price": 349.08,
+        "change": 6.52,
+        "change_pct": 1.9,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -65,10 +65,10 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 125.53,
-        "change": -20.45,
-        "change_pct": -14.01,
-        "up": false,
+        "price": 165.05,
+        "change": 39.52,
+        "change_pct": 31.48,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -76,10 +76,10 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 345.82,
-        "change": -28.59,
-        "change_pct": -7.64,
-        "up": false,
+        "price": 385.46,
+        "change": 39.64,
+        "change_pct": 11.46,
+        "up": true,
         "is_crypto": false,
         "error": false
       },
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 60744.16,
-        "change": 610.81,
-        "change_pct": 1.02,
+        "price": 61238.36,
+        "change": 149.72,
+        "change_pct": 0.25,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1715.66,
-        "change": 32.85,
-        "change_pct": 1.95,
-        "up": true,
+        "price": 1712.83,
+        "change": -5.69,
+        "change_pct": -0.33,
+        "up": false,
         "is_crypto": true,
         "error": false
       }
@@ -111,59 +111,75 @@
     "error": false,
     "articles": [
       {
-        "title": "A 10% drop for the stock market is unnerving, but it’s not that unusual - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/ai-tech-stocks-correction-sp-500-e69b0efcc423bc91871c1afabf36742d",
-        "description": "The U.S. stock market has dropped 10% from its high set last month amid concerns about the growing hurdles faced by the high-flying artificial intelligence industry. The fall for the S&P 500 is steep ",
-        "published": "2:01 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Costco makes a tough store closure decision - TheStreet",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/retail/costco-makes-a-tough-store-closure-decision",
-        "description": "",
-        "published": "1:33 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-        "description": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections.",
-        "published": "1:00 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "‘GTA 6’ live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida - Yahoo Tech",
+        "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
         "source": "Yahoo Entertainment",
-        "url": "https://tech.yahoo.com/gaming/breaking-news/live/gta-6-live-updates-record-38-billion-launch-viral-clips-and-the-secrets-players-are-finding-in-leonida-163038757.html",
-        "description": "GTA 6 had a record $3.79 billion launch day. Players are now finding Easter eggs, celebrity cameos and hidden tributes across Leonida.",
+        "url": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html",
+        "description": "Anthropic's public debut did little to calm the stock market as the AI trade unravels.",
+        "published": "7:00 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens - CNBC",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+        "description": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+        "published": "6:55 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Nvidia Stock Has A Cockroach Problem. What Comes Next Could Be Worse - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/jimosman/2026/11/22/nvidia-stock-has-a-cockroach-problem-what-comes-next-could-be-worse/",
+        "description": "",
+        "published": "5:37 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years - Polygon.com",
+        "source": "Polygon",
+        "url": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
+        "description": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage.",
+        "published": "7:32 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Oh No, I Can’t Stop Watching People Play ‘GTA VI’ - Defector",
+        "source": "Defector.com",
+        "url": "https://defector.com/oh-no-i-cant-stop-watching-people-play-gta-vi",
+        "description": "I did not imagine that the release of Grand Theft Auto VI would have any meaningful impact on my life, for the simple reason that I am not a gamer. I know and even respect a few people for whom video ",
+        "published": "5:31 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "GTA 6’s Worst Feature Needs to Be Patched ASAP - Polygon.com",
+        "source": "Polygon",
+        "url": "https://www.polygon.com/gta-6-stash-box-atm-money/",
+        "description": "Depositing and withdrawing money from your stash box and ATMs is shockingly fiddly and counterintuitive in GTA 6.",
         "published": "4:30 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings - Push Square",
-        "source": "Push Square",
-        "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings",
-        "description": "Counter-attack",
-        "published": "3:30 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "The Fastest Way To Increase Focus Levels In ‘GTA 6’ - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/11/21/the-fastest-way-to-increase-focus-levels-in-gta-6/",
-        "description": "",
-        "published": "3:11 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds - The Washington Post",
+        "title": "Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care - The Washington Post",
         "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/",
-        "description": "Senate Republicans won’t advance two political nominees for key policy jobs. The administration’s nominees to lead the Army and Navy also have encountered resistance, as has its ask for hundreds of bi",
-        "published": "2:31 PM UTC",
+        "url": "https://www.washingtonpost.com/politics/2026/11/22/trump-reposts-el-sayeds-trumpcare-proposal/",
+        "description": "« Guarantee healthcare for every American, from cradle to grave, » Sen.-elect Abdul El-Sayed posted this month, with a mock-up of a gold « TrumpCare » card.",
+        "published": "8:27 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings - CBS Sports",
+        "source": "CBS Sports",
+        "url": "https://www.cbssports.com/college-football/news/college-football-rankings-ap-top-25-poll-week-13-ucla-indiana-texas/",
+        "description": "The Bruins' first loss and the Hoosiers' stunning overtime defeat had consequences, as the Longhorns benefited most from the chaos in Week 12",
+        "published": "7:23 PM UTC",
+        "category": "General"
+      },
+      {
+        "title": "Rep. Virginia Foxx loses reelection bid after 11 terms - Politico",
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/11/22/rep-virginia-foxx-loses-reelection-01180093",
+        "description": "The victory for Democrat Chuck Hubbard will have local and national reverberations as it pushes Democrats to a 258 seat majority.",
+        "published": "7:03 PM UTC",
         "category": "General"
       }
     ]
@@ -171,76 +187,6 @@
   "sports": {
     "error": false,
     "matches": [
-      {
-        "home": "Man City",
-        "away": "Fulham",
-        "home_score": 1,
-        "away_score": 1,
-        "status": "FINISHED",
-        "time": "12:30 PM UTC",
-        "date": "Nov 21",
-        "highlighted": false
-      },
-      {
-        "home": "Chelsea",
-        "away": "Leeds United",
-        "home_score": 1,
-        "away_score": 4,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "Nov 21",
-        "highlighted": false
-      },
-      {
-        "home": "Aston Villa",
-        "away": "Sunderland",
-        "home_score": 0,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "Nov 21",
-        "highlighted": false
-      },
-      {
-        "home": "Bournemouth",
-        "away": "Nottingham",
-        "home_score": 2,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "Nov 21",
-        "highlighted": false
-      },
-      {
-        "home": "Tottenham",
-        "away": "Ipswich Town",
-        "home_score": 2,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "Nov 21",
-        "highlighted": false
-      },
-      {
-        "home": "Coventry City",
-        "away": "Crystal Palace",
-        "home_score": 3,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "3:00 PM UTC",
-        "date": "Nov 21",
-        "highlighted": false
-      },
-      {
-        "home": "Newcastle",
-        "away": "Arsenal",
-        "home_score": 2,
-        "away_score": 2,
-        "status": "FINISHED",
-        "time": "5:30 PM UTC",
-        "date": "Nov 21",
-        "highlighted": false
-      },
       {
         "home": "Hull City",
         "away": "Brighton Hove",
@@ -264,9 +210,9 @@
       {
         "home": "Brentford",
         "away": "Everton",
-        "home_score": null,
-        "away_score": null,
-        "status": "TIMED",
+        "home_score": 4,
+        "away_score": 0,
+        "status": "FINISHED",
         "time": "8:00 PM UTC",
         "date": "Nov 23",
         "highlighted": false
@@ -330,12 +276,12 @@
       },
       {
         "position": 6,
-        "team": "Leeds United",
+        "team": "Brentford",
         "played": 11,
         "won": 4,
         "drawn": 5,
         "lost": 2,
-        "gd": 5,
+        "gd": 9,
         "points": 17,
         "highlighted": false
       }
@@ -344,16 +290,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Manchester United Revive Interest in Bundesliga Midfielder Amid Midfield Rebuild",
-        "summary": "Manchester United's new football leadership structure is reportedly tracking Florian Wirtz as a marquee signing target, though Bayer Leverkusen's asking price north of £120 million remains a significant obstacle with FFP constraints still biting at Old Trafford.",
+        "headline": "Manchester United Target Athletic Club Midfielder in €55M Move",
+        "summary": "Manchester United are reportedly in advanced discussions to sign Athletic Club's dynamic box-to-box midfielder, with personal terms said to be agreed and a medical potentially scheduled for next week. The move would address INEOS's identified need for a more progressive ball-carrier in the center of the park.",
         "clubs": [
           "Manchester United",
-          "Bayer Leverkusen"
+          "Athletic Club"
         ]
       },
       {
-        "headline": "Chelsea Enter Race for Napoli Striker as Attack Remains Misfiring",
-        "summary": "Chelsea are understood to have made preliminary contact with Napoli regarding Victor Osimhen, as the Blues look to add a clinical No. 9 to complement a squad that has struggled to convert chances consistently despite heavy investment in wide creators.",
+        "headline": "Chelsea Revive Interest in Napoli Striker as Striker Search Intensifies",
+        "summary": "Chelsea's recruitment team has reportedly re-engaged with Napoli over their prolific striker after a January approach broke down over valuation. With the summer window open, Napoli are understood to be more receptive at a figure in the region of £70M amid their own squad restructuring.",
         "clubs": [
           "Chelsea",
           "Napoli"
@@ -364,88 +310,88 @@
       "home": "Arsenal",
       "away": "Manchester City",
       "date": "Sunday, 4:30 PM BST",
-      "preview": "The title race's defining fixture arrives at the Emirates as Arsenal host Manchester City in what could be a six-point swing at the summit of the Premier League. Arsenal enter on the back of four consecutive wins and boast an electric home atmosphere, while Pep Guardiola's City have been grinding results despite not hitting their fluid best — making this a fascinating clash of styles between Arsenal's high-intensity pressing and City's positional control. With the gap at the top in single digits, both managers know that a defeat here could effectively end their title ambitions before the final stretch.",
+      "preview": "The standout fixture of the Premier League weekend pits title-chasing Arsenal against reigning champions Manchester City in what has the feel of a genuine six-pointer. Arsenal arrive on the back of four consecutive league wins and will be buoyed by a raucous Emirates atmosphere, while City must respond after a midweek Champions League exertion that has raised questions about squad depth and Pep Guardiola's rotation choices. The tactical battle between Mikel Arteta's high-press 4-3-3 and City's positional fluidity in the half-spaces shapes up as one of the most compelling managerial chess matches of the season.",
       "key_players": [
         "Bukayo Saka",
-        "Erling Haaland",
+        "Kevin De Bruyne",
         "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed day-to-day; fitness test expected Saturday morning"
+        "status": "Recovering",
+        "return": "Expected return mid-November following ACL rehabilitation"
       },
       {
         "player": "Ben White",
         "team": "Arsenal",
-        "status": "Recovering",
-        "return": "Expected to return within two weeks; unlikely to feature Sunday"
+        "status": "Doubtful",
+        "return": "Late fitness test Saturday; hamstring tightness picked up in training"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
-      "exam": "CFA Level 1",
-      "topic": "Fixed Income",
-      "question": "A bond with a 6% annual coupon, 10-year maturity, and a yield-to-maturity of 8% is trading at a discount. If the YTM immediately falls to 7%, which of the following best describes the price change relative to a bond with the same characteristics but a 20-year maturity?",
+      "exam": "CFA Level 2",
+      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
+      "question": "An analyst is evaluating a bond using the Cox-Ingersoll-Ross (CIR) model versus the Vasicek model. Which of the following statements most accurately describes a key difference between these two term structure models?",
       "options": {
-        "A": "The 10-year bond will exhibit greater price appreciation than the 20-year bond.",
-        "B": "The 20-year bond will exhibit greater price appreciation than the 10-year bond.",
-        "C": "Both bonds will exhibit identical price appreciation because the coupon and YTM change are the same.",
-        "D": "The price change cannot be determined without knowing the bond's convexity."
+        "A": "The Vasicek model ensures non-negative interest rates, while the CIR model allows rates to become negative under certain parameterizations.",
+        "B": "The CIR model's volatility term is proportional to the square root of the current interest rate, preventing negative rates, whereas the Vasicek model's constant volatility allows for negative rates.",
+        "C": "The CIR model assumes mean reversion does not occur, while the Vasicek model incorporates a mean-reverting drift term.",
+        "D": "Both models produce identical term structures but differ only in their assumptions about the market price of risk."
       },
       "correct": "B",
-      "explanation": "Duration increases with maturity, meaning longer-term bonds are more sensitive to changes in yield. The 20-year bond has a higher modified duration than the 10-year bond, so a given decline in YTM produces a larger percentage price increase. This relationship is a core principle of interest rate risk: for bonds with identical coupons and similar starting YTMs, the longer the maturity, the greater the price volatility. While convexity also matters, the directional conclusion is clear from duration alone."
+      "explanation": "In the CIR model, the volatility of the short rate is scaled by the square root of the current rate (σ√r), which means as rates approach zero, volatility also approaches zero, making negative rates impossible. The Vasicek model uses a constant volatility term, which allows the normally distributed rate to drift below zero — a theoretically problematic outcome. Both models incorporate mean reversion in their drift terms, distinguishing them from random walk specifications. This distinction is critical when pricing interest rate derivatives in low-rate environments."
     },
     "finance_topic": {
-      "title": "Duration Gap and Bank Interest Rate Risk",
-      "subtitle": "How mismatches between asset and liability durations expose financial institutions to rate-driven balance sheet stress.",
+      "title": "Basis Risk in Hedging Strategies",
+      "subtitle": "Understanding why a seemingly perfect hedge can still leave investors exposed to unexpected losses.",
       "paragraphs": [
-        "The duration gap is a measure used by banks and financial institutions to quantify their net exposure to interest rate movements. It is calculated as the difference between the weighted average duration of a bank's assets and the weighted average duration of its liabilities, adjusted for the leverage ratio. A positive duration gap means the institution's assets are more rate-sensitive than its liabilities, so rising interest rates will reduce the economic value of equity — the precise vulnerability that felled Silicon Valley Bank in 2023.",
-        "The collapse of SVB became a textbook illustration of duration gap risk. The bank had loaded its balance sheet with long-duration U.S. Treasury bonds and agency mortgage-backed securities funded by short-term, rate-sensitive deposits. When the Fed raised rates aggressively in 2022–2023, the market value of SVB's assets cratered while its liabilities repriced upward almost immediately. The resulting duration gap — estimated at over 5 years — meant that even a moderate rate shock translated into catastrophic equity erosion, triggering a classic bank run once unrealized losses became public.",
-        "For risk managers and investors, monitoring duration gaps is essential when evaluating bank stocks, insurance companies, and pension funds. Institutions with large positive duration gaps are effectively running an unhedged long-bond position and face mark-to-market losses in rising rate environments. Prudent asset-liability management (ALM) involves using interest rate swaps, futures, or adjusting the portfolio's maturity profile to bring the duration gap close to zero, insulating equity value from rate volatility."
+        "Basis risk arises when the asset being hedged and the instrument used to hedge it do not move in perfect lockstep. The 'basis' is defined as the difference between the spot price of the asset to be hedged and the futures or derivative price used as the hedge. Even when a hedger selects the most correlated available instrument, any divergence in this relationship introduces residual risk that cannot be fully eliminated through standard hedging mechanics.",
+        "A classic real-world example occurred during the 2008 financial crisis, when many financial institutions used credit default swap (CDS) indices to hedge bespoke corporate credit exposures. The index represented a broad basket of investment-grade names, while the actual portfolios held concentrated, idiosyncratic positions. As credit markets seized, the index and individual credit spreads moved at dramatically different speeds and magnitudes, causing hedges to dramatically underperform and generating billions in unexpected mark-to-market losses for institutions that believed they were protected.",
+        "For risk managers and portfolio managers, basis risk demands careful attention to hedge ratio calibration, the liquidity of the hedging instrument, and ongoing monitoring of the correlation between the hedge and the exposure. During market stress periods, correlations are notoriously unstable — often converging toward one in equity markets while diverging sharply in credit and commodity markets. A robust risk framework must stress-test hedges under scenarios where basis widens significantly, ensuring that the cost of an imperfect hedge is explicitly budgeted and understood by senior stakeholders."
       ],
       "key_takeaways": [
-        "A positive duration gap signals that rising rates will erode an institution's economic net worth — the core risk that triggered the 2023 regional banking crisis.",
-        "Duration gap = Asset Duration − (Liabilities/Assets) × Liability Duration; a gap near zero implies a well-hedged balance sheet.",
-        "Investors screening bank stocks should examine unrealized losses in held-to-maturity portfolios and the institution's disclosed interest rate sensitivity as proxies for duration gap exposure."
+        "Basis risk is the residual risk remaining after a hedge is put in place, arising from imperfect correlation between the hedged asset and the hedging instrument.",
+        "Stress periods often cause the basis to widen sharply, turning a low-risk hedge into a source of significant P&L volatility.",
+        "Effective hedge management requires continuous monitoring of the hedge ratio and scenario analysis around basis widening, not just initial hedge construction."
       ]
     },
     "japanese": {
-      "word": "貯金",
-      "reading": "chokin",
-      "meaning": "savings; money saved in a bank",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenditure",
       "part_of_speech": "noun",
-      "example_jp": "毎月、給料の一部を貯金しています。",
-      "example_romaji": "Maitsuki, kyuuryou no ichibu wo chokin shite imasu.",
-      "example_en": "Every month, I save a portion of my salary.",
-      "grammar_point": "〜しています",
-      "grammar_explanation": "The pattern 〜しています (shite imasu) expresses an ongoing habit or current state. It combines the te-form of a verb with います (imasu) to show something that happens repeatedly or is continuously true about the subject.",
-      "memory_tip": "Think of 'chokin' as 'choking' your spending — you hold back and store money away instead of spending it freely."
+      "example_jp": "今月の予算をもう使い切ってしまいました。",
+      "example_romaji": "Kongetsu no yosan wo mou tsukaikitta shimaimashita.",
+      "example_en": "I have already used up this month's budget.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that an action has been completed, often with a nuance of regret or that something happened unintentionally. It is formed by attaching しまいました to the te-form of a verb.",
+      "memory_tip": "Think of 'yo-SAN' as 'your SUM' — your total sum of money allowed to spend. The kanji 予 means 'in advance' and 算 means 'calculate,' so together they literally mean 'pre-calculated amount.'"
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Automating Investment Research Workflows at Scale",
-      "summary": "A new wave of autonomous AI agents — systems that can plan, execute multi-step tasks, and use external tools without human prompting — is beginning to reshape the investment research process at major asset managers. Firms including BlackRock, JPMorgan, and several quant hedge funds are deploying agentic AI pipelines that can ingest earnings transcripts, pull macroeconomic data, cross-reference regulatory filings, and draft preliminary analyst reports in minutes rather than hours. Unlike traditional LLM chatbots that require constant human prompting, these agents operate with goal-directed autonomy, calling APIs, writing code, and iterating on outputs in a feedback loop. The implication is not mass analyst redundancy but a fundamental shift in what constitutes 'analyst alpha' — human judgment will increasingly be applied at the interpretation and decision layer, not the data-gathering layer.",
+      "headline": "AI-Powered Credit Underwriting Is Quietly Reshaping Bank Risk Desks",
+      "summary": "Major global banks and fintech lenders are increasingly deploying large language models and gradient-boosted machine learning ensembles to augment — and in some cases replace — traditional scorecard-based credit underwriting. These systems ingest alternative data sources including cash flow transaction patterns, supplier payment histories, and even satellite imagery of commercial properties to generate more granular probability-of-default estimates. Early adopters such as JPMorgan and several European challenger banks report meaningful reductions in both Type I and Type II classification errors compared to legacy FICO-dependent models. Regulators in the EU and US are now racing to develop explainability standards, as black-box credit decisions conflict with existing fair lending and adverse action notice requirements.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously break down a complex goal into sub-tasks, use tools (web search, code execution, database queries), and iterate until the goal is achieved — without requiring step-by-step human instruction. In finance, this means an agent can be told 'analyze Q2 earnings risk for the S&P 500 healthcare sector' and independently gather, process, and synthesize the required data."
+          "term": "Gradient Boosting (XGBoost/LightGBM)",
+          "definition": "An ensemble machine learning technique that builds many sequential decision trees, each correcting the errors of the last, producing highly accurate credit risk scores from large structured datasets — widely used in PD and LGD modeling."
         },
         {
-          "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model retrieves relevant documents or data from an external knowledge base before generating its response, grounding outputs in current, verifiable facts. Financial firms use RAG to give LLMs access to live filings, internal research databases, and proprietary datasets without the risk of the model hallucinating figures."
+          "term": "Explainability (XAI) / SHAP Values",
+          "definition": "Methods for interpreting why a machine learning model made a specific prediction; SHAP (SHapley Additive exPlanations) assigns each input feature a contribution score, critical for satisfying regulatory adverse action requirements in lending decisions."
         },
         {
-          "term": "Fine-Tuning",
-          "definition": "The process of further training a pre-built AI model on a domain-specific dataset to improve its performance on specialized tasks. In finance, firms fine-tune models on earnings call transcripts, credit memos, or trading communications to create models that understand industry jargon, accounting nuance, and risk language more precisely than a general-purpose model."
+          "term": "Alternative Data",
+          "definition": "Non-traditional data sources — such as payroll flows, rent payment history, or geospatial business activity — used to enrich credit models for borrowers with thin traditional credit files, expanding addressable lending markets."
         }
       ],
-      "career_insight": "Finance professionals who will thrive in the next five years are those who can function as 'AI orchestrators' — people who understand how to design workflows, evaluate model outputs critically, and know when AI analysis is structurally flawed. Technical fluency in Python, prompt engineering, and basic ML concepts is becoming a baseline expectation at top-tier asset managers and investment banks, with dedicated 'AI Associate' roles now appearing in front-office job postings at Goldman Sachs, Citadel, and Bridgewater."
+      "career_insight": "Credit analysts and risk managers who understand both the mechanics of ML-based underwriting models and the regulatory constraints around explainability are becoming highly sought after at banks, fintechs, and rating agencies. The most valuable professionals in the next five years will be those who can bridge the gap between data science teams building these models and credit committees and regulators who must approve and audit them — requiring fluency in both Python-based model validation and IRB/Basel credit risk frameworks."
     },
     "error": false,
-    "market_sentiment": "Risk appetite is showing signs of fatigue after a strong first-half equity rally, with investors rotating defensively ahead of a data-heavy week featuring U.S. CPI and a slate of Fed speakers. Treasury yields are holding elevated around the 4.4–4.5% range on the 10-year as the market reprices rate cut expectations toward a shallower path, keeping the dollar bid and pressure on emerging market currencies. Commodities remain a focal point with crude oil consolidating near $82/bbl amid OPEC+ supply discipline, while gold's resilience above $2,300/oz suggests safe-haven demand is quietly building beneath the surface of equity complacency."
+    "market_sentiment": "Global risk assets are navigating a cautious consolidation phase as markets digest the tension between still-resilient US labor data and growing evidence of manufacturing sector contraction across the G7. Treasury yields remain range-bound in the 4.20–4.50% corridor on the 10-year as the market debates whether the Fed's next move is a cut driven by softening growth or a hold driven by persistent services inflation — with the September FOMC now viewed as genuinely live. In credit, IG spreads have tightened modestly on strong earnings beats in the financial sector, while leveraged loan demand is showing early signs of fatigue as CLO issuance slows; the prevailing tone is one of selective risk-on within a macro backdrop that continues to reward quality and duration discipline over aggressive beta positioning."
   }
 }
