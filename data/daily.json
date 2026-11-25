@@ -1,38 +1,38 @@
 {
-  "generated_at": "9:38 PM UTC",
-  "date": "Tuesday, November 24, 2026",
+  "generated_at": "8:46 PM UTC",
+  "date": "Wednesday, November 25, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 55,
-    "feels_like_f": 53,
-    "high_f": 57,
-    "low_f": 54,
-    "description": "Few Clouds",
-    "icon": "🌤️",
-    "humidity": 43,
-    "wind_mph": 11,
+    "temp_f": 43,
+    "feels_like_f": 33,
+    "high_f": 44,
+    "low_f": 41,
+    "description": "Heavy Intensity Rain",
+    "icon": "🌧️",
+    "humidity": 94,
+    "wind_mph": 22,
     "forecast": [
-      {
-        "day": "Wed",
-        "icon": "🌧️",
-        "high": 40,
-        "low": 40,
-        "description": "Light Rain"
-      },
       {
         "day": "Thu",
         "icon": "🌧️",
-        "high": 47,
-        "low": 47,
+        "high": 49,
+        "low": 49,
         "description": "Light Rain"
       },
       {
         "day": "Fri",
-        "icon": "☁️",
+        "icon": "⛅",
+        "high": 40,
+        "low": 40,
+        "description": "Scattered Clouds"
+      },
+      {
+        "day": "Sat",
+        "icon": "☀️",
         "high": 39,
         "low": 39,
-        "description": "Broken Clouds"
+        "description": "Clear Sky"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 718.78,
-        "change": -3.51,
-        "change_pct": -0.49,
+        "price": 715.79,
+        "change": -2.99,
+        "change_pct": -0.42,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 354.07,
-        "change": 4.99,
-        "change_pct": 1.43,
+        "price": 354.77,
+        "change": 0.7,
+        "change_pct": 0.2,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 155.38,
-        "change": -9.67,
-        "change_pct": -5.86,
+        "price": 147.81,
+        "change": -7.57,
+        "change_pct": -4.87,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 384.68,
-        "change": -0.78,
-        "change_pct": -0.2,
+        "price": 381.42,
+        "change": -3.26,
+        "change_pct": -0.85,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,10 +87,10 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 59904.85,
-        "change": -1440.02,
-        "change_pct": -2.35,
-        "up": false,
+        "price": 60008,
+        "change": 376.07,
+        "change_pct": 0.63,
+        "up": true,
         "is_crypto": true,
         "error": false
       },
@@ -98,10 +98,10 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1680.26,
-        "change": -41.91,
-        "change_pct": -2.43,
-        "up": false,
+        "price": 1684.17,
+        "change": 10.15,
+        "change_pct": 0.61,
+        "up": true,
         "is_crypto": true,
         "error": false
       }
@@ -111,85 +111,66 @@
     "error": false,
     "articles": [
       {
-        "title": "Stocks surge in best day since 2025, adding trillions in value after Jensen Huang returns to Nvidia - NBC News",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833",
-        "description": "Major U.S. stock indexes soared Monday to their best day since April 2025, as Wall Street cheered Jensen Huang’s return to Nvidia.",
-        "published": "10:29 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "Exclusive / Commerce to add Megaspeed to trade blacklist - Semafor",
-        "source": "Semafor.com",
-        "url": "https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
-        "description": "US companies will not be able to sell chips to the Singapore-based firm at the heart of the Nvidia scandal without obtaining a license.",
-        "published": "10:08 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "US moves to recover over $1B in crypto stolen by North Korean hackers in Binance heist - Fox Business",
-        "source": "Fox Business",
-        "url": "https://www.foxbusiness.com/fox-news-tech/us-recover-1b-crypto-stolen-north-korean-hackers-binance-heist",
-        "description": "Federal prosecutors are moving to recover more than $1 billion in USDC stablecoins stolen during the massive $6 billion North Korean cyberattack on Binance.",
-        "published": "9:40 PM UTC",
-        "category": "Business"
-      },
-      {
-        "title": "All Chapter 1 Missables - GTA 6 Guide - IGN",
-        "source": "IGN",
-        "url": "https://www.ign.com/wikis/gta-6/All_Chapter_1_Missables",
-        "description": "Grand Theft Auto VI&#x2019;s Chapter 1 &#x2013; Just Like Paradise introduces you to a tiny portion of the massive county of Leonida: Key Lento. Don&#x2019;t",
-        "published": "7:32 PM UTC",
-        "category": "Technology"
-      },
-      {
-        "title": "How To Get The Best Ending In ‘GTA 6’ - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/11/23/how-to-get-the-best-ending-in-gta-6/",
+        "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026",
         "description": "",
-        "published": "5:57 PM UTC",
+        "published": "8:38 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Stock Market Today: Dow up 350 points, S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap: live updates - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results",
+        "description": "Follow all the latest U.S. market action for Tuesday, a day after the massive rally from Nvidia reinstating Jensen Huang as CEO.",
+        "published": "8:18 PM UTC",
+        "category": "Business"
+      },
+      {
+        "title": "Where To Find The New Best Car In ‘GTA 6,’ Which Can Steal ATMs - Forbes",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/paultassi/2026/11/24/where-to-find-the-new-best-car-in-gta-6-which-can-steal-atms/",
+        "description": "",
+        "published": "6:28 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "GTA 6 Leaker Releases All Files for Alleged Xbox Build of Game - PCMag",
-        "source": "PCMag.com",
-        "url": "https://www.pcmag.com/news/gta-6-leaker-releases-all-files-for-alleged-xbox-build-of-game",
-        "description": "'Xmas came early,' the CyberLeek gang says. If real, the dumped executable program promises to help the modding community create a PC port for Grand Theft Auto 6 soon.",
-        "published": "5:55 PM UTC",
+        "title": "Best early Black Friday streaming deals 2026: Up to 79% off Disney+ and Hulu, HBO Max, Apple TV, more - ZDNET",
+        "source": "ZDNet",
+        "url": "https://www.zdnet.com/home-and-office/nov-24-best-early-black-friday-streaming-deals-2026/",
+        "description": "Early Black Friday 2026 streaming deals are live. Get HBO Max for $5.99/month (50% off), Disney+ and Hulu for $49/month (61% off), Apple TV for $6.99/month (53% off), and Paramount+ Premium for $2.99/",
+        "published": "4:07 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business - CNN",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia",
-        "description": "Nvidia shares ended the day more than 30% higher after the board reinstated the ousted CEO. Follow for the latest updates.",
-        "published": "9:35 PM UTC",
+        "title": "iOS 27 adds new Messages app setting I instantly started using - 9to5Mac",
+        "source": "9to5Mac",
+        "url": "https://9to5mac.com/2026/11/24/ios-27-adds-new-messages-app-setting-i-instantly-started-using/",
+        "description": "iOS 27 gave the Messages app a new setting that's long been a popular request: the ability to customize or turn off the audio button.",
+        "published": "3:05 PM UTC",
+        "category": "Technology"
+      },
+      {
+        "title": "Melissa McCarthy, Clive Owen channel parental grief in The Murder of JonBenét Ramsey trailer - A.V. Club",
+        "source": "The A.V. Club",
+        "url": "https://www.avclub.com/the-murder-of-jonbenet-ramsey-trailer-melissa-mccarthy",
+        "description": "Melissa McCarthy, Clive Owen channel parental grief in The Murder of JonBenét Ramsey trailer",
+        "published": "6:58 PM UTC",
         "category": "General"
       },
       {
-        "title": "Nvidia stock has best day since May 2003, gaining nearly $1T in market cap after Jensen Huang is reinstated as CEO - Yahoo Finance",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/technology/article/nvidia-stock-has-best-day-since-may-2003-gaining-nearly-1t-in-market-cap-after-jensen-huang-is-reinstated-as-ceo-212735744.html",
-        "description": "Nvidia reinstated Jensen Huang as CEO, stock soars 30%.",
-        "published": "9:27 PM UTC",
+        "title": "Democrat Victoria Broderick wins Tennessee House seat, ousting Rep. Scott DesJarlais - AP News",
+        "source": "Associated Press",
+        "url": "https://apnews.com/article/victoria-broderick-tennessee-house-democrat-a9b4d403763a82ab536ea133cee59eb4",
+        "description": "Democrat Victoria Broderick has been elected to the U.S. House from Tennessee, narrowly defeating Republican Rep. Scott DesJarlais. The Associated Press called the race on Tuesday with Broderick leadi",
+        "published": "6:48 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [
-      {
-        "home": "Brentford",
-        "away": "Everton",
-        "home_score": 4,
-        "away_score": 0,
-        "status": "FINISHED",
-        "time": "8:00 PM UTC",
-        "date": "Nov 23",
-        "highlighted": false
-      }
-    ],
+    "matches": [],
     "standings": [
       {
         "position": 1,
@@ -262,19 +243,19 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Target Bundesliga Midfielder as Partey Replacement",
-        "summary": "Arsenal are reportedly in advanced discussions to sign a dynamic box-to-box midfielder from a leading Bundesliga club, as the Gunners look to address long-term depth concerns following Thomas Partey's injury-disrupted spell at the Emirates.",
+        "headline": "Arsenal Revive Interest in RB Leipzig Striker as Attacking Cover",
+        "summary": "Arsenal's recruitment team are understood to have sent scouts to monitor the RB Leipzig forward in recent Bundesliga fixtures, with the club assessing options to add attacking depth in January following a congested fixture schedule.",
         "clubs": [
           "Arsenal",
-          "Bayer Leverkusen"
+          "RB Leipzig"
         ]
       },
       {
-        "headline": "Manchester United Open Talks for Brazilian Winger Ahead of January Window",
-        "summary": "Manchester United's new football structure under INEOS has identified a pacey Brazilian winger as a priority target for the January transfer window, with initial contact reportedly made with the player's representatives as the club looks to inject creativity into their struggling attack.",
+        "headline": "Chelsea Hold Talks Over Defensive Midfielder as Caicedo Injury Cover Sought",
+        "summary": "Chelsea are exploring short-term solutions in central midfield after Moises Caicedo suffered a knock in training, with a loan move for a Bundesliga-based midfielder emerging as the leading option according to reports close to the club.",
         "clubs": [
-          "Manchester United",
-          "Palmeiras"
+          "Chelsea",
+          "Bayer Leverkusen"
         ]
       }
     ],
@@ -282,88 +263,88 @@
       "home": "Manchester City",
       "away": "Liverpool",
       "date": "Sunday, 4:30 PM GMT",
-      "preview": "The standout fixture of the Premier League weekend pits Pep Guardiola's City — desperate to close the gap at the top after a stuttering run of form — against a Liverpool side brimming with confidence under their new tactical identity and riding a seven-match unbeaten league run. The Etihad clash carries title-race weight for both sides, with City needing a win to stay within striking distance and Liverpool knowing a victory would open up a commanding lead. All eyes will be on whether Guardiola's high press can disrupt Liverpool's swift transitions, and whether Haaland can rediscover his ruthlessness against a physical Reds backline.",
+      "preview": "The title race storyline takes centre stage at the Etihad as Manchester City host Liverpool in what is shaping up to be the defining fixture of the season's first half. City have rediscovered their defensive solidity after a turbulent autumn, while Liverpool arrive as the in-form side in the division, unbeaten in their last nine Premier League outings under Arne Slot's high-press system. The tactical battle between Slot's aggressive pressing triggers and Guardiola's positional play rotations gives this fixture an extra layer of intrigue, with both managers likely to make specific shape adjustments to target the opponent's defensive transitions.",
       "key_players": [
         "Erling Haaland",
         "Mohamed Salah",
-        "Kevin De Bruyne"
+        "Rodri"
       ]
     },
     "injury_news": [
       {
-        "player": "Kevin De Bruyne",
+        "player": "Rodri",
         "team": "Manchester City",
-        "status": "Doubtful",
-        "return": "Being assessed ahead of the weekend; possible return within 7-10 days"
+        "status": "Recovering",
+        "return": "Expected return late January at earliest; long-term ACL recovery ongoing"
       },
       {
         "player": "Diogo Jota",
         "team": "Liverpool",
-        "status": "Recovering",
-        "return": "Expected to return to full training within 2-3 weeks; targeting late-month availability"
+        "status": "Doubtful",
+        "return": "Assessed day-to-day with a hamstring strain; could miss Sunday's fixture"
       }
     ]
   },
   "ai": {
     "cfa_frm": {
       "exam": "CFA Level 2",
-      "topic": "Fixed Income – Term Structure and Interest Rate Models",
-      "question": "An analyst is using the Cox-Ingersoll-Ross (CIR) model to value a bond. Compared to the Vasicek model, which of the following best describes a key structural difference of the CIR model?",
+      "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
+      "question": "An analyst is evaluating two bonds with identical credit quality and maturity. Bond A is a plain vanilla fixed-rate bond, and Bond B is callable by the issuer. Using an arbitrage-free binomial interest rate tree calibrated to the current yield curve, which of the following best explains why the option-adjusted spread (OAS) is the preferred measure for comparing these bonds?",
       "options": {
-        "A": "The CIR model assumes interest rates follow a jump-diffusion process, while the Vasicek model assumes continuous diffusion.",
-        "B": "The CIR model's volatility term is proportional to the square root of the current rate, preventing negative interest rates, while the Vasicek model allows negative rates.",
-        "C": "The CIR model uses a multi-factor approach, whereas the Vasicek model is a single-factor model with no mean reversion.",
-        "D": "The CIR model assumes a constant market price of risk, while the Vasicek model allows the market price of risk to vary stochastically."
+        "A": "OAS removes the effect of embedded options by adding a constant spread to each node of the tree, allowing direct comparison of credit and liquidity risk.",
+        "B": "OAS measures the total yield pickup over Treasuries, including compensation for the embedded call option.",
+        "C": "OAS is always larger than the Z-spread for callable bonds because the call option benefits the issuer.",
+        "D": "OAS adjusts for the bond's duration by discounting cash flows at the risk-free rate plus the bond's convexity spread."
       },
-      "correct": "B",
-      "explanation": "In the CIR model, the diffusion (volatility) term is multiplied by the square root of the short rate (√r), which causes volatility to decline as rates approach zero, thereby preventing negative rates. The Vasicek model uses a constant volatility term independent of the rate level, which mathematically permits negative interest rates — a well-known practical limitation. Both models incorporate mean reversion as a single-factor framework, making option A and C incorrect."
+      "correct": "A",
+      "explanation": "The OAS is computed by adding a constant spread to every node in the binomial interest rate tree such that the model price equals the market price. By stripping out the value of the embedded option, it isolates the spread attributable to credit and liquidity risk, making cross-bond comparisons valid. For callable bonds, the OAS will be less than the Z-spread because the Z-spread includes compensation for the call option risk borne by the investor, while OAS does not. Options B and D mischaracterize what OAS measures."
     },
     "finance_topic": {
-      "title": "Duration Mismatch and Liability-Driven Investing",
-      "subtitle": "How pension funds and insurers use duration matching to immunize portfolios against interest rate risk.",
+      "title": "Private Credit's Rise as a Systemic Force",
+      "subtitle": "How the rapid growth of private credit markets is reshaping lending, risk distribution, and financial stability.",
       "paragraphs": [
-        "Liability-Driven Investing (LDI) is a portfolio management framework where the structure of assets is explicitly designed to match the interest rate sensitivity — measured by duration — of a fund's future liabilities. Rather than maximizing absolute returns, the primary objective is to minimize the funding gap: the difference between the present value of assets and the present value of liabilities. When a pension fund has liabilities with a duration of 18 years but holds assets with a duration of only 10 years, it faces a duration mismatch. A decline in interest rates would increase the PV of liabilities faster than assets, worsening the funded status.",
-        "The UK gilt crisis of September 2022 provided a stark real-world illustration of LDI risks gone wrong. Many UK defined-benefit pension schemes used leveraged LDI strategies — borrowing to hold long-duration gilts and interest rate swaps — to hedge their long-dated liabilities. When the Truss government's mini-budget triggered a sudden, violent spike in gilt yields, the collateral backing these leveraged positions collapsed in value. Pension funds were hit with simultaneous margin calls, forcing fire sales of assets and amplifying the yield spike further — a classic liquidity spiral.",
-        "For risk managers and investors, the LDI episode reinforced that duration matching and immunization strategies carry embedded liquidity risk, especially when leverage is involved. Effective LDI requires not just duration alignment but also stress-testing collateral buffers, monitoring convexity mismatches, and ensuring sufficient liquid assets to meet margin calls under adverse scenarios. Regulators globally have since scrutinized leverage limits within LDI mandates more closely."
+        "Private credit — encompassing direct lending, mezzanine financing, distressed debt, and specialty finance — has grown from a niche alternative asset class to a $1.7 trillion global market. Unlike broadly syndicated loans or public bonds, private credit transactions are negotiated bilaterally between non-bank lenders (typically asset managers, BDCs, or insurance companies) and borrowers, usually mid-market companies seeking flexible, relationship-driven capital. The asset class has surged as banks retreated from leveraged lending under post-GFC regulatory constraints, leaving a structural gap that private capital eagerly filled.",
+        "The practical significance became clear during the 2022–2023 rate hiking cycle. While the leveraged loan and high-yield bond markets essentially froze for months, private credit continued to close deals — sponsors relied on direct lenders like Ares, Blue Owl, and HPS to finance LBOs that the syndicated market could not absorb. Deals featuring floating-rate structures with SOFR floors actually benefited lenders as rates rose, generating gross yields of 11–13% on senior secured paper. This performance attracted record institutional capital from pension funds and sovereign wealth funds, further entrenching private credit as a permanent pillar of corporate finance.",
+        "For investors and risk managers, private credit introduces distinct challenges that require careful attention. Illiquidity risk is paramount — positions cannot be marked to market daily, creating potential NAV smoothing that understates volatility. Covenant-lite structures have migrated from the syndicated market into direct lending, reducing lender protections. Concentration in sponsor-backed middle-market borrowers creates correlated exposure to private equity cycles. Regulators at the FSB and Fed have flagged interconnections between private credit funds, insurance balance sheets, and systemically important banks as an emerging macro-prudential concern, suggesting the asset class may face a more complex oversight environment ahead."
       ],
       "key_takeaways": [
-        "Duration mismatch is the core risk in liability-driven portfolios — assets and liabilities must be aligned in interest rate sensitivity, not just nominal value.",
-        "Leveraged LDI strategies can create dangerous procyclical dynamics: rising rates trigger margin calls, which force asset sales, which push rates higher still.",
-        "Robust LDI implementation requires liquidity buffers, convexity management, and regular stress testing — not just static duration matching."
+        "Private credit has become a $1.7T asset class by filling the lending vacuum left by regulated banks, particularly in sponsor-backed mid-market transactions.",
+        "Floating-rate structures made private credit a relative winner during rate hikes, but the same feature creates refinancing and default risk as elevated rates persist.",
+        "Illiquidity, valuation opacity, and growing systemic interconnections are emerging as key risks attracting regulatory scrutiny globally."
       ]
     },
     "japanese": {
-      "word": "約束",
-      "reading": "yakusoku",
-      "meaning": "promise; appointment; agreement",
+      "word": "予算",
+      "reading": "yosan",
+      "meaning": "budget; estimate of expenses",
       "part_of_speech": "noun",
-      "example_jp": "彼は必ず約束を守る人です。",
-      "example_romaji": "Kare wa kanarazu yakusoku wo mamoru hito desu.",
-      "example_en": "He is a person who always keeps his promises.",
-      "grammar_point": "〜を守る (wo mamoru)",
-      "grammar_explanation": "The pattern 〜を守る means 'to keep' or 'to protect' something, often used with rules or promises. It pairs naturally with 約束 (promise) and ルール (rules) to express reliability and obligation.",
-      "memory_tip": "Imagine a 'yak' (the animal) making a 'sok' (sock puppet) promise — the yak solemnly swears on its sock puppet. Silly, but yakusoku = promise sticks!"
+      "example_jp": "今月の予算をオーバーしてしまいました。",
+      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
+      "example_en": "I ended up going over budget this month.",
+      "grammar_point": "〜てしまいました",
+      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened to completion, often with a nuance of regret or that the result was unintended. It combines the te-form of a verb with しまいました (the polite past of しまう).",
+      "memory_tip": "Think of 予 as 'beforehand' (pre-) and 算 as 'calculate' (like an abacus with numbers). A YO-SAN is what you calculate BEFORE you spend — your budget. Imagine a samurai carefully calculating his gold coins before a campaign."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Reshaping How Financial Research Gets Done",
-      "summary": "Agentic AI systems — models capable of autonomously planning and executing multi-step tasks — are moving from research labs into financial workflows at tier-one banks and asset managers. Tools built on frameworks like LangGraph and AutoGen are being deployed to autonomously pull earnings data, run scenario analyses, generate first-draft research memos, and flag regulatory filings for review, dramatically compressing analyst turnaround times. Goldman Sachs, JPMorgan, and several quant hedge funds have reported internal pilots where AI agents handle end-to-end data gathering and synthesis tasks that previously required junior analyst hours. The implication is not mass job elimination but a sharp reweighting of what skills are valued: judgment, hypothesis formation, and client communication over mechanical data retrieval.",
+      "headline": "AI Agents Are Quietly Automating the Junior Analyst Workflow",
+      "summary": "A new generation of autonomous AI agents — systems that can plan, use tools, browse data sources, and iterate toward a goal without step-by-step human instruction — is beginning to handle tasks that once defined the junior analyst role: building financial models from earnings transcripts, drafting equity research summaries, running scenario analyses, and monitoring covenant compliance. Firms including JPMorgan, Morgan Stanley, and several large hedge funds are piloting multi-agent architectures where specialized sub-agents handle data retrieval, quantitative analysis, and narrative generation in parallel. The productivity delta is significant: tasks that took analysts two to four hours are being compressed to minutes, with the human role shifting toward prompt engineering, output validation, and judgment calls on ambiguous inputs. This is not displacement in the near term but rather a reallocation of analyst time toward higher-order synthesis and client-facing work — but the implied leverage fundamentally changes headcount economics.",
       "concepts": [
         {
           "term": "Agentic AI",
-          "definition": "AI systems that can autonomously break down a complex goal into subtasks, use tools (like web search or code execution), and iterate toward a solution without constant human prompting — think of it as an AI that can run a research workflow, not just answer a single question."
+          "definition": "AI systems that autonomously break down complex goals into sub-tasks, use external tools (APIs, databases, code execution), and iterate toward an objective — analogous to giving an AI intern a brief rather than a single question."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model is connected to an external knowledge base (e.g., SEC filings, earnings call transcripts, internal risk reports) and retrieves relevant documents before generating a response — dramatically improving factual accuracy for domain-specific finance queries."
+          "definition": "A technique where an AI model queries a private or real-time database before generating a response, allowing it to cite current filings, proprietary research, or live market data rather than relying solely on its training knowledge."
         },
         {
-          "term": "Prompt Engineering",
-          "definition": "The practice of carefully crafting instructions given to an AI model to elicit accurate, structured, and useful outputs — increasingly a core professional skill for analysts who want to get reliable results from LLM-based tools."
+          "term": "Fine-Tuning",
+          "definition": "The process of further training a pre-built foundation model on domain-specific data — such as credit agreements, analyst reports, or risk frameworks — so it produces outputs calibrated to a firm's specific language, standards, and use cases."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, evaluate, and critically interrogate AI-generated outputs will command a premium over the next five years — not those who resist the tools. The highest-value skill set is emerging as a hybrid: deep domain expertise in credit, risk, or capital markets combined with fluency in how AI models reason and where they fail, particularly around hallucination, recency bias, and overconfidence in ambiguous data."
+      "career_insight": "Finance professionals who understand how to design, prompt, and critically evaluate AI agent outputs will command a significant premium over those who simply use AI as a search engine. The most defensible skill set combines domain expertise (knowing when the model is wrong) with workflow design thinking — the ability to decompose analytical processes into steps that AI can execute reliably. Risk and compliance functions in particular should invest in AI literacy now, as model governance and auditability of AI-generated outputs are becoming regulatory expectations, not optional features."
     },
     "error": false,
-    "market_sentiment": "Risk appetite remains cautiously constructive this week as markets digest a resilient U.S. labor market print against a backdrop of moderating core PCE, keeping the Fed's 'higher for longer' narrative alive but tempering the most hawkish re-pricing scenarios. Credit spreads in investment-grade have held remarkably tight, suggesting institutional buyers are still chasing carry, while the front end of the Treasury curve remains under pressure with 2-year yields hovering near cycle highs. Equity markets are caught between solid corporate earnings revisions and valuation multiples that leave little room for macro disappointment — the path of least resistance is sideways-to-higher, with the next CPI print the near-term catalyst to watch."
+    "market_sentiment": "Global risk assets enter the session on a cautious footing as markets digest a resilient U.S. labor market print that has pushed Fed rate cut expectations further into late 2025, with the first full cut now not priced until Q4. The dollar is bid against G10 peers, putting pressure on EM FX and commodity exporters, while the front end of the Treasury curve has cheapened with 2-year yields testing resistance near 4.85%. Equity sentiment is bifurcated: mega-cap tech continues to find support on AI capex narratives, but rate-sensitive sectors — utilities, REITs, and regional banks — face renewed headwinds as the 'higher for longer' thesis reasserts itself heading into a heavy week of Fedspeak and the next CPI print."
   }
 }
