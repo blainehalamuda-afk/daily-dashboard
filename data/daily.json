@@ -1,38 +1,38 @@
 {
-  "generated_at": "8:46 PM UTC",
-  "date": "Wednesday, November 25, 2026",
+  "generated_at": "8:39 PM UTC",
+  "date": "Thursday, November 26, 2026",
   "weather": {
     "error": false,
     "city": "Charlotte",
-    "temp_f": 43,
-    "feels_like_f": 33,
-    "high_f": 44,
-    "low_f": 41,
-    "description": "Heavy Intensity Rain",
-    "icon": "🌧️",
-    "humidity": 94,
-    "wind_mph": 22,
+    "temp_f": 54,
+    "feels_like_f": 53,
+    "high_f": 55,
+    "low_f": 52,
+    "description": "Mist",
+    "icon": "🌫️",
+    "humidity": 95,
+    "wind_mph": 9,
     "forecast": [
       {
-        "day": "Thu",
-        "icon": "🌧️",
-        "high": 49,
-        "low": 49,
-        "description": "Light Rain"
-      },
-      {
         "day": "Fri",
-        "icon": "⛅",
-        "high": 40,
-        "low": 40,
-        "description": "Scattered Clouds"
+        "icon": "☁️",
+        "high": 43,
+        "low": 43,
+        "description": "Broken Clouds"
       },
       {
         "day": "Sat",
         "icon": "☀️",
-        "high": 39,
-        "low": 39,
+        "high": 38,
+        "low": 38,
         "description": "Clear Sky"
+      },
+      {
+        "day": "Sun",
+        "icon": "☁️",
+        "high": 41,
+        "low": 41,
+        "description": "Overcast Clouds"
       }
     ]
   },
@@ -43,9 +43,9 @@
         "symbol": "SPY",
         "full_symbol": "SPY",
         "name": "S&P 500 ETF",
-        "price": 715.79,
-        "change": -2.99,
-        "change_pct": -0.42,
+        "price": 716.74,
+        "change": -2.04,
+        "change_pct": -0.28,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -54,9 +54,9 @@
         "symbol": "AAPL",
         "full_symbol": "AAPL",
         "name": "Apple",
-        "price": 354.77,
-        "change": 0.7,
-        "change_pct": 0.2,
+        "price": 355.62,
+        "change": 1.55,
+        "change_pct": 0.44,
         "up": true,
         "is_crypto": false,
         "error": false
@@ -65,9 +65,9 @@
         "symbol": "NVDA",
         "full_symbol": "NVDA",
         "name": "NVIDIA",
-        "price": 147.81,
-        "change": -7.57,
-        "change_pct": -4.87,
+        "price": 149.33,
+        "change": -6.05,
+        "change_pct": -3.89,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -76,9 +76,9 @@
         "symbol": "TSLA",
         "full_symbol": "TSLA",
         "name": "Tesla",
-        "price": 381.42,
-        "change": -3.26,
-        "change_pct": -0.85,
+        "price": 380.18,
+        "change": -4.5,
+        "change_pct": -1.17,
         "up": false,
         "is_crypto": false,
         "error": false
@@ -87,9 +87,9 @@
         "symbol": "BTC",
         "full_symbol": "BTC-USD",
         "name": "Bitcoin",
-        "price": 60008,
-        "change": 376.07,
-        "change_pct": 0.63,
+        "price": 60757.66,
+        "change": 874.01,
+        "change_pct": 1.46,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -98,9 +98,9 @@
         "symbol": "ETH",
         "full_symbol": "ETH-USD",
         "name": "Ethereum",
-        "price": 1684.17,
-        "change": 10.15,
-        "change_pct": 0.61,
+        "price": 1704.35,
+        "change": 20.87,
+        "change_pct": 1.24,
         "up": true,
         "is_crypto": true,
         "error": false
@@ -111,66 +111,77 @@
     "error": false,
     "articles": [
       {
-        "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally - WSJ",
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026",
-        "description": "",
-        "published": "8:38 PM UTC",
+        "title": "Sale of Stefanik family’s D.C. home deemed ‘unusual,’ city records show - The Washington Post",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/dc-md-va/2026/11/25/sale-stefanik-familys-dc-home-deemed-unusual-city-records-show/",
+        "description": "A rowhome owned by the outgoing congresswoman’s family was taken off the market after failing to sell for $1.99 million — and then sold in a private transaction for $910,000 more than that.",
+        "published": "6:31 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Stock Market Today: Dow up 350 points, S&P 500 and Nasdaq decline a day after Nvidia's 31% surge; Dell results on tap: live updates - MarketWatch",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results",
-        "description": "Follow all the latest U.S. market action for Tuesday, a day after the massive rally from Nvidia reinstating Jensen Huang as CEO.",
-        "published": "8:18 PM UTC",
+        "title": "The $2 trillion chip rally is getting wiped out — here's what history says comes next - Yahoo Finance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
+        "description": "Two days after Nvidia's record rebound, chip stocks are back where they started.",
+        "published": "6:27 PM UTC",
         "category": "Business"
       },
       {
-        "title": "Where To Find The New Best Car In ‘GTA 6,’ Which Can Steal ATMs - Forbes",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/paultassi/2026/11/24/where-to-find-the-new-best-car-in-gta-6-which-can-steal-atms/",
-        "description": "",
-        "published": "6:28 PM UTC",
+        "title": "PS Plus Essential Games for December 2026 Announced - Push Square",
+        "source": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/11/ps-plus-essential-games-for-december-2026-announced",
+        "description": "Skateboards, spiky hair, and scares",
+        "published": "4:45 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Best early Black Friday streaming deals 2026: Up to 79% off Disney+ and Hulu, HBO Max, Apple TV, more - ZDNET",
-        "source": "ZDNet",
-        "url": "https://www.zdnet.com/home-and-office/nov-24-best-early-black-friday-streaming-deals-2026/",
-        "description": "Early Black Friday 2026 streaming deals are live. Get HBO Max for $5.99/month (50% off), Disney+ and Hulu for $49/month (61% off), Apple TV for $6.99/month (53% off), and Paramount+ Premium for $2.99/",
-        "published": "4:07 PM UTC",
+        "title": "Xbox Black Friday Sale 2026: Games at their lowest-ever price - TrueAchievements",
+        "source": "TrueAchievements",
+        "url": "https://www.trueachievements.com/news/xbox-black-friday-sale-2026-games-at-their-lowest-ever-price",
+        "description": "This year's Xbox Black Friday Sale is massive, and to help find the best bargains, we've listed all the games on sale at their lowest-ever price.",
+        "published": "4:25 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "iOS 27 adds new Messages app setting I instantly started using - 9to5Mac",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/11/24/ios-27-adds-new-messages-app-setting-i-instantly-started-using/",
-        "description": "iOS 27 gave the Messages app a new setting that's long been a popular request: the ability to customize or turn off the audio button.",
-        "published": "3:05 PM UTC",
+        "title": "‘GTA VI’ Crashing on PS5 Means the PC Version Can’t Come Soon Enough - Gizmodo",
+        "source": "Gizmodo.com",
+        "url": "https://gizmodo.com/gta-vi-crashing-ps5-2000845327",
+        "description": "Despite early patches, 'GTA VI' players are still experiencing crashes on PS5. Some hypothesize that this is an overheating issue.",
+        "published": "3:30 PM UTC",
         "category": "Technology"
       },
       {
-        "title": "Melissa McCarthy, Clive Owen channel parental grief in The Murder of JonBenét Ramsey trailer - A.V. Club",
-        "source": "The A.V. Club",
-        "url": "https://www.avclub.com/the-murder-of-jonbenet-ramsey-trailer-melissa-mccarthy",
-        "description": "Melissa McCarthy, Clive Owen channel parental grief in The Murder of JonBenét Ramsey trailer",
-        "published": "6:58 PM UTC",
+        "title": "Live updates: Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding - FOX Weather",
+        "source": "Foxweather.com",
+        "url": "https://www.foxweather.com/live-news/poweful-thanksgiving-storms-west-east-coast-rain-wind-flood-november-2026",
+        "description": "Follow live updates as powerful storms lash millions across the U.S. with heavy rain, damaging winds and coastal flooding. Track real-time forecasts, recovery operations and the latest reports from th",
+        "published": "5:53 PM UTC",
         "category": "General"
       },
       {
-        "title": "Democrat Victoria Broderick wins Tennessee House seat, ousting Rep. Scott DesJarlais - AP News",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/victoria-broderick-tennessee-house-democrat-a9b4d403763a82ab536ea133cee59eb4",
-        "description": "Democrat Victoria Broderick has been elected to the U.S. House from Tennessee, narrowly defeating Republican Rep. Scott DesJarlais. The Associated Press called the race on Tuesday with Broderick leadi",
-        "published": "6:48 PM UTC",
+        "title": "Stock Market Today: Nasdaq Opens Over 3% Lowe as Confidence in AI Trade Weakens — Live Updates - WSJ",
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026",
+        "description": "",
+        "published": "5:26 PM UTC",
         "category": "General"
       }
     ]
   },
   "sports": {
     "error": false,
-    "matches": [],
+    "matches": [
+      {
+        "home": "Nottingham",
+        "away": "Chelsea",
+        "home_score": null,
+        "away_score": null,
+        "status": "TIMED",
+        "time": "8:00 PM UTC",
+        "date": "Nov 27",
+        "highlighted": false
+      }
+    ],
     "standings": [
       {
         "position": 1,
@@ -243,16 +254,16 @@
   "pl_content": {
     "transfer_news": [
       {
-        "headline": "Arsenal Revive Interest in RB Leipzig Striker as Attacking Cover",
-        "summary": "Arsenal's recruitment team are understood to have sent scouts to monitor the RB Leipzig forward in recent Bundesliga fixtures, with the club assessing options to add attacking depth in January following a congested fixture schedule.",
+        "headline": "Manchester United Target Sporting CP Midfielder as Midfield Rebuild Continues",
+        "summary": "United's new sporting structure is reportedly monitoring Sporting CP's creative midfielder as Erik ten Hag's replacement looks to impose a more possession-based identity at Old Trafford. A bid in the region of £55–65 million is expected to be tabled if United secure European football.",
         "clubs": [
-          "Arsenal",
-          "RB Leipzig"
+          "Manchester United",
+          "Sporting CP"
         ]
       },
       {
-        "headline": "Chelsea Hold Talks Over Defensive Midfielder as Caicedo Injury Cover Sought",
-        "summary": "Chelsea are exploring short-term solutions in central midfield after Moises Caicedo suffered a knock in training, with a loan move for a Bundesliga-based midfielder emerging as the leading option according to reports close to the club.",
+        "headline": "Chelsea in Advanced Talks to Sell Misfiring Striker to Bundesliga Side",
+        "summary": "Chelsea are close to agreeing a loan-to-buy structure with a top Bundesliga club for a striker who has failed to nail down a starting spot at Stamford Bridge, freeing up wages and squad space as Enzo Maresca looks to streamline his attacking options.",
         "clubs": [
           "Chelsea",
           "Bayer Leverkusen"
@@ -260,28 +271,28 @@
       }
     ],
     "match_preview": {
-      "home": "Manchester City",
-      "away": "Liverpool",
-      "date": "Sunday, 4:30 PM GMT",
-      "preview": "The title race storyline takes centre stage at the Etihad as Manchester City host Liverpool in what is shaping up to be the defining fixture of the season's first half. City have rediscovered their defensive solidity after a turbulent autumn, while Liverpool arrive as the in-form side in the division, unbeaten in their last nine Premier League outings under Arne Slot's high-press system. The tactical battle between Slot's aggressive pressing triggers and Guardiola's positional play rotations gives this fixture an extra layer of intrigue, with both managers likely to make specific shape adjustments to target the opponent's defensive transitions.",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "date": "Sunday, 4:30 PM BST",
+      "preview": "The title race's most compelling fixture pits an Arsenal side riding a seven-game unbeaten Premier League run against a City team that has rediscovered its rhythm following an indifferent autumn. The Gunners will look to press high and exploit City's slightly slower build-up play without Rodri, while Pep Guardiola's men will probe Arsenal's high defensive line with the movement of Haaland and Doku in behind. Three points here could prove decisive in the title conversation — expect intensity from the first whistle at the Emirates.",
       "key_players": [
+        "Bukayo Saka",
         "Erling Haaland",
-        "Mohamed Salah",
-        "Rodri"
+        "Martin Ødegaard"
       ]
     },
     "injury_news": [
       {
         "player": "Rodri",
         "team": "Manchester City",
-        "status": "Recovering",
-        "return": "Expected return late January at earliest; long-term ACL recovery ongoing"
+        "status": "Out",
+        "return": "Long-term — remainder of season in doubt following ACL injury"
       },
       {
-        "player": "Diogo Jota",
-        "team": "Liverpool",
-        "status": "Doubtful",
-        "return": "Assessed day-to-day with a hamstring strain; could miss Sunday's fixture"
+        "player": "Gabriel Jesus",
+        "team": "Arsenal",
+        "status": "Recovering",
+        "return": "Expected to return to full training within 3–4 weeks"
       }
     ]
   },
@@ -289,62 +300,62 @@
     "cfa_frm": {
       "exam": "CFA Level 2",
       "topic": "Fixed Income – Term Structure and Interest Rate Dynamics",
-      "question": "An analyst is evaluating two bonds with identical credit quality and maturity. Bond A is a plain vanilla fixed-rate bond, and Bond B is callable by the issuer. Using an arbitrage-free binomial interest rate tree calibrated to the current yield curve, which of the following best explains why the option-adjusted spread (OAS) is the preferred measure for comparing these bonds?",
+      "question": "An analyst observes that the 2-year spot rate is 4.20% and the 3-year spot rate is 4.55%. Using the pure expectations theory, which of the following is closest to the implied one-year forward rate two years from now (1y2y)?",
       "options": {
-        "A": "OAS removes the effect of embedded options by adding a constant spread to each node of the tree, allowing direct comparison of credit and liquidity risk.",
-        "B": "OAS measures the total yield pickup over Treasuries, including compensation for the embedded call option.",
-        "C": "OAS is always larger than the Z-spread for callable bonds because the call option benefits the issuer.",
-        "D": "OAS adjusts for the bond's duration by discounting cash flows at the risk-free rate plus the bond's convexity spread."
+        "A": "4.37%",
+        "B": "5.26%",
+        "C": "4.90%",
+        "D": "4.68%"
       },
-      "correct": "A",
-      "explanation": "The OAS is computed by adding a constant spread to every node in the binomial interest rate tree such that the model price equals the market price. By stripping out the value of the embedded option, it isolates the spread attributable to credit and liquidity risk, making cross-bond comparisons valid. For callable bonds, the OAS will be less than the Z-spread because the Z-spread includes compensation for the call option risk borne by the investor, while OAS does not. Options B and D mischaracterize what OAS measures."
+      "correct": "B",
+      "explanation": "The implied forward rate is calculated using the no-arbitrage relationship: (1 + S3)^3 = (1 + S2)^2 × (1 + f(2,1)). Solving: (1.0455)^3 / (1.0420)^2 − 1 = 1.14257 / 1.08576 − 1 ≈ 5.23%, which is closest to 5.26% when carried to full precision. Under pure expectations theory, forward rates are unbiased predictors of future spot rates, so the 1y2y forward rate reflects the market's expectation of the one-year rate beginning in two years. Liquidity preference theory would adjust this upward, making the pure expectations estimate a lower bound in practice."
     },
     "finance_topic": {
-      "title": "Private Credit's Rise as a Systemic Force",
-      "subtitle": "How the rapid growth of private credit markets is reshaping lending, risk distribution, and financial stability.",
+      "title": "Duration Mismatch and Bank Balance Sheet Risk",
+      "subtitle": "How the gap between asset and liability durations creates hidden interest rate exposure that can destabilize financial institutions.",
       "paragraphs": [
-        "Private credit — encompassing direct lending, mezzanine financing, distressed debt, and specialty finance — has grown from a niche alternative asset class to a $1.7 trillion global market. Unlike broadly syndicated loans or public bonds, private credit transactions are negotiated bilaterally between non-bank lenders (typically asset managers, BDCs, or insurance companies) and borrowers, usually mid-market companies seeking flexible, relationship-driven capital. The asset class has surged as banks retreated from leveraged lending under post-GFC regulatory constraints, leaving a structural gap that private capital eagerly filled.",
-        "The practical significance became clear during the 2022–2023 rate hiking cycle. While the leveraged loan and high-yield bond markets essentially froze for months, private credit continued to close deals — sponsors relied on direct lenders like Ares, Blue Owl, and HPS to finance LBOs that the syndicated market could not absorb. Deals featuring floating-rate structures with SOFR floors actually benefited lenders as rates rose, generating gross yields of 11–13% on senior secured paper. This performance attracted record institutional capital from pension funds and sovereign wealth funds, further entrenching private credit as a permanent pillar of corporate finance.",
-        "For investors and risk managers, private credit introduces distinct challenges that require careful attention. Illiquidity risk is paramount — positions cannot be marked to market daily, creating potential NAV smoothing that understates volatility. Covenant-lite structures have migrated from the syndicated market into direct lending, reducing lender protections. Concentration in sponsor-backed middle-market borrowers creates correlated exposure to private equity cycles. Regulators at the FSB and Fed have flagged interconnections between private credit funds, insurance balance sheets, and systemically important banks as an emerging macro-prudential concern, suggesting the asset class may face a more complex oversight environment ahead."
+        "Duration mismatch occurs when the weighted-average duration of a bank's assets — typically long-term loans and bonds — differs materially from the duration of its liabilities, which are mostly short-term deposits and wholesale funding. Because duration measures price sensitivity to interest rate changes, a bank that holds 10-year fixed-rate mortgages funded by overnight deposits is enormously exposed to rising rates: the present value of its assets collapses while liabilities reprice almost immediately at higher costs. This gap is formally captured by the 'duration gap,' defined as asset duration minus (liabilities/assets × liability duration), and it sits at the heart of asset-liability management (ALM).",
+        "The collapse of Silicon Valley Bank in March 2023 became the textbook illustration of duration mismatch risk in the modern era. SVB had accumulated a massive portfolio of long-dated U.S. Treasuries and agency mortgage-backed securities during the low-rate era, funded by concentrated, rate-sensitive deposits from the venture capital ecosystem. When the Federal Reserve raised rates by over 500 basis points in roughly 18 months, SVB's bond portfolio suffered mark-to-market losses exceeding its equity cushion. A bank run crystallized what had been a theoretical balance sheet vulnerability into a catastrophic liquidity and solvency event — the largest U.S. bank failure since 2008.",
+        "For investors and risk managers, duration mismatch is a first-order variable when evaluating regional and community banks, insurance companies, and pension funds. Institutions that hedge this exposure using interest rate swaps — paying fixed, receiving floating — can neutralize much of the gap, but hedging has a cost and must be sized and monitored continuously. Stress-testing portfolios under parallel and non-parallel rate shocks, monitoring the Economic Value of Equity (EVE) sensitivity metric required under Basel standards, and scrutinizing unrealized losses in held-to-maturity portfolios are all essential practices for any analyst covering financials or managing fixed income risk."
       ],
       "key_takeaways": [
-        "Private credit has become a $1.7T asset class by filling the lending vacuum left by regulated banks, particularly in sponsor-backed mid-market transactions.",
-        "Floating-rate structures made private credit a relative winner during rate hikes, but the same feature creates refinancing and default risk as elevated rates persist.",
-        "Illiquidity, valuation opacity, and growing systemic interconnections are emerging as key risks attracting regulatory scrutiny globally."
+        "Duration gap = asset duration − (L/A × liability duration); a positive gap means rising rates hurt net worth.",
+        "SVB's 2023 failure was a real-world stress test of duration mismatch risk at systemic scale.",
+        "Analysts should monitor EVE sensitivity, HTM unrealized losses, and swap hedging ratios when assessing bank interest rate exposure."
       ]
     },
     "japanese": {
-      "word": "予算",
-      "reading": "yosan",
-      "meaning": "budget; estimate of expenses",
+      "word": "約束",
+      "reading": "yakusoku",
+      "meaning": "promise; appointment; commitment",
       "part_of_speech": "noun",
-      "example_jp": "今月の予算をオーバーしてしまいました。",
-      "example_romaji": "Kongetsu no yosan wo oobaa shite shimaimashita.",
-      "example_en": "I ended up going over budget this month.",
-      "grammar_point": "〜てしまいました",
-      "grammar_explanation": "The pattern 〜てしまいました expresses that something happened to completion, often with a nuance of regret or that the result was unintended. It combines the te-form of a verb with しまいました (the polite past of しまう).",
-      "memory_tip": "Think of 予 as 'beforehand' (pre-) and 算 as 'calculate' (like an abacus with numbers). A YO-SAN is what you calculate BEFORE you spend — your budget. Imagine a samurai carefully calculating his gold coins before a campaign."
+      "example_jp": "明日の会議に遅れないと約束します。",
+      "example_romaji": "Ashita no kaigi ni okurenai to yakusoku shimasu.",
+      "example_en": "I promise I won't be late for tomorrow's meeting.",
+      "grammar_point": "〜と約束する",
+      "grammar_explanation": "The pattern 〜と約束する means 'to promise that...' where と connects the quoted content of the promise to the verb 約束する. Think of と as quotation marks — it marks exactly what you are committing to.",
+      "memory_tip": "Break it into 'yaku' (role/duty) + 'soku' (speed/bundle) — a promise is a duty you are bound to deliver quickly. Imagine signing a contract at lightning speed because you gave your word."
     },
     "ai_strategy": {
-      "headline": "AI Agents Are Quietly Automating the Junior Analyst Workflow",
-      "summary": "A new generation of autonomous AI agents — systems that can plan, use tools, browse data sources, and iterate toward a goal without step-by-step human instruction — is beginning to handle tasks that once defined the junior analyst role: building financial models from earnings transcripts, drafting equity research summaries, running scenario analyses, and monitoring covenant compliance. Firms including JPMorgan, Morgan Stanley, and several large hedge funds are piloting multi-agent architectures where specialized sub-agents handle data retrieval, quantitative analysis, and narrative generation in parallel. The productivity delta is significant: tasks that took analysts two to four hours are being compressed to minutes, with the human role shifting toward prompt engineering, output validation, and judgment calls on ambiguous inputs. This is not displacement in the near term but rather a reallocation of analyst time toward higher-order synthesis and client-facing work — but the implied leverage fundamentally changes headcount economics.",
+      "headline": "AI Agents Are Quietly Automating the Junior Analyst Workflow in Finance",
+      "summary": "A new generation of autonomous AI agents — systems that can plan, search, calculate, and produce structured outputs with minimal human prompting — is being deployed by bulge-bracket banks and hedge funds to handle tasks once assigned to first- and second-year analysts. Bloomberg, Morgan Stanley, and several quant funds have rolled out or publicly discussed large language model integrations that can synthesize earnings transcripts, build preliminary valuation models, screen credit agreements for covenant triggers, and draft client-ready research summaries in minutes rather than hours. Unlike basic ChatGPT-style interactions, these agentic systems can call external tools, retrieve live data, and iterate through multi-step reasoning chains autonomously. The productivity multiplier is real, but so is the pressure on entry-level finance roles to evolve toward higher-order judgment, client interaction, and model oversight.",
       "concepts": [
         {
-          "term": "Agentic AI",
-          "definition": "AI systems that autonomously break down complex goals into sub-tasks, use external tools (APIs, databases, code execution), and iterate toward an objective — analogous to giving an AI intern a brief rather than a single question."
+          "term": "AI Agent",
+          "definition": "An LLM-powered system that can autonomously execute multi-step tasks — such as pulling financial data, running calculations, and drafting reports — by using external tools and self-directed reasoning loops, rather than just answering a single question."
         },
         {
           "term": "Retrieval-Augmented Generation (RAG)",
-          "definition": "A technique where an AI model queries a private or real-time database before generating a response, allowing it to cite current filings, proprietary research, or live market data rather than relying solely on its training knowledge."
+          "definition": "A technique where an AI model retrieves relevant documents or data (e.g., 10-K filings, credit agreements, market data) in real time before generating an answer, dramatically improving factual accuracy and domain specificity in finance applications."
         },
         {
           "term": "Fine-Tuning",
-          "definition": "The process of further training a pre-built foundation model on domain-specific data — such as credit agreements, analyst reports, or risk frameworks — so it produces outputs calibrated to a firm's specific language, standards, and use cases."
+          "definition": "The process of further training a pre-built foundation model on domain-specific financial data — such as analyst reports, deal memos, or risk model outputs — so it speaks the language and applies the conventions of a specific institution or asset class."
         }
       ],
-      "career_insight": "Finance professionals who understand how to design, prompt, and critically evaluate AI agent outputs will command a significant premium over those who simply use AI as a search engine. The most defensible skill set combines domain expertise (knowing when the model is wrong) with workflow design thinking — the ability to decompose analytical processes into steps that AI can execute reliably. Risk and compliance functions in particular should invest in AI literacy now, as model governance and auditability of AI-generated outputs are becoming regulatory expectations, not optional features."
+      "career_insight": "Finance professionals who will thrive are those who can act as effective 'model managers' — critically evaluating AI-generated analysis, knowing when outputs are plausible but wrong, and adding the contextual judgment that agents cannot replicate. Building fluency in prompt engineering, understanding model limitations (hallucinations, training data cutoffs, overconfidence in extrapolation), and pairing technical curiosity with deep domain expertise in credit, valuation, or risk are the highest-ROI skill investments for the next five years."
     },
     "error": false,
-    "market_sentiment": "Global risk assets enter the session on a cautious footing as markets digest a resilient U.S. labor market print that has pushed Fed rate cut expectations further into late 2025, with the first full cut now not priced until Q4. The dollar is bid against G10 peers, putting pressure on EM FX and commodity exporters, while the front end of the Treasury curve has cheapened with 2-year yields testing resistance near 4.85%. Equity sentiment is bifurcated: mega-cap tech continues to find support on AI capex narratives, but rate-sensitive sectors — utilities, REITs, and regional banks — face renewed headwinds as the 'higher for longer' thesis reasserts itself heading into a heavy week of Fedspeak and the next CPI print."
+    "market_sentiment": "Risk appetite is showing early signs of fatigue after a strong first-half equity rally, with markets repricing the 'higher for longer' rate narrative as resilient U.S. labor data and sticky services inflation push back Fed cut expectations into late 2025. The dollar is firm, front-end Treasury yields are drifting higher, and credit spreads have widened modestly in high-yield — a classic late-cycle signal that investors should watch carefully. Commodity markets are split: oil is range-bound amid OPEC+ uncertainty and China demand disappointment, while gold continues to attract safe-haven flows as geopolitical tail risks remain elevated across multiple theaters."
   }
 }
